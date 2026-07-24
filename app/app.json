@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Today in UX",
-    "slug": "today-in-ux",
+    "name": "UX Digest",
+    "slug": "ux-digest",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -9,7 +9,7 @@
     "backgroundColor": "#0D0D10",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.yourcompany.todayinux"
+      "bundleIdentifier": "com.rheagupta.uxdigest"
     },
     "android": {
       "adaptiveIcon": {
