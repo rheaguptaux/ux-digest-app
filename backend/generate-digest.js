@@ -1,9 +1,14 @@
 // Daily UX news digest generator.
-// 1. Pulls articles from a curated list of UX-focused RSS feeds
-// 2. Dedupes by link across feeds (fixes duplicate stories from overlapping tags)
-// 3. Skips anything already summarized before (tracked in seen.json)
-// 4. Sends new articles to Claude to produce a structured, resource-style summary
-// 5. Writes the result to digest.json (what the app reads)
+// 1. Pulls articles from a curated list of UX-focused RSS feeds, including Google
+//    News search results for broader industry coverage beyond Medium/NN Group
+// 2. Dedupes both by link AND by normalized title (catches the same article
+//    republished under a different URL, e.g. Medium tag feed vs a publication's
+//    own domain)
+// 3. Balances selection so high-volume Medium sources don't crowd out
+//    institutional/broader sources
+// 4. Skips anything already summarized before (tracked in seen.json)
+// 5. Sends new articles to Claude to produce a structured, resource-style summary
+// 6. Writes the result to digest.json (what the app reads)
 //
 // Run with: ANTHROPIC_API_KEY=sk-... node generate-digest.js
 
@@ -17,17 +22,32 @@ const parser = new Parser({
     item: [
       ["media:content", "mediaContent", { keepArray: true }],
       ["media:thumbnail", "mediaThumbnail"],
+      ["source", "gnSource"],
     ],
   },
 });
 
 // --- Configure your sources here ---
-// "type": "research" -> institutional/official sources, shown as Trending/This week
-// "type": "opinion"  -> Medium-based essays and personal takes, shown in their own Opinions section
+// "type": "research" -> institutional/broader sources (Trending today / This week)
+// "type": "opinion"  -> Medium-based essays, shown in their own Opinions section
+// "aggregated": true -> a multi-publisher feed (Google News) where each item's
+//   real source comes from the item itself, not the feed title
 const FEEDS = [
   { url: "https://www.nngroup.com/feed/rss/", type: "research", category: "Research" },
   { url: "https://www.smashingmagazine.com/feed/", type: "research", category: "Design & dev" },
   { url: "https://alistapart.com/main/feed/", type: "research", category: "Design & dev" },
+  {
+    url: "https://news.google.com/rss/search?q=UX%20design%20when:7d&hl=en-US&gl=US&ceid=US:en",
+    type: "research",
+    category: "Industry news",
+    aggregated: true,
+  },
+  {
+    url: "https://news.google.com/rss/search?q=UX%20research%20when:7d&hl=en-US&gl=US&ceid=US:en",
+    type: "research",
+    category: "Industry news",
+    aggregated: true,
+  },
 
   { url: "https://medium.com/feed/tag/ux", type: "opinion", category: "UX" },
   { url: "https://medium.com/feed/tag/ux-research", type: "opinion", category: "Research" },
@@ -36,8 +56,11 @@ const FEEDS = [
   { url: "https://uxplanet.org/feed", type: "opinion", category: "UX" },
 ];
 
-const MAX_ITEMS_PER_DAY = 10; // total across all sources — keeps it curated, not a firehose
-const MAX_ARTICLE_AGE_DAYS = 7; // matches the "this week" window shown in the app
+const MAX_ITEMS_PER_DAY = 10;
+// Reserve most slots for research/institutional/Google News sources so Medium's
+// higher publishing volume doesn't dominate the digest by sheer count.
+const MAX_RESEARCH_ITEMS = 6;
+const MAX_ARTICLE_AGE_DAYS = 7;
 const SEEN_FILE = path.join(process.cwd(), "seen.json");
 const OUTPUT_FILE = path.join(process.cwd(), "..", "digest.json");
 
@@ -64,16 +87,29 @@ function extractImage(item) {
   return match ? match[1] : null;
 }
 
+// Google News titles look like "Headline - Publisher Name"
+function extractGoogleNewsSource(item) {
+  if (item.gnSource) return item.gnSource;
+  const parts = item.title?.split(" - ");
+  return parts && parts.length > 1 ? parts[parts.length - 1].trim() : "Google News";
+}
+
+function cleanGoogleNewsTitle(title) {
+  const parts = title?.split(" - ");
+  return parts && parts.length > 1 ? parts.slice(0, -1).join(" - ").trim() : title;
+}
+
 async function fetchAllFeeds() {
   const results = [];
   for (const feed of FEEDS) {
     try {
       const parsed = await parser.parseURL(feed.url);
       for (const item of parsed.items) {
+        const title = feed.aggregated ? cleanGoogleNewsTitle(item.title) : item.title?.trim();
         results.push({
-          title: item.title?.trim() ?? "(untitled)",
+          title: title ?? "(untitled)",
           link: item.link,
-          source: parsed.title ?? feed.url,
+          source: feed.aggregated ? extractGoogleNewsSource(item) : parsed.title ?? feed.url,
           category: feed.category,
           type: feed.type,
           image: extractImage(item),
@@ -88,14 +124,26 @@ async function fetchAllFeeds() {
   return results;
 }
 
-// Removes duplicate stories that show up in more than one feed (e.g. the same
-// article tagged both "ux" and "product-design" on Medium)
-function dedupeByLink(articles) {
+function normalizeTitle(title) {
+  return (title ?? "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
+// Removes duplicate stories that show up in more than one feed — either the
+// exact same link, or the same article republished under a different URL
+// (e.g. tagged on Medium AND cross-posted to a publication's own domain).
+function dedupe(articles) {
   const seenLinks = new Set();
+  const seenTitles = new Set();
   const out = [];
   for (const a of articles) {
     if (!a.link || seenLinks.has(a.link)) continue;
+    const normTitle = normalizeTitle(a.title);
+    if (normTitle && seenTitles.has(normTitle)) continue;
     seenLinks.add(a.link);
+    if (normTitle) seenTitles.add(normTitle);
     out.push(a);
   }
   return out;
@@ -108,12 +156,21 @@ function isRecent(pubDate) {
 }
 
 // Recency bucket used in place of real "trending" data (RSS feeds don't expose
-// claps/likes/shares) — this is what powers the "Trending today" vs "This week"
-// sections in the app.
+// claps/likes/shares) — this powers the "Trending today" vs "This week" sections.
 function publishedWindow(pubDate) {
   if (!pubDate) return "week";
   const hours = (Date.now() - new Date(pubDate).getTime()) / 3600000;
   return hours <= 30 ? "today" : "week";
+}
+
+// Guarantees research/institutional/Google News sources get most of the slots,
+// regardless of how many more Medium posts exist in the candidate pool.
+function selectBalanced(candidates) {
+  const sorted = [...candidates].sort((a, b) => new Date(b.pubDate ?? 0) - new Date(a.pubDate ?? 0));
+  const research = sorted.filter((a) => a.type !== "opinion").slice(0, MAX_RESEARCH_ITEMS);
+  const remainingSlots = MAX_ITEMS_PER_DAY - research.length;
+  const opinion = sorted.filter((a) => a.type === "opinion").slice(0, Math.max(0, remainingSlots));
+  return [...research, ...opinion].sort((a, b) => new Date(b.pubDate ?? 0) - new Date(a.pubDate ?? 0));
 }
 
 async function summarizeBatch(articles) {
@@ -165,16 +222,14 @@ async function main() {
   const all = await fetchAllFeeds();
   console.log(`Fetched ${all.length} raw items across ${FEEDS.length} feeds`);
 
-  const deduped = dedupeByLink(all);
-  console.log(`${all.length - deduped.length} duplicates removed (same article, multiple feeds)`);
+  const deduped = dedupe(all);
+  console.log(`${all.length - deduped.length} duplicates removed (same link or same title, different feed)`);
 
   const seen = await loadSeen();
 
-  const fresh = deduped
-    .filter((a) => a.link && !seen.has(a.link))
-    .filter((a) => isRecent(a.pubDate))
-    .sort((a, b) => new Date(b.pubDate ?? 0) - new Date(a.pubDate ?? 0))
-    .slice(0, MAX_ITEMS_PER_DAY);
+  const candidates = deduped.filter((a) => a.link && !seen.has(a.link)).filter((a) => isRecent(a.pubDate));
+
+  const fresh = selectBalanced(candidates);
 
   if (fresh.length === 0) {
     console.log("No new articles today. Leaving existing digest.json untouched.");
@@ -192,6 +247,7 @@ async function main() {
     tags: summaries[i]?.tags ?? [a.category],
     featured: summaries[i]?.featured ?? false,
     type: a.type,
+    category: a.category,
     publishedWindow: publishedWindow(a.pubDate),
     image: a.image,
     source: a.source,
