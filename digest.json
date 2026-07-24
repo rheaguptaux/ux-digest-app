@@ -1,235 +1,234 @@
 {
-  "generatedAt": "2026-07-24T11:42:01.965Z",
+  "generatedAt": "2026-07-24T17:16:05.043Z",
   "items": [
     {
-      "headline": "Fighting AI's pull toward mediocre output",
-      "background": "As AI writing and design tools become default parts of creative workflows, practitioners are raising concerns that defaulting to AI-generated output is compressing quality toward an unremarkable average — producing work that is competent but indistinct.",
+      "headline": "Good products build confidence, not just usability.",
+      "background": "UX practitioners often frame redesign work in terms of visual polish or interaction efficiency, but emotional outcomes like user confidence are harder to measure and easier to overlook in briefs and retrospectives.",
       "keyFindings": [
-        "AI tools optimize for acceptable output, not exceptional output, creating systematic pressure toward the mean",
-        "Practitioners who rely on AI without a strong editorial or creative filter risk producing work indistinguishable from competitors using the same tools",
-        "Developing a distinct point of view and taste is positioned as the primary defense against AI-driven homogenization"
+        "The author reframed a UI redesign as an exercise in building user confidence rather than improving aesthetics",
+        "Emotional states like uncertainty and hesitation can be the root cause of abandonment even when usability metrics look fine",
+        "Designing for confidence requires attending to feedback loops, error recovery, and tone — not just layout"
       ],
-      "implications": "For UX and product writers, the risk is not being replaced by AI but becoming interchangeable with everyone else using it. Maintaining a sharp creative standard and using AI as a starting point rather than an endpoint is the practical counter.",
+      "implications": "When scoping redesign work, consider auditing for emotional friction separately from usability friction. A product can be technically usable but still feel risky or opaque to users making consequential decisions.",
       "tags": [
-        "AI tools",
-        "Content strategy",
-        "Design quality"
+        "Emotional Design",
+        "Redesign",
+        "User Confidence"
       ],
-      "featured": true,
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1807/1*SzVh4ywVxcFV5JlpyZLd7A.jpeg",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@matthias.bendler/why-great-products-need-to-feel-right-727d87932f53?source=rss------product_design-5",
+      "pubDate": "Fri, 24 Jul 2026 16:56:03 GMT"
+    },
+    {
+      "headline": "Artifact-led workflows signal what design teams actually value.",
+      "background": "As AI tools accelerate design output velocity, teams are producing more deliverables faster — raising questions about how those artifacts are organized, prioritized, and what that structure reveals about team culture.",
+      "keyFindings": [
+        "The way a team categorizes and sequences design artifacts reflects its underlying values and decision-making logic",
+        "High-velocity output environments risk producing artifacts that are disconnected from meaning or rationale",
+        "An individual artifact-led workflow puts the designer in control of narrative rather than deferring to tooling defaults"
+      ],
+      "implications": "Teams adopting AI-assisted design workflows should audit how artifacts are named, stored, and linked to decisions — otherwise speed gains may produce a trail of outputs with no recoverable reasoning.",
+      "tags": [
+        "Design Systems",
+        "Workflow",
+        "AI tools"
+      ],
+      "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2388/1*AmFyXhpWu-1nF8VVDvrZdQ.png",
+      "image": "https://cdn-images-1.medium.com/max/1377/1*v-cp1HdX43A0rWLENlzQ4Q.jpeg",
       "source": "UX on Medium",
-      "link": "https://uxdesign.cc/the-aggressively-mediocre-fight-ed47b3f9f8f4?source=rss------ux-5",
-      "pubDate": "Fri, 24 Jul 2026 11:09:23 GMT"
+      "link": "https://medium.com/@helloyouexperiment/the-individual-artifact-led-workflow-designer-edition-ad4d6a6d71d3?source=rss------ux-5",
+      "pubDate": "Fri, 24 Jul 2026 16:48:10 GMT"
     },
     {
-      "headline": "Two years using session recordings as a design research tool",
-      "background": "Product designers often struggle to access quantitative behavioral data quickly, relying on engineers or analysts as intermediaries. Session recording tools have matured to the point where designers can self-serve this data directly.",
+      "headline": "Top Flutter dev agencies in Europe for 2026.",
+      "background": "Flutter has matured as a cross-platform framework and companies sourcing development partners increasingly need vetted shortlists specific to region and technology stack.",
       "keyFindings": [
-        "After two years, the author found session recordings reduced the time to answer quantitative design questions from days to under 30 minutes",
-        "Direct access to session data let designers validate assumptions about user flows without waiting on data teams",
-        "The workflow shift required building habits around when to pull recordings versus running formal usability tests"
+        "The list covers eight European firms with Flutter specialization relevant to 2026 project planning",
+        "European Flutter agencies vary significantly in industry focus and team size",
+        "The roundup is oriented toward procurement decisions rather than technical benchmarking"
       ],
-      "implications": "Session recording tools are most valuable when integrated into regular design review cycles, not used reactively. Teams should establish clear norms for when self-serve behavioral data is sufficient versus when structured research is needed.",
+      "implications": "Useful as a starting-point vendor list if you're scoping Flutter development in Europe, but treat it as a directory entry point rather than an independent audit — verify portfolios and client references independently.",
       "tags": [
-        "Research methods",
-        "Session recording",
-        "Data democratization"
+        "Flutter",
+        "Development Agencies",
+        "Mobile"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Technology Org",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTGVNWnp6eklUblNFOTZ2R3BiZEJJY1dFV3VWWUdGQkl6RklEcmZWc0ZhVWRlRUhTRVluVDdGVTJ0VGJDWTc2VUh6ZGRhWjF6QmF0d1A1eVhyNWlBc3hBc3FGdGFFT0l0ejVHM29vRUIxQTlqaDhLSkR1eExVbmpOejdGcXBaU0NlQ0ZYWkdUZEplcjdBWUhGbw?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 16:46:42 GMT"
+    },
+    {
+      "headline": "Dark UX patterns: a practical breakdown of manipulative design.",
+      "background": "Dark patterns have received regulatory and academic attention for years, but many practitioners still encounter them framed as legitimate conversion optimization techniques within their own organizations.",
+      "keyFindings": [
+        "Dark UX encompasses patterns like hidden costs, forced continuity, roach motels, and misdirection that exploit cognitive biases",
+        "These patterns may produce short-term conversion gains but erode trust and increase churn over time",
+        "Regulatory scrutiny of dark patterns is increasing, with the EU's DSA and FTC actions creating legal exposure"
+      ],
+      "implications": "Product and UX teams should be able to identify and name specific dark patterns when pushing back on conversion-driven requests — vague appeals to 'ethics' are less effective than pointing to defined patterns and documented legal risk.",
+      "tags": [
+        "Dark Patterns",
+        "Ethics",
+        "Conversion"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1400/0*Pirkus7b7CNwNIXp",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@nanazevelyn4/exploring-dark-ux-the-hidden-pitfalls-of-design-09b2f9484c70?source=rss------ux-5",
+      "pubDate": "Fri, 24 Jul 2026 16:04:13 GMT"
+    },
+    {
+      "headline": "5 service design lessons from a luxury senior living community.",
+      "background": "Designing services for healthy ageing is a growing challenge as populations age globally, but most case studies come from healthcare or social care contexts rather than premium residential ones.",
+      "keyFindings": [
+        "Aspen Tree at The Forestias in Thailand designs for long-term resident wellbeing, not just point-of-sale experience — service touchpoints extend years post-purchase",
+        "Key lessons include designing for evolving capability, building in social infrastructure, and treating families as secondary users",
+        "The case highlights a gap between how ageing services are marketed and how they actually need to perform over a 10–20 year residency"
+      ],
+      "implications": "Service designers working on long-tenure products — senior living, insurance, healthcare plans — should map service journeys on a years-long timescale, not just onboarding and key transactions. Secondary users like family caregivers often become primary over time.",
+      "tags": [
+        "Service Design",
+        "Healthy Ageing",
+        "Long-term CX"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1920/1*DmzJsLrBJXWq4GmfxJdMog.jpeg",
+      "source": "Product Design on Medium",
+      "link": "https://pawarisa-worakunpisit.medium.com/designing-healthy-ageing-5-service-design-lessons-from-aspen-tree-at-the-forestias-37934b908ceb?source=rss------product_design-5",
+      "pubDate": "Fri, 24 Jul 2026 15:53:08 GMT"
+    },
+    {
+      "headline": "Study identifies 10 high-paying, low-stress careers.",
+      "background": "Career stress and compensation are perennial concerns, but this piece is a general-interest labor market item with no specific relevance to UX, product, or tech practice.",
+      "keyFindings": [
+        "The study ranks roles by a combination of salary data and self-reported stress levels",
+        "The list is drawn from broad occupational categories rather than tech-specific roles",
+        "No UX or product roles are highlighted in the snippet"
+      ],
+      "implications": "Not directly relevant to UX or product practitioners. Skip unless you're researching career benchmarking broadly.",
+      "tags": [
+        "Career",
+        "Labor Market"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "SILive.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONms2NExfaXN1clZVUEJiREZ3eDZNbU5OYUU1TDh2ZUNIZ2tPVWphaHNLa2hFaEdHckNXZmR0OFoyVzJIOHh5Y2IzMzVWVFUtOTNUVFhhYnV0a1JRazRpeGRqQTZSVFlSb2pyVXRtbkZ0OVBsc09UNk4wTnRwQnY1UmRYbmFKN0dCOW1ZRWlmOEFiUlptaHczZ2c0WUxGSzdYN1UxY0RGWDPSAbwBQVVfeXFMTlN2QjNrUjBjdkhva0xDVTFzNEx4eFpGNlptYkNnU2hjVWt6ckV6TTRFa0pESlZUOC1MSWVyTXg5bk0xWV91bUhscU5aa2N4QkV6bGEyejhSZUh3aS1MdEE5M3AzQ2lWQVdidmd6VzBhR25oR00yOWpfZGYwZFhUMmJMS2F5VjNlbUNpcmRoWHBZcUZ3U3ZnTG9WNURvOGpUeW4xQlFOM1B6MDJnYzRFbTNZT3p5NmNaRDdlQkY?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 14:40:00 GMT"
+    },
+    {
+      "headline": "Walking infrastructure has UX and civic design implications.",
+      "background": "Urban walkability is increasingly understood as a design problem — one that intersects public health, city planning, and the design of physical environments — but this piece is written for a general Singaporean audience.",
+      "keyFindings": [
+        "The article argues walkability benefits extend beyond health to economic activity and community cohesion",
+        "Singapore's urban density makes pedestrian infrastructure a high-leverage design intervention",
+        "The piece does not present new research but synthesizes existing public health and urban planning arguments"
+      ],
+      "implications": "Tangentially relevant for designers working on urban services, wayfinding, or civic tech in dense Asian cities. Not actionable for most product or digital UX practitioners.",
+      "tags": [
+        "Urban Design",
+        "Walkability",
+        "Civic Tech"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "CNA",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkRIbkF6amQzTHFqNWRkZndUdUU1aFZNTExSa0Z4bVRIcklZVE5wZWpRa1Vzd1psV0F0eFU2MVQyRVNzRTdCdWFRWGhleVp0XzRWWUdFY1hQaFJPZndLUGxpbEhfb0Jic0dpdHB3cUx3RklIakpUUzlaVlJ4UTNCV1llNUZKSUJFQTh3RlVqSF93OHAwWk9tZVlFNDI4OU8yMWhrbklB?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 13:30:00 GMT"
+    },
+    {
+      "headline": "Nielsen roundup: carousels, bulk actions, peak-end rule, AI doubling.",
+      "background": "Jakob Nielsen's periodic UX roundups synthesize multiple active debates in the field. This edition covers several distinct topics that each merit practitioner attention, from interface patterns to AI adoption metrics.",
+      "keyFindings": [
+        "AI tool use in professional contexts roughly doubled in one year, based on cited usage data — a significant adoption acceleration",
+        "The peak-end rule is revisited as a lens for evaluating AI-generated experiences, not just traditional interfaces",
+        "Carousel components and bulk action patterns are assessed with updated guidance reflecting current interaction norms"
+      ],
+      "implications": "The AI adoption rate finding has direct implications for assumptions embedded in product strategy and competitive analysis — if your roadmap was built on slower AI adoption curves, it may need revision. The peak-end rule framing for AI interactions is worth applying to chatbot and copilot experience design.",
+      "tags": [
+        "AI Adoption",
+        "Interaction Patterns",
+        "Cognitive Bias"
       ],
       "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*ZFJfcJARU6hs8w_3yJv84w.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.muz.li/data-democratization-for-product-designers-2-years-with-session-recording-ea2d5d661da9?source=rss------product_design-5",
-      "pubDate": "Fri, 24 Jul 2026 11:01:01 GMT"
-    },
-    {
-      "headline": "A 20-day AI experiment changed the author's skepticism — unexpectedly",
-      "background": "AI skepticism among designers and knowledge workers is common, often based on early disappointment with output quality or concerns about creative displacement. Structured, extended experiments with AI tools tend to produce more nuanced conclusions than short trials.",
-      "keyFindings": [
-        "Twenty days of deliberate AI use shifted the author's skepticism, but not by proving AI is broadly capable",
-        "The change was about identifying specific, narrow tasks where AI adds genuine value rather than wholesale adoption",
-        "Skepticism about AI's creative role remained; the shift was in recognizing its utility as a process tool"
-      ],
-      "implications": "For practitioners sitting out AI tools on principle, a time-boxed structured trial focused on specific workflow tasks is more informative than general experimentation. Conclusions are more reliable when the test conditions are defined upfront.",
-      "tags": [
-        "AI tools",
-        "Workflow",
-        "Design process"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
+      "type": "research",
+      "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@anugrahajawahar/day-20-i-started-this-to-fix-my-ai-skepticism-it-worked-just-not-the-way-i-expected-959a0de0d3ce?source=rss------product_design-5",
-      "pubDate": "Fri, 24 Jul 2026 03:21:04 GMT"
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lcC1YeGRPb1gwdm44T1VLRjQ1eWRKa3VJaWhNNDZQb0lpUElySWFQZndMMDZod2NDUXgyOXpidHd6emZtbHNDWXVCUkZZbjFTRGhOdDR1U0M0OWVBcWxSR0d2LWVDLUtUbFE?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 11:21:02 GMT"
     },
     {
-      "headline": "Why jumping to solutions before understanding problems backfires",
-      "background": "Premature problem-solving is a persistent failure mode in product and UX work, where teams skip problem definition and move directly to solutions — often solving the wrong thing efficiently. This piece revisits the case for front-loading understanding.",
+      "headline": "EA acquisition approved; Xbox tests ad-supported games.",
+      "background": "The games industry is undergoing significant consolidation and business model experimentation, with implications for platform design, monetization UX, and developer tooling ecosystems.",
       "keyFindings": [
-        "Most problem-solving failures stem from misdiagnosis at the framing stage, not execution failures downstream",
-        "Spending structured time defining the problem before generating solutions consistently improves solution relevance",
-        "The 'understanding first' approach requires resisting organizational pressure to show visible progress quickly"
+        "The EU approved a Saudi-led acquisition of EA, clearing a major regulatory hurdle for games industry consolidation",
+        "Xbox is trialing an ad-supported game access model, which would introduce advertising UX into traditionally ad-free console experiences",
+        "Both developments signal continued pressure on traditional premium game pricing models"
       ],
-      "implications": "In sprint-driven environments, the pressure to produce artifacts early actively works against good problem framing. Teams should build explicit problem-definition phases into their process and treat reframing as a deliverable, not a delay.",
+      "implications": "If ad-supported game models gain traction on console, UX designers in games will face new constraints around ad placement, frequency, and non-disruptive interruption design — a set of challenges already well-documented in mobile but largely absent from console conventions.",
       "tags": [
-        "Problem framing",
-        "Design process",
-        "Product thinking"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@junaidmaniyar/why-most-problem-solving-fails-the-power-of-understanding-first-961773545425?source=rss------ux_research-5",
-      "pubDate": "Fri, 24 Jul 2026 03:00:18 GMT"
-    },
-    {
-      "headline": "Ceremony pitches matcha as a premium ritual product",
-      "background": "The specialty beverage market has seen growing consumer interest in non-coffee alternatives, with matcha in particular attracting direct-to-consumer brands targeting health-conscious and ritual-focused buyers.",
-      "keyFindings": [
-        "Ceremony positions matcha consumption as a deliberate daily ritual rather than a functional caffeine substitute",
-        "The brand uses premium sourcing and preparation guidance as core product differentiators",
-        "Target audience appears to be consumers who already pay a premium for coffee and are open to category switching"
-      ],
-      "implications": "Limited direct relevance to UX or product practice. Of peripheral interest to those working on DTC e-commerce, health, or lifestyle product UX where ritual and habit formation are core to retention.",
-      "tags": [
-        "DTC",
-        "Brand positioning",
-        "Consumer products"
+        "Games Industry",
+        "Monetization",
+        "Ad-supported Models"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Wanted Online",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0MyOFBqZnd4NW9CRDlfSTNFdzZnb3dleDM1QXhMSkNSWjF5TjRmRHExWFVxcXloS2hNSDFLSERDRTI2NTJBV0pTZDhfc3lKM2V1VTM4T19nRk12YkxKWEtDUUMyd3VwT2VyaExiNzQ1OEVxSjhIZUMwNUFrLWdvRkI5bld2VGpnYmtmM21yWWROM3hDdnhvNVdscm50ZUp2NUhv?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 03:00:00 GMT"
+      "source": "GameDev.net",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSktLNHEyb3RuSVV2MTFtOGozalIteE13YmRLRlVxbjFiTEhDRVBkUXZyN0NLd0hGdFJRY1FJM0tRejZ4Q2JaaXlxN1A0eVlBUjRGUHlHLUIzRDdBVkZvaTBYRXRYVnM4QW9CdXByUi1wNlZzUkxWcXM2NjZxWUx1eGxoRF92YVEtWDlzbnRqeExXWFJ6eWVSUXIyY3EzTDlnMTBFWE9oYkZvdE1icnlTX3dhdks3WVZnejh2UzhGMUlNYnpTSU9lWGw5ZEo5a1FmWEFqRS1SNFlSSkFpMFE3ZXRLQQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 10:30:20 GMT"
     },
     {
-      "headline": "KT rolls out AI tools across its entire workforce",
-      "background": "Large enterprises are moving beyond AI pilots to company-wide deployment, raising practical questions about change management, tool integration, and how AI capabilities get embedded in non-technical roles.",
+      "headline": "AI system teaches Braille to visually impaired learners.",
+      "background": "Braille literacy rates have declined among visually impaired populations partly due to the cost and scarcity of qualified teachers and tactile learning materials. AI-assisted tools are being proposed as a scalable supplement.",
       "keyFindings": [
-        "KT is expanding its AID-X AI platform from select teams to all employees company-wide",
-        "The rollout prioritizes embedding AI into existing workplace workflows rather than replacing them",
-        "Company-wide deployment signals a shift from AI as experiment to AI as standard operating infrastructure"
+        "The University of Houston lab developed an AI-powered system specifically designed to teach Braille reading and writing",
+        "The system is designed to provide personalized feedback that traditionally requires a specialist instructor",
+        "The project addresses an accessibility gap where existing screen reader adoption has not reversed declining Braille literacy"
       ],
-      "implications": "For teams designing internal tools or enterprise software, company-wide AI rollouts create new UX requirements around onboarding at scale, role-specific interfaces, and managing uneven AI literacy across an organization.",
+      "implications": "For accessibility-focused designers and technologists, this is a concrete example of AI applied to a genuine assistive gap rather than convenience automation. It's worth tracking as a model for AI intervention in underserved assistive technology contexts.",
       "tags": [
-        "Enterprise AI",
-        "Internal tools",
-        "Workforce technology"
+        "Accessibility",
+        "Assistive Technology",
+        "AI tools"
       ],
-      "featured": false,
+      "featured": true,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLTBlQ3dDQXhqVlRZN1d6OUJJNVhmMndqUHpobklkYWpDSk0tYmZfY3RZZm9PU2tqdE1iMml0Q29CaW5peHp1T010bEI5TDNIM0JncUlqVnBRNW9EcDVwNHN1QkUwUks3NU1ScG5vUXBBcFkxVjFIcno4RXFlWU9WVy02MV9BU0lsZW1Uc0lMMFNwSHMwZU5raEdkWWFOLWpBdEtZ?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 23:59:09 GMT"
-    },
-    {
-      "headline": "Car rental app development company rankings for 2027",
-      "background": "Vertical-specific app development is a mature market segment, and periodic rankings of development vendors serve procurement and sourcing needs for companies building in that category.",
-      "keyFindings": [
-        "The list targets companies planning to build or overhaul car rental mobile apps in the near term",
-        "Rankings appear based on portfolio breadth and claimed platform expertise rather than independent performance data",
-        "No UX-specific methodology or user outcome metrics are cited in the ranking criteria"
-      ],
-      "implications": "Minimal relevance to UX or product research. Rankings of this type should be treated as vendor marketing directories rather than independent assessments; independent reference checks and portfolio reviews remain necessary.",
-      "tags": [
-        "Vendor selection",
-        "Mobile development",
-        "App development"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "WhaTech",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNldoOG5hT1NPc0ZlOG1oRzNIVTJjNkRrVUh2bE1XY2xSVUNISG1wMVRxSVhHc1c1X184ckhuRW1TOTYxQXp3NVY4dktnME5LOTNtbWl0ZVNyZDJIVDRJYjlFUHBCd0dESG1GaDZMc3pNQXhYS2puWDFWZHNmMXhSQm5qZ1FjZklSSGxEbThpcTB6azVWWGtCNzhIVHdxd3ZMTm1uMEtHMnPSAa4BQVVfeXFMT1BwVzY5QlhWZ1ZKT1pmcU5RYk5WeDh0WjJoVkxXcU5rVGNyOG02dTFoSGtSYm1tZjRDQUVEM0hFdjlTRjRrS0N1cElwOVEyVDV1NnhBZU10MkM4UkRqZjR3ZTV0U2ZTb2g1VUtVemZHRHJxUWlVbklhSmRxNGpNS0tDcF9FUk53MlNkN240bHVBR0E2NEFZb0FMUExjM2ZydHN5cm5iYjlBZmFyU3dn?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 21:35:28 GMT"
-    },
-    {
-      "headline": "Bilendi keeps revenue flat while pivoting to AI-native research",
-      "background": "Bilendi is a European market research and data collection company undergoing a strategic shift toward AI-driven insights products. Flat revenue during a transformation period is a common signal of transition costs versus growth.",
-      "keyFindings": [
-        "Bilendi held H1 revenue steady, with international growth offsetting softness in core markets",
-        "The company is repositioning from traditional data collection toward an AI-native insights platform",
-        "Stable revenue during a strategic pivot suggests the transition has not yet produced growth acceleration"
-      ],
-      "implications": "For UX researchers and insights teams evaluating research platform vendors, Bilendi's transformation is worth monitoring — platform pivots to AI-native architectures often change data collection methods, output formats, and pricing models in ways that affect research workflows.",
-      "tags": [
-        "Research platforms",
-        "Market research",
-        "AI transformation"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWDV4WEw0MjBQODNxWEJocGRobGpNdHpiX3RJM0M1TVRSSzVMdDdMWERyR3VpdkNTOHdydl8xU09WVW9iSkRjOVZRUVJ4N1V0UDM2NG04NTYxQUVDQ2xjSFc4aVAyYU5oeWhhY21CR0hMYmdSLWpyVmNSRXJ0QVlac01WQ2tuWENrRDczUDRiQS1pSUo0aHJSTXFqbXZ1OHpIdkRPNWx6MHZyVEhHSmpZUGJqVjlfWXFPNzVGdWVEM1pQaW9zNU1MMzROSC1UVUh2dFlNYkZiQVA?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 16:28:36 GMT"
-    },
-    {
-      "headline": "Hyundai profit drops 20.8% under tariff, currency, and demand pressure",
-      "background": "Hyundai's financial results reflect broader pressures facing global automakers: US tariff exposure, won-dollar currency volatility, and softening EV demand in key markets.",
-      "keyFindings": [
-        "Operating profit fell 20.8% year-over-year, driven by three compounding challenges identified in the report",
-        "Tariff impacts from US trade policy are cited as a primary near-term earnings headwind",
-        "The results indicate pressure on Hyundai's investment capacity for digital and software-defined vehicle development"
-      ],
-      "implications": "Largely a financial news item with indirect relevance to UX practitioners working in automotive or mobility tech — constrained OEM budgets typically slow investment in in-vehicle UX, connected services, and digital product teams.",
-      "tags": [
-        "Automotive",
-        "Business strategy",
-        "Industry news"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObnlveHFCWlFmZVVJdUppeEdoaUZSaXpHTkVlQkI2X01tR3hVcjEwbTJrektieEZQMm13eU1SeHBfNk1fUUx6ZVZkQnYwODNEUHVhaFlpbGpKckhlWU9nOVZGajE5QzNGWHR5aHZWT1hnMFNwdHNyZy0zSThvNkZvRG45SC11WGxt?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 15:56:43 GMT"
-    },
-    {
-      "headline": "Bilendi H1 2026 revenue holds at €43.2M during AI pivot",
-      "background": "This is the primary financial results release underlying the Bilendi coverage above, providing the specific revenue figure and strategic framing directly from the company.",
-      "keyFindings": [
-        "H1 2026 revenue was €43.2 million, flat year-over-year",
-        "International business growth is explicitly cited as offsetting domestic market softness",
-        "The company's stated goal is to become a 'global AI-native insights platform,' signaling a fundamental product repositioning"
-      ],
-      "implications": "Researchers and procurement leads at companies using Bilendi for panel data or survey infrastructure should track how its AI-native transition affects data quality standards, methodology transparency, and contract terms.",
-      "tags": [
-        "Market research",
-        "Research platforms",
-        "AI transformation"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTnhpSkZOSWlSUEp4Yk5ESWNrVnVQc2lYcWxBS3RLRHFqaS1mSlBsdmZ1R0VKcGhQS0g1a3FtSXBkbWNwVUowc2RUcnNSSHhyMXc5T21ZNzdpd3RwTTdnNjg3djUxbTRvZ0tkNFd1c1FHMFJOYnB6SjhTenJKMzhmTjJsMU8xQmZxN08tSS1LQ0RvN3FjV25Vd2dsbzdCUEFBMmtrY1BiSHVlMHdDeHRHZkdSZk5TQTAtTWRxZWZWSkF4SWpjRnVyazhVLWJfRGNqc1NmUzBRckpZSjF1UmNOM0hJODluQQ?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 15:41:05 GMT"
+      "source": "University of Houston",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS2VVWW5YTHpIbEM4dUozR2FzOGZPZjZNSHBMbnFoOE05VzEybXlNdnhiZW9GcWl6NDhIWkRXSzcyNVlYNnRSN2dQWlkxblBiY3hzVlBzSXhMV2RybnBjYjFSbGJpV2NFbmpTWEhaOXlmNFdpcHViR3dMUkNiblEzVG9LQ3AzWmh4Wmc?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 15:36:59 GMT"
     }
   ]
 }
