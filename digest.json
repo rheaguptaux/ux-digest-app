@@ -1,29 +1,69 @@
 {
-  "generatedAt": "2026-07-24T12:00:00.000Z",
+  "generatedAt": "2026-07-24T09:04:26.331Z",
   "items": [
     {
-      "headline": "Why most onboarding flows lose users in the first 30 seconds",
-      "summary": "A new study breaks down where people drop off during app onboarding and finds it's usually too many decisions up front, not too little information. The fix is deferring choices until they matter.",
-      "source": "Nielsen Norman Group",
-      "category": "Research",
-      "link": "https://www.nngroup.com/articles/",
-      "pubDate": "2026-07-23T09:00:00.000Z"
+      "headline": "Self-service kiosks fail when no one's there to help",
+      "summary": "When you remove a human cashier or attendant from a payment experience, users lose their sense of control and reassurance. This piece looks at how self-service kiosk design needs to compensate for that missing human presence. UX practitioners working on checkout flows or unattended systems will find it relevant.",
+      "source": "Product Design on Medium",
+      "category": "Product design",
+      "link": "https://medium.com/@TeddyGraphics_34506/the-future-of-self-service-kiosks-and-unattended-payment-is-a-sense-of-control-problem-d2388d578295?source=rss------product_design-5",
+      "pubDate": "Fri, 24 Jul 2026 07:32:32 GMT"
     },
     {
-      "headline": "Designers are quietly replacing dropdowns with search",
-      "summary": "A growing pattern across major products swaps long dropdown menus for a simple search-as-you-type field. It's faster for users and easier to maintain as option lists grow.",
-      "source": "UX Collective",
+      "headline": "AI helps with design steps, but humans must connect them",
+      "summary": "AI tools can help speed up research, ideation, and testing, but they struggle to carry context and intent from one design phase to the next. This article offers a practical workflow for keeping humans accountable at the transitions between steps. Worth reading if you're trying to responsibly add AI into your design process.",
+      "source": "Product Design on Medium",
+      "category": "Product design",
+      "link": "https://medium.com/@sivakowsik/ai-can-accelerate-every-stage-of-design-it-cannot-own-the-handoffs-09a31deecb1b?source=rss------product_design-5",
+      "pubDate": "Fri, 24 Jul 2026 07:02:37 GMT"
+    },
+    {
+      "headline": "UX designers help people buy more — is that a problem?",
+      "summary": "This piece argues that UX design plays a role in driving overconsumption by making buying too easy and frictionless. It's part of a longer series questioning whether designers should take more ethical responsibility for what they build. Relevant for anyone thinking about the broader impact of their design decisions.",
+      "source": "Product Design on Medium",
+      "category": "Product design",
+      "link": "https://medium.com/@andreifeldi/consumerism-is-also-a-ux-problem-1ba7480096bb?source=rss------product_design-5",
+      "pubDate": "Fri, 24 Jul 2026 07:01:02 GMT"
+    },
+    {
+      "headline": "Undesigned complexity quietly becomes your biggest cost",
+      "summary": "Complexity that builds up in a product without being intentionally designed often becomes the most expensive part to fix later. The article draws on manufacturing as a lens, but the lesson applies to digital products too. A useful read for designers thinking about long-term costs of design debt.",
+      "source": "Product Design on Medium",
+      "category": "Product design",
+      "link": "https://medium.com/@x16aniruddha/the-most-expensive-part-in-your-product-is-the-one-you-never-designed-fe2ee228e449?source=rss------product_design-5",
+      "pubDate": "Fri, 24 Jul 2026 06:51:01 GMT"
+    },
+    {
+      "headline": "Most features go unused — here's the 80/20 explanation",
+      "summary": "The 80/20 rule suggests that most users only rely on a small fraction of a product's features. This article explains the principle and what it means for deciding what to build and what to cut. Helpful framing for prioritization conversations with teams or stakeholders.",
+      "source": "UX on Medium",
       "category": "UX",
-      "link": "https://uxdesign.cc/",
-      "pubDate": "2026-07-23T14:00:00.000Z"
+      "link": "https://waffledesigns.medium.com/paretos-principle-the-80-20-rule-why-most-of-what-you-build-gets-ignored-ccc6338bebc8?source=rss------ux-5",
+      "pubDate": "Fri, 24 Jul 2026 05:26:01 GMT"
     },
     {
-      "headline": "A simple way to test if your interface is actually accessible",
-      "summary": "This piece walks through a five-minute manual check you can run on any screen before shipping, no specialized tools required. It catches the most common issues that automated scanners miss.",
-      "source": "Smashing Magazine",
-      "category": "Design & dev",
-      "link": "https://www.smashingmagazine.com/",
-      "pubDate": "2026-07-22T11:00:00.000Z"
+      "headline": "Duplicate: most features go unused — the 80/20 rule",
+      "summary": "This is a duplicate of the previous article about the 80/20 rule and appears to be the same piece listed twice.",
+      "source": "Product Design on Medium",
+      "category": "Product design",
+      "link": "https://waffledesigns.medium.com/paretos-principle-the-80-20-rule-why-most-of-what-you-build-gets-ignored-ccc6338bebc8?source=rss------product_design-5",
+      "pubDate": "Fri, 24 Jul 2026 05:26:01 GMT"
+    },
+    {
+      "headline": "How to run a UX audit on your website, step by step",
+      "summary": "A UX audit is a structured review of a website to find places where users get confused, stuck, or frustrated. This guide walks through how to run one, what to look for, and how to act on what you find. Practical starting point if you've never done an audit before or want a refresher.",
+      "source": "UX on Medium",
+      "category": "UX",
+      "link": "https://medium.com/@uxaudittool/website-ux-audit-the-complete-guide-to-better-user-experience-71eac517cbe8?source=rss------ux-5",
+      "pubDate": "Fri, 24 Jul 2026 05:11:03 GMT"
+    },
+    {
+      "headline": "A new flexible design system works across any tech stack",
+      "summary": "Optimistic is a new design system built around reusable tokens and components that can work across different tech stacks. It's described as 'headless,' meaning it's not locked to one platform and can be read by AI tools. Worth a look if you're evaluating or building design systems.",
+      "source": "Product Design on Medium",
+      "category": "Product design",
+      "link": "https://medium.com/@subintheuxdesigner/build-interfaces-optimistically-5c6d8c76bea9?source=rss------product_design-5",
+      "pubDate": "Fri, 24 Jul 2026 04:54:38 GMT"
     }
   ]
 }
