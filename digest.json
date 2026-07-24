@@ -1,234 +1,235 @@
 {
-  "generatedAt": "2026-07-24T17:16:05.043Z",
+  "generatedAt": "2026-07-24T21:37:57.291Z",
   "items": [
     {
-      "headline": "Good products build confidence, not just usability.",
-      "background": "UX practitioners often frame redesign work in terms of visual polish or interaction efficiency, but emotional outcomes like user confidence are harder to measure and easier to overlook in briefs and retrospectives.",
+      "headline": "Custom Packaging Trends for E-commerce Brands in 2026",
+      "background": "As online retail continues to grow, brands are increasingly treating packaging as a brand touchpoint rather than a logistics necessity. This piece addresses how custom packaging strategy has evolved with that shift.",
       "keyFindings": [
-        "The author reframed a UI redesign as an exercise in building user confidence rather than improving aesthetics",
-        "Emotional states like uncertainty and hesitation can be the root cause of abandonment even when usability metrics look fine",
-        "Designing for confidence requires attending to feedback loops, error recovery, and tone — not just layout"
+        "No specific data or findings are extractable from the available snippet",
+        "Content appears to be a general overview rather than a research-backed piece",
+        "Medium post lacks sufficient preview content to verify concrete claims"
       ],
-      "implications": "When scoping redesign work, consider auditing for emotional friction separately from usability friction. A product can be technically usable but still feel risky or opaque to users making consequential decisions.",
+      "implications": "Insufficient content to assess relevance or accuracy. Treat as a general primer rather than a reference source; verify any statistics cited against original sources before using in design or strategy decisions.",
       "tags": [
-        "Emotional Design",
-        "Redesign",
-        "User Confidence"
+        "E-commerce",
+        "Brand Strategy",
+        "Packaging"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1807/1*SzVh4ywVxcFV5JlpyZLd7A.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*ko7C2cvfKMUz4vqpEgCw6w.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@matthias.bendler/why-great-products-need-to-feel-right-727d87932f53?source=rss------product_design-5",
-      "pubDate": "Fri, 24 Jul 2026 16:56:03 GMT"
+      "link": "https://medium.com/@yourpackagingbox.com/the-complete-guide-to-custom-packaging-in-2026-f1fa030b4152?source=rss------product_design-5",
+      "pubDate": "Fri, 24 Jul 2026 21:04:10 GMT"
     },
     {
-      "headline": "Artifact-led workflows signal what design teams actually value.",
-      "background": "As AI tools accelerate design output velocity, teams are producing more deliverables faster — raising questions about how those artifacts are organized, prioritized, and what that structure reveals about team culture.",
+      "headline": "AI Agents Complete Tasks But Misunderstand the Actual Goal",
+      "background": "AI agents are increasingly used to automate multi-step workflows in product and design contexts, but teams are reporting a consistent failure mode: agents complete the literal task while missing the underlying intent.",
       "keyFindings": [
-        "The way a team categorizes and sequences design artifacts reflects its underlying values and decision-making logic",
-        "High-velocity output environments risk producing artifacts that are disconnected from meaning or rationale",
-        "An individual artifact-led workflow puts the designer in control of narrative rather than deferring to tooling defaults"
+        "The snippet contains no extractable findings — the preview is non-substantive",
+        "The title suggests a gap between task completion and goal alignment in AI agents",
+        "No methodology or examples are available from the snippet provided"
       ],
-      "implications": "Teams adopting AI-assisted design workflows should audit how artifacts are named, stored, and linked to decisions — otherwise speed gains may produce a trail of outputs with no recoverable reasoning.",
+      "implications": "The core problem this points to — AI agents optimizing for task completion over intent — is a real and documented issue in agentic system design, but this specific article cannot be verified as a useful reference from the available content.",
       "tags": [
-        "Design Systems",
-        "Workflow",
-        "AI tools"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1377/1*v-cp1HdX43A0rWLENlzQ4Q.jpeg",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@helloyouexperiment/the-individual-artifact-led-workflow-designer-edition-ad4d6a6d71d3?source=rss------ux-5",
-      "pubDate": "Fri, 24 Jul 2026 16:48:10 GMT"
-    },
-    {
-      "headline": "Top Flutter dev agencies in Europe for 2026.",
-      "background": "Flutter has matured as a cross-platform framework and companies sourcing development partners increasingly need vetted shortlists specific to region and technology stack.",
-      "keyFindings": [
-        "The list covers eight European firms with Flutter specialization relevant to 2026 project planning",
-        "European Flutter agencies vary significantly in industry focus and team size",
-        "The roundup is oriented toward procurement decisions rather than technical benchmarking"
-      ],
-      "implications": "Useful as a starting-point vendor list if you're scoping Flutter development in Europe, but treat it as a directory entry point rather than an independent audit — verify portfolios and client references independently.",
-      "tags": [
-        "Flutter",
-        "Development Agencies",
-        "Mobile"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Technology Org",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTGVNWnp6eklUblNFOTZ2R3BiZEJJY1dFV3VWWUdGQkl6RklEcmZWc0ZhVWRlRUhTRVluVDdGVTJ0VGJDWTc2VUh6ZGRhWjF6QmF0d1A1eVhyNWlBc3hBc3FGdGFFT0l0ejVHM29vRUIxQTlqaDhLSkR1eExVbmpOejdGcXBaU0NlQ0ZYWkdUZEplcjdBWUhGbw?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 16:46:42 GMT"
-    },
-    {
-      "headline": "Dark UX patterns: a practical breakdown of manipulative design.",
-      "background": "Dark patterns have received regulatory and academic attention for years, but many practitioners still encounter them framed as legitimate conversion optimization techniques within their own organizations.",
-      "keyFindings": [
-        "Dark UX encompasses patterns like hidden costs, forced continuity, roach motels, and misdirection that exploit cognitive biases",
-        "These patterns may produce short-term conversion gains but erode trust and increase churn over time",
-        "Regulatory scrutiny of dark patterns is increasing, with the EU's DSA and FTC actions creating legal exposure"
-      ],
-      "implications": "Product and UX teams should be able to identify and name specific dark patterns when pushing back on conversion-driven requests — vague appeals to 'ethics' are less effective than pointing to defined patterns and documented legal risk.",
-      "tags": [
-        "Dark Patterns",
-        "Ethics",
-        "Conversion"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1400/0*Pirkus7b7CNwNIXp",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@nanazevelyn4/exploring-dark-ux-the-hidden-pitfalls-of-design-09b2f9484c70?source=rss------ux-5",
-      "pubDate": "Fri, 24 Jul 2026 16:04:13 GMT"
-    },
-    {
-      "headline": "5 service design lessons from a luxury senior living community.",
-      "background": "Designing services for healthy ageing is a growing challenge as populations age globally, but most case studies come from healthcare or social care contexts rather than premium residential ones.",
-      "keyFindings": [
-        "Aspen Tree at The Forestias in Thailand designs for long-term resident wellbeing, not just point-of-sale experience — service touchpoints extend years post-purchase",
-        "Key lessons include designing for evolving capability, building in social infrastructure, and treating families as secondary users",
-        "The case highlights a gap between how ageing services are marketed and how they actually need to perform over a 10–20 year residency"
-      ],
-      "implications": "Service designers working on long-tenure products — senior living, insurance, healthcare plans — should map service journeys on a years-long timescale, not just onboarding and key transactions. Secondary users like family caregivers often become primary over time.",
-      "tags": [
-        "Service Design",
-        "Healthy Ageing",
-        "Long-term CX"
+        "AI Agents",
+        "Automation",
+        "Product Design"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1920/1*DmzJsLrBJXWq4GmfxJdMog.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*6l78SIsdw1ANDPinsk7MxA.png",
       "source": "Product Design on Medium",
-      "link": "https://pawarisa-worakunpisit.medium.com/designing-healthy-ageing-5-service-design-lessons-from-aspen-tree-at-the-forestias-37934b908ceb?source=rss------product_design-5",
-      "pubDate": "Fri, 24 Jul 2026 15:53:08 GMT"
+      "link": "https://medium.com/@ayushramawat29/why-your-ai-agent-finishes-the-task-but-misses-the-job-b34e90466576?source=rss------product_design-5",
+      "pubDate": "Fri, 24 Jul 2026 20:54:23 GMT"
     },
     {
-      "headline": "Study identifies 10 high-paying, low-stress careers.",
-      "background": "Career stress and compensation are perennial concerns, but this piece is a general-interest labor market item with no specific relevance to UX, product, or tech practice.",
+      "headline": "Disueño 2026 Adds New Delta Prize Category for Limited Editions",
+      "background": "The Delta Prizes, run by ADI-FAD, are a long-running Spanish industrial design award. The new Disueño category revives a concept from exhibitions held fifty years ago, specifically targeting unique or limited-run design work.",
       "keyFindings": [
-        "The study ranks roles by a combination of salary data and self-reported stress levels",
-        "The list is drawn from broad occupational categories rather than tech-specific roles",
-        "No UX or product roles are highlighted in the snippet"
+        "A new award category called Disueño has been added to the 2026 Delta Prizes",
+        "The category is inspired by ADI-FAD's Disueño exhibitions from roughly the 1970s",
+        "It targets unique or limited-edition designed objects, distinguishing them from mass-produced work"
       ],
-      "implications": "Not directly relevant to UX or product practitioners. Skip unless you're researching career benchmarking broadly.",
+      "implications": "Relevant for designers working in limited-run, craft, or experimental product design who may want to submit work or track what the industry is recognizing as distinct from mainstream industrial design.",
       "tags": [
-        "Career",
-        "Labor Market"
+        "Design Awards",
+        "Industrial Design",
+        "Limited Edition"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*eWHfOUUBWzUsg8O3vY3HsQ.jpeg",
+      "source": "Product Design on Medium",
+      "link": "https://guillemferran.medium.com/disue%C3%B1o-2026-delta-prizes-new-category-4282f2669876?source=rss------product_design-5",
+      "pubDate": "Fri, 24 Jul 2026 20:43:55 GMT"
+    },
+    {
+      "headline": "Tailwind CSS v4's Overlooked Features That Actually Change How You Work",
+      "background": "Tailwind CSS v4 was a full rewrite, not an incremental update, but most coverage has focused on headline changes. This piece targets the less-discussed features that have practical workflow implications for developers already using the framework.",
+      "keyFindings": [
+        "Tailwind v4 was rebuilt from the ground up, not incrementally updated",
+        "The article focuses on underreported features beyond what standard release coverage addressed",
+        "No specific features are named in the available snippet, limiting pre-click verification"
+      ],
+      "implications": "Worth reading if your team uses Tailwind in production — a ground-up rewrite typically introduces breaking changes and architectural shifts that affect design token management, build performance, and component structure. Verify compatibility with your existing setup before upgrading.",
+      "tags": [
+        "CSS Frameworks",
+        "Frontend Development",
+        "Developer Tools"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*SVhcoHwEMM_2FEOZP-Ndug.jpeg",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@contato.blense/tailwind-css-v4-underrated-features-that-will-transform-your-workflow-43f5814a49c4?source=rss------ux-5",
+      "pubDate": "Fri, 24 Jul 2026 20:33:08 GMT"
+    },
+    {
+      "headline": "How Carrefour Used AI to Speed Up Design Delivery in Figma",
+      "background": "Large retail organizations struggle to scale design operations across multiple teams and markets. Carrefour's case, documented via Figma, describes how AI tooling was integrated into their design workflow to accelerate delivery without adding headcount.",
+      "keyFindings": [
+        "Carrefour integrated AI into their Figma-based design workflow to improve delivery speed",
+        "The case is published through Figma, suggesting it involves Figma-native or Figma-adjacent AI features",
+        "Specific metrics on time saved or output volume are not available from the snippet"
+      ],
+      "implications": "Useful reference for design ops leads at enterprise scale considering AI-assisted design tooling. The Figma context means findings are most directly applicable to teams already standardized on Figma rather than other design platforms.",
+      "tags": [
+        "Design Operations",
+        "AI Tools",
+        "Enterprise Design"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "SILive.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONms2NExfaXN1clZVUEJiREZ3eDZNbU5OYUU1TDh2ZUNIZ2tPVWphaHNLa2hFaEdHckNXZmR0OFoyVzJIOHh5Y2IzMzVWVFUtOTNUVFhhYnV0a1JRazRpeGRqQTZSVFlSb2pyVXRtbkZ0OVBsc09UNk4wTnRwQnY1UmRYbmFKN0dCOW1ZRWlmOEFiUlptaHczZ2c0WUxGSzdYN1UxY0RGWDPSAbwBQVVfeXFMTlN2QjNrUjBjdkhva0xDVTFzNEx4eFpGNlptYkNnU2hjVWt6ckV6TTRFa0pESlZUOC1MSWVyTXg5bk0xWV91bUhscU5aa2N4QkV6bGEyejhSZUh3aS1MdEE5M3AzQ2lWQVdidmd6VzBhR25oR00yOWpfZGYwZFhUMmJMS2F5VjNlbUNpcmRoWHBZcUZ3U3ZnTG9WNURvOGpUeW4xQlFOM1B6MDJnYzRFbTNZT3p5NmNaRDdlQkY?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 14:40:00 GMT"
+      "source": "Figma",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSWliQWkxYU9yU2I4YXJMdVJYb1o4TVhqQWRnd1VXVlNGWHN5UGNpNjZ4bGFRS2lwX3BRZDkxQ1F4SUk4dzJGRDhMUGIzLVBSeWhnZlBodDkxTW4yak9waS02RjlPTUkxTDJSSjlpdVhiTmhkRk0tRjAxYWtONEdfVkJsWTZJYWNCMk1yVw?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 19:28:09 GMT"
     },
     {
-      "headline": "Walking infrastructure has UX and civic design implications.",
-      "background": "Urban walkability is increasingly understood as a design problem — one that intersects public health, city planning, and the design of physical environments — but this piece is written for a general Singaporean audience.",
+      "headline": "Cognition Buys AI Personality Studio Poke for Nine Figures",
+      "background": "Cognition, the company behind the AI coding agent Devin, has acquired Poke, a startup focused on AI personality and character design. The nine-figure price signals serious investment in making AI agents more human-feeling, not just more capable.",
       "keyFindings": [
-        "The article argues walkability benefits extend beyond health to economic activity and community cohesion",
-        "Singapore's urban density makes pedestrian infrastructure a high-leverage design intervention",
-        "The piece does not present new research but synthesizes existing public health and urban planning arguments"
+        "Cognition acquired Poke for a nine-figure sum — at minimum $100 million",
+        "The acquisition is framed as an 'AI personality play,' indicating focus on agent character and tone rather than raw capability",
+        "This follows a broader industry pattern of AI companies investing in anthropomorphization and user-facing personality layers"
       ],
-      "implications": "Tangentially relevant for designers working on urban services, wayfinding, or civic tech in dense Asian cities. Not actionable for most product or digital UX practitioners.",
+      "implications": "For product and UX teams designing with or around AI agents, this signals that personality, tone, and character are becoming competitive differentiators — not just interface polish. Worth tracking how Cognition integrates Poke's work into Devin and similar tools.",
       "tags": [
-        "Urban Design",
-        "Walkability",
-        "Civic Tech"
+        "AI Industry",
+        "Conversational AI",
+        "Product Strategy"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "CNA",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkRIbkF6amQzTHFqNWRkZndUdUU1aFZNTExSa0Z4bVRIcklZVE5wZWpRa1Vzd1psV0F0eFU2MVQyRVNzRTdCdWFRWGhleVp0XzRWWUdFY1hQaFJPZndLUGxpbEhfb0Jic0dpdHB3cUx3RklIakpUUzlaVlJ4UTNCV1llNUZKSUJFQTh3RlVqSF93OHAwWk9tZVlFNDI4OU8yMWhrbklB?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 13:30:00 GMT"
+      "source": "The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTHp2aFoyaVNTeG9LMUpMWVd0eW9nZzQwdDR2QXdFZ0h6aE1KVGVKcVZvNWVSX2pubEhfUFNkOEJsbXEyWGcwV2FCNTZPdmdjTTFOaGhQdDRyTzFFZGt6UDNROTI5VGRFTjZ1UG8tUEJ6NjdVbjZVbW9qNGpkWW92VmxndjNGYWZScjRFeXRKRHdIRG15eE5lejlSbHg?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 19:03:00 GMT"
     },
     {
-      "headline": "Nielsen roundup: carousels, bulk actions, peak-end rule, AI doubling.",
-      "background": "Jakob Nielsen's periodic UX roundups synthesize multiple active debates in the field. This edition covers several distinct topics that each merit practitioner attention, from interface patterns to AI adoption metrics.",
+      "headline": "UX Research Output Is Becoming Context for AI, Not Humans",
+      "background": "As AI tools take on more interface generation work, there's a growing question about what UX research and design documentation is actually for. This piece argues the audience for that output is shifting from human designers to AI systems that use it as generative context.",
       "keyFindings": [
-        "AI tool use in professional contexts roughly doubled in one year, based on cited usage data — a significant adoption acceleration",
-        "The peak-end rule is revisited as a lens for evaluating AI-generated experiences, not just traditional interfaces",
-        "Carousel components and bulk action patterns are assessed with updated guidance reflecting current interaction norms"
+        "The author argues that as AI generates more interfaces, UX research output should be structured as AI-readable context rather than human-readable documents",
+        "This reframes the deliverable of a UX researcher from reports and decks to curated, structured prompts or context files",
+        "The shift has implications for how research is written, stored, and handed off within product teams"
       ],
-      "implications": "The AI adoption rate finding has direct implications for assumptions embedded in product strategy and competitive analysis — if your roadmap was built on slower AI adoption curves, it may need revision. The peak-end rule framing for AI interactions is worth applying to chatbot and copilot experience design.",
+      "implications": "Directly actionable for researchers and design leads: if AI tools are being used to generate interfaces on your team, evaluate whether your existing research formats — personas, journey maps, briefs — are structured in ways an AI system can actually use. This likely requires rethinking documentation conventions.",
       "tags": [
-        "AI Adoption",
-        "Interaction Patterns",
-        "Cognitive Bias"
+        "AI-Assisted Design",
+        "UX Research",
+        "Design Workflow"
       ],
       "featured": true,
       "type": "research",
-      "category": "Industry news",
+      "category": "Research",
       "publishedWindow": "today",
       "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lcC1YeGRPb1gwdm44T1VLRjQ1eWRKa3VJaWhNNDZQb0lpUElySWFQZndMMDZod2NDUXgyOXpidHd6emZtbHNDWXVCUkZZbjFTRGhOdDR1U0M0OWVBcWxSR0d2LWVDLUtUbFE?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 11:21:02 GMT"
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/ux-context-design/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000"
     },
     {
-      "headline": "EA acquisition approved; Xbox tests ad-supported games.",
-      "background": "The games industry is undergoing significant consolidation and business model experimentation, with implications for platform design, monetization UX, and developer tooling ecosystems.",
+      "headline": "Product Sense Is Pattern Recognition With Judgment About When Patterns Apply",
+      "background": "'Product sense' is frequently cited in hiring and performance discussions but rarely defined precisely. This piece offers a concrete, operational definition and a method for building it deliberately rather than treating it as innate intuition.",
       "keyFindings": [
-        "The EU approved a Saudi-led acquisition of EA, clearing a major regulatory hurdle for games industry consolidation",
-        "Xbox is trialing an ad-supported game access model, which would introduce advertising UX into traditionally ad-free console experiences",
-        "Both developments signal continued pressure on traditional premium game pricing models"
+        "Product sense is defined as the ability to predict which product decisions will succeed, based on patterns learned through experimentation",
+        "A critical component is meta-cognitive: knowing when a given pattern applies to the current situation and when it does not",
+        "The definition implies product sense can be systematically developed through structured experimentation and reflection, not just accumulated experience"
       ],
-      "implications": "If ad-supported game models gain traction on console, UX designers in games will face new constraints around ad placement, frequency, and non-disruptive interruption design — a set of challenges already well-documented in mobile but largely absent from console conventions.",
+      "implications": "Useful for anyone hiring for or developing product roles. The definition gives managers a concrete basis for evaluating product sense in interviews and for structuring growth plans — moving away from vague 'good instincts' language toward testable, observable behaviors.",
       "tags": [
-        "Games Industry",
-        "Monetization",
-        "Ad-supported Models"
+        "Product Management",
+        "Decision-Making",
+        "Career Development"
+      ],
+      "featured": true,
+      "type": "research",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/product-sense-definition/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000"
+    },
+    {
+      "headline": "Global Research Agendas Rarely Translate Into Action — Webinar Addresses Why",
+      "background": "International research bodies regularly publish priority agendas, but implementation at the organizational or regional level is inconsistent. This webinar, covered by WebWire, examines the gap between setting research priorities and executing on them meaningfully.",
+      "keyFindings": [
+        "The webinar focuses specifically on the implementation gap between global research agendas and real-world action",
+        "No specific findings, frameworks, or speakers are identifiable from the available snippet",
+        "The coverage source is a press release wire, limiting depth of pre-click assessment"
+      ],
+      "implications": "Relevant primarily for researchers working in policy, public health, or international development contexts where global research agendas shape funding and project priorities. Limited applicability to most product and UX practitioners.",
+      "tags": [
+        "Research Strategy",
+        "Policy",
+        "Global Health"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
-      "publishedWindow": "today",
+      "publishedWindow": "week",
       "image": null,
-      "source": "GameDev.net",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSktLNHEyb3RuSVV2MTFtOGozalIteE13YmRLRlVxbjFiTEhDRVBkUXZyN0NLd0hGdFJRY1FJM0tRejZ4Q2JaaXlxN1A0eVlBUjRGUHlHLUIzRDdBVkZvaTBYRXRYVnM4QW9CdXByUi1wNlZzUkxWcXM2NjZxWUx1eGxoRF92YVEtWDlzbnRqeExXWFJ6eWVSUXIyY3EzTDlnMTBFWE9oYkZvdE1icnlTX3dhdks3WVZnejh2UzhGMUlNYnpTSU9lWGw5ZEo5a1FmWEFqRS1SNFlSSkFpMFE3ZXRLQQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 10:30:20 GMT"
+      "source": "WebWire",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hcURiTjE1NHFTWk5DVjZOazFqZFRjMy14QXA3TGMxWUtSdDBxM1U2VDM3Mk1TcWc4VmdUekxuaS12ZVVWeFNCdkxQbFF3SmN5MWlSSlRheEVYWm5ydWw4OQ?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 13:29:03 GMT"
     },
     {
-      "headline": "AI system teaches Braille to visually impaired learners.",
-      "background": "Braille literacy rates have declined among visually impaired populations partly due to the cost and scarcity of qualified teachers and tactile learning materials. AI-assisted tools are being proposed as a scalable supplement.",
+      "headline": "Practical Image Optimization for the Web Without Quality Loss",
+      "background": "Web performance remains a persistent problem despite widespread awareness, largely because teams struggle to balance image quality against load time. This piece focuses on the technical methods for achieving fast image delivery without visible degradation.",
       "keyFindings": [
-        "The University of Houston lab developed an AI-powered system specifically designed to teach Braille reading and writing",
-        "The system is designed to provide personalized feedback that traditionally requires a specialist instructor",
-        "The project addresses an accessibility gap where existing screen reader adoption has not reversed declining Braille literacy"
+        "No specific techniques, tools, or benchmarks are extractable from the available snippet",
+        "The piece is published by RS Web Solutions, a web development resource site",
+        "Topic likely covers format selection such as WebP or AVIF, compression settings, and lazy loading, but this cannot be confirmed from the snippet"
       ],
-      "implications": "For accessibility-focused designers and technologists, this is a concrete example of AI applied to a genuine assistive gap rather than convenience automation. It's worth tracking as a model for AI intervention in underserved assistive technology contexts.",
+      "implications": "Image optimization is a high-impact, low-effort performance win for most web products. If the article covers modern formats like AVIF and responsive image markup, it could be a useful reference for frontend developers and designers who control asset export settings.",
       "tags": [
-        "Accessibility",
-        "Assistive Technology",
-        "AI tools"
+        "Web Performance",
+        "Frontend Development",
+        "Image Optimization"
       ],
-      "featured": true,
+      "featured": false,
       "type": "research",
       "category": "Industry news",
-      "publishedWindow": "today",
+      "publishedWindow": "week",
       "image": null,
-      "source": "University of Houston",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS2VVWW5YTHpIbEM4dUozR2FzOGZPZjZNSHBMbnFoOE05VzEybXlNdnhiZW9GcWl6NDhIWkRXSzcyNVlYNnRSN2dQWlkxblBiY3hzVlBzSXhMV2RybnBjYjFSbGJpV2NFbmpTWEhaOXlmNFdpcHViR3dMUkNiblEzVG9LQ3AzWmh4Wmc?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 15:36:59 GMT"
+      "source": "RS Web Solutions",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ucG5Pay1MaEsyWnNRbElkYXgyWUJjMFRyU0pNaTBmRlZ4WUNlX05VYUQ2QjVvckFkVDIwd3k0Rlg4eGRPd2NzNERDTkZkdFV6cnE1R01MRGpBanNacXpVLVFtY1NJWWZoMVE?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 13:22:38 GMT"
     }
   ]
 }
