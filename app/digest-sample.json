@@ -2,28 +2,89 @@
   "generatedAt": "2026-07-24T12:00:00.000Z",
   "items": [
     {
-      "headline": "Why most onboarding flows lose users in the first 30 seconds",
-      "summary": "A new study breaks down where people drop off during app onboarding and finds it's usually too many decisions up front, not too little information. The fix is deferring choices until they matter.",
+      "headline": "Users abandon onboarding over too many upfront choices",
+      "background": "Onboarding flows have gotten more configurable over the past few years, with many products asking users to set preferences before they've seen any value.",
+      "keyFindings": [
+        "A study of 40 onboarding flows found decision count in the first 30 seconds predicted drop-off better than information volume.",
+        "Flows with 3+ upfront choices lost roughly twice as many users as flows with 1 or none."
+      ],
+      "implications": "Push non-essential choices past the first screen — defer them until the user has a concrete reason to care.",
+      "tags": ["Onboarding", "Research"],
+      "featured": true,
+      "type": "research",
+      "publishedWindow": "today",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
       "source": "Nielsen Norman Group",
-      "category": "Research",
       "link": "https://www.nngroup.com/articles/",
-      "pubDate": "2026-07-23T09:00:00.000Z"
+      "pubDate": "2026-07-24T09:00:00.000Z"
     },
     {
-      "headline": "Designers are quietly replacing dropdowns with search",
-      "summary": "A growing pattern across major products swaps long dropdown menus for a simple search-as-you-type field. It's faster for users and easier to maintain as option lists grow.",
-      "source": "UX Collective",
-      "category": "UX",
-      "link": "https://uxdesign.cc/",
+      "headline": "Search is replacing long dropdown menus",
+      "background": "As product catalogs and option lists grow, traditional select-dropdowns are starting to break down as a pattern.",
+      "keyFindings": [
+        "Several major products swapped long dropdowns for a type-to-search field.",
+        "Selection time dropped by roughly half in their internal usability tests."
+      ],
+      "implications": "If any of your dropdowns exceed ~15 options, a search field will likely outperform them without a full redesign.",
+      "tags": ["Patterns", "Forms"],
+      "featured": false,
+      "type": "research",
+      "publishedWindow": "today",
+      "image": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?w=800&q=80",
+      "source": "Smashing Magazine",
+      "link": "https://www.smashingmagazine.com/",
       "pubDate": "2026-07-23T14:00:00.000Z"
     },
     {
-      "headline": "A simple way to test if your interface is actually accessible",
-      "summary": "This piece walks through a five-minute manual check you can run on any screen before shipping, no specialized tools required. It catches the most common issues that automated scanners miss.",
-      "source": "Smashing Magazine",
-      "category": "Design & dev",
-      "link": "https://www.smashingmagazine.com/",
-      "pubDate": "2026-07-22T11:00:00.000Z"
+      "headline": "A 5-minute manual accessibility check you're probably skipping",
+      "background": "Automated accessibility scanners catch a lot, but they systematically miss certain interaction-based issues.",
+      "keyFindings": [
+        "Tabbing through a screen with no mouse reveals focus-order and keyboard-trap issues scanners consistently miss.",
+        "Most teams only run this check during formal audits, not before every ship."
+      ],
+      "implications": "Add this as a two-minute step before every ship, not just at audit time.",
+      "tags": ["Accessibility", "QA"],
+      "featured": false,
+      "type": "research",
+      "publishedWindow": "week",
+      "image": "https://images.unsplash.com/photo-1573497491765-dccce02b29df?w=800&q=80",
+      "source": "A List Apart",
+      "link": "https://alistapart.com/",
+      "pubDate": "2026-07-19T11:00:00.000Z"
+    },
+    {
+      "headline": "Why I stopped using modals for confirmation dialogs",
+      "background": "A designer reflects on a pattern they used for years across multiple products before reconsidering it.",
+      "keyFindings": [
+        "Modals interrupt flow and are frequently dismissed without being read.",
+        "Inline confirmation (undo-based patterns) preserved user trust better in their own testing."
+      ],
+      "implications": "Consider whether a destructive action truly needs a blocking modal, or whether an undo pattern would serve users better.",
+      "tags": ["Patterns", "Opinion"],
+      "featured": false,
+      "type": "opinion",
+      "publishedWindow": "today",
+      "image": "https://images.unsplash.com/photo-1559028012-481c04fa702d?w=800&q=80",
+      "source": "UX Collective",
+      "link": "https://uxdesign.cc/",
+      "pubDate": "2026-07-24T08:00:00.000Z"
+    },
+    {
+      "headline": "What 3 years of freelance UX work taught me about scope creep",
+      "background": "A freelancer shares patterns noticed across dozens of client engagements.",
+      "keyFindings": [
+        "Scope creep most often enters through 'quick' verbal requests, not written ones.",
+        "Projects with a written change-request process had measurably fewer disputes."
+      ],
+      "implications": "Put even small scope changes in writing, regardless of how minor they seem in the moment.",
+      "tags": ["Freelance", "Process"],
+      "featured": false,
+      "type": "opinion",
+      "publishedWindow": "week",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=80",
+      "source": "UX Planet",
+      "link": "https://uxplanet.org/",
+      "pubDate": "2026-07-20T10:00:00.000Z"
     }
   ]
 }
