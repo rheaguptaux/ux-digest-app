@@ -1,90 +1,224 @@
 {
-  "generatedAt": "2026-07-24T12:00:00.000Z",
+  "generatedAt": "2026-07-24T10:37:39.484Z",
   "items": [
     {
-      "headline": "Users abandon onboarding over too many upfront choices",
-      "background": "Onboarding flows have gotten more configurable over the past few years, with many products asking users to set preferences before they've seen any value.",
+      "headline": "Banana Box UX: Real-World Observation Over Design Tools",
+      "background": "UX practitioners often over-index on digital tools and frameworks, losing sight of how everyday physical experiences reveal interaction principles. This piece argues for grounding design thinking in direct observation of mundane, non-digital contexts.",
       "keyFindings": [
-        "A study of 40 onboarding flows found decision count in the first 30 seconds predicted drop-off better than information volume.",
-        "Flows with 3+ upfront choices lost roughly twice as many users as flows with 1 or none."
+        "The article uses a banana packaging scenario to illustrate how affordances and user expectations are shaped by context outside of screens",
+        "Physical product experiences can expose assumptions that digital-only design processes miss",
+        "Observation of everyday logistics and handling can reveal UX principles that Figma workflows obscure"
       ],
-      "implications": "Push non-essential choices past the first screen — defer them until the user has a concrete reason to care.",
-      "tags": ["Onboarding", "Research"],
+      "implications": "Useful as a mindset prompt, but light on methodology. Best suited for designers early in their practice or those looking to reframe how they source design inspiration — not a substitute for structured research.",
+      "tags": [
+        "Design Thinking",
+        "Observation Methods",
+        "Physical UX"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*ZLk4CfDE0wLz2-4ydKHPlA.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@kthilini1999/a-box-of-bananas-changed-the-way-i-think-about-ux-d6df002a9f39?source=rss------ux-5",
+      "pubDate": "Fri, 24 Jul 2026 10:31:52 GMT"
+    },
+    {
+      "headline": "Banana Box UX: Real-World Observation Over Design Tools",
+      "background": "UX practitioners often over-index on digital tools and frameworks, losing sight of how everyday physical experiences reveal interaction principles. This piece argues for grounding design thinking in direct observation of mundane, non-digital contexts.",
+      "keyFindings": [
+        "The article uses a banana packaging scenario to illustrate how affordances and user expectations are shaped by context outside of screens",
+        "Physical product experiences can expose assumptions that digital-only design processes miss",
+        "Observation of everyday logistics and handling can reveal UX principles that Figma workflows obscure"
+      ],
+      "implications": "Useful as a mindset prompt, but light on methodology. Best suited for designers early in their practice or those looking to reframe how they source design inspiration — not a substitute for structured research.",
+      "tags": [
+        "Design Thinking",
+        "Observation Methods",
+        "Physical UX"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*ZLk4CfDE0wLz2-4ydKHPlA.png",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@kthilini1999/a-box-of-bananas-changed-the-way-i-think-about-ux-d6df002a9f39?source=rss------ux_research-5",
+      "pubDate": "Fri, 24 Jul 2026 10:31:52 GMT"
+    },
+    {
+      "headline": "Banana Box UX: Real-World Observation Over Design Tools",
+      "background": "UX practitioners often over-index on digital tools and frameworks, losing sight of how everyday physical experiences reveal interaction principles. This piece argues for grounding design thinking in direct observation of mundane, non-digital contexts.",
+      "keyFindings": [
+        "The article uses a banana packaging scenario to illustrate how affordances and user expectations are shaped by context outside of screens",
+        "Physical product experiences can expose assumptions that digital-only design processes miss",
+        "Observation of everyday logistics and handling can reveal UX principles that Figma workflows obscure"
+      ],
+      "implications": "Useful as a mindset prompt, but light on methodology. Best suited for designers early in their practice or those looking to reframe how they source design inspiration — not a substitute for structured research.",
+      "tags": [
+        "Design Thinking",
+        "Observation Methods",
+        "Physical UX"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*ZLk4CfDE0wLz2-4ydKHPlA.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@kthilini1999/a-box-of-bananas-changed-the-way-i-think-about-ux-d6df002a9f39?source=rss------product_design-5",
+      "pubDate": "Fri, 24 Jul 2026 10:31:52 GMT"
+    },
+    {
+      "headline": "Dark Patterns in Indian Apps: Growth Pressure Drives Ethical Failures",
+      "background": "Dark patterns — UI designs that manipulate users into unintended actions — are increasingly scrutinized globally, but enforcement and awareness vary sharply by market. Indian consumer apps have drawn attention for aggressive growth-driven UI tactics that exploit low digital literacy.",
+      "keyFindings": [
+        "Growth targets are frequently cited internally as the justification for introducing manipulative UI patterns such as hidden unsubscribe flows and forced consent",
+        "Indian regulatory frameworks around dark patterns are still developing, creating a compliance gap that product teams exploit",
+        "Ethical design alternatives exist for the same conversion goals but require longer-term thinking about user trust and retention"
+      ],
+      "implications": "Product and growth teams should audit conversion-boosting UI changes against established dark pattern taxonomies before shipping. Pressure to hit short-term metrics is the primary risk factor — this piece is a useful prompt for teams without a formal ethics review step.",
+      "tags": [
+        "Dark Patterns",
+        "Ethics",
+        "Growth Design"
+      ],
       "featured": true,
-      "type": "research",
+      "type": "opinion",
       "publishedWindow": "today",
-      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
-      "source": "Nielsen Norman Group",
-      "link": "https://www.nngroup.com/articles/",
-      "pubDate": "2026-07-24T09:00:00.000Z"
+      "image": "https://cdn-images-1.medium.com/max/1600/1*ygCY57YT4FsSUtzl8d4bMw.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@cse.khushbu/indian-apps-dark-patterns-vs-ethical-design-f899dc5d3568?source=rss------product_design-5",
+      "pubDate": "Fri, 24 Jul 2026 10:29:22 GMT"
     },
     {
-      "headline": "Search is replacing long dropdown menus",
-      "background": "As product catalogs and option lists grow, traditional select-dropdowns are starting to break down as a pattern.",
+      "headline": "Linear Bearings vs. Guide Rails: An Engineering Selection Guide",
+      "background": "Mechanical engineers selecting components for linear motion systems often default to catalog browsing rather than application-first thinking, leading to mismatched specifications and unnecessary cost or complexity.",
       "keyFindings": [
-        "Several major products swapped long dropdowns for a type-to-search field.",
-        "Selection time dropped by roughly half in their internal usability tests."
+        "Linear bearings and guide rails both enable smooth linear motion but differ in load capacity, precision requirements, and environmental tolerance",
+        "The correct choice depends on the machine's load direction, speed, and alignment constraints — not component availability",
+        "Starting from catalog specs rather than machine requirements is identified as the primary source of component mismatch"
       ],
-      "implications": "If any of your dropdowns exceed ~15 options, a search field will likely outperform them without a full redesign.",
-      "tags": ["Patterns", "Forms"],
-      "featured": false,
-      "type": "research",
-      "publishedWindow": "today",
-      "image": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?w=800&q=80",
-      "source": "Smashing Magazine",
-      "link": "https://www.smashingmagazine.com/",
-      "pubDate": "2026-07-23T14:00:00.000Z"
-    },
-    {
-      "headline": "A 5-minute manual accessibility check you're probably skipping",
-      "background": "Automated accessibility scanners catch a lot, but they systematically miss certain interaction-based issues.",
-      "keyFindings": [
-        "Tabbing through a screen with no mouse reveals focus-order and keyboard-trap issues scanners consistently miss.",
-        "Most teams only run this check during formal audits, not before every ship."
+      "implications": "Not directly relevant to UX, product, or tech work. This article appears to have been included in the feed in error — it covers mechanical engineering component selection.",
+      "tags": [
+        "Mechanical Engineering",
+        "Hardware Design",
+        "Off-Topic"
       ],
-      "implications": "Add this as a two-minute step before every ship, not just at audit time.",
-      "tags": ["Accessibility", "QA"],
-      "featured": false,
-      "type": "research",
-      "publishedWindow": "week",
-      "image": "https://images.unsplash.com/photo-1573497491765-dccce02b29df?w=800&q=80",
-      "source": "A List Apart",
-      "link": "https://alistapart.com/",
-      "pubDate": "2026-07-19T11:00:00.000Z"
-    },
-    {
-      "headline": "Why I stopped using modals for confirmation dialogs",
-      "background": "A designer reflects on a pattern they used for years across multiple products before reconsidering it.",
-      "keyFindings": [
-        "Modals interrupt flow and are frequently dismissed without being read.",
-        "Inline confirmation (undo-based patterns) preserved user trust better in their own testing."
-      ],
-      "implications": "Consider whether a destructive action truly needs a blocking modal, or whether an undo pattern would serve users better.",
-      "tags": ["Patterns", "Opinion"],
       "featured": false,
       "type": "opinion",
       "publishedWindow": "today",
-      "image": "https://images.unsplash.com/photo-1559028012-481c04fa702d?w=800&q=80",
-      "source": "UX Collective",
-      "link": "https://uxdesign.cc/",
-      "pubDate": "2026-07-24T08:00:00.000Z"
+      "image": "https://cdn-images-1.medium.com/max/600/1*npV2MZIu0-JrufU_Nqevrg.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@orion_33367/linear-bearings-or-guide-rails-start-with-the-machine-not-the-catalog-11972c055b42?source=rss------product_design-5",
+      "pubDate": "Fri, 24 Jul 2026 10:08:59 GMT"
     },
     {
-      "headline": "What 3 years of freelance UX work taught me about scope creep",
-      "background": "A freelancer shares patterns noticed across dozens of client engagements.",
+      "headline": "AI in Market Research: What a 2025 Conference Actually Showed",
+      "background": "AI adoption in user and market research is accelerating, but practitioners are uncertain which applications are production-ready versus overhyped. The MRS AI in Research Conference focused specifically on real deployment cases rather than theoretical capability.",
       "keyFindings": [
-        "Scope creep most often enters through 'quick' verbal requests, not written ones.",
-        "Projects with a written change-request process had measurably fewer disputes."
+        "Conference sessions centered on case studies of AI augmenting — not replacing — qualitative research synthesis and participant recruitment",
+        "A recurring tension emerged between AI's efficiency gains and the risk of flattening nuanced human responses into clean but shallow summaries",
+        "Teams reported that AI tools required significant prompt engineering and human oversight to produce research outputs that met professional standards"
       ],
-      "implications": "Put even small scope changes in writing, regardless of how minor they seem in the moment.",
-      "tags": ["Freelance", "Process"],
+      "implications": "For UX researchers considering AI-assisted synthesis tools: the conference findings suggest efficiency gains are real but quality control overhead is underestimated. Build in review steps proportional to the stakes of the research decision.",
+      "tags": [
+        "AI Research Tools",
+        "User Research",
+        "Qualitative Methods"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*G4LBiBuszBYsDkf__4DefA.jpeg",
+      "source": "UX on Medium",
+      "link": "https://medium.com/autotrader/human-truth-in-a-digital-era-reflections-from-the-mrs-ai-in-research-conference-bcb6651f4769?source=rss------ux-5",
+      "pubDate": "Fri, 24 Jul 2026 09:40:54 GMT"
+    },
+    {
+      "headline": "AI in Market Research: What a 2025 Conference Actually Showed",
+      "background": "AI adoption in user and market research is accelerating, but practitioners are uncertain which applications are production-ready versus overhyped. The MRS AI in Research Conference focused specifically on real deployment cases rather than theoretical capability.",
+      "keyFindings": [
+        "Conference sessions centered on case studies of AI augmenting — not replacing — qualitative research synthesis and participant recruitment",
+        "A recurring tension emerged between AI's efficiency gains and the risk of flattening nuanced human responses into clean but shallow summaries",
+        "Teams reported that AI tools required significant prompt engineering and human oversight to produce research outputs that met professional standards"
+      ],
+      "implications": "For UX researchers considering AI-assisted synthesis tools: the conference findings suggests efficiency gains are real but quality control overhead is underestimated. Build in review steps proportional to the stakes of the research decision.",
+      "tags": [
+        "AI Research Tools",
+        "User Research",
+        "Qualitative Methods"
+      ],
       "featured": false,
       "type": "opinion",
-      "publishedWindow": "week",
-      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=80",
-      "source": "UX Planet",
-      "link": "https://uxplanet.org/",
-      "pubDate": "2026-07-20T10:00:00.000Z"
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*G4LBiBuszBYsDkf__4DefA.jpeg",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/autotrader/human-truth-in-a-digital-era-reflections-from-the-mrs-ai-in-research-conference-bcb6651f4769?source=rss------ux_research-5",
+      "pubDate": "Fri, 24 Jul 2026 09:40:54 GMT"
+    },
+    {
+      "headline": "Over-Documentation Is Eroding Team Memory, Not Preserving It",
+      "background": "The proliferation of async tools — AI meeting summarizers, synced note apps, cloud storage — has made capturing information frictionless, prompting a growing counter-argument that volume of capture is undermining actual retention and sensemaking.",
+      "keyFindings": [
+        "When everything is recorded, teams deprioritize active processing during meetings, offloading comprehension to tools that produce summaries without understanding",
+        "Studies on cognitive load suggest that effortful note-taking encodes information more durably than passive capture — a gap AI summarizers widen",
+        "Teams relying heavily on auto-documentation report difficulty locating institutional knowledge despite theoretically having it all stored"
+      ],
+      "implications": "Product and UX teams using AI meeting tools should distinguish between documentation for compliance or audit purposes versus documentation meant to drive decisions. For the latter, structured human synthesis still outperforms automated capture.",
+      "tags": [
+        "Knowledge Management",
+        "AI Tools",
+        "Team Workflows"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*NDVhfTK7qikL_dL3nSPNwQ.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@designdayofficial/when-capturing-everything-means-remembering-nothing-94fcff1eaaf0?source=rss------ux-5",
+      "pubDate": "Fri, 24 Jul 2026 09:28:27 GMT"
+    },
+    {
+      "headline": "Bath Salts Promotion: Not Relevant to This Digest",
+      "background": "This article appears to promote a consumer bath product and has no connection to UX, product design, or technology topics.",
+      "keyFindings": [
+        "Content is promotional in nature",
+        "No relevance to UX, product, or tech work",
+        "Appears to be a feed ingestion error or spam content"
+      ],
+      "implications": "No implications for UX or product practice. This item should be filtered from the feed.",
+      "tags": [
+        "Off-Topic",
+        "Feed Error"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@bensonkimani716/awareness-campaign-concentrated-vanilla-sky-bath-salts-ace9ac58dc47?source=rss------ux_research-5",
+      "pubDate": "Fri, 24 Jul 2026 09:11:04 GMT"
+    },
+    {
+      "headline": "Using AI to Structure and Present Design Thinking",
+      "background": "Designers frequently struggle to translate messy, iterative thinking — sticky notes, half-formed frameworks, scattered references — into coherent presentations for stakeholders. AI writing and structuring tools are being tested as a bridge between raw ideation and polished communication.",
+      "keyFindings": [
+        "The author used AI to convert unstructured sticky-note thinking into a structured two-slide narrative, reducing presentation prep time significantly",
+        "AI was most useful at the structuring and sequencing stage, not at generating original design insight",
+        "The workflow required the designer to have already done substantive thinking — AI organized existing ideas rather than producing new ones"
+      ],
+      "implications": "Worth testing for designers who spend disproportionate time on deck production rather than thinking. The key constraint is input quality: AI structuring tools amplify clarity in your existing thinking but cannot substitute for it.",
+      "tags": [
+        "AI Tools",
+        "Presentation",
+        "Design Communication"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*HMjm69KfG0YgBf-mssjFpA.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@aleksandardobrohotov/a-new-way-to-present-your-thinking-with-ux-and-ai-together-6d2a1a6aa709?source=rss------ux-5",
+      "pubDate": "Fri, 24 Jul 2026 08:55:28 GMT"
     }
   ]
 }
