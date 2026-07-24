@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-07-24T12:00:00.000Z",
+  "items": [
+    {
+      "headline": "Why most onboarding flows lose users in the first 30 seconds",
+      "summary": "A new study breaks down where people drop off during app onboarding and finds it's usually too many decisions up front, not too little information. The fix is deferring choices until they matter.",
+      "source": "Nielsen Norman Group",
+      "category": "Research",
+      "link": "https://www.nngroup.com/articles/",
+      "pubDate": "2026-07-23T09:00:00.000Z"
+    },
+    {
+      "headline": "Designers are quietly replacing dropdowns with search",
+      "summary": "A growing pattern across major products swaps long dropdown menus for a simple search-as-you-type field. It's faster for users and easier to maintain as option lists grow.",
+      "source": "UX Collective",
+      "category": "UX",
+      "link": "https://uxdesign.cc/",
+      "pubDate": "2026-07-23T14:00:00.000Z"
+    },
+    {
+      "headline": "A simple way to test if your interface is actually accessible",
+      "summary": "This piece walks through a five-minute manual check you can run on any screen before shipping, no specialized tools required. It catches the most common issues that automated scanners miss.",
+      "source": "Smashing Magazine",
+      "category": "Design & dev",
+      "link": "https://www.smashingmagazine.com/",
+      "pubDate": "2026-07-22T11:00:00.000Z"
+    }
+  ]
+}

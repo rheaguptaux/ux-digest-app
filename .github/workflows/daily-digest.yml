@@ -1,0 +1,37 @@
+name: Generate daily UX digest
+
+on:
+  schedule:
+    - cron: "0 12 * * *" # 12:00 UTC every day — adjust to your preferred time
+  workflow_dispatch: {} # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+        working-directory: backend
+
+      - name: Generate digest
+        run: npm run generate
+        working-directory: backend
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit updated digest
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "digest-bot@users.noreply.github.com"
+          git add digest.json backend/seen.json
+          git diff --staged --quiet || git commit -m "Update daily digest"
+          git push

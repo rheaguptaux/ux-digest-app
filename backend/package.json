@@ -1,0 +1,11 @@
+{
+  "name": "ux-digest-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate": "node generate-digest.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
