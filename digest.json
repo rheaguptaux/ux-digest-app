@@ -1,224 +1,235 @@
 {
-  "generatedAt": "2026-07-24T10:37:39.484Z",
+  "generatedAt": "2026-07-24T10:59:38.113Z",
   "items": [
     {
-      "headline": "Banana Box UX: Real-World Observation Over Design Tools",
-      "background": "UX practitioners often over-index on digital tools and frameworks, losing sight of how everyday physical experiences reveal interaction principles. This piece argues for grounding design thinking in direct observation of mundane, non-digital contexts.",
+      "headline": "Pet food app UX case study: one-ingredient brand design",
+      "background": "End-to-end UX case studies for niche consumer products are a common portfolio format, but few tackle the specific challenge of simplifying complex nutritional decision-making for pet owners.",
       "keyFindings": [
-        "The article uses a banana packaging scenario to illustrate how affordances and user expectations are shaped by context outside of screens",
-        "Physical product experiences can expose assumptions that digital-only design processes miss",
-        "Observation of everyday logistics and handling can reveal UX principles that Figma workflows obscure"
+        "Designed for a single-ingredient pet food brand, reducing decision complexity to one core variable: protein source",
+        "Case study covers full process from research through final UI, grounded in personal experience as a multi-cat owner",
+        "Focuses on trust-building as a primary UX goal given skepticism in the pet food market"
       ],
-      "implications": "Useful as a mindset prompt, but light on methodology. Best suited for designers early in their practice or those looking to reframe how they source design inspiration — not a substitute for structured research.",
+      "implications": "Useful as a portfolio reference for designers working on health or food products where ingredient transparency is a differentiator. The single-attribute simplification approach is transferable to other high-anxiety purchase decisions.",
       "tags": [
-        "Design Thinking",
-        "Observation Methods",
-        "Physical UX"
+        "Case Study",
+        "Consumer Apps",
+        "Information Architecture"
       ],
       "featured": false,
       "type": "opinion",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1200/1*ZLk4CfDE0wLz2-4ydKHPlA.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*4jljX5aXc139HKVGuVYjIQ.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/@kthilini1999/a-box-of-bananas-changed-the-way-i-think-about-ux-d6df002a9f39?source=rss------ux-5",
-      "pubDate": "Fri, 24 Jul 2026 10:31:52 GMT"
+      "link": "https://medium.com/@alicaputriazz/design-process-of-creating-pet-po-an-end-to-end-ux-case-study-for-a-one-ingredient-pet-food-brand-d61c7e66240b?source=rss------ux-5",
+      "pubDate": "Fri, 24 Jul 2026 08:51:27 GMT"
     },
     {
-      "headline": "Banana Box UX: Real-World Observation Over Design Tools",
-      "background": "UX practitioners often over-index on digital tools and frameworks, losing sight of how everyday physical experiences reveal interaction principles. This piece argues for grounding design thinking in direct observation of mundane, non-digital contexts.",
+      "headline": "Hyundai opens dedicated UX studio in Shanghai",
+      "background": "Automakers have been building out regional design and UX centers to localize in-vehicle and digital experiences for specific markets, particularly in China where EV and software-defined vehicle competition is intense.",
       "keyFindings": [
-        "The article uses a banana packaging scenario to illustrate how affordances and user expectations are shaped by context outside of screens",
-        "Physical product experiences can expose assumptions that digital-only design processes miss",
-        "Observation of everyday logistics and handling can reveal UX principles that Figma workflows obscure"
+        "Hyundai has established a new UX-focused studio specifically in Shanghai",
+        "The move signals investment in China-specific user experience research and design capability",
+        "No detail is available on team size, scope, or product focus from the snippet"
       ],
-      "implications": "Useful as a mindset prompt, but light on methodology. Best suited for designers early in their practice or those looking to reframe how they source design inspiration — not a substitute for structured research.",
+      "implications": "Indicates automotive UX is being treated as a regionally differentiated discipline rather than a global standard. Teams working on automotive or mobility UX should note the growing precedent of market-specific studios.",
       "tags": [
-        "Design Thinking",
-        "Observation Methods",
-        "Physical UX"
+        "Automotive UX",
+        "Global Design",
+        "Organizational Design"
       ],
       "featured": false,
-      "type": "opinion",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1200/1*ZLk4CfDE0wLz2-4ydKHPlA.png",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@kthilini1999/a-box-of-bananas-changed-the-way-i-think-about-ux-d6df002a9f39?source=rss------ux_research-5",
-      "pubDate": "Fri, 24 Jul 2026 10:31:52 GMT"
-    },
-    {
-      "headline": "Banana Box UX: Real-World Observation Over Design Tools",
-      "background": "UX practitioners often over-index on digital tools and frameworks, losing sight of how everyday physical experiences reveal interaction principles. This piece argues for grounding design thinking in direct observation of mundane, non-digital contexts.",
-      "keyFindings": [
-        "The article uses a banana packaging scenario to illustrate how affordances and user expectations are shaped by context outside of screens",
-        "Physical product experiences can expose assumptions that digital-only design processes miss",
-        "Observation of everyday logistics and handling can reveal UX principles that Figma workflows obscure"
-      ],
-      "implications": "Useful as a mindset prompt, but light on methodology. Best suited for designers early in their practice or those looking to reframe how they source design inspiration — not a substitute for structured research.",
-      "tags": [
-        "Design Thinking",
-        "Observation Methods",
-        "Physical UX"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1200/1*ZLk4CfDE0wLz2-4ydKHPlA.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@kthilini1999/a-box-of-bananas-changed-the-way-i-think-about-ux-d6df002a9f39?source=rss------product_design-5",
-      "pubDate": "Fri, 24 Jul 2026 10:31:52 GMT"
-    },
-    {
-      "headline": "Dark Patterns in Indian Apps: Growth Pressure Drives Ethical Failures",
-      "background": "Dark patterns — UI designs that manipulate users into unintended actions — are increasingly scrutinized globally, but enforcement and awareness vary sharply by market. Indian consumer apps have drawn attention for aggressive growth-driven UI tactics that exploit low digital literacy.",
-      "keyFindings": [
-        "Growth targets are frequently cited internally as the justification for introducing manipulative UI patterns such as hidden unsubscribe flows and forced consent",
-        "Indian regulatory frameworks around dark patterns are still developing, creating a compliance gap that product teams exploit",
-        "Ethical design alternatives exist for the same conversion goals but require longer-term thinking about user trust and retention"
-      ],
-      "implications": "Product and growth teams should audit conversion-boosting UI changes against established dark pattern taxonomies before shipping. Pressure to hit short-term metrics is the primary risk factor — this piece is a useful prompt for teams without a formal ethics review step.",
-      "tags": [
-        "Dark Patterns",
-        "Ethics",
-        "Growth Design"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*ygCY57YT4FsSUtzl8d4bMw.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@cse.khushbu/indian-apps-dark-patterns-vs-ethical-design-f899dc5d3568?source=rss------product_design-5",
-      "pubDate": "Fri, 24 Jul 2026 10:29:22 GMT"
-    },
-    {
-      "headline": "Linear Bearings vs. Guide Rails: An Engineering Selection Guide",
-      "background": "Mechanical engineers selecting components for linear motion systems often default to catalog browsing rather than application-first thinking, leading to mismatched specifications and unnecessary cost or complexity.",
-      "keyFindings": [
-        "Linear bearings and guide rails both enable smooth linear motion but differ in load capacity, precision requirements, and environmental tolerance",
-        "The correct choice depends on the machine's load direction, speed, and alignment constraints — not component availability",
-        "Starting from catalog specs rather than machine requirements is identified as the primary source of component mismatch"
-      ],
-      "implications": "Not directly relevant to UX, product, or tech work. This article appears to have been included in the feed in error — it covers mechanical engineering component selection.",
-      "tags": [
-        "Mechanical Engineering",
-        "Hardware Design",
-        "Off-Topic"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/600/1*npV2MZIu0-JrufU_Nqevrg.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@orion_33367/linear-bearings-or-guide-rails-start-with-the-machine-not-the-catalog-11972c055b42?source=rss------product_design-5",
-      "pubDate": "Fri, 24 Jul 2026 10:08:59 GMT"
-    },
-    {
-      "headline": "AI in Market Research: What a 2025 Conference Actually Showed",
-      "background": "AI adoption in user and market research is accelerating, but practitioners are uncertain which applications are production-ready versus overhyped. The MRS AI in Research Conference focused specifically on real deployment cases rather than theoretical capability.",
-      "keyFindings": [
-        "Conference sessions centered on case studies of AI augmenting — not replacing — qualitative research synthesis and participant recruitment",
-        "A recurring tension emerged between AI's efficiency gains and the risk of flattening nuanced human responses into clean but shallow summaries",
-        "Teams reported that AI tools required significant prompt engineering and human oversight to produce research outputs that met professional standards"
-      ],
-      "implications": "For UX researchers considering AI-assisted synthesis tools: the conference findings suggest efficiency gains are real but quality control overhead is underestimated. Build in review steps proportional to the stakes of the research decision.",
-      "tags": [
-        "AI Research Tools",
-        "User Research",
-        "Qualitative Methods"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*G4LBiBuszBYsDkf__4DefA.jpeg",
-      "source": "UX on Medium",
-      "link": "https://medium.com/autotrader/human-truth-in-a-digital-era-reflections-from-the-mrs-ai-in-research-conference-bcb6651f4769?source=rss------ux-5",
-      "pubDate": "Fri, 24 Jul 2026 09:40:54 GMT"
-    },
-    {
-      "headline": "AI in Market Research: What a 2025 Conference Actually Showed",
-      "background": "AI adoption in user and market research is accelerating, but practitioners are uncertain which applications are production-ready versus overhyped. The MRS AI in Research Conference focused specifically on real deployment cases rather than theoretical capability.",
-      "keyFindings": [
-        "Conference sessions centered on case studies of AI augmenting — not replacing — qualitative research synthesis and participant recruitment",
-        "A recurring tension emerged between AI's efficiency gains and the risk of flattening nuanced human responses into clean but shallow summaries",
-        "Teams reported that AI tools required significant prompt engineering and human oversight to produce research outputs that met professional standards"
-      ],
-      "implications": "For UX researchers considering AI-assisted synthesis tools: the conference findings suggests efficiency gains are real but quality control overhead is underestimated. Build in review steps proportional to the stakes of the research decision.",
-      "tags": [
-        "AI Research Tools",
-        "User Research",
-        "Qualitative Methods"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*G4LBiBuszBYsDkf__4DefA.jpeg",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/autotrader/human-truth-in-a-digital-era-reflections-from-the-mrs-ai-in-research-conference-bcb6651f4769?source=rss------ux_research-5",
-      "pubDate": "Fri, 24 Jul 2026 09:40:54 GMT"
-    },
-    {
-      "headline": "Over-Documentation Is Eroding Team Memory, Not Preserving It",
-      "background": "The proliferation of async tools — AI meeting summarizers, synced note apps, cloud storage — has made capturing information frictionless, prompting a growing counter-argument that volume of capture is undermining actual retention and sensemaking.",
-      "keyFindings": [
-        "When everything is recorded, teams deprioritize active processing during meetings, offloading comprehension to tools that produce summaries without understanding",
-        "Studies on cognitive load suggest that effortful note-taking encodes information more durably than passive capture — a gap AI summarizers widen",
-        "Teams relying heavily on auto-documentation report difficulty locating institutional knowledge despite theoretically having it all stored"
-      ],
-      "implications": "Product and UX teams using AI meeting tools should distinguish between documentation for compliance or audit purposes versus documentation meant to drive decisions. For the latter, structured human synthesis still outperforms automated capture.",
-      "tags": [
-        "Knowledge Management",
-        "AI Tools",
-        "Team Workflows"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*NDVhfTK7qikL_dL3nSPNwQ.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@designdayofficial/when-capturing-everything-means-remembering-nothing-94fcff1eaaf0?source=rss------ux-5",
-      "pubDate": "Fri, 24 Jul 2026 09:28:27 GMT"
-    },
-    {
-      "headline": "Bath Salts Promotion: Not Relevant to This Digest",
-      "background": "This article appears to promote a consumer bath product and has no connection to UX, product design, or technology topics.",
-      "keyFindings": [
-        "Content is promotional in nature",
-        "No relevance to UX, product, or tech work",
-        "Appears to be a feed ingestion error or spam content"
-      ],
-      "implications": "No implications for UX or product practice. This item should be filtered from the feed.",
-      "tags": [
-        "Off-Topic",
-        "Feed Error"
-      ],
-      "featured": false,
-      "type": "opinion",
+      "type": "research",
+      "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@bensonkimani716/awareness-campaign-concentrated-vanilla-sky-bath-salts-ace9ac58dc47?source=rss------ux_research-5",
-      "pubDate": "Fri, 24 Jul 2026 09:11:04 GMT"
+      "source": "Just Auto",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3Z00yZWRQcXdfSkxtUDR5WTBSaW96MmdMM290U1lpTG9BbHlIeDZQbzVNRGp6VHIyT0Ntb3ozNXdDNkJ1R1NReEM4NGVhLVN2ZG9KWGpIQnlqM3pkLTZXM0x1Z1VxbF81YkxaOXcxVW5tNEhvR1p3?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 08:14:51 GMT"
     },
     {
-      "headline": "Using AI to Structure and Present Design Thinking",
-      "background": "Designers frequently struggle to translate messy, iterative thinking — sticky notes, half-formed frameworks, scattered references — into coherent presentations for stakeholders. AI writing and structuring tools are being tested as a bridge between raw ideation and polished communication.",
+      "headline": "KT&G redesigns cigarette case by removing, not adding",
+      "background": "KT&G's Reel Able line is a tobacco product packaging project that has iterated through multiple versions, with version 3.0 explicitly built around a design philosophy of reduction — removing elements to increase aesthetic value.",
       "keyFindings": [
-        "The author used AI to convert unstructured sticky-note thinking into a structured two-slide narrative, reducing presentation prep time significantly",
-        "AI was most useful at the structuring and sequencing stage, not at generating original design insight",
-        "The workflow required the designer to have already done substantive thinking — AI organized existing ideas rather than producing new ones"
+        "The design principle is called 'aesthetics of excluding' — each iteration removed elements rather than added them",
+        "The phrase 'the more I took it out, the more I drew it' reflects a process where subtraction revealed stronger form",
+        "Version 3.0 represents the third major design iteration under this reductive framework"
       ],
-      "implications": "Worth testing for designers who spend disproportionate time on deck production rather than thinking. The key constraint is input quality: AI structuring tools amplify clarity in your existing thinking but cannot substitute for it.",
+      "implications": "The reduction-as-design-philosophy approach is directly applicable to UI and product design teams dealing with feature bloat or visual noise. Worth noting this comes from physical packaging, not digital — translation to screen requires deliberate adaptation.",
       "tags": [
+        "Design Philosophy",
+        "Product Design",
+        "Minimalism"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2TG5OU0dkTDZ2QkNXTDdyM2V4OXFCamtaWUhFWFRfb2pOaUtjT2ZDUEFYRUxiZjhLSVN0LTN1X2Y0aVZxcWFsbjRhb1pRNFdUak4w?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 06:19:18 GMT"
+    },
+    {
+      "headline": "Hyundai Q2 revenue record but profit drops 20%+",
+      "background": "Hyundai has been investing heavily in EV platforms, software-defined vehicles, and global design infrastructure, raising questions about whether those investments are compressing near-term margins.",
+      "keyFindings": [
+        "Hyundai achieved record revenue in Q2 despite broader automotive market pressures",
+        "Net profit fell more than 20% year-over-year, suggesting cost pressures outpaced revenue gains",
+        "The financial context is relevant given simultaneous announcements of new UX studio investments"
+      ],
+      "implications": "For UX and product teams inside large automotive organizations, this kind of profit squeeze often precedes budget reviews for non-core design initiatives. Context worth tracking if you work in or with automotive.",
+      "tags": [
+        "Automotive",
+        "Business Context",
+        "Industry Trends"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JWjhkYUczbmRwdDNxRnhGUVRHS1hIcURVMFNBUnZpRTUxS25QdzJ5STIzeXcwdUlsZ2M5SDBrOG14a0tISTZFcGQ2UTQzZklKckE?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 05:29:35 GMT"
+    },
+    {
+      "headline": "India's smart cities need a trained workforce, not just tech",
+      "background": "India's Smart Cities Mission has focused heavily on technology infrastructure, but implementation gaps have surfaced around human capital — the people needed to operate, maintain, and evolve these systems.",
+      "keyFindings": [
+        "Nasscom identifies workforce development as a critical bottleneck in smart city rollout across India",
+        "Technical infrastructure investment is outpacing the availability of trained operators and administrators",
+        "The piece calls for structured upskilling programs aligned to smart city operational roles"
+      ],
+      "implications": "For civic tech and urban UX designers, this is a reminder that deploying systems into under-resourced human contexts creates adoption failure regardless of interface quality. Workforce readiness should be part of any smart city UX strategy.",
+      "tags": [
+        "Civic Tech",
+        "Smart Cities",
+        "Workforce"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Nasscom",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY2xNMUwtdlRsUFMwYjVTMmRRVl9qOHZ1c3NzLVhLWHlNVktrSVk5NUhscmc0SFp2RFJndkQtdjMwYXNmcHRkWjhRbklqQktTVTJIMTdyN1AycElfVlRWM196LTR2YmhIaDNiQmFtZ3NVajNrY1JKRnh3dTR4Zy1sUkpqMWhkVWNGZmpDdGMwa2lHSF96c2I1bDhoOGxfd1k?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 04:56:54 GMT"
+    },
+    {
+      "headline": "Real friction points in AI code assistant UX, documented",
+      "background": "AI code assistants like GitHub Copilot and Cursor have seen rapid adoption, but systematic documentation of where their UX breaks down — rather than vendor-reported satisfaction metrics — has been limited.",
+      "keyFindings": [
+        "The piece identifies specific UX friction points in code assistant tools, not just general dissatisfaction",
+        "Friction categories include suggestion timing, context misreads, and workflow interruption patterns",
+        "Published via blockchain.news, suggesting the angle may be specific to Web3 or smart contract development tooling"
+      ],
+      "implications": "Directly actionable for teams building or evaluating developer tools. If you're integrating AI coding assistance into a product, these friction points are likely to affect adoption and perceived productivity gains.",
+      "tags": [
+        "Developer Tools",
         "AI Tools",
-        "Presentation",
-        "Design Communication"
+        "Friction Analysis"
+      ],
+      "featured": true,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "blockchain.news",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10aGRqV01fYzV2bTZwRG1sZDVhRmpLaXphUF80cXBPdXRWVWpPdEc2T1FFeUxqOUtQTVllOWtVZnd5aF9DY29uR2V1eFMwNmdpa2g1NlNnaW1JRGcyR056NVpVeVFoNXgycVR4dWJwMkhMUDg?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 04:56:29 GMT"
+    },
+    {
+      "headline": "Microcopy is a design decision, not a writing afterthought",
+      "background": "UX writing remains undervalued in many product teams, often added at the end of the design process rather than treated as a structural component of the user experience.",
+      "keyFindings": [
+        "Microcopy — button labels, error messages, empty states, tooltips — directly affects task completion and user confidence",
+        "The piece argues these small text decisions carry disproportionate UX weight relative to the attention they receive in design reviews",
+        "Framing, tone, and specificity in microcopy have measurable effects on conversion and error recovery"
+      ],
+      "implications": "For product designers and PMs: microcopy decisions made late in the process are harder and more expensive to fix post-launch. Building UX writing review into design critiques, not just content audits, reduces rework.",
+      "tags": [
+        "UX Writing",
+        "Microcopy",
+        "Content Design"
       ],
       "featured": false,
       "type": "opinion",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1024/1*HMjm69KfG0YgBf-mssjFpA.png",
+      "image": "https://cdn-images-1.medium.com/max/1147/0*BMHQ0MhsKsp0bxeQ",
       "source": "UX on Medium",
-      "link": "https://medium.com/@aleksandardobrohotov/a-new-way-to-present-your-thinking-with-ux-and-ai-together-6d2a1a6aa709?source=rss------ux-5",
-      "pubDate": "Fri, 24 Jul 2026 08:55:28 GMT"
+      "link": "https://medium.com/@ashish.devoq/ux-writing-101-how-microcopy-shapes-the-user-experience-06ae3472791d?source=rss------ux-5",
+      "pubDate": "Fri, 24 Jul 2026 04:43:51 GMT"
+    },
+    {
+      "headline": "AI shifts product discovery from assumption to evidence",
+      "background": "Product discovery has long relied on a mix of user interviews, analytics, and intuition — a process that's slow and prone to confirmation bias. AI tooling is beginning to change what's possible at the discovery phase.",
+      "keyFindings": [
+        "The core argument is that AI's biggest product impact is upstream — in problem identification — not in UI generation",
+        "AI can synthesize qualitative and quantitative signals at a scale that manual discovery methods can't match",
+        "The piece positions AI-assisted discovery as reducing guesswork, not replacing judgment"
+      ],
+      "implications": "Product managers and UX researchers should evaluate AI tools at the discovery stage, not just for prototyping or copy generation. The risk is over-relying on AI-synthesized signals without validating the framing of the problems it surfaces.",
+      "tags": [
+        "Product Discovery",
+        "AI Tools",
+        "Research"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "UX on Medium",
+      "link": "https://medium.com/@ashwinkrishnaswamy20/how-ai-is-changing-product-discovery-from-guesswork-to-better-decisions-2c0f1fba925c?source=rss------ux-5",
+      "pubDate": "Fri, 24 Jul 2026 04:31:07 GMT"
+    },
+    {
+      "headline": "A manifesto for designers who also write code",
+      "background": "The boundary between design and engineering has been contested for years, with ongoing debate about whether designers should code and whether engineers should own design decisions. This piece attempts a values-based framing of that hybrid role.",
+      "keyFindings": [
+        "Structured as a remix of the Critical Engineering Manifesto, applying its principles to the design-engineering overlap",
+        "Argues that critically inhabiting the design-engineering space requires awareness of how technical decisions are also political and aesthetic ones",
+        "Positions the design engineer as someone who must interrogate tools and systems, not just use them"
+      ],
+      "implications": "Relevant for design engineers, staff designers, and anyone building design systems who wants a principled framework for navigating the role. More philosophical than prescriptive — useful for framing team role definitions or hiring criteria.",
+      "tags": [
+        "Design Engineering",
+        "Design Systems",
+        "Role Definition"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1252/1*cCtydG4kaq7-1n-WouB4SQ.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@pip_shea/the-critical-design-engineering-manifesto-55502bbd1f21?source=rss------ux-5",
+      "pubDate": "Fri, 24 Jul 2026 03:50:11 GMT"
+    },
+    {
+      "headline": "Crypto exchange drops account requirement to reduce onboarding friction",
+      "background": "KYC and account creation remain major drop-off points in crypto exchange onboarding, particularly for users who want to make one-off trades without committing to a platform.",
+      "keyFindings": [
+        "Bitania allows crypto trading without account creation, eliminating KYC-related onboarding friction entirely",
+        "The no-account model is positioned as a trust and privacy feature, not just a convenience one",
+        "This approach trades regulatory compliance simplicity for user acquisition, a tradeoff with significant legal implications depending on jurisdiction"
+      ],
+      "implications": "UX designers working on fintech onboarding should note the conversion argument here, but the no-KYC model carries real regulatory risk that varies by region. Do not treat this as a general onboarding best practice without legal review.",
+      "tags": [
+        "Fintech UX",
+        "Onboarding",
+        "Crypto"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "BlockchainReporter",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVGZfWWJzcTlCZ0NXWnhtUXk2QlpWRE1MQklFa3RHNncyZ1h6a3V6ZU96ZU1qWEpuVS1PcE5OVlJjSnhCX21Sc2RqTmh4S0hNM3VCTkE5QklQQVFGb1d5OTBfRXNidE02N2xxSmtrTkhEY1kzRnZ4Y0tUeV8yOUhKYnF4NENVZTJRRTFvNVVTNExEUHNTN0s3TjZ4WkVuZw?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 03:03:02 GMT"
     }
   ]
 }
