@@ -1,235 +1,235 @@
 {
-  "generatedAt": "2026-07-24T10:59:38.113Z",
+  "generatedAt": "2026-07-24T11:42:01.965Z",
   "items": [
     {
-      "headline": "Pet food app UX case study: one-ingredient brand design",
-      "background": "End-to-end UX case studies for niche consumer products are a common portfolio format, but few tackle the specific challenge of simplifying complex nutritional decision-making for pet owners.",
+      "headline": "Fighting AI's pull toward mediocre output",
+      "background": "As AI writing and design tools become default parts of creative workflows, practitioners are raising concerns that defaulting to AI-generated output is compressing quality toward an unremarkable average — producing work that is competent but indistinct.",
       "keyFindings": [
-        "Designed for a single-ingredient pet food brand, reducing decision complexity to one core variable: protein source",
-        "Case study covers full process from research through final UI, grounded in personal experience as a multi-cat owner",
-        "Focuses on trust-building as a primary UX goal given skepticism in the pet food market"
+        "AI tools optimize for acceptable output, not exceptional output, creating systematic pressure toward the mean",
+        "Practitioners who rely on AI without a strong editorial or creative filter risk producing work indistinguishable from competitors using the same tools",
+        "Developing a distinct point of view and taste is positioned as the primary defense against AI-driven homogenization"
       ],
-      "implications": "Useful as a portfolio reference for designers working on health or food products where ingredient transparency is a differentiator. The single-attribute simplification approach is transferable to other high-anxiety purchase decisions.",
+      "implications": "For UX and product writers, the risk is not being replaced by AI but becoming interchangeable with everyone else using it. Maintaining a sharp creative standard and using AI as a starting point rather than an endpoint is the practical counter.",
       "tags": [
-        "Case Study",
-        "Consumer Apps",
-        "Information Architecture"
+        "AI tools",
+        "Content strategy",
+        "Design quality"
       ],
-      "featured": false,
+      "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*4jljX5aXc139HKVGuVYjIQ.png",
+      "image": "https://cdn-images-1.medium.com/max/2388/1*AmFyXhpWu-1nF8VVDvrZdQ.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/@alicaputriazz/design-process-of-creating-pet-po-an-end-to-end-ux-case-study-for-a-one-ingredient-pet-food-brand-d61c7e66240b?source=rss------ux-5",
-      "pubDate": "Fri, 24 Jul 2026 08:51:27 GMT"
+      "link": "https://uxdesign.cc/the-aggressively-mediocre-fight-ed47b3f9f8f4?source=rss------ux-5",
+      "pubDate": "Fri, 24 Jul 2026 11:09:23 GMT"
     },
     {
-      "headline": "Hyundai opens dedicated UX studio in Shanghai",
-      "background": "Automakers have been building out regional design and UX centers to localize in-vehicle and digital experiences for specific markets, particularly in China where EV and software-defined vehicle competition is intense.",
+      "headline": "Two years using session recordings as a design research tool",
+      "background": "Product designers often struggle to access quantitative behavioral data quickly, relying on engineers or analysts as intermediaries. Session recording tools have matured to the point where designers can self-serve this data directly.",
       "keyFindings": [
-        "Hyundai has established a new UX-focused studio specifically in Shanghai",
-        "The move signals investment in China-specific user experience research and design capability",
-        "No detail is available on team size, scope, or product focus from the snippet"
+        "After two years, the author found session recordings reduced the time to answer quantitative design questions from days to under 30 minutes",
+        "Direct access to session data let designers validate assumptions about user flows without waiting on data teams",
+        "The workflow shift required building habits around when to pull recordings versus running formal usability tests"
       ],
-      "implications": "Indicates automotive UX is being treated as a regionally differentiated discipline rather than a global standard. Teams working on automotive or mobility UX should note the growing precedent of market-specific studios.",
+      "implications": "Session recording tools are most valuable when integrated into regular design review cycles, not used reactively. Teams should establish clear norms for when self-serve behavioral data is sufficient versus when structured research is needed.",
       "tags": [
-        "Automotive UX",
-        "Global Design",
-        "Organizational Design"
+        "Research methods",
+        "Session recording",
+        "Data democratization"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*ZFJfcJARU6hs8w_3yJv84w.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.muz.li/data-democratization-for-product-designers-2-years-with-session-recording-ea2d5d661da9?source=rss------product_design-5",
+      "pubDate": "Fri, 24 Jul 2026 11:01:01 GMT"
+    },
+    {
+      "headline": "A 20-day AI experiment changed the author's skepticism — unexpectedly",
+      "background": "AI skepticism among designers and knowledge workers is common, often based on early disappointment with output quality or concerns about creative displacement. Structured, extended experiments with AI tools tend to produce more nuanced conclusions than short trials.",
+      "keyFindings": [
+        "Twenty days of deliberate AI use shifted the author's skepticism, but not by proving AI is broadly capable",
+        "The change was about identifying specific, narrow tasks where AI adds genuine value rather than wholesale adoption",
+        "Skepticism about AI's creative role remained; the shift was in recognizing its utility as a process tool"
+      ],
+      "implications": "For practitioners sitting out AI tools on principle, a time-boxed structured trial focused on specific workflow tasks is more informative than general experimentation. Conclusions are more reliable when the test conditions are defined upfront.",
+      "tags": [
+        "AI tools",
+        "Workflow",
+        "Design process"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@anugrahajawahar/day-20-i-started-this-to-fix-my-ai-skepticism-it-worked-just-not-the-way-i-expected-959a0de0d3ce?source=rss------product_design-5",
+      "pubDate": "Fri, 24 Jul 2026 03:21:04 GMT"
+    },
+    {
+      "headline": "Why jumping to solutions before understanding problems backfires",
+      "background": "Premature problem-solving is a persistent failure mode in product and UX work, where teams skip problem definition and move directly to solutions — often solving the wrong thing efficiently. This piece revisits the case for front-loading understanding.",
+      "keyFindings": [
+        "Most problem-solving failures stem from misdiagnosis at the framing stage, not execution failures downstream",
+        "Spending structured time defining the problem before generating solutions consistently improves solution relevance",
+        "The 'understanding first' approach requires resisting organizational pressure to show visible progress quickly"
+      ],
+      "implications": "In sprint-driven environments, the pressure to produce artifacts early actively works against good problem framing. Teams should build explicit problem-definition phases into their process and treat reframing as a deliverable, not a delay.",
+      "tags": [
+        "Problem framing",
+        "Design process",
+        "Product thinking"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@junaidmaniyar/why-most-problem-solving-fails-the-power-of-understanding-first-961773545425?source=rss------ux_research-5",
+      "pubDate": "Fri, 24 Jul 2026 03:00:18 GMT"
+    },
+    {
+      "headline": "Ceremony pitches matcha as a premium ritual product",
+      "background": "The specialty beverage market has seen growing consumer interest in non-coffee alternatives, with matcha in particular attracting direct-to-consumer brands targeting health-conscious and ritual-focused buyers.",
+      "keyFindings": [
+        "Ceremony positions matcha consumption as a deliberate daily ritual rather than a functional caffeine substitute",
+        "The brand uses premium sourcing and preparation guidance as core product differentiators",
+        "Target audience appears to be consumers who already pay a premium for coffee and are open to category switching"
+      ],
+      "implications": "Limited direct relevance to UX or product practice. Of peripheral interest to those working on DTC e-commerce, health, or lifestyle product UX where ritual and habit formation are core to retention.",
+      "tags": [
+        "DTC",
+        "Brand positioning",
+        "Consumer products"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Just Auto",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3Z00yZWRQcXdfSkxtUDR5WTBSaW96MmdMM290U1lpTG9BbHlIeDZQbzVNRGp6VHIyT0Ntb3ozNXdDNkJ1R1NReEM4NGVhLVN2ZG9KWGpIQnlqM3pkLTZXM0x1Z1VxbF81YkxaOXcxVW5tNEhvR1p3?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 08:14:51 GMT"
+      "source": "Wanted Online",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0MyOFBqZnd4NW9CRDlfSTNFdzZnb3dleDM1QXhMSkNSWjF5TjRmRHExWFVxcXloS2hNSDFLSERDRTI2NTJBV0pTZDhfc3lKM2V1VTM4T19nRk12YkxKWEtDUUMyd3VwT2VyaExiNzQ1OEVxSjhIZUMwNUFrLWdvRkI5bld2VGpnYmtmM21yWWROM3hDdnhvNVdscm50ZUp2NUhv?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 03:00:00 GMT"
     },
     {
-      "headline": "KT&G redesigns cigarette case by removing, not adding",
-      "background": "KT&G's Reel Able line is a tobacco product packaging project that has iterated through multiple versions, with version 3.0 explicitly built around a design philosophy of reduction — removing elements to increase aesthetic value.",
+      "headline": "KT rolls out AI tools across its entire workforce",
+      "background": "Large enterprises are moving beyond AI pilots to company-wide deployment, raising practical questions about change management, tool integration, and how AI capabilities get embedded in non-technical roles.",
       "keyFindings": [
-        "The design principle is called 'aesthetics of excluding' — each iteration removed elements rather than added them",
-        "The phrase 'the more I took it out, the more I drew it' reflects a process where subtraction revealed stronger form",
-        "Version 3.0 represents the third major design iteration under this reductive framework"
+        "KT is expanding its AID-X AI platform from select teams to all employees company-wide",
+        "The rollout prioritizes embedding AI into existing workplace workflows rather than replacing them",
+        "Company-wide deployment signals a shift from AI as experiment to AI as standard operating infrastructure"
       ],
-      "implications": "The reduction-as-design-philosophy approach is directly applicable to UI and product design teams dealing with feature bloat or visual noise. Worth noting this comes from physical packaging, not digital — translation to screen requires deliberate adaptation.",
+      "implications": "For teams designing internal tools or enterprise software, company-wide AI rollouts create new UX requirements around onboarding at scale, role-specific interfaces, and managing uneven AI literacy across an organization.",
       "tags": [
-        "Design Philosophy",
-        "Product Design",
-        "Minimalism"
+        "Enterprise AI",
+        "Internal tools",
+        "Workforce technology"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2TG5OU0dkTDZ2QkNXTDdyM2V4OXFCamtaWUhFWFRfb2pOaUtjT2ZDUEFYRUxiZjhLSVN0LTN1X2Y0aVZxcWFsbjRhb1pRNFdUak4w?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 06:19:18 GMT"
+      "source": "디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLTBlQ3dDQXhqVlRZN1d6OUJJNVhmMndqUHpobklkYWpDSk0tYmZfY3RZZm9PU2tqdE1iMml0Q29CaW5peHp1T010bEI5TDNIM0JncUlqVnBRNW9EcDVwNHN1QkUwUks3NU1ScG5vUXBBcFkxVjFIcno4RXFlWU9WVy02MV9BU0lsZW1Uc0lMMFNwSHMwZU5raEdkWWFOLWpBdEtZ?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 23:59:09 GMT"
     },
     {
-      "headline": "Hyundai Q2 revenue record but profit drops 20%+",
-      "background": "Hyundai has been investing heavily in EV platforms, software-defined vehicles, and global design infrastructure, raising questions about whether those investments are compressing near-term margins.",
+      "headline": "Car rental app development company rankings for 2027",
+      "background": "Vertical-specific app development is a mature market segment, and periodic rankings of development vendors serve procurement and sourcing needs for companies building in that category.",
       "keyFindings": [
-        "Hyundai achieved record revenue in Q2 despite broader automotive market pressures",
-        "Net profit fell more than 20% year-over-year, suggesting cost pressures outpaced revenue gains",
-        "The financial context is relevant given simultaneous announcements of new UX studio investments"
+        "The list targets companies planning to build or overhaul car rental mobile apps in the near term",
+        "Rankings appear based on portfolio breadth and claimed platform expertise rather than independent performance data",
+        "No UX-specific methodology or user outcome metrics are cited in the ranking criteria"
       ],
-      "implications": "For UX and product teams inside large automotive organizations, this kind of profit squeeze often precedes budget reviews for non-core design initiatives. Context worth tracking if you work in or with automotive.",
+      "implications": "Minimal relevance to UX or product research. Rankings of this type should be treated as vendor marketing directories rather than independent assessments; independent reference checks and portfolio reviews remain necessary.",
+      "tags": [
+        "Vendor selection",
+        "Mobile development",
+        "App development"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "WhaTech",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNldoOG5hT1NPc0ZlOG1oRzNIVTJjNkRrVUh2bE1XY2xSVUNISG1wMVRxSVhHc1c1X184ckhuRW1TOTYxQXp3NVY4dktnME5LOTNtbWl0ZVNyZDJIVDRJYjlFUHBCd0dESG1GaDZMc3pNQXhYS2puWDFWZHNmMXhSQm5qZ1FjZklSSGxEbThpcTB6azVWWGtCNzhIVHdxd3ZMTm1uMEtHMnPSAa4BQVVfeXFMT1BwVzY5QlhWZ1ZKT1pmcU5RYk5WeDh0WjJoVkxXcU5rVGNyOG02dTFoSGtSYm1tZjRDQUVEM0hFdjlTRjRrS0N1cElwOVEyVDV1NnhBZU10MkM4UkRqZjR3ZTV0U2ZTb2g1VUtVemZHRHJxUWlVbklhSmRxNGpNS0tDcF9FUk53MlNkN240bHVBR0E2NEFZb0FMUExjM2ZydHN5cm5iYjlBZmFyU3dn?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 21:35:28 GMT"
+    },
+    {
+      "headline": "Bilendi keeps revenue flat while pivoting to AI-native research",
+      "background": "Bilendi is a European market research and data collection company undergoing a strategic shift toward AI-driven insights products. Flat revenue during a transformation period is a common signal of transition costs versus growth.",
+      "keyFindings": [
+        "Bilendi held H1 revenue steady, with international growth offsetting softness in core markets",
+        "The company is repositioning from traditional data collection toward an AI-native insights platform",
+        "Stable revenue during a strategic pivot suggests the transition has not yet produced growth acceleration"
+      ],
+      "implications": "For UX researchers and insights teams evaluating research platform vendors, Bilendi's transformation is worth monitoring — platform pivots to AI-native architectures often change data collection methods, output formats, and pricing models in ways that affect research workflows.",
+      "tags": [
+        "Research platforms",
+        "Market research",
+        "AI transformation"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWDV4WEw0MjBQODNxWEJocGRobGpNdHpiX3RJM0M1TVRSSzVMdDdMWERyR3VpdkNTOHdydl8xU09WVW9iSkRjOVZRUVJ4N1V0UDM2NG04NTYxQUVDQ2xjSFc4aVAyYU5oeWhhY21CR0hMYmdSLWpyVmNSRXJ0QVlac01WQ2tuWENrRDczUDRiQS1pSUo0aHJSTXFqbXZ1OHpIdkRPNWx6MHZyVEhHSmpZUGJqVjlfWXFPNzVGdWVEM1pQaW9zNU1MMzROSC1UVUh2dFlNYkZiQVA?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 16:28:36 GMT"
+    },
+    {
+      "headline": "Hyundai profit drops 20.8% under tariff, currency, and demand pressure",
+      "background": "Hyundai's financial results reflect broader pressures facing global automakers: US tariff exposure, won-dollar currency volatility, and softening EV demand in key markets.",
+      "keyFindings": [
+        "Operating profit fell 20.8% year-over-year, driven by three compounding challenges identified in the report",
+        "Tariff impacts from US trade policy are cited as a primary near-term earnings headwind",
+        "The results indicate pressure on Hyundai's investment capacity for digital and software-defined vehicle development"
+      ],
+      "implications": "Largely a financial news item with indirect relevance to UX practitioners working in automotive or mobility tech — constrained OEM budgets typically slow investment in in-vehicle UX, connected services, and digital product teams.",
       "tags": [
         "Automotive",
-        "Business Context",
-        "Industry Trends"
+        "Business strategy",
+        "Industry news"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JWjhkYUczbmRwdDNxRnhGUVRHS1hIcURVMFNBUnZpRTUxS25QdzJ5STIzeXcwdUlsZ2M5SDBrOG14a0tISTZFcGQ2UTQzZklKckE?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 05:29:35 GMT"
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObnlveHFCWlFmZVVJdUppeEdoaUZSaXpHTkVlQkI2X01tR3hVcjEwbTJrektieEZQMm13eU1SeHBfNk1fUUx6ZVZkQnYwODNEUHVhaFlpbGpKckhlWU9nOVZGajE5QzNGWHR5aHZWT1hnMFNwdHNyZy0zSThvNkZvRG45SC11WGxt?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 15:56:43 GMT"
     },
     {
-      "headline": "India's smart cities need a trained workforce, not just tech",
-      "background": "India's Smart Cities Mission has focused heavily on technology infrastructure, but implementation gaps have surfaced around human capital — the people needed to operate, maintain, and evolve these systems.",
+      "headline": "Bilendi H1 2026 revenue holds at €43.2M during AI pivot",
+      "background": "This is the primary financial results release underlying the Bilendi coverage above, providing the specific revenue figure and strategic framing directly from the company.",
       "keyFindings": [
-        "Nasscom identifies workforce development as a critical bottleneck in smart city rollout across India",
-        "Technical infrastructure investment is outpacing the availability of trained operators and administrators",
-        "The piece calls for structured upskilling programs aligned to smart city operational roles"
+        "H1 2026 revenue was €43.2 million, flat year-over-year",
+        "International business growth is explicitly cited as offsetting domestic market softness",
+        "The company's stated goal is to become a 'global AI-native insights platform,' signaling a fundamental product repositioning"
       ],
-      "implications": "For civic tech and urban UX designers, this is a reminder that deploying systems into under-resourced human contexts creates adoption failure regardless of interface quality. Workforce readiness should be part of any smart city UX strategy.",
+      "implications": "Researchers and procurement leads at companies using Bilendi for panel data or survey infrastructure should track how its AI-native transition affects data quality standards, methodology transparency, and contract terms.",
       "tags": [
-        "Civic Tech",
-        "Smart Cities",
-        "Workforce"
+        "Market research",
+        "Research platforms",
+        "AI transformation"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Nasscom",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY2xNMUwtdlRsUFMwYjVTMmRRVl9qOHZ1c3NzLVhLWHlNVktrSVk5NUhscmc0SFp2RFJndkQtdjMwYXNmcHRkWjhRbklqQktTVTJIMTdyN1AycElfVlRWM196LTR2YmhIaDNiQmFtZ3NVajNrY1JKRnh3dTR4Zy1sUkpqMWhkVWNGZmpDdGMwa2lHSF96c2I1bDhoOGxfd1k?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 04:56:54 GMT"
-    },
-    {
-      "headline": "Real friction points in AI code assistant UX, documented",
-      "background": "AI code assistants like GitHub Copilot and Cursor have seen rapid adoption, but systematic documentation of where their UX breaks down — rather than vendor-reported satisfaction metrics — has been limited.",
-      "keyFindings": [
-        "The piece identifies specific UX friction points in code assistant tools, not just general dissatisfaction",
-        "Friction categories include suggestion timing, context misreads, and workflow interruption patterns",
-        "Published via blockchain.news, suggesting the angle may be specific to Web3 or smart contract development tooling"
-      ],
-      "implications": "Directly actionable for teams building or evaluating developer tools. If you're integrating AI coding assistance into a product, these friction points are likely to affect adoption and perceived productivity gains.",
-      "tags": [
-        "Developer Tools",
-        "AI Tools",
-        "Friction Analysis"
-      ],
-      "featured": true,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "blockchain.news",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10aGRqV01fYzV2bTZwRG1sZDVhRmpLaXphUF80cXBPdXRWVWpPdEc2T1FFeUxqOUtQTVllOWtVZnd5aF9DY29uR2V1eFMwNmdpa2g1NlNnaW1JRGcyR056NVpVeVFoNXgycVR4dWJwMkhMUDg?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 04:56:29 GMT"
-    },
-    {
-      "headline": "Microcopy is a design decision, not a writing afterthought",
-      "background": "UX writing remains undervalued in many product teams, often added at the end of the design process rather than treated as a structural component of the user experience.",
-      "keyFindings": [
-        "Microcopy — button labels, error messages, empty states, tooltips — directly affects task completion and user confidence",
-        "The piece argues these small text decisions carry disproportionate UX weight relative to the attention they receive in design reviews",
-        "Framing, tone, and specificity in microcopy have measurable effects on conversion and error recovery"
-      ],
-      "implications": "For product designers and PMs: microcopy decisions made late in the process are harder and more expensive to fix post-launch. Building UX writing review into design critiques, not just content audits, reduces rework.",
-      "tags": [
-        "UX Writing",
-        "Microcopy",
-        "Content Design"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1147/0*BMHQ0MhsKsp0bxeQ",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@ashish.devoq/ux-writing-101-how-microcopy-shapes-the-user-experience-06ae3472791d?source=rss------ux-5",
-      "pubDate": "Fri, 24 Jul 2026 04:43:51 GMT"
-    },
-    {
-      "headline": "AI shifts product discovery from assumption to evidence",
-      "background": "Product discovery has long relied on a mix of user interviews, analytics, and intuition — a process that's slow and prone to confirmation bias. AI tooling is beginning to change what's possible at the discovery phase.",
-      "keyFindings": [
-        "The core argument is that AI's biggest product impact is upstream — in problem identification — not in UI generation",
-        "AI can synthesize qualitative and quantitative signals at a scale that manual discovery methods can't match",
-        "The piece positions AI-assisted discovery as reducing guesswork, not replacing judgment"
-      ],
-      "implications": "Product managers and UX researchers should evaluate AI tools at the discovery stage, not just for prototyping or copy generation. The risk is over-relying on AI-synthesized signals without validating the framing of the problems it surfaces.",
-      "tags": [
-        "Product Discovery",
-        "AI Tools",
-        "Research"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "UX on Medium",
-      "link": "https://medium.com/@ashwinkrishnaswamy20/how-ai-is-changing-product-discovery-from-guesswork-to-better-decisions-2c0f1fba925c?source=rss------ux-5",
-      "pubDate": "Fri, 24 Jul 2026 04:31:07 GMT"
-    },
-    {
-      "headline": "A manifesto for designers who also write code",
-      "background": "The boundary between design and engineering has been contested for years, with ongoing debate about whether designers should code and whether engineers should own design decisions. This piece attempts a values-based framing of that hybrid role.",
-      "keyFindings": [
-        "Structured as a remix of the Critical Engineering Manifesto, applying its principles to the design-engineering overlap",
-        "Argues that critically inhabiting the design-engineering space requires awareness of how technical decisions are also political and aesthetic ones",
-        "Positions the design engineer as someone who must interrogate tools and systems, not just use them"
-      ],
-      "implications": "Relevant for design engineers, staff designers, and anyone building design systems who wants a principled framework for navigating the role. More philosophical than prescriptive — useful for framing team role definitions or hiring criteria.",
-      "tags": [
-        "Design Engineering",
-        "Design Systems",
-        "Role Definition"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1252/1*cCtydG4kaq7-1n-WouB4SQ.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@pip_shea/the-critical-design-engineering-manifesto-55502bbd1f21?source=rss------ux-5",
-      "pubDate": "Fri, 24 Jul 2026 03:50:11 GMT"
-    },
-    {
-      "headline": "Crypto exchange drops account requirement to reduce onboarding friction",
-      "background": "KYC and account creation remain major drop-off points in crypto exchange onboarding, particularly for users who want to make one-off trades without committing to a platform.",
-      "keyFindings": [
-        "Bitania allows crypto trading without account creation, eliminating KYC-related onboarding friction entirely",
-        "The no-account model is positioned as a trust and privacy feature, not just a convenience one",
-        "This approach trades regulatory compliance simplicity for user acquisition, a tradeoff with significant legal implications depending on jurisdiction"
-      ],
-      "implications": "UX designers working on fintech onboarding should note the conversion argument here, but the no-KYC model carries real regulatory risk that varies by region. Do not treat this as a general onboarding best practice without legal review.",
-      "tags": [
-        "Fintech UX",
-        "Onboarding",
-        "Crypto"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "BlockchainReporter",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVGZfWWJzcTlCZ0NXWnhtUXk2QlpWRE1MQklFa3RHNncyZ1h6a3V6ZU96ZU1qWEpuVS1PcE5OVlJjSnhCX21Sc2RqTmh4S0hNM3VCTkE5QklQQVFGb1d5OTBfRXNidE02N2xxSmtrTkhEY1kzRnZ4Y0tUeV8yOUhKYnF4NENVZTJRRTFvNVVTNExEUHNTN0s3TjZ4WkVuZw?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 03:03:02 GMT"
+      "source": "marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTnhpSkZOSWlSUEp4Yk5ESWNrVnVQc2lYcWxBS3RLRHFqaS1mSlBsdmZ1R0VKcGhQS0g1a3FtSXBkbWNwVUowc2RUcnNSSHhyMXc5T21ZNzdpd3RwTTdnNjg3djUxbTRvZ0tkNFd1c1FHMFJOYnB6SjhTenJKMzhmTjJsMU8xQmZxN08tSS1LQ0RvN3FjV25Vd2dsbzdCUEFBMmtrY1BiSHVlMHdDeHRHZkdSZk5TQTAtTWRxZWZWSkF4SWpjRnVyazhVLWJfRGNqc1NmUzBRckpZSjF1UmNOM0hJODluQQ?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 15:41:05 GMT"
     }
   ]
 }
