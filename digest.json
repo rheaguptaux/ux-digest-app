@@ -1,235 +1,224 @@
 {
-  "generatedAt": "2026-07-24T21:37:57.291Z",
+  "generatedAt": "2026-07-25T15:48:01.430Z",
   "items": [
     {
-      "headline": "Custom Packaging Trends for E-commerce Brands in 2026",
-      "background": "As online retail continues to grow, brands are increasingly treating packaging as a brand touchpoint rather than a logistics necessity. This piece addresses how custom packaging strategy has evolved with that shift.",
+      "headline": "AI governance has no home in your org chart yet.",
+      "background": "As AI tools embed deeper into enterprise product and design workflows, organizations are discovering that accountability for AI decisions — who owns quality, ethics, and oversight — falls into a structural gap. Design leaders are increasingly being pulled into these conversations without clear authority or frameworks.",
       "keyFindings": [
-        "No specific data or findings are extractable from the available snippet",
-        "Content appears to be a general overview rather than a research-backed piece",
-        "Medium post lacks sufficient preview content to verify concrete claims"
+        "Three specific governance questions are now landing with design leaders in enterprise orgs, according to the piece",
+        "Existing org charts have no designated owner for AI decision accountability",
+        "Design leadership is being implicated in governance without formal mandate or tooling"
       ],
-      "implications": "Insufficient content to assess relevance or accuracy. Treat as a general primer rather than a reference source; verify any statistics cited against original sources before using in design or strategy decisions.",
+      "implications": "If you're a design or product leader in an enterprise context, expect governance questions to arrive before your organization has answers. Start mapping who currently owns AI output quality and risk — even informally — before it becomes a crisis.",
       "tags": [
-        "E-commerce",
-        "Brand Strategy",
-        "Packaging"
+        "AI Governance",
+        "Enterprise Design",
+        "Design Leadership"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1080/1*oThcpoA90K-Qq--lZxNa5A.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/enterprise-experience-architecture/someone-just-asked-who-governs-your-ai-your-org-chart-has-no-answer-f332044f64d9?source=rss------product_design-5",
+      "pubDate": "Sat, 25 Jul 2026 14:50:35 GMT"
+    },
+    {
+      "headline": "AI voice bugs are invisible — and that's the real problem.",
+      "background": "As voice interfaces and AI-generated audio become more common in products, QA processes remain largely screen-focused. Errors that exist only in audio output — mispronunciations, tonal mistakes, language errors — have no visual artifact to catch in standard review flows.",
+      "keyFindings": [
+        "An AI was found mispronouncing an entire language, with no visible indicator of the error on screen",
+        "Standard visual QA processes are structurally blind to audio-only defects",
+        "The bug was caught by the author personally, not by any automated or team review process"
+      ],
+      "implications": "Teams shipping voice features or TTS-dependent interfaces need explicit audio QA steps — listening passes, native speaker review for localized content, and automated pronunciation testing where possible. Don't assume screen review covers the full output.",
+      "tags": [
+        "Voice Interfaces",
+        "QA",
+        "Accessibility"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*Lurq0C22p8cdQiOltisnQA.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@dinazshaikh/your-next-bug-will-sound-perfectly-fine-4e8446afdff5?source=rss------product_design-5",
+      "pubDate": "Sat, 25 Jul 2026 14:27:19 GMT"
+    },
+    {
+      "headline": "Founder sold salon gear to build an AI field tool.",
+      "background": "Founder origin stories are common content, but this one centers on an unconventional builder — someone outside the typical tech-founder profile — explaining the personal cost and motivation behind creating FieldNote AI, a tool aimed at field-based workers.",
+      "keyFindings": [
+        "The founder liquidated salon equipment as startup capital — no venture backing or tech industry background mentioned",
+        "FieldNote AI is positioned for field-based professionals, a segment often underserved by mainstream productivity tools",
+        "The piece is self-authored and explicitly framed as unfiltered and personal"
+      ],
+      "implications": "Minimal relevance to UX/product practice directly. Of peripheral interest to those researching underserved user segments in field work or studying non-traditional founder paths in B2B tool building.",
+      "tags": [
+        "Founder Story",
+        "B2B Tools",
+        "Field Workers"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*ko7C2cvfKMUz4vqpEgCw6w.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*RMc5NgXEQ71yux9QUFr3Ow@2x.jpeg",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@yourpackagingbox.com/the-complete-guide-to-custom-packaging-in-2026-f1fa030b4152?source=rss------product_design-5",
-      "pubDate": "Fri, 24 Jul 2026 21:04:10 GMT"
+      "link": "https://medium.com/@khennyomolola/i-sold-my-salon-equipment-to-buy-a-laptop-7791f8ca33ab?source=rss------product_design-5",
+      "pubDate": "Sat, 25 Jul 2026 14:23:47 GMT"
     },
     {
-      "headline": "AI Agents Complete Tasks But Misunderstand the Actual Goal",
-      "background": "AI agents are increasingly used to automate multi-step workflows in product and design contexts, but teams are reporting a consistent failure mode: agents complete the literal task while missing the underlying intent.",
+      "headline": "10 signs your website needs a rebuild in 2026.",
+      "background": "Website rebuild decisions are perennial pain points for product and marketing teams. Generic listicle content on this topic is widespread, and this piece follows that format without apparent original research or data.",
       "keyFindings": [
-        "The snippet contains no extractable findings — the preview is non-substantive",
-        "The title suggests a gap between task completion and goal alignment in AI agents",
-        "No methodology or examples are available from the snippet provided"
+        "Lists 10 indicators that a website rebuild may be warranted",
+        "Framed around 2026 relevance without specifying what has changed technically or strategically",
+        "No original data, case studies, or specific thresholds cited in the snippet"
       ],
-      "implications": "The core problem this points to — AI agents optimizing for task completion over intent — is a real and documented issue in agentic system design, but this specific article cannot be verified as a useful reference from the available content.",
+      "implications": "Low signal for experienced practitioners. May be useful as a stakeholder-facing reference for teams trying to build internal business cases for rebuild projects, but verify claims independently before citing.",
       "tags": [
-        "AI Agents",
-        "Automation",
-        "Product Design"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*6l78SIsdw1ANDPinsk7MxA.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@ayushramawat29/why-your-ai-agent-finishes-the-task-but-misses-the-job-b34e90466576?source=rss------product_design-5",
-      "pubDate": "Fri, 24 Jul 2026 20:54:23 GMT"
-    },
-    {
-      "headline": "Disueño 2026 Adds New Delta Prize Category for Limited Editions",
-      "background": "The Delta Prizes, run by ADI-FAD, are a long-running Spanish industrial design award. The new Disueño category revives a concept from exhibitions held fifty years ago, specifically targeting unique or limited-run design work.",
-      "keyFindings": [
-        "A new award category called Disueño has been added to the 2026 Delta Prizes",
-        "The category is inspired by ADI-FAD's Disueño exhibitions from roughly the 1970s",
-        "It targets unique or limited-edition designed objects, distinguishing them from mass-produced work"
-      ],
-      "implications": "Relevant for designers working in limited-run, craft, or experimental product design who may want to submit work or track what the industry is recognizing as distinct from mainstream industrial design.",
-      "tags": [
-        "Design Awards",
-        "Industrial Design",
-        "Limited Edition"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*eWHfOUUBWzUsg8O3vY3HsQ.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://guillemferran.medium.com/disue%C3%B1o-2026-delta-prizes-new-category-4282f2669876?source=rss------product_design-5",
-      "pubDate": "Fri, 24 Jul 2026 20:43:55 GMT"
-    },
-    {
-      "headline": "Tailwind CSS v4's Overlooked Features That Actually Change How You Work",
-      "background": "Tailwind CSS v4 was a full rewrite, not an incremental update, but most coverage has focused on headline changes. This piece targets the less-discussed features that have practical workflow implications for developers already using the framework.",
-      "keyFindings": [
-        "Tailwind v4 was rebuilt from the ground up, not incrementally updated",
-        "The article focuses on underreported features beyond what standard release coverage addressed",
-        "No specific features are named in the available snippet, limiting pre-click verification"
-      ],
-      "implications": "Worth reading if your team uses Tailwind in production — a ground-up rewrite typically introduces breaking changes and architectural shifts that affect design token management, build performance, and component structure. Verify compatibility with your existing setup before upgrading.",
-      "tags": [
-        "CSS Frameworks",
-        "Frontend Development",
-        "Developer Tools"
+        "Web Strategy",
+        "Stakeholder Communication"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*SVhcoHwEMM_2FEOZP-Ndug.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/1708/1*g7Oe73D_Ukxk0DZjLm2CHw.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/@contato.blense/tailwind-css-v4-underrated-features-that-will-transform-your-workflow-43f5814a49c4?source=rss------ux-5",
-      "pubDate": "Fri, 24 Jul 2026 20:33:08 GMT"
+      "link": "https://medium.com/@detachsolutionsgrowth/10-signs-its-time-to-rebuild-your-website-in-2026-c40b45e8fa48?source=rss------ux-5",
+      "pubDate": "Sat, 25 Jul 2026 13:51:47 GMT"
     },
     {
-      "headline": "How Carrefour Used AI to Speed Up Design Delivery in Figma",
-      "background": "Large retail organizations struggle to scale design operations across multiple teams and markets. Carrefour's case, documented via Figma, describes how AI tooling was integrated into their design workflow to accelerate delivery without adding headcount.",
+      "headline": "Regional real estate website launch press notice.",
+      "background": "A press release announcing the launch of a real estate listings website for a developer in Tiruvannamalai, India, built by JB Soft System.",
       "keyFindings": [
-        "Carrefour integrated AI into their Figma-based design workflow to improve delivery speed",
-        "The case is published through Figma, suggesting it involves Figma-native or Figma-adjacent AI features",
-        "Specific metrics on time saved or output volume are not available from the snippet"
+        "JB Soft System launched a property listings site for Thamizharuvi Real Estate",
+        "Site covers plots and property development in Tiruvannamalai, Tamil Nadu",
+        "No design, technical, or UX details are included in the available snippet"
       ],
-      "implications": "Useful reference for design ops leads at enterprise scale considering AI-assisted design tooling. The Figma context means findings are most directly applicable to teams already standardized on Figma rather than other design platforms.",
+      "implications": "No actionable relevance for UX, product, or tech practitioners. Not suitable for inclusion in a professional digest.",
       "tags": [
-        "Design Operations",
-        "AI Tools",
-        "Enterprise Design"
+        "Press Release"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Figma",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSWliQWkxYU9yU2I4YXJMdVJYb1o4TVhqQWRnd1VXVlNGWHN5UGNpNjZ4bGFRS2lwX3BRZDkxQ1F4SUk4dzJGRDhMUGIzLVBSeWhnZlBodDkxTW4yak9waS02RjlPTUkxTDJSSjlpdVhiTmhkRk0tRjAxYWtONEdfVkJsWTZJYWNCMk1yVw?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 19:28:09 GMT"
+      "source": "LiveChennai",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yU19NYVlFSllDRlhBeEVPZndzajBUMmpiVjJ2Ym44al9rd09hQ2QzSGpDR2Q5N0ZPQkQ1NmdjMGJNN2dHbHZFbkJkeV84ZnBHX1JkeVg1NmR6RU9vVWlKZ2ZVamoyOFNmMmtQcHNoZw?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 06:35:52 GMT"
     },
     {
-      "headline": "Cognition Buys AI Personality Studio Poke for Nine Figures",
-      "background": "Cognition, the company behind the AI coding agent Devin, has acquired Poke, a startup focused on AI personality and character design. The nine-figure price signals serious investment in making AI agents more human-feeling, not just more capable.",
+      "headline": "Eyewear brand wins silver at 2026 French Design Awards.",
+      "background": "Once Upon a Charm Eyewear received a silver award at the 2026 French Design Awards, as reported by InvisionMag.",
       "keyFindings": [
-        "Cognition acquired Poke for a nine-figure sum — at minimum $100 million",
-        "The acquisition is framed as an 'AI personality play,' indicating focus on agent character and tone rather than raw capability",
-        "This follows a broader industry pattern of AI companies investing in anthropomorphization and user-facing personality layers"
+        "Silver award won at the 2026 French Design Awards",
+        "No design rationale, judging criteria, or product details available in the snippet"
       ],
-      "implications": "For product and UX teams designing with or around AI agents, this signals that personality, tone, and character are becoming competitive differentiators — not just interface polish. Worth tracking how Cognition integrates Poke's work into Devin and similar tools.",
+      "implications": "No actionable relevance for UX, product, or tech practitioners. Award announcements without design detail don't serve a reference readership.",
       "tags": [
-        "AI Industry",
-        "Conversational AI",
-        "Product Strategy"
+        "Design Awards",
+        "Product Design"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "The Tech Buzz",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTHp2aFoyaVNTeG9LMUpMWVd0eW9nZzQwdDR2QXdFZ0h6aE1KVGVKcVZvNWVSX2pubEhfUFNkOEJsbXEyWGcwV2FCNTZPdmdjTTFOaGhQdDRyTzFFZGt6UDNROTI5VGRFTjZ1UG8tUEJ6NjdVbjZVbW9qNGpkWW92VmxndjNGYWZScjRFeXRKRHdIRG15eE5lejlSbHg?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 19:03:00 GMT"
+      "source": "InvisionMag.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWmMzSC1DcHd0TUl4VkQ5RGdOUzFMYlpEdmJZTjItamp4RldqRnBsTXAzMTFIUmR5Z1d3Wm1aa0xWMy1LUXNzbGJwOU9naUFXUVc5ZU1rcEtmU21pd3FwN0xHYWRGTTc4TTBTdDJsN182VjhqU2VoRlhJX2VBTXI4LTlpVDZxRmh6V095ZTd3OExHMVZxT2l6Q2c4bE8wam42VHdXNlB1VDlWZWdI0gGyAUFVX3lxTE15LVRFV3RvNURwRVpjZmZrV21Ebi1aUEJCZmEtSUVuUmhTUlppS09VNHdEdTAxQXpra3k5ZHIyMjVMbXVMVkRLMjBDeHFTSFVUcm1GWGZQMEh4MnNVNmlESlRjVkdWWDFoQ3VuZUJSR2lJQ2JPRGltWk41VzR5MldjY3ZKQjYxdGpfSDVwQXEzeG1ndEdGcDM2cG9pZzY3OTBMbzE0YmhOZTBaRjZTVFdGd1E?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 23:17:36 GMT"
     },
     {
-      "headline": "UX Research Output Is Becoming Context for AI, Not Humans",
-      "background": "As AI tools take on more interface generation work, there's a growing question about what UX research and design documentation is actually for. This piece argues the audience for that output is shifting from human designers to AI systems that use it as generative context.",
+      "headline": "Tucson startup makes meat alternatives for serious home cooks.",
+      "background": "A food profile piece on Alchemy Foods, a Tucson-based company producing meat alternative products targeted at cooking-engaged consumers rather than convenience buyers.",
       "keyFindings": [
-        "The author argues that as AI generates more interfaces, UX research output should be structured as AI-readable context rather than human-readable documents",
-        "This reframes the deliverable of a UX researcher from reports and decks to curated, structured prompts or context files",
-        "The shift has implications for how research is written, stored, and handed off within product teams"
+        "Alchemy Foods positions its products specifically for people who cook, not casual or convenience-driven consumers",
+        "Based in Tucson, Arizona — outside typical food-tech hubs",
+        "No UX, tech, or product design angle present in the snippet"
       ],
-      "implications": "Directly actionable for researchers and design leads: if AI tools are being used to generate interfaces on your team, evaluate whether your existing research formats — personas, journey maps, briefs — are structured in ways an AI system can actually use. This likely requires rethinking documentation conventions.",
+      "implications": "No relevance to UX, product, or tech practice. Outside scope for this digest.",
       "tags": [
-        "AI-Assisted Design",
-        "UX Research",
-        "Design Workflow"
-      ],
-      "featured": true,
-      "type": "research",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/articles/ux-context-design/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "Product Sense Is Pattern Recognition With Judgment About When Patterns Apply",
-      "background": "'Product sense' is frequently cited in hiring and performance discussions but rarely defined precisely. This piece offers a concrete, operational definition and a method for building it deliberately rather than treating it as innate intuition.",
-      "keyFindings": [
-        "Product sense is defined as the ability to predict which product decisions will succeed, based on patterns learned through experimentation",
-        "A critical component is meta-cognitive: knowing when a given pattern applies to the current situation and when it does not",
-        "The definition implies product sense can be systematically developed through structured experimentation and reflection, not just accumulated experience"
-      ],
-      "implications": "Useful for anyone hiring for or developing product roles. The definition gives managers a concrete basis for evaluating product sense in interviews and for structuring growth plans — moving away from vague 'good instincts' language toward testable, observable behaviors.",
-      "tags": [
-        "Product Management",
-        "Decision-Making",
-        "Career Development"
-      ],
-      "featured": true,
-      "type": "research",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/articles/product-sense-definition/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "Global Research Agendas Rarely Translate Into Action — Webinar Addresses Why",
-      "background": "International research bodies regularly publish priority agendas, but implementation at the organizational or regional level is inconsistent. This webinar, covered by WebWire, examines the gap between setting research priorities and executing on them meaningfully.",
-      "keyFindings": [
-        "The webinar focuses specifically on the implementation gap between global research agendas and real-world action",
-        "No specific findings, frameworks, or speakers are identifiable from the available snippet",
-        "The coverage source is a press release wire, limiting depth of pre-click assessment"
-      ],
-      "implications": "Relevant primarily for researchers working in policy, public health, or international development contexts where global research agendas shape funding and project priorities. Limited applicability to most product and UX practitioners.",
-      "tags": [
-        "Research Strategy",
-        "Policy",
-        "Global Health"
+        "Food Tech"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
-      "publishedWindow": "week",
+      "publishedWindow": "today",
       "image": null,
-      "source": "WebWire",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hcURiTjE1NHFTWk5DVjZOazFqZFRjMy14QXA3TGMxWUtSdDBxM1U2VDM3Mk1TcWc4VmdUekxuaS12ZVVWeFNCdkxQbFF3SmN5MWlSSlRheEVYWm5ydWw4OQ?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 13:29:03 GMT"
+      "source": "Tucson Foodie",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeWFoYVJpaVNkSmdLYWlPRDZSa1hfSUZXOEZCUHJKd2NtNy12aU9NWUhNQ3ZmRXBxcU8xNkpXLXhSNGRxSXIyVEo0NGpLeUd3UThTdnB4WkZwZnBxa3FZNS1RUm1Mdl9nUl9NRzh2UEp2RTVTVUVoWHJocmx2Nm9BaFB2aEpyS0NzdWpZMjdDb25GV1lrRGhjc0U1a2ZubHIySkVDYkZTWQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 22:11:18 GMT"
     },
     {
-      "headline": "Practical Image Optimization for the Web Without Quality Loss",
-      "background": "Web performance remains a persistent problem despite widespread awareness, largely because teams struggle to balance image quality against load time. This piece focuses on the technical methods for achieving fast image delivery without visible degradation.",
+      "headline": "Love Island Season 13 finale date and details.",
+      "background": "An entertainment news article about the upcoming finale of Love Island's 13th season.",
       "keyFindings": [
-        "No specific techniques, tools, or benchmarks are extractable from the available snippet",
-        "The piece is published by RS Web Solutions, a web development resource site",
-        "Topic likely covers format selection such as WebP or AVIF, compression settings, and lazy loading, but this cannot be confirmed from the snippet"
+        "Covers the schedule and format of the Love Island Season 13 finale",
+        "No technology, design, or product relevance"
       ],
-      "implications": "Image optimization is a high-impact, low-effort performance win for most web products. If the article covers modern formats like AVIF and responsive image markup, it could be a useful reference for frontend developers and designers who control asset export settings.",
+      "implications": "Entirely outside scope for a UX/product/tech digest. Should not be included.",
       "tags": [
-        "Web Performance",
-        "Frontend Development",
-        "Image Optimization"
+        "Entertainment"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
-      "publishedWindow": "week",
+      "publishedWindow": "today",
       "image": null,
-      "source": "RS Web Solutions",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ucG5Pay1MaEsyWnNRbElkYXgyWUJjMFRyU0pNaTBmRlZ4WUNlX05VYUQ2QjVvckFkVDIwd3k0Rlg4eGRPd2NzNERDTkZkdFV6cnE1R01MRGpBanNacXpVLVFtY1NJWWZoMVE?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 13:22:38 GMT"
+      "source": "The Independent",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUGJ5cHp6RXNzZGg1Z3U2SzlzTGlKRW1ReUpTOGRRMVlKRjdidl9aZUc4TFNzOE1BUFd2TEFLT2JYaWZXM3FIZGZXWm5wMzBPbXlSOXdPSjhsdkUyaWYzTHpDUlNuaE42b3dSWHcxVHF0UlBZMlJMdV8yaDVrcThaNEdZWE9JamRYMDVmNlN4czljSmJaUkE?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 21:40:00 GMT"
+    },
+    {
+      "headline": "Lexus hybrid reviewed for luxury and fuel efficiency.",
+      "background": "A consumer tech/auto review piece from How-To Geek assessing a Lexus hybrid vehicle's balance of premium features and fuel economy.",
+      "keyFindings": [
+        "Claims a Lexus model delivers both luxury experience and fuel efficiency without trade-off",
+        "Published on a general consumer tech site, not automotive or UX press",
+        "No design, product, or UX angle in the snippet"
+      ],
+      "implications": "No relevance to UX, product, or tech practice in a professional sense. Outside scope for this digest.",
+      "tags": [
+        "Automotive",
+        "Consumer Tech"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "How-To Geek",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZG1SazVIUkNaRGZyU2QwZkJEaFo0dnppMGlMWDhaWXVLZ3FwTGlMdi04RUhmNWNYMGZLSXhZWWdJeFRlWUdoWllCU1Z3bVhIUFFNallYaEh0VURYZ2lON2U1RkZfX0M0d2xucG1QVEM0YTZLMGZGRVdreXVqdHhpVFdZTFU5dFZKZUtoZTBneWFnc3Jt?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 19:45:13 GMT"
+    },
+    {
+      "headline": "A/B testing government service portals has specific constraints.",
+      "background": "Conversion rate optimization is well-established in commercial product design, but applying it to civic tech — government-facing digital services — involves different success metrics, equity considerations, and institutional constraints that standard CRO frameworks don't address.",
+      "keyFindings": [
+        "Applies A/B testing methodology specifically to government service portals, not commercial products",
+        "Civic tech CRO must account for accessibility mandates and equity of outcome, not just conversion lift",
+        "Standard commercial CRO metrics like revenue or sign-ups don't translate directly to government service success"
+      ],
+      "implications": "Relevant for anyone doing UX or product work on public sector digital services. Be cautious about importing commercial optimization frameworks wholesale — task completion rate and equitable access often matter more than funnel efficiency in this context.",
+      "tags": [
+        "Civic Tech",
+        "A/B Testing",
+        "Conversion Optimization"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Geek Vibes Nation",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtczBJQ2N4Sl9RZlNfNXg0cEN4VkktZnVGbzAxOWwwbHk5SGFYRWloZzJvMy1aX3BUUXZ5R2dsTWNLc21IeTZXWUhWZ3hvVFJhVW9GbDN4TlRqMVFiX0VDOUZ0ZnhHTzlUT2pMSmZnWGVOc1pYeTFMWHo5SQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 17:34:41 GMT"
     }
   ]
 }
