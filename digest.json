@@ -1,224 +1,235 @@
 {
-  "generatedAt": "2026-07-25T15:48:01.430Z",
+  "generatedAt": "2026-07-26T15:48:15.497Z",
   "items": [
     {
-      "headline": "AI governance has no home in your org chart yet.",
-      "background": "As AI tools embed deeper into enterprise product and design workflows, organizations are discovering that accountability for AI decisions — who owns quality, ethics, and oversight — falls into a structural gap. Design leaders are increasingly being pulled into these conversations without clear authority or frameworks.",
+      "headline": "LLM use may be quietly eroding our cognitive skills",
+      "background": "As LLMs become embedded in daily workflows, there is growing unease among practitioners about dependency — specifically whether offloading thinking to AI tools is degrading the very skills those tools are meant to augment.",
       "keyFindings": [
-        "Three specific governance questions are now landing with design leaders in enterprise orgs, according to the piece",
-        "Existing org charts have no designated owner for AI decision accountability",
-        "Design leadership is being implicated in governance without formal mandate or tooling"
+        "The author caught themselves using an LLM to rewrite a sentence they already understood, flagging it as a warning sign of reflexive rather than purposeful AI use",
+        "The piece raises the question of whether the UX and tech industry has a collective responsibility to address skill atrophy from LLM dependency",
+        "No formal study is cited — the argument is observational and industry-directed rather than empirical"
       ],
-      "implications": "If you're a design or product leader in an enterprise context, expect governance questions to arrive before your organization has answers. Start mapping who currently owns AI output quality and risk — even informally — before it becomes a crisis.",
+      "implications": "Worth discussing in team retrospectives: are LLMs being used to accelerate work or to avoid cognitive effort? The distinction matters for skill development, especially for junior practitioners who may never build foundational reasoning habits without deliberate guardrails.",
       "tags": [
-        "AI Governance",
-        "Enterprise Design",
-        "Design Leadership"
+        "AI tools",
+        "Cognitive load",
+        "Workflow"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1080/1*oThcpoA90K-Qq--lZxNa5A.png",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*rCUJlMT9H8B9tHgk8ywn8Q.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/enterprise-experience-architecture/someone-just-asked-who-governs-your-ai-your-org-chart-has-no-answer-f332044f64d9?source=rss------product_design-5",
-      "pubDate": "Sat, 25 Jul 2026 14:50:35 GMT"
+      "link": "https://medium.com/@codesculpturersh/as-an-industry-how-do-we-address-cognitive-decline-in-llm-usage-6be88ff77b44?source=rss------product_design-5",
+      "pubDate": "Sun, 26 Jul 2026 15:23:18 GMT"
     },
     {
-      "headline": "AI voice bugs are invisible — and that's the real problem.",
-      "background": "As voice interfaces and AI-generated audio become more common in products, QA processes remain largely screen-focused. Errors that exist only in audio output — mispronunciations, tonal mistakes, language errors — have no visual artifact to catch in standard review flows.",
+      "headline": "Designers have real power in the AI moment — use it",
+      "background": "There is an ongoing debate about whether designers are being sidelined or empowered by AI-driven product development cycles. This piece argues designers are at an inflection point similar to paradigm shifts in the past.",
       "keyFindings": [
-        "An AI was found mispronouncing an entire language, with no visible indicator of the error on screen",
-        "Standard visual QA processes are structurally blind to audio-only defects",
-        "The bug was caught by the author personally, not by any automated or team review process"
+        "The author argues that obsessing over pixel-perfect details misallocates designer effort relative to AI's actual impact on interfaces",
+        "The 'Jedi moment' framing positions designers as uniquely positioned to advocate for human-centered decisions that AI tools cannot make",
+        "The piece implies that designers who fail to reorient their value proposition risk irrelevance as AI handles execution-layer tasks"
       ],
-      "implications": "Teams shipping voice features or TTS-dependent interfaces need explicit audio QA steps — listening passes, native speaker review for localized content, and automated pronunciation testing where possible. Don't assume screen review covers the full output.",
+      "implications": "Designers should be actively repositioning their contribution toward judgment, systems thinking, and user advocacy — not craft alone. This is particularly relevant for mid-level designers whose role overlap with AI generation tools is highest.",
       "tags": [
-        "Voice Interfaces",
-        "QA",
-        "Accessibility"
+        "Design strategy",
+        "AI tools",
+        "Role of designers"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1200/1*Lurq0C22p8cdQiOltisnQA.png",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*s21hlwqdRW028ReLSD7q4g.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@dinazshaikh/your-next-bug-will-sound-perfectly-fine-4e8446afdff5?source=rss------product_design-5",
-      "pubDate": "Sat, 25 Jul 2026 14:27:19 GMT"
+      "link": "https://medium.com/@thehoodeddesigner/designers-this-is-our-jedi-moment-and-we-can-get-it-right-10e5301c2fbf?source=rss------product_design-5",
+      "pubDate": "Sun, 26 Jul 2026 15:12:17 GMT"
     },
     {
-      "headline": "Founder sold salon gear to build an AI field tool.",
-      "background": "Founder origin stories are common content, but this one centers on an unconventional builder — someone outside the typical tech-founder profile — explaining the personal cost and motivation behind creating FieldNote AI, a tool aimed at field-based workers.",
+      "headline": "Goodreads redesign concept targets discovery and community",
+      "background": "Goodreads has long been criticized for a dated interface that fails to leverage its data for meaningful book discovery, despite Amazon's ownership and resources. Designer-led redesign concepts have proliferated as a way to critique and reimagine the product.",
       "keyFindings": [
-        "The founder liquidated salon equipment as startup capital — no venture backing or tech industry background mentioned",
-        "FieldNote AI is positioned for field-based professionals, a segment often underserved by mainstream productivity tools",
-        "The piece is self-authored and explicitly framed as unfiltered and personal"
+        "The redesign prioritizes editorial presentation and book discovery over the current list-heavy, utilitarian layout",
+        "Community features are reframed as a central interaction model rather than a secondary layer",
+        "This is a concept project, not a shipped product — no user testing data or validation is referenced"
       ],
-      "implications": "Minimal relevance to UX/product practice directly. Of peripheral interest to those researching underserved user segments in field work or studying non-traditional founder paths in B2B tool building.",
+      "implications": "Useful as a reference for information architecture decisions in catalog-heavy or content-discovery products. Treat as design inspiration rather than validated UX guidance — concept redesigns rarely account for technical constraints or edge-case user behavior.",
       "tags": [
-        "Founder Story",
-        "B2B Tools",
-        "Field Workers"
+        "Redesign",
+        "Content discovery",
+        "Case study"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*RMc5NgXEQ71yux9QUFr3Ow@2x.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/1384/1*9R4t483VIBB0q-GiHuqckA.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@khennyomolola/i-sold-my-salon-equipment-to-buy-a-laptop-7791f8ca33ab?source=rss------product_design-5",
-      "pubDate": "Sat, 25 Jul 2026 14:23:47 GMT"
+      "link": "https://medium.com/@asegarradesign/reimagining-goodreads-9206702e077b?source=rss------product_design-5",
+      "pubDate": "Sun, 26 Jul 2026 14:58:04 GMT"
     },
     {
-      "headline": "10 signs your website needs a rebuild in 2026.",
-      "background": "Website rebuild decisions are perennial pain points for product and marketing teams. Generic listicle content on this topic is widespread, and this piece follows that format without apparent original research or data.",
+      "headline": "Torres's Continuous Discovery: measuring and managing opportunity cycles",
+      "background": "Teresa Torres's Continuous Discovery Habits framework has become widely referenced in product teams adopting opportunity-solution trees and regular user touchpoints. Practitioners continue to publish summaries and interpretations, particularly in non-English markets.",
       "keyFindings": [
-        "Lists 10 indicators that a website rebuild may be warranted",
-        "Framed around 2026 relevance without specifying what has changed technically or strategically",
-        "No original data, case studies, or specific thresholds cited in the snippet"
+        "The piece focuses on the measurement science within Torres's framework — specifically how to track and manage discovery cycles over time",
+        "Published in Portuguese, indicating growing adoption of structured discovery practices in Brazilian product communities",
+        "No new findings are introduced — this is an interpretive summary of existing framework content"
       ],
-      "implications": "Low signal for experienced practitioners. May be useful as a stakeholder-facing reference for teams trying to build internal business cases for rebuild projects, but verify claims independently before citing.",
+      "implications": "Useful as a refresher on Torres's cycle management concepts, but go to the primary source for depth. Teams implementing continuous discovery should focus on the cadence and measurement pieces, which are most commonly skipped in practice.",
       "tags": [
-        "Web Strategy",
-        "Stakeholder Communication"
+        "Product discovery",
+        "Research frameworks",
+        "Continuous discovery"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "UX",
+      "category": "Research",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1708/1*g7Oe73D_Ukxk0DZjLm2CHw.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@detachsolutionsgrowth/10-signs-its-time-to-rebuild-your-website-in-2026-c40b45e8fa48?source=rss------ux-5",
-      "pubDate": "Sat, 25 Jul 2026 13:51:47 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1400/0*KVRA-jaXfDC6ZCCm.jpeg",
+      "source": "UX Research on Medium",
+      "link": "https://joaomatosdigital.medium.com/continuous-discovery-habits-de-teresa-torres-a-ci%C3%AAncia-da-medi%C3%A7%C3%A3o-e-a-gest%C3%A3o-dos-ciclos-de-fc201439b77b?source=rss------ux_research-5",
+      "pubDate": "Sun, 26 Jul 2026 14:42:11 GMT"
     },
     {
-      "headline": "Regional real estate website launch press notice.",
-      "background": "A press release announcing the launch of a real estate listings website for a developer in Tiruvannamalai, India, built by JB Soft System.",
+      "headline": "South African businesses struggle with user understanding, not tech adoption",
+      "background": "Technology adoption narratives in emerging markets often focus on infrastructure and tooling gaps, but practitioners argue the more fundamental problem is that businesses lack user research capability and customer insight.",
       "keyFindings": [
-        "JB Soft System launched a property listings site for Thamizharuvi Real Estate",
-        "Site covers plots and property development in Tiruvannamalai, Tamil Nadu",
-        "No design, technical, or UX details are included in the available snippet"
+        "The piece argues SA businesses are over-indexing on acquiring technology while under-investing in understanding user needs and behaviors",
+        "The framing positions user research and empathy as the actual competitive gap, not access to platforms or tools",
+        "No specific data or studies are cited in the available snippet — the argument appears editorial"
       ],
-      "implications": "No actionable relevance for UX, product, or tech practitioners. Not suitable for inclusion in a professional digest.",
+      "implications": "Relevant for UX practitioners working in or with emerging markets: the challenge is often organizational will and research literacy, not tool availability. This framing supports the case for embedding researchers earlier in digital transformation projects.",
       "tags": [
-        "Press Release"
+        "User research",
+        "Emerging markets",
+        "Organizational UX"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "LiveChennai",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yU19NYVlFSllDRlhBeEVPZndzajBUMmpiVjJ2Ym44al9rd09hQ2QzSGpDR2Q5N0ZPQkQ1NmdjMGJNN2dHbHZFbkJkeV84ZnBHX1JkeVg1NmR6RU9vVWlKZ2ZVamoyOFNmMmtQcHNoZw?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 06:35:52 GMT"
+      "source": "IOL",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbElZQnFrb3dUcUxDYS15WFF5dDFsN1pDdXltQzRvdEFpZG1tRjQyMEhXbHZLbnM3ekwtb3dmdGQ3RjRGVWNPQjNTXzNuaTFUWWhTYmdIYlZfakJSdGdDcVp4eWloVUg4aU1hZllvMEFqQXRKQWUzLTdITVBqVk15MnRoQVFJdTJ2STBPNEROX1p1aVNoOHFRZjljb0J1M1hfUkhfVm1OQlNUX2ZUVW1hSGFlaHQ2NFNpaHNTQ1RjdGhEVEE?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 13:32:44 GMT"
     },
     {
-      "headline": "Eyewear brand wins silver at 2026 French Design Awards.",
-      "background": "Once Upon a Charm Eyewear received a silver award at the 2026 French Design Awards, as reported by InvisionMag.",
+      "headline": "E-commerce hardware migration from BigCommerce to Shopify documented",
+      "background": "Platform migrations in e-commerce are high-risk, especially when custom hardware integrations are involved. Case studies of successful migrations are sparse in the public domain.",
       "keyFindings": [
-        "Silver award won at the 2026 French Design Awards",
-        "No design rationale, judging criteria, or product details available in the snippet"
+        "Space Dinosaurs completed a migration of custom service hardware integrations from BigCommerce to Shopify",
+        "The migration was successful, though no technical detail about the integration approach is available in the snippet",
+        "This is a business news item, not a technical or UX post — methodology and lessons learned are not documented publicly"
       ],
-      "implications": "No actionable relevance for UX, product, or tech practitioners. Award announcements without design detail don't serve a reference readership.",
+      "implications": "Limited practical value without technical specifics. Teams evaluating BigCommerce-to-Shopify migrations involving custom hardware should seek direct case contact rather than relying on this coverage.",
       "tags": [
-        "Design Awards",
-        "Product Design"
+        "E-commerce",
+        "Platform migration",
+        "Shopify"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "InvisionMag.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWmMzSC1DcHd0TUl4VkQ5RGdOUzFMYlpEdmJZTjItamp4RldqRnBsTXAzMTFIUmR5Z1d3Wm1aa0xWMy1LUXNzbGJwOU9naUFXUVc5ZU1rcEtmU21pd3FwN0xHYWRGTTc4TTBTdDJsN182VjhqU2VoRlhJX2VBTXI4LTlpVDZxRmh6V095ZTd3OExHMVZxT2l6Q2c4bE8wam42VHdXNlB1VDlWZWdI0gGyAUFVX3lxTE15LVRFV3RvNURwRVpjZmZrV21Ebi1aUEJCZmEtSUVuUmhTUlppS09VNHdEdTAxQXpra3k5ZHIyMjVMbXVMVkRLMjBDeHFTSFVUcm1GWGZQMEh4MnNVNmlESlRjVkdWWDFoQ3VuZUJSR2lJQ2JPRGltWk41VzR5MldjY3ZKQjYxdGpfSDVwQXEzeG1ndEdGcDM2cG9pZzY3OTBMbzE0YmhOZTBaRjZTVFdGd1E?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 23:17:36 GMT"
+      "source": "Thailand Business News",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbjlNQmNqNTNrNWY3M0VkY092V0tWX0x3cXBJMzlDRVNLZGdkVkUwX0N2Q0EtckczU2dMMmZHTnAwb0dfeVl3c24zcVREbGlkVkpsUkhtODhNendsSnJrd29yLTdPb19hYXRaektWcGJJR25GUVA3QlBJRTNDY0pzd3lZX2kycGtRaEVKcGJNYWVoSlFBUmNLaVl0SnhiQzMzbFFaZnltNG80VkJZaTI1d25veTNncmJRQ1JIRlliYlRDN3RJdUNRQjdESXM0RTdxTHc?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 13:18:11 GMT"
     },
     {
-      "headline": "Tucson startup makes meat alternatives for serious home cooks.",
-      "background": "A food profile piece on Alchemy Foods, a Tucson-based company producing meat alternative products targeted at cooking-engaged consumers rather than convenience buyers.",
+      "headline": "AI UI generation tools claim to speed up app interface creation",
+      "background": "A wave of AI-powered UI generation platforms has emerged promising to let non-designers and developers produce app interfaces rapidly from prompts or templates, raising questions about quality, consistency, and designer relevance.",
       "keyFindings": [
-        "Alchemy Foods positions its products specifically for people who cook, not casual or convenience-driven consumers",
-        "Based in Tucson, Arizona — outside typical food-tech hubs",
-        "No UX, tech, or product design angle present in the snippet"
+        "The piece profiles AI UI generation platforms positioned at creators and non-designers rather than professional design teams",
+        "'Beautiful' is the primary value claim — no usability, accessibility, or consistency benchmarks are referenced",
+        "Trend Hunter coverage suggests this is a market observation piece, not a product review or comparative analysis"
       ],
-      "implications": "No relevance to UX, product, or tech practice. Outside scope for this digest.",
+      "implications": "Treat with skepticism as a quality signal — trend coverage of AI design tools frequently conflates aesthetic output with UX quality. Teams evaluating these tools should test against accessibility standards and design system compatibility before adoption.",
       "tags": [
-        "Food Tech"
+        "AI tools",
+        "UI generation",
+        "No-code design"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Tucson Foodie",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeWFoYVJpaVNkSmdLYWlPRDZSa1hfSUZXOEZCUHJKd2NtNy12aU9NWUhNQ3ZmRXBxcU8xNkpXLXhSNGRxSXIyVEo0NGpLeUd3UThTdnB4WkZwZnBxa3FZNS1RUm1Mdl9nUl9NRzh2UEp2RTVTVUVoWHJocmx2Nm9BaFB2aEpyS0NzdWpZMjdDb25GV1lrRGhjc0U1a2ZubHIySkVDYkZTWQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 22:11:18 GMT"
+      "source": "Trend Hunter",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGQWg1eVI1T3ZpSUMyXzFXbHV6TTJ4a1BiRUtlQ1N6THNBMFdQRXdsazZOelk2SDNIZlVvZ24xUnZGLVA0UklXMkY1SVBvY1d4Z2dIdWwzNXpWYjdYajhiaXpR?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 23:55:59 GMT"
     },
     {
-      "headline": "Love Island Season 13 finale date and details.",
-      "background": "An entertainment news article about the upcoming finale of Love Island's 13th season.",
+      "headline": "Entry-level remote UX jobs reportedly reaching $85K salaries",
+      "background": "Salary transparency in UX and tech has increased with remote work normalization, but claims about entry-level compensation vary widely by source quality, role definition, and geography.",
       "keyFindings": [
-        "Covers the schedule and format of the Love Island Season 13 finale",
-        "No technology, design, or product relevance"
+        "The piece claims 11 specific entry-level remote roles can pay at least $85,000 annually",
+        "Source is a personal finance publication, not a UX or tech industry salary database — methodology is unspecified",
+        "No breakdown by role type, company size, or geography is available in the snippet"
       ],
-      "implications": "Entirely outside scope for a UX/product/tech digest. Should not be included.",
+      "implications": "Treat salary figures from non-specialist publications cautiously. For reliable UX compensation benchmarking, use sources like Levels.fyi, AIGA salary survey, or Bureau of Labor Statistics data instead.",
       "tags": [
-        "Entertainment"
+        "Salaries",
+        "Remote work",
+        "Career"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "The Independent",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUGJ5cHp6RXNzZGg1Z3U2SzlzTGlKRW1ReUpTOGRRMVlKRjdidl9aZUc4TFNzOE1BUFd2TEFLT2JYaWZXM3FIZGZXWm5wMzBPbXlSOXdPSjhsdkUyaWYzTHpDUlNuaE42b3dSWHcxVHF0UlBZMlJMdV8yaDVrcThaNEdZWE9JamRYMDVmNlN4czljSmJaUkE?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 21:40:00 GMT"
+      "source": "mibolsillo.co",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPclBSV3dVa2o5MC0zM1lTRF9WRWZQS3JlN1Q5aU5HTG1jS3l0aDc2MU1zWE92Q3VDREdWYmVvSTlkRUZvd19zajdDRGNvbzNONHNPOS16SHJ0amZycV9oTUJNQ1BHcXEtS3psd1dxVDQ5NDJ6LWhTWF9GUGtBZ2NhOWVaNW1TR0t4bURQZWlycG1IaG9qR0lJMlhPTXdJeEFhNjQ3UFRKRjBUZTdPYWdrY2JaM0czcm1KR2s4?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 22:20:00 GMT"
     },
     {
-      "headline": "Lexus hybrid reviewed for luxury and fuel efficiency.",
-      "background": "A consumer tech/auto review piece from How-To Geek assessing a Lexus hybrid vehicle's balance of premium features and fuel economy.",
+      "headline": "Sales teams are being restructured around AI-assisted hybrid roles",
+      "background": "AI automation is reshaping sales workflows, with traditional SDR and closing roles being consolidated or replaced by hybrid profiles that combine automation management with human relationship skills.",
       "keyFindings": [
-        "Claims a Lexus model delivers both luxury experience and fuel efficiency without trade-off",
-        "Published on a general consumer tech site, not automotive or UX press",
-        "No design, product, or UX angle in the snippet"
+        "The 'hybrid closer' model combines automated outreach and CRM management with human-led deal closing",
+        "Traditional siloed sales team structures — separate SDRs, AEs, and account managers — are described as increasingly redundant",
+        "The piece is opinion-editorial in format with no cited research or workforce data"
       ],
-      "implications": "No relevance to UX, product, or tech practice in a professional sense. Outside scope for this digest.",
+      "implications": "Minimal direct UX relevance, though product teams building sales-facing tools or CRM interfaces should note the workflow shift — tool design assumptions built around siloed roles may no longer match actual user job structures.",
       "tags": [
-        "Automotive",
-        "Consumer Tech"
+        "Sales technology",
+        "Workflow",
+        "Automation"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "How-To Geek",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZG1SazVIUkNaRGZyU2QwZkJEaFo0dnppMGlMWDhaWXVLZ3FwTGlMdi04RUhmNWNYMGZLSXhZWWdJeFRlWUdoWllCU1Z3bVhIUFFNallYaEh0VURYZ2lON2U1RkZfX0M0d2xucG1QVEM0YTZLMGZGRVdreXVqdHhpVFdZTFU5dFZKZUtoZTBneWFnc3Jt?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 19:45:13 GMT"
+      "source": "Tribune Online",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYlJ5ZDRzdm1HaTdoTlpaTDZXdVJzd18yd0FwbzRodDg2WnZTNWFmWUlvNTl0Y096ZThaUjRlNkxfYmIxRlc0ekJqYmR5dDJpMVJqSmF1Ry1IMl9kTTdVXzlPWXFaZnNfd1YyZERUaWxKb1lXUlVLSVQ1UjBlZm1mekpteGVZNEt2T1FYaXd3X2p4ZGU2ZEUxaWxrUjNYQdIBowFBVV95cUxObng0bklNQkR3cms3TnhmaENUVGR4UTR5T18tYVV4ZUtpaVhYaHNkUzJ5ZnBHYWtkZ2NXWDZkOHJyV3VXU0FKYUNUWGN4ZURiejlYY1hDc2xUeTlUbTYwdDd5SUppY3hxYnphYlFsVlk5dEwwS253UEtfRDJpanpoajlrb0tkX3VDMENFd0lPRThjZzRYMGhHNmFZdUprMFVrbmxn?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 21:13:35 GMT"
     },
     {
-      "headline": "A/B testing government service portals has specific constraints.",
-      "background": "Conversion rate optimization is well-established in commercial product design, but applying it to civic tech — government-facing digital services — involves different success metrics, equity considerations, and institutional constraints that standard CRO frameworks don't address.",
+      "headline": "Nigerian president outlines education and sector reform priorities",
+      "background": "Nigerian President Tinubu has been advancing a broad reform agenda across multiple sectors. This piece covers stated priorities in education among other areas.",
       "keyFindings": [
-        "Applies A/B testing methodology specifically to government service portals, not commercial products",
-        "Civic tech CRO must account for accessibility mandates and equity of outcome, not just conversion lift",
-        "Standard commercial CRO metrics like revenue or sign-ups don't translate directly to government service success"
+        "Tinubu cited education as a key reform area, alongside other unspecified sectors",
+        "No specific policy mechanisms, budgets, or implementation timelines are detailed in the available snippet",
+        "This is general political news coverage with no UX, product, or technology angle"
       ],
-      "implications": "Relevant for anyone doing UX or product work on public sector digital services. Be cautious about importing commercial optimization frameworks wholesale — task completion rate and equitable access often matter more than funnel efficiency in this context.",
+      "implications": "Not relevant to UX, product, or technology practice. No actionable content for this audience.",
       "tags": [
-        "Civic Tech",
-        "A/B Testing",
-        "Conversion Optimization"
+        "Policy",
+        "Education",
+        "Nigeria"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Geek Vibes Nation",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtczBJQ2N4Sl9RZlNfNXg0cEN4VkktZnVGbzAxOWwwbHk5SGFYRWloZzJvMy1aX3BUUXZ5R2dsTWNLc21IeTZXWUhWZ3hvVFJhVW9GbDN4TlRqMVFiX0VDOUZ0ZnhHTzlUT2pMSmZnWGVOc1pYeTFMWHo5SQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 17:34:41 GMT"
+      "source": "Tribune Online",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQlpRNjc5UU9EOUoxTURDWUY5dVhObl9sb1NFdnZuck5aSHN4ZFRFQjBtWHQzcnJlcVprTEkycTJrUDBrV3l4aDNDN1FneUpnRnotYmM1aUNVejN6bXZPdmpqaDNKbzFBNThCVDJQMzI3VmoyUVBFM0NWQUZfaHVSUHdRS1rSAYQBQVVfeXFMUEJaUTY3OVFPRDlKMU1EQ1lGOXVYTm5fbG9TRXZ2bnJOWkhzeGRURUIwbVh0M3JyZXFaa0xJMnEya1Awa1d5eGgzQzdRZ3lKZ0Z6LWJjNWlDVXozem12T3ZqamgzSm8xQTU4QlQyUDMyN1ZqMlFQRTNDVkFGX2h1UlB3UUta?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 20:39:22 GMT"
     }
   ]
 }
