@@ -1,235 +1,228 @@
 {
-  "generatedAt": "2026-07-26T15:48:15.497Z",
+  "generatedAt": "2026-07-27T18:00:22.186Z",
   "items": [
     {
-      "headline": "LLM use may be quietly eroding our cognitive skills",
-      "background": "As LLMs become embedded in daily workflows, there is growing unease among practitioners about dependency — specifically whether offloading thinking to AI tools is degrading the very skills those tools are meant to augment.",
+      "headline": "Wearables could close the gap in post-dialysis care",
+      "background": "Dialysis patients receive close monitoring during treatment, but the recovery period at home is largely untracked — leaving clinicians blind to complications that emerge after discharge.",
       "keyFindings": [
-        "The author caught themselves using an LLM to rewrite a sentence they already understood, flagging it as a warning sign of reflexive rather than purposeful AI use",
-        "The piece raises the question of whether the UX and tech industry has a collective responsibility to address skill atrophy from LLM dependency",
-        "No formal study is cited — the argument is observational and industry-directed rather than empirical"
+        "Post-dialysis recovery symptoms like fatigue, blood pressure shifts, and fluid imbalance go unmonitored once patients leave the clinic",
+        "Wearable health monitors are proposed as a way to surface continuous biometric data during at-home recovery",
+        "Design of these systems must account for low-health-literacy users and the physical limitations common in dialysis populations"
       ],
-      "implications": "Worth discussing in team retrospectives: are LLMs being used to accelerate work or to avoid cognitive effort? The distinction matters for skill development, especially for junior practitioners who may never build foundational reasoning habits without deliberate guardrails.",
+      "implications": "Designers working on health tech or chronic illness products should treat the clinic-to-home transition as a core use case, not an edge case — this requires explicit design for passive data capture and caregiver-facing dashboards, not just patient-facing interfaces.",
+      "tags": [
+        "Health tech",
+        "Wearables",
+        "Chronic illness"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2016/1*jehcybrmVbqC9kfO_d6Pkw.png",
+      "source": "Product Design on Medium",
+      "link": "https://astutisrivastava.medium.com/designing-beyond-the-clinic-rethinking-dialysis-recovery-through-wearable-health-monitoring-e65ec7bf9a44?source=rss------product_design-5",
+      "pubDate": "Mon, 27 Jul 2026 17:48:56 GMT"
+    },
+    {
+      "headline": "Teaching AI to admit ignorance is the real design challenge",
+      "background": "Conversational AI tools for non-technical small business users frequently fail by confidently giving wrong answers — a critical trust problem when the audience has little ability to fact-check outputs.",
+      "keyFindings": [
+        "The designer intentionally constrained the AI to respond with 'I don't know' rather than hallucinate answers outside its training scope",
+        "Defining the boundaries of what the tool should and shouldn't answer required more iteration than building core features",
+        "The project placed in the top 100 of Google's Gen AI APAC competition, suggesting the approach has broader validation"
+      ],
+      "implications": "For AI product designers, explicitly designing refusal behavior and uncertainty responses is as important as designing positive flows — especially for users with low AI literacy who may overtrust confident-sounding wrong answers.",
       "tags": [
         "AI tools",
-        "Cognitive load",
-        "Workflow"
+        "Conversational UI",
+        "Small business"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*rCUJlMT9H8B9tHgk8ywn8Q.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*lvlnDRNF2gZfL6XlhtwPDw.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@codesculpturersh/as-an-industry-how-do-we-address-cognitive-decline-in-llm-usage-6be88ff77b44?source=rss------product_design-5",
-      "pubDate": "Sun, 26 Jul 2026 15:23:18 GMT"
+      "link": "https://medium.com/@subhambanerjee.business/i-built-an-ai-tool-for-shopkeepers-the-hardest-feature-was-making-it-say-i-dont-know-bfc2e442d6b8?source=rss------product_design-5",
+      "pubDate": "Mon, 27 Jul 2026 17:46:56 GMT"
     },
     {
-      "headline": "Designers have real power in the AI moment — use it",
-      "background": "There is an ongoing debate about whether designers are being sidelined or empowered by AI-driven product development cycles. This piece argues designers are at an inflection point similar to paradigm shifts in the past.",
+      "headline": "AI in design is shifting output from screens to motion",
+      "background": "Most UX design tooling and practice has been built around static screen deliverables, but AI-assisted design is accelerating interest in motion and animated interfaces as a default output.",
       "keyFindings": [
-        "The author argues that obsessing over pixel-perfect details misallocates designer effort relative to AI's actual impact on interfaces",
-        "The 'Jedi moment' framing positions designers as uniquely positioned to advocate for human-centered decisions that AI tools cannot make",
-        "The piece implies that designers who fail to reorient their value proposition risk irrelevance as AI handles execution-layer tasks"
+        "The author argues that AI-generated design naturally produces motion-rich outputs, pushing designers toward animated interaction patterns",
+        "This shift challenges design workflows still centered on static wireframes and flat mockups",
+        "The piece positions motion as an emerging baseline expectation rather than a polish-layer add-on"
       ],
-      "implications": "Designers should be actively repositioning their contribution toward judgment, systems thinking, and user advocacy — not craft alone. This is particularly relevant for mid-level designers whose role overlap with AI generation tools is highest.",
+      "implications": "Teams still treating animation as a late-stage handoff concern may need to rethink how early motion enters the design process — though this trend currently applies more to marketing and consumer products than enterprise or accessibility-focused work.",
       "tags": [
-        "Design strategy",
+        "Motion design",
         "AI tools",
-        "Role of designers"
+        "Design workflow"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1774/1*aM8ISq28wndrpPP5YtHoMA.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@lara.thaisaa/from-static-screens-to-living-flows-ux-is-alive-17a1dd24e993?source=rss------product_design-5",
+      "pubDate": "Mon, 27 Jul 2026 17:28:37 GMT"
+    },
+    {
+      "headline": "No universal UX standard exists — context always wins",
+      "background": "There is ongoing debate in the UX field about whether best practices and design patterns can be reliably applied across cultures, industries, and user contexts.",
+      "keyFindings": [
+        "The piece presents evidence that UX and UI decisions are context-dependent, meaning patterns that work in one setting demonstrably fail in another",
+        "Cultural, demographic, and domain-specific variables consistently override generalized design heuristics",
+        "The author argues against treating any single UX framework as universally applicable"
+      ],
+      "implications": "Practitioners borrowing patterns from case studies or design systems outside their specific user context should validate assumptions with their own research — this is particularly relevant when designing for non-Western markets or specialized professional audiences.",
+      "tags": [
+        "Design systems",
+        "Cross-cultural design",
+        "Research"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*sz9QRPv-OAeUTYN_ezM4DQ.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@rodrigogalhardo/a-inexist%C3%AAncia-de-um-padr%C3%A3o-universal-de-ux-ui-evid%C3%AAncias-da-depend%C3%AAncia-contextual-do-design-de-4b473da05e6c?source=rss------product_design-5",
+      "pubDate": "Mon, 27 Jul 2026 16:44:21 GMT"
+    },
+    {
+      "headline": "Car manufacturers are experimenting with user co-design",
+      "background": "Automotive UX has traditionally been driven by internal engineering and design teams, with limited structured input from end users during the manufacturing and feature-definition phases.",
+      "keyFindings": [
+        "Some car manufacturers are creating formal mechanisms for users to participate in product development decisions",
+        "The piece focuses on the shift from passive user research to active user involvement in manufacturing contexts"
+      ],
+      "implications": "Participatory design methods are reaching industries historically resistant to them — automotive teams building in-vehicle UX or mobility software should note this as a signal that end-user co-design is becoming a competitive expectation.",
+      "tags": [
+        "Participatory design",
+        "Automotive UX",
+        "Product development"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Gasgoo",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYzdnM09jTHBYNlo4aXNRN0NqX1B3WFBlNVRnLVFNS1hNTnU2QVo0TnMyc0dXaS1HQ0xvWW10cDVXMU9vZVEwOGJtZ1lPcFdZSFVqV0dadGFDRUFEUEhHc0lUQlE1QUN5bUYwX01jS0Q3UEZkb0FEa2ttcktFREItZGlGWXJaejRPdE9OamoySkoyMTFCMERYa1pWWnp6cTYzWmQzb012SEFTbXJzN1ZIOFJnZ29kTEJSbnNzMlNn?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 15:51:31 GMT"
+    },
+    {
+      "headline": "Retro Rabbit launches dedicated UX design hub in Africa",
+      "background": "The African tech services market has had limited access to specialized UX capability, with most design-focused agencies concentrated in a few major metros.",
+      "keyFindings": [
+        "Retro Rabbit, operating under SmarTek21, has formally launched a dedicated Design Hub to expand UX service delivery",
+        "The move signals investment in UX as a standalone practice rather than a sub-function of software development in the region"
+      ],
+      "implications": "Companies sourcing UX talent or agency partners in sub-Saharan Africa have a new option — this is also a signal that regional demand for UX services is maturing enough to support specialist operations.",
+      "tags": [
+        "Design industry",
+        "Africa tech",
+        "Agency"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "TechAfrica News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX0RFbXZvWDd2NmNuaVY5Q2tnY0dJdnVpWGJlUUtIMjA5WmM4djRCaHBjZXJLajNHRXYzaVFOWnRWNzVlVW5GYTNGRDhPcmJTTWZrMTdpR05Da0ozUzQyc2ctVE9paGRnU01aMXpGNWRhZ3pEbkZJQmcyaV95XzlPbjhDMDFKUkEtTmwwSFJZSnZvUW4xZHlNamxDdFBvdmNBMkVSZQ?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 12:19:45 GMT"
+    },
+    {
+      "headline": "Veronexs expands web development services globally",
+      "background": "A press release announcing service expansion from a web development firm with limited prior coverage.",
+      "keyFindings": [
+        "Veronexs Solutions is broadening its web development offerings to international markets",
+        "No specific technical capabilities, pricing, or market differentiation details are available from the snippet"
+      ],
+      "implications": "This is a vendor announcement with no substantive findings for UX or product practitioners — not actionable without further detail.",
+      "tags": [
+        "Web development",
+        "Industry news"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYnBVYlJ6a3F4ajRWWG9mRnc0b1U3YW9veldBX1JIWEtQcmFaTElmRGc5MnFncUJFdXRGWjIyclhTVDgwekJfWFlwcFNYOXNSMTNUVlFhNlJUX010VGtJUDB5Vkc5Tmo4RGp0bElFbHVRLXpDbkxoMVdrZzgteW92RDQ3Zk1JVG5Ib185RFZfTzg?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 11:59:57 GMT"
+    },
+    {
+      "headline": "Nielsen's roundup covers AI models, decoy effect, and copyright",
+      "background": "Jakob Nielsen's periodic UX roundups aggregate recent developments across research, tools, and industry debates — this edition covers a notably wide range of contested topics.",
+      "keyFindings": [
+        "The roundup addresses how designers are actually using AI design tools in practice, not just in theory",
+        "It covers user agency as a design principle alongside a breakdown of the decoy effect in pricing and decision UI",
+        "AI training data versus copyright is flagged as an unresolved issue with direct implications for teams using generative tools"
+      ],
+      "implications": "The AI training vs. copyright item is worth tracking for any team using AI tools trained on unlicensed design or creative assets — legal exposure in this area remains unresolved and is starting to affect enterprise procurement decisions.",
+      "tags": [
+        "AI tools",
+        "Design research",
+        "Copyright"
       ],
       "featured": true,
-      "type": "opinion",
-      "category": "Product design",
+      "type": "research",
+      "category": "Industry news",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1024/1*s21hlwqdRW028ReLSD7q4g.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@thehoodeddesigner/designers-this-is-our-jedi-moment-and-we-can-get-it-right-10e5301c2fbf?source=rss------product_design-5",
-      "pubDate": "Sun, 26 Jul 2026 15:12:17 GMT"
+      "image": null,
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjVGc2cnBOMkN5clBfbHJiY1cwMDVyNmk4Z1JncS1SNk44cl8zVnFUbUdyT09QWFNkbUR3V21IWnJCZWtueWZyemJXQk1VWVg2NW5MRGh4UlFlVTVQYkVFZ2o2UFJGbXBybXc?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 11:21:12 GMT"
     },
     {
-      "headline": "Goodreads redesign concept targets discovery and community",
-      "background": "Goodreads has long been criticized for a dated interface that fails to leverage its data for meaningful book discovery, despite Amazon's ownership and resources. Designer-led redesign concepts have proliferated as a way to critique and reimagine the product.",
+      "headline": "B.Tech CSE opens doors beyond software engineering roles",
+      "background": "Computer science graduates in India often default toward software development careers despite the degree providing relevant foundations for adjacent disciplines.",
       "keyFindings": [
-        "The redesign prioritizes editorial presentation and book discovery over the current list-heavy, utilitarian layout",
-        "Community features are reframed as a central interaction model rather than a secondary layer",
-        "This is a concept project, not a shipped product — no user testing data or validation is referenced"
+        "UX and product design are listed among the five career paths highlighted as viable for B.Tech CSE graduates",
+        "The piece is aimed at students and early-career professionals weighing specialization decisions"
       ],
-      "implications": "Useful as a reference for information architecture decisions in catalog-heavy or content-discovery products. Treat as design inspiration rather than validated UX guidance — concept redesigns rarely account for technical constraints or edge-case user behavior.",
+      "implications": "Relevant primarily for hiring managers and educators — signals that UX and product roles are increasingly visible as career destinations for CS graduates in South Asia, which may affect the skill profile of entry-level candidates.",
       "tags": [
-        "Redesign",
-        "Content discovery",
-        "Case study"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1384/1*9R4t483VIBB0q-GiHuqckA.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@asegarradesign/reimagining-goodreads-9206702e077b?source=rss------product_design-5",
-      "pubDate": "Sun, 26 Jul 2026 14:58:04 GMT"
-    },
-    {
-      "headline": "Torres's Continuous Discovery: measuring and managing opportunity cycles",
-      "background": "Teresa Torres's Continuous Discovery Habits framework has become widely referenced in product teams adopting opportunity-solution trees and regular user touchpoints. Practitioners continue to publish summaries and interpretations, particularly in non-English markets.",
-      "keyFindings": [
-        "The piece focuses on the measurement science within Torres's framework — specifically how to track and manage discovery cycles over time",
-        "Published in Portuguese, indicating growing adoption of structured discovery practices in Brazilian product communities",
-        "No new findings are introduced — this is an interpretive summary of existing framework content"
-      ],
-      "implications": "Useful as a refresher on Torres's cycle management concepts, but go to the primary source for depth. Teams implementing continuous discovery should focus on the cadence and measurement pieces, which are most commonly skipped in practice.",
-      "tags": [
-        "Product discovery",
-        "Research frameworks",
-        "Continuous discovery"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1400/0*KVRA-jaXfDC6ZCCm.jpeg",
-      "source": "UX Research on Medium",
-      "link": "https://joaomatosdigital.medium.com/continuous-discovery-habits-de-teresa-torres-a-ci%C3%AAncia-da-medi%C3%A7%C3%A3o-e-a-gest%C3%A3o-dos-ciclos-de-fc201439b77b?source=rss------ux_research-5",
-      "pubDate": "Sun, 26 Jul 2026 14:42:11 GMT"
-    },
-    {
-      "headline": "South African businesses struggle with user understanding, not tech adoption",
-      "background": "Technology adoption narratives in emerging markets often focus on infrastructure and tooling gaps, but practitioners argue the more fundamental problem is that businesses lack user research capability and customer insight.",
-      "keyFindings": [
-        "The piece argues SA businesses are over-indexing on acquiring technology while under-investing in understanding user needs and behaviors",
-        "The framing positions user research and empathy as the actual competitive gap, not access to platforms or tools",
-        "No specific data or studies are cited in the available snippet — the argument appears editorial"
-      ],
-      "implications": "Relevant for UX practitioners working in or with emerging markets: the challenge is often organizational will and research literacy, not tool availability. This framing supports the case for embedding researchers earlier in digital transformation projects.",
-      "tags": [
-        "User research",
-        "Emerging markets",
-        "Organizational UX"
+        "Career paths",
+        "Design education"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "IOL",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbElZQnFrb3dUcUxDYS15WFF5dDFsN1pDdXltQzRvdEFpZG1tRjQyMEhXbHZLbnM3ekwtb3dmdGQ3RjRGVWNPQjNTXzNuaTFUWWhTYmdIYlZfakJSdGdDcVp4eWloVUg4aU1hZllvMEFqQXRKQWUzLTdITVBqVk15MnRoQVFJdTJ2STBPNEROX1p1aVNoOHFRZjljb0J1M1hfUkhfVm1OQlNUX2ZUVW1hSGFlaHQ2NFNpaHNTQ1RjdGhEVEE?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 13:32:44 GMT"
+      "source": "LPU",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10NmVnRnFCYUNaU1hHQWZLQk04UGpzc0FoV0JDM2owYWNQbU5jWk5GLWVjYnA0al95MEsxRU1ZME12ZjZzYWpWT1Njd0kydUVCU25oTGF5TXZNYkJMNkZpY2RrYWRuaUtsOWgzcmkyX2ZCU0ZKcTJr?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 09:17:51 GMT"
     },
     {
-      "headline": "E-commerce hardware migration from BigCommerce to Shopify documented",
-      "background": "Platform migrations in e-commerce are high-risk, especially when custom hardware integrations are involved. Case studies of successful migrations are sparse in the public domain.",
+      "headline": "Hyundai's Shanghai studio targets Chinese smart mobility trends",
+      "background": "Global automakers have been establishing local design and innovation studios in China to better respond to the country's fast-moving electric vehicle and smart mobility ecosystem.",
       "keyFindings": [
-        "Space Dinosaurs completed a migration of custom service hardware integrations from BigCommerce to Shopify",
-        "The migration was successful, though no technical detail about the integration approach is available in the snippet",
-        "This is a business news item, not a technical or UX post — methodology and lessons learned are not documented publicly"
+        "Hyundai's Shanghai studio is specifically tasked with monitoring and integrating local smart mobility innovation into product development",
+        "The move reflects recognition that Chinese EV and in-vehicle UX expectations now lead rather than follow global norms"
       ],
-      "implications": "Limited practical value without technical specifics. Teams evaluating BigCommerce-to-Shopify migrations involving custom hardware should seek direct case contact rather than relying on this coverage.",
+      "implications": "For teams designing in-vehicle interfaces or mobility apps, China is increasingly a source of interaction patterns and feature expectations rather than just a target market — worth monitoring as a leading indicator of where automotive UX is heading globally.",
       "tags": [
-        "E-commerce",
-        "Platform migration",
-        "Shopify"
+        "Automotive UX",
+        "Smart mobility",
+        "China tech"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Thailand Business News",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbjlNQmNqNTNrNWY3M0VkY092V0tWX0x3cXBJMzlDRVNLZGdkVkUwX0N2Q0EtckczU2dMMmZHTnAwb0dfeVl3c24zcVREbGlkVkpsUkhtODhNendsSnJrd29yLTdPb19hYXRaektWcGJJR25GUVA3QlBJRTNDY0pzd3lZX2kycGtRaEVKcGJNYWVoSlFBUmNLaVl0SnhiQzMzbFFaZnltNG80VkJZaTI1d25veTNncmJRQ1JIRlliYlRDN3RJdUNRQjdESXM0RTdxTHc?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 13:18:11 GMT"
-    },
-    {
-      "headline": "AI UI generation tools claim to speed up app interface creation",
-      "background": "A wave of AI-powered UI generation platforms has emerged promising to let non-designers and developers produce app interfaces rapidly from prompts or templates, raising questions about quality, consistency, and designer relevance.",
-      "keyFindings": [
-        "The piece profiles AI UI generation platforms positioned at creators and non-designers rather than professional design teams",
-        "'Beautiful' is the primary value claim — no usability, accessibility, or consistency benchmarks are referenced",
-        "Trend Hunter coverage suggests this is a market observation piece, not a product review or comparative analysis"
-      ],
-      "implications": "Treat with skepticism as a quality signal — trend coverage of AI design tools frequently conflates aesthetic output with UX quality. Teams evaluating these tools should test against accessibility standards and design system compatibility before adoption.",
-      "tags": [
-        "AI tools",
-        "UI generation",
-        "No-code design"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Trend Hunter",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGQWg1eVI1T3ZpSUMyXzFXbHV6TTJ4a1BiRUtlQ1N6THNBMFdQRXdsazZOelk2SDNIZlVvZ24xUnZGLVA0UklXMkY1SVBvY1d4Z2dIdWwzNXpWYjdYajhiaXpR?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 23:55:59 GMT"
-    },
-    {
-      "headline": "Entry-level remote UX jobs reportedly reaching $85K salaries",
-      "background": "Salary transparency in UX and tech has increased with remote work normalization, but claims about entry-level compensation vary widely by source quality, role definition, and geography.",
-      "keyFindings": [
-        "The piece claims 11 specific entry-level remote roles can pay at least $85,000 annually",
-        "Source is a personal finance publication, not a UX or tech industry salary database — methodology is unspecified",
-        "No breakdown by role type, company size, or geography is available in the snippet"
-      ],
-      "implications": "Treat salary figures from non-specialist publications cautiously. For reliable UX compensation benchmarking, use sources like Levels.fyi, AIGA salary survey, or Bureau of Labor Statistics data instead.",
-      "tags": [
-        "Salaries",
-        "Remote work",
-        "Career"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "mibolsillo.co",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPclBSV3dVa2o5MC0zM1lTRF9WRWZQS3JlN1Q5aU5HTG1jS3l0aDc2MU1zWE92Q3VDREdWYmVvSTlkRUZvd19zajdDRGNvbzNONHNPOS16SHJ0amZycV9oTUJNQ1BHcXEtS3psd1dxVDQ5NDJ6LWhTWF9GUGtBZ2NhOWVaNW1TR0t4bURQZWlycG1IaG9qR0lJMlhPTXdJeEFhNjQ3UFRKRjBUZTdPYWdrY2JaM0czcm1KR2s4?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 22:20:00 GMT"
-    },
-    {
-      "headline": "Sales teams are being restructured around AI-assisted hybrid roles",
-      "background": "AI automation is reshaping sales workflows, with traditional SDR and closing roles being consolidated or replaced by hybrid profiles that combine automation management with human relationship skills.",
-      "keyFindings": [
-        "The 'hybrid closer' model combines automated outreach and CRM management with human-led deal closing",
-        "Traditional siloed sales team structures — separate SDRs, AEs, and account managers — are described as increasingly redundant",
-        "The piece is opinion-editorial in format with no cited research or workforce data"
-      ],
-      "implications": "Minimal direct UX relevance, though product teams building sales-facing tools or CRM interfaces should note the workflow shift — tool design assumptions built around siloed roles may no longer match actual user job structures.",
-      "tags": [
-        "Sales technology",
-        "Workflow",
-        "Automation"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Tribune Online",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYlJ5ZDRzdm1HaTdoTlpaTDZXdVJzd18yd0FwbzRodDg2WnZTNWFmWUlvNTl0Y096ZThaUjRlNkxfYmIxRlc0ekJqYmR5dDJpMVJqSmF1Ry1IMl9kTTdVXzlPWXFaZnNfd1YyZERUaWxKb1lXUlVLSVQ1UjBlZm1mekpteGVZNEt2T1FYaXd3X2p4ZGU2ZEUxaWxrUjNYQdIBowFBVV95cUxObng0bklNQkR3cms3TnhmaENUVGR4UTR5T18tYVV4ZUtpaVhYaHNkUzJ5ZnBHYWtkZ2NXWDZkOHJyV3VXU0FKYUNUWGN4ZURiejlYY1hDc2xUeTlUbTYwdDd5SUppY3hxYnphYlFsVlk5dEwwS253UEtfRDJpanpoajlrb0tkX3VDMENFd0lPRThjZzRYMGhHNmFZdUprMFVrbmxn?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 21:13:35 GMT"
-    },
-    {
-      "headline": "Nigerian president outlines education and sector reform priorities",
-      "background": "Nigerian President Tinubu has been advancing a broad reform agenda across multiple sectors. This piece covers stated priorities in education among other areas.",
-      "keyFindings": [
-        "Tinubu cited education as a key reform area, alongside other unspecified sectors",
-        "No specific policy mechanisms, budgets, or implementation timelines are detailed in the available snippet",
-        "This is general political news coverage with no UX, product, or technology angle"
-      ],
-      "implications": "Not relevant to UX, product, or technology practice. No actionable content for this audience.",
-      "tags": [
-        "Policy",
-        "Education",
-        "Nigeria"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Tribune Online",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQlpRNjc5UU9EOUoxTURDWUY5dVhObl9sb1NFdnZuck5aSHN4ZFRFQjBtWHQzcnJlcVprTEkycTJrUDBrV3l4aDNDN1FneUpnRnotYmM1aUNVejN6bXZPdmpqaDNKbzFBNThCVDJQMzI3VmoyUVBFM0NWQUZfaHVSUHdRS1rSAYQBQVVfeXFMUEJaUTY3OVFPRDlKMU1EQ1lGOXVYTm5fbG9TRXZ2bnJOWkhzeGRURUIwbVh0M3JyZXFaa0xJMnEya1Awa1d5eGgzQzdRZ3lKZ0Z6LWJjNWlDVXozem12T3ZqamgzSm8xQTU4QlQyUDMyN1ZqMlFQRTNDVkFGX2h1UlB3UUta?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 20:39:22 GMT"
+      "source": "China Daily",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55MGRzS3FDZXJyTW10VFd0c3ZveVFUVU90MDZfbjAwRFVIUjBiZUFvZFNIdmEyLTZCSEhMT1Y3NHB5TDJneVNrSnY5VXVXMTd0cHQzUjRQanFENXBQdjdLU2t3M0xjNTQ3QXRfRl9sdTRZdE80UkZaeHVEdFFSdw?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 08:08:13 GMT"
     }
   ]
 }
