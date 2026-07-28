@@ -1,228 +1,235 @@
 {
-  "generatedAt": "2026-07-27T18:00:22.186Z",
+  "generatedAt": "2026-07-28T17:13:57.947Z",
   "items": [
     {
-      "headline": "Wearables could close the gap in post-dialysis care",
-      "background": "Dialysis patients receive close monitoring during treatment, but the recovery period at home is largely untracked — leaving clinicians blind to complications that emerge after discharge.",
+      "headline": "Solo founder built Greece's top digital wedding invite platform",
+      "background": "Indie founders often struggle to gain credibility and visibility without institutional backing. This piece documents a solo founder's path from building a niche product to seeking design industry validation via Awwwards.",
       "keyFindings": [
-        "Post-dialysis recovery symptoms like fatigue, blood pressure shifts, and fluid imbalance go unmonitored once patients leave the clinic",
-        "Wearable health monitors are proposed as a way to surface continuous biometric data during at-home recovery",
-        "Design of these systems must account for low-health-literacy users and the physical limitations common in dialysis populations"
+        "The platform claims the top position in Greece's digital wedding invitation market",
+        "Founder submitted to Awwwards as a deliberate visibility and credibility strategy, not just vanity",
+        "Built without a team, making it a rare solo-founder design-led product story"
       ],
-      "implications": "Designers working on health tech or chronic illness products should treat the clinic-to-home transition as a core use case, not an edge case — this requires explicit design for passive data capture and caregiver-facing dashboards, not just patient-facing interfaces.",
+      "implications": "Useful primarily as a case study in niche market positioning and using design awards for distribution — not a technical or research piece. Most applicable to indie founders or small studios debating whether awards submissions are worth the effort.",
       "tags": [
-        "Health tech",
-        "Wearables",
-        "Chronic illness"
+        "Indie Product",
+        "Design Awards",
+        "Founder Story"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2016/1*jehcybrmVbqC9kfO_d6Pkw.png",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*vPd14QAEeDUwi62Oo7a-XQ.png",
       "source": "Product Design on Medium",
-      "link": "https://astutisrivastava.medium.com/designing-beyond-the-clinic-rethinking-dialysis-recovery-through-wearable-health-monitoring-e65ec7bf9a44?source=rss------product_design-5",
-      "pubDate": "Mon, 27 Jul 2026 17:48:56 GMT"
+      "link": "https://medium.com/@ignatiou.konstantinos/how-i-built-greeces-1-digital-wedding-invitation-platform-and-why-i-submitted-it-to-awwwards-ed03b2e0c4a9?source=rss------product_design-5",
+      "pubDate": "Tue, 28 Jul 2026 16:47:25 GMT"
     },
     {
-      "headline": "Teaching AI to admit ignorance is the real design challenge",
-      "background": "Conversational AI tools for non-technical small business users frequently fail by confidently giving wrong answers — a critical trust problem when the audience has little ability to fact-check outputs.",
+      "headline": "A/B testing is now reshaping how product architecture is built",
+      "background": "Most teams treat A/B testing as a layer bolted onto existing products, but growing experimentation culture is forcing architecture decisions to be made with continuous validation in mind from the start.",
       "keyFindings": [
-        "The designer intentionally constrained the AI to respond with 'I don't know' rather than hallucinate answers outside its training scope",
-        "Defining the boundaries of what the tool should and shouldn't answer required more iteration than building core features",
-        "The project placed in the top 100 of Google's Gen AI APAC competition, suggesting the approach has broader validation"
+        "Product architecture increasingly needs to support feature flagging and experiment isolation at the infrastructure level",
+        "Experiment-driven design requires separating configuration from code so variants can be deployed without redeployment",
+        "Teams without experiment-ready architecture face compounding technical debt as testing velocity increases"
       ],
-      "implications": "For AI product designers, explicitly designing refusal behavior and uncertainty responses is as important as designing positive flows — especially for users with low AI literacy who may overtrust confident-sounding wrong answers.",
+      "implications": "If you're in early product or platform decisions, build for experiment isolation now — retrofitting flagging systems into monolithic codebases is costly. Relevant to product engineers and technical PMs more than pure UX practitioners.",
       "tags": [
-        "AI tools",
-        "Conversational UI",
-        "Small business"
+        "Product Architecture",
+        "A/B Testing",
+        "Experimentation"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*q-seUfdiKQJ1FTKh06l9LA.png",
+      "source": "UX on Medium",
+      "link": "https://loop11.medium.com/building-experiment-driven-applications-how-a-b-testing-is-shaping-product-architecture-b67d32c94995?source=rss------ux-5",
+      "pubDate": "Tue, 28 Jul 2026 16:36:01 GMT"
+    },
+    {
+      "headline": "Prototype the experience before you draw any screens",
+      "background": "A Turkish-language UX article making the case that user flows and prototyping should precede visual design work — a foundational argument that remains widely ignored in practice, especially under delivery pressure.",
+      "keyFindings": [
+        "Article emphasizes mapping user goals and decision points before any screen design begins",
+        "Prototyping is framed as a tool for understanding how a product works, not just how it looks",
+        "User flows are positioned as the primary artifact for aligning teams before visual work starts"
+      ],
+      "implications": "The argument is well-established in UX literature, but the piece may be valuable for practitioners early in their careers or teams where stakeholders push for visual mockups prematurely. Content is in Turkish, limiting its audience.",
+      "tags": [
+        "Prototyping",
+        "User Flows",
+        "Design Process"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/959/1*7SUEQcgdxHhvh0zMu2LBZg.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@gayedinc190/ux-tasar%C4%B1mda-prototipleme-ve-kullan%C4%B1c%C4%B1-ak%C4%B1%C5%9Flar%C4%B1-ekranlar%C4%B1-%C3%A7izmeden-%C3%B6nce-deneyimi-kurmak-2cf318f1bcfc?source=rss------product_design-5",
+      "pubDate": "Tue, 28 Jul 2026 16:31:02 GMT"
+    },
+    {
+      "headline": "Pre-built AI agent frameworks are replacing custom-built assistants",
+      "background": "For the past few years, teams have been building AI assistants from scratch using raw LLM APIs, but the overhead of prompt engineering, memory, tool integration, and reliability has proven significant. A new wave of orchestration frameworks is challenging this approach.",
+      "keyFindings": [
+        "Custom-built AI assistants consistently underdeliver due to the complexity of memory, context management, and tool-calling at scale",
+        "Frameworks like LangGraph, AutoGen, and similar orchestration layers are now mature enough to handle production use cases",
+        "The shift moves AI product work from model-level engineering toward configuration and integration of pre-built agent components"
+      ],
+      "implications": "Product and UX teams embedded in AI development should understand this architectural shift — it affects what's feasible to prototype, how quickly AI features can ship, and where customization bottlenecks will now live. Evaluate whether your team is still solving problems that frameworks already solve.",
+      "tags": [
+        "AI Agents",
+        "LLM Architecture",
+        "Product Engineering"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*lvlnDRNF2gZfL6XlhtwPDw.png",
+      "image": "https://cdn-images-1.medium.com/max/1726/1*wb5RUG4OdAVRXDLJiJQumw.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@subhambanerjee.business/i-built-an-ai-tool-for-shopkeepers-the-hardest-feature-was-making-it-say-i-dont-know-bfc2e442d6b8?source=rss------product_design-5",
-      "pubDate": "Mon, 27 Jul 2026 17:46:56 GMT"
+      "link": "https://medium.com/@neerajdeolekar/building-ai-assistants-from-scratch-is-dead-heres-what-s-replacing-it-ed6d084b8cf6?source=rss------product_design-5",
+      "pubDate": "Tue, 28 Jul 2026 16:22:33 GMT"
     },
     {
-      "headline": "AI in design is shifting output from screens to motion",
-      "background": "Most UX design tooling and practice has been built around static screen deliverables, but AI-assisted design is accelerating interest in motion and animated interfaces as a default output.",
+      "headline": "Graphic design software market projected to reach $22B by 2035",
+      "background": "The graphic design software category is undergoing rapid expansion driven by AI-assisted tools, browser-based editors, and broader creator economy adoption. SNS Insider's market sizing report puts a number on that growth.",
       "keyFindings": [
-        "The author argues that AI-generated design naturally produces motion-rich outputs, pushing designers toward animated interaction patterns",
-        "This shift challenges design workflows still centered on static wireframes and flat mockups",
-        "The piece positions motion as an emerging baseline expectation rather than a polish-layer add-on"
+        "Market projected to grow to $22.19 billion by 2035",
+        "Growth is attributed to AI integration, cloud-based tools, and expansion beyond professional designers to general business users",
+        "No specific CAGR or methodology detail is available in the snippet"
       ],
-      "implications": "Teams still treating animation as a late-stage handoff concern may need to rethink how early motion enters the design process — though this trend currently applies more to marketing and consumer products than enterprise or accessibility-focused work.",
+      "implications": "Treat the specific figure with caution — market research reports vary widely in methodology. The directional signal (significant growth, democratization of design tooling) is consistent with observable trends, but don't cite the $22B number in strategy docs without verifying the source methodology.",
       "tags": [
-        "Motion design",
-        "AI tools",
-        "Design workflow"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1774/1*aM8ISq28wndrpPP5YtHoMA.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@lara.thaisaa/from-static-screens-to-living-flows-ux-is-alive-17a1dd24e993?source=rss------product_design-5",
-      "pubDate": "Mon, 27 Jul 2026 17:28:37 GMT"
-    },
-    {
-      "headline": "No universal UX standard exists — context always wins",
-      "background": "There is ongoing debate in the UX field about whether best practices and design patterns can be reliably applied across cultures, industries, and user contexts.",
-      "keyFindings": [
-        "The piece presents evidence that UX and UI decisions are context-dependent, meaning patterns that work in one setting demonstrably fail in another",
-        "Cultural, demographic, and domain-specific variables consistently override generalized design heuristics",
-        "The author argues against treating any single UX framework as universally applicable"
-      ],
-      "implications": "Practitioners borrowing patterns from case studies or design systems outside their specific user context should validate assumptions with their own research — this is particularly relevant when designing for non-Western markets or specialized professional audiences.",
-      "tags": [
-        "Design systems",
-        "Cross-cultural design",
-        "Research"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*sz9QRPv-OAeUTYN_ezM4DQ.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@rodrigogalhardo/a-inexist%C3%AAncia-de-um-padr%C3%A3o-universal-de-ux-ui-evid%C3%AAncias-da-depend%C3%AAncia-contextual-do-design-de-4b473da05e6c?source=rss------product_design-5",
-      "pubDate": "Mon, 27 Jul 2026 16:44:21 GMT"
-    },
-    {
-      "headline": "Car manufacturers are experimenting with user co-design",
-      "background": "Automotive UX has traditionally been driven by internal engineering and design teams, with limited structured input from end users during the manufacturing and feature-definition phases.",
-      "keyFindings": [
-        "Some car manufacturers are creating formal mechanisms for users to participate in product development decisions",
-        "The piece focuses on the shift from passive user research to active user involvement in manufacturing contexts"
-      ],
-      "implications": "Participatory design methods are reaching industries historically resistant to them — automotive teams building in-vehicle UX or mobility software should note this as a signal that end-user co-design is becoming a competitive expectation.",
-      "tags": [
-        "Participatory design",
-        "Automotive UX",
-        "Product development"
+        "Market Research",
+        "Design Tools",
+        "Industry Trends"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Gasgoo",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYzdnM09jTHBYNlo4aXNRN0NqX1B3WFBlNVRnLVFNS1hNTnU2QVo0TnMyc0dXaS1HQ0xvWW10cDVXMU9vZVEwOGJtZ1lPcFdZSFVqV0dadGFDRUFEUEhHc0lUQlE1QUN5bUYwX01jS0Q3UEZkb0FEa2ttcktFREItZGlGWXJaejRPdE9OamoySkoyMTFCMERYa1pWWnp6cTYzWmQzb012SEFTbXJzN1ZIOFJnZ29kTEJSbnNzMlNn?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 15:51:31 GMT"
+      "source": "Business Upturn",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMzdNdjRqSEZmTEZDQkI2RWtzc2dJajgwazVrSF94dHk3bkVwZk9yaG9wTlJuMXVVS2h4ODlKakJmb0pKWnVtRDJlYnc2TWpWSGJ6cUc5Z19DcDN5VVJiVUsyZFJJUzd0eVlDb3Qza2VDR3hNWnkxamV2dTFPaHkxQmZXM1prcHRiaFJKUkN6MW5jaDJoWG1aZDRfMVZ6b0xrdnlRekNXemNwNTJ5V1I2eUJUcW1xdw?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 15:53:55 GMT"
     },
     {
-      "headline": "Retro Rabbit launches dedicated UX design hub in Africa",
-      "background": "The African tech services market has had limited access to specialized UX capability, with most design-focused agencies concentrated in a few major metros.",
+      "headline": "H-1B uncertainty is costing tech workers jobs and stability",
+      "background": "US immigration policy around H-1B visas has become increasingly unpredictable, creating real employment vulnerability for foreign-born tech workers. This account documents the human cost of that instability.",
       "keyFindings": [
-        "Retro Rabbit, operating under SmarTek21, has formally launched a dedicated Design Hub to expand UX service delivery",
-        "The move signals investment in UX as a standalone practice rather than a sub-function of software development in the region"
+        "An Indian-origin woman was fired twice within three months, directly linked to her visa status uncertainty",
+        "The account highlights how employers are making staffing decisions based on immigration risk, not performance",
+        "The piece surfaces a growing pattern of visa-status discrimination that is rarely documented in tech hiring coverage"
       ],
-      "implications": "Companies sourcing UX talent or agency partners in sub-Saharan Africa have a new option — this is also a signal that regional demand for UX services is maturing enough to support specialist operations.",
+      "implications": "For UX and product hiring managers, this is a signal to examine how immigration status factors into team planning and whether your organization has legal and HR support in place for workers in visa-dependent situations. It also has implications for workforce diversity as talent pipelines narrow.",
       "tags": [
-        "Design industry",
-        "Africa tech",
-        "Agency"
+        "Immigration",
+        "Tech Hiring",
+        "Workforce"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "TechAfrica News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX0RFbXZvWDd2NmNuaVY5Q2tnY0dJdnVpWGJlUUtIMjA5WmM4djRCaHBjZXJLajNHRXYzaVFOWnRWNzVlVW5GYTNGRDhPcmJTTWZrMTdpR05Da0ozUzQyc2ctVE9paGRnU01aMXpGNWRhZ3pEbkZJQmcyaV95XzlPbjhDMDFKUkEtTmwwSFJZSnZvUW4xZHlNamxDdFBvdmNBMkVSZQ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 12:19:45 GMT"
+      "source": "Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZE8zamt2NFNrXzd4YlpXNTlxYUhxUlJuVk5BOUdvV2NOZE1jbkFpMG43TlFpY0JDczByZDcxYkxBZVJsRnM4Ym93ZjVPQmNwcHNrM1IzX0t1c1BrSHZscE96ZjJncnI1Sm00QVkydmljRzB4UmlPU21nZnpmSjVrUENXeDhCLWNxLVk3dExZVDc2R2lUZEdLTzVsUXJ1eVl0d2REVFQxU2c0MHN0VFNXSVVOeXI1WXdjZkNIWGIzdWwwaWFBRnMyWnp3X29OU1Q5dzZ2SU52V3Iyckk5MTNNYU1wMXVmRG9oc0Z4c3FzRXhCN1lQamFOSG9PVWRsUlVjRnRKZlY5YVVHYzjSAZACQVVfeXFMTURPYjc3TEtuaDZUdV9aOVFFbjFmalRwNmxIbHBXS1QtTm9mb0gxZU1YS2pOaTh2dGl6QjNpbzNtaU1WTTVCNTdyTmcxeUVvSUI2T0FXU2szcEdBV1BrdUdyNUN5NXVlODVLOXpVYnh2ZVN6TllHQUNsN0Vsb0RhUmpta2hiUWxZY092czRIWENEeU44c055eE1zN3oyb2p5aDV4UmUxOTZzUjhXYlFReEJxU0thb3RTYWJMdVRXQ3YyTnhYRE5PQjhxd2g3WjZTWGxNMXZhRm5QZHJTRkU2Wl9SZlFpQ2xvMVFNaTllaHQ1Q1piVXZzMFFOZ2lZSzM1ZHhIVjh4d3V3NFFyY3FnaXY?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 14:59:02 GMT"
     },
     {
-      "headline": "Veronexs expands web development services globally",
-      "background": "A press release announcing service expansion from a web development firm with limited prior coverage.",
+      "headline": "Startup raises $71M betting robot UX is the real AI bottleneck",
+      "background": "Most robotics investment has focused on hardware capability and AI model performance. Enigma is making the contrarian argument that the actual barrier to robot adoption is the quality of human-robot interfaces.",
       "keyFindings": [
-        "Veronexs Solutions is broadening its web development offerings to international markets",
-        "No specific technical capabilities, pricing, or market differentiation details are available from the snippet"
+        "Enigma raised $71 million specifically to build better operator interfaces for robots, not to improve underlying AI",
+        "The thesis positions UI/UX design as the critical adoption bottleneck in industrial and commercial robotics",
+        "This represents a rare major funding event explicitly centered on human-robot interaction design rather than model or hardware advancement"
       ],
-      "implications": "This is a vendor announcement with no substantive findings for UX or product practitioners — not actionable without further detail.",
+      "implications": "This is a meaningful signal for UX practitioners interested in robotics and physical computing — interface design is being treated as a first-class investment category in robotics, not an afterthought. If you work in or near industrial UX, this framing supports the case for dedicated HRI design resources.",
       "tags": [
-        "Web development",
-        "Industry news"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "openPR.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYnBVYlJ6a3F4ajRWWG9mRnc0b1U3YW9veldBX1JIWEtQcmFaTElmRGc5MnFncUJFdXRGWjIyclhTVDgwekJfWFlwcFNYOXNSMTNUVlFhNlJUX010VGtJUDB5Vkc5Tmo4RGp0bElFbHVRLXpDbkxoMVdrZzgteW92RDQ3Zk1JVG5Ib185RFZfTzg?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 11:59:57 GMT"
-    },
-    {
-      "headline": "Nielsen's roundup covers AI models, decoy effect, and copyright",
-      "background": "Jakob Nielsen's periodic UX roundups aggregate recent developments across research, tools, and industry debates — this edition covers a notably wide range of contested topics.",
-      "keyFindings": [
-        "The roundup addresses how designers are actually using AI design tools in practice, not just in theory",
-        "It covers user agency as a design principle alongside a breakdown of the decoy effect in pricing and decision UI",
-        "AI training data versus copyright is flagged as an unresolved issue with direct implications for teams using generative tools"
-      ],
-      "implications": "The AI training vs. copyright item is worth tracking for any team using AI tools trained on unlicensed design or creative assets — legal exposure in this area remains unresolved and is starting to affect enterprise procurement decisions.",
-      "tags": [
-        "AI tools",
-        "Design research",
-        "Copyright"
+        "Human-Robot Interaction",
+        "AI Adoption",
+        "Robotics UX"
       ],
       "featured": true,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjVGc2cnBOMkN5clBfbHJiY1cwMDVyNmk4Z1JncS1SNk44cl8zVnFUbUdyT09QWFNkbUR3V21IWnJCZWtueWZyemJXQk1VWVg2NW5MRGh4UlFlVTVQYkVFZ2o2UFJGbXBybXc?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 11:21:12 GMT"
+      "source": "Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFBfemRuOHZ0VjMyUUk1T2ZoMGZ1WTN4R204VXEyV0d3cEtSbjVaUVpncGdYYkFySFVEbk5vLUdkUFhnRFV5RDQzNEJqamNUYk5VdnlWc2Yxd1V2aE1CTXBHekxjMndudmlGanlyb1dicFlYeGhrdEM2d0pnSHNJN01JVDdMWHNhb0UtSEpOTllRZzJXcXEzakNMLVE1NktndVYxai1vdGY2R19MQTRvWVNyWEVVdmVIaTlvZWdHVG5VSVg1MEZyTl93dw?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 13:54:03 GMT"
     },
     {
-      "headline": "B.Tech CSE opens doors beyond software engineering roles",
-      "background": "Computer science graduates in India often default toward software development careers despite the degree providing relevant foundations for adjacent disciplines.",
+      "headline": "Why psychiatrists won't use AI tools designed for them",
+      "background": "Clinical AI tools have proliferated, but adoption among psychiatrists and mental health professionals remains low. A designer who worked on psychiatric AI tools reflects on the structural and cultural reasons clinicians resist them.",
       "keyFindings": [
-        "UX and product design are listed among the five career paths highlighted as viable for B.Tech CSE graduates",
-        "The piece is aimed at students and early-career professionals weighing specialization decisions"
+        "Psychiatrists distrust AI recommendations that cannot explain their reasoning in clinically meaningful terms",
+        "Workflow integration failure — tools that don't fit into existing clinical documentation and session flow — is a primary rejection cause",
+        "Liability concerns and the relational nature of psychiatric care create adoption barriers that purely functional design cannot overcome"
       ],
-      "implications": "Relevant primarily for hiring managers and educators — signals that UX and product roles are increasingly visible as career destinations for CS graduates in South Asia, which may affect the skill profile of entry-level candidates.",
+      "implications": "For anyone designing AI tools for high-stakes professional domains, this is a concrete reminder that capability alone doesn't drive adoption. Trust, explainability, and workflow fit must be designed for explicitly — and clinical contexts add regulatory and liability layers that require domain expert collaboration.",
       "tags": [
-        "Career paths",
-        "Design education"
+        "Clinical AI",
+        "AI Adoption",
+        "Healthcare UX"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "LPU",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10NmVnRnFCYUNaU1hHQWZLQk04UGpzc0FoV0JDM2owYWNQbU5jWk5GLWVjYnA0al95MEsxRU1ZME12ZjZzYWpWT1Njd0kydUVCU25oTGF5TXZNYkJMNkZpY2RrYWRuaUtsOWgzcmkyX2ZCU0ZKcTJr?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 09:17:51 GMT"
+      "source": "Psychiatric Times",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSG9IYmtwX1VxYk1Gbk1VUDZYU0NrVW9TNjFHU1B4eVFCcXk4d1RCcktCd0dGRklZVWs0OXNkdVRSZWpRRjFoZGw3eWc3QUNEdXhTRGVkbnEyZlBWQzdRTXp0UmNJbGFqeWpsNFdGbS1Ja3I3eXAwNDZLZGZRZVBmMjNhUGk5MU1YOHYteGx0T016bTZWUFRLWGJkOXRhNGM?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 13:07:13 GMT"
     },
     {
-      "headline": "Hyundai's Shanghai studio targets Chinese smart mobility trends",
-      "background": "Global automakers have been establishing local design and innovation studios in China to better respond to the country's fast-moving electric vehicle and smart mobility ecosystem.",
+      "headline": "Stablecoin users are far more varied than the industry assumes",
+      "background": "Crypto products are often designed around an assumed 'typical' user — usually a technically sophisticated, speculation-driven trader. Changelly's 2026 research challenges whether that persona reflects actual stablecoin usage patterns.",
       "keyFindings": [
-        "Hyundai's Shanghai studio is specifically tasked with monitoring and integrating local smart mobility innovation into product development",
-        "The move reflects recognition that Chinese EV and in-vehicle UX expectations now lead rather than follow global norms"
+        "Research finds stablecoin users span remittance senders, merchants, savings users, and traders — not a single dominant profile",
+        "Designing for a single 'average' stablecoin user likely creates products that serve no segment particularly well",
+        "The data suggests segmentation by use case (not demographics) is more predictive of behavior and needs"
       ],
-      "implications": "For teams designing in-vehicle interfaces or mobility apps, China is increasingly a source of interaction patterns and feature expectations rather than just a target market — worth monitoring as a leading indicator of where automotive UX is heading globally.",
+      "implications": "Relevant to product and UX teams building stablecoin or broader crypto products — if your persona work hasn't differentiated between remittance, savings, and trading use cases, you may be optimizing flows for a user who doesn't dominate your actual base. Verify whether this data applies to your specific geography and product type.",
       "tags": [
-        "Automotive UX",
-        "Smart mobility",
-        "China tech"
+        "Crypto UX",
+        "User Research",
+        "Personas"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "China Daily",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55MGRzS3FDZXJyTW10VFd0c3ZveVFUVU90MDZfbjAwRFVIUjBiZUFvZFNIdmEyLTZCSEhMT1Y3NHB5TDJneVNrSnY5VXVXMTd0cHQzUjRQanFENXBQdjdLU2t3M0xjNTQ3QXRfRl9sdTRZdE80UkZaeHVEdFFSdw?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 08:08:13 GMT"
+      "source": "Analytics Insight",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQelNMMkZFX0FZYVB6cjdTTzE3T1BibU55Qk9QdkFzQnNnbUI2NlZfNE1oY2t3bTMwSjB0SllHWWdoeHRCa2xlQzRCMHMydU82VzRuVHBQZ053ZWROTkFSX1BFTHozYTluVW1YQmh4R1d6Y3hhOGZpbFJoTUNOYk80MmppX0RWaG9vUTFVVm5hM1hNZzFPc1BNSWJhQkRsakhULVd5YWZOU2p2UVJtTjIyaGZRRlBKZlpLVVhTUHNDZl9mYkRuOGQxQtIB1gFBVV95cUxNc0xMUjcyeW55T1hFb1lkbmpUUml0ZFNWZUZQWFA4elZ1UmFBMlNuTC0yQlBySjI1cUF3aDdYaktqcEtjRDFTU0NacUJsUC13SU9zRE1KU09UbDRSNDdzVW5xQ3BnR2Nmb0MzVUFtOXR1cHFONkFaV0FaWmZsb0xQS0UxU0tKdG5COGVMQ2lmVjJHeHVNZFdHSEo1a2lnZTk1RkpId0hER0VJQW54ZENSZVBJS0lHTXZHd19aQ2hQZi1qN3JVNHRmVExDcmZsUEtHTmVxZVpn?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 12:31:36 GMT"
+    },
+    {
+      "headline": "Desperate graduates are paying a month's salary for job referrals",
+      "background": "Entry-level hiring has tightened severely in tech and adjacent fields, with referrals becoming a dominant path to getting interviews. This piece documents fresh graduates offering cash payments to strangers in exchange for internal referrals.",
+      "keyFindings": [
+        "Some fresh graduates are offering their entire first month's salary to anyone who will refer them internally at target companies",
+        "The behavior reflects how dominant referral-based hiring has become as a filtering mechanism in competitive markets",
+        "The practice raises ethical and legal questions, as many companies prohibit employees from receiving compensation for referrals"
+      ],
+      "implications": "For product and UX teams involved in recruiting or onboarding tooling, this signals how broken perceived access to entry-level hiring has become. For hiring managers, it's worth examining whether referral-heavy processes are creating access inequities that hurt team diversity.",
+      "tags": [
+        "Hiring",
+        "Entry-Level Talent",
+        "Referrals"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "NewsBytes",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX1dobk1SNkVoX3Fra3dzcGlPSDEzb2h3bU9iNjNCOUFLYVlSM0dFNkI0ekFRb0o5MmJ1OUhJUmt2TTlNdWlHTW9jd2hzN0RZUHdybUVFdU9ra3VBb20ycktpczZvaVRzRm03Y3I2RE5SR2dnYzV5aHE2LXB4bVo5dkFxSWlYeW5hN21hQkxEOVVwOGRzeHkxZkxYejNnN0xaWnBYUkpFMjJhOVVXWGZVMDd3?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 12:22:16 GMT"
     }
   ]
 }
