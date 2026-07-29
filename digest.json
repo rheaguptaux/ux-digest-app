@@ -1,235 +1,224 @@
 {
-  "generatedAt": "2026-07-28T17:13:57.947Z",
+  "generatedAt": "2026-07-29T16:53:35.969Z",
   "items": [
     {
-      "headline": "Solo founder built Greece's top digital wedding invite platform",
-      "background": "Indie founders often struggle to gain credibility and visibility without institutional backing. This piece documents a solo founder's path from building a niche product to seeking design industry validation via Awwwards.",
+      "headline": "AI agents are now navigating your UI autonomously",
+      "background": "As agentic AI systems move beyond chatbots into tools that can browse, click, and interact with interfaces directly, product designers are grappling with what it means to design for non-human users operating inside their products.",
       "keyFindings": [
-        "The platform claims the top position in Greece's digital wedding invitation market",
-        "Founder submitted to Awwwards as a deliberate visibility and credibility strategy, not just vanity",
-        "Built without a team, making it a rare solo-founder design-led product story"
+        "AI agents are increasingly escaping isolated sandboxes to read and interact with live product UIs",
+        "This shifts design concerns from human perception and cognition toward machine-parseable interface structure",
+        "The author tracks this as a multi-week pattern, suggesting it is an accelerating trend rather than an edge case"
       ],
-      "implications": "Useful primarily as a case study in niche market positioning and using design awards for distribution — not a technical or research piece. Most applicable to indie founders or small studios debating whether awards submissions are worth the effort.",
+      "implications": "Designers may need to consider agent-readability alongside human usability — semantic markup, clear affordances, and predictable interaction flows become load-bearing for AI traversal, not just accessibility. Worth tracking if you work on products likely to be accessed via AI automation.",
       "tags": [
-        "Indie Product",
-        "Design Awards",
-        "Founder Story"
+        "Agentic AI",
+        "Interface Design",
+        "Automation"
       ],
-      "featured": false,
+      "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*vPd14QAEeDUwi62Oo7a-XQ.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*WDxkKDFPB9zDmxN8LUr7VA.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@ignatiou.konstantinos/how-i-built-greeces-1-digital-wedding-invitation-platform-and-why-i-submitted-it-to-awwwards-ed03b2e0c4a9?source=rss------product_design-5",
-      "pubDate": "Tue, 28 Jul 2026 16:47:25 GMT"
+      "link": "https://medium.com/@lex.konovalov/the-agent-escaped-the-sandbox-and-it-is-reading-your-ui-05c56a2580ba?source=rss------product_design-5",
+      "pubDate": "Wed, 29 Jul 2026 16:05:19 GMT"
     },
     {
-      "headline": "A/B testing is now reshaping how product architecture is built",
-      "background": "Most teams treat A/B testing as a layer bolted onto existing products, but growing experimentation culture is forcing architecture decisions to be made with continuous validation in mind from the start.",
+      "headline": "Edge-case discovery should be a core design skill",
+      "background": "Design practice has long centered on primary user flows and representative personas, but edge cases and underrepresented use cases regularly become the source of product failures, accessibility gaps, and unscalable assumptions.",
       "keyFindings": [
-        "Product architecture increasingly needs to support feature flagging and experiment isolation at the infrastructure level",
-        "Experiment-driven design requires separating configuration from code so variants can be deployed without redeployment",
-        "Teams without experiment-ready architecture face compounding technical debt as testing velocity increases"
+        "The piece positions edge-case discovery as a learnable, practiced skill rather than an afterthought or QA function",
+        "Use-case discovery is framed as distinct from edge-case discovery — both are argued to require deliberate methods",
+        "Treating these as design-phase activities rather than post-launch fixes implies earlier intervention in the product cycle"
       ],
-      "implications": "If you're in early product or platform decisions, build for experiment isolation now — retrofitting flagging systems into monolithic codebases is costly. Relevant to product engineers and technical PMs more than pure UX practitioners.",
+      "implications": "For UX practitioners, this is a prompt to build structured edge-case discovery into research and ideation phases — not just usability testing. Especially relevant on teams where engineers or PMs typically surface edge cases late in development.",
       "tags": [
-        "Product Architecture",
-        "A/B Testing",
-        "Experimentation"
+        "Design Research",
+        "Edge Cases",
+        "Product Thinking"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*q-seUfdiKQJ1FTKh06l9LA.png",
+      "image": null,
       "source": "UX on Medium",
-      "link": "https://loop11.medium.com/building-experiment-driven-applications-how-a-b-testing-is-shaping-product-architecture-b67d32c94995?source=rss------ux-5",
-      "pubDate": "Tue, 28 Jul 2026 16:36:01 GMT"
+      "link": "https://medium.com/@NitinBhasin1/edge-case-and-use-case-discovery-as-a-design-skill-8a85d1ffab9e?source=rss------ux-5",
+      "pubDate": "Wed, 29 Jul 2026 16:02:56 GMT"
     },
     {
-      "headline": "Prototype the experience before you draw any screens",
-      "background": "A Turkish-language UX article making the case that user flows and prototyping should precede visual design work — a foundational argument that remains widely ignored in practice, especially under delivery pressure.",
+      "headline": "Stop blocking employees who already understand AI tools",
+      "background": "Many organizations have responded to AI adoption with governance caution — approval processes, restricted tool access, and top-down AI strategies — while individual contributors have quietly become proficient on their own time.",
       "keyFindings": [
-        "Article emphasizes mapping user goals and decision points before any screen design begins",
-        "Prototyping is framed as a tool for understanding how a product works, not just how it looks",
-        "User flows are positioned as the primary artifact for aligning teams before visual work starts"
+        "The argument is that competitive advantage will go to companies that remove friction for already-capable employees, not those that build the most elaborate AI strategy",
+        "Organizational trust, not tool access, is identified as the primary bottleneck",
+        "The piece implies that management layers designed to control AI use may be actively slowing teams down"
       ],
-      "implications": "The argument is well-established in UX literature, but the piece may be valuable for practitioners early in their careers or teams where stakeholders push for visual mockups prematurely. Content is in Turkish, limiting its audience.",
+      "implications": "Product and UX leads should audit where internal policy is creating drag for people already using AI effectively. The risk flagged here is that over-governance drives capable people to work around systems rather than through them.",
       "tags": [
-        "Prototyping",
-        "User Flows",
-        "Design Process"
+        "AI Adoption",
+        "Org Design",
+        "Team Culture"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2400/1*_tbqWSUDWwlbodgdCxT7bQ.jpeg",
+      "source": "UX on Medium",
+      "link": "https://uxdesign.cc/your-people-get-ai-get-out-of-their-way-131370c157f8?source=rss------ux-5",
+      "pubDate": "Wed, 29 Jul 2026 15:54:05 GMT"
+    },
+    {
+      "headline": "Nordic city design series: Hamar, Norway edition",
+      "background": "A recurring design inspiration series draws on international cities and their cultural aesthetics to inform product or visual design sensibilities.",
+      "keyFindings": [
+        "The piece focuses on Hamar, Norway, drawing on its winter sports heritage and Nordic minimalism",
+        "Minimalist design principles are connected to the OSHIM001 design object or concept inspired by Nordic landscapes"
+      ],
+      "implications": "This is a visual inspiration piece rather than a research or strategy article. Limited direct applicability to UX or product practice.",
+      "tags": [
+        "Visual Design",
+        "Design Inspiration"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/959/1*7SUEQcgdxHhvh0zMu2LBZg.png",
+      "image": "https://cdn-images-1.medium.com/max/1104/1*ePGbAVeoc8r8ztB1E-Jrog.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@gayedinc190/ux-tasar%C4%B1mda-prototipleme-ve-kullan%C4%B1c%C4%B1-ak%C4%B1%C5%9Flar%C4%B1-ekranlar%C4%B1-%C3%A7izmeden-%C3%B6nce-deneyimi-kurmak-2cf318f1bcfc?source=rss------product_design-5",
-      "pubDate": "Tue, 28 Jul 2026 16:31:02 GMT"
+      "link": "https://medium.com/@AJ_Hu/city-series-073-hamar-norway-finding-strength-through-nordic-simplicity-dde0de6e8c67?source=rss------product_design-5",
+      "pubDate": "Wed, 29 Jul 2026 15:43:08 GMT"
     },
     {
-      "headline": "Pre-built AI agent frameworks are replacing custom-built assistants",
-      "background": "For the past few years, teams have been building AI assistants from scratch using raw LLM APIs, but the overhead of prompt engineering, memory, tool integration, and reliability has proven significant. A new wave of orchestration frameworks is challenging this approach.",
+      "headline": "AI gives designers more autonomy — and fewer places to hide",
+      "background": "Ongoing debate in the design industry centers on whether AI will elevate designers by removing bureaucratic constraints or expose weaknesses in designers who relied on those constraints as cover for limited strategic thinking.",
       "keyFindings": [
-        "Custom-built AI assistants consistently underdeliver due to the complexity of memory, context management, and tool-calling at scale",
-        "Frameworks like LangGraph, AutoGen, and similar orchestration layers are now mature enough to handle production use cases",
-        "The shift moves AI product work from model-level engineering toward configuration and integration of pre-built agent components"
+        "Andy Budd argues AI reduces designers' need for permission, which is both an opportunity and a liability",
+        "The bull case: designers gain autonomy to execute and validate ideas faster without organizational gatekeeping",
+        "The bear case: designers who depended on process and collaboration as scaffolding will have that scaffolding removed, revealing skill gaps"
       ],
-      "implications": "Product and UX teams embedded in AI development should understand this architectural shift — it affects what's feasible to prototype, how quickly AI features can ship, and where customization bottlenecks will now live. Evaluate whether your team is still solving problems that frameworks already solve.",
+      "implications": "This is one of the more clear-eyed framings of AI's double-edged impact on design careers. Practitioners should honestly assess whether their current value comes from craft and judgment or from navigating organizational process — AI will stress-test that distinction.",
       "tags": [
-        "AI Agents",
-        "LLM Architecture",
-        "Product Engineering"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1726/1*wb5RUG4OdAVRXDLJiJQumw.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@neerajdeolekar/building-ai-assistants-from-scratch-is-dead-heres-what-s-replacing-it-ed6d084b8cf6?source=rss------product_design-5",
-      "pubDate": "Tue, 28 Jul 2026 16:22:33 GMT"
-    },
-    {
-      "headline": "Graphic design software market projected to reach $22B by 2035",
-      "background": "The graphic design software category is undergoing rapid expansion driven by AI-assisted tools, browser-based editors, and broader creator economy adoption. SNS Insider's market sizing report puts a number on that growth.",
-      "keyFindings": [
-        "Market projected to grow to $22.19 billion by 2035",
-        "Growth is attributed to AI integration, cloud-based tools, and expansion beyond professional designers to general business users",
-        "No specific CAGR or methodology detail is available in the snippet"
-      ],
-      "implications": "Treat the specific figure with caution — market research reports vary widely in methodology. The directional signal (significant growth, democratization of design tooling) is consistent with observable trends, but don't cite the $22B number in strategy docs without verifying the source methodology.",
-      "tags": [
-        "Market Research",
-        "Design Tools",
-        "Industry Trends"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Business Upturn",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMzdNdjRqSEZmTEZDQkI2RWtzc2dJajgwazVrSF94dHk3bkVwZk9yaG9wTlJuMXVVS2h4ODlKakJmb0pKWnVtRDJlYnc2TWpWSGJ6cUc5Z19DcDN5VVJiVUsyZFJJUzd0eVlDb3Qza2VDR3hNWnkxamV2dTFPaHkxQmZXM1prcHRiaFJKUkN6MW5jaDJoWG1aZDRfMVZ6b0xrdnlRekNXemNwNTJ5V1I2eUJUcW1xdw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 15:53:55 GMT"
-    },
-    {
-      "headline": "H-1B uncertainty is costing tech workers jobs and stability",
-      "background": "US immigration policy around H-1B visas has become increasingly unpredictable, creating real employment vulnerability for foreign-born tech workers. This account documents the human cost of that instability.",
-      "keyFindings": [
-        "An Indian-origin woman was fired twice within three months, directly linked to her visa status uncertainty",
-        "The account highlights how employers are making staffing decisions based on immigration risk, not performance",
-        "The piece surfaces a growing pattern of visa-status discrimination that is rarely documented in tech hiring coverage"
-      ],
-      "implications": "For UX and product hiring managers, this is a signal to examine how immigration status factors into team planning and whether your organization has legal and HR support in place for workers in visa-dependent situations. It also has implications for workforce diversity as talent pipelines narrow.",
-      "tags": [
-        "Immigration",
-        "Tech Hiring",
-        "Workforce"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZE8zamt2NFNrXzd4YlpXNTlxYUhxUlJuVk5BOUdvV2NOZE1jbkFpMG43TlFpY0JDczByZDcxYkxBZVJsRnM4Ym93ZjVPQmNwcHNrM1IzX0t1c1BrSHZscE96ZjJncnI1Sm00QVkydmljRzB4UmlPU21nZnpmSjVrUENXeDhCLWNxLVk3dExZVDc2R2lUZEdLTzVsUXJ1eVl0d2REVFQxU2c0MHN0VFNXSVVOeXI1WXdjZkNIWGIzdWwwaWFBRnMyWnp3X29OU1Q5dzZ2SU52V3Iyckk5MTNNYU1wMXVmRG9oc0Z4c3FzRXhCN1lQamFOSG9PVWRsUlVjRnRKZlY5YVVHYzjSAZACQVVfeXFMTURPYjc3TEtuaDZUdV9aOVFFbjFmalRwNmxIbHBXS1QtTm9mb0gxZU1YS2pOaTh2dGl6QjNpbzNtaU1WTTVCNTdyTmcxeUVvSUI2T0FXU2szcEdBV1BrdUdyNUN5NXVlODVLOXpVYnh2ZVN6TllHQUNsN0Vsb0RhUmpta2hiUWxZY092czRIWENEeU44c055eE1zN3oyb2p5aDV4UmUxOTZzUjhXYlFReEJxU0thb3RTYWJMdVRXQ3YyTnhYRE5PQjhxd2g3WjZTWGxNMXZhRm5QZHJTRkU2Wl9SZlFpQ2xvMVFNaTllaHQ1Q1piVXZzMFFOZ2lZSzM1ZHhIVjh4d3V3NFFyY3FnaXY?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 14:59:02 GMT"
-    },
-    {
-      "headline": "Startup raises $71M betting robot UX is the real AI bottleneck",
-      "background": "Most robotics investment has focused on hardware capability and AI model performance. Enigma is making the contrarian argument that the actual barrier to robot adoption is the quality of human-robot interfaces.",
-      "keyFindings": [
-        "Enigma raised $71 million specifically to build better operator interfaces for robots, not to improve underlying AI",
-        "The thesis positions UI/UX design as the critical adoption bottleneck in industrial and commercial robotics",
-        "This represents a rare major funding event explicitly centered on human-robot interaction design rather than model or hardware advancement"
-      ],
-      "implications": "This is a meaningful signal for UX practitioners interested in robotics and physical computing — interface design is being treated as a first-class investment category in robotics, not an afterthought. If you work in or near industrial UX, this framing supports the case for dedicated HRI design resources.",
-      "tags": [
-        "Human-Robot Interaction",
-        "AI Adoption",
-        "Robotics UX"
+        "AI and Design",
+        "Design Careers",
+        "Product Strategy"
       ],
       "featured": true,
       "type": "research",
-      "category": "Industry news",
+      "category": "Design & dev",
       "publishedWindow": "today",
-      "image": null,
-      "source": "Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFBfemRuOHZ0VjMyUUk1T2ZoMGZ1WTN4R204VXEyV0d3cEtSbjVaUVpncGdYYkFySFVEbk5vLUdkUFhnRFV5RDQzNEJqamNUYk5VdnlWc2Yxd1V2aE1CTXBHekxjMndudmlGanlyb1dicFlYeGhrdEM2d0pnSHNJN01JVDdMWHNhb0UtSEpOTllRZzJXcXEzakNMLVE1NktndVYxai1vdGY2R19MQTRvWVNyWEVVdmVIaTlvZWdHVG5VSVg1MEZyTl93dw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 13:54:03 GMT"
+      "image": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
+      "source": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+      "pubDate": "Wed, 29 Jul 2026 13:00:00 GMT"
     },
     {
-      "headline": "Why psychiatrists won't use AI tools designed for them",
-      "background": "Clinical AI tools have proliferated, but adoption among psychiatrists and mental health professionals remains low. A designer who worked on psychiatric AI tools reflects on the structural and cultural reasons clinicians resist them.",
+      "headline": "B.Tech CSE animation degree pitch for Indian students",
+      "background": "An advertorial or university-affiliated piece promoting a specific undergraduate program in India.",
       "keyFindings": [
-        "Psychiatrists distrust AI recommendations that cannot explain their reasoning in clinically meaningful terms",
-        "Workflow integration failure — tools that don't fit into existing clinical documentation and session flow — is a primary rejection cause",
-        "Liability concerns and the relational nature of psychiatric care create adoption barriers that purely functional design cannot overcome"
+        "Promotes Shoolini University's B.Tech CSE Graphics and Animation program as a post-12th grade option"
       ],
-      "implications": "For anyone designing AI tools for high-stakes professional domains, this is a concrete reminder that capability alone doesn't drive adoption. Trust, explainability, and workflow fit must be designed for explicitly — and clinical contexts add regulatory and liability layers that require domain expert collaboration.",
+      "implications": "Not relevant to working UX, product, or tech professionals. Editorial content rather than research or practice guidance.",
       "tags": [
-        "Clinical AI",
-        "AI Adoption",
-        "Healthcare UX"
+        "Education",
+        "Animation"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Psychiatric Times",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSG9IYmtwX1VxYk1Gbk1VUDZYU0NrVW9TNjFHU1B4eVFCcXk4d1RCcktCd0dGRklZVWs0OXNkdVRSZWpRRjFoZGw3eWc3QUNEdXhTRGVkbnEyZlBWQzdRTXp0UmNJbGFqeWpsNFdGbS1Ja3I3eXAwNDZLZGZRZVBmMjNhUGk5MU1YOHYteGx0T016bTZWUFRLWGJkOXRhNGM?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 13:07:13 GMT"
+      "source": "Shoolini University",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZFFrc3J1dHduTVlRLU5aNXE2UVpob25aOG5oQzJWWmtJdWdBODBORU5ZZmRkUW5udEwyTzRiX0ZDb1JUME5wdjRGeGctYXpCUGF6cWJST0hoMEttMndqYkRCbjBrNlJQYlhVR0ZWNWUzVnFoSWFWYUhta3JyaGpBc215VlpoVHJfbG03ZTNKXzE2UDlsZl9NeFV4eW81elI4Ym04ZGU3cWRoWE0wdEVpX01fQnVLZ9IBtgFBVV95cUxNZFFrc3J1dHduTVlRLU5aNXE2UVpob25aOG5oQzJWWmtJdWdBODBORU5ZZmRkUW5udEwyTzRiX0ZDb1JUME5wdjRGeGctYXpCUGF6cWJST0hoMEttMndqYkRCbjBrNlJQYlhVR0ZWNWUzVnFoSWFWYUhta3JyaGpBc215VlpoVHJfbG03ZTNKXzE2UDlsZl9NeFV4eW81elI4Ym04ZGU3cWRoWE0wdEVpX01fQnVLZw?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 11:53:11 GMT"
     },
     {
-      "headline": "Stablecoin users are far more varied than the industry assumes",
-      "background": "Crypto products are often designed around an assumed 'typical' user — usually a technically sophisticated, speculation-driven trader. Changelly's 2026 research challenges whether that persona reflects actual stablecoin usage patterns.",
+      "headline": "Shopify CRO agency roundup for 2026",
+      "background": "A listicle-style directory piece aimed at e-commerce operators looking to outsource conversion rate optimization work on Shopify storefronts.",
       "keyFindings": [
-        "Research finds stablecoin users span remittance senders, merchants, savings users, and traders — not a single dominant profile",
-        "Designing for a single 'average' stablecoin user likely creates products that serve no segment particularly well",
-        "The data suggests segmentation by use case (not demographics) is more predictive of behavior and needs"
+        "Lists seven agencies positioned as top Shopify CRO providers for 2026",
+        "Published by PC Tech Magazine, suggesting a generalist rather than specialist editorial lens"
       ],
-      "implications": "Relevant to product and UX teams building stablecoin or broader crypto products — if your persona work hasn't differentiated between remittance, savings, and trading use cases, you may be optimizing flows for a user who doesn't dominate your actual base. Verify whether this data applies to your specific geography and product type.",
+      "implications": "Useful only if you are actively vetting CRO agencies for a Shopify project. No methodology for the ranking is evident from the snippet, so treat as a starting-point list rather than a vetted comparison.",
       "tags": [
-        "Crypto UX",
-        "User Research",
-        "Personas"
+        "CRO",
+        "E-commerce",
+        "Agency Selection"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Analytics Insight",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQelNMMkZFX0FZYVB6cjdTTzE3T1BibU55Qk9QdkFzQnNnbUI2NlZfNE1oY2t3bTMwSjB0SllHWWdoeHRCa2xlQzRCMHMydU82VzRuVHBQZ053ZWROTkFSX1BFTHozYTluVW1YQmh4R1d6Y3hhOGZpbFJoTUNOYk80MmppX0RWaG9vUTFVVm5hM1hNZzFPc1BNSWJhQkRsakhULVd5YWZOU2p2UVJtTjIyaGZRRlBKZlpLVVhTUHNDZl9mYkRuOGQxQtIB1gFBVV95cUxNc0xMUjcyeW55T1hFb1lkbmpUUml0ZFNWZUZQWFA4elZ1UmFBMlNuTC0yQlBySjI1cUF3aDdYaktqcEtjRDFTU0NacUJsUC13SU9zRE1KU09UbDRSNDdzVW5xQ3BnR2Nmb0MzVUFtOXR1cHFONkFaV0FaWmZsb0xQS0UxU0tKdG5COGVMQ2lmVjJHeHVNZFdHSEo1a2lnZTk1RkpId0hER0VJQW54ZENSZVBJS0lHTXZHd19aQ2hQZi1qN3JVNHRmVExDcmZsUEtHTmVxZVpn?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 12:31:36 GMT"
+      "source": "PC Tech Magazine",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZVU5LanVqOFc1NUswbmlPQnZoMDNxUFk1RHluM0hqNFJGNGlXMFkxcjJRVGlxVHhic2pVSURQS0treGZNakkzWkR2WVZ0VzQ3VXoyajFfeHVZVTVPX3Nfd3U1WVFIVURxMTdjVUNiVUpXR2xROWc?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 10:30:58 GMT"
     },
     {
-      "headline": "Desperate graduates are paying a month's salary for job referrals",
-      "background": "Entry-level hiring has tightened severely in tech and adjacent fields, with referrals becoming a dominant path to getting interviews. This piece documents fresh graduates offering cash payments to strangers in exchange for internal referrals.",
+      "headline": "NYC AI designer directory for 2026",
+      "background": "As demand for AI-native product design grows, location-based directories of practitioners have emerged to help companies find specialized talent.",
       "keyFindings": [
-        "Some fresh graduates are offering their entire first month's salary to anyone who will refer them internally at target companies",
-        "The behavior reflects how dominant referral-based hiring has become as a filtering mechanism in competitive markets",
-        "The practice raises ethical and legal questions, as many companies prohibit employees from receiving compensation for referrals"
+        "Profiles AI-focused designers based in New York City as of 2026",
+        "Published on thecanary.co, a third-party directory site"
       ],
-      "implications": "For product and UX teams involved in recruiting or onboarding tooling, this signals how broken perceived access to entry-level hiring has become. For hiring managers, it's worth examining whether referral-heavy processes are creating access inequities that hurt team diversity.",
+      "implications": "Directory-style content with no apparent editorial depth. Useful only for talent sourcing in NYC; no design methodology or findings to apply.",
       "tags": [
-        "Hiring",
-        "Entry-Level Talent",
-        "Referrals"
+        "AI Design",
+        "Talent Directory"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "NewsBytes",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX1dobk1SNkVoX3Fra3dzcGlPSDEzb2h3bU9iNjNCOUFLYVlSM0dFNkI0ekFRb0o5MmJ1OUhJUmt2TTlNdWlHTW9jd2hzN0RZUHdybUVFdU9ra3VBb20ycktpczZvaVRzRm03Y3I2RE5SR2dnYzV5aHE2LXB4bVo5dkFxSWlYeW5hN21hQkxEOVVwOGRzeHkxZkxYejNnN0xaWnBYUkpFMjJhOVVXWGZVMDd3?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 12:22:16 GMT"
+      "source": "thecanary.co",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObkpZVDd0Y1RRV1RQdEQ3cHZOVVFMU2U5MHo3djQzY1pMb2IzWHlQRlQ1RzA0WVBNY3BnLU9UaVZQeE1rd19oMXVwcFZCRkNpanFPbHNHNnFBRHFUNHZ3T003WFJzaUd5YW13SFIxMHlIVGc1R0pEUmxydG4zVGV0RmlmejhtVVdIZDlMWVpZY1NqWXNuWHk2ekZrTllfN3dJazJ1Wm5lRFhkRlk5QUtN?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 10:25:17 GMT"
+    },
+    {
+      "headline": "Market report overview: design and consulting services sector",
+      "background": "Periodic market research reports track size, growth, and segmentation of the broader design and consulting services industry.",
+      "keyFindings": [
+        "Published via openPR.com, suggesting a press-release format market sizing or forecast report"
+      ],
+      "implications": "Without access to the full report, this has limited actionability. May be useful for agency leaders or consultants tracking industry growth trends, but the press-release format typically summarizes proprietary paid research.",
+      "tags": [
+        "Industry Data",
+        "Design Market"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMWVlczdCWEtHVlJKejBxLS1PTHRyN01YZXFnTm05U1NBMm9EUHI4VVhhNzNSNlZTd1A1RUh3MC1SR1J5ZU42emxERGNZdGJNd2VkS2JsLXNNaHR2VjlQLXRlQWh1N1k1VmZQbHRhNGFBeWxhMDB4RDJVUFpENTFWdm1HVnI1eUxiTGVZTjhveEl3dTZ3Qk42UFRn?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 09:21:47 GMT"
+    },
+    {
+      "headline": "Eight software development trends reshaping health tech",
+      "background": "Health tech continues to be a high-investment area for custom software, with regulatory, interoperability, and AI pressures pushing development teams toward new architectural and tooling choices.",
+      "keyFindings": [
+        "Covers eight identified trends in custom health tech software development for 2026",
+        "Published on WorldHealth.net, a health industry trade outlet",
+        "Likely covers areas such as AI diagnostics integration, interoperability standards, and patient-facing app development based on current sector activity"
+      ],
+      "implications": "Relevant for product managers and developers working in digital health. The snippet lacks specifics, so the actual findings require a click-through to assess depth and rigor.",
+      "tags": [
+        "Health Tech",
+        "Software Development",
+        "Product Trends"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "WorldHealth.net",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xZXRCM2lBZlJ2dXp5YlVleklNSjk2aXRHZC1iYk9WaVRvRERpTmc3WnpkRnBHZ0lZOG8teThrUjVJZW4tTnZxTDJRMkVOZ3U5YXc5U2lvZktpUS1sbUhNc2hfdkhOSU5leTNySl8zQjhYVXVUYkttUWpvcXk?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 06:30:00 GMT"
     }
   ]
 }
