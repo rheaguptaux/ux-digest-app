@@ -1,235 +1,234 @@
 {
-  "generatedAt": "2026-07-30T17:10:49.466Z",
+  "generatedAt": "2026-07-31T17:13:08.362Z",
   "items": [
     {
-      "headline": "Building a Design System from Scratch in Figma",
-      "background": "Many designers tasked with creating an organization-wide design system face an undocumented starting problem: where to actually begin in Figma before any components or tokens exist. This case study documents one designer's live process rather than a polished retrospective.",
+      "headline": "AI design systems: fast to generate, hard to sustain",
+      "background": "Tools like Galileo and Magician can now scaffold design systems in minutes, prompting serious discussion about whether AI-generated component libraries are production-ready or just impressive demos. This piece examines the gap between generation speed and real-world system integrity.",
       "keyFindings": [
-        "Author started with foundational decisions (color tokens, type scales) before building components, not the other way around",
-        "Building for an entire organization required negotiating with stakeholders on naming conventions and component scope early",
-        "Snippet cuts off before key learnings are revealed, limiting what can be confirmed from the piece"
+        "An AI tool generated 120 components in under two minutes, but consistency in naming conventions, token structure, and accessibility annotations remained problematic",
+        "Generated systems often lack the documented rationale behind design decisions, making handoff and maintenance difficult for teams",
+        "Component variance and edge-case handling were identified as the primary failure points in AI-generated systems tested"
       ],
-      "implications": "Useful as a process reference for designers starting a system with no prior foundation, but the Medium paywall/truncation means core lessons aren't fully accessible. Treat as a starting-point reference, not a complete guide.",
+      "implications": "Teams evaluating AI design system tools should treat output as raw material, not deliverable — plan for a dedicated audit and documentation layer before any generated system goes near engineering handoff. Especially relevant for small teams tempted to skip foundational system work.",
       "tags": [
         "Design Systems",
-        "Figma",
+        "AI Tools",
         "Component Libraries"
       ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2400/1*VwP6HzJTXoAN_Du3GjGz7w.png",
-      "source": "Product Design on Medium",
-      "link": "https://ipulidosoto.medium.com/building-a-design-system-from-scratch-in-figma-a-ux-case-study-33ecbd42e4eb?source=rss------product_design-5",
-      "pubDate": "Thu, 30 Jul 2026 16:45:39 GMT"
-    },
-    {
-      "headline": "Building a Design System from Scratch in Figma (Spanish)",
-      "background": "This appears to be a direct Spanish-language translation or parallel version of article #1, targeting Spanish-speaking UX practitioners with the same Figma design system case study content.",
-      "keyFindings": [
-        "Content mirrors the English version: org-wide design system built from scratch in Figma",
-        "Published separately on Medium, suggesting intentional localization for Spanish-speaking audience",
-        "No additional findings distinguishable from the English version based on available snippet"
-      ],
-      "implications": "Relevant if you're sourcing materials for Spanish-speaking team members or running multilingual design training. No distinct new information beyond the English version.",
-      "tags": [
-        "Design Systems",
-        "Figma",
-        "Localization"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2400/1*ZZVQoVZ012spFTQDz5fAuQ.png",
-      "source": "Product Design on Medium",
-      "link": "https://ipulidosoto.medium.com/crear-un-sistema-de-dise%C3%B1o-desde-cero-en-figma-caso-de-estudio-ux-6aa4ffce78ca?source=rss------product_design-5",
-      "pubDate": "Thu, 30 Jul 2026 16:44:44 GMT"
-    },
-    {
-      "headline": "AI Skills for UX Designers, Organized by Job Type",
-      "background": "AI tool adoption in UX is accelerating but guidance tends to be generic — 'learn AI' advice without specificity about which skills matter for which UX roles. This piece attempts to map skills to actual job functions.",
-      "keyFindings": [
-        "Skills are organized by job type rather than tool category, making it more actionable for role-specific upskilling",
-        "Includes direct links to resources for each skill area, not just a list",
-        "Covers roles including researchers, interaction designers, and content strategists separately"
-      ],
-      "implications": "More useful than generic AI listicles because it maps to specific UX job functions. Relevant for hiring managers defining role requirements and for individual designers building a focused learning plan.",
-      "tags": [
-        "AI Tools",
-        "Career Development",
-        "UX Skills"
-      ],
-      "featured": false,
+      "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1456/0*jOEg6sM9YKHOuozU.png",
+      "image": null,
       "source": "UX on Medium",
-      "link": "https://bestfolios.medium.com/best-ai-skills-for-ux-designers-93c3d382a6fe?source=rss------ux-5",
-      "pubDate": "Thu, 30 Jul 2026 16:31:01 GMT"
+      "link": "https://medium.com/@NitinBhasin1/ai-generated-design-systems-the-future-the-reality-and-the-problems-we-havent-solved-yet-92910f05b9fa?source=rss------ux-5",
+      "pubDate": "Fri, 31 Jul 2026 16:41:14 GMT"
     },
     {
-      "headline": "Does Gamma Actually Replace PowerPoint and Figma for Presentations?",
-      "background": "AI presentation tools like Gamma are being adopted by product teams as faster alternatives to Figma for stakeholder decks and PowerPoint for slide-based communication. The question is whether speed comes at the cost of design control or fidelity.",
+      "headline": "Common bad UX patterns still aren't fixed in 2025",
+      "background": "Despite years of documented dark patterns and UX anti-patterns, many products continue shipping friction-heavy flows around forms, modals, and navigation. This piece inventories persistent offenders and proposes concrete remediation approaches.",
       "keyFindings": [
-        "Snippet and content not available — no substantive claims can be confirmed from this piece",
-        "Gamma uses AI to auto-generate slide layouts from prompts or outlines",
-        "The comparison involves two very different tools: PowerPoint (presentation delivery) and Figma (design fidelity), suggesting Gamma occupies a middle-use-case niche"
+        "Forced account creation before checkout remains one of the highest drop-off triggers, with abandonment rates cited above 30% in referenced studies",
+        "Unclear error messaging — particularly inline form validation that fires too early or too late — is flagged as a top frustration point in current user research",
+        "Cookie consent UI is called out as systematically deceptive, with most implementations still designed to discourage opt-out"
       ],
-      "implications": "Worth investigating if your team spends significant time on stakeholder presentations, but be cautious about replacing Figma for anything requiring precise layout or design-system-aligned visuals. No findings available to confirm the article's conclusions.",
+      "implications": "Useful as an audit checklist for product teams doing UX reviews. Most issues identified are solvable with existing patterns and require no new tooling — the bottleneck is typically stakeholder prioritization, not design knowledge.",
       "tags": [
-        "AI Tools",
-        "Presentation Design",
-        "Product Communication"
+        "Anti-Patterns",
+        "Form Design",
+        "Conversion"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*gNtWKLGooZfmQgPccLlRXw.png",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@rafid_mehedi/fixing-frustrating-ux-patterns-in-2025-2026-a-blueprint-for-better-design-1e9fd948f039?source=rss------ux_research-5",
+      "pubDate": "Fri, 31 Jul 2026 16:28:12 GMT"
+    },
+    {
+      "headline": "One developer built a Chrome extension to fix YouTube speed controls",
+      "background": "YouTube's native playback speed controls require several clicks to adjust and offer limited granularity, frustrating power users who frequently switch speeds while watching tutorials or long-form content.",
+      "keyFindings": [
+        "The HoverSpeed extension allows speed adjustment via hover interaction, reducing the action from multiple clicks to a single gesture",
+        "Built as a solo side project to solve a personal workflow problem, not commercially released",
+        "Implementation highlights how small interaction friction compounds significantly for habitual users of a feature"
+      ],
+      "implications": "Relevant for product teams as a case study in solving high-frequency micro-friction. The hover-to-adjust pattern may not generalize across contexts but is worth benchmarking for media or content-heavy interfaces where speed or setting adjustments are frequent.",
+      "tags": [
+        "Browser Extensions",
+        "Interaction Design",
+        "Productivity"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1024/1*u1NH7YGLxkjcdswkTIKoig.png",
-      "source": "UX Planet - Medium",
-      "link": "https://uxplanet.org/can-gamma-replace-powerpoint-and-figma-for-product-presentations-1c11308040b2?source=rss----819cc2aaeee0---4",
-      "pubDate": "Thu, 30 Jul 2026 16:23:40 GMT"
+      "image": "https://cdn-images-1.medium.com/max/2600/1*CSoyiVKerRzbtpXG6WsL0A.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@silas0316/from-an-idea-to-a-tool-that-solves-my-everyday-problems-hoverspeed-chrome-extension-9ebf4beb4c21?source=rss------ux-5",
+      "pubDate": "Fri, 31 Jul 2026 16:27:22 GMT"
     },
     {
-      "headline": "Digital Health Design Is Failing Women Who Need It Most",
-      "background": "Women's health apps and digital health platforms have grown rapidly, but critics argue they are disproportionately designed around affluent, tech-literate users — leaving out women with lower digital literacy, chronic conditions, or limited access to devices.",
+      "headline": "Nigeria's schools face real tradeoffs as AI enters classrooms",
+      "background": "AI adoption in Nigerian education is accelerating through platforms and policy initiatives, but infrastructure gaps, teacher readiness, and data equity concerns create uneven outcomes across schools and regions.",
       "keyFindings": [
-        "Piece focuses on underserved women as the primary design target, not as an afterthought or edge case",
-        "Raises access and literacy barriers as design problems, not just infrastructure problems",
-        "Published in Punch Newspapers, suggesting a Sub-Saharan African regional perspective on the issue"
+        "Access to reliable electricity and internet remains a hard constraint that limits AI tool deployment in rural Nigerian schools",
+        "AI tools risk reinforcing existing inequalities if rollout prioritizes urban, better-resourced schools first",
+        "Teacher training and curriculum integration are flagged as more urgent needs than platform adoption itself"
       ],
-      "implications": "Designers working on health platforms should audit assumptions about baseline digital literacy and device access in their user research. This applies especially to teams expanding into emerging markets or designing for older or lower-income demographics.",
+      "implications": "Relevant for ed-tech product teams designing for emerging markets — infrastructure assumptions built into most AI learning tools will fail in low-connectivity contexts. Offline-first and low-bandwidth design should be baseline requirements, not afterthoughts.",
       "tags": [
-        "Health UX",
-        "Inclusive Design",
-        "Accessibility"
+        "Ed-Tech",
+        "AI in Education",
+        "Emerging Markets"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Punch Newspapers",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRVpLTzRXaERrTDFVUFJDaFVXQVlQaXBmSHBFZWtrUXJjMExhcHBTQlZfQi12Nkl1T2c0R0dEX1hYUU5YWW9BeHNZc2NUR01xek5qS2FQSHdqWklkUjItWUo5cnItOUhRV0tlelRreDJfZW0zUWFDeHVmbmpuYjJ6Rm9wR3h6X0Z0c3E0?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 16:08:53 GMT"
+      "source": "Business News Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY0tnenZRQUp5bkRHVTR6VXp5Tk9NOEtJTmtVeWpXTnhuLUpSZDNxQjhOWFFnOXZmYmFPbXZZT2Z6eGpNeS14YWdOeVM4b1lvNkx3ZTdKekY1ODJtMFA2ZS1wdmFQeTFTMnlieC03bDFBRmhVcTlBMGlxLW5vYVpCOWRWNEVBbFNfSURKTnFSNWNtaXhYdDkxZGJwWnVhREpZdnc?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 16:07:30 GMT"
     },
     {
-      "headline": "Why Federal Digital Services Must Be Built on Evidence",
-      "background": "Government digital delivery has historically been driven by policy mandates and vendor proposals rather than user evidence and outcome data. This piece, from consulting firm ICF, argues for a more data-grounded approach to federal digital service design and evaluation.",
+      "headline": "Spec-driven design keeps projects from falling apart mid-build",
+      "background": "Design handoff failures often stem from ambiguity in what was agreed upon before build begins. Spec-driven design proposes using structured specifications as the connective tissue between design intent and engineering execution.",
       "keyFindings": [
-        "Argues that without evidence frameworks, federal digital services risk solving the wrong problems at scale",
-        "Positions data not just as a measurement tool but as a design input throughout delivery",
-        "Source is ICF, a government consultancy — perspective is practitioner-facing but comes with inherent advocacy interest"
+        "Specs function as a single source of truth that reduces interpretation gaps between designers and developers during build",
+        "The approach enforces decision-making upfront, which surfaces scope and feasibility conflicts earlier in the process",
+        "Teams using structured specs report fewer revision cycles post-handoff, though implementation overhead is higher at the planning stage"
       ],
-      "implications": "Relevant for anyone doing UX or product work within or alongside government agencies. The evidence-first framing aligns with USDS and 18F methodology, but readers should note ICF's commercial stake in this position.",
+      "implications": "Most applicable to mid-size and larger product teams where multiple stakeholders touch a project between concept and shipping. Smaller teams may find the overhead disproportionate, but even lightweight spec templates can reduce costly late-stage rework.",
       "tags": [
-        "Government Tech",
-        "Research Operations",
-        "Evidence-Based Design"
+        "Design Handoff",
+        "Spec Writing",
+        "Design Process"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1280/1*a5-yU48vP1h2qPZ98fE_Hg.png",
+      "source": "UX on Medium",
+      "link": "https://medium.muz.li/spec-driven-design-the-structure-that-holds-the-project-together-eb2c93793001?source=rss------ux-5",
+      "pubDate": "Fri, 31 Jul 2026 15:41:02 GMT"
+    },
+    {
+      "headline": "Nigerian startup secures scholarship deal to fund tech training access",
+      "background": "Access to formal technology training in Nigeria is limited by cost, creating a skills gap that scholarship programs are attempting to address through private-sector partnerships.",
+      "keyFindings": [
+        "DevElevate secured a partnership to fund scholarships for technology training programs targeting underrepresented or under-resourced learners",
+        "The partnership model relies on private funding rather than government subsidy to expand access",
+        "Specific curriculum areas and number of scholarship recipients were not detailed in available reporting"
+      ],
+      "implications": "Limited actionable detail for product or UX practitioners. Tangentially relevant to teams working on workforce development platforms or training tools in West African markets.",
+      "tags": [
+        "Tech Education",
+        "Africa",
+        "Workforce Development"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "ICF",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRnBNdVhaWndxRm9hRnh4bV9OekpqQk1HVkxVOXBtVlU0aDZoVjAwZHpRVi1ZbjBfNkQ5VlpNOVJIbjdfZkEtT0cyZ3pLek81a2J5T3UtSkFXWmdzQnA0ZE1nWHBpQnN2MlpPSWYtRnY4ai1VTUxWRFdvaXJiYWFPQWFHY0hGeHJTdkJrdQ?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 12:46:33 GMT"
+      "source": "Independent Newspaper Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3JjYnNiaFlqVzZFaUpSREpuZE5CSlRkNUxuRTdRbUpPUjFEck1JYUpMT3J5UGVMWHhMRkUwTVJSQTVIejgzbkh4OWxkYVVMc1Fra185UTFEeHY0TmNyM1picnBCLW9hOUFQWTdOX1ZKZzF6WG9EOUJldXR4NURIZm1MaWxUb0h6bjNMVDlNOEpzYndzcU5JZ2RwMDN6VDJiMWlJeVAtYXB5QQ?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 13:13:54 GMT"
     },
     {
-      "headline": "High-Paying Skills for Graduates in 2026: What Makes the List",
-      "background": "Career guidance for students often lags behind actual market demand, especially in tech. This guide attempts to identify which skills command the highest salaries entering the job market in 2026, aimed at pre-graduation planning.",
+      "headline": "YRF Studios and Google to run an AI filmmaking workshop",
+      "background": "AI video and filmmaking tools are maturing rapidly, and established studios are beginning to formally integrate AI into creative production workflows rather than treating it as experimental.",
       "keyFindings": [
-        "AI and machine learning skills appear alongside UX and data analysis as top earners",
-        "Guide targets students about to enter the job market, not mid-career professionals",
-        "Published in Youth Incorporated Magazine — audience is students, framing is aspirational rather than rigorous"
+        "YRF Studios, a major Indian film production company, is partnering with Google to deliver a hands-on AI filmmaking workshop",
+        "The workshop signals institutional validation of AI tools in professional film production contexts",
+        "No curriculum specifics or tool stack were disclosed in available reporting"
       ],
-      "implications": "Limited direct value for working UX professionals. Useful context if you're hiring new graduates or advising students on where to focus. Treat salary claims as directional, not precise, given the publication's general-audience nature.",
+      "implications": "Thin on actionable detail. Relevant background context for UX and product teams working on creative AI tools — enterprise and studio partnerships are becoming a key adoption channel worth tracking.",
       "tags": [
-        "Career Development",
-        "Hiring",
-        "AI Skills"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Youth Incorporated Magazine",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVWF3eEVLb2diOVNYd29hN3NyNXJzRWdoblJmbWZKMHF0Wl9DTmVUeDViWFRKbExUZVFkZE5jTHZ1ZW5HcmpNaXlqWjVrNXc4SzBiT0F4alJ5MEdmVHdCU0RwUE55Zi02YzBpY2R3M1lWZEtheGFESEJIcHRYanpOeEVNUQ?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 11:48:27 GMT"
-    },
-    {
-      "headline": "Profile: How Kait Hines Is Shaping Human-Centered UX Practice",
-      "background": "Profiles of individual UX practitioners are increasingly common as the field grows, often serving to highlight emerging methodologies or institutional approaches through personal narratives.",
-      "keyFindings": [
-        "Hines is highlighted for applying human-centered design principles in her organizational UX work",
-        "Published via EIN News wire, which typically distributes PR-originated content — editorial independence is limited",
-        "No specific methodologies, tools, or case data are cited in the available snippet"
-      ],
-      "implications": "Minimal practical takeaway for working practitioners. May be worth reading for context on how human-centered design is being positioned institutionally, but approach as a profile piece rather than a technical resource.",
-      "tags": [
-        "Human-Centered Design",
-        "UX Careers",
-        "Industry Profiles"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "EIN News",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc3JMVHJHS2MwcmJPU3o3Z1RKZlBZRWo3eDdPT0xtTW9iaHk5RmhOLTlpZkM5eVJib2F4SWtXQUdMM0VKMkxLUGVuZUlIaWkxendiZTN6ZFJXcWZLTjJtcXU0QWVCTEVSS0ZOYzlUVFZiUk5zX1NCOWUzSjgtVkpYeDJHVkU2c2RxZnRVb3Y4elNCa2xJY096UnVRTmY3U1hvNm53Ynplb0hBT1c0TTl2U1B4NnRmR3V4ajZILUhSVUVGZ3p1TzVIdjIyUHpUT2ZERGoyUmpKbkt5TkJKT1dTRWZR?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 11:30:00 GMT"
-    },
-    {
-      "headline": "Teague's VP of Design on HCD for Complex Physical Systems",
-      "background": "Human-centered design methodology is well-documented for software and digital products, but its application to complex physical systems — aerospace, industrial equipment, transportation — is less visible in mainstream UX discourse. Teague is a design firm with deep roots in exactly this space.",
-      "keyFindings": [
-        "Matt McElvogue discusses applying HCD to physical systems where failure consequences are high and iteration cycles are long",
-        "Teague's work spans aviation and transportation, where UX decisions affect safety, not just satisfaction",
-        "Interview format means findings are qualitative and practitioner-perspective, not research-based"
-      ],
-      "implications": "Valuable for UX designers working in hardware, industrial, or safety-critical product domains who rarely see their context represented in mainstream UX content. Less directly applicable to purely digital product teams.",
-      "tags": [
-        "Physical Product Design",
-        "Human-Centered Design",
-        "Industrial UX"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Pulse 2.0",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLald0dlJabEcwd01kc0QzYUFKLXA3U3Ziakt3a2JhLTFaV0g2QjU2d3NIalFCMWtKLUVDcThNdTdQdzRiaHpWUVFjLVdlbWp3eTI1Q1ZYVEdxTjRSa1NNczNMb3gwS1p1T1M0eTF5cTPSAXBBVV95cUxQS2pXdHZSWmxHMHdNZHNEM2FBSi1wN1N2YmpLd2tiYS0xWldINkI1NndzSGpRQjFrSi1FQ3E4TXU3UHc0Ymh6VlFRYy1XZW1qd3kyNUNWWFRHcU40UmtTTXMzTG94MEtadU9TNHkxeXEz?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 11:02:29 GMT"
-    },
-    {
-      "headline": "Discuss Launches AI Tool to Analyze Entire Research Libraries",
-      "background": "Research operations teams accumulate large archives of user research that often go underutilized because synthesis across studies is time-consuming. Discuss, a qualitative research platform, has released a tool aimed at querying and analyzing across an organization's full research library.",
-      "keyFindings": [
-        "The tool allows researchers to run analysis queries across multiple past studies simultaneously, not just individual sessions",
-        "Targets the specific pain point of institutional research going unused due to synthesis overhead",
-        "Discuss positions this as a research operations feature, suggesting it's aimed at teams with substantial existing research archives rather than new research programs"
-      ],
-      "implications": "Directly relevant for UX research teams building or scaling a research repository. Most valuable if your organization already has significant qualitative research volume in Discuss; limited utility otherwise. Evaluate carefully how the tool handles synthesis accuracy before relying on it for strategic decisions.",
-      "tags": [
-        "Research Operations",
         "AI Tools",
-        "Qualitative Research"
+        "Creative Industry",
+        "Film Production"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Animation Xpress",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRFVTZ1hYSG1UM1U1dERNcldyNXVWQmhQcE40RkxkenlSdGRxTDROOF9SbW1jYlZYWTRkeUh2UWVQaEpHVXp4TmVRZmhTZU9PbDQteGhyd3NfckVveWhiMmdad2VRZ09XekprN0E3QmZ6eHBDUVZyS1g3ZU8tXzhMRWo4RHZDNWN1LXZWTVF3ZGRkTTdpRUw5TVRuYV9FTGJQ0gGoAUFVX3lxTE1OckNPZERWS1dFU1ZzUWR6RzhoMjVMU1VkMS1BdjhjOVNRQm5MY0xwRGM5VGVBOVV3NE53dGZVSlVnOFdCMXhyRjd3X2hxQWJJaGZ6NTRPanFqVUcwanNHYnVYMVJ2N1lWRG9lQnBWQ2JwZjNPV1l4MmJGYmNEVU5rQ0FZeWFVQVlCQ1ItSXNsLW5NZW9ZbnhQc0NobWhnS29qSjd3MnBIMw?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 12:30:22 GMT"
+    },
+    {
+      "headline": "Eight companies expanding R&D teams in Ireland right now",
+      "background": "Ireland continues to attract multinational tech investment partly due to favorable corporate tax structures and EU market access, with R&D team growth signaling sustained commitment beyond sales and support functions.",
+      "keyFindings": [
+        "Eight named companies are actively hiring for R&D roles in Ireland, spanning sectors including fintech, health tech, and enterprise software",
+        "Investment signals a shift toward Ireland as a genuine engineering and research hub, not just a tax domicile",
+        "Specific companies and role types were listed in the source but not available in the snippet provided"
+      ],
+      "implications": "Relevant for UX and product professionals based in or relocating to Ireland — R&D expansion typically includes product design and research roles alongside engineering. Worth monitoring for hiring trends in the European tech market.",
+      "tags": [
+        "Tech Industry",
+        "Hiring",
+        "Europe"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Silicon Republic",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSDFIcmRRdURPYUlkeEhMeHJlSk8zZ3QwWC0yRXZDZkJFODM2TGpxRERLVjZzcEh4cG1HSEpXM3l0WlhHcEVSbWxGbzZuSHo4Sm40UkFoQXVJdWhvMk9BNFVyUk1kSFpPRXZrNmhfazdyeDlPTE00Q2tqdlllcTNVRXdrSDNNWVdjendiV3dJb3NGbTJuZ3lyelZn?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 12:08:48 GMT"
+    },
+    {
+      "headline": "Bitcoin self-custody wallets are losing users to bad UX",
+      "background": "The crypto self-custody movement encourages users to manage their own private keys rather than relying on exchanges, but wallet interfaces have long been criticized for being inaccessible to non-technical users — a gap that is now driving a visible public debate.",
+      "keyFindings": [
+        "Seed phrase management, key backup flows, and error recovery are consistently cited as the primary UX failure points driving users away from self-custody wallets",
+        "Poor UX is being framed not just as a usability issue but as a security risk — confused users make dangerous mistakes with irreversible consequences",
+        "The debate surfaced publicly after high-profile cases of users losing funds due to misunderstood wallet interfaces"
+      ],
+      "implications": "High-stakes case study for any UX practitioner working on security-critical flows. The self-custody wallet space illustrates the ceiling that usability barriers create for adoption of technically sound but cognitively demanding products. Error prevention and recovery design are non-negotiable here.",
+      "tags": [
+        "Crypto",
+        "Security UX",
+        "Onboarding"
       ],
       "featured": true,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Research Live",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUxNdkw3OUY3Yk11T3piQWk1cjA5Yl9ITENickJRaDVLcHNjTk85clNKVjIyU1Z5SDF1OGhMbmZPUGg3SmF2X2pfTVlKWkx2VmJFRnNCSFZMU3YzelJ6VG5BUmFQekhoSmh4VklmbjN4TE9WeHF5ZE9fbFdiZTd4eE9XMVVidFZxd1NtM2dzUXpLc0EyZ2FhWFVEWWNxQmZUVktn?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 10:47:06 GMT"
+      "source": "WEEX",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHV2aGxoVnJsUmE2aTBfLW9LR1B1SzlONFY5VjB5blpKSDhYcDRZSjJSWlN1aktaODk4MGpaWjViSUJBdlZBcUV5ZVFEa0ZqWWhoSThSTkNLU2Z4OFdRelRlcnY5T0tmbGxkOEk5dklzeU4wU2pMd0ZUbVJRRnFqa0tHSGZpRVR4ZUM3aGhwb3ZFcVdnYkdXTDJ6TFFGVU45eFVRYjdEWG85ZGNoQVR4Wlp3?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 12:00:32 GMT"
+    },
+    {
+      "headline": "QQMACAN lists seven tech features improving its online gaming platform",
+      "background": "Online gaming platforms regularly publish feature roundups as marketing content, with this piece covering claimed technical improvements to user experience on the QQMACAN platform.",
+      "keyFindings": [
+        "The piece is published on a general tech blog and reads as promotional content rather than independent analysis",
+        "No third-party benchmarks or user research are cited to support claims of improvement",
+        "Specific features mentioned include UI personalization and mobile optimization, though detail is shallow"
+      ],
+      "implications": "Low editorial value for UX and product practitioners. Skip unless researching how gaming platforms self-describe their UX investments for competitive benchmarking purposes.",
+      "tags": [
+        "Gaming",
+        "Platform Design"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "nerdbot",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEVNUF94RzFyYm91YUhRblpGVWxTQ05yWFJ3MUxrS3FaSUpxUC1wQzdLakc5ZTg2YWNXQ3pTUHI5WkFrYzdpbVRURXhjQVJNOXRFcmkwT3FiS19tLVVuaXluQmJVSERDZlJjRXhwU1JMOVJveVRkVTJIT2c2V0Z5aEltdGhWeHBQYm1QRW1EMWFfR180eFhoZjEydjJGa1RWVnRkSzdVbw?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 11:24:44 GMT"
     }
   ]
 }
