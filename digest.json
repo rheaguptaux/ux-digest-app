@@ -1,234 +1,225 @@
 {
-  "generatedAt": "2026-07-31T17:13:08.362Z",
+  "generatedAt": "2026-08-01T15:43:35.932Z",
   "items": [
     {
-      "headline": "AI design systems: fast to generate, hard to sustain",
-      "background": "Tools like Galileo and Magician can now scaffold design systems in minutes, prompting serious discussion about whether AI-generated component libraries are production-ready or just impressive demos. This piece examines the gap between generation speed and real-world system integrity.",
+      "headline": "Stylesheet, component library, design system: what's the difference?",
+      "background": "Teams frequently treat these three artifacts as interchangeable or assume one automatically includes another, leading to miscommunication between designers, engineers, and product managers about what's actually been built or agreed upon.",
       "keyFindings": [
-        "An AI tool generated 120 components in under two minutes, but consistency in naming conventions, token structure, and accessibility annotations remained problematic",
-        "Generated systems often lack the documented rationale behind design decisions, making handoff and maintenance difficult for teams",
-        "Component variance and edge-case handling were identified as the primary failure points in AI-generated systems tested"
+        "A stylesheet governs visual tokens like color and typography but carries no structural or behavioral rules",
+        "A component library packages reusable UI elements but doesn't define usage principles or governance",
+        "A design system encompasses both plus the documentation, decisions, and processes that make them coherent across teams"
       ],
-      "implications": "Teams evaluating AI design system tools should treat output as raw material, not deliverable — plan for a dedicated audit and documentation layer before any generated system goes near engineering handoff. Especially relevant for small teams tempted to skip foundational system work.",
+      "implications": "Before scoping a design system project, align stakeholders on which layer you're actually building — many 'design system' initiatives are really just component libraries, which sets false expectations about consistency and governance coverage.",
       "tags": [
         "Design Systems",
-        "AI Tools",
-        "Component Libraries"
+        "Component Libraries",
+        "Frontend"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2400/0*hLXzTAsIa_DA2A4M.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@FarwaBabar/stylesheet-vs-component-library-vs-design-system-7ebd8724b140?source=rss------product_design-5",
+      "pubDate": "Sat, 01 Aug 2026 15:42:54 GMT"
+    },
+    {
+      "headline": "How a UX redesign rescued long-form football video content",
+      "background": "Short-form video has eroded appetite for long sports broadcasts, pushing platforms to rethink how they surface existing footage rather than just produce more of it.",
+      "keyFindings": [
+        "The case study reframes long-form football content as raw material to be clipped and repackaged rather than replaced",
+        "The UX solution centered on a short-form discovery layer called Sarzarb built on top of existing video assets",
+        "Navigation and content hierarchy were restructured to match passive browsing behavior rather than intentional search"
+      ],
+      "implications": "For product teams managing media or content-heavy platforms, this is a concrete example of reducing acquisition costs by redesigning access patterns rather than commissioning new content — worth reviewing before planning a content strategy overhaul.",
+      "tags": [
+        "Media UX",
+        "Content Strategy",
+        "Mobile"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*7sZItg7tI4ZwsOKpOSt_Bw.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@Arashdma/sarzarb-designing-football-360s-short-form-video-experience-18ea75b792d3?source=rss------ux-5",
+      "pubDate": "Sat, 01 Aug 2026 15:00:52 GMT"
+    },
+    {
+      "headline": "LLM chat interfaces may displace mobile apps for routine tasks",
+      "background": "Mobile apps became the default UI layer for everyday transactions — banking, utilities, government services — but conversational LLMs now offer a plausible alternative that removes the need to navigate app-specific interfaces.",
+      "keyFindings": [
+        "The article argues that conversational LLMs can handle multi-step transactional flows (opening accounts, paying bills) without requiring a dedicated app or screen-based navigation",
+        "The shift is framed as comparable to the 1990s move from physical branches to digital, suggesting a structural rather than incremental change",
+        "Key friction points in current app UX — onboarding, form completion, navigation — are cited as the specific gaps LLMs could close"
+      ],
+      "implications": "Product and UX teams building transactional apps should pressure-test whether their core flows could be replicated conversationally — not as a near-term threat, but as a useful stress test for where UI is adding friction rather than value.",
+      "tags": [
+        "Conversational UI",
+        "LLMs",
+        "App Strategy"
       ],
       "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": null,
+      "image": "https://cdn-images-1.medium.com/max/929/1*hB1oLy_tmz3aWTRt8EiCJg.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/@NitinBhasin1/ai-generated-design-systems-the-future-the-reality-and-the-problems-we-havent-solved-yet-92910f05b9fa?source=rss------ux-5",
-      "pubDate": "Fri, 31 Jul 2026 16:41:14 GMT"
+      "link": "https://senthilr14.medium.com/exit-mobile-apps-enter-conversational-llm-chat-48ad42d113f8?source=rss------ux-5",
+      "pubDate": "Sat, 01 Aug 2026 14:05:21 GMT"
     },
     {
-      "headline": "Common bad UX patterns still aren't fixed in 2025",
-      "background": "Despite years of documented dark patterns and UX anti-patterns, many products continue shipping friction-heavy flows around forms, modals, and navigation. This piece inventories persistent offenders and proposes concrete remediation approaches.",
+      "headline": "Irrelevant: spam content, not a valid article",
+      "background": "This submission appears to be unrelated commercial or auto-generated content with no relevance to UX, product, or technology.",
       "keyFindings": [
-        "Forced account creation before checkout remains one of the highest drop-off triggers, with abandonment rates cited above 30% in referenced studies",
-        "Unclear error messaging — particularly inline form validation that fires too early or too late — is flagged as a top frustration point in current user research",
-        "Cookie consent UI is called out as systematically deceptive, with most implementations still designed to discourage opt-out"
+        "No substantive findings available",
+        "Content is not relevant to this digest's scope"
       ],
-      "implications": "Useful as an audit checklist for product teams doing UX reviews. Most issues identified are solvable with existing patterns and require no new tooling — the bottleneck is typically stakeholder prioritization, not design knowledge.",
+      "implications": "No actionable implications — content should be filtered from the digest.",
       "tags": [
-        "Anti-Patterns",
-        "Form Design",
-        "Conversion"
+        "Spam",
+        "Off-topic"
       ],
       "featured": false,
       "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1254/1*GRTMMx3oTRGLRHYzxF-9BA.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@xmaxxia/custom-cartoon-balloons-manufacturer-017bc4c927b1?source=rss------product_design-5",
+      "pubDate": "Sat, 01 Aug 2026 13:45:55 GMT"
+    },
+    {
+      "headline": "182 animation students placed from one Indian university",
+      "background": "Animation and VFX hiring signals are closely watched as indicators of industry health, particularly as AI tools raise questions about entry-level creative job volume.",
+      "keyFindings": [
+        "182 students from Chandigarh University's Animation and Multimedia program secured jobs across animation, VFX, gaming, digital media, and filmmaking",
+        "Placements span multiple sectors rather than concentrating in one area, suggesting broad demand across creative production roles",
+        "No salary, studio tier, or role-level breakdown is provided in the available snippet"
+      ],
+      "implications": "Treat as a limited data point on creative industry hiring in India — sector diversity in placements is mildly positive signal, but without role or compensation detail it's difficult to assess quality of outcomes.",
+      "tags": [
+        "Creative Industry",
+        "Hiring",
+        "Animation"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Big News Network.com",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQMUR2RV9GM0dTbGNsQ0FBTHFOeExGeVp3SFN4V2FIOEVqM3VRZVE0Wkd5R0RTc18tTkNpTzRfZ2JIRTNkVU9mb3Y0alJrN3EyMG5Od3JndzIwOWtxSjJhR3Rsd1NkTC1heE1QSXBvVlc1RDQxX1liZVVFekw0VzZjcTNGODlCeGJPLVBuVjFWTWE1eG81Z2lERk1MSTRiVE96QlFqZXMtNzVLRzNEa3lkQ2Y2TnNQOU9DT0hqUWtmYmdQX1dUYmlKeXk0Z3haQm1qbFdncXk5Qmx3Zm1Wa1pjbVlqeW5oLWhvM0ZsWXR1RVNmR0JtVXVtMi1DQTFxTG9CS1BFaw?oc=5",
+      "pubDate": "Sat, 01 Aug 2026 09:31:00 GMT"
+    },
+    {
+      "headline": "BAFREKA expands design portfolio globally — thin on detail",
+      "background": "Design agency announcements of portfolio expansion are common but rarely include specifics about what changed, which markets, or what outcomes were achieved.",
+      "keyFindings": [
+        "BAFREKA announced expansion of its digital product design work into global markets",
+        "No specific markets, clients, or product types are named in the available snippet",
+        "The announcement appears to be a press release with limited editorial substance"
+      ],
+      "implications": "No actionable findings for practitioners — monitor if BAFREKA publishes case studies from this expansion that demonstrate methods or outcomes worth learning from.",
+      "tags": [
+        "Design Agency",
+        "Industry News"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "THISDAYLIVE",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWFRTWjAxQmp1VXJjZ1ZFVlhLajJSRW5BdThhS2tDa285RGs2aUtsZ2IzY1JvcjhMX0NGajFVNmhUdmZBX3hIYk1uNkdiZkRCRU13MS0ta1kyd01SaElrd2NmdUtSQjItcXRyLTJSeWNTTmV6Um1aTmp4Wi0yMnI0bU1jdE5PbkdfbW5ldWlXMTVjbE9kbWd5STdjUWdmNU0wZ1VNdGVvbVlCa1Jad0tJ?oc=5",
+      "pubDate": "Sat, 01 Aug 2026 01:51:53 GMT"
+    },
+    {
+      "headline": "Vague 'new web standards' claim lacks specifics",
+      "background": "Announcements about transformative web design standards circulate regularly, often conflating emerging browser capabilities, W3C proposals, and opinion pieces under the same framing.",
+      "keyFindings": [
+        "The snippet makes a broad claim that new web design standards will transform user experience but names no specific standards",
+        "No W3C specification, browser API, or measurable UX outcome is identified in the available content",
+        "Source (SSBCrack) is a general-interest site, not a primary technical reference"
+      ],
+      "implications": "Do not treat this as a reliable update on actual web standards — verify any claims against W3C working group notes or browser release documentation directly.",
+      "tags": [
+        "Web Standards",
+        "Industry News"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "SSBCrack",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGx6aTZWUVU1d3czVmw0WWQ4d3BPVWpWcmQtd2RucTdzOURPSkNoYURfZ0hWWDFiUTA2QXMyM1VveHlFT0VPWC1zVEl3T2tlX3dwQ3pra05GMXFrTXZ0TjZsX21PZk56M0tZay0wM1ZKVTBCOHc4b21xMmNaanlDcTljSVJMNUhiSWZDMg?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 20:40:17 GMT"
+    },
+    {
+      "headline": "Riot Games hiring senior UX designer for League of Legends",
+      "background": "Game UX roles at major studios are relatively rare in public job boards and offer a signal into where established franchises are investing in experience quality.",
+      "keyFindings": [
+        "The role is a 12-month contract, not a permanent position, which may indicate a scoped project rather than ongoing team growth",
+        "It targets League of Legends specifically, one of the longest-running live-service games, suggesting UX investment in maintaining or evolving an aging interface",
+        "No salary range or specific skill requirements are visible in the snippet"
+      ],
+      "implications": "Relevant for senior UX designers with game or complex system experience considering contract work — contract framing may also suggest Riot is addressing a defined UX debt or feature initiative rather than expanding headcount.",
+      "tags": [
+        "Game UX",
+        "Jobs",
+        "Contract Work"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Riot Games",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdTc3V25kbmd4MzNtcFFiWHcyYXloaWdHSHdCRkF4TzZyUktqX0NlaFZZWDRYM2psZTBtOGZ6cFVEWFhFOUszRzg4SGF5c2YxaFpINGpwRHIyWVgwNUx1aXdNWjI5Wm56eTNxdlBMaTh6MzdubktXWVVPWDVGM0MyWFFGaVNOeGdlTTFKN2k2cXcySzhoNG81VzVOaUFPU1psNkhqb19YN1EtRnVKUlRsaEVCVTQ5OU5EOHp1UWRId2FFYWtoWWQyNFRTb09qUjky?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 18:01:05 GMT"
+    },
+    {
+      "headline": "'UX' remains the dominant field name — alternatives haven't landed",
+      "background": "For years, practitioners have debated whether 'UX designer' accurately describes the field, with alternatives like 'product designer,' 'experience designer,' and 'human-centered designer' each gaining partial traction.",
+      "keyFindings": [
+        "A survey of 604 tech and design professionals found 'UX' remains the dominant default label for the field",
+        "No single alternative name has consolidated enough usage to challenge it — alternatives remain fragmented across individuals and organizations",
+        "The finding holds despite widespread acknowledgment that 'UX' is imprecise as a job title"
+      ],
+      "implications": "For hiring managers and job seekers, this confirms that using 'UX' in job titles and portfolios still maximizes signal clarity — rebranding to alternatives like 'product designer' may create friction without delivering the differentiation intended.",
+      "tags": [
+        "Field Naming",
+        "Hiring",
+        "Professional Identity"
+      ],
+      "featured": true,
+      "type": "research",
       "category": "Research",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*gNtWKLGooZfmQgPccLlRXw.png",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@rafid_mehedi/fixing-frustrating-ux-patterns-in-2025-2026-a-blueprint-for-better-design-1e9fd948f039?source=rss------ux_research-5",
-      "pubDate": "Fri, 31 Jul 2026 16:28:12 GMT"
+      "image": null,
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/no-new-name-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 31 Jul 2026 17:00:00 +0000"
     },
     {
-      "headline": "One developer built a Chrome extension to fix YouTube speed controls",
-      "background": "YouTube's native playback speed controls require several clicks to adjust and offer limited granularity, frustrating power users who frequently switch speeds while watching tutorials or long-form content.",
-      "keyFindings": [
-        "The HoverSpeed extension allows speed adjustment via hover interaction, reducing the action from multiple clicks to a single gesture",
-        "Built as a solo side project to solve a personal workflow problem, not commercially released",
-        "Implementation highlights how small interaction friction compounds significantly for habitual users of a feature"
-      ],
-      "implications": "Relevant for product teams as a case study in solving high-frequency micro-friction. The hover-to-adjust pattern may not generalize across contexts but is worth benchmarking for media or content-heavy interfaces where speed or setting adjustments are frequent.",
+      "headline": "Why You Need Mentorship and How to Get It Right",
+      "background": "",
+      "keyFindings": [],
+      "implications": "",
       "tags": [
-        "Browser Extensions",
-        "Interaction Design",
-        "Productivity"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*CSoyiVKerRzbtpXG6WsL0A.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@silas0316/from-an-idea-to-a-tool-that-solves-my-everyday-problems-hoverspeed-chrome-extension-9ebf4beb4c21?source=rss------ux-5",
-      "pubDate": "Fri, 31 Jul 2026 16:27:22 GMT"
-    },
-    {
-      "headline": "Nigeria's schools face real tradeoffs as AI enters classrooms",
-      "background": "AI adoption in Nigerian education is accelerating through platforms and policy initiatives, but infrastructure gaps, teacher readiness, and data equity concerns create uneven outcomes across schools and regions.",
-      "keyFindings": [
-        "Access to reliable electricity and internet remains a hard constraint that limits AI tool deployment in rural Nigerian schools",
-        "AI tools risk reinforcing existing inequalities if rollout prioritizes urban, better-resourced schools first",
-        "Teacher training and curriculum integration are flagged as more urgent needs than platform adoption itself"
-      ],
-      "implications": "Relevant for ed-tech product teams designing for emerging markets — infrastructure assumptions built into most AI learning tools will fail in low-connectivity contexts. Offline-first and low-bandwidth design should be baseline requirements, not afterthoughts.",
-      "tags": [
-        "Ed-Tech",
-        "AI in Education",
-        "Emerging Markets"
+        "Research"
       ],
       "featured": false,
       "type": "research",
-      "category": "Industry news",
+      "category": "Research",
       "publishedWindow": "today",
       "image": null,
-      "source": "Business News Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY0tnenZRQUp5bkRHVTR6VXp5Tk9NOEtJTmtVeWpXTnhuLUpSZDNxQjhOWFFnOXZmYmFPbXZZT2Z6eGpNeS14YWdOeVM4b1lvNkx3ZTdKekY1ODJtMFA2ZS1wdmFQeTFTMnlieC03bDFBRmhVcTlBMGlxLW5vYVpCOWRWNEVBbFNfSURKTnFSNWNtaXhYdDkxZGJwWnVhREpZdnc?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 16:07:30 GMT"
-    },
-    {
-      "headline": "Spec-driven design keeps projects from falling apart mid-build",
-      "background": "Design handoff failures often stem from ambiguity in what was agreed upon before build begins. Spec-driven design proposes using structured specifications as the connective tissue between design intent and engineering execution.",
-      "keyFindings": [
-        "Specs function as a single source of truth that reduces interpretation gaps between designers and developers during build",
-        "The approach enforces decision-making upfront, which surfaces scope and feasibility conflicts earlier in the process",
-        "Teams using structured specs report fewer revision cycles post-handoff, though implementation overhead is higher at the planning stage"
-      ],
-      "implications": "Most applicable to mid-size and larger product teams where multiple stakeholders touch a project between concept and shipping. Smaller teams may find the overhead disproportionate, but even lightweight spec templates can reduce costly late-stage rework.",
-      "tags": [
-        "Design Handoff",
-        "Spec Writing",
-        "Design Process"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1280/1*a5-yU48vP1h2qPZ98fE_Hg.png",
-      "source": "UX on Medium",
-      "link": "https://medium.muz.li/spec-driven-design-the-structure-that-holds-the-project-together-eb2c93793001?source=rss------ux-5",
-      "pubDate": "Fri, 31 Jul 2026 15:41:02 GMT"
-    },
-    {
-      "headline": "Nigerian startup secures scholarship deal to fund tech training access",
-      "background": "Access to formal technology training in Nigeria is limited by cost, creating a skills gap that scholarship programs are attempting to address through private-sector partnerships.",
-      "keyFindings": [
-        "DevElevate secured a partnership to fund scholarships for technology training programs targeting underrepresented or under-resourced learners",
-        "The partnership model relies on private funding rather than government subsidy to expand access",
-        "Specific curriculum areas and number of scholarship recipients were not detailed in available reporting"
-      ],
-      "implications": "Limited actionable detail for product or UX practitioners. Tangentially relevant to teams working on workforce development platforms or training tools in West African markets.",
-      "tags": [
-        "Tech Education",
-        "Africa",
-        "Workforce Development"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Independent Newspaper Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3JjYnNiaFlqVzZFaUpSREpuZE5CSlRkNUxuRTdRbUpPUjFEck1JYUpMT3J5UGVMWHhMRkUwTVJSQTVIejgzbkh4OWxkYVVMc1Fra185UTFEeHY0TmNyM1picnBCLW9hOUFQWTdOX1ZKZzF6WG9EOUJldXR4NURIZm1MaWxUb0h6bjNMVDlNOEpzYndzcU5JZ2RwMDN6VDJiMWlJeVAtYXB5QQ?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 13:13:54 GMT"
-    },
-    {
-      "headline": "YRF Studios and Google to run an AI filmmaking workshop",
-      "background": "AI video and filmmaking tools are maturing rapidly, and established studios are beginning to formally integrate AI into creative production workflows rather than treating it as experimental.",
-      "keyFindings": [
-        "YRF Studios, a major Indian film production company, is partnering with Google to deliver a hands-on AI filmmaking workshop",
-        "The workshop signals institutional validation of AI tools in professional film production contexts",
-        "No curriculum specifics or tool stack were disclosed in available reporting"
-      ],
-      "implications": "Thin on actionable detail. Relevant background context for UX and product teams working on creative AI tools — enterprise and studio partnerships are becoming a key adoption channel worth tracking.",
-      "tags": [
-        "AI Tools",
-        "Creative Industry",
-        "Film Production"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Animation Xpress",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRFVTZ1hYSG1UM1U1dERNcldyNXVWQmhQcE40RkxkenlSdGRxTDROOF9SbW1jYlZYWTRkeUh2UWVQaEpHVXp4TmVRZmhTZU9PbDQteGhyd3NfckVveWhiMmdad2VRZ09XekprN0E3QmZ6eHBDUVZyS1g3ZU8tXzhMRWo4RHZDNWN1LXZWTVF3ZGRkTTdpRUw5TVRuYV9FTGJQ0gGoAUFVX3lxTE1OckNPZERWS1dFU1ZzUWR6RzhoMjVMU1VkMS1BdjhjOVNRQm5MY0xwRGM5VGVBOVV3NE53dGZVSlVnOFdCMXhyRjd3X2hxQWJJaGZ6NTRPanFqVUcwanNHYnVYMVJ2N1lWRG9lQnBWQ2JwZjNPV1l4MmJGYmNEVU5rQ0FZeWFVQVlCQ1ItSXNsLW5NZW9ZbnhQc0NobWhnS29qSjd3MnBIMw?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 12:30:22 GMT"
-    },
-    {
-      "headline": "Eight companies expanding R&D teams in Ireland right now",
-      "background": "Ireland continues to attract multinational tech investment partly due to favorable corporate tax structures and EU market access, with R&D team growth signaling sustained commitment beyond sales and support functions.",
-      "keyFindings": [
-        "Eight named companies are actively hiring for R&D roles in Ireland, spanning sectors including fintech, health tech, and enterprise software",
-        "Investment signals a shift toward Ireland as a genuine engineering and research hub, not just a tax domicile",
-        "Specific companies and role types were listed in the source but not available in the snippet provided"
-      ],
-      "implications": "Relevant for UX and product professionals based in or relocating to Ireland — R&D expansion typically includes product design and research roles alongside engineering. Worth monitoring for hiring trends in the European tech market.",
-      "tags": [
-        "Tech Industry",
-        "Hiring",
-        "Europe"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Silicon Republic",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSDFIcmRRdURPYUlkeEhMeHJlSk8zZ3QwWC0yRXZDZkJFODM2TGpxRERLVjZzcEh4cG1HSEpXM3l0WlhHcEVSbWxGbzZuSHo4Sm40UkFoQXVJdWhvMk9BNFVyUk1kSFpPRXZrNmhfazdyeDlPTE00Q2tqdlllcTNVRXdrSDNNWVdjendiV3dJb3NGbTJuZ3lyelZn?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 12:08:48 GMT"
-    },
-    {
-      "headline": "Bitcoin self-custody wallets are losing users to bad UX",
-      "background": "The crypto self-custody movement encourages users to manage their own private keys rather than relying on exchanges, but wallet interfaces have long been criticized for being inaccessible to non-technical users — a gap that is now driving a visible public debate.",
-      "keyFindings": [
-        "Seed phrase management, key backup flows, and error recovery are consistently cited as the primary UX failure points driving users away from self-custody wallets",
-        "Poor UX is being framed not just as a usability issue but as a security risk — confused users make dangerous mistakes with irreversible consequences",
-        "The debate surfaced publicly after high-profile cases of users losing funds due to misunderstood wallet interfaces"
-      ],
-      "implications": "High-stakes case study for any UX practitioner working on security-critical flows. The self-custody wallet space illustrates the ceiling that usability barriers create for adoption of technically sound but cognitively demanding products. Error prevention and recovery design are non-negotiable here.",
-      "tags": [
-        "Crypto",
-        "Security UX",
-        "Onboarding"
-      ],
-      "featured": true,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "WEEX",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHV2aGxoVnJsUmE2aTBfLW9LR1B1SzlONFY5VjB5blpKSDhYcDRZSjJSWlN1aktaODk4MGpaWjViSUJBdlZBcUV5ZVFEa0ZqWWhoSThSTkNLU2Z4OFdRelRlcnY5T0tmbGxkOEk5dklzeU4wU2pMd0ZUbVJRRnFqa0tHSGZpRVR4ZUM3aGhwb3ZFcVdnYkdXTDJ6TFFGVU45eFVRYjdEWG85ZGNoQVR4Wlp3?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 12:00:32 GMT"
-    },
-    {
-      "headline": "QQMACAN lists seven tech features improving its online gaming platform",
-      "background": "Online gaming platforms regularly publish feature roundups as marketing content, with this piece covering claimed technical improvements to user experience on the QQMACAN platform.",
-      "keyFindings": [
-        "The piece is published on a general tech blog and reads as promotional content rather than independent analysis",
-        "No third-party benchmarks or user research are cited to support claims of improvement",
-        "Specific features mentioned include UI personalization and mobile optimization, though detail is shallow"
-      ],
-      "implications": "Low editorial value for UX and product practitioners. Skip unless researching how gaming platforms self-describe their UX investments for competitive benchmarking purposes.",
-      "tags": [
-        "Gaming",
-        "Platform Design"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "nerdbot",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEVNUF94RzFyYm91YUhRblpGVWxTQ05yWFJ3MUxrS3FaSUpxUC1wQzdLakc5ZTg2YWNXQ3pTUHI5WkFrYzdpbVRURXhjQVJNOXRFcmkwT3FiS19tLVVuaXluQmJVSERDZlJjRXhwU1JMOVJveVRkVTJIT2c2V0Z5aEltdGhWeHBQYm1QRW1EMWFfR180eFhoZjEydjJGa1RWVnRkSzdVbw?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 11:24:44 GMT"
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/mentorship/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 31 Jul 2026 17:00:00 +0000"
     }
   ]
 }
