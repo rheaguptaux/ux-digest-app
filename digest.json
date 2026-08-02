@@ -1,225 +1,233 @@
 {
-  "generatedAt": "2026-08-01T15:43:35.932Z",
+  "generatedAt": "2026-08-02T15:48:04.890Z",
   "items": [
     {
-      "headline": "Stylesheet, component library, design system: what's the difference?",
-      "background": "Teams frequently treat these three artifacts as interchangeable or assume one automatically includes another, leading to miscommunication between designers, engineers, and product managers about what's actually been built or agreed upon.",
+      "headline": "First user interview surprises: listening beats observing",
+      "background": "New UX practitioners often expect usability testing and user interviews to surface a checklist of interface problems. This piece reflects on what the actual experience of a first user interview revealed instead.",
       "keyFindings": [
-        "A stylesheet governs visual tokens like color and typography but carries no structural or behavioral rules",
-        "A component library packages reusable UI elements but doesn't define usage principles or governance",
-        "A design system encompasses both plus the documentation, decisions, and processes that make them coherent across teams"
+        "The primary value of user interviews may be empathy and mental model discovery, not bug-finding",
+        "Usability issues were less prominent than unexpected user motivations and context",
+        "The author reframes interviews as a tool for understanding people, not just evaluating designs"
       ],
-      "implications": "Before scoping a design system project, align stakeholders on which layer you're actually building — many 'design system' initiatives are really just component libraries, which sets false expectations about consistency and governance coverage.",
+      "implications": "Useful reminder for junior researchers and teams who treat interviews as a QA substitute — if your interview guide is all task-based, you may be missing the deeper signal. Structure at least part of sessions around open context-setting questions.",
       "tags": [
-        "Design Systems",
-        "Component Libraries",
-        "Frontend"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2400/0*hLXzTAsIa_DA2A4M.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@FarwaBabar/stylesheet-vs-component-library-vs-design-system-7ebd8724b140?source=rss------product_design-5",
-      "pubDate": "Sat, 01 Aug 2026 15:42:54 GMT"
-    },
-    {
-      "headline": "How a UX redesign rescued long-form football video content",
-      "background": "Short-form video has eroded appetite for long sports broadcasts, pushing platforms to rethink how they surface existing footage rather than just produce more of it.",
-      "keyFindings": [
-        "The case study reframes long-form football content as raw material to be clipped and repackaged rather than replaced",
-        "The UX solution centered on a short-form discovery layer called Sarzarb built on top of existing video assets",
-        "Navigation and content hierarchy were restructured to match passive browsing behavior rather than intentional search"
-      ],
-      "implications": "For product teams managing media or content-heavy platforms, this is a concrete example of reducing acquisition costs by redesigning access patterns rather than commissioning new content — worth reviewing before planning a content strategy overhaul.",
-      "tags": [
-        "Media UX",
-        "Content Strategy",
-        "Mobile"
+        "User Research",
+        "Interviews",
+        "Research Methods"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*7sZItg7tI4ZwsOKpOSt_Bw.png",
+      "image": "https://cdn-images-1.medium.com/max/735/0*8HOOWVAnXMa7Q6I7.jpg",
       "source": "UX on Medium",
-      "link": "https://medium.com/@Arashdma/sarzarb-designing-football-360s-short-form-video-experience-18ea75b792d3?source=rss------ux-5",
-      "pubDate": "Sat, 01 Aug 2026 15:00:52 GMT"
+      "link": "https://medium.com/@mitalimaurya07/my-first-ux-interview-taught-me-something-i-didnt-expect-e6568140bcd4?source=rss------ux-5",
+      "pubDate": "Sun, 02 Aug 2026 15:08:27 GMT"
     },
     {
-      "headline": "LLM chat interfaces may displace mobile apps for routine tasks",
-      "background": "Mobile apps became the default UI layer for everyday transactions — banking, utilities, government services — but conversational LLMs now offer a plausible alternative that removes the need to navigate app-specific interfaces.",
+      "headline": "Dieter Rams' 1976 rules are still running UX",
+      "background": "Dieter Rams' ten principles of good design are widely cited in product circles, but their direct lineage into modern UX practice is rarely traced with specificity. This piece makes that connection explicit.",
       "keyFindings": [
-        "The article argues that conversational LLMs can handle multi-step transactional flows (opening accounts, paying bills) without requiring a dedicated app or screen-based navigation",
-        "The shift is framed as comparable to the 1990s move from physical branches to digital, suggesting a structural rather than incremental change",
-        "Key friction points in current app UX — onboarding, form completion, navigation — are cited as the specific gaps LLMs could close"
+        "Rams formulated his ten design principles in 1976 while at Braun, decades before digital UX existed as a discipline",
+        "Principles like 'as little design as possible' and 'honest' design map directly onto current UX heuristics around minimalism and transparency",
+        "The piece argues these rules function as a de facto blueprint rather than loose inspiration for UX practice"
       ],
-      "implications": "Product and UX teams building transactional apps should pressure-test whether their core flows could be replicated conversationally — not as a near-term threat, but as a useful stress test for where UI is adding friction rather than value.",
+      "implications": "Worth revisiting if your team debates design decisions on subjective grounds — Rams' principles offer a durable, citable framework for defending restraint and function over ornamentation.",
       "tags": [
-        "Conversational UI",
-        "LLMs",
-        "App Strategy"
+        "Design Principles",
+        "Design History",
+        "Product Design"
       ],
-      "featured": true,
+      "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/929/1*hB1oLy_tmz3aWTRt8EiCJg.png",
+      "image": "https://cdn-images-1.medium.com/max/1680/1*Gj3fIijkA3b58Gy5dLNPYA.jpeg",
       "source": "UX on Medium",
-      "link": "https://senthilr14.medium.com/exit-mobile-apps-enter-conversational-llm-chat-48ad42d113f8?source=rss------ux-5",
-      "pubDate": "Sat, 01 Aug 2026 14:05:21 GMT"
+      "link": "https://aiinuxdesign.medium.com/ux-is-rules-less-is-more-69d7c1e46a5c?source=rss------ux-5",
+      "pubDate": "Sun, 02 Aug 2026 15:06:01 GMT"
     },
     {
-      "headline": "Irrelevant: spam content, not a valid article",
-      "background": "This submission appears to be unrelated commercial or auto-generated content with no relevance to UX, product, or technology.",
+      "headline": "The interfaces you ignore are the ones that actually work",
+      "background": "There is ongoing discussion in UX about what 'good' interface design looks like — this piece shifts focus away from screens entirely to argue that the most effective interfaces are the ones users never consciously notice.",
       "keyFindings": [
-        "No substantive findings available",
-        "Content is not relevant to this digest's scope"
+        "Interfaces that disappear from conscious awareness are argued to be the highest form of UX achievement",
+        "Physical and ambient interfaces in domestic environments outperform digital ones in reducing friction",
+        "The piece uses everyday home environments to illustrate how invisibility, not aesthetics, signals interaction success"
       ],
-      "implications": "No actionable implications — content should be filtered from the digest.",
+      "implications": "Relevant for teams designing habitual or utility-focused products — if users are frequently aware of your interface, that awareness itself may indicate friction. Aim for flows that require no active attention to navigate.",
       "tags": [
-        "Spam",
-        "Off-topic"
+        "Interaction Design",
+        "Invisible Design",
+        "Ambient UX"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "Product design",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1254/1*GRTMMx3oTRGLRHYzxF-9BA.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@xmaxxia/custom-cartoon-balloons-manufacturer-017bc4c927b1?source=rss------product_design-5",
-      "pubDate": "Sat, 01 Aug 2026 13:45:55 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1760/1*TQBBTYKW6GobhyXjXXMRXg.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@harshaasapu.b/the-most-used-interface-in-your-house-is-one-youve-never-thought-about-61bc9ccf0eb6?source=rss------ux-5",
+      "pubDate": "Sun, 02 Aug 2026 15:01:02 GMT"
     },
     {
-      "headline": "182 animation students placed from one Indian university",
-      "background": "Animation and VFX hiring signals are closely watched as indicators of industry health, particularly as AI tools raise questions about entry-level creative job volume.",
+      "headline": "German bottle deposit system gets a logistics-meets-social app",
+      "background": "Germany's Pfand system requires a refundable deposit on bottles and cans, but many deposits go uncollected — often abandoned in public spaces. A startup called Lost & Pfand is building a digital layer on top of this existing behavior.",
       "keyFindings": [
-        "182 students from Chandigarh University's Animation and Multimedia program secured jobs across animation, VFX, gaming, digital media, and filmmaking",
-        "Placements span multiple sectors rather than concentrating in one area, suggesting broad demand across creative production roles",
-        "No salary, studio tier, or role-level breakdown is provided in the available snippet"
+        "Lost & Pfand converts uncollected bottle deposits into an on-demand logistics trigger, connecting finders with collection infrastructure",
+        "The model creates local social impact by routing unclaimed deposits toward community or charitable ends",
+        "The product digitizes an existing physical folk behavior — leaving bottles out for others to collect — rather than inventing a new habit"
       ],
-      "implications": "Treat as a limited data point on creative industry hiring in India — sector diversity in placements is mildly positive signal, but without role or compensation detail it's difficult to assess quality of outcomes.",
+      "implications": "Strong case study for product designers working on behavior change or circular economy apps — the design works because it formalizes an existing grassroots behavior rather than trying to manufacture one from scratch.",
       "tags": [
-        "Creative Industry",
-        "Hiring",
-        "Animation"
+        "Service Design",
+        "Behavior Change",
+        "Sustainability"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*A92123zqFh16XfOeSn10Dg.png",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@padraig.fortune/digitizing-germanys-pfand-economy-128e2c0030ec?source=rss------ux_research-5",
+      "pubDate": "Sun, 02 Aug 2026 14:57:33 GMT"
+    },
+    {
+      "headline": "No relevant UX or product content found",
+      "background": "This appears to be a local business people column from the Northwest Arkansas Democrat-Gazette with no discernible relevance to UX, product, or tech practice.",
+      "keyFindings": [
+        "No substantive UX, product, or technology content identified",
+        "Appears to be a regional newspaper personnel announcement column",
+        "Insufficient snippet to extract any applicable findings"
+      ],
+      "implications": "No actionable implications for UX or product practitioners. Article does not meet relevance threshold for this digest.",
+      "tags": [
+        "Irrelevant",
+        "Filler"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Big News Network.com",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQMUR2RV9GM0dTbGNsQ0FBTHFOeExGeVp3SFN4V2FIOEVqM3VRZVE0Wkd5R0RTc18tTkNpTzRfZ2JIRTNkVU9mb3Y0alJrN3EyMG5Od3JndzIwOWtxSjJhR3Rsd1NkTC1heE1QSXBvVlc1RDQxX1liZVVFekw0VzZjcTNGODlCeGJPLVBuVjFWTWE1eG81Z2lERk1MSTRiVE96QlFqZXMtNzVLRzNEa3lkQ2Y2TnNQOU9DT0hqUWtmYmdQX1dUYmlKeXk0Z3haQm1qbFdncXk5Qmx3Zm1Wa1pjbVlqeW5oLWhvM0ZsWXR1RVNmR0JtVXVtMi1DQTFxTG9CS1BFaw?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 09:31:00 GMT"
+      "source": "Northwest Arkansas Democrat-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNUDJDLWZ5R3VoMjNtUmx1SzIwRVVIN21hQmVBZzBjOXp0YTQxOTJnVlJUZ0d5dC1Lb2wtOEJTNk55OUN6blhXYnkxTmRkY2hzYlctUzVIU1R3S2RadExSTWgwUHVHZlNKUGRyVUxxN0daUWNiMFBF?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 06:00:00 GMT"
     },
     {
-      "headline": "BAFREKA expands design portfolio globally — thin on detail",
-      "background": "Design agency announcements of portfolio expansion are common but rarely include specifics about what changed, which markets, or what outcomes were achieved.",
+      "headline": "Which digital skills employers will actually pay for in 2026",
+      "background": "Skills forecasting pieces proliferate annually, but practitioners need specifics on which competencies are gaining employer demand rather than generic 'learn to code' advice. This piece attempts to rank in-demand digital skills for 2026.",
       "keyFindings": [
-        "BAFREKA announced expansion of its digital product design work into global markets",
-        "No specific markets, clients, or product types are named in the available snippet",
-        "The announcement appears to be a press release with limited editorial substance"
+        "The piece identifies a ranked set of digital skills projected to be most sought-after by employers in 2026",
+        "AI-adjacent skills and data literacy are implied to feature prominently based on current hiring trend coverage",
+        "Source is Academia Mag — methodology and data sourcing for rankings are not specified in the snippet"
       ],
-      "implications": "No actionable findings for practitioners — monitor if BAFREKA publishes case studies from this expansion that demonstrate methods or outcomes worth learning from.",
+      "implications": "Treat with caution given unclear sourcing — useful for broad orientation but not reliable enough to base hiring criteria or personal upskilling plans on without cross-referencing with labor market data from more rigorous sources like LinkedIn's Jobs on the Rise or Burning Glass.",
       "tags": [
-        "Design Agency",
-        "Industry News"
+        "Skills & Hiring",
+        "Career Development",
+        "Digital Literacy"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "THISDAYLIVE",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWFRTWjAxQmp1VXJjZ1ZFVlhLajJSRW5BdThhS2tDa285RGs2aUtsZ2IzY1JvcjhMX0NGajFVNmhUdmZBX3hIYk1uNkdiZkRCRU13MS0ta1kyd01SaElrd2NmdUtSQjItcXRyLTJSeWNTTmV6Um1aTmp4Wi0yMnI0bU1jdE5PbkdfbW5ldWlXMTVjbE9kbWd5STdjUWdmNU0wZ1VNdGVvbVlCa1Jad0tJ?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 01:51:53 GMT"
+      "source": "Academia Mag",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWVhpNkNucFBWZnpRX1ZBdHBrb2V1VW9qRkhET3NnZkN2ZnhnMHhndV9nRHZHWGIxWjZPUTdyZHZScGRzckdmcUlsOE5yLWZ5MlZLd2xpQ0ViZ1Qwd3VWUWdkV1FuS0ZGVWdQZU9HVDR0c1lZaFRxSDdRVmF4X3lYXzRB?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 04:07:10 GMT"
     },
     {
-      "headline": "Vague 'new web standards' claim lacks specifics",
-      "background": "Announcements about transformative web design standards circulate regularly, often conflating emerging browser capabilities, W3C proposals, and opinion pieces under the same framing.",
+      "headline": "Conference preview: Future Days 2026 agenda and themes",
+      "background": "Future Days 2026 is a forward-looking conference covered by CC/magazine, positioning itself around translating near-future trends into present-day practice.",
       "keyFindings": [
-        "The snippet makes a broad claim that new web design standards will transform user experience but names no specific standards",
-        "No W3C specification, browser API, or measurable UX outcome is identified in the available content",
-        "Source (SSBCrack) is a general-interest site, not a primary technical reference"
+        "Event focuses on bridging speculative future scenarios with current decision-making",
+        "Coverage appears to be a preview or summary piece rather than a primary research source",
+        "No specific sessions, speakers, or findings are surfaced in the snippet"
       ],
-      "implications": "Do not treat this as a reliable update on actual web standards — verify any claims against W3C working group notes or browser release documentation directly.",
+      "implications": "Insufficient detail in snippet to extract actionable UX or product guidance. Monitor for session recordings or follow-up coverage if the themes align with your work.",
       "tags": [
-        "Web Standards",
-        "Industry News"
+        "Conference",
+        "Future Trends"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "SSBCrack",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGx6aTZWUVU1d3czVmw0WWQ4d3BPVWpWcmQtd2RucTdzOURPSkNoYURfZ0hWWDFiUTA2QXMyM1VveHlFT0VPWC1zVEl3T2tlX3dwQ3pra05GMXFrTXZ0TjZsX21PZk56M0tZay0wM1ZKVTBCOHc4b21xMmNaanlDcTljSVJMNUhiSWZDMg?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 20:40:17 GMT"
+      "source": "CC/magazine",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZm56R2FMYjllbUNjOW9HUFF0WE81UzhZdnJpTUlKWnI5bEtMOFNnNU1yMWdQN3Vsb2szb0JSVVBZZ1RKNjR0ZDJETlJoc2xLM0lQR1ZaRW5tX081MTFmRmFEdTZfWnpWSm9xZ2J1WF83MzhzVVFBX1hQWHZjdWpQdGtOUFh5Zw?oc=5",
+      "pubDate": "Sat, 01 Aug 2026 15:09:39 GMT"
     },
     {
-      "headline": "Riot Games hiring senior UX designer for League of Legends",
-      "background": "Game UX roles at major studios are relatively rare in public job boards and offer a signal into where established franchises are investing in experience quality.",
+      "headline": "Every page is an entry point — design for it",
+      "background": "SEO and social media have fragmented website navigation so thoroughly that users now routinely land deep inside sites without passing through a homepage. Most UX and content teams still design assuming a homepage-first journey.",
       "keyFindings": [
-        "The role is a 12-month contract, not a permanent position, which may indicate a scoped project rather than ongoing team growth",
-        "It targets League of Legends specifically, one of the longest-running live-service games, suggesting UX investment in maintaining or evolving an aging interface",
-        "No salary range or specific skill requirements are visible in the snippet"
+        "Search and social now drive a majority of direct deep-link traffic, bypassing homepages entirely",
+        "Pages that lack homepage-level orientation — brand context, navigation affordances, clear next steps — show higher abandonment rates",
+        "The piece argues every page needs to independently communicate who the site is for and what to do next"
       ],
-      "implications": "Relevant for senior UX designers with game or complex system experience considering contract work — contract framing may also suggest Riot is addressing a defined UX debt or feature initiative rather than expanding headcount.",
+      "implications": "Directly actionable for content designers, IA specialists, and anyone auditing site architecture — audit your highest-traffic landing pages against your homepage for orientation completeness. This is especially critical for editorial sites and SaaS marketing pages.",
       "tags": [
-        "Game UX",
-        "Jobs",
-        "Contract Work"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Riot Games",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdTc3V25kbmd4MzNtcFFiWHcyYXloaWdHSHdCRkF4TzZyUktqX0NlaFZZWDRYM2psZTBtOGZ6cFVEWFhFOUszRzg4SGF5c2YxaFpINGpwRHIyWVgwNUx1aXdNWjI5Wm56eTNxdlBMaTh6MzdubktXWVVPWDVGM0MyWFFGaVNOeGdlTTFKN2k2cXcySzhoNG81VzVOaUFPU1psNkhqb19YN1EtRnVKUlRsaEVCVTQ5OU5EOHp1UWRId2FFYWtoWWQyNFRTb09qUjky?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 18:01:05 GMT"
-    },
-    {
-      "headline": "'UX' remains the dominant field name — alternatives haven't landed",
-      "background": "For years, practitioners have debated whether 'UX designer' accurately describes the field, with alternatives like 'product designer,' 'experience designer,' and 'human-centered designer' each gaining partial traction.",
-      "keyFindings": [
-        "A survey of 604 tech and design professionals found 'UX' remains the dominant default label for the field",
-        "No single alternative name has consolidated enough usage to challenge it — alternatives remain fragmented across individuals and organizations",
-        "The finding holds despite widespread acknowledgment that 'UX' is imprecise as a job title"
-      ],
-      "implications": "For hiring managers and job seekers, this confirms that using 'UX' in job titles and portfolios still maximizes signal clarity — rebranding to alternatives like 'product designer' may create friction without delivering the differentiation intended.",
-      "tags": [
-        "Field Naming",
-        "Hiring",
-        "Professional Identity"
+        "Information Architecture",
+        "Content Design",
+        "Web Design"
       ],
       "featured": true,
       "type": "research",
-      "category": "Research",
+      "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/articles/no-new-name-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 31 Jul 2026 17:00:00 +0000"
+      "source": "Creative Bloq",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd0ZUY1YzLXMySnpWOHZoZUFGRk1PdlM5ZGllbFlfWllTRE15MHVnWEhyZ2VWRERpME5vYzhqaFgzMFRVN1Q4Zzd5VmlMWWNQQ21YNEo0ZUR1dS1PTWdqX2k3SVpmZmFRTk0zNGk0OURxOTNXckNNblJvRHlVNkNoRnRNUDQ2Rmc4Y2hVcjNkZjYwTGE5SjRv?oc=5",
+      "pubDate": "Sat, 01 Aug 2026 11:00:00 GMT"
     },
     {
-      "headline": "Why You Need Mentorship and How to Get It Right",
-      "background": "",
-      "keyFindings": [],
-      "implications": "",
+      "headline": "182 animation grads placed — placement stat, not industry insight",
+      "background": "Chandigarh University issued a placement announcement for its animation and multimedia graduates across studios in animation, VFX, gaming, and film.",
+      "keyFindings": [
+        "182 students placed across animation, VFX, gaming, digital media, and filmmaking sectors",
+        "Placement was through Chandigarh University's program — scope is institution-specific",
+        "No broader industry data or hiring trend analysis is included"
+      ],
+      "implications": "No generalizable UX or product implications. Relevant only to those researching animation education programs or Indian creative industry hiring pipelines.",
       "tags": [
-        "Research"
+        "Animation",
+        "Education",
+        "Placements"
       ],
       "featured": false,
       "type": "research",
-      "category": "Research",
-      "publishedWindow": "today",
+      "category": "Industry news",
+      "publishedWindow": "week",
       "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/articles/mentorship/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 31 Jul 2026 17:00:00 +0000"
+      "source": "TheWire.in",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQa3VSaFJrOHR0Z1BBeEdhOVI4Zi1Hdml0X3o5UjNZRHg2UFU3NjlKTHNSX01pa2pRM3ZtUHNKd0J4S3oyWnBjZHB4NmFQNmE1WGlVbm9Wc0VFd3lzdy0tdUpFUi0yTEl4ZTVBVWsxaXdRZ3RLa1pDLXZqai0wZzRrX1ZCZmQ1TFZ3a1lMeDhrc1Z3X2N0VExsNHp1WWd3RTFPRG1JY1hIMGJ5UEJ0N3hDb005Zk5SNEx5VHI1N0VNazhUeHpRQ3RJNDBLLU9XTXItVjFmVnlyVXdWQTVJRFNIc0xXaGNNVkhSQV9fQVQtNG1VXzlibWJmV29xZ9IBgAJBVV95cUxPMUx3bWxIWW1CUG9xeVptSUpEWFpEUlR4dnpMbG9FclBoWE1fX0pva0pQWERvUFVOcXBVcTNydkN0TFBiR3ZMaGVvZGg1U3VrWUxIcWtPVE5UTG9RVVJzb0VfNlloQnlWbXE3OGJETkJOanhCNUtMRElvRjVnbGtGWXBrUEQtN3FrUmU4a2kteHdxZ3huY0N4RGhKXzNmYkZ1QmVjdG1vUnhsSGYxVHhYWmJjUF90VHQwQnphYXFXdEpFT0JwLXNSd01nM1JuUVMxdGRXU2xWS2dUVEZfbjVPaHJMZUxZV0F0UXpkdkJLYkxHOFhwcndMNkdleWkwbEVw?oc=5",
+      "pubDate": "Sat, 01 Aug 2026 09:23:58 GMT"
+    },
+    {
+      "headline": "Vendor list: banking software dev companies for 2026",
+      "background": "Teams evaluating fintech development partners or banking software vendors face a fragmented and opaque market. TechBullion-style listicles attempt to provide shortlists but vary widely in rigor.",
+      "keyFindings": [
+        "Lists 21 companies identified as leading banking software development firms for 2026",
+        "Published by TechBullion — selection methodology is typically editorial or sponsored rather than independently audited",
+        "Covers a range of firms likely spanning custom development, core banking platforms, and fintech infrastructure"
+      ],
+      "implications": "Use as a starting directory only — TechBullion lists are not independently ranked and may include sponsored entries. Cross-reference any shortlisted vendor against client reviews on G2 or Clutch and request case studies before evaluating.",
+      "tags": [
+        "Fintech",
+        "Vendor Selection",
+        "Banking Tech"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "week",
+      "image": null,
+      "source": "TechBullion",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEo3VXEweEJxVHJtS3NsS1hzWDBiYjhjdVVrNlRXZ2RsSXNaSl82eWM0YnpOa2lYRFhYVmttY1pKWHpRbmpCOUp2LWJqcy13bGF6QXZpWjdGSGowcmcwT3NxczNEZjZvMkRWckFuTzBjMmI5SWRDN1lXdWpNRHRPQ0xn?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 19:22:31 GMT"
     }
   ]
 }
