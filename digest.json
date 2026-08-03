@@ -1,233 +1,233 @@
 {
-  "generatedAt": "2026-08-02T15:48:04.890Z",
+  "generatedAt": "2026-08-03T18:27:37.006Z",
   "items": [
     {
-      "headline": "First user interview surprises: listening beats observing",
-      "background": "New UX practitioners often expect usability testing and user interviews to surface a checklist of interface problems. This piece reflects on what the actual experience of a first user interview revealed instead.",
+      "headline": "Cutting Drop-Offs Between Investment Calls at Dezerv",
+      "background": "Fintech products that rely on human advisor calls face a specific retention problem: users who complete a first call often don't return for the follow-up, losing momentum and conversion. Dezerv, an Indian wealth management platform, tackled this funnel gap through targeted product design changes.",
       "keyFindings": [
-        "The primary value of user interviews may be empathy and mental model discovery, not bug-finding",
-        "Usability issues were less prominent than unexpected user motivations and context",
-        "The author reframes interviews as a tool for understanding people, not just evaluating designs"
+        "Drop-off between first and second advisor calls was identified as a primary conversion bottleneck",
+        "Design interventions focused on reducing friction and reinforcing value between the two call touchpoints",
+        "Iteration was grounded in behavioral observation of where and why users disengaged"
       ],
-      "implications": "Useful reminder for junior researchers and teams who treat interviews as a QA substitute — if your interview guide is all task-based, you may be missing the deeper signal. Structure at least part of sessions around open context-setting questions.",
+      "implications": "Relevant for product designers working on high-touch conversion flows where human interaction is part of the funnel. Pay attention to what happens between sessions, not just during them — dead zones between touchpoints are common failure points.",
       "tags": [
-        "User Research",
-        "Interviews",
+        "Conversion Optimization",
+        "Fintech",
+        "Call Flows"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*EAmxtodEYHL2nSXstfXZ_A.jpeg",
+      "source": "UX on Medium",
+      "link": "https://aparnaadsrwt4.medium.com/improving-dezervs-call-experience-a-product-design-case-study-8ab865abdb39?source=rss------ux-5",
+      "pubDate": "Mon, 03 Aug 2026 18:08:07 GMT"
+    },
+    {
+      "headline": "Iterating a Landing Page to Boost Expert Call Bookings",
+      "background": "Booking flows for expert consultations — common in fintech, health, and edtech — often underperform because landing pages don't adequately communicate value or reduce scheduling friction. This case study documents Dezerv's iterative design process for exactly this problem.",
+      "keyFindings": [
+        "Multiple landing page iterations were tested to improve expert call booking rates",
+        "The case study focuses on how framing and page structure affect users' willingness to commit to a booking",
+        "Iteration was driven by observed drop-off data rather than aesthetic preference"
+      ],
+      "implications": "A useful reference for designers working on any consultation or demo booking flow. The pattern of landing page → scheduling → follow-through is widely applicable beyond fintech.",
+      "tags": [
+        "Landing Page Design",
+        "Fintech",
+        "Conversion Optimization"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2000/1*j_u94zqPwY2DRnFAfc1mlw.jpeg",
+      "source": "UX on Medium",
+      "link": "https://aparnaadsrwt4.medium.com/designing-a-landing-page-to-book-an-investment-expert-call-4754a8d7f736?source=rss------ux-5",
+      "pubDate": "Mon, 03 Aug 2026 18:05:54 GMT"
+    },
+    {
+      "headline": "Good Design Starts With Observation, Not Creativity",
+      "background": "There's a persistent myth in design culture that great output comes from innate creativity or ideation techniques. This piece pushes back on that, using the analogy of barbering to argue that careful, patient observation of the individual in front of you is the real foundation of quality work.",
+      "keyFindings": [
+        "The author argues observation of specific user behavior and context should precede any creative or generative design work",
+        "Barbering is used as a concrete analogy: a barber reads the client's hair, face shape, and preferences before picking up scissors",
+        "The piece positions creativity as a downstream output of good observation, not an input"
+      ],
+      "implications": "A useful framing to share in teams that over-index on brainstorming and ideation workshops before doing adequate discovery. Practical reminder to slow down the front end of the design process.",
+      "tags": [
+        "Design Process",
         "Research Methods"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "UX",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/735/0*8HOOWVAnXMa7Q6I7.jpg",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@mitalimaurya07/my-first-ux-interview-taught-me-something-i-didnt-expect-e6568140bcd4?source=rss------ux-5",
-      "pubDate": "Sun, 02 Aug 2026 15:08:27 GMT"
+      "image": "https://cdn-images-1.medium.com/max/798/1*ymHFwrmpTzKRULN7AZxQqw.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@vijayakanth.art/im-not-just-a-designer-i-m-a-barber-331b7eacc3dc?source=rss------product_design-5",
+      "pubDate": "Mon, 03 Aug 2026 17:58:07 GMT"
     },
     {
-      "headline": "Dieter Rams' 1976 rules are still running UX",
-      "background": "Dieter Rams' ten principles of good design are widely cited in product circles, but their direct lineage into modern UX practice is rarely traced with specificity. This piece makes that connection explicit.",
+      "headline": "Static Personas Are Failing — AI Demands Behavioral States Instead",
+      "background": "User personas have been a UX staple for decades, but they're built on fixed demographic and psychographic profiles that don't reflect how real user needs shift moment to moment. As AI enables more adaptive interfaces, the mismatch between static personas and dynamic behavior is becoming a practical design problem.",
       "keyFindings": [
-        "Rams formulated his ten design principles in 1976 while at Braun, decades before digital UX existed as a discipline",
-        "Principles like 'as little design as possible' and 'honest' design map directly onto current UX heuristics around minimalism and transparency",
-        "The piece argues these rules function as a de facto blueprint rather than loose inspiration for UX practice"
+        "Traditional personas represent fixed user types, but actual user needs fluctuate based on context, mood, and intent — what the author calls 'behavioral states'",
+        "AI systems can theoretically adapt to these shifting states in real time, making static personas an inadequate design input",
+        "The piece proposes moving toward state-based models that capture transitions and triggers rather than stable user archetypes"
       ],
-      "implications": "Worth revisiting if your team debates design decisions on subjective grounds — Rams' principles offer a durable, citable framework for defending restraint and function over ornamentation.",
+      "implications": "Directly relevant for teams designing AI-powered or personalized products. If your personas haven't been updated to account for behavioral variability, your AI personalization logic may be built on flawed assumptions.",
       "tags": [
-        "Design Principles",
-        "Design History",
-        "Product Design"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1680/1*Gj3fIijkA3b58Gy5dLNPYA.jpeg",
-      "source": "UX on Medium",
-      "link": "https://aiinuxdesign.medium.com/ux-is-rules-less-is-more-69d7c1e46a5c?source=rss------ux-5",
-      "pubDate": "Sun, 02 Aug 2026 15:06:01 GMT"
-    },
-    {
-      "headline": "The interfaces you ignore are the ones that actually work",
-      "background": "There is ongoing discussion in UX about what 'good' interface design looks like — this piece shifts focus away from screens entirely to argue that the most effective interfaces are the ones users never consciously notice.",
-      "keyFindings": [
-        "Interfaces that disappear from conscious awareness are argued to be the highest form of UX achievement",
-        "Physical and ambient interfaces in domestic environments outperform digital ones in reducing friction",
-        "The piece uses everyday home environments to illustrate how invisibility, not aesthetics, signals interaction success"
-      ],
-      "implications": "Relevant for teams designing habitual or utility-focused products — if users are frequently aware of your interface, that awareness itself may indicate friction. Aim for flows that require no active attention to navigate.",
-      "tags": [
-        "Interaction Design",
-        "Invisible Design",
-        "Ambient UX"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1760/1*TQBBTYKW6GobhyXjXXMRXg.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@harshaasapu.b/the-most-used-interface-in-your-house-is-one-youve-never-thought-about-61bc9ccf0eb6?source=rss------ux-5",
-      "pubDate": "Sun, 02 Aug 2026 15:01:02 GMT"
-    },
-    {
-      "headline": "German bottle deposit system gets a logistics-meets-social app",
-      "background": "Germany's Pfand system requires a refundable deposit on bottles and cans, but many deposits go uncollected — often abandoned in public spaces. A startup called Lost & Pfand is building a digital layer on top of this existing behavior.",
-      "keyFindings": [
-        "Lost & Pfand converts uncollected bottle deposits into an on-demand logistics trigger, connecting finders with collection infrastructure",
-        "The model creates local social impact by routing unclaimed deposits toward community or charitable ends",
-        "The product digitizes an existing physical folk behavior — leaving bottles out for others to collect — rather than inventing a new habit"
-      ],
-      "implications": "Strong case study for product designers working on behavior change or circular economy apps — the design works because it formalizes an existing grassroots behavior rather than trying to manufacture one from scratch.",
-      "tags": [
-        "Service Design",
-        "Behavior Change",
-        "Sustainability"
+        "Personas",
+        "AI Design",
+        "Personalization"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Research",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*A92123zqFh16XfOeSn10Dg.png",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*pWH9YaU88WNRxuA-3YAkQw.jpeg",
       "source": "UX Research on Medium",
-      "link": "https://medium.com/@padraig.fortune/digitizing-germanys-pfand-economy-128e2c0030ec?source=rss------ux_research-5",
-      "pubDate": "Sun, 02 Aug 2026 14:57:33 GMT"
+      "link": "https://medium.com/anticipatory-design-lab/the-persona-paradox-in-the-age-of-ai-166a0ca8dc0e?source=rss------ux_research-5",
+      "pubDate": "Mon, 03 Aug 2026 17:55:23 GMT"
     },
     {
-      "headline": "No relevant UX or product content found",
-      "background": "This appears to be a local business people column from the Northwest Arkansas Democrat-Gazette with no discernible relevance to UX, product, or tech practice.",
+      "headline": "GSA and National Design Studio to Redesign Login.gov UX",
+      "background": "Login.gov is the federal government's centralized authentication platform used across dozens of agencies, but it has faced persistent usability criticism — particularly around onboarding, identity verification, and error handling. A formal partnership to overhaul its UX signals institutional acknowledgment of those failures.",
       "keyFindings": [
-        "No substantive UX, product, or technology content identified",
-        "Appears to be a regional newspaper personnel announcement column",
-        "Insufficient snippet to extract any applicable findings"
+        "The GSA has partnered with the National Design Studio specifically to improve the Login.gov user experience",
+        "The effort targets a platform used by millions of Americans to access federal services, making scale and accessibility critical constraints",
+        "No specific redesign details are disclosed in the snippet, but the partnership signals a structured, resourced UX engagement rather than ad hoc fixes"
       ],
-      "implications": "No actionable implications for UX or product practitioners. Article does not meet relevance threshold for this digest.",
+      "implications": "Worth tracking for anyone working in civic tech, government digital services, or identity/authentication UX. The Login.gov patterns that emerge from this effort are likely to influence federal UX standards more broadly.",
       "tags": [
-        "Irrelevant",
-        "Filler"
+        "Government UX",
+        "Authentication",
+        "Accessibility"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Northwest Arkansas Democrat-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNUDJDLWZ5R3VoMjNtUmx1SzIwRVVIN21hQmVBZzBjOXp0YTQxOTJnVlJUZ0d5dC1Lb2wtOEJTNk55OUN6blhXYnkxTmRkY2hzYlctUzVIU1R3S2RadExSTWgwUHVHZlNKUGRyVUxxN0daUWNiMFBF?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 06:00:00 GMT"
+      "source": "meritalk.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR1dScEZsZHotX0djUURTZFZ5SnJpVzVYeWxsckUyNVhkRjhHdlhJRlRxbGhxbXJTb2xfNlhka2p5S1R1Zmw3d3NnSnlCWEVGREstWERwMWRGZnJYSnZzVWpXRGtLSkZFSVZJLW1GdUFiRkN3TUt3STBWQWZDeWFJYVBFNU5EVWxkWVNLZGs5S3RKbzluWU5BT2xVYTZoV3lQcWZVeENUYk8tSE0?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 15:23:41 GMT"
     },
     {
-      "headline": "Which digital skills employers will actually pay for in 2026",
-      "background": "Skills forecasting pieces proliferate annually, but practitioners need specifics on which competencies are gaining employer demand rather than generic 'learn to code' advice. This piece attempts to rank in-demand digital skills for 2026.",
+      "headline": "IIT Humanities Course Guide: Schools, Fees, Eligibility",
+      "background": "India's IITs are known for engineering and technology programs, but several now offer humanities and social science courses. This appears to be an informational guide targeting prospective students rather than UX or product practitioners.",
       "keyFindings": [
-        "The piece identifies a ranked set of digital skills projected to be most sought-after by employers in 2026",
-        "AI-adjacent skills and data literacy are implied to feature prominently based on current hiring trend coverage",
-        "Source is Academia Mag — methodology and data sourcing for rankings are not specified in the snippet"
+        "Multiple IITs in India offer humanities courses alongside technical programs",
+        "The piece covers eligibility criteria and fee structures across institutions",
+        "Content is informational and admissions-focused rather than research or practice-oriented"
       ],
-      "implications": "Treat with caution given unclear sourcing — useful for broad orientation but not reliable enough to base hiring criteria or personal upskilling plans on without cross-referencing with labor market data from more rigorous sources like LinkedIn's Jobs on the Rise or Burning Glass.",
+      "implications": "This piece has no direct relevance to UX, product design, or tech practice. It appears to have been included in error or via broad topic tagging.",
       "tags": [
-        "Skills & Hiring",
-        "Career Development",
-        "Digital Literacy"
+        "Education",
+        "India"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Academia Mag",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWVhpNkNucFBWZnpRX1ZBdHBrb2V1VW9qRkhET3NnZkN2ZnhnMHhndV9nRHZHWGIxWjZPUTdyZHZScGRzckdmcUlsOE5yLWZ5MlZLd2xpQ0ViZ1Qwd3VWUWdkV1FuS0ZGVWdQZU9HVDR0c1lZaFRxSDdRVmF4X3lYXzRB?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 04:07:10 GMT"
+      "source": "College Mentor",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82bVI1a3Y4eHBOaTB0bVFyX0xIVVhfVjcxSDhiN2pNd19FWllEY3VVMnp4b2pBb0Z1NzMtekNONVV5ODhyb3M1OWhzM0ZMV3hUZ1FPeTFMTkhQUjNLcGdPV1EteFAyeFBmcTlHZ0Nzak1rd3VKVlE?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 14:49:36 GMT"
     },
     {
-      "headline": "Conference preview: Future Days 2026 agenda and themes",
-      "background": "Future Days 2026 is a forward-looking conference covered by CC/magazine, positioning itself around translating near-future trends into present-day practice.",
+      "headline": "4 UX Principles That Reduce Patient Stress in Healthcare Apps",
+      "background": "Healthcare digital products face a dual retention problem: they serve users who are often anxious or vulnerable, and who may distrust digital systems with sensitive health data. Poor UX in this context doesn't just hurt conversion — it can cause real harm or drive patients away from care.",
       "keyFindings": [
-        "Event focuses on bridging speculative future scenarios with current decision-making",
-        "Coverage appears to be a preview or summary piece rather than a primary research source",
-        "No specific sessions, speakers, or findings are surfaced in the snippet"
+        "Trust-centric design is framed around four specific principles, though the snippet doesn't name them — the full piece does",
+        "Reducing patient stress is positioned as a retention mechanism, not just an ethical consideration",
+        "The piece draws on healthcare IT context, suggesting findings are grounded in clinical or health system deployments rather than consumer wellness apps"
       ],
-      "implications": "Insufficient detail in snippet to extract actionable UX or product guidance. Monitor for session recordings or follow-up coverage if the themes align with your work.",
+      "implications": "Applicable to anyone designing patient-facing digital health tools. The framing of trust as a retention lever (not just a compliance requirement) is a useful reframe for product and business stakeholders who need ROI justification for accessibility and empathy-driven design choices.",
       "tags": [
-        "Conference",
-        "Future Trends"
+        "Healthcare UX",
+        "Trust",
+        "Emotional Design"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "CC/magazine",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZm56R2FMYjllbUNjOW9HUFF0WE81UzhZdnJpTUlKWnI5bEtMOFNnNU1yMWdQN3Vsb2szb0JSVVBZZ1RKNjR0ZDJETlJoc2xLM0lQR1ZaRW5tX081MTFmRmFEdTZfWnpWSm9xZ2J1WF83MzhzVVFBX1hQWHZjdWpQdGtOUFh5Zw?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 15:09:39 GMT"
+      "source": "Healthcare IT Today",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb0liRmI5UGh5YWNKcHhZQ1Mxd1lDN3BiUEd6QzlNdDlTdlVlY2xSYldZdXlGZHl2NEZpVERFenFNRFg5N3dvU0VZb1ZoV3JTTFVpczhUQy1KX21WdkhOZWJsR2h6MWQ5NGVPSU0tTHFMOWh1c0JvY1BCaTFDaWgtN1ZYc2g4RUVzenNQMnIyYV9RMmNPRU9nSmlkU2xLb1dYTGV4RHl4NGZPenpxTHNCMHhPN0JqSmJ0Q2VhbG1OeVVQMVVVTVE?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 14:01:53 GMT"
     },
     {
-      "headline": "Every page is an entry point — design for it",
-      "background": "SEO and social media have fragmented website navigation so thoroughly that users now routinely land deep inside sites without passing through a homepage. Most UX and content teams still design assuming a homepage-first journey.",
+      "headline": "Nielsen's Roundup: AI Design Guidelines, Toggle Switches, Hedonic Adaptation",
+      "background": "Jakob Nielsen's UX newsletter regularly synthesizes emerging research and evolving practice standards across multiple topics at once. This edition covers a wide range: how design guidelines are shifting for AI interfaces, user anxiety around AI, toggle switch usability, hedonic adaptation effects, and glanceable monitoring UI.",
       "keyFindings": [
-        "Search and social now drive a majority of direct deep-link traffic, bypassing homepages entirely",
-        "Pages that lack homepage-level orientation — brand context, navigation affordances, clear next steps — show higher abandonment rates",
-        "The piece argues every page needs to independently communicate who the site is for and what to do next"
+        "Design guidelines for AI interfaces are actively being revised — existing heuristics don't fully map to AI system behaviors like uncertainty, latency, and non-determinism",
+        "Hedonic adaptation (users becoming desensitized to features over time) is flagged as a significant challenge for product engagement and novelty-driven design",
+        "Toggle switch design remains a persistent source of user confusion, with state ambiguity (does this show current state or action?) still unresolved in common implementations"
       ],
-      "implications": "Directly actionable for content designers, IA specialists, and anyone auditing site architecture — audit your highest-traffic landing pages against your homepage for orientation completeness. This is especially critical for editorial sites and SaaS marketing pages.",
+      "implications": "High-density reference for practitioners across multiple domains. The AI guidelines evolution item alone is worth reading in full if your team is actively designing AI-powered features. The hedonic adaptation point is underappreciated in product retention discussions.",
       "tags": [
-        "Information Architecture",
-        "Content Design",
-        "Web Design"
+        "AI Design",
+        "Design Guidelines",
+        "UI Patterns"
       ],
       "featured": true,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Creative Bloq",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd0ZUY1YzLXMySnpWOHZoZUFGRk1PdlM5ZGllbFlfWllTRE15MHVnWEhyZ2VWRERpME5vYzhqaFgzMFRVN1Q4Zzd5VmlMWWNQQ21YNEo0ZUR1dS1PTWdqX2k3SVpmZmFRTk0zNGk0OURxOTNXckNNblJvRHlVNkNoRnRNUDQ2Rmc4Y2hVcjNkZjYwTGE5SjRv?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 11:00:00 GMT"
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zaHRkdXJ1b09LLXl5NDljV2FlYTk4S3JnT3V6X2hwcTVpTC1od09wQlNWb3prOVBrWl95TWlZc0tuaDZ4SFFEeFFIelp5eFNDYW5tMmxZdVpVclVJVUZqMFd3djVCc25hYXc?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 11:21:09 GMT"
     },
     {
-      "headline": "182 animation grads placed — placement stat, not industry insight",
-      "background": "Chandigarh University issued a placement announcement for its animation and multimedia graduates across studios in animation, VFX, gaming, and film.",
+      "headline": "Figma Releases Liquid Glass Gallery of UI Components",
+      "background": "Apple's introduction of the 'liquid glass' visual design language in recent OS updates has prompted rapid response across the design tool ecosystem. Figma has published a gallery of components using this aesthetic, likely to help designers prototype or implement the style.",
       "keyFindings": [
-        "182 students placed across animation, VFX, gaming, digital media, and filmmaking sectors",
-        "Placement was through Chandigarh University's program — scope is institution-specific",
-        "No broader industry data or hiring trend analysis is included"
+        "Figma has released a component gallery specifically themed around the liquid glass visual style",
+        "The resource appears to be a community or official Figma file rather than a written guide",
+        "Liquid glass is Apple's translucent, depth-layered UI aesthetic introduced in recent platform updates"
       ],
-      "implications": "No generalizable UX or product implications. Relevant only to those researching animation education programs or Indian creative industry hiring pipelines.",
+      "implications": "Useful immediately for designers working on iOS or macOS apps who need to prototype with the new Apple visual language. Treat as a starting point — visual trends like this require careful accessibility review before shipping, particularly around contrast and legibility.",
       "tags": [
-        "Animation",
-        "Education",
-        "Placements"
+        "Design Systems",
+        "Figma",
+        "iOS Design"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
-      "publishedWindow": "week",
+      "publishedWindow": "today",
       "image": null,
-      "source": "TheWire.in",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQa3VSaFJrOHR0Z1BBeEdhOVI4Zi1Hdml0X3o5UjNZRHg2UFU3NjlKTHNSX01pa2pRM3ZtUHNKd0J4S3oyWnBjZHB4NmFQNmE1WGlVbm9Wc0VFd3lzdy0tdUpFUi0yTEl4ZTVBVWsxaXdRZ3RLa1pDLXZqai0wZzRrX1ZCZmQ1TFZ3a1lMeDhrc1Z3X2N0VExsNHp1WWd3RTFPRG1JY1hIMGJ5UEJ0N3hDb005Zk5SNEx5VHI1N0VNazhUeHpRQ3RJNDBLLU9XTXItVjFmVnlyVXdWQTVJRFNIc0xXaGNNVkhSQV9fQVQtNG1VXzlibWJmV29xZ9IBgAJBVV95cUxPMUx3bWxIWW1CUG9xeVptSUpEWFpEUlR4dnpMbG9FclBoWE1fX0pva0pQWERvUFVOcXBVcTNydkN0TFBiR3ZMaGVvZGg1U3VrWUxIcWtPVE5UTG9RVVJzb0VfNlloQnlWbXE3OGJETkJOanhCNUtMRElvRjVnbGtGWXBrUEQtN3FrUmU4a2kteHdxZ3huY0N4RGhKXzNmYkZ1QmVjdG1vUnhsSGYxVHhYWmJjUF90VHQwQnphYXFXdEpFT0JwLXNSd01nM1JuUVMxdGRXU2xWS2dUVEZfbjVPaHJMZUxZV0F0UXpkdkJLYkxHOFhwcndMNkdleWkwbEVw?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 09:23:58 GMT"
+      "source": "Figma",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOExjNWVYVlh0RzlDM3YtUzVUX05CaGZtZTFSUjJld0NhdVhnc3EzX3pKOGpuUm90MVF4RkhVdG5aaERDc0pDWFBNa3lyVzZmcVRZUmJ4b2J3blFNZWRtVTF0ZV81bEdLdlA1VUdjQXBRZHZkdHFyMWJXMmlRNDFCbW9xVQ?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 08:26:49 GMT"
     },
     {
-      "headline": "Vendor list: banking software dev companies for 2026",
-      "background": "Teams evaluating fintech development partners or banking software vendors face a fragmented and opaque market. TechBullion-style listicles attempt to provide shortlists but vary widely in rigor.",
+      "headline": "Woowa Builds AI Agent to Personalize Grocery Shopping in South Korea",
+      "background": "Delivery and quick-commerce platforms are increasingly experimenting with AI-driven personalization to increase basket size and retention. Woowa Brothers, operator of Baemin (one of South Korea's dominant delivery apps), has built an AI agent specifically for its B Mart grocery service.",
       "keyFindings": [
-        "Lists 21 companies identified as leading banking software development firms for 2026",
-        "Published by TechBullion — selection methodology is typically editorial or sponsored rather than independently audited",
-        "Covers a range of firms likely spanning custom development, core banking platforms, and fintech infrastructure"
+        "Woowa's AI agent tailors the B Mart shopping experience based on individual user behavior rather than broad segmentation",
+        "The agent is integrated into an existing quick-commerce product, not a standalone feature — suggesting production-level deployment",
+        "South Korea's quick-commerce market is highly competitive, making personalization a key differentiator rather than a novelty"
       ],
-      "implications": "Use as a starting directory only — TechBullion lists are not independently ranked and may include sponsored entries. Cross-reference any shortlisted vendor against client reviews on G2 or Clutch and request case studies before evaluating.",
+      "implications": "Relevant for product teams in e-commerce, grocery, or delivery verticals considering AI personalization investments. The Woowa case is notable because it's a live production deployment in a competitive market, not a prototype — which makes it a more credible reference point than most AI product announcements.",
       "tags": [
-        "Fintech",
-        "Vendor Selection",
-        "Banking Tech"
+        "AI Personalization",
+        "E-commerce",
+        "Conversational AI"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
-      "publishedWindow": "week",
+      "publishedWindow": "today",
       "image": null,
-      "source": "TechBullion",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEo3VXEweEJxVHJtS3NsS1hzWDBiYjhjdVVrNlRXZ2RsSXNaSl82eWM0YnpOa2lYRFhYVmttY1pKWHpRbmpCOUp2LWJqcy13bGF6QXZpWjdGSGowcmcwT3NxczNEZjZvMkRWckFuTzBjMmI5SWRDN1lXdWpNRHRPQ0xn?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 19:22:31 GMT"
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOFhsYmpxUlVQWUhfQnBqODhZazU4U191UTNkYmdwNXpVdDYxdzlYWVdvU0wwLS0yUU1Hd21OdjBMTkZPd1ZCRG02Y2k3a3RfWWpQSE5WbWgzaUxyZU80LU9RYmFpVGVCVU9EdnFKdGVMcHN3R3dBa0xIVG5fZmlGTkJVUmcwY2d5dUNsZmpFOWQ1bzDSAZMBQVVfeXFMTzhYbGJqcVJVUFlIX0Jwajg4WWs1OFNfdVEzZGJncDV6VXQ2MXc5WFlXb1NMMC0tMlFNR3dtTnYwTE5GT3dWQkRtNmNpN2t0X1lqUEhOVm1oM2lMcmVPNC1PUWJhaVRlQlVPRHZxSnRlTHBzd0d3QWtMSFRuX2ZpRk5CVVJnMGNneXVDbGZqRTlkNW8w?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 21:01:00 GMT"
     }
   ]
 }
