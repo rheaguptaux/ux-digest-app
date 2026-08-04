@@ -1,233 +1,235 @@
 {
-  "generatedAt": "2026-08-03T18:27:37.006Z",
+  "generatedAt": "2026-08-04T18:15:25.130Z",
   "items": [
     {
-      "headline": "Cutting Drop-Offs Between Investment Calls at Dezerv",
-      "background": "Fintech products that rely on human advisor calls face a specific retention problem: users who complete a first call often don't return for the follow-up, losing momentum and conversion. Dezerv, an Indian wealth management platform, tackled this funnel gap through targeted product design changes.",
+      "headline": "Best iPad apps for ebooks and comics in 2025",
+      "background": "iPad users have more reading app options than ever, but quality varies widely across ebooks, comics, and manga formats. Choosing the wrong app means DRM lock-in, poor rendering, or missing format support.",
       "keyFindings": [
-        "Drop-off between first and second advisor calls was identified as a primary conversion bottleneck",
-        "Design interventions focused on reducing friction and reinforcing value between the two call touchpoints",
-        "Iteration was grounded in behavioral observation of where and why users disengaged"
+        "Roundup covers 12 distinct apps segmented by use case including dedicated comic readers and general ebook platforms",
+        "App selection criteria likely includes format support (EPUB, CBZ, PDF, Comixology) and library integration",
+        "iPad-specific features like split-screen and Apple Pencil annotation support differentiate top picks"
       ],
-      "implications": "Relevant for product designers working on high-touch conversion flows where human interaction is part of the funnel. Pay attention to what happens between sessions, not just during them — dead zones between touchpoints are common failure points.",
+      "implications": "Useful reference if you're evaluating reading app UX patterns or researching how specialized content apps handle library management and offline access. Format lock-in remains a real consideration for users switching apps.",
       "tags": [
-        "Conversion Optimization",
-        "Fintech",
-        "Call Flows"
+        "Mobile apps",
+        "Content consumption",
+        "iPad"
       ],
       "featured": false,
-      "type": "opinion",
-      "category": "UX",
+      "type": "research",
+      "category": "Industry news",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*EAmxtodEYHL2nSXstfXZ_A.jpeg",
-      "source": "UX on Medium",
-      "link": "https://aparnaadsrwt4.medium.com/improving-dezervs-call-experience-a-product-design-case-study-8ab865abdb39?source=rss------ux-5",
-      "pubDate": "Mon, 03 Aug 2026 18:08:07 GMT"
+      "image": null,
+      "source": "bgr.com",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fTXAxSGlhVGhLUW1FbEVCZEZpTUxfaUVvUUgwc2tLUWNPeURVVWMya3ZPZFk0cW8zdGo0eVVRQ09KSjB6eDlobnRNZk9GVEJxdk9TVElsQmh0bzVzUkFGSUZUaEFna0F3?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 18:02:00 GMT"
     },
     {
-      "headline": "Iterating a Landing Page to Boost Expert Call Bookings",
-      "background": "Booking flows for expert consultations — common in fintech, health, and edtech — often underperform because landing pages don't adequately communicate value or reduce scheduling friction. This case study documents Dezerv's iterative design process for exactly this problem.",
+      "headline": "Digital humans need better interaction design, not prettier faces",
+      "background": "Investment in digital human avatars — for customer service, virtual assistants, and training — has largely focused on photorealism and animation fidelity. The interaction layer has received comparatively little design attention.",
       "keyFindings": [
-        "Multiple landing page iterations were tested to improve expert call booking rates",
-        "The case study focuses on how framing and page structure affect users' willingness to commit to a booking",
-        "Iteration was driven by observed drop-off data rather than aesthetic preference"
+        "The core argument is that uncanny-valley-adjacent animation improvements yield diminishing returns compared to fixing conversational responsiveness",
+        "Effective digital humans require turn-taking logic, interruptibility, and contextual memory — not just lip-sync accuracy",
+        "The piece reframes digital humans as interaction design problems, not rendering problems"
       ],
-      "implications": "A useful reference for designers working on any consultation or demo booking flow. The pattern of landing page → scheduling → follow-through is widely applicable beyond fintech.",
+      "implications": "For teams building conversational agents or avatar-based interfaces, this is a useful corrective: prioritize response latency, error recovery, and dialogue flow before investing further in visual fidelity.",
       "tags": [
-        "Landing Page Design",
-        "Fintech",
-        "Conversion Optimization"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2000/1*j_u94zqPwY2DRnFAfc1mlw.jpeg",
-      "source": "UX on Medium",
-      "link": "https://aparnaadsrwt4.medium.com/designing-a-landing-page-to-book-an-investment-expert-call-4754a8d7f736?source=rss------ux-5",
-      "pubDate": "Mon, 03 Aug 2026 18:05:54 GMT"
-    },
-    {
-      "headline": "Good Design Starts With Observation, Not Creativity",
-      "background": "There's a persistent myth in design culture that great output comes from innate creativity or ideation techniques. This piece pushes back on that, using the analogy of barbering to argue that careful, patient observation of the individual in front of you is the real foundation of quality work.",
-      "keyFindings": [
-        "The author argues observation of specific user behavior and context should precede any creative or generative design work",
-        "Barbering is used as a concrete analogy: a barber reads the client's hair, face shape, and preferences before picking up scissors",
-        "The piece positions creativity as a downstream output of good observation, not an input"
-      ],
-      "implications": "A useful framing to share in teams that over-index on brainstorming and ideation workshops before doing adequate discovery. Practical reminder to slow down the front end of the design process.",
-      "tags": [
-        "Design Process",
-        "Research Methods"
+        "Conversational UI",
+        "AI agents",
+        "Interaction design"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/798/1*ymHFwrmpTzKRULN7AZxQqw.png",
+      "image": "https://cdn-images-1.medium.com/max/1312/1*ISV_HcSli-dsZ0n2akPCyg.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@vijayakanth.art/im-not-just-a-designer-i-m-a-barber-331b7eacc3dc?source=rss------product_design-5",
-      "pubDate": "Mon, 03 Aug 2026 17:58:07 GMT"
+      "link": "https://medium.com/@riddhigondaliya/the-future-of-digital-humans-is-about-better-interaction-not-better-animation-77751b478242?source=rss------product_design-5",
+      "pubDate": "Tue, 04 Aug 2026 17:51:58 GMT"
     },
     {
-      "headline": "Static Personas Are Failing — AI Demands Behavioral States Instead",
-      "background": "User personas have been a UX staple for decades, but they're built on fixed demographic and psychographic profiles that don't reflect how real user needs shift moment to moment. As AI enables more adaptive interfaces, the mismatch between static personas and dynamic behavior is becoming a practical design problem.",
+      "headline": "Web performance still wins: the case for sub-2-second load times",
+      "background": "Performance optimization is a recurring theme in web UX, but concrete benchmarks and their business impact are frequently hand-waved. As visual complexity of sites increases in 2025-2026, load time discipline is slipping.",
       "keyFindings": [
-        "Traditional personas represent fixed user types, but actual user needs fluctuate based on context, mood, and intent — what the author calls 'behavioral states'",
-        "AI systems can theoretically adapt to these shifting states in real time, making static personas an inadequate design input",
-        "The piece proposes moving toward state-based models that capture transitions and triggers rather than stable user archetypes"
+        "Sites loading under 2 seconds are framed as a baseline expectation, not a competitive advantage, by 2026",
+        "Perceived performance techniques — skeleton screens, optimistic UI, prefetching — matter as much as raw load speed",
+        "Top-performing sites increasingly use edge delivery and aggressive asset caching to hit sub-2s targets consistently"
       ],
-      "implications": "Directly relevant for teams designing AI-powered or personalized products. If your personas haven't been updated to account for behavioral variability, your AI personalization logic may be built on flawed assumptions.",
+      "implications": "If your product team is treating performance as a phase-two concern, this is worth circulating. The 2-second framing is a useful internal benchmark, though actual impact varies significantly by audience, device, and network conditions.",
       "tags": [
-        "Personas",
-        "AI Design",
-        "Personalization"
+        "Performance",
+        "Web design",
+        "Core Web Vitals"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "UX on Medium",
+      "link": "https://medium.com/@WebdesignerDepot/the-2-second-rule-how-to-make-your-website-feel-like-magic-in-2026-b1d69abca9e6?source=rss------ux-5",
+      "pubDate": "Tue, 04 Aug 2026 17:49:07 GMT"
+    },
+    {
+      "headline": "No backend, no account: what a local-only fitness tracker taught me",
+      "background": "Privacy-first and account-free app design is gaining traction as a reaction to aggressive data collection and paywalled features in mainstream health apps. Few developers have documented the real tradeoffs of building this way.",
+      "keyFindings": [
+        "The app stores all data locally using browser storage or a similar client-side mechanism, eliminating server infrastructure costs entirely",
+        "No-account design removes onboarding friction but creates data portability and backup problems the developer had to solve explicitly",
+        "The developer found users were more willing to engage honestly with health data when they knew it wasn't being transmitted anywhere"
+      ],
+      "implications": "Relevant for product designers questioning default assumptions about accounts and cloud sync — local-first architecture is viable for certain tool categories but requires deliberate UX solutions for data loss risk and cross-device access.",
+      "tags": [
+        "Privacy design",
+        "Local-first",
+        "Product decisions"
       ],
       "featured": true,
       "type": "opinion",
-      "category": "Research",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1024/1*pWH9YaU88WNRxuA-3YAkQw.jpeg",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/anticipatory-design-lab/the-persona-paradox-in-the-age-of-ai-166a0ca8dc0e?source=rss------ux_research-5",
-      "pubDate": "Mon, 03 Aug 2026 17:55:23 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1180/1*OJ7ZmgVIQB0E3C3vCWxOcQ.png",
+      "source": "UX on Medium",
+      "link": "https://uhdozo.medium.com/i-built-a-free-fitness-tracker-with-no-backend-and-no-account-heres-what-i-learned-5fc961112a22?source=rss------ux-5",
+      "pubDate": "Tue, 04 Aug 2026 17:39:43 GMT"
     },
     {
-      "headline": "GSA and National Design Studio to Redesign Login.gov UX",
-      "background": "Login.gov is the federal government's centralized authentication platform used across dozens of agencies, but it has faced persistent usability criticism — particularly around onboarding, identity verification, and error handling. A formal partnership to overhaul its UX signals institutional acknowledgment of those failures.",
+      "headline": "What makes a product durable when AI can replicate features overnight",
+      "background": "Generative AI has dramatically compressed the time it takes to clone product features, forcing a reexamination of what actually creates sustainable product differentiation. This is an active strategic debate in product circles.",
       "keyFindings": [
-        "The GSA has partnered with the National Design Studio specifically to improve the Login.gov user experience",
-        "The effort targets a platform used by millions of Americans to access federal services, making scale and accessibility critical constraints",
-        "No specific redesign details are disclosed in the snippet, but the partnership signals a structured, resourced UX engagement rather than ad hoc fixes"
+        "The piece argues defensibility now comes from proprietary data, workflow embeddedness, and trust — not feature uniqueness",
+        "Products that sit at high-frequency decision points in a user's workflow are harder to displace than standalone tools",
+        "Community, network effects, and institutional knowledge accumulation are identified as AI-resistant moats"
       ],
-      "implications": "Worth tracking for anyone working in civic tech, government digital services, or identity/authentication UX. The Login.gov patterns that emerge from this effort are likely to influence federal UX standards more broadly.",
+      "implications": "Product managers and founders should audit their roadmaps for features that AI commoditizes versus capabilities that compound over time. Workflow integration and data network effects deserve more investment than surface-level feature parity.",
       "tags": [
-        "Government UX",
-        "Authentication",
-        "Accessibility"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "meritalk.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR1dScEZsZHotX0djUURTZFZ5SnJpVzVYeWxsckUyNVhkRjhHdlhJRlRxbGhxbXJTb2xfNlhka2p5S1R1Zmw3d3NnSnlCWEVGREstWERwMWRGZnJYSnZzVWpXRGtLSkZFSVZJLW1GdUFiRkN3TUt3STBWQWZDeWFJYVBFNU5EVWxkWVNLZGs5S3RKbzluWU5BT2xVYTZoV3lQcWZVeENUYk8tSE0?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 15:23:41 GMT"
-    },
-    {
-      "headline": "IIT Humanities Course Guide: Schools, Fees, Eligibility",
-      "background": "India's IITs are known for engineering and technology programs, but several now offer humanities and social science courses. This appears to be an informational guide targeting prospective students rather than UX or product practitioners.",
-      "keyFindings": [
-        "Multiple IITs in India offer humanities courses alongside technical programs",
-        "The piece covers eligibility criteria and fee structures across institutions",
-        "Content is informational and admissions-focused rather than research or practice-oriented"
-      ],
-      "implications": "This piece has no direct relevance to UX, product design, or tech practice. It appears to have been included in error or via broad topic tagging.",
-      "tags": [
-        "Education",
-        "India"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "College Mentor",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82bVI1a3Y4eHBOaTB0bVFyX0xIVVhfVjcxSDhiN2pNd19FWllEY3VVMnp4b2pBb0Z1NzMtekNONVV5ODhyb3M1OWhzM0ZMV3hUZ1FPeTFMTkhQUjNLcGdPV1EteFAyeFBmcTlHZ0Nzak1rd3VKVlE?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 14:49:36 GMT"
-    },
-    {
-      "headline": "4 UX Principles That Reduce Patient Stress in Healthcare Apps",
-      "background": "Healthcare digital products face a dual retention problem: they serve users who are often anxious or vulnerable, and who may distrust digital systems with sensitive health data. Poor UX in this context doesn't just hurt conversion — it can cause real harm or drive patients away from care.",
-      "keyFindings": [
-        "Trust-centric design is framed around four specific principles, though the snippet doesn't name them — the full piece does",
-        "Reducing patient stress is positioned as a retention mechanism, not just an ethical consideration",
-        "The piece draws on healthcare IT context, suggesting findings are grounded in clinical or health system deployments rather than consumer wellness apps"
-      ],
-      "implications": "Applicable to anyone designing patient-facing digital health tools. The framing of trust as a retention lever (not just a compliance requirement) is a useful reframe for product and business stakeholders who need ROI justification for accessibility and empathy-driven design choices.",
-      "tags": [
-        "Healthcare UX",
-        "Trust",
-        "Emotional Design"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Healthcare IT Today",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb0liRmI5UGh5YWNKcHhZQ1Mxd1lDN3BiUEd6QzlNdDlTdlVlY2xSYldZdXlGZHl2NEZpVERFenFNRFg5N3dvU0VZb1ZoV3JTTFVpczhUQy1KX21WdkhOZWJsR2h6MWQ5NGVPSU0tTHFMOWh1c0JvY1BCaTFDaWgtN1ZYc2g4RUVzenNQMnIyYV9RMmNPRU9nSmlkU2xLb1dYTGV4RHl4NGZPenpxTHNCMHhPN0JqSmJ0Q2VhbG1OeVVQMVVVTVE?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 14:01:53 GMT"
-    },
-    {
-      "headline": "Nielsen's Roundup: AI Design Guidelines, Toggle Switches, Hedonic Adaptation",
-      "background": "Jakob Nielsen's UX newsletter regularly synthesizes emerging research and evolving practice standards across multiple topics at once. This edition covers a wide range: how design guidelines are shifting for AI interfaces, user anxiety around AI, toggle switch usability, hedonic adaptation effects, and glanceable monitoring UI.",
-      "keyFindings": [
-        "Design guidelines for AI interfaces are actively being revised — existing heuristics don't fully map to AI system behaviors like uncertainty, latency, and non-determinism",
-        "Hedonic adaptation (users becoming desensitized to features over time) is flagged as a significant challenge for product engagement and novelty-driven design",
-        "Toggle switch design remains a persistent source of user confusion, with state ambiguity (does this show current state or action?) still unresolved in common implementations"
-      ],
-      "implications": "High-density reference for practitioners across multiple domains. The AI guidelines evolution item alone is worth reading in full if your team is actively designing AI-powered features. The hedonic adaptation point is underappreciated in product retention discussions.",
-      "tags": [
-        "AI Design",
-        "Design Guidelines",
-        "UI Patterns"
+        "Product strategy",
+        "AI tools",
+        "Competitive differentiation"
       ],
       "featured": true,
-      "type": "research",
-      "category": "Industry news",
+      "type": "opinion",
+      "category": "Product design",
       "publishedWindow": "today",
       "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zaHRkdXJ1b09LLXl5NDljV2FlYTk4S3JnT3V6X2hwcTVpTC1od09wQlNWb3prOVBrWl95TWlZc0tuaDZ4SFFEeFFIelp5eFNDYW5tMmxZdVpVclVJVUZqMFd3djVCc25hYXc?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 11:21:09 GMT"
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@designer.daye/how-to-build-products-that-survive-the-ai-era-35bbd5efe33f?source=rss------product_design-5",
+      "pubDate": "Tue, 04 Aug 2026 17:07:05 GMT"
     },
     {
-      "headline": "Figma Releases Liquid Glass Gallery of UI Components",
-      "background": "Apple's introduction of the 'liquid glass' visual design language in recent OS updates has prompted rapid response across the design tool ecosystem. Figma has published a gallery of components using this aesthetic, likely to help designers prototype or implement the style.",
+      "headline": "Streaming UX is still frustrating users — are platforms doing enough",
+      "background": "Subscription fatigue and content fragmentation across streaming platforms have made discovery, navigation, and account management persistent pain points. Platforms have added features but user satisfaction scores have not uniformly improved.",
       "keyFindings": [
-        "Figma has released a component gallery specifically themed around the liquid glass visual style",
-        "The resource appears to be a community or official Figma file rather than a written guide",
-        "Liquid glass is Apple's translucent, depth-layered UI aesthetic introduced in recent platform updates"
+        "Key UX complaints include poor search across libraries, aggressive upsell prompts interrupting viewing, and inconsistent profile management",
+        "Recommendation algorithms are improving watch-time metrics but not necessarily user-reported satisfaction with content discovery",
+        "Some platforms are beginning to A/B test simplified navigation in response to churn data"
       ],
-      "implications": "Useful immediately for designers working on iOS or macOS apps who need to prototype with the new Apple visual language. Treat as a starting point — visual trends like this require careful accessibility review before shipping, particularly around contrast and legibility.",
+      "implications": "Streaming UX offers instructive case studies in the tension between engagement optimization and genuine user satisfaction — particularly relevant for subscription product designers weighing retention mechanics against user trust.",
       "tags": [
-        "Design Systems",
-        "Figma",
-        "iOS Design"
+        "Streaming",
+        "Subscription UX",
+        "Content discovery"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Figma",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOExjNWVYVlh0RzlDM3YtUzVUX05CaGZtZTFSUjJld0NhdVhnc3EzX3pKOGpuUm90MVF4RkhVdG5aaERDc0pDWFBNa3lyVzZmcVRZUmJ4b2J3blFNZWRtVTF0ZV81bEdLdlA1VUdjQXBRZHZkdHFyMWJXMmlRNDFCbW9xVQ?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 08:26:49 GMT"
+      "source": "The Streamable",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSEY4dlQ3bVlVNHZSV29JT29DY0g4Y2gzUnpCQlRoOUtxdTBDcWtjMjlMXy1kM1kwcW41TmtNeVYtb0RlZnc3RzcxM0NMc1J0NmN1c1pCOG1LZTRRbkFYenR4d0YzUjZ0TVlWdGVLcFZHT3BhTjQ2bURicTlQdDZMRWo2Yw?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 16:30:00 GMT"
     },
     {
-      "headline": "Woowa Builds AI Agent to Personalize Grocery Shopping in South Korea",
-      "background": "Delivery and quick-commerce platforms are increasingly experimenting with AI-driven personalization to increase basket size and retention. Woowa Brothers, operator of Baemin (one of South Korea's dominant delivery apps), has built an AI agent specifically for its B Mart grocery service.",
+      "headline": "Codal wins award for Bisco Systems commerce integration",
+      "background": "B2B e-commerce integrations — particularly for industrial distributors — involve complex ERP and inventory system connections that frequently create UX degradation at the front end.",
       "keyFindings": [
-        "Woowa's AI agent tailors the B Mart shopping experience based on individual user behavior rather than broad segmentation",
-        "The agent is integrated into an existing quick-commerce product, not a standalone feature — suggesting production-level deployment",
-        "South Korea's quick-commerce market is highly competitive, making personalization a key differentiator rather than a novelty"
+        "Codal received the 2026 Connected Commerce Award specifically for integrating Bisco Systems' backend infrastructure with a functional commerce experience",
+        "The project is positioned as a case study in making complex B2B catalog and ordering systems usable",
+        "Award issued by an industry body focused on connected commerce architecture"
       ],
-      "implications": "Relevant for product teams in e-commerce, grocery, or delivery verticals considering AI personalization investments. The Woowa case is notable because it's a live production deployment in a competitive market, not a prototype — which makes it a more credible reference point than most AI product announcements.",
+      "implications": "Primarily relevant as a vendor case study reference. Teams evaluating agencies for complex B2B commerce work may find the Bisco integration worth examining for technical and UX approach.",
       "tags": [
-        "AI Personalization",
-        "E-commerce",
-        "Conversational AI"
+        "B2B commerce",
+        "Systems integration",
+        "Agency work"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOFhsYmpxUlVQWUhfQnBqODhZazU4U191UTNkYmdwNXpVdDYxdzlYWVdvU0wwLS0yUU1Hd21OdjBMTkZPd1ZCRG02Y2k3a3RfWWpQSE5WbWgzaUxyZU80LU9RYmFpVGVCVU9EdnFKdGVMcHN3R3dBa0xIVG5fZmlGTkJVUmcwY2d5dUNsZmpFOWQ1bzDSAZMBQVVfeXFMTzhYbGJqcVJVUFlIX0Jwajg4WWs1OFNfdVEzZGJncDV6VXQ2MXc5WFlXb1NMMC0tMlFNR3dtTnYwTE5GT3dWQkRtNmNpN2t0X1lqUEhOVm1oM2lMcmVPNC1PUWJhaVRlQlVPRHZxSnRlTHBzd0d3QWtMSFRuX2ZpRk5CVVJnMGNneXVDbGZqRTlkNW8w?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 21:01:00 GMT"
+      "source": "Digital Journal",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMEZOSC1TbzE1T1BfM1czSXl2YUJFT3JZQ00xTkY4WEdrRW5WNnhmUlpiaDlia3NnZW1aYWprenBXVkZsQ3lIS0RLaGJ4T1F3aGpTUU5rckIxeUhUREZTWG13Z0o0QnhBMGhoZHhCUlF3ZUlTOUxJUENGNEhWUmRlSWFLUFl3eVZyNVdQMlFCRGxvSEdJYTJwRWEyaXNTWnc?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 14:59:24 GMT"
+    },
+    {
+      "headline": "Guide to top US fintech software development firms for 2026",
+      "background": "Fintech product teams frequently need to evaluate external development partners for compliance-sensitive features like payments, KYC, and lending infrastructure. Vendor landscape guides are widely searched but often poorly sourced.",
+      "keyFindings": [
+        "The guide segments companies by fintech specialty area rather than just size or general capability",
+        "Evaluation criteria referenced include regulatory compliance experience, API-first architecture, and security certifications",
+        "US-focused scope limits applicability for teams working with offshore or European regulatory contexts"
+      ],
+      "implications": "Treat as a starting-point reference only — vendor lists in this format are typically influenced by paid placement. Cross-reference shortlisted firms against independent reviews and verifiable case studies before engaging.",
+      "tags": [
+        "Fintech",
+        "Vendor selection",
+        "Software development"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "finchannel",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZm54bTh2b3kzbll5WnQ4M1hsWEo0bWFfaDhaOGRXa2VhNXBFaGxvdU5QVE5qVmpBeU5tNnFiVWNteTZpVFZ4NUdpR0JvUlBIbWlYN1h0cTNtcXFid2lDakVFLUUzckNBM1hmTjdlRHFod2pNdlhqSFd4UlVzOW5OV05rVEZXelJlSzdFbXJ3RHQwMkFHa1gtT3RWZndDQWV1TFZFak1RSHIwZ3JKby1VaWZUWmhVa1pvYW12NFpvVnA4dmlJeUln?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 14:34:57 GMT"
+    },
+    {
+      "headline": "GSA and National Design Studio to redesign Login.gov experience",
+      "background": "Login.gov is the federal government's shared authentication service used across dozens of agencies, but it has faced consistent criticism for confusing flows, identity verification friction, and accessibility gaps affecting millions of users.",
+      "keyFindings": [
+        "GSA has formally partnered with the National Design Studio to lead a structured UX overhaul of Login.gov",
+        "The initiative targets authentication flows, identity proofing steps, and accessibility compliance across the platform",
+        "This represents a significant public-sector UX investment affecting a system used by an estimated 40+ million Americans"
+      ],
+      "implications": "Worth following for practitioners in civic tech, accessibility, or government digital services — the Login.gov redesign will likely produce public-facing documentation and potentially open-source patterns applicable to identity verification UX broadly.",
+      "tags": [
+        "Government UX",
+        "Accessibility",
+        "Identity verification"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Homeland Security Today",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTGtVd0dobklmTkRYNkNiT1FpY1hPamZ3X0JYTjdyM0R1bWxNRlNNdDI1Mi1rNndjODdBLTJLRjJYVGItZ0V2UGZLZ1E0TWVkNmdpeTdTdzZaQ3hubUE2aEd5VGNUcjFIcy0xdlhLMFdUQXhKbGR2SUlhcURTOHpWNldZMWZBazVpcDdqTDZsSmo3eFdkMk1WVENsTHhoV0FvZXVQLUE0UWp1SjZQSGhlaDlqdmFnRF91bWlpbFMyS3ZiR0pqaU4yeWl3MA?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 13:42:32 GMT"
+    },
+    {
+      "headline": "How to pick an LMS development partner for custom education software",
+      "background": "Organizations building custom learning management systems face a fragmented vendor market where generalist developers often underestimate the complexity of SCORM compliance, adaptive learning, and multi-tenant architecture.",
+      "keyFindings": [
+        "Key evaluation criteria include experience with SCORM/xAPI standards, support for accessibility requirements (WCAG 2.1), and prior LMS-specific portfolio work",
+        "The guide recommends prioritizing vendors with modular architecture experience to avoid costly rebuilds as feature needs evolve",
+        "Discovery and requirements definition process is flagged as a major differentiator between competent and problematic vendors"
+      ],
+      "implications": "Useful checklist for product or procurement teams scoping an LMS build — the SCORM and accessibility flags in particular are easy to overlook until they become expensive problems late in development.",
+      "tags": [
+        "EdTech",
+        "LMS",
+        "Vendor selection"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "newsonjapan.com",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wSXRYOEo0RnoyNzJsdzM5VzNXUEp2OXc0bThlSFdKM3dSS1FvRHZwRFZibGc3aWJOdE5nb09GWG56dURjOVAyS3FqeHpPMXpTSV9qLQ?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 12:29:37 GMT"
     }
   ]
 }
