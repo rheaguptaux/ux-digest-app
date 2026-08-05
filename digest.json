@@ -1,235 +1,233 @@
 {
-  "generatedAt": "2026-08-04T18:15:25.130Z",
+  "generatedAt": "2026-08-05T17:14:05.438Z",
   "items": [
     {
-      "headline": "Best iPad apps for ebooks and comics in 2025",
-      "background": "iPad users have more reading app options than ever, but quality varies widely across ebooks, comics, and manga formats. Choosing the wrong app means DRM lock-in, poor rendering, or missing format support.",
+      "headline": "IoT, AR, and Spatial Computing Need Unified UX Strategy",
+      "background": "As products increasingly span physical and digital touchpoints — from IoT sensors to AR overlays to spatial computing interfaces — designers face the challenge of creating coherent experiences across radically different interaction paradigms. Most existing UX frameworks were built for screen-based, single-device contexts.",
       "keyFindings": [
-        "Roundup covers 12 distinct apps segmented by use case including dedicated comic readers and general ebook platforms",
-        "App selection criteria likely includes format support (EPUB, CBZ, PDF, Comixology) and library integration",
-        "iPad-specific features like split-screen and Apple Pencil annotation support differentiate top picks"
+        "Omnichannel ecosystems require designing for simultaneous data flows across IoT, AR, and spatial layers rather than sequential user journeys",
+        "Collaborative spatial environments introduce new UX considerations around shared state, latency, and multi-user presence",
+        "AR and spatial computing demand context-aware design that adapts to physical environment variables screens don't have"
       ],
-      "implications": "Useful reference if you're evaluating reading app UX patterns or researching how specialized content apps handle library management and offline access. Format lock-in remains a real consideration for users switching apps.",
+      "implications": "Designers working on connected product ecosystems should audit whether their current design systems account for non-screen interaction states. This is most immediately relevant to teams building enterprise tools, smart home products, or industrial applications.",
       "tags": [
-        "Mobile apps",
-        "Content consumption",
-        "iPad"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "bgr.com",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fTXAxSGlhVGhLUW1FbEVCZEZpTUxfaUVvUUgwc2tLUWNPeURVVWMya3ZPZFk0cW8zdGo0eVVRQ09KSjB6eDlobnRNZk9GVEJxdk9TVElsQmh0bzVzUkFGSUZUaEFna0F3?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 18:02:00 GMT"
-    },
-    {
-      "headline": "Digital humans need better interaction design, not prettier faces",
-      "background": "Investment in digital human avatars — for customer service, virtual assistants, and training — has largely focused on photorealism and animation fidelity. The interaction layer has received comparatively little design attention.",
-      "keyFindings": [
-        "The core argument is that uncanny-valley-adjacent animation improvements yield diminishing returns compared to fixing conversational responsiveness",
-        "Effective digital humans require turn-taking logic, interruptibility, and contextual memory — not just lip-sync accuracy",
-        "The piece reframes digital humans as interaction design problems, not rendering problems"
-      ],
-      "implications": "For teams building conversational agents or avatar-based interfaces, this is a useful corrective: prioritize response latency, error recovery, and dialogue flow before investing further in visual fidelity.",
-      "tags": [
-        "Conversational UI",
-        "AI agents",
-        "Interaction design"
+        "Spatial Computing",
+        "IoT",
+        "Omnichannel Design"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1312/1*ISV_HcSli-dsZ0n2akPCyg.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*eypvSjdL6ISnP0oEcndKWg.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@riddhigondaliya/the-future-of-digital-humans-is-about-better-interaction-not-better-animation-77751b478242?source=rss------product_design-5",
-      "pubDate": "Tue, 04 Aug 2026 17:51:58 GMT"
+      "link": "https://medium.com/@javier.irala.design/designing-an-omnichannel-collaborative-ecosystem-iot-ar-and-spatial-computing-8deb5cd25415?source=rss------product_design-5",
+      "pubDate": "Wed, 05 Aug 2026 16:49:29 GMT"
     },
     {
-      "headline": "Web performance still wins: the case for sub-2-second load times",
-      "background": "Performance optimization is a recurring theme in web UX, but concrete benchmarks and their business impact are frequently hand-waved. As visual complexity of sites increases in 2025-2026, load time discipline is slipping.",
+      "headline": "Being Data-Driven Means Choosing the Right Data First",
+      "background": "Product teams often default to tracking whatever metrics are easiest to instrument, then struggle to extract meaningful decisions from dashboards full of noise. This piece, written in Portuguese, addresses the foundational problem of data selection before analysis.",
       "keyFindings": [
-        "Sites loading under 2 seconds are framed as a baseline expectation, not a competitive advantage, by 2026",
-        "Perceived performance techniques — skeleton screens, optimistic UI, prefetching — matter as much as raw load speed",
-        "Top-performing sites increasingly use edge delivery and aggressive asset caching to hit sub-2s targets consistently"
+        "Being data-driven requires deliberately selecting which data is relevant to a specific decision, not interpreting all available data",
+        "Dashboards are outputs of a data strategy, not a substitute for one",
+        "Product decisions without a defined question first lead to confirmation bias in metric interpretation"
       ],
-      "implications": "If your product team is treating performance as a phase-two concern, this is worth circulating. The 2-second framing is a useful internal benchmark, though actual impact varies significantly by audience, device, and network conditions.",
+      "implications": "Before instrumenting a new feature, define the decision the data needs to support. This applies especially to early-stage product teams tempted to over-instrument and under-interpret. Note: article is in Portuguese.",
       "tags": [
-        "Performance",
-        "Web design",
-        "Core Web Vitals"
+        "Product Analytics",
+        "Data-Driven Design",
+        "Decision Making"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": null,
+      "image": "https://cdn-images-1.medium.com/max/2600/0*ntWGOiIjBMLEtfaE",
       "source": "UX on Medium",
-      "link": "https://medium.com/@WebdesignerDepot/the-2-second-rule-how-to-make-your-website-feel-like-magic-in-2026-b1d69abca9e6?source=rss------ux-5",
-      "pubDate": "Tue, 04 Aug 2026 17:49:07 GMT"
+      "link": "https://medium.com/@mayumiz/show-me-the-data-nem-sei-por-onde-come%C3%A7ar-d3e8da55dcd0?source=rss------ux-5",
+      "pubDate": "Wed, 05 Aug 2026 16:47:41 GMT"
     },
     {
-      "headline": "No backend, no account: what a local-only fitness tracker taught me",
-      "background": "Privacy-first and account-free app design is gaining traction as a reaction to aggressive data collection and paywalled features in mainstream health apps. Few developers have documented the real tradeoffs of building this way.",
+      "headline": "The Real UX Question: What Does Good Judgment Look Like Now?",
+      "background": "The AI-replaces-designers debate has dominated UX discourse, but it arguably distracts from a more pressing shift: if task-completion efficiency is no longer the primary UX benchmark, what is? This piece argues the profession needs to redefine its core success criteria.",
       "keyFindings": [
-        "The app stores all data locally using browser storage or a similar client-side mechanism, eliminating server infrastructure costs entirely",
-        "No-account design removes onboarding friction but creates data portability and backup problems the developer had to solve explicitly",
-        "The developer found users were more willing to engage honestly with health data when they knew it wasn't being transmitted anywhere"
+        "Task completion speed as the dominant UX metric is becoming obsolete as AI handles more rote interactions",
+        "The more consequential design challenge is how to support user judgment, trust, and agency in AI-mediated systems",
+        "UX value is shifting from interaction efficiency toward outcomes like comprehension, confidence, and appropriate reliance on AI"
       ],
-      "implications": "Relevant for product designers questioning default assumptions about accounts and cloud sync — local-first architecture is viable for certain tool categories but requires deliberate UX solutions for data loss risk and cross-device access.",
+      "implications": "Practitioners should revisit how they're defining success metrics for AI-assisted features — click-through and task-time data may not capture whether users are making better decisions. Relevant to anyone designing AI-facing interfaces.",
       "tags": [
-        "Privacy design",
-        "Local-first",
-        "Product decisions"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1180/1*OJ7ZmgVIQB0E3C3vCWxOcQ.png",
-      "source": "UX on Medium",
-      "link": "https://uhdozo.medium.com/i-built-a-free-fitness-tracker-with-no-backend-and-no-account-heres-what-i-learned-5fc961112a22?source=rss------ux-5",
-      "pubDate": "Tue, 04 Aug 2026 17:39:43 GMT"
-    },
-    {
-      "headline": "What makes a product durable when AI can replicate features overnight",
-      "background": "Generative AI has dramatically compressed the time it takes to clone product features, forcing a reexamination of what actually creates sustainable product differentiation. This is an active strategic debate in product circles.",
-      "keyFindings": [
-        "The piece argues defensibility now comes from proprietary data, workflow embeddedness, and trust — not feature uniqueness",
-        "Products that sit at high-frequency decision points in a user's workflow are harder to displace than standalone tools",
-        "Community, network effects, and institutional knowledge accumulation are identified as AI-resistant moats"
-      ],
-      "implications": "Product managers and founders should audit their roadmaps for features that AI commoditizes versus capabilities that compound over time. Workflow integration and data network effects deserve more investment than surface-level feature parity.",
-      "tags": [
-        "Product strategy",
-        "AI tools",
-        "Competitive differentiation"
+        "AI in Design",
+        "UX Metrics",
+        "Design Strategy"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": null,
+      "image": "https://cdn-images-1.medium.com/max/1536/1*raQ1Ow8pZumPp5NL0EiQ7g.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@designer.daye/how-to-build-products-that-survive-the-ai-era-35bbd5efe33f?source=rss------product_design-5",
-      "pubDate": "Tue, 04 Aug 2026 17:07:05 GMT"
+      "link": "https://medium.com/@DikshaJangra/the-biggest-ux-question-isnt-will-ai-replace-designers-it-s-something-far-more-interesting-b33cdf12cdc0?source=rss------product_design-5",
+      "pubDate": "Wed, 05 Aug 2026 16:35:25 GMT"
     },
     {
-      "headline": "Streaming UX is still frustrating users — are platforms doing enough",
-      "background": "Subscription fatigue and content fragmentation across streaming platforms have made discovery, navigation, and account management persistent pain points. Platforms have added features but user satisfaction scores have not uniformly improved.",
+      "headline": "Paper Proposes a Web-Native Rethink of the Design Canvas",
+      "background": "Figma and similar tools treat the design canvas as a flat, file-based workspace that exports to the web. This piece proposes an alternative model where the canvas is architecturally aligned with how the web actually works, rather than abstracting away from it.",
       "keyFindings": [
-        "Key UX complaints include poor search across libraries, aggressive upsell prompts interrupting viewing, and inconsistent profile management",
-        "Recommendation algorithms are improving watch-time metrics but not necessarily user-reported satisfaction with content discovery",
-        "Some platforms are beginning to A/B test simplified navigation in response to churn data"
+        "Current design canvases model documents, not the web's linked, stateful, and responsive nature",
+        "A web-native canvas would treat components as live web constructs rather than visual proxies for them",
+        "The gap between design canvas and browser output is the source of significant handoff friction and fidelity loss"
       ],
-      "implications": "Streaming UX offers instructive case studies in the tension between engagement optimization and genuine user satisfaction — particularly relevant for subscription product designers weighing retention mechanics against user trust.",
+      "implications": "This is a conceptual piece rather than a product announcement, but it's useful for teams evaluating design tooling or building internal design systems — particularly those frustrated by design-to-code translation gaps.",
       "tags": [
-        "Streaming",
-        "Subscription UX",
-        "Content discovery"
+        "Design Tooling",
+        "Design Systems",
+        "Web Standards"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*qlzTDzgX37p6j3aAdjCtDg.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@nike_thana/paper-the-canvas-that-speaks-the-web-168b7a0523af?source=rss------product_design-5",
+      "pubDate": "Wed, 05 Aug 2026 16:31:01 GMT"
+    },
+    {
+      "headline": "Zillow Cuts 91 Jobs in Washington, Senior Roles Hit Hardest",
+      "background": "Zillow has undergone multiple rounds of restructuring since shutting down its iBuying business in 2021. This latest round of cuts in its home-state workforce continues a broader pattern of tech companies trimming senior and specialized headcount.",
+      "keyFindings": [
+        "91 employees in Washington state were laid off in this round",
+        "Senior-level roles were disproportionately affected, suggesting cost-driven restructuring rather than capability gaps",
+        "Zillow has not publicly detailed which product or design teams were affected"
+      ],
+      "implications": "For UX and product professionals in the proptech or real estate tech sector, this signals continued instability at one of the category's largest employers. Senior practitioners should note that tenure and seniority are not insulating factors in current tech layoffs.",
+      "tags": [
+        "Tech Layoffs",
+        "Proptech",
+        "Industry Trends"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "The Streamable",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSEY4dlQ3bVlVNHZSV29JT29DY0g4Y2gzUnpCQlRoOUtxdTBDcWtjMjlMXy1kM1kwcW41TmtNeVYtb0RlZnc3RzcxM0NMc1J0NmN1c1pCOG1LZTRRbkFYenR4d0YzUjZ0TVlWdGVLcFZHT3BhTjQ2bURicTlQdDZMRWo2Yw?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 16:30:00 GMT"
+      "source": "geekwire.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbWsyM1JleS1qcmZ0SEFfSnkxN0EzcmFtUm1xWGhZNE0wRHNRQ3RTcUFhNGxybktaQ1BhcG9pcTJiSVJzeTRhd0dQWWdNckM3U1BSdElXWUIxa0tnOWh5YnlXQXVqT3RveEotWjdNN2pYN19UVDNwM0Y0VjVWRVNrQ1pZVWdrM3ppc210WGp1VnN4OUZuUDBNUnY4VXpqUk53MDZXbWVzQWRoc3E4eHRSdmZMRQ?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 14:44:06 GMT"
     },
     {
-      "headline": "Codal wins award for Bisco Systems commerce integration",
-      "background": "B2B e-commerce integrations — particularly for industrial distributors — involve complex ERP and inventory system connections that frequently create UX degradation at the front end.",
+      "headline": "UX Bootcamp Ad Disguised as Editorial Content",
+      "background": "Training program promotions frequently appear in UX content feeds dressed as editorial articles. This entry is a promotional piece for an in-person UI/UX training program in Pune, India, published on a user-contributed content platform.",
       "keyFindings": [
-        "Codal received the 2026 Connected Commerce Award specifically for integrating Bisco Systems' backend infrastructure with a functional commerce experience",
-        "The project is positioned as a case study in making complex B2B catalog and ordering systems usable",
-        "Award issued by an industry body focused on connected commerce architecture"
+        "This is a promotional listing for a UI/UX training course, not editorial or research content",
+        "The piece offers no original findings, frameworks, or data",
+        "Published on Kompasiana, an Indonesian user-generated content platform"
       ],
-      "implications": "Primarily relevant as a vendor case study reference. Teams evaluating agencies for complex B2B commerce work may find the Bisco integration worth examining for technical and UX approach.",
+      "implications": "No actionable findings for practitioners. Included for transparency in this digest batch.",
       "tags": [
-        "B2B commerce",
-        "Systems integration",
-        "Agency work"
+        "Training",
+        "Sponsored Content"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Digital Journal",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMEZOSC1TbzE1T1BfM1czSXl2YUJFT3JZQ00xTkY4WEdrRW5WNnhmUlpiaDlia3NnZW1aYWprenBXVkZsQ3lIS0RLaGJ4T1F3aGpTUU5rckIxeUhUREZTWG13Z0o0QnhBMGhoZHhCUlF3ZUlTOUxJUENGNEhWUmRlSWFLUFl3eVZyNVdQMlFCRGxvSEdJYTJwRWEyaXNTWnc?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 14:59:24 GMT"
+      "source": "Kompasiana.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdEg2SHNmcXNuWnRoaGpVa0NHSWlLeDc4VXp4M3Q3TzVpUmtTcU5IOHNwWTVoRjNsT0UxMUhXanJYRFFnTnh6ODl4RWNMQi1NakJvVmExbTd5dGx4Um5vVnh0Z1B1cExMWENSV1VLa0JjLUYyTm5mYkVVYTVZNjBTaFZDc0psQ2VmNjZ2ajBhcmVlM0g0Qm44Wk9Pbm91UXJPeUltMmFCQk9UMHpwcHg1LXQ1OTY2ZllSVXVfdDJDaXk5M014aHg1T2MtazA?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 12:57:28 GMT"
     },
     {
-      "headline": "Guide to top US fintech software development firms for 2026",
-      "background": "Fintech product teams frequently need to evaluate external development partners for compliance-sensitive features like payments, KYC, and lending infrastructure. Vendor landscape guides are widely searched but often poorly sourced.",
+      "headline": "ZoCo Design Convenes Ohio Health Leaders Around UX Challenges",
+      "background": "Healthcare UX remains fragmented, with individual health systems and vendors often solving the same usability and workflow problems in isolation. ZoCo, a health-focused UX consultancy, hosted a convening aimed at identifying shared challenges across Ohio health organizations.",
       "keyFindings": [
-        "The guide segments companies by fintech specialty area rather than just size or general capability",
-        "Evaluation criteria referenced include regulatory compliance experience, API-first architecture, and security certifications",
-        "US-focused scope limits applicability for teams working with offshore or European regulatory contexts"
+        "The event focused on identifying cross-organizational UX problems in healthcare rather than showcasing individual solutions",
+        "Participating organizations included health system leaders, suggesting buy-in at the operational level",
+        "No specific research outputs or findings have been published from the convening yet"
       ],
-      "implications": "Treat as a starting-point reference only — vendor lists in this format are typically influenced by paid placement. Cross-reference shortlisted firms against independent reviews and verifiable case studies before engaging.",
+      "implications": "For UX practitioners in healthcare, this signals growing appetite for consortium-based UX research — an approach that could yield more generalizable findings than single-institution studies. Worth monitoring for published outputs.",
       "tags": [
-        "Fintech",
-        "Vendor selection",
-        "Software development"
+        "Healthcare UX",
+        "Research Methods",
+        "Stakeholder Engagement"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "finchannel",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZm54bTh2b3kzbll5WnQ4M1hsWEo0bWFfaDhaOGRXa2VhNXBFaGxvdU5QVE5qVmpBeU5tNnFiVWNteTZpVFZ4NUdpR0JvUlBIbWlYN1h0cTNtcXFid2lDakVFLUUzckNBM1hmTjdlRHFod2pNdlhqSFd4UlVzOW5OV05rVEZXelJlSzdFbXJ3RHQwMkFHa1gtT3RWZndDQWV1TFZFak1RSHIwZ3JKby1VaWZUWmhVa1pvYW12NFpvVnA4dmlJeUln?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 14:34:57 GMT"
+      "source": "Ohio Tech News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR1ZrRXZURHpzVEFLRC1oY2NMalRvUmxFZExNY0V0eDVIN0ktVlM4eExXN0U5eW81N0RsRzhJR2h3NXVhVzIwNWxNOWN5TTgtZWN2cTBwb2ZkS0NWbWhFMlh0UHY0OE1IWUJENzZLMjRoM1ZScTZhZjlHZk8tbVdiNEJSMi1YcUVweWlfcnZfb3NuSWxMazhGUWpJMzNrckYtNVRR?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 11:24:36 GMT"
     },
     {
-      "headline": "GSA and National Design Studio to redesign Login.gov experience",
-      "background": "Login.gov is the federal government's shared authentication service used across dozens of agencies, but it has faced consistent criticism for confusing flows, identity verification friction, and accessibility gaps affecting millions of users.",
+      "headline": "iF Design Opens UK Office in London",
+      "background": "iF Design Award is one of the most recognized international design prizes, historically centered in Germany. Opening a UK representative office represents a geographic expansion of their industry presence post-Brexit.",
       "keyFindings": [
-        "GSA has formally partnered with the National Design Studio to lead a structured UX overhaul of Login.gov",
-        "The initiative targets authentication flows, identity proofing steps, and accessibility compliance across the platform",
-        "This represents a significant public-sector UX investment affecting a system used by an estimated 40+ million Americans"
+        "iF Design has established a new representative office in London",
+        "The move extends iF's regional footprint into the UK market independently of its German headquarters",
+        "No details provided on specific programs, award submissions, or events tied to the UK office"
       ],
-      "implications": "Worth following for practitioners in civic tech, accessibility, or government digital services — the Login.gov redesign will likely produce public-facing documentation and potentially open-source patterns applicable to identity verification UX broadly.",
+      "implications": "Minimal immediate impact for practitioners. UK-based designers and agencies seeking iF award submissions or partnerships may find local representation more accessible going forward.",
       "tags": [
-        "Government UX",
-        "Accessibility",
-        "Identity verification"
+        "Design Industry",
+        "Awards"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Homeland Security Today",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTGtVd0dobklmTkRYNkNiT1FpY1hPamZ3X0JYTjdyM0R1bWxNRlNNdDI1Mi1rNndjODdBLTJLRjJYVGItZ0V2UGZLZ1E0TWVkNmdpeTdTdzZaQ3hubUE2aEd5VGNUcjFIcy0xdlhLMFdUQXhKbGR2SUlhcURTOHpWNldZMWZBazVpcDdqTDZsSmo3eFdkMk1WVENsTHhoV0FvZXVQLUE0UWp1SjZQSGhlaDlqdmFnRF91bWlpbFMyS3ZiR0pqaU4yeWl3MA?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 13:42:32 GMT"
+      "source": "WebWire",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54N0I0Z0N4QjVoSTc2Q05LUkg0RnFsS0V0bDlGdFc0UXNvam5MY1QwUVpnNnh1XzRGN3RCd3FHRXU4MTgxcW1ic3BNa1JlTGNxWnVJVUhlNXBiVVJLaUNIYQ?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 10:43:14 GMT"
     },
     {
-      "headline": "How to pick an LMS development partner for custom education software",
-      "background": "Organizations building custom learning management systems face a fragmented vendor market where generalist developers often underestimate the complexity of SCORM compliance, adaptive learning, and multi-tenant architecture.",
+      "headline": "Jakob Nielsen Lists 76 Unsolved Problems in AI Usability",
+      "background": "AI usability research is still nascent — most published work addresses narrow use cases, and there's no consensus framework for evaluating how well people can work with AI systems. Nielsen has compiled a structured list of open research questions to help orient future work in the field.",
       "keyFindings": [
-        "Key evaluation criteria include experience with SCORM/xAPI standards, support for accessibility requirements (WCAG 2.1), and prior LMS-specific portfolio work",
-        "The guide recommends prioritizing vendors with modular architecture experience to avoid costly rebuilds as feature needs evolve",
-        "Discovery and requirements definition process is flagged as a major differentiator between competent and problematic vendors"
+        "76 distinct open questions are identified across categories including explainability, error recovery, trust calibration, and human-AI collaboration",
+        "Many questions address how users form and update mental models of AI behavior — an area with almost no established design guidance",
+        "The list is intended as a research agenda, making it directly applicable for teams designing AI evaluation studies"
       ],
-      "implications": "Useful checklist for product or procurement teams scoping an LMS build — the SCORM and accessibility flags in particular are easy to overlook until they become expensive problems late in development.",
+      "implications": "Highly useful for UX researchers designing studies around AI-facing products — the question list functions as a gap analysis for your current research program. Also valuable for product teams trying to articulate AI-specific usability risks.",
       "tags": [
-        "EdTech",
-        "LMS",
-        "Vendor selection"
+        "AI Usability",
+        "UX Research",
+        "AI in Design"
+      ],
+      "featured": true,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Lb0FFZGJTd2RkcEJtMjhFcjJabndYS2QxVmdCZnlUSUJNRDByOHlVWTNOTUsxbkdXNnM1ZnNucUZ1VGdxR1REZVk1ekI2YVJpZEVpOFltdFdnekxRcm5mWDRxQQ?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 10:21:35 GMT"
+    },
+    {
+      "headline": "Agentic AI Use Cases: 40+ Examples Across Industries",
+      "background": "Agentic AI — systems that autonomously plan and execute multi-step tasks — is moving from research demos into deployed products. Understanding the practical deployment landscape helps product and UX teams anticipate where agentic patterns will affect their work.",
+      "keyFindings": [
+        "Use cases span customer service automation, software development, supply chain management, healthcare triage, and financial analysis",
+        "Most real-world deployments combine a large language model with external tool access and a memory or planning layer",
+        "Enterprise adoption is currently ahead of consumer deployment, concentrated in workflow automation and decision support"
+      ],
+      "implications": "UX designers working on enterprise software should expect to encounter agentic AI features in the near term — particularly in tools involving multi-step workflows. Designing for oversight, intervention, and error recovery in autonomous task sequences will be a critical new competency.",
+      "tags": [
+        "Agentic AI",
+        "Enterprise UX",
+        "AI Tools"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "newsonjapan.com",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wSXRYOEo0RnoyNzJsdzM5VzNXUEp2OXc0bThlSFdKM3dSS1FvRHZwRFZibGc3aWJOdE5nb09GWG56dURjOVAyS3FqeHpPMXpTSV9qLQ?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 12:29:37 GMT"
+      "source": "AIMultiple",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tZ3ZlYWRiTjItMFZpaDFsbVA5MTBYY2ZwSWVIbWFXc2NielI3YXRSQ1hrQVFHUkRXaEVtaWh5bmFyMFRGdGtOQQ?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 09:18:11 GMT"
     }
   ]
 }
