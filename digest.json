@@ -1,233 +1,223 @@
 {
-  "generatedAt": "2026-08-05T17:14:05.438Z",
+  "generatedAt": "2026-08-07T15:12:24.463Z",
   "items": [
     {
-      "headline": "IoT, AR, and Spatial Computing Need Unified UX Strategy",
-      "background": "As products increasingly span physical and digital touchpoints — from IoT sensors to AR overlays to spatial computing interfaces — designers face the challenge of creating coherent experiences across radically different interaction paradigms. Most existing UX frameworks were built for screen-based, single-device contexts.",
+      "headline": "Stop Redesigning Before You've Checked the Data",
+      "background": "Founders and PMs frequently greenlight UI redesigns as the default fix for poor conversion metrics, skipping any diagnostic work. This piece pushes back on that reflex using a real client scenario.",
       "keyFindings": [
-        "Omnichannel ecosystems require designing for simultaneous data flows across IoT, AR, and spatial layers rather than sequential user journeys",
-        "Collaborative spatial environments introduce new UX considerations around shared state, latency, and multi-user presence",
-        "AR and spatial computing demand context-aware design that adapts to physical environment variables screens don't have"
+        "A founder attributed poor trial-to-paid conversion to UI without first auditing where users were actually dropping off",
+        "Redesigns commissioned without prior data analysis routinely miss the actual friction point — which is often onboarding flow, messaging, or pricing rather than visual design",
+        "Spending a redesign budget before behavioral data is reviewed is framed as a near-guaranteed waste of resources"
       ],
-      "implications": "Designers working on connected product ecosystems should audit whether their current design systems account for non-screen interaction states. This is most immediately relevant to teams building enterprise tools, smart home products, or industrial applications.",
+      "implications": "Before scoping any redesign, run session recordings, funnel analysis, and exit surveys first. This applies especially to early-stage products where the problem definition is still soft.",
       "tags": [
-        "Spatial Computing",
-        "IoT",
-        "Omnichannel Design"
+        "Conversion",
+        "Product Strategy",
+        "Research"
       ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*eypvSjdL6ISnP0oEcndKWg.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@javier.irala.design/designing-an-omnichannel-collaborative-ecosystem-iot-ar-and-spatial-computing-8deb5cd25415?source=rss------product_design-5",
-      "pubDate": "Wed, 05 Aug 2026 16:49:29 GMT"
-    },
-    {
-      "headline": "Being Data-Driven Means Choosing the Right Data First",
-      "background": "Product teams often default to tracking whatever metrics are easiest to instrument, then struggle to extract meaningful decisions from dashboards full of noise. This piece, written in Portuguese, addresses the foundational problem of data selection before analysis.",
-      "keyFindings": [
-        "Being data-driven requires deliberately selecting which data is relevant to a specific decision, not interpreting all available data",
-        "Dashboards are outputs of a data strategy, not a substitute for one",
-        "Product decisions without a defined question first lead to confirmation bias in metric interpretation"
-      ],
-      "implications": "Before instrumenting a new feature, define the decision the data needs to support. This applies especially to early-stage product teams tempted to over-instrument and under-interpret. Note: article is in Portuguese.",
-      "tags": [
-        "Product Analytics",
-        "Data-Driven Design",
-        "Decision Making"
-      ],
-      "featured": false,
+      "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/0*ntWGOiIjBMLEtfaE",
+      "image": "https://cdn-images-1.medium.com/max/1708/1*gc9h0Zr2sW25apFORG6lNQ.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/@mayumiz/show-me-the-data-nem-sei-por-onde-come%C3%A7ar-d3e8da55dcd0?source=rss------ux-5",
-      "pubDate": "Wed, 05 Aug 2026 16:47:41 GMT"
+      "link": "https://medium.com/@detachsolutionsgrowth/seo-for-ecommerce-proven-strategies-to-increase-sales-in-2026-7d120a951b27?source=rss------ux-5",
+      "pubDate": "Fri, 07 Aug 2026 14:54:06 GMT"
     },
     {
-      "headline": "The Real UX Question: What Does Good Judgment Look Like Now?",
-      "background": "The AI-replaces-designers debate has dominated UX discourse, but it arguably distracts from a more pressing shift: if task-completion efficiency is no longer the primary UX benchmark, what is? This piece argues the profession needs to redefine its core success criteria.",
+      "headline": "Baseline API: Ship Less JavaScript by Using the Browser",
+      "background": "Frontend teams routinely pull in libraries for functionality the browser now handles natively, inflating bundle sizes unnecessarily. Baseline is a cross-browser compatibility signal that clarifies what's safe to use without polyfills.",
       "keyFindings": [
-        "Task completion speed as the dominant UX metric is becoming obsolete as AI handles more rote interactions",
-        "The more consequential design challenge is how to support user judgment, trust, and agency in AI-mediated systems",
-        "UX value is shifting from interaction efficiency toward outcomes like comprehension, confidence, and appropriate reliance on AI"
+        "Baseline marks web platform features as 'widely available' only once they've been stable across all major browsers for 30 months",
+        "Many common library dependencies — for things like dialog management, container queries, and color manipulation — now have native browser equivalents covered by Baseline",
+        "Auditing dependencies against Baseline can meaningfully reduce JavaScript payload without sacrificing browser compatibility"
       ],
-      "implications": "Practitioners should revisit how they're defining success metrics for AI-assisted features — click-through and task-time data may not capture whether users are making better decisions. Relevant to anyone designing AI-facing interfaces.",
+      "implications": "Worth building a Baseline audit into your frontend review process, particularly before adding new dependencies. Most relevant to teams shipping to broad consumer audiences where load performance directly affects retention.",
       "tags": [
-        "AI in Design",
-        "UX Metrics",
-        "Design Strategy"
+        "Frontend Performance",
+        "JavaScript",
+        "Web Platform"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*raQ1Ow8pZumPp5NL0EiQ7g.png",
+      "image": "https://cdn-images-1.medium.com/max/1880/1*GV0sKl_f-AxVIoyGxjwDWw.jpeg",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@DikshaJangra/the-biggest-ux-question-isnt-will-ai-replace-designers-it-s-something-far-more-interesting-b33cdf12cdc0?source=rss------product_design-5",
-      "pubDate": "Wed, 05 Aug 2026 16:35:25 GMT"
+      "link": "https://medium.com/@martinRsaas/redesigning-before-youve-looked-is-a-waste-of-money-6430cf2a909a?source=rss------product_design-5",
+      "pubDate": "Fri, 07 Aug 2026 14:53:49 GMT"
     },
     {
-      "headline": "Paper Proposes a Web-Native Rethink of the Design Canvas",
-      "background": "Figma and similar tools treat the design canvas as a flat, file-based workspace that exports to the web. This piece proposes an alternative model where the canvas is architecturally aligned with how the web actually works, rather than abstracting away from it.",
+      "headline": "Jakob Nielsen's UX Roundup: AI Personas, Fact Flooding, Agentic Commerce",
+      "background": "Nielsen's recurring digest covers applied UX research and practice. This edition spans a wide range of topics including how users respond to AI-generated content overload and how agentic AI is beginning to reshape e-commerce UX.",
       "keyFindings": [
-        "Current design canvases model documents, not the web's linked, stateful, and responsive nature",
-        "A web-native canvas would treat components as live web constructs rather than visual proxies for them",
-        "The gap between design canvas and browser output is the source of significant handoff friction and fidelity loss"
+        "'Fact flooding' — AI systems overwhelming users with excessive information — is identified as an emerging UX failure pattern",
+        "The roundup introduces AI adoption personas as a framework for segmenting users by their comfort and behavior with AI tools",
+        "Agentic e-commerce, where AI acts on behalf of users to complete purchases, is flagged as a near-term design challenge requiring new interaction paradigms"
       ],
-      "implications": "This is a conceptual piece rather than a product announcement, but it's useful for teams evaluating design tooling or building internal design systems — particularly those frustrated by design-to-code translation gaps.",
+      "implications": "The AI adoption personas framework is practically useful for product teams deciding how to layer AI features — different user segments need different levels of control and transparency. The agentic commerce section is worth attention for anyone designing checkout or shopping flows.",
       "tags": [
-        "Design Tooling",
-        "Design Systems",
-        "Web Standards"
+        "AI Integration",
+        "E-commerce",
+        "Interaction Design"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*qlzTDzgX37p6j3aAdjCtDg.png",
+      "image": "https://cdn-images-1.medium.com/max/2160/1*nbgGBKZyMFRHoCH7sULPcw@2x.jpeg",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@nike_thana/paper-the-canvas-that-speaks-the-web-168b7a0523af?source=rss------product_design-5",
-      "pubDate": "Wed, 05 Aug 2026 16:31:01 GMT"
+      "link": "https://jonngan.medium.com/if-product-management-isnt-real-what-is-it-for-db86ddd890bd?source=rss------product_design-5",
+      "pubDate": "Fri, 07 Aug 2026 14:41:52 GMT"
     },
     {
-      "headline": "Zillow Cuts 91 Jobs in Washington, Senior Roles Hit Hardest",
-      "background": "Zillow has undergone multiple rounds of restructuring since shutting down its iBuying business in 2021. This latest round of cuts in its home-state workforce continues a broader pattern of tech companies trimming senior and specialized headcount.",
+      "headline": "What Product Management Is Actually For",
+      "background": "Product management as a discipline continues to face skepticism — particularly in engineering-led orgs — about whether it creates real value or primarily generates process overhead. This piece engages that debate.",
       "keyFindings": [
-        "91 employees in Washington state were laid off in this round",
-        "Senior-level roles were disproportionately affected, suggesting cost-driven restructuring rather than capability gaps",
-        "Zillow has not publicly detailed which product or design teams were affected"
+        "The piece argues PM value is hardest to see precisely because it's preventive — avoiding bad decisions and misalignment rather than producing visible artifacts",
+        "PM is positioned as the connective function that translates between user needs, business goals, and engineering constraints when no single team can hold all three simultaneously",
+        "The 'is PM real?' critique is linked to orgs where PM is practiced as status management rather than problem ownership"
       ],
-      "implications": "For UX and product professionals in the proptech or real estate tech sector, this signals continued instability at one of the category's largest employers. Senior practitioners should note that tenure and seniority are not insulating factors in current tech layoffs.",
+      "implications": "Useful framing for PMs making the case for their role internally, or for design leaders trying to clarify where PM responsibility ends and design decision-making begins.",
       "tags": [
-        "Tech Layoffs",
-        "Proptech",
-        "Industry Trends"
+        "Product Management",
+        "Org Design"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/941/1*LnWBKVMiQkP56jwLh6fwBQ.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@xindreamer/the-hardest-part-of-manufacturing-isnt-making-the-product-it-s-translating-feel-770bc810007c?source=rss------product_design-5",
+      "pubDate": "Fri, 07 Aug 2026 14:18:39 GMT"
+    },
+    {
+      "headline": "Translating 'Feel' Is Manufacturing's Hardest Problem",
+      "background": "Hardware and product manufacturing teams frequently struggle to communicate tactile and sensory quality requirements — the gap between what a client means and what a spec sheet captures. This piece examines that translation challenge.",
+      "keyFindings": [
+        "Subjective descriptors like 'premium feel' or 'soft touch' lack standardized manufacturing equivalents, leading to costly revision cycles",
+        "The piece documents a case where an apparently simple client request required multiple production iterations because the tactile expectation was never formally specified",
+        "Bridging the gap requires structured sensory vocabulary and physical reference samples, not just written briefs"
+      ],
+      "implications": "Relevant for UX and product designers working on physical products or hardware — investing in tactile reference kits and explicit sensory specification documents early reduces expensive late-stage manufacturing rework.",
+      "tags": [
+        "Hardware Design",
+        "Product Specification",
+        "Manufacturing"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "geekwire.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbWsyM1JleS1qcmZ0SEFfSnkxN0EzcmFtUm1xWGhZNE0wRHNRQ3RTcUFhNGxybktaQ1BhcG9pcTJiSVJzeTRhd0dQWWdNckM3U1BSdElXWUIxa0tnOWh5YnlXQXVqT3RveEotWjdNN2pYN19UVDNwM0Y0VjVWRVNrQ1pZVWdrM3ppc210WGp1VnN4OUZuUDBNUnY4VXpqUk53MDZXbWVzQWRoc3E4eHRSdmZMRQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 14:44:06 GMT"
+      "source": "streamlinefeed.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOWozb1pWS0JLUVBxekliZ3djV3N5NW1TWHkxdGtBem1FTlFta3NaX3dlS3dyX2toY1ZXUTd4VVBDYmZtNnk2YnZ6X3JmanlGSm01R3U4M3lKUlI0dExvNExIQXlzRDgyVkRBSC13VkFPRURjeUMzM0hRWDJQdUFGRTI1SURoYl9HRGMwV0NOLXFqMWc?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 13:13:32 GMT"
     },
     {
-      "headline": "UX Bootcamp Ad Disguised as Editorial Content",
-      "background": "Training program promotions frequently appear in UX content feeds dressed as editorial articles. This entry is a promotional piece for an in-person UI/UX training program in Pune, India, published on a user-contributed content platform.",
+      "headline": "eCommerce SEO Strategies for 2026",
+      "background": "Organic search remains a primary acquisition channel for e-commerce, but algorithm shifts and AI-generated search results are changing what effective SEO looks like at the product and category page level.",
       "keyFindings": [
-        "This is a promotional listing for a UI/UX training course, not editorial or research content",
-        "The piece offers no original findings, frameworks, or data",
-        "Published on Kompasiana, an Indonesian user-generated content platform"
+        "The piece emphasizes structured data and semantic HTML as increasingly important ranking signals as Google surfaces more AI-generated answer content",
+        "Category page optimization — not just product pages — is highlighted as an underprioritized opportunity for e-commerce organic traffic",
+        "Conversion rate and dwell time are framed as behavioral signals that now influence rankings, linking SEO directly to UX quality"
       ],
-      "implications": "No actionable findings for practitioners. Included for transparency in this digest batch.",
+      "implications": "For product and UX teams: page experience quality is now an SEO input, not just a user satisfaction metric. Collaboration between SEO and UX on category and listing page design has a direct revenue case.",
       "tags": [
-        "Training",
-        "Sponsored Content"
+        "E-commerce",
+        "SEO",
+        "Content Strategy"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Design & dev",
+      "publishedWindow": "today",
+      "image": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
+      "source": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
+      "pubDate": "Fri, 07 Aug 2026 13:00:00 GMT"
+    },
+    {
+      "headline": "The 10 Least Stressful Six-Figure Jobs",
+      "background": "Career comparison content based on Ladders salary and stress data. Not directly relevant to UX or product practice.",
+      "keyFindings": [
+        "Data sourced from Ladders ranks roles by reported stress levels and compensation",
+        "Several tech-adjacent roles appear on the list, though specifics vary by source",
+        "Methodology for stress measurement is not detailed in available snippet"
+      ],
+      "implications": "Career interest content only — no direct application to UX, product design, or engineering practice.",
+      "tags": [
+        "Careers"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Kompasiana.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdEg2SHNmcXNuWnRoaGpVa0NHSWlLeDc4VXp4M3Q3TzVpUmtTcU5IOHNwWTVoRjNsT0UxMUhXanJYRFFnTnh6ODl4RWNMQi1NakJvVmExbTd5dGx4Um5vVnh0Z1B1cExMWENSV1VLa0JjLUYyTm5mYkVVYTVZNjBTaFZDc0psQ2VmNjZ2ajBhcmVlM0g0Qm44Wk9Pbm91UXJPeUltMmFCQk9UMHpwcHg1LXQ1OTY2ZllSVXVfdDJDaXk5M014aHg1T2MtazA?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 12:57:28 GMT"
+      "source": "jakobnielsenphd.substack.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JeENmcWdxMXBDOWNJckI5cEJ2LW5neUt5eGk5bk43Q0Rmc1BidWo3bExMakxwS1FUTG9iUWliQm5ybFdMS014M2pzSzVxUGZfVk5fUmJfSlJLQ20yZmw5NWlVQTYtSkVLUmc?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 11:21:22 GMT"
     },
     {
-      "headline": "ZoCo Design Convenes Ohio Health Leaders Around UX Challenges",
-      "background": "Healthcare UX remains fragmented, with individual health systems and vendors often solving the same usability and workflow problems in isolation. ZoCo, a health-focused UX consultancy, hosted a convening aimed at identifying shared challenges across Ohio health organizations.",
+      "headline": "7billboards Positions Itself as a Modern Boutique Agency",
+      "background": "Boutique creative agencies frequently issue announcements about their positioning and client approach. This appears to be a brand press release rather than editorial analysis.",
       "keyFindings": [
-        "The event focused on identifying cross-organizational UX problems in healthcare rather than showcasing individual solutions",
-        "Participating organizations included health system leaders, suggesting buy-in at the operational level",
-        "No specific research outputs or findings have been published from the convening yet"
+        "7billboards is marketing itself as a boutique alternative to large agency models for brand work",
+        "The announcement emphasizes flexibility and senior attention as differentiators",
+        "No independent data or client outcomes are cited in the available snippet"
       ],
-      "implications": "For UX practitioners in healthcare, this signals growing appetite for consortium-based UX research — an approach that could yield more generalizable findings than single-institution studies. Worth monitoring for published outputs.",
+      "implications": "Press release content — limited analytical value for practitioners. Not a reliable source for agency selection decisions without independent verification.",
       "tags": [
-        "Healthcare UX",
-        "Research Methods",
-        "Stakeholder Engagement"
+        "Agency Model"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Ohio Tech News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR1ZrRXZURHpzVEFLRC1oY2NMalRvUmxFZExNY0V0eDVIN0ktVlM4eExXN0U5eW81N0RsRzhJR2h3NXVhVzIwNWxNOWN5TTgtZWN2cTBwb2ZkS0NWbWhFMlh0UHY0OE1IWUJENzZLMjRoM1ZScTZhZjlHZk8tbVdiNEJSMi1YcUVweWlfcnZfb3NuSWxMazhGUWpJMzNrckYtNVRR?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 11:24:36 GMT"
+      "source": "ANI News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR1A5NzY5a2FHVWx0VnA1ckNSREJFS0I3MkJCNGpXRFVHTWRfUXdEZ05NU3Z6REJYRnlqWjNlTFNPNHdBZ1RnT3ZqVTl2UzJzM3g5QVJfWDZUQWJuend3WHJjbWt4MkREZlZ2bzljY0VxdzdjVENmUmtucHhRUldCa21EQ1ktVHVPY1cxcXhPQVduNlV1dWJlWVRyS3dXaFpzOUhFOW94OXMwUWYydDZaZFpOSGJiMTE2UFJMbg?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 10:37:00 GMT"
     },
     {
-      "headline": "iF Design Opens UK Office in London",
-      "background": "iF Design Award is one of the most recognized international design prizes, historically centered in Germany. Opening a UK representative office represents a geographic expansion of their industry presence post-Brexit.",
+      "headline": "Jakob Nielsen: Keep It Simple (UX Slogan Series)",
+      "background": "Nielsen is producing a YouTube series on foundational UX principles. This installment covers simplicity as a design goal, a topic with substantial existing literature but frequent misapplication in practice.",
       "keyFindings": [
-        "iF Design has established a new representative office in London",
-        "The move extends iF's regional footprint into the UK market independently of its German headquarters",
-        "No details provided on specific programs, award submissions, or events tied to the UK office"
+        "Simplicity is defined not as minimalism but as reducing cognitive load relative to task complexity",
+        "The video is part of a numbered slogan series suggesting a structured curriculum approach",
+        "No specific new research is cited in the snippet — content appears to be synthesis of established principles"
       ],
-      "implications": "Minimal immediate impact for practitioners. UK-based designers and agencies seeking iF award submissions or partnerships may find local representation more accessible going forward.",
+      "implications": "Useful as introductory or refresher material, particularly for teams onboarding junior designers. Not a source of new findings for experienced practitioners.",
       "tags": [
-        "Design Industry",
-        "Awards"
+        "Design Principles",
+        "Cognitive Load"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "WebWire",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54N0I0Z0N4QjVoSTc2Q05LUkg0RnFsS0V0bDlGdFc0UXNvam5MY1QwUVpnNnh1XzRGN3RCd3FHRXU4MTgxcW1ic3BNa1JlTGNxWnVJVUhlNXBiVVJLaUNIYQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 10:43:14 GMT"
+      "source": "YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1HRnJ5VkhqX2VuZkN1UDhPZENnXzFWbXZZbEQ5cE1QSFp4X3V5dVFsMWk0TklXVV9CeHcwWlJfdjZkZw?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 10:00:29 GMT"
     },
     {
-      "headline": "Jakob Nielsen Lists 76 Unsolved Problems in AI Usability",
-      "background": "AI usability research is still nascent — most published work addresses narrow use cases, and there's no consensus framework for evaluating how well people can work with AI systems. Nielsen has compiled a structured list of open research questions to help orient future work in the field.",
-      "keyFindings": [
-        "76 distinct open questions are identified across categories including explainability, error recovery, trust calibration, and human-AI collaboration",
-        "Many questions address how users form and update mental models of AI behavior — an area with almost no established design guidance",
-        "The list is intended as a research agenda, making it directly applicable for teams designing AI evaluation studies"
-      ],
-      "implications": "Highly useful for UX researchers designing studies around AI-facing products — the question list functions as a gap analysis for your current research program. Also valuable for product teams trying to articulate AI-specific usability risks.",
+      "headline": "The 10 Least Stressful Six-Figure Jobs, According To Ladders",
+      "background": "",
+      "keyFindings": [],
+      "implications": "",
       "tags": [
-        "AI Usability",
-        "UX Research",
-        "AI in Design"
-      ],
-      "featured": true,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Lb0FFZGJTd2RkcEJtMjhFcjJabndYS2QxVmdCZnlUSUJNRDByOHlVWTNOTUsxbkdXNnM1ZnNucUZ1VGdxR1REZVk1ekI2YVJpZEVpOFltdFdnekxRcm5mWDRxQQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 10:21:35 GMT"
-    },
-    {
-      "headline": "Agentic AI Use Cases: 40+ Examples Across Industries",
-      "background": "Agentic AI — systems that autonomously plan and execute multi-step tasks — is moving from research demos into deployed products. Understanding the practical deployment landscape helps product and UX teams anticipate where agentic patterns will affect their work.",
-      "keyFindings": [
-        "Use cases span customer service automation, software development, supply chain management, healthcare triage, and financial analysis",
-        "Most real-world deployments combine a large language model with external tool access and a memory or planning layer",
-        "Enterprise adoption is currently ahead of consumer deployment, concentrated in workflow automation and decision support"
-      ],
-      "implications": "UX designers working on enterprise software should expect to encounter agentic AI features in the near term — particularly in tools involving multi-step workflows. Designing for oversight, intervention, and error recovery in autonomous task sequences will be a critical new competency.",
-      "tags": [
-        "Agentic AI",
-        "Enterprise UX",
-        "AI Tools"
+        "Industry news"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "AIMultiple",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tZ3ZlYWRiTjItMFZpaDFsbVA5MTBYY2ZwSWVIbWFXc2NielI3YXRSQ1hrQVFHUkRXaEVtaWh5bmFyMFRGdGtOQQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 09:18:11 GMT"
+      "source": "Forbes",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNksySHczM1pPMmlsNFVsZ2E2R0RLREN6N2piUDE5SHNTYVUyaUlZaGpwaHl6c2N1c3RTNDV0Q1pNTVlEX2ZKQmEwRlBSR1ZLTEs5MUVrckxsUlE1WVRWZHR4YjVMTlFEeE5ZQXY0RWNldURuQjZndktJcVQ3bWVyX290V1FfRjRQcHZfc2NOSmNxemRiemU4YXd3bVNnZkxuQjRuTnQxOG1XRU5pNDVZR0F5NGY?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 10:00:00 GMT"
     }
   ]
 }
