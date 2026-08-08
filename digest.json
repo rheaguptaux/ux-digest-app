@@ -1,223 +1,224 @@
 {
-  "generatedAt": "2026-08-07T15:12:24.463Z",
+  "generatedAt": "2026-08-08T14:06:45.613Z",
   "items": [
     {
-      "headline": "Stop Redesigning Before You've Checked the Data",
-      "background": "Founders and PMs frequently greenlight UI redesigns as the default fix for poor conversion metrics, skipping any diagnostic work. This piece pushes back on that reflex using a real client scenario.",
+      "headline": "AI pipeline design requires rethinking user journey maps",
+      "background": "As AI-mediated products multiply, designers trained on linear user journey frameworks are finding those models don't map cleanly onto systems where AI agents make decisions between user touchpoints. This piece argues that understanding user intent is no longer sufficient on its own.",
       "keyFindings": [
-        "A founder attributed poor trial-to-paid conversion to UI without first auditing where users were actually dropping off",
-        "Redesigns commissioned without prior data analysis routinely miss the actual friction point — which is often onboarding flow, messaging, or pricing rather than visual design",
-        "Spending a redesign budget before behavioral data is reviewed is framed as a near-guaranteed waste of resources"
+        "AI products introduce non-human decision points mid-journey that traditional journey maps don't account for",
+        "Designers need to model the data pipeline and model behavior as part of the experience, not just the interface",
+        "Failure modes in AI products often occur in pipeline steps invisible to users but with visible UX consequences"
       ],
-      "implications": "Before scoping any redesign, run session recordings, funnel analysis, and exit surveys first. This applies especially to early-stage products where the problem definition is still soft.",
+      "implications": "If you're designing AI-powered products, your journey mapping practice needs to include what the model receives, interprets, and returns — not just what the user sees. This is especially relevant for teams where UX and ML work in separate silos.",
       "tags": [
-        "Conversion",
-        "Product Strategy",
-        "Research"
+        "AI products",
+        "Journey mapping",
+        "Systems design"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*e7apMGYHPdgoOPf0AQURMQ.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@cecichenchen/the-ai-pipeline-is-the-new-user-journey-a88ae751a7a9?source=rss------product_design-5",
+      "pubDate": "Sat, 08 Aug 2026 13:50:50 GMT"
+    },
+    {
+      "headline": "Luxury e-commerce uses intentional friction to signal exclusivity",
+      "background": "Conventional e-commerce UX optimizes relentlessly for conversion — reducing clicks, surfacing CTAs, minimizing drop-off. Luxury brands have long operated differently, and this piece makes the case that friction in those contexts is a deliberate brand mechanism, not a design failure.",
+      "keyFindings": [
+        "Luxury sites frequently bury or delay 'Add to Cart' functionality to slow the purchase process deliberately",
+        "Friction signals product scarcity and brand exclusivity, reinforcing perceived value before purchase",
+        "Conversion-rate optimization heuristics developed for mass-market e-commerce actively conflict with luxury brand strategy"
+      ],
+      "implications": "Standard CRO benchmarks don't apply universally — context and brand positioning should determine what 'good' conversion flow looks like. If you're working on premium or luxury products, audit whether your optimization instincts are undermining the intended brand experience.",
+      "tags": [
+        "E-commerce",
+        "Conversion design",
+        "Brand experience"
       ],
       "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1708/1*gc9h0Zr2sW25apFORG6lNQ.png",
+      "image": "https://cdn-images-1.medium.com/max/1901/1*I2Xd6KzoPy_qyWDYwe26qg.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/@detachsolutionsgrowth/seo-for-ecommerce-proven-strategies-to-increase-sales-in-2026-7d120a951b27?source=rss------ux-5",
-      "pubDate": "Fri, 07 Aug 2026 14:54:06 GMT"
+      "link": "https://medium.com/design-bootcamp/why-luxury-e-commerce-hides-the-add-to-cart-button-19b00edafd9d?source=rss------ux-5",
+      "pubDate": "Sat, 08 Aug 2026 13:22:00 GMT"
     },
     {
-      "headline": "Baseline API: Ship Less JavaScript by Using the Browser",
-      "background": "Frontend teams routinely pull in libraries for functionality the browser now handles natively, inflating bundle sizes unnecessarily. Baseline is a cross-browser compatibility signal that clarifies what's safe to use without polyfills.",
+      "headline": "Unrelated gaming database listing — not relevant",
+      "background": "This appears to be a promotional or directory-style post for a gaming database site with no substantive design, product, or technology content.",
       "keyFindings": [
-        "Baseline marks web platform features as 'widely available' only once they've been stable across all major browsers for 30 months",
-        "Many common library dependencies — for things like dialog management, container queries, and color manipulation — now have native browser equivalents covered by Baseline",
-        "Auditing dependencies against Baseline can meaningfully reduce JavaScript payload without sacrificing browser compatibility"
+        "No original reporting or analysis present",
+        "Content is a link referral to an external gaming database",
+        "No UX, product, or tech relevance identified"
       ],
-      "implications": "Worth building a Baseline audit into your frontend review process, particularly before adding new dependencies. Most relevant to teams shipping to broad consumer audiences where load performance directly affects retention.",
+      "implications": "No actionable relevance for UX, product, or tech practitioners.",
       "tags": [
-        "Frontend Performance",
-        "JavaScript",
-        "Web Platform"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1880/1*GV0sKl_f-AxVIoyGxjwDWw.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@martinRsaas/redesigning-before-youve-looked-is-a-waste-of-money-6430cf2a909a?source=rss------product_design-5",
-      "pubDate": "Fri, 07 Aug 2026 14:53:49 GMT"
-    },
-    {
-      "headline": "Jakob Nielsen's UX Roundup: AI Personas, Fact Flooding, Agentic Commerce",
-      "background": "Nielsen's recurring digest covers applied UX research and practice. This edition spans a wide range of topics including how users respond to AI-generated content overload and how agentic AI is beginning to reshape e-commerce UX.",
-      "keyFindings": [
-        "'Fact flooding' — AI systems overwhelming users with excessive information — is identified as an emerging UX failure pattern",
-        "The roundup introduces AI adoption personas as a framework for segmenting users by their comfort and behavior with AI tools",
-        "Agentic e-commerce, where AI acts on behalf of users to complete purchases, is flagged as a near-term design challenge requiring new interaction paradigms"
-      ],
-      "implications": "The AI adoption personas framework is practically useful for product teams deciding how to layer AI features — different user segments need different levels of control and transparency. The agentic commerce section is worth attention for anyone designing checkout or shopping flows.",
-      "tags": [
-        "AI Integration",
-        "E-commerce",
-        "Interaction Design"
+        "Off-topic"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2160/1*nbgGBKZyMFRHoCH7sULPcw@2x.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/1080/1*U7ubTFi4CnszeRk9RAFyzQ.jpeg",
       "source": "Product Design on Medium",
-      "link": "https://jonngan.medium.com/if-product-management-isnt-real-what-is-it-for-db86ddd890bd?source=rss------product_design-5",
-      "pubDate": "Fri, 07 Aug 2026 14:41:52 GMT"
+      "link": "https://medium.com/@fatihunal1989/good-gamers-database-what-is-ggdb-and-what-s-it-for-e72e23628024?source=rss------product_design-5",
+      "pubDate": "Sat, 08 Aug 2026 13:11:42 GMT"
     },
     {
-      "headline": "What Product Management Is Actually For",
-      "background": "Product management as a discipline continues to face skepticism — particularly in engineering-led orgs — about whether it creates real value or primarily generates process overhead. This piece engages that debate.",
+      "headline": "Synthetic users give fast feedback — but not honest feedback",
+      "background": "A wave of tools now offer AI-simulated user testing, promising research-quality insights in minutes rather than days. The core tension is whether speed gains come at an unacceptable cost to validity, particularly for edge cases and underrepresented users.",
       "keyFindings": [
-        "The piece argues PM value is hardest to see precisely because it's preventive — avoiding bad decisions and misalignment rather than producing visible artifacts",
-        "PM is positioned as the connective function that translates between user needs, business goals, and engineering constraints when no single team can hold all three simultaneously",
-        "The 'is PM real?' critique is linked to orgs where PM is practiced as status management rather than problem ownership"
+        "Synthetic users are trained on existing behavioral data, meaning they reflect past patterns and can't surface genuinely novel needs",
+        "AI test participants tend to perform idealized, rational behavior — masking the confusion and hesitation real users exhibit",
+        "Some teams are using synthetic testing effectively for early-stage concept screening, while treating it as unsuitable for accessibility or edge-case validation"
       ],
-      "implications": "Useful framing for PMs making the case for their role internally, or for design leaders trying to clarify where PM responsibility ends and design decision-making begins.",
+      "implications": "Synthetic user testing is a plausible tool for rapid directional feedback on mainstream use cases, but should not replace human research for accessibility, high-stakes flows, or any user group underrepresented in training data. Be explicit internally about what these tools can and can't validate.",
       "tags": [
-        "Product Management",
-        "Org Design"
+        "User research",
+        "AI tools",
+        "Synthetic testing"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "Product design",
+      "category": "Research",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/941/1*LnWBKVMiQkP56jwLh6fwBQ.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@xindreamer/the-hardest-part-of-manufacturing-isnt-making-the-product-it-s-translating-feel-770bc810007c?source=rss------product_design-5",
-      "pubDate": "Fri, 07 Aug 2026 14:18:39 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1536/1*4G9iQce9DgyaFBRiKSCeqw.png",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@oananmatei/ai-can-test-your-product-before-humans-do-should-you-trust-it-67e85277889b?source=rss------ux_research-5",
+      "pubDate": "Sat, 08 Aug 2026 12:54:56 GMT"
     },
     {
-      "headline": "Translating 'Feel' Is Manufacturing's Hardest Problem",
-      "background": "Hardware and product manufacturing teams frequently struggle to communicate tactile and sensory quality requirements — the gap between what a client means and what a spec sheet captures. This piece examines that translation challenge.",
+      "headline": "Listicle of UI/UX courses for 2026 — low editorial value",
+      "background": "Course roundups targeting career-changers are a perennial content format with limited analytical depth.",
       "keyFindings": [
-        "Subjective descriptors like 'premium feel' or 'soft touch' lack standardized manufacturing equivalents, leading to costly revision cycles",
-        "The piece documents a case where an apparently simple client request required multiple production iterations because the tactile expectation was never formally specified",
-        "Bridging the gap requires structured sensory vocabulary and physical reference samples, not just written briefs"
+        "No original research or curriculum analysis present",
+        "Content appears SEO-driven with generic course recommendations",
+        "No specific findings distinguishing course quality or outcomes"
       ],
-      "implications": "Relevant for UX and product designers working on physical products or hardware — investing in tactile reference kits and explicit sensory specification documents early reduces expensive late-stage manufacturing rework.",
+      "implications": "No substantive findings for practicing UX or product professionals.",
       "tags": [
-        "Hardware Design",
-        "Product Specification",
-        "Manufacturing"
+        "Off-topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "streamlinefeed.co.ke",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOWozb1pWS0JLUVBxekliZ3djV3N5NW1TWHkxdGtBem1FTlFta3NaX3dlS3dyX2toY1ZXUTd4VVBDYmZtNnk2YnZ6X3JmanlGSm01R3U4M3lKUlI0dExvNExIQXlzRDgyVkRBSC13VkFPRURjeUMzM0hRWDJQdUFGRTI1SURoYl9HRGMwV0NOLXFqMWc?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 13:13:32 GMT"
+      "source": "Analytics Insight",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQWZRWFI0ZzhOV096cEFCcnJyWG05b2w3SHVndDN1ZXhhbXNiWnlrMkpVdzVTcUdSbUVSU2FTcUdtVHZBQkNTSGdwMUNkT1V6V3ZWZklBVzN0b1loQl9TMDNLMUtlWlFUWWJOWUVvcFJxSGRtLWw2d1RYOGFzRnJRQ29lZDcwTWQtckE4ZTlPNHdxVGVreWRUT3RkZ2htcFd5MDFYQ9IBsgFBVV95cUxQM0E1cGs4OTJxa01DUXgyYURGX1A5MjZ6MkFCYlY5Um9qSnFpX2xzd3pWNnpUYVBWTzc0eG5UR2NlLVFGdHVnZjNpYkhkbm53ZzNQbzU3TDByM056YVVaakNkam1wTTFsNmZ2c0I0S3NtQ01VUjZOMTF2Uko4OXZJOTdFNk1SQW5ZckVXcXRpc05oT0VwMTJ1NHVXLXRaLUxUMlBWclh4RGtpYm1WLW94V1l3?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 04:30:00 GMT"
     },
     {
-      "headline": "eCommerce SEO Strategies for 2026",
-      "background": "Organic search remains a primary acquisition channel for e-commerce, but algorithm shifts and AI-generated search results are changing what effective SEO looks like at the product and category page level.",
+      "headline": "Satirical politician highlights poor bathroom fixture placement",
+      "background": "UK satirical candidate Count Binface made a campaign pledge about hand-dryer placement over urinals — a real ergonomic and hygiene design issue dressed in comedy. Design Week engaged with whether the joke has legitimate design criticism underneath it.",
       "keyFindings": [
-        "The piece emphasizes structured data and semantic HTML as increasingly important ranking signals as Google surfaces more AI-generated answer content",
-        "Category page optimization — not just product pages — is highlighted as an underprioritized opportunity for e-commerce organic traffic",
-        "Conversion rate and dwell time are framed as behavioral signals that now influence rankings, linking SEO directly to UX quality"
+        "Hand-dryers positioned above urinals force users into postures that spread water and bacteria",
+        "The placement issue reflects how facilities design often prioritizes installation convenience over actual use patterns",
+        "Design Week treats the example as a legitimate case of ignoring user behavior in physical environment design"
       ],
-      "implications": "For product and UX teams: page experience quality is now an SEO input, not just a user satisfaction metric. Collaboration between SEO and UX on category and listing page design has a direct revenue case.",
+      "implications": "Peripheral relevance for UX practitioners working in service design or physical environment contexts — the underlying point about ignoring real use behavior is valid even if the framing is comedic.",
       "tags": [
-        "E-commerce",
-        "SEO",
-        "Content Strategy"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Design & dev",
-      "publishedWindow": "today",
-      "image": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
-      "source": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
-      "pubDate": "Fri, 07 Aug 2026 13:00:00 GMT"
-    },
-    {
-      "headline": "The 10 Least Stressful Six-Figure Jobs",
-      "background": "Career comparison content based on Ladders salary and stress data. Not directly relevant to UX or product practice.",
-      "keyFindings": [
-        "Data sourced from Ladders ranks roles by reported stress levels and compensation",
-        "Several tech-adjacent roles appear on the list, though specifics vary by source",
-        "Methodology for stress measurement is not detailed in available snippet"
-      ],
-      "implications": "Career interest content only — no direct application to UX, product design, or engineering practice.",
-      "tags": [
-        "Careers"
+        "Service design",
+        "Physical environments"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "jakobnielsenphd.substack.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JeENmcWdxMXBDOWNJckI5cEJ2LW5neUt5eGk5bk43Q0Rmc1BidWo3bExMakxwS1FUTG9iUWliQm5ybFdMS014M2pzSzVxUGZfVk5fUmJfSlJLQ20yZmw5NWlVQTYtSkVLUmc?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 11:21:22 GMT"
+      "source": "Design Week",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc2VTVG9aUUxDMkZ6cVlncEdjWDE2WXpMMk9mcnA5UE5zYTd6TmtRalczUTFySkdrdmgzLW5wOUUybUxVeUpVLThEbHVxc1g4ZEdTNmxwVVRCVjNpNElXckUwSmR2YUJmWUE3MU16US1yMk4wSHFOZ2R3ZkNCcHJwNzlkRTB0aC04UmxjV3pQTEZJY0htenJ5TElaZkttaGZTSnNSSnozWFVEQm1DUFF5eQ?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 04:00:05 GMT"
     },
     {
-      "headline": "7billboards Positions Itself as a Modern Boutique Agency",
-      "background": "Boutique creative agencies frequently issue announcements about their positioning and client approach. This appears to be a brand press release rather than editorial analysis.",
+      "headline": "Individual professional profile — no design or tech content",
+      "background": "Appears to be a biographical profile piece with no connection to UX, product design, or technology topics.",
       "keyFindings": [
-        "7billboards is marketing itself as a boutique alternative to large agency models for brand work",
-        "The announcement emphasizes flexibility and senior attention as differentiators",
-        "No independent data or client outcomes are cited in the available snippet"
+        "No UX, product, or tech content identified",
+        "Biographical in nature with no applicable findings",
+        "No original research or analysis present"
       ],
-      "implications": "Press release content — limited analytical value for practitioners. Not a reliable source for agency selection decisions without independent verification.",
+      "implications": "No relevance for this digest's audience.",
       "tags": [
-        "Agency Model"
+        "Off-topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "ANI News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR1A5NzY5a2FHVWx0VnA1ckNSREJFS0I3MkJCNGpXRFVHTWRfUXdEZ05NU3Z6REJYRnlqWjNlTFNPNHdBZ1RnT3ZqVTl2UzJzM3g5QVJfWDZUQWJuend3WHJjbWt4MkREZlZ2bzljY0VxdzdjVENmUmtucHhRUldCa21EQ1ktVHVPY1cxcXhPQVduNlV1dWJlWVRyS3dXaFpzOUhFOW94OXMwUWYydDZaZFpOSGJiMTE2UFJMbg?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 10:37:00 GMT"
+      "source": "apexmagazine.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEbDkzYTJnQkFwQjNZZVkybnJQQzN2SFVVSkI0XzVLWlBGZU9UYzBqSUhIMnY2dzVZRzVLNS1JMC1RVnRXczQxYjZJd3kwUHFYSzZFU2p4dEQ?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 23:10:00 GMT"
     },
     {
-      "headline": "Jakob Nielsen: Keep It Simple (UX Slogan Series)",
-      "background": "Nielsen is producing a YouTube series on foundational UX principles. This installment covers simplicity as a design goal, a topic with substantial existing literature but frequent misapplication in practice.",
+      "headline": "Stock ticker page for a uranium ETF — no UX relevance",
+      "background": "A financial data page for the Roundhill Uranium ETF, which uses the ticker symbol UX — no connection to user experience as a discipline.",
       "keyFindings": [
-        "Simplicity is defined not as minimalism but as reducing cognitive load relative to task complexity",
-        "The video is part of a numbered slogan series suggesting a structured curriculum approach",
-        "No specific new research is cited in the snippet — content appears to be synthesis of established principles"
+        "Ticker symbol UX refers to a uranium investment fund, not a UX industry publication",
+        "No design, product, or technology content present",
+        "Appears as a false positive due to the UX ticker symbol"
       ],
-      "implications": "Useful as introductory or refresher material, particularly for teams onboarding junior designers. Not a source of new findings for experienced practitioners.",
+      "implications": "No relevance for this digest's audience.",
       "tags": [
-        "Design Principles",
-        "Cognitive Load"
+        "Off-topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1HRnJ5VkhqX2VuZkN1UDhPZENnXzFWbXZZbEQ5cE1QSFp4X3V5dVFsMWk0TklXVV9CeHcwWlJfdjZkZw?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 10:00:29 GMT"
+      "source": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GNzA2bVpoN3UteFMzNlZKX1N5SUt6RjQ3S2duSkg0T3NRbEY3ZldRYW5JRXhpV05FMlM0bEhVdk43WGFrX0VwMkxCbUFLbkk?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 21:26:04 GMT"
     },
     {
-      "headline": "The 10 Least Stressful Six-Figure Jobs, According To Ladders",
-      "background": "",
-      "keyFindings": [],
-      "implications": "",
+      "headline": "Degree paths into high-paying AI roles in 2026",
+      "background": "As AI hiring expands, there's growing interest in which academic backgrounds lead to the most viable and well-compensated AI careers. This Investopedia piece surveys the landscape for prospective students and career-changers.",
+      "keyFindings": [
+        "Computer science, statistics, and electrical engineering remain the most direct degree paths to AI engineering roles",
+        "Data science and applied mathematics degrees increasingly lead to competitive AI salaries without requiring a pure CS background",
+        "MBA programs with AI specializations are growing but typically lead to AI strategy and product roles rather than technical positions"
+      ],
+      "implications": "Limited direct relevance for working UX practitioners, but useful context for product and design leaders thinking about team composition or their own continuing education in AI-adjacent skills.",
       "tags": [
-        "Industry news"
+        "AI careers",
+        "Education"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Forbes",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNksySHczM1pPMmlsNFVsZ2E2R0RLREN6N2piUDE5SHNTYVUyaUlZaGpwaHl6c2N1c3RTNDV0Q1pNTVlEX2ZKQmEwRlBSR1ZLTEs5MUVrckxsUlE1WVRWZHR4YjVMTlFEeE5ZQXY0RWNldURuQjZndktJcVQ3bWVyX290V1FfRjRQcHZfc2NOSmNxemRiemU4YXd3bVNnZkxuQjRuTnQxOG1XRU5pNDVZR0F5NGY?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 10:00:00 GMT"
+      "source": "Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdk1OWEY4SjZKVWE2bUE0dXZxSkhzNVJTcXNGS2ZTY3hfRjhOUTRsRmZSNXBaY0NtX3JTZTBTeGxIRnQyV2pMVTRBWGNMSWJmUExYZjlSM1lGc0ZEVHNKdmtZeVVwRHNLRVFJOFBaNm9qVzlDZWNTcTVDeFlYYTFUa2lNQU5NRGI2ZzlZSHR1QWVSU1ZlTnhqRUFmQmp3VWFzNDJzS1A0QmFiS2tUZkRMZjFB?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 20:05:00 GMT"
+    },
+    {
+      "headline": "Madden NFL 27 Mobile gets UI overhaul and new gameplay systems",
+      "background": "Mobile sports games face persistent UX challenges around interface density, one-handed play, and session length. EA's annual Madden Mobile update is an opportunity to observe how a major studio iterates on a complex mobile UI under competitive pressure.",
+      "keyFindings": [
+        "Madden NFL 27 Mobile introduces a redesigned UI aimed at reducing menu depth and improving navigation speed",
+        "New gameplay mechanics were added that required corresponding UI affordances for in-game decision timing",
+        "Changes appear targeted at reducing friction for returning players rather than improving new-user onboarding"
+      ],
+      "implications": "Marginally relevant for mobile game UX practitioners — the navigation simplification approach may offer reference points, but without detailed documentation of design decisions, takeaways are limited.",
+      "tags": [
+        "Mobile UI",
+        "Game UX"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Sportsdunia",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN251aDg2NmFMMHEzVml3QzFvSUk0LVVvVmNpSFhxT2dYa09neHNKNUZ1b3RvT3lhNU1QYXVIVHJDTEtnR2hibUQ5RHBhaTl2RGpmZmM4T1V2VzhHMDRzMk5DLWFOQ29UMzZTazB2a1FocGxJekx1XzdSd0hMZzExVG9n?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 18:47:48 GMT"
     }
   ]
 }
