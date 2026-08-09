@@ -1,224 +1,220 @@
 {
-  "generatedAt": "2026-08-08T14:06:45.613Z",
+  "generatedAt": "2026-08-09T14:08:03.307Z",
   "items": [
     {
-      "headline": "AI pipeline design requires rethinking user journey maps",
-      "background": "As AI-mediated products multiply, designers trained on linear user journey frameworks are finding those models don't map cleanly onto systems where AI agents make decisions between user touchpoints. This piece argues that understanding user intent is no longer sufficient on its own.",
+      "headline": "AI Agents Are Becoming the Web's Second Audience",
+      "background": "Web design and information architecture have always assumed a human end-user. The rapid deployment of AI agents that autonomously browse, scrape, and act on the web is forcing a rethink of that foundational assumption.",
       "keyFindings": [
-        "AI products introduce non-human decision points mid-journey that traditional journey maps don't account for",
-        "Designers need to model the data pipeline and model behavior as part of the experience, not just the interface",
-        "Failure modes in AI products often occur in pipeline steps invisible to users but with visible UX consequences"
+        "Web content is increasingly consumed by AI agents, not just humans, requiring dual-audience design thinking",
+        "Structured, semantic markup that was previously an accessibility best practice now also improves AI agent parseability",
+        "Designing only for human visual experience may cause content to be misread or ignored by automated agents acting on users' behalf"
       ],
-      "implications": "If you're designing AI-powered products, your journey mapping practice needs to include what the model receives, interprets, and returns — not just what the user sees. This is especially relevant for teams where UX and ML work in separate silos.",
+      "implications": "Product and content teams should audit whether their information architecture and markup is machine-readable, not just visually clear. This is most urgent for teams building content-heavy sites, APIs, or anything likely to be indexed or acted on by AI pipelines.",
       "tags": [
-        "AI products",
-        "Journey mapping",
-        "Systems design"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*e7apMGYHPdgoOPf0AQURMQ.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@cecichenchen/the-ai-pipeline-is-the-new-user-journey-a88ae751a7a9?source=rss------product_design-5",
-      "pubDate": "Sat, 08 Aug 2026 13:50:50 GMT"
-    },
-    {
-      "headline": "Luxury e-commerce uses intentional friction to signal exclusivity",
-      "background": "Conventional e-commerce UX optimizes relentlessly for conversion — reducing clicks, surfacing CTAs, minimizing drop-off. Luxury brands have long operated differently, and this piece makes the case that friction in those contexts is a deliberate brand mechanism, not a design failure.",
-      "keyFindings": [
-        "Luxury sites frequently bury or delay 'Add to Cart' functionality to slow the purchase process deliberately",
-        "Friction signals product scarcity and brand exclusivity, reinforcing perceived value before purchase",
-        "Conversion-rate optimization heuristics developed for mass-market e-commerce actively conflict with luxury brand strategy"
-      ],
-      "implications": "Standard CRO benchmarks don't apply universally — context and brand positioning should determine what 'good' conversion flow looks like. If you're working on premium or luxury products, audit whether your optimization instincts are undermining the intended brand experience.",
-      "tags": [
-        "E-commerce",
-        "Conversion design",
-        "Brand experience"
+        "AI agents",
+        "Information Architecture",
+        "Web Standards"
       ],
       "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1901/1*I2Xd6KzoPy_qyWDYwe26qg.png",
+      "image": "https://cdn-images-1.medium.com/max/1279/1*EE_tbplJPPYh2q8xWLP9Qg.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/design-bootcamp/why-luxury-e-commerce-hides-the-add-to-cart-button-19b00edafd9d?source=rss------ux-5",
-      "pubDate": "Sat, 08 Aug 2026 13:22:00 GMT"
+      "link": "https://medium.com/@briansolis/the-web-was-built-for-humans-now-ai-agents-are-becoming-the-second-audience-757f9f57c34e?source=rss------ux-5",
+      "pubDate": "Sun, 09 Aug 2026 13:41:01 GMT"
     },
     {
-      "headline": "Unrelated gaming database listing — not relevant",
-      "background": "This appears to be a promotional or directory-style post for a gaming database site with no substantive design, product, or technology content.",
+      "headline": "Irrelevant gambling content — skip",
+      "background": "This article is Indonesian-language promotional content for an online slot platform and has no relevance to UX, product, or technology practice.",
       "keyFindings": [
-        "No original reporting or analysis present",
-        "Content is a link referral to an external gaming database",
-        "No UX, product, or tech relevance identified"
+        "Not applicable — promotional gambling content",
+        "No UX, product, or tech relevance"
       ],
-      "implications": "No actionable relevance for UX, product, or tech practitioners.",
+      "implications": "No implications for UX or product practitioners.",
       "tags": [
-        "Off-topic"
+        "Irrelevant"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1080/1*U7ubTFi4CnszeRk9RAFyzQ.jpeg",
+      "image": null,
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@fatihunal1989/good-gamers-database-what-is-ggdb-and-what-s-it-for-e72e23628024?source=rss------product_design-5",
-      "pubDate": "Sat, 08 Aug 2026 13:11:42 GMT"
+      "link": "https://medium.com/@nakumandka/membaca-arah-perkembangan-slot-surga55-di-tengah-evolusi-ekosistem-hiburan-online-1197e2574698?source=rss------product_design-5",
+      "pubDate": "Sun, 09 Aug 2026 13:10:22 GMT"
     },
     {
-      "headline": "Synthetic users give fast feedback — but not honest feedback",
-      "background": "A wave of tools now offer AI-simulated user testing, promising research-quality insights in minutes rather than days. The core tension is whether speed gains come at an unacceptable cost to validity, particularly for edge cases and underrepresented users.",
+      "headline": "Screen-Centric Design Is Losing Its Monopoly",
+      "background": "Voice interfaces, spatial computing, wearables, and ambient computing are forcing designers to confront a discipline that has been almost entirely organized around the rectangle of a screen.",
       "keyFindings": [
-        "Synthetic users are trained on existing behavioral data, meaning they reflect past patterns and can't surface genuinely novel needs",
-        "AI test participants tend to perform idealized, rational behavior — masking the confusion and hesitation real users exhibit",
-        "Some teams are using synthetic testing effectively for early-stage concept screening, while treating it as unsuitable for accessibility or edge-case validation"
+        "The assumption that a screen is the primary interface container is breaking down across voice, AR, and ambient device categories",
+        "Design systems and component libraries built for pixel grids do not transfer cleanly to spatial or audio-first contexts",
+        "Interface design may need to shift from visual composition toward interaction logic that is medium-agnostic"
       ],
-      "implications": "Synthetic user testing is a plausible tool for rapid directional feedback on mainstream use cases, but should not replace human research for accessibility, high-stakes flows, or any user group underrepresented in training data. Be explicit internally about what these tools can and can't validate.",
+      "implications": "Practitioners invested heavily in screen-based design systems should begin stress-testing their work against non-screen contexts. This is especially relevant for teams at companies with any roadmap exposure to voice, AR, or wearable surfaces.",
       "tags": [
-        "User research",
-        "AI tools",
-        "Synthetic testing"
+        "Multimodal Design",
+        "Spatial Computing",
+        "Design Systems"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*p8wlhClTmNKSErupy5b94Q.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@surajstha883/the-screens-are-getting-demoted-rethinking-interface-design-beyond-the-glass-3f678127e12b?source=rss------product_design-5",
+      "pubDate": "Sun, 09 Aug 2026 13:10:19 GMT"
+    },
+    {
+      "headline": "What Separates Useful Design Feedback from Noise",
+      "background": "Design critiques are a standard part of product team workflows, but poorly structured feedback is a persistent source of wasted time and designer frustration, often reflecting opinion rather than grounded evaluation.",
+      "keyFindings": [
+        "Effective critique separates observation, interpretation, and recommendation into distinct steps rather than collapsing them into a single judgment",
+        "Feedback anchored to specific user goals or design principles is more actionable than aesthetic preference",
+        "Common failure modes include prescribing solutions before diagnosing problems and critiquing execution when the brief itself is flawed"
+      ],
+      "implications": "Leads and PMs running crits should establish a shared vocabulary for what constitutes a complete critique statement. Teams without a structured format tend to default to preference-based feedback that designers cannot act on.",
+      "tags": [
+        "Design Critique",
+        "Collaboration",
+        "Team Process"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Research",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*4G9iQce9DgyaFBRiKSCeqw.png",
+      "image": null,
       "source": "UX Research on Medium",
-      "link": "https://medium.com/@oananmatei/ai-can-test-your-product-before-humans-do-should-you-trust-it-67e85277889b?source=rss------ux_research-5",
-      "pubDate": "Sat, 08 Aug 2026 12:54:56 GMT"
+      "link": "https://medium.com/@junaidmaniyar/stop-giving-bad-feedback-the-anatomy-of-a-perfect-design-critique-0f5b8bc31fb0?source=rss------ux_research-5",
+      "pubDate": "Sun, 09 Aug 2026 12:22:13 GMT"
     },
     {
-      "headline": "Listicle of UI/UX courses for 2026 — low editorial value",
-      "background": "Course roundups targeting career-changers are a perennial content format with limited analytical depth.",
+      "headline": "Offshore Web Dev vendor list — not editorial",
+      "background": "This is a listicle from Nerdbot ranking offshore web development vendors for 2026. It is a commercial directory, not an analytical or research-based piece.",
       "keyFindings": [
-        "No original research or curriculum analysis present",
-        "Content appears SEO-driven with generic course recommendations",
-        "No specific findings distinguishing course quality or outcomes"
+        "Commercial vendor list with no original research or methodology disclosed"
       ],
-      "implications": "No substantive findings for practicing UX or product professionals.",
+      "implications": "No direct implications for UX or product practice.",
       "tags": [
-        "Off-topic"
+        "Irrelevant"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Analytics Insight",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQWZRWFI0ZzhOV096cEFCcnJyWG05b2w3SHVndDN1ZXhhbXNiWnlrMkpVdzVTcUdSbUVSU2FTcUdtVHZBQkNTSGdwMUNkT1V6V3ZWZklBVzN0b1loQl9TMDNLMUtlWlFUWWJOWUVvcFJxSGRtLWw2d1RYOGFzRnJRQ29lZDcwTWQtckE4ZTlPNHdxVGVreWRUT3RkZ2htcFd5MDFYQ9IBsgFBVV95cUxQM0E1cGs4OTJxa01DUXgyYURGX1A5MjZ6MkFCYlY5Um9qSnFpX2xzd3pWNnpUYVBWTzc0eG5UR2NlLVFGdHVnZjNpYkhkbm53ZzNQbzU3TDByM056YVVaakNkam1wTTFsNmZ2c0I0S3NtQ01VUjZOMTF2Uko4OXZJOTdFNk1SQW5ZckVXcXRpc05oT0VwMTJ1NHVXLXRaLUxUMlBWclh4RGtpYm1WLW94V1l3?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 04:30:00 GMT"
+      "source": "nerdbot",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05aHRHZHYzNjJ3YTIzZzdNc3ZWaVhZR2R1Rl9kRkxmazFmZ21sRlN0cFNLYnlGOUFGX2pGZEw5c1hUZVVEazdSazFXMWpQd0Y4SDZXczZqY2RBVHN4dHRTeWVjdE9ndWF0Z3dPcnNEV2ZyQXlaUmR2Mw?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 05:37:04 GMT"
     },
     {
-      "headline": "Satirical politician highlights poor bathroom fixture placement",
-      "background": "UK satirical candidate Count Binface made a campaign pledge about hand-dryer placement over urinals — a real ergonomic and hygiene design issue dressed in comedy. Design Week engaged with whether the joke has legitimate design criticism underneath it.",
+      "headline": "NLnet Launches €6M Fund for Open Geospatial Tools",
+      "background": "Open-source geospatial infrastructure is underfunded relative to its use in public-interest applications. NLnet Foundation, which funds internet freedom and open infrastructure projects, is directing significant capital into this gap.",
       "keyFindings": [
-        "Hand-dryers positioned above urinals force users into postures that spread water and bacteria",
-        "The placement issue reflects how facilities design often prioritizes installation convenience over actual use patterns",
-        "Design Week treats the example as a legitimate case of ignoring user behavior in physical environment design"
+        "NLnet Foundation is coordinating a €6 million GeoCommons fund targeting open geospatial software and infrastructure",
+        "The fund is positioned within the broader open-source sustainability funding landscape, where geographic and mapping tools have historically received less support than other OSS categories",
+        "GeoCommons-style infrastructure underpins civic tech, humanitarian mapping, and location-aware product features"
       ],
-      "implications": "Peripheral relevance for UX practitioners working in service design or physical environment contexts — the underlying point about ignoring real use behavior is valid even if the framing is comedic.",
+      "implications": "Product teams building on open geospatial stacks — or considering it — should watch this fund for projects that may mature or gain maintenance support as a result. Relevant for civic tech, urban planning tools, and any product with mapping dependencies.",
       "tags": [
-        "Service design",
-        "Physical environments"
+        "Open Source",
+        "Geospatial",
+        "Funding"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
-      "publishedWindow": "today",
+      "publishedWindow": "week",
       "image": null,
-      "source": "Design Week",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc2VTVG9aUUxDMkZ6cVlncEdjWDE2WXpMMk9mcnA5UE5zYTd6TmtRalczUTFySkdrdmgzLW5wOUUybUxVeUpVLThEbHVxc1g4ZEdTNmxwVVRCVjNpNElXckUwSmR2YUJmWUE3MU16US1yMk4wSHFOZ2R3ZkNCcHJwNzlkRTB0aC04UmxjV3pQTEZJY0htenJ5TElaZkttaGZTSnNSSnozWFVEQm1DUFF5eQ?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 04:00:05 GMT"
+      "source": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQTdVay1pUE9WUlF5eXNYdlY3NHJaSlEwWG1lcFdMbXdhWnZkWXFxUVBEbmttZDY1Z1dGODVza09ianBnWk84VmNTYUJ3RlJnNUh3TVRBNm9YMUNRZ3ZOckxKXzFoMDhBRkdRb1JNRjk2Y09Xei1GQnZoOGMwME9LZWZMTU52V3A2?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 01:16:58 GMT"
     },
     {
-      "headline": "Individual professional profile — no design or tech content",
-      "background": "Appears to be a biographical profile piece with no connection to UX, product design, or technology topics.",
+      "headline": "Incomplete survey promotion — not editorial",
+      "background": "This appears to be a social media post promoting an unspecified online survey with a deadline, lacking sufficient context to identify the subject or relevance.",
       "keyFindings": [
-        "No UX, product, or tech content identified",
-        "Biographical in nature with no applicable findings",
-        "No original research or analysis present"
+        "Insufficient content to extract findings"
       ],
-      "implications": "No relevance for this digest's audience.",
+      "implications": "No implications for UX or product practitioners.",
       "tags": [
-        "Off-topic"
+        "Irrelevant"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
-      "publishedWindow": "today",
+      "publishedWindow": "week",
       "image": null,
-      "source": "apexmagazine.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEbDkzYTJnQkFwQjNZZVkybnJQQzN2SFVVSkI0XzVLWlBGZU9UYzBqSUhIMnY2dzVZRzVLNS1JMC1RVnRXczQxYjZJd3kwUHFYSzZFU2p4dEQ?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 23:10:00 GMT"
+      "source": "facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTWdndkVGaEFRdFJyMlBIUDlUTDBfa1lHekxFQTNyTnQwMjZjYXhxcllaNnZ2ZTkzQkxvQWZrRDVPdHc3b2wtY2pXSkZvT0ZLcDJRZzhKcGJrQ3p4LVhCYnI5UjNWWlJ3eXJZV2RZa2xibHRJcGFYTVd3Z0wxbmc3WlIzQ3daNFpTS0UxVHNIeVp2QW04MHV5QXNqY0xLQkc2QmoySWozbkJpVDh3enpQNGpkY09RLVVsdnlENU90VzBaRklibmZ2T3YzWFhUMVpIc2pnT0JnTWRGb0xIZm1N?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 18:30:08 GMT"
     },
     {
-      "headline": "Stock ticker page for a uranium ETF — no UX relevance",
-      "background": "A financial data page for the Roundhill Uranium ETF, which uses the ticker symbol UX — no connection to user experience as a discipline.",
+      "headline": "Dogfooding Catches Bugs — It Cannot Replace User Research",
+      "background": "Internal product testing, or dogfooding, is widely used by tech teams as a quality signal. There is ongoing confusion about where dogfooding ends and where user research must begin.",
       "keyFindings": [
-        "Ticker symbol UX refers to a uranium investment fund, not a UX industry publication",
-        "No design, product, or technology content present",
-        "Appears as a false positive due to the UX ticker symbol"
+        "Dogfooding surfaces implementation bugs and workflow gaps but introduces expert-user bias that makes it a poor proxy for real user behavior",
+        "Team members who built or deeply know a product cannot replicate the mental models, confusion points, or task contexts of first-time or low-context users",
+        "The three methods — dogfooding, QA, and user research — test for categorically different things and are not substitutable for each other"
       ],
-      "implications": "No relevance for this digest's audience.",
+      "implications": "Teams that rely on dogfooding as their primary validation method are likely shipping products that work for experts but fail for typical users. Dogfooding should be scoped strictly to bug and regression catching, with user research covering behavioral and comprehension questions.",
       "tags": [
-        "Off-topic"
+        "User Research",
+        "Product Validation",
+        "Testing"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Research",
+      "publishedWindow": "week",
+      "image": null,
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/dogfooding/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 07 Aug 2026 17:00:00 +0000"
+    },
+    {
+      "headline": "A Framework for Deciding Whether to Keep an AI Tool",
+      "background": "Teams are under pressure to adopt AI tools without clear criteria for evaluating whether those tools actually improve outcomes. This has led to widespread adoption of tools whose value is assumed rather than demonstrated.",
+      "keyFindings": [
+        "The PROVE framework isolates one specific task and one specific tool for evaluation, producing a structured provisional decision rather than a general impression",
+        "Pressure to adopt AI is explicitly named as a bias to control for — adoption pressure is not evidence of tool effectiveness",
+        "The framework produces a defensible, revisable decision, acknowledging that AI tool performance changes as models and interfaces update"
+      ],
+      "implications": "Product and design teams being asked to integrate AI tools into workflows should use a task-specific evaluation protocol before committing. The PROVE framework is particularly useful for making the case to stakeholders when declining to adopt a tool.",
+      "tags": [
+        "AI tools",
+        "Decision Frameworks",
+        "Product Ops"
+      ],
+      "featured": true,
+      "type": "research",
+      "category": "Research",
+      "publishedWindow": "week",
+      "image": null,
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/prove-framework/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 07 Aug 2026 17:00:00 +0000"
+    },
+    {
+      "headline": "Investment app rankings list — not editorial",
+      "background": "This is a Forbes commercial rankings list of investment apps for 2026 with no UX research or product design angle.",
+      "keyFindings": [
+        "Commercial product rankings with no methodology relevant to UX or product practice"
+      ],
+      "implications": "No implications for UX or product practitioners.",
+      "tags": [
+        "Irrelevant"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
-      "publishedWindow": "today",
+      "publishedWindow": "week",
       "image": null,
-      "source": "Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GNzA2bVpoN3UteFMzNlZKX1N5SUt6RjQ3S2duSkg0T3NRbEY3ZldRYW5JRXhpV05FMlM0bEhVdk43WGFrX0VwMkxCbUFLbkk?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 21:26:04 GMT"
-    },
-    {
-      "headline": "Degree paths into high-paying AI roles in 2026",
-      "background": "As AI hiring expands, there's growing interest in which academic backgrounds lead to the most viable and well-compensated AI careers. This Investopedia piece surveys the landscape for prospective students and career-changers.",
-      "keyFindings": [
-        "Computer science, statistics, and electrical engineering remain the most direct degree paths to AI engineering roles",
-        "Data science and applied mathematics degrees increasingly lead to competitive AI salaries without requiring a pure CS background",
-        "MBA programs with AI specializations are growing but typically lead to AI strategy and product roles rather than technical positions"
-      ],
-      "implications": "Limited direct relevance for working UX practitioners, but useful context for product and design leaders thinking about team composition or their own continuing education in AI-adjacent skills.",
-      "tags": [
-        "AI careers",
-        "Education"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdk1OWEY4SjZKVWE2bUE0dXZxSkhzNVJTcXNGS2ZTY3hfRjhOUTRsRmZSNXBaY0NtX3JTZTBTeGxIRnQyV2pMVTRBWGNMSWJmUExYZjlSM1lGc0ZEVHNKdmtZeVVwRHNLRVFJOFBaNm9qVzlDZWNTcTVDeFlYYTFUa2lNQU5NRGI2ZzlZSHR1QWVSU1ZlTnhqRUFmQmp3VWFzNDJzS1A0QmFiS2tUZkRMZjFB?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 20:05:00 GMT"
-    },
-    {
-      "headline": "Madden NFL 27 Mobile gets UI overhaul and new gameplay systems",
-      "background": "Mobile sports games face persistent UX challenges around interface density, one-handed play, and session length. EA's annual Madden Mobile update is an opportunity to observe how a major studio iterates on a complex mobile UI under competitive pressure.",
-      "keyFindings": [
-        "Madden NFL 27 Mobile introduces a redesigned UI aimed at reducing menu depth and improving navigation speed",
-        "New gameplay mechanics were added that required corresponding UI affordances for in-game decision timing",
-        "Changes appear targeted at reducing friction for returning players rather than improving new-user onboarding"
-      ],
-      "implications": "Marginally relevant for mobile game UX practitioners — the navigation simplification approach may offer reference points, but without detailed documentation of design decisions, takeaways are limited.",
-      "tags": [
-        "Mobile UI",
-        "Game UX"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Sportsdunia",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN251aDg2NmFMMHEzVml3QzFvSUk0LVVvVmNpSFhxT2dYa09neHNKNUZ1b3RvT3lhNU1QYXVIVHJDTEtnR2hibUQ5RHBhaTl2RGpmZmM4T1V2VzhHMDRzMk5DLWFOQ29UMzZTazB2a1FocGxJekx1XzdSd0hMZzExVG9n?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 18:47:48 GMT"
+      "source": "Forbes",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SYXlWcm9VcWZmNEFGS2s3a0ZqRUxFb2REWFhkWFZVOUNKY09yUUNaakQ3QXZSRHphNVI5X21HRF83MEZ2d2o0dmx2U0tOemR3cVk0VzR3S3RTcHRTSTh5eGl0di0tTVhEZVhBbUdZNA?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 16:12:00 GMT"
     }
   ]
 }
