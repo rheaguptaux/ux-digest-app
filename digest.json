@@ -1,85 +1,106 @@
 {
-  "generatedAt": "2026-08-09T14:08:03.307Z",
+  "generatedAt": "2026-08-10T15:32:42.027Z",
   "items": [
     {
-      "headline": "AI Agents Are Becoming the Web's Second Audience",
-      "background": "Web design and information architecture have always assumed a human end-user. The rapid deployment of AI agents that autonomously browse, scrape, and act on the web is forcing a rethink of that foundational assumption.",
+      "headline": "Claude Design tested end-to-end: does AI-built UI hold up?",
+      "background": "AI-assisted UI generation tools like Claude Design are increasingly being used by product designers to ship full interfaces, but little practitioner-level critique exists on whether these outputs survive real usability testing.",
       "keyFindings": [
-        "Web content is increasingly consumed by AI agents, not just humans, requiring dual-audience design thinking",
-        "Structured, semantic markup that was previously an accessibility best practice now also improves AI agent parseability",
-        "Designing only for human visual experience may cause content to be misread or ignored by automated agents acting on users' behalf"
+        "A product designer used Claude Design to build and test end-to-end projects, not just generate static mockups",
+        "Testing revealed gaps between AI-generated UI and outputs that pass structured usability evaluation",
+        "The piece comes from direct practice, not theoretical critique"
       ],
-      "implications": "Product and content teams should audit whether their information architecture and markup is machine-readable, not just visually clear. This is most urgent for teams building content-heavy sites, APIs, or anything likely to be indexed or acted on by AI pipelines.",
+      "implications": "If you're using AI tools to accelerate UI production, build testing into the workflow from the start — generated interfaces may look polished but fail on interaction logic or edge cases. Relevant to any team using AI-assisted design tools in production.",
       "tags": [
-        "AI agents",
-        "Information Architecture",
-        "Web Standards"
+        "AI tools",
+        "Usability Testing",
+        "UI Design"
       ],
       "featured": true,
       "type": "opinion",
-      "category": "UX",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1279/1*EE_tbplJPPYh2q8xWLP9Qg.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@briansolis/the-web-was-built-for-humans-now-ai-agents-are-becoming-the-second-audience-757f9f57c34e?source=rss------ux-5",
-      "pubDate": "Sun, 09 Aug 2026 13:41:01 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1600/1*SWaGIElcziCK-CctFxlDqw.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@tgcdalay/ai-can-build-the-ui-but-can-it-survive-testing-8ea148921c1a?source=rss------product_design-5",
+      "pubDate": "Mon, 10 Aug 2026 15:01:03 GMT"
     },
     {
-      "headline": "Irrelevant gambling content — skip",
-      "background": "This article is Indonesian-language promotional content for an online slot platform and has no relevance to UX, product, or technology practice.",
+      "headline": "UX design has a concrete role in making AI safer",
+      "background": "AI safety discourse is dominated by policy and engineering perspectives. This piece argues UX design thinking has a direct, underused contribution to make in reducing AI-related harm.",
       "keyFindings": [
-        "Not applicable — promotional gambling content",
-        "No UX, product, or tech relevance"
+        "UX design practices like user research, feedback loops, and interface transparency are framed as active safety mechanisms",
+        "The piece appears in Tech Policy Press, positioning design as a policy-relevant discipline",
+        "Argues that how AI is presented to users shapes whether safety measures are actually effective"
       ],
-      "implications": "No implications for UX or product practitioners.",
+      "implications": "UX practitioners working on AI products should treat interface decisions — how outputs are framed, how errors are surfaced, how users understand system limitations — as safety-critical design choices, not just usability concerns.",
       "tags": [
-        "Irrelevant"
+        "AI Safety",
+        "AI tools",
+        "Design Ethics"
       ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
+      "featured": true,
+      "type": "research",
+      "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@nakumandka/membaca-arah-perkembangan-slot-surga55-di-tengah-evolusi-ekosistem-hiburan-online-1197e2574698?source=rss------product_design-5",
-      "pubDate": "Sun, 09 Aug 2026 13:10:22 GMT"
+      "source": "Tech Policy Press",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVzQ1czZWdDRFcHFCS2dOUTBxUENjUEkwNFFpTWdZRnk5Sk9BYlNGYmJRekcxUlFxYmRzU0VzR0oyYnBsc3hsLVpBZWNERmhTUEZSZTMtVUNLcFRZbk1qbkxQMlZGRXI5RE9ITFZEcFIxbUVkbHdrVEJ2MTJEOEl5UFBn?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 15:00:17 GMT"
     },
     {
-      "headline": "Screen-Centric Design Is Losing Its Monopoly",
-      "background": "Voice interfaces, spatial computing, wearables, and ambient computing are forcing designers to confront a discipline that has been almost entirely organized around the rectangle of a screen.",
+      "headline": "Stephanie Gannon named to Forty Under 40 list",
+      "background": "Regional business publication Talk Business & Politics features a Forty Under 40 recognition piece.",
       "keyFindings": [
-        "The assumption that a screen is the primary interface container is breaking down across voice, AR, and ambient device categories",
-        "Design systems and component libraries built for pixel grids do not transfer cleanly to spatial or audio-first contexts",
-        "Interface design may need to shift from visual composition toward interaction logic that is medium-agnostic"
+        "Stephanie Gannon is recognized in a regional Forty Under 40 list",
+        "No substantive UX, product, or tech findings are present in the snippet"
       ],
-      "implications": "Practitioners invested heavily in screen-based design systems should begin stress-testing their work against non-screen contexts. This is especially relevant for teams at companies with any roadmap exposure to voice, AR, or wearable surfaces.",
+      "implications": "No actionable implications for UX or product practitioners from this piece.",
       "tags": [
-        "Multimodal Design",
-        "Spatial Computing",
-        "Design Systems"
+        "Industry Recognition"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Talk Business & Politics",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UZ0p0aG9tekJ1WTZhdm43eHVQV0VPRzVfTEtPY1F2Z2RpdmNiSnZtT09McmdUVkhRUmFPQmNER2ZQWTJraWtMZjRnbk1vM3R4NGdmNmlQR0RCWjMxeWozWG5XX21pYll0cElHUkVTVWZXd1U?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 14:30:15 GMT"
+    },
+    {
+      "headline": "Home baking as a metaphor for UX research skills",
+      "background": "Analogy-driven UX writing on Medium frequently uses everyday activities to explain research concepts to beginners.",
+      "keyFindings": [
+        "The piece draws parallels between iterative baking processes and UX research methods",
+        "No original data, frameworks, or novel arguments are evident from the snippet"
+      ],
+      "implications": "May be useful as introductory framing for explaining research iteration to non-practitioners, but offers little new for experienced researchers.",
+      "tags": [
+        "User Research",
+        "UX Education"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "Product design",
+      "category": "Research",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*p8wlhClTmNKSErupy5b94Q.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@surajstha883/the-screens-are-getting-demoted-rethinking-interface-design-beyond-the-glass-3f678127e12b?source=rss------product_design-5",
-      "pubDate": "Sun, 09 Aug 2026 13:10:19 GMT"
+      "image": "https://cdn-images-1.medium.com/max/2600/0*mZFF6wmxu0m7F7bo",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@zems/why-home-baking-teaches-you-research-skills-4d2c155ba33a?source=rss------ux_research-5",
+      "pubDate": "Mon, 10 Aug 2026 14:16:01 GMT"
     },
     {
-      "headline": "What Separates Useful Design Feedback from Noise",
-      "background": "Design critiques are a standard part of product team workflows, but poorly structured feedback is a persistent source of wasted time and designer frustration, often reflecting opinion rather than grounded evaluation.",
+      "headline": "Heuristic evaluation catches what visual polish hides",
+      "background": "Teams often conflate a visually refined UI with a well-functioning one, leading to retention and usability problems that surface only after launch.",
       "keyFindings": [
-        "Effective critique separates observation, interpretation, and recommendation into distinct steps rather than collapsing them into a single judgment",
-        "Feedback anchored to specific user goals or design principles is more actionable than aesthetic preference",
-        "Common failure modes include prescribing solutions before diagnosing problems and critiquing execution when the brief itself is flawed"
+        "The piece argues that heuristic evaluation surfaces structural UX failures invisible to aesthetic review",
+        "Positions heuristics as a diagnostic tool for products with high visual quality but poor retention",
+        "Uses the framing of 'ghost in the machine' to describe invisible usability debt"
       ],
-      "implications": "Leads and PMs running crits should establish a shared vocabulary for what constitutes a complete critique statement. Teams without a structured format tend to default to preference-based feedback that designers cannot act on.",
+      "implications": "Schedule heuristic evaluations independently of visual QA — they catch different classes of problems. Particularly relevant before launch or when retention metrics drop despite strong visual design scores.",
       "tags": [
-        "Design Critique",
-        "Collaboration",
-        "Team Process"
+        "Heuristic Evaluation",
+        "Retention",
+        "Usability Testing"
       ],
       "featured": false,
       "type": "opinion",
@@ -87,134 +108,116 @@
       "publishedWindow": "today",
       "image": null,
       "source": "UX Research on Medium",
-      "link": "https://medium.com/@junaidmaniyar/stop-giving-bad-feedback-the-anatomy-of-a-perfect-design-critique-0f5b8bc31fb0?source=rss------ux_research-5",
-      "pubDate": "Sun, 09 Aug 2026 12:22:13 GMT"
+      "link": "https://medium.com/@junaidmaniyar/your-app-looks-great-so-why-is-everyone-leaving-the-invisible-power-of-heuristic-evaluation-261223f69887?source=rss------ux_research-5",
+      "pubDate": "Mon, 10 Aug 2026 13:50:00 GMT"
     },
     {
-      "headline": "Offshore Web Dev vendor list — not editorial",
-      "background": "This is a listicle from Nerdbot ranking offshore web development vendors for 2026. It is a commercial directory, not an analytical or research-based piece.",
+      "headline": "5 common misconceptions about how UX design actually works",
+      "background": "Surface-level UX content on Medium frequently conflates tool proficiency with design skill, creating misaligned expectations among newcomers and stakeholders.",
       "keyFindings": [
-        "Commercial vendor list with no original research or methodology disclosed"
+        "The first point, 'The Figma Fallacy,' challenges the assumption that UX competence equals Figma proficiency",
+        "The piece targets misconceptions held by both practitioners and non-designer stakeholders",
+        "No original research cited in the snippet"
       ],
-      "implications": "No direct implications for UX or product practice.",
+      "implications": "Useful for setting expectations with stakeholders or new hires who equate deliverable production with UX value. Limited depth for experienced practitioners.",
       "tags": [
-        "Irrelevant"
+        "UX Education",
+        "Stakeholder Communication"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@junaidmaniyar/why-your-favorite-app-doesnt-happen-by-accident-5-surprising-truths-about-ux-design-f440c680a295?source=rss------ux_research-5",
+      "pubDate": "Mon, 10 Aug 2026 13:49:09 GMT"
+    },
+    {
+      "headline": "Structured overview of privacy engineering principles and frameworks",
+      "background": "Privacy by design is increasingly mandated by regulation (GDPR, CCPA), but many product and engineering teams lack a working framework for implementing it systematically.",
+      "keyFindings": [
+        "Covers core privacy engineering principles including data minimization, purpose limitation, and privacy by default",
+        "References established frameworks applicable to software development workflows",
+        "Published by Private Internet Access, a privacy-focused vendor — consider potential perspective bias"
+      ],
+      "implications": "Useful reference for product and engineering teams building compliance into design systems or data architecture. Treat vendor-published overviews as starting points and cross-reference with regulatory source documents.",
+      "tags": [
+        "Privacy",
+        "Compliance",
+        "Privacy Engineering"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "nerdbot",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05aHRHZHYzNjJ3YTIzZzdNc3ZWaVhZR2R1Rl9kRkxmazFmZ21sRlN0cFNLYnlGOUFGX2pGZEw5c1hUZVVEazdSazFXMWpQd0Y4SDZXczZqY2RBVHN4dHRTeWVjdE9ndWF0Z3dPcnNEV2ZyQXlaUmR2Mw?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 05:37:04 GMT"
+      "source": "Private Internet Access",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSVpPMk9jY2F1WnNITE5zSzJJRTgxNEhCTEViVmttQjhLNDl5QWJxQnZXWFB1YjdmOEVGa3F3eWFhTUNKWHVxUXNHekJGVU1nZUFjZlBlMkdzdHBpTnE3NkJ0OG51a1hCb2hpUVlORU4?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 13:18:38 GMT"
     },
     {
-      "headline": "NLnet Launches €6M Fund for Open Geospatial Tools",
-      "background": "Open-source geospatial infrastructure is underfunded relative to its use in public-interest applications. NLnet Foundation, which funds internet freedom and open infrastructure projects, is directing significant capital into this gap.",
+      "headline": "Wise Hustlers Technologies announces global software expansion",
+      "background": "Press release announcing a software company's international growth.",
       "keyFindings": [
-        "NLnet Foundation is coordinating a €6 million GeoCommons fund targeting open geospatial software and infrastructure",
-        "The fund is positioned within the broader open-source sustainability funding landscape, where geographic and mapping tools have historically received less support than other OSS categories",
-        "GeoCommons-style infrastructure underpins civic tech, humanitarian mapping, and location-aware product features"
+        "Wise Hustlers Technologies Pvt. Ltd. is expanding its global software operations",
+        "No product, UX, or technical specifics are available from the snippet"
       ],
-      "implications": "Product teams building on open geospatial stacks — or considering it — should watch this fund for projects that may mature or gain maintenance support as a result. Relevant for civic tech, urban planning tools, and any product with mapping dependencies.",
+      "implications": "No actionable implications for UX or product practitioners from this press release.",
       "tags": [
-        "Open Source",
-        "Geospatial",
-        "Funding"
+        "Industry News"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
-      "publishedWindow": "week",
+      "publishedWindow": "today",
       "image": null,
-      "source": "Dealroom",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQTdVay1pUE9WUlF5eXNYdlY3NHJaSlEwWG1lcFdMbXdhWnZkWXFxUVBEbmttZDY1Z1dGODVza09ianBnWk84VmNTYUJ3RlJnNUh3TVRBNm9YMUNRZ3ZOckxKXzFoMDhBRkdRb1JNRjk2Y09Xei1GQnZoOGMwME9LZWZMTU52V3A2?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 01:16:58 GMT"
+      "source": "openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWkhTdlZVNkZid09IOTREXy1iYm5Gd0FNNzhNclhCZ2wzZ09EVnJnd2JTT05EbjNSQXpwcUtGLXJRT3pZZkhSa3p4amRfVFhnUGVKSTlROFp4R3hVUTBFU3pOcU9YRjJtRFpHUV93WVBvdEVWaXhzRzhLSG91bzFNX3YxNVBJNXctN1BTS3RQXzI2dHYxX2NrU1VB?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 13:06:56 GMT"
     },
     {
-      "headline": "Incomplete survey promotion — not editorial",
-      "background": "This appears to be a social media post promoting an unspecified online survey with a deadline, lacking sufficient context to identify the subject or relevance.",
+      "headline": "Echovane raises $1M to automate market research with AI",
+      "background": "AI-native research tools are emerging as alternatives to traditional survey and interview platforms, aiming to reduce the cost and time of qualitative and quantitative research.",
       "keyFindings": [
-        "Insufficient content to extract findings"
+        "Echovane secured $1 million in funding to build an AI-native market research service",
+        "Positions itself as a replacement or supplement to conventional research workflows",
+        "Early-stage funding suggests the product is pre-scale; capability claims should be evaluated against current maturity"
       ],
-      "implications": "No implications for UX or product practitioners.",
-      "tags": [
-        "Irrelevant"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "week",
-      "image": null,
-      "source": "facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTWdndkVGaEFRdFJyMlBIUDlUTDBfa1lHekxFQTNyTnQwMjZjYXhxcllaNnZ2ZTkzQkxvQWZrRDVPdHc3b2wtY2pXSkZvT0ZLcDJRZzhKcGJrQ3p4LVhCYnI5UjNWWlJ3eXJZV2RZa2xibHRJcGFYTVd3Z0wxbmc3WlIzQ3daNFpTS0UxVHNIeVp2QW04MHV5QXNqY0xLQkc2QmoySWozbkJpVDh3enpQNGpkY09RLVVsdnlENU90VzBaRklibmZ2T3YzWFhUMVpIc2pnT0JnTWRGb0xIZm1N?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 18:30:08 GMT"
-    },
-    {
-      "headline": "Dogfooding Catches Bugs — It Cannot Replace User Research",
-      "background": "Internal product testing, or dogfooding, is widely used by tech teams as a quality signal. There is ongoing confusion about where dogfooding ends and where user research must begin.",
-      "keyFindings": [
-        "Dogfooding surfaces implementation bugs and workflow gaps but introduces expert-user bias that makes it a poor proxy for real user behavior",
-        "Team members who built or deeply know a product cannot replicate the mental models, confusion points, or task contexts of first-time or low-context users",
-        "The three methods — dogfooding, QA, and user research — test for categorically different things and are not substitutable for each other"
-      ],
-      "implications": "Teams that rely on dogfooding as their primary validation method are likely shipping products that work for experts but fail for typical users. Dogfooding should be scoped strictly to bug and regression catching, with user research covering behavioral and comprehension questions.",
+      "implications": "Worth monitoring for UX researchers and product teams looking to reduce research overhead, but AI-native research tools at this funding stage often have significant gaps in depth and validity — evaluate against your specific research questions before adopting.",
       "tags": [
         "User Research",
-        "Product Validation",
-        "Testing"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Research",
-      "publishedWindow": "week",
-      "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/articles/dogfooding/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 07 Aug 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "A Framework for Deciding Whether to Keep an AI Tool",
-      "background": "Teams are under pressure to adopt AI tools without clear criteria for evaluating whether those tools actually improve outcomes. This has led to widespread adoption of tools whose value is assumed rather than demonstrated.",
-      "keyFindings": [
-        "The PROVE framework isolates one specific task and one specific tool for evaluation, producing a structured provisional decision rather than a general impression",
-        "Pressure to adopt AI is explicitly named as a bias to control for — adoption pressure is not evidence of tool effectiveness",
-        "The framework produces a defensible, revisable decision, acknowledging that AI tool performance changes as models and interfaces update"
-      ],
-      "implications": "Product and design teams being asked to integrate AI tools into workflows should use a task-specific evaluation protocol before committing. The PROVE framework is particularly useful for making the case to stakeholders when declining to adopt a tool.",
-      "tags": [
         "AI tools",
-        "Decision Frameworks",
-        "Product Ops"
-      ],
-      "featured": true,
-      "type": "research",
-      "category": "Research",
-      "publishedWindow": "week",
-      "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/articles/prove-framework/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 07 Aug 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "Investment app rankings list — not editorial",
-      "background": "This is a Forbes commercial rankings list of investment apps for 2026 with no UX research or product design angle.",
-      "keyFindings": [
-        "Commercial product rankings with no methodology relevant to UX or product practice"
-      ],
-      "implications": "No implications for UX or product practitioners.",
-      "tags": [
-        "Irrelevant"
+        "Market Research"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
-      "publishedWindow": "week",
+      "publishedWindow": "today",
       "image": null,
-      "source": "Forbes",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SYXlWcm9VcWZmNEFGS2s3a0ZqRUxFb2REWFhkWFZVOUNKY09yUUNaakQ3QXZSRHphNVI5X21HRF83MEZ2d2o0dmx2U0tOemR3cVk0VzR3S3RTcHRTSTh5eGl0di0tTVhEZVhBbUdZNA?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 16:12:00 GMT"
+      "source": "citybiz",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOazlMeG1tVUpuS3ZLNHdwa3J1a0p4dkdFRVFSWEc0SXM5VGtMM0JROTM2OGJoZEJOT04wMlFMZi1naFZIVmNRblJaUzhmQ1MzT1VCd25OLUJUbmExanJGTTk5eXhwekdhamxjZ2I4SHhtVGk1enJjaGxabHl5SDZSemFWLU16V2piNTdxWmRQdnR5SmZFNS1uOW5lSEdlZy1PZGNN?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 12:21:40 GMT"
+    },
+    {
+      "headline": "Profile of influencer Julia Boateng, noted by Britney Spears",
+      "background": "Entertainment profile piece with no connection to UX, product, or technology topics.",
+      "keyFindings": [
+        "Julia Boateng is a social media influencer praised by Britney Spears for content about the pop star's mother",
+        "No relevance to UX, product design, or technology"
+      ],
+      "implications": "No actionable implications for UX or product practitioners.",
+      "tags": [
+        "Off-topic"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "primetimer.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWmY0R05ScGxSSmFlVm85c1djbzFrMDJRZl9RNzBFN0p5MXh3Q0RuZWg0LTFCZ0JuWThGaU9oZjZoZjFERlRpU215TjlhdWxXZ2NDZndhNzN3NWxqNEpTZzRoeTMyU0FROXdtMDJRQlZzVDZyd3FqN2VyMy1XQnVQVzEwOElneFhlLXVYRHV4UDE3QmFmQUZWSHdVUVVseTFDM19hdWpuT1JkRHNOYVJVSnF1Q3lKeTVDNzhsYmstODJiWXAtLWdMbEUyRWlyRnBncUR1QUVWMHdRUWhO?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 11:56:00 GMT"
     }
   ]
 }
