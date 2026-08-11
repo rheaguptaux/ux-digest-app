@@ -1,171 +1,201 @@
 {
-  "generatedAt": "2026-08-10T15:32:42.027Z",
+  "generatedAt": "2026-08-11T15:31:13.365Z",
   "items": [
     {
-      "headline": "Claude Design tested end-to-end: does AI-built UI hold up?",
-      "background": "AI-assisted UI generation tools like Claude Design are increasingly being used by product designers to ship full interfaces, but little practitioner-level critique exists on whether these outputs survive real usability testing.",
+      "headline": "AI products are outpacing users' mental models",
+      "background": "As AI capabilities expand rapidly, there's a growing mismatch between what these systems can actually do and what users believe they can do — leading to underuse, misuse, and frustration. This piece addresses why capability gains alone don't solve the UX problem.",
       "keyFindings": [
-        "A product designer used Claude Design to build and test end-to-end projects, not just generate static mockups",
-        "Testing revealed gaps between AI-generated UI and outputs that pass structured usability evaluation",
-        "The piece comes from direct practice, not theoretical critique"
+        "The gap between AI capability and user mental models is widening, not narrowing, as models improve",
+        "User confusion often stems not from bad UI but from unpredictable or inconsistent AI behavior that breaks expected patterns",
+        "Products that fail to communicate AI limitations explicitly tend to generate more user errors and distrust"
       ],
-      "implications": "If you're using AI tools to accelerate UI production, build testing into the workflow from the start — generated interfaces may look polished but fail on interaction logic or edge cases. Relevant to any team using AI-assisted design tools in production.",
+      "implications": "For product teams shipping AI features, this is a reminder that onboarding and progressive disclosure of capability matter as much as the capability itself. Designing for the user's current mental model — not the model's actual ceiling — is the practical starting point.",
       "tags": [
-        "AI tools",
-        "Usability Testing",
-        "UI Design"
+        "AI products",
+        "Mental models",
+        "Onboarding"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*SWaGIElcziCK-CctFxlDqw.png",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*Kw4F1ENaFoahEHuhnQ2tNQ.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@tgcdalay/ai-can-build-the-ui-but-can-it-survive-testing-8ea148921c1a?source=rss------product_design-5",
-      "pubDate": "Mon, 10 Aug 2026 15:01:03 GMT"
+      "link": "https://medium.com/peppermint-studio/the-hidden-ux-problem-in-ai-products-c7ea20668081?source=rss------product_design-5",
+      "pubDate": "Tue, 11 Aug 2026 15:26:01 GMT"
     },
     {
-      "headline": "UX design has a concrete role in making AI safer",
-      "background": "AI safety discourse is dominated by policy and engineering perspectives. This piece argues UX design thinking has a direct, underused contribution to make in reducing AI-related harm.",
+      "headline": "How AI shifts the core problems designers must solve",
+      "background": "Designers are increasingly working with AI-driven products, but much of the conversation focuses on AI as a design tool rather than AI as the product itself. This piece, in Portuguese, addresses how AI changes the nature of design problems rather than just the toolset.",
       "keyFindings": [
-        "UX design practices like user research, feedback loops, and interface transparency are framed as active safety mechanisms",
-        "The piece appears in Tech Policy Press, positioning design as a policy-relevant discipline",
-        "Argues that how AI is presented to users shapes whether safety measures are actually effective"
+        "AI-driven products shift design work from static flows to dynamic, probabilistic outputs that are harder to prototype",
+        "Designers now need to account for variable system behavior rather than fixed states",
+        "The role of the designer expands to include defining acceptable AI output ranges and failure modes"
       ],
-      "implications": "UX practitioners working on AI products should treat interface decisions — how outputs are framed, how errors are surfaced, how users understand system limitations — as safety-critical design choices, not just usability concerns.",
+      "implications": "Relevant for product designers moving into AI-native product work — particularly around how to handle non-deterministic outputs in design systems and user testing. Worth noting this piece is in Portuguese and may require translation for some readers.",
       "tags": [
-        "AI Safety",
-        "AI tools",
-        "Design Ethics"
+        "AI products",
+        "Product design",
+        "Design process"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*Hb4sKE0YNaDh_NKogPINjw.avif",
+      "source": "Product Design on Medium",
+      "link": "https://julianemonteiro.medium.com/como-a-intelig%C3%AAncia-artificial-redefiniu-a-forma-como-projetamos-experi%C3%AAncias-em-produtos-digitais-f073ee22f61e?source=rss------product_design-5",
+      "pubDate": "Tue, 11 Aug 2026 15:21:57 GMT"
+    },
+    {
+      "headline": "Kenya's AI rollout is stumbling on basic CX failures",
+      "background": "Kenya has positioned itself as a leading AI adopter in Africa, with government and private sector investment in AI-driven services. This piece argues that infrastructure and policy ambition is outrunning attention to how real users actually experience these services.",
+      "keyFindings": [
+        "AI services in Kenya are being deployed without adequate user research into local literacy levels, language needs, and trust factors",
+        "Poor customer experience at the interface level is cited as a primary reason for low adoption of otherwise functional AI tools",
+        "The piece argues CX investment should be treated as infrastructure, not an afterthought"
+      ],
+      "implications": "A useful case study for product teams working on AI deployment in emerging markets or lower-digital-literacy contexts — the gap between technical readiness and UX readiness is a real adoption blocker. Localization and trust-building are not soft concerns here.",
+      "tags": [
+        "Emerging markets",
+        "AI adoption",
+        "Customer experience"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbEZ5M3lHakVzcjBjMDBwazB0RDZYYWhNTWl5dDg4RzR6OGowSklOMGFXcUZPbjlvT1JZNVQ3cFNLUDctMnZmQzhyNGxqd1lhREl4SHVCTUtYeVg2elB2UGxGWXhPNlJySkRVVzduLVJOSTRCV1lsVzBmUG95eTZudDIxTEdxWHREdEVaTGlFa3V5ZktQbFlpM09EQXhFdUdvSGlKTmVHcEo0ZjhHTk9fblg2VFNjazhoa3ZFNENvSW54MnA3dHdia3NwdVBZNUZUV0ZaUUV3?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 15:15:00 GMT"
+    },
+    {
+      "headline": "Six European mobile app development firms reviewed",
+      "background": "Listicles of development agencies appear regularly but rarely offer substantive differentiation. This piece covers six European firms for businesses evaluating mobile development partners.",
+      "keyFindings": [
+        "Six firms are profiled across multiple European countries",
+        "Coverage focuses on company size, specialization areas, and notable clients",
+        "No independent methodology for ranking or scoring is disclosed"
+      ],
+      "implications": "Low signal for UX practitioners unless you're actively vetting mobile dev partners in Europe. Treat as a starting directory, not a vetted ranking — verify credentials and case studies independently.",
+      "tags": [
+        "Mobile development",
+        "Agency selection"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Times of Malta",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNmRnaDdSa0MxZXV6ZGw1b2tOaVAta3RUVi1aeC1NaExhZXgyVnM4TlYxRjN0YVZqWkhOS3FpZDBkWkEzUS1DMWtfdnY2RHVMNWJVc2FOLXN0ZWdJY05vS1kwUi1lUGtRYXB0N3BzRDJLa0J3clVVVUZ0YjViOURLZGhqSWtvalp6eG5aYUpnRmJBWk5aRTFpaHhfUWw?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 15:04:00 GMT"
+    },
+    {
+      "headline": "Accessibility overlays now create more legal exposure than they solve",
+      "background": "Accessibility overlays — third-party JavaScript tools that claim to auto-fix WCAG compliance — have been marketed to legal and marketing teams as a fast, cheap alternative to remediation. Lawsuits and demand letters targeting overlay-using sites have increased.",
+      "keyFindings": [
+        "Legal demand letters are now specifically citing the presence of accessibility overlays as evidence of inadequate compliance effort, not a mitigating factor",
+        "Overlays frequently introduce new accessibility failures on top of existing ones, giving plaintiffs stronger grounds",
+        "The piece argues that deploying an overlay without manual remediation can be worse legally than having no overlay and no explicit compliance claim"
+      ],
+      "implications": "If your organization uses an overlay as its primary accessibility strategy, this is a meaningful legal and reputational risk — not just a UX quality issue. The practical move is to treat overlays as a temporary supplement at best, never a compliance solution, and to document your ongoing manual remediation work.",
+      "tags": [
+        "Accessibility",
+        "Legal risk",
+        "WCAG compliance"
       ],
       "featured": true,
-      "type": "research",
-      "category": "Industry news",
+      "type": "opinion",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": null,
-      "source": "Tech Policy Press",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVzQ1czZWdDRFcHFCS2dOUTBxUENjUEkwNFFpTWdZRnk5Sk9BYlNGYmJRekcxUlFxYmRzU0VzR0oyYnBsc3hsLVpBZWNERmhTUEZSZTMtVUNLcFRZbk1qbkxQMlZGRXI5RE9ITFZEcFIxbUVkbHdrVEJ2MTJEOEl5UFBn?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 15:00:17 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1400/1*UmkmDsKpJ6n7c6JCLPQ-fw.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@mvmantzios/why-accessibility-overlays-are-now-a-bigger-legal-risk-than-doing-nothing-03d160fda49e?source=rss------ux-5",
+      "pubDate": "Tue, 11 Aug 2026 15:01:03 GMT"
     },
     {
-      "headline": "Stephanie Gannon named to Forty Under 40 list",
-      "background": "Regional business publication Talk Business & Politics features a Forty Under 40 recognition piece.",
+      "headline": "A developer built a live AI resume tailor — then left it running",
+      "background": "AI-assisted job application tools are proliferating, but most are closed products. This piece describes a practitioner who built their own resume tailoring tool and left it publicly accessible, sharing what they learned from the process.",
       "keyFindings": [
-        "Stephanie Gannon is recognized in a regional Forty Under 40 list",
-        "No substantive UX, product, or tech findings are present in the snippet"
+        "The tool uses AI to rewrite resume content against specific job descriptions in real time",
+        "Leaving it live as a public tool surfaced unexpected use patterns and edge cases the author hadn't anticipated",
+        "The experience reinforced lessons about building for yourself versus building for others — the two have different UX requirements"
       ],
-      "implications": "No actionable implications for UX or product practitioners from this piece.",
+      "implications": "Interesting for practitioners curious about rapid AI tool prototyping and what happens when personal tools meet public use. Low direct applicability to product teams but useful as a reflection on assumptions baked into self-built tools.",
       "tags": [
-        "Industry Recognition"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Talk Business & Politics",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UZ0p0aG9tekJ1WTZhdm43eHVQV0VPRzVfTEtPY1F2Z2RpdmNiSnZtT09McmdUVkhRUmFPQmNER2ZQWTJraWtMZjRnbk1vM3R4NGdmNmlQR0RCWjMxeWozWG5XX21pYll0cElHUkVTVWZXd1U?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 14:30:15 GMT"
-    },
-    {
-      "headline": "Home baking as a metaphor for UX research skills",
-      "background": "Analogy-driven UX writing on Medium frequently uses everyday activities to explain research concepts to beginners.",
-      "keyFindings": [
-        "The piece draws parallels between iterative baking processes and UX research methods",
-        "No original data, frameworks, or novel arguments are evident from the snippet"
-      ],
-      "implications": "May be useful as introductory framing for explaining research iteration to non-practitioners, but offers little new for experienced researchers.",
-      "tags": [
-        "User Research",
-        "UX Education"
+        "AI tools",
+        "Prototyping",
+        "Career tools"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "Research",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/0*mZFF6wmxu0m7F7bo",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@zems/why-home-baking-teaches-you-research-skills-4d2c155ba33a?source=rss------ux_research-5",
-      "pubDate": "Mon, 10 Aug 2026 14:16:01 GMT"
+      "image": "https://cdn-images-1.medium.com/max/2600/1*CHkDCq9kqhne0Nb_B7FQ9Q.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@harshaasapu.b/i-built-an-ai-tool-to-tailor-my-own-resume-then-i-left-it-live-5471462490cb?source=rss------product_design-5",
+      "pubDate": "Tue, 11 Aug 2026 15:01:03 GMT"
     },
     {
-      "headline": "Heuristic evaluation catches what visual polish hides",
-      "background": "Teams often conflate a visually refined UI with a well-functioning one, leading to retention and usability problems that surface only after launch.",
+      "headline": "ACA Section 1557 tightens accessibility rules for healthcare kiosks",
+      "background": "Patient-facing kiosks in healthcare settings — check-in terminals, payment stations, wayfinding — have lagged behind web and app accessibility standards. ACA Section 1557 anti-discrimination provisions are now being interpreted to explicitly cover these physical digital interfaces.",
       "keyFindings": [
-        "The piece argues that heuristic evaluation surfaces structural UX failures invisible to aesthetic review",
-        "Positions heuristics as a diagnostic tool for products with high visual quality but poor retention",
-        "Uses the framing of 'ghost in the machine' to describe invisible usability debt"
+        "Section 1557 of the ACA prohibits discrimination in health programs receiving federal funding, and updated guidance extends this to self-service kiosk interfaces",
+        "Kiosks must meet accessibility standards including screen reader compatibility, adjustable height, and audio output — requirements many current deployments fail",
+        "Non-compliant kiosks expose healthcare organizations to federal civil rights complaints, not just ADA suits"
       ],
-      "implications": "Schedule heuristic evaluations independently of visual QA — they catch different classes of problems. Particularly relevant before launch or when retention metrics drop despite strong visual design scores.",
+      "implications": "Healthcare product and UX teams responsible for kiosk design or procurement need to treat Section 1557 as a hard compliance requirement, not a best-practice guideline. Existing kiosk deployments should be audited against current standards before the next procurement cycle.",
       "tags": [
-        "Heuristic Evaluation",
-        "Retention",
-        "Usability Testing"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@junaidmaniyar/your-app-looks-great-so-why-is-everyone-leaving-the-invisible-power-of-heuristic-evaluation-261223f69887?source=rss------ux_research-5",
-      "pubDate": "Mon, 10 Aug 2026 13:50:00 GMT"
-    },
-    {
-      "headline": "5 common misconceptions about how UX design actually works",
-      "background": "Surface-level UX content on Medium frequently conflates tool proficiency with design skill, creating misaligned expectations among newcomers and stakeholders.",
-      "keyFindings": [
-        "The first point, 'The Figma Fallacy,' challenges the assumption that UX competence equals Figma proficiency",
-        "The piece targets misconceptions held by both practitioners and non-designer stakeholders",
-        "No original research cited in the snippet"
-      ],
-      "implications": "Useful for setting expectations with stakeholders or new hires who equate deliverable production with UX value. Limited depth for experienced practitioners.",
-      "tags": [
-        "UX Education",
-        "Stakeholder Communication"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@junaidmaniyar/why-your-favorite-app-doesnt-happen-by-accident-5-surprising-truths-about-ux-design-f440c680a295?source=rss------ux_research-5",
-      "pubDate": "Mon, 10 Aug 2026 13:49:09 GMT"
-    },
-    {
-      "headline": "Structured overview of privacy engineering principles and frameworks",
-      "background": "Privacy by design is increasingly mandated by regulation (GDPR, CCPA), but many product and engineering teams lack a working framework for implementing it systematically.",
-      "keyFindings": [
-        "Covers core privacy engineering principles including data minimization, purpose limitation, and privacy by default",
-        "References established frameworks applicable to software development workflows",
-        "Published by Private Internet Access, a privacy-focused vendor — consider potential perspective bias"
-      ],
-      "implications": "Useful reference for product and engineering teams building compliance into design systems or data architecture. Treat vendor-published overviews as starting points and cross-reference with regulatory source documents.",
-      "tags": [
-        "Privacy",
-        "Compliance",
-        "Privacy Engineering"
+        "Accessibility",
+        "Healthcare",
+        "Kiosk design"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Private Internet Access",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSVpPMk9jY2F1WnNITE5zSzJJRTgxNEhCTEViVmttQjhLNDl5QWJxQnZXWFB1YjdmOEVGa3F3eWFhTUNKWHVxUXNHekJGVU1nZUFjZlBlMkdzdHBpTnE3NkJ0OG51a1hCb2hpUVlORU4?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 13:18:38 GMT"
+      "source": "Kiosk Marketplace",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1dzM2RRYWVqZlJUekdQSC05RS0tNWVBeXNvcG9qNXhlRE1PLTlERFRqdEpJZ09pTHF2Y3VvVWZTbkpUaXBWZUdmUVoybU5iX2JyODFmRk4xdzd6bEZTa0ZfRzhIdzFHaXJrNk9GaUZvZ2Rpak51X2RDcS1DdHFjY2x5bWdaWkphLV9xa05RakxURXNRT1lrMDJ1bnNVY3hkR0dybkZoTGFfUQ?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 13:02:34 GMT"
     },
     {
-      "headline": "Wise Hustlers Technologies announces global software expansion",
-      "background": "Press release announcing a software company's international growth.",
+      "headline": "Building precise tactile animation with Lottie and DOM math",
+      "background": "Lottie is widely used for lightweight animation playback, but most implementations treat it as a passive player. This piece documents a case where Lottie was used for a fully interactive tactile experience — a stress-relief squeeze toy in the browser — requiring precise control over animation state based on user input.",
       "keyFindings": [
-        "Wise Hustlers Technologies Pvt. Ltd. is expanding its global software operations",
-        "No product, UX, or technical specifics are available from the snippet"
+        "The implementation uses distance-based math to map cursor/touch position to Lottie animation frame, giving designers frame-accurate control tied to physical interaction",
+        "DOM events are wired directly to Lottie's animation API rather than using CSS transitions, preserving the intentionality of the original motion design",
+        "The architecture prioritizes designer intent over developer convenience — animation parameters are not approximated or interpolated arbitrarily"
       ],
-      "implications": "No actionable implications for UX or product practitioners from this press release.",
+      "implications": "Relevant for frontend developers and interaction designers working on high-fidelity motion experiences where animation must respond to continuous input rather than trigger-and-play. The distance-math approach is directly applicable to drag interactions, proximity effects, and gesture-driven animation.",
       "tags": [
-        "Industry News"
+        "Motion design",
+        "Animation",
+        "Lottie"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Design & dev",
+      "publishedWindow": "today",
+      "image": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg",
+      "source": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "link": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+      "pubDate": "Tue, 11 Aug 2026 10:00:00 GMT"
+    },
+    {
+      "headline": "21 custom ecommerce development companies listed for 2026",
+      "background": "This is a promotional roundup of ecommerce development vendors published via press release distribution.",
+      "keyFindings": [
+        "21 companies are listed with brief descriptions",
+        "No methodology, scoring criteria, or independent evaluation is disclosed",
+        "Content appears to be vendor-submitted or PR-driven"
+      ],
+      "implications": "Minimal editorial value for UX or product practitioners. If evaluating ecommerce development partners, use this only as a lead list and apply your own vetting process.",
+      "tags": [
+        "Ecommerce",
+        "Agency selection"
       ],
       "featured": false,
       "type": "research",
@@ -173,51 +203,30 @@
       "publishedWindow": "today",
       "image": null,
       "source": "openPR.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWkhTdlZVNkZid09IOTREXy1iYm5Gd0FNNzhNclhCZ2wzZ09EVnJnd2JTT05EbjNSQXpwcUtGLXJRT3pZZkhSa3p4amRfVFhnUGVKSTlROFp4R3hVUTBFU3pOcU9YRjJtRFpHUV93WVBvdEVWaXhzRzhLSG91bzFNX3YxNVBJNXctN1BTS3RQXzI2dHYxX2NrU1VB?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 13:06:56 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT05NNUFobU51Mm9ULXJoVS00VDBBRl9CakdTQUJjbXI1MWw1cTNlT3ZGTDRabkk4SDdGNUZrbnV6Y1EyUmtrcWJxbFJjNFlzdFByVUVxUUR1QXd0RXpieWZabWtoX1ducVNYc3d4aWRydXhCUllGbWIzdXp0RnhIblgwdmZTdWFu?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 09:54:58 GMT"
     },
     {
-      "headline": "Echovane raises $1M to automate market research with AI",
-      "background": "AI-native research tools are emerging as alternatives to traditional survey and interview platforms, aiming to reduce the cost and time of qualitative and quantitative research.",
+      "headline": "28 web application development companies listed for 2026",
+      "background": "Another vendor roundup distributed via press release, covering web application development firms.",
       "keyFindings": [
-        "Echovane secured $1 million in funding to build an AI-native market research service",
-        "Positions itself as a replacement or supplement to conventional research workflows",
-        "Early-stage funding suggests the product is pre-scale; capability claims should be evaluated against current maturity"
+        "28 companies are listed across various specializations",
+        "No independent ranking methodology is provided",
+        "Published via openPR, a press release distribution service — content is not editorially vetted"
       ],
-      "implications": "Worth monitoring for UX researchers and product teams looking to reduce research overhead, but AI-native research tools at this funding stage often have significant gaps in depth and validity — evaluate against your specific research questions before adopting.",
+      "implications": "Same caveats as similar roundups: useful only as a raw starting list. Not a reliable basis for vendor selection without independent research.",
       "tags": [
-        "User Research",
-        "AI tools",
-        "Market Research"
+        "Web development",
+        "Agency selection"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "citybiz",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOazlMeG1tVUpuS3ZLNHdwa3J1a0p4dkdFRVFSWEc0SXM5VGtMM0JROTM2OGJoZEJOT04wMlFMZi1naFZIVmNRblJaUzhmQ1MzT1VCd25OLUJUbmExanJGTTk5eXhwekdhamxjZ2I4SHhtVGk1enJjaGxabHl5SDZSemFWLU16V2piNTdxWmRQdnR5SmZFNS1uOW5lSEdlZy1PZGNN?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 12:21:40 GMT"
-    },
-    {
-      "headline": "Profile of influencer Julia Boateng, noted by Britney Spears",
-      "background": "Entertainment profile piece with no connection to UX, product, or technology topics.",
-      "keyFindings": [
-        "Julia Boateng is a social media influencer praised by Britney Spears for content about the pop star's mother",
-        "No relevance to UX, product design, or technology"
-      ],
-      "implications": "No actionable implications for UX or product practitioners.",
-      "tags": [
-        "Off-topic"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "primetimer.com",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWmY0R05ScGxSSmFlVm85c1djbzFrMDJRZl9RNzBFN0p5MXh3Q0RuZWg0LTFCZ0JuWThGaU9oZjZoZjFERlRpU215TjlhdWxXZ2NDZndhNzN3NWxqNEpTZzRoeTMyU0FROXdtMDJRQlZzVDZyd3FqN2VyMy1XQnVQVzEwOElneFhlLXVYRHV4UDE3QmFmQUZWSHdVUVVseTFDM19hdWpuT1JkRHNOYVJVSnF1Q3lKeTVDNzhsYmstODJiWXAtLWdMbEUyRWlyRnBncUR1QUVWMHdRUWhO?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 11:56:00 GMT"
+      "source": "openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYmtCbXUzMDlWTzB1eGE0aVduNVhYODNMS291akFpUGpkYjFoam9mbEpsSUNDUjh2U0tmR29WRWEydUllT1ZDcHJNUFpfNnNnYXRnNDVidW5HSDNuNzNEbDRYclAyeTJQTDFxMEZKNHloZ1ZsSURWMzRaRTMyeWVNUlZjZ2MyZXhZZm1NWGxjVEllcFU?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 09:47:56 GMT"
     }
   ]
 }
