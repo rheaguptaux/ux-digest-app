@@ -1,201 +1,131 @@
 {
-  "generatedAt": "2026-08-11T15:31:13.365Z",
+  "generatedAt": "2026-08-12T15:31:16.300Z",
   "items": [
     {
-      "headline": "AI products are outpacing users' mental models",
-      "background": "As AI capabilities expand rapidly, there's a growing mismatch between what these systems can actually do and what users believe they can do — leading to underuse, misuse, and frustration. This piece addresses why capability gains alone don't solve the UX problem.",
+      "headline": "Why Some Products Feel Right: The Science of Fit",
+      "background": "Product teams often struggle to articulate why some designs feel immediately intuitive while others don't — 'feel' is frequently dismissed as subjective and therefore unactionable in design reviews.",
       "keyFindings": [
-        "The gap between AI capability and user mental models is widening, not narrowing, as models improve",
-        "User confusion often stems not from bad UI but from unpredictable or inconsistent AI behavior that breaks expected patterns",
-        "Products that fail to communicate AI limitations explicitly tend to generate more user errors and distrust"
+        "Products that feel right typically align with users' existing mental models and physical expectations without requiring conscious adaptation.",
+        "The sensation of 'rightness' is often a signal that cognitive and motor load have been minimized simultaneously.",
+        "Perceived quality is heavily influenced by the first 2-3 seconds of interaction, before rational evaluation begins."
       ],
-      "implications": "For product teams shipping AI features, this is a reminder that onboarding and progressive disclosure of capability matter as much as the capability itself. Designing for the user's current mental model — not the model's actual ceiling — is the practical starting point.",
+      "implications": "For UX practitioners, 'feel' is a measurable proxy for cognitive and motor friction — not a vague aesthetic preference. Testing early tactile or first-interaction moments specifically can surface issues that task-completion metrics miss.",
       "tags": [
-        "AI products",
-        "Mental models",
-        "Onboarding"
+        "Product Intuition",
+        "Cognitive Load",
+        "Interaction Design"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*pWhVLQEOhtdGXQ0b",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/illumination/why-do-some-products-just-feel-right-68734546cfae?source=rss------product_design-5",
+      "pubDate": "Wed, 12 Aug 2026 15:26:45 GMT"
+    },
+    {
+      "headline": "A Carnatic Violin Tuner Built Around How Musicians Actually Practice",
+      "background": "Most digital instrument tuners are built around Western equal temperament and fixed string counts, forcing musicians practicing Indian classical forms like Carnatic music to adapt their workflow to tools that don't match their tuning system or rehearsal patterns.",
+      "keyFindings": [
+        "Sa Perfect removes fixed string limits, allowing Carnatic practitioners to set and save reference pitches that reflect their actual raga-based practice rather than Western standard tuning.",
+        "The app eliminates 'link friction' — a specific pain point where users were accidentally tuning to an adjacent fifth rather than their intended reference pitch.",
+        "The design process centered on how Carnatic musicians actually begin practice sessions, not on feature parity with existing Western-oriented tuners."
+      ],
+      "implications": "This is a strong case study in domain-specific design: when a user group's workflow fundamentally differs from the assumed default, retrofitting a general-purpose tool creates compounding errors. Starting from practice behavior rather than feature sets is the operative lesson.",
+      "tags": [
+        "Domain-Specific Design",
+        "Mobile Apps",
+        "User Research"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*UOthRNM6_zGByjlZWZwSHw.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@harinarayananvm1692/sa-perfect-building-a-carnatic-first-violin-tuner-that-works-the-way-we-actually-practice-a682647fb7e2?source=rss------product_design-5",
+      "pubDate": "Wed, 12 Aug 2026 15:22:54 GMT"
+    },
+    {
+      "headline": "Design Decisions Are Built on Assumptions — Make Them Explicit",
+      "background": "Design teams routinely make decisions based on unstated assumptions about user behavior, problem priority, and what counts as 'obvious' — assumptions that often go untested until late in development when changes are expensive.",
+      "keyFindings": [
+        "Every design decision encodes at least one assumption about user behavior, whether or not the designer has named it.",
+        "Assumptions about what 'should feel obvious' are particularly risky because they are rarely flagged for validation — they feel like facts.",
+        "Making assumptions explicit before design work begins creates a lightweight audit trail that helps teams identify where they need research versus where they can proceed."
+      ],
+      "implications": "Teams should treat assumption-logging as a standard design artifact alongside wireframes and specs — especially for decisions made under time pressure. This is most critical at problem-definition and information-architecture stages, where wrong assumptions compound downstream.",
+      "tags": [
+        "Design Process",
+        "Research",
+        "Decision Making"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1080/1*hVMZg7fQ8pYQiKsnj_R4Sg.png",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@selimatakinwale/every-design-decision-is-built-on-assumptions-ca85648e02b3?source=rss------ux_research-5",
+      "pubDate": "Wed, 12 Aug 2026 15:21:34 GMT"
+    },
+    {
+      "headline": "AI Design Reviews Fail Silently — Here Are Four Fixes",
+      "background": "As AI tools generate more design artifacts — layouts, components, copy — standard design review processes are struggling to catch errors because AI failures tend to look plausible on the surface rather than obviously broken.",
+      "keyFindings": [
+        "AI-generated design work often violates design system rules in ways that are visually subtle — correct component type, wrong usage context — making standard visual QA insufficient.",
+        "The author identifies four specific review techniques: semantic intent checks, edge-case stress testing, system coherence audits, and accessibility state verification.",
+        "The core problem is that AI outputs optimize for visual plausibility, not functional or systemic correctness, so reviewers must shift from 'does this look right' to 'does this behave correctly across states'."
+      ],
+      "implications": "If your team is using AI to generate or assist with design work, your existing review checklist is probably inadequate. Reviewing for semantic and behavioral correctness — not just visual accuracy — requires deliberate process changes before AI-generated work ships.",
+      "tags": [
+        "AI Tools",
+        "Design Systems",
+        "Design Review"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1200/1*Kw4F1ENaFoahEHuhnQ2tNQ.png",
+      "image": "https://cdn-images-1.medium.com/max/2400/1*oKiUuWVzH-281PMWkbNfSA.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/peppermint-studio/the-hidden-ux-problem-in-ai-products-c7ea20668081?source=rss------product_design-5",
-      "pubDate": "Tue, 11 Aug 2026 15:26:01 GMT"
+      "link": "https://anis-aliabadi.medium.com/stop-asking-ai-if-it-followed-the-design-system-956f1c45b1e1?source=rss------product_design-5",
+      "pubDate": "Wed, 12 Aug 2026 15:16:56 GMT"
     },
     {
-      "headline": "How AI shifts the core problems designers must solve",
-      "background": "Designers are increasingly working with AI-driven products, but much of the conversation focuses on AI as a design tool rather than AI as the product itself. This piece, in Portuguese, addresses how AI changes the nature of design problems rather than just the toolset.",
+      "headline": "Gen Z Gravitating Toward Creative Degrees — Limited Data Here",
+      "background": "There is ongoing debate in higher education and industry about whether Gen Z enrollment patterns in creative fields reflect genuine interest shifts or economic pragmatism about career outcomes.",
       "keyFindings": [
-        "AI-driven products shift design work from static flows to dynamic, probabilistic outputs that are harder to prototype",
-        "Designers now need to account for variable system behavior rather than fixed states",
-        "The role of the designer expands to include defining acceptable AI output ranges and failure modes"
+        "The snippet provides no extractable data or specific findings from this piece.",
+        "No methodology, enrollment figures, or institutional sources are referenced in the available content."
       ],
-      "implications": "Relevant for product designers moving into AI-native product work — particularly around how to handle non-deterministic outputs in design systems and user testing. Worth noting this piece is in Portuguese and may require translation for some readers.",
+      "implications": "Insufficient content available to draw reliable conclusions. Treat any claims from this piece with caution until primary enrollment data can be verified from institutional or government sources.",
       "tags": [
-        "AI products",
-        "Product design",
-        "Design process"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*Hb4sKE0YNaDh_NKogPINjw.avif",
-      "source": "Product Design on Medium",
-      "link": "https://julianemonteiro.medium.com/como-a-intelig%C3%AAncia-artificial-redefiniu-a-forma-como-projetamos-experi%C3%AAncias-em-produtos-digitais-f073ee22f61e?source=rss------product_design-5",
-      "pubDate": "Tue, 11 Aug 2026 15:21:57 GMT"
-    },
-    {
-      "headline": "Kenya's AI rollout is stumbling on basic CX failures",
-      "background": "Kenya has positioned itself as a leading AI adopter in Africa, with government and private sector investment in AI-driven services. This piece argues that infrastructure and policy ambition is outrunning attention to how real users actually experience these services.",
-      "keyFindings": [
-        "AI services in Kenya are being deployed without adequate user research into local literacy levels, language needs, and trust factors",
-        "Poor customer experience at the interface level is cited as a primary reason for low adoption of otherwise functional AI tools",
-        "The piece argues CX investment should be treated as infrastructure, not an afterthought"
-      ],
-      "implications": "A useful case study for product teams working on AI deployment in emerging markets or lower-digital-literacy contexts — the gap between technical readiness and UX readiness is a real adoption blocker. Localization and trust-building are not soft concerns here.",
-      "tags": [
-        "Emerging markets",
-        "AI adoption",
-        "Customer experience"
+        "Education",
+        "Gen Z",
+        "Creative Careers"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbEZ5M3lHakVzcjBjMDBwazB0RDZYYWhNTWl5dDg4RzR6OGowSklOMGFXcUZPbjlvT1JZNVQ3cFNLUDctMnZmQzhyNGxqd1lhREl4SHVCTUtYeVg2elB2UGxGWXhPNlJySkRVVzduLVJOSTRCV1lsVzBmUG95eTZudDIxTEdxWHREdEVaTGlFa3V5ZktQbFlpM09EQXhFdUdvSGlKTmVHcEo0ZjhHTk9fblg2VFNjazhoa3ZFNENvSW54MnA3dHdia3NwdVBZNUZUV0ZaUUV3?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 15:15:00 GMT"
+      "source": "PressReader",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oajJFTEQzckZXVGw2d0Q3blVvNDEwQ1kzWkhDNTlHZFB3d1NYN0s5TEJNN0FUekYzaC1ZelI2UFpmdmZJWENuMDFCd2trc3pyeVBiSC1Vem41RTIwdllzem14XzAza05ISVBRQjFEbldHbXNJWUtMZnZ3?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 13:02:20 GMT"
     },
     {
-      "headline": "Six European mobile app development firms reviewed",
-      "background": "Listicles of development agencies appear regularly but rarely offer substantive differentiation. This piece covers six European firms for businesses evaluating mobile development partners.",
+      "headline": "UX Services Market Demand Shifting — No Specifics Available",
+      "background": "Market research reports on the UX services sector periodically circulate via press release, often cited as evidence of industry growth, though their methodologies and definitions vary widely.",
       "keyFindings": [
-        "Six firms are profiled across multiple European countries",
-        "Coverage focuses on company size, specialization areas, and notable clients",
-        "No independent methodology for ranking or scoring is disclosed"
+        "The snippet contains no specific figures, market size estimates, or named trends from the report.",
+        "Press release-format market studies frequently conflate different service categories and use inconsistent definitions of 'UX services'."
       ],
-      "implications": "Low signal for UX practitioners unless you're actively vetting mobile dev partners in Europe. Treat as a starting directory, not a vetted ranking — verify credentials and case studies independently.",
+      "implications": "Without access to methodology and segmentation definitions, market figures from this type of report should not be used to justify strategic decisions. Look for primary data from sources like Nielsen Norman Group or industry association surveys instead.",
       "tags": [
-        "Mobile development",
-        "Agency selection"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Times of Malta",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNmRnaDdSa0MxZXV6ZGw1b2tOaVAta3RUVi1aeC1NaExhZXgyVnM4TlYxRjN0YVZqWkhOS3FpZDBkWkEzUS1DMWtfdnY2RHVMNWJVc2FOLXN0ZWdJY05vS1kwUi1lUGtRYXB0N3BzRDJLa0J3clVVVUZ0YjViOURLZGhqSWtvalp6eG5aYUpnRmJBWk5aRTFpaHhfUWw?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 15:04:00 GMT"
-    },
-    {
-      "headline": "Accessibility overlays now create more legal exposure than they solve",
-      "background": "Accessibility overlays — third-party JavaScript tools that claim to auto-fix WCAG compliance — have been marketed to legal and marketing teams as a fast, cheap alternative to remediation. Lawsuits and demand letters targeting overlay-using sites have increased.",
-      "keyFindings": [
-        "Legal demand letters are now specifically citing the presence of accessibility overlays as evidence of inadequate compliance effort, not a mitigating factor",
-        "Overlays frequently introduce new accessibility failures on top of existing ones, giving plaintiffs stronger grounds",
-        "The piece argues that deploying an overlay without manual remediation can be worse legally than having no overlay and no explicit compliance claim"
-      ],
-      "implications": "If your organization uses an overlay as its primary accessibility strategy, this is a meaningful legal and reputational risk — not just a UX quality issue. The practical move is to treat overlays as a temporary supplement at best, never a compliance solution, and to document your ongoing manual remediation work.",
-      "tags": [
-        "Accessibility",
-        "Legal risk",
-        "WCAG compliance"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1400/1*UmkmDsKpJ6n7c6JCLPQ-fw.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@mvmantzios/why-accessibility-overlays-are-now-a-bigger-legal-risk-than-doing-nothing-03d160fda49e?source=rss------ux-5",
-      "pubDate": "Tue, 11 Aug 2026 15:01:03 GMT"
-    },
-    {
-      "headline": "A developer built a live AI resume tailor — then left it running",
-      "background": "AI-assisted job application tools are proliferating, but most are closed products. This piece describes a practitioner who built their own resume tailoring tool and left it publicly accessible, sharing what they learned from the process.",
-      "keyFindings": [
-        "The tool uses AI to rewrite resume content against specific job descriptions in real time",
-        "Leaving it live as a public tool surfaced unexpected use patterns and edge cases the author hadn't anticipated",
-        "The experience reinforced lessons about building for yourself versus building for others — the two have different UX requirements"
-      ],
-      "implications": "Interesting for practitioners curious about rapid AI tool prototyping and what happens when personal tools meet public use. Low direct applicability to product teams but useful as a reflection on assumptions baked into self-built tools.",
-      "tags": [
-        "AI tools",
-        "Prototyping",
-        "Career tools"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*CHkDCq9kqhne0Nb_B7FQ9Q.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@harshaasapu.b/i-built-an-ai-tool-to-tailor-my-own-resume-then-i-left-it-live-5471462490cb?source=rss------product_design-5",
-      "pubDate": "Tue, 11 Aug 2026 15:01:03 GMT"
-    },
-    {
-      "headline": "ACA Section 1557 tightens accessibility rules for healthcare kiosks",
-      "background": "Patient-facing kiosks in healthcare settings — check-in terminals, payment stations, wayfinding — have lagged behind web and app accessibility standards. ACA Section 1557 anti-discrimination provisions are now being interpreted to explicitly cover these physical digital interfaces.",
-      "keyFindings": [
-        "Section 1557 of the ACA prohibits discrimination in health programs receiving federal funding, and updated guidance extends this to self-service kiosk interfaces",
-        "Kiosks must meet accessibility standards including screen reader compatibility, adjustable height, and audio output — requirements many current deployments fail",
-        "Non-compliant kiosks expose healthcare organizations to federal civil rights complaints, not just ADA suits"
-      ],
-      "implications": "Healthcare product and UX teams responsible for kiosk design or procurement need to treat Section 1557 as a hard compliance requirement, not a best-practice guideline. Existing kiosk deployments should be audited against current standards before the next procurement cycle.",
-      "tags": [
-        "Accessibility",
-        "Healthcare",
-        "Kiosk design"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Kiosk Marketplace",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1dzM2RRYWVqZlJUekdQSC05RS0tNWVBeXNvcG9qNXhlRE1PLTlERFRqdEpJZ09pTHF2Y3VvVWZTbkpUaXBWZUdmUVoybU5iX2JyODFmRk4xdzd6bEZTa0ZfRzhIdzFHaXJrNk9GaUZvZ2Rpak51X2RDcS1DdHFjY2x5bWdaWkphLV9xa05RakxURXNRT1lrMDJ1bnNVY3hkR0dybkZoTGFfUQ?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 13:02:34 GMT"
-    },
-    {
-      "headline": "Building precise tactile animation with Lottie and DOM math",
-      "background": "Lottie is widely used for lightweight animation playback, but most implementations treat it as a passive player. This piece documents a case where Lottie was used for a fully interactive tactile experience — a stress-relief squeeze toy in the browser — requiring precise control over animation state based on user input.",
-      "keyFindings": [
-        "The implementation uses distance-based math to map cursor/touch position to Lottie animation frame, giving designers frame-accurate control tied to physical interaction",
-        "DOM events are wired directly to Lottie's animation API rather than using CSS transitions, preserving the intentionality of the original motion design",
-        "The architecture prioritizes designer intent over developer convenience — animation parameters are not approximated or interpolated arbitrarily"
-      ],
-      "implications": "Relevant for frontend developers and interaction designers working on high-fidelity motion experiences where animation must respond to continuous input rather than trigger-and-play. The distance-math approach is directly applicable to drag interactions, proximity effects, and gesture-driven animation.",
-      "tags": [
-        "Motion design",
-        "Animation",
-        "Lottie"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Design & dev",
-      "publishedWindow": "today",
-      "image": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg",
-      "source": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "link": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
-      "pubDate": "Tue, 11 Aug 2026 10:00:00 GMT"
-    },
-    {
-      "headline": "21 custom ecommerce development companies listed for 2026",
-      "background": "This is a promotional roundup of ecommerce development vendors published via press release distribution.",
-      "keyFindings": [
-        "21 companies are listed with brief descriptions",
-        "No methodology, scoring criteria, or independent evaluation is disclosed",
-        "Content appears to be vendor-submitted or PR-driven"
-      ],
-      "implications": "Minimal editorial value for UX or product practitioners. If evaluating ecommerce development partners, use this only as a lead list and apply your own vetting process.",
-      "tags": [
-        "Ecommerce",
-        "Agency selection"
+        "Industry Trends",
+        "Market Research"
       ],
       "featured": false,
       "type": "research",
@@ -203,21 +133,19 @@
       "publishedWindow": "today",
       "image": null,
       "source": "openPR.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT05NNUFobU51Mm9ULXJoVS00VDBBRl9CakdTQUJjbXI1MWw1cTNlT3ZGTDRabkk4SDdGNUZrbnV6Y1EyUmtrcWJxbFJjNFlzdFByVUVxUUR1QXd0RXpieWZabWtoX1ducVNYc3d4aWRydXhCUllGbWIzdXp0RnhIblgwdmZTdWFu?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 09:54:58 GMT"
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTFnN3l2Nl81WnNNemd5eHZvcEZQel8xSjRpb0pXQWMyM3hLdzFPeVNzQ2JlNGpkQlEyMjFLV0VtVGZWeDR6Y2h0WmlkTGdySC1TOENLYnVfeDFzRi1CMWk5d2pOcWhvRmRibWY4ejVGck1KckkwYUduRXQ1ZVZXQV81NUd5ZlNBQ3NacklKczVnQ1Zm?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 12:56:06 GMT"
     },
     {
-      "headline": "28 web application development companies listed for 2026",
-      "background": "Another vendor roundup distributed via press release, covering web application development firms.",
+      "headline": "Tuxedo Rental Market Report — Not Relevant to This Digest",
+      "background": "This article appears to have been incorrectly included in a UX/product/tech content feed.",
       "keyFindings": [
-        "28 companies are listed across various specializations",
-        "No independent ranking methodology is provided",
-        "Published via openPR, a press release distribution service — content is not editorially vetted"
+        "This is a market research press release for the tuxedo rental industry with no UX, product, or technology relevance.",
+        "The 7.9% CAGR figure refers to the formal wear rental sector through 2030."
       ],
-      "implications": "Same caveats as similar roundups: useful only as a raw starting list. Not a reliable basis for vendor selection without independent research.",
+      "implications": "No relevance to UX, product, or tech practice. Not recommended for inclusion in this digest.",
       "tags": [
-        "Web development",
-        "Agency selection"
+        "Out of Scope"
       ],
       "featured": false,
       "type": "research",
@@ -225,8 +153,73 @@
       "publishedWindow": "today",
       "image": null,
       "source": "openPR.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYmtCbXUzMDlWTzB1eGE0aVduNVhYODNMS291akFpUGpkYjFoam9mbEpsSUNDUjh2U0tmR29WRWEydUllT1ZDcHJNUFpfNnNnYXRnNDVidW5HSDNuNzNEbDRYclAyeTJQTDFxMEZKNHloZ1ZsSURWMzRaRTMyeWVNUlZjZ2MyZXhZZm1NWGxjVEllcFU?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 09:47:56 GMT"
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcURfYnRmVUpyTFZXTll6LWl3dnI4UGtrUm9sQjEyZUJFdHh6THZnNUNIVWdZWlpPcE5TejBKTWxPNEcwTk5oQWNDQUZGbFlnakVHTUZkUzhUcmJWNk5VNlVrZHU2M1FUY2h1YWt0TDliNm5qbXRlRWp5NWFfQkR5NlFVaEY2Q05hVGNwTy1Ma3RIX1NrVEV6S3ZMLXFqZw?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 12:55:15 GMT"
+    },
+    {
+      "headline": "Travel Agency Market Report — Not Relevant to This Digest",
+      "background": "This article appears to have been incorrectly included in a UX/product/tech content feed.",
+      "keyFindings": [
+        "This is a market intelligence press release covering the travel agency services sector with no UX or product design angle.",
+        "No methodology, specific figures, or technology implications are present in the available snippet."
+      ],
+      "implications": "No relevance to UX, product, or tech practice. Not recommended for inclusion in this digest.",
+      "tags": [
+        "Out of Scope"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQXzRHWUZnbUozNHcyNmNLQVh4cFFacVNpb0EyNmstSGRYNG1Bb2ExdUR5VVJDSVpqR0RaX05iZWt3R0gtZEllTUhGWjF1ZTVjSEtzc1gwQmx3enpES0FQbHBaU0E0ZHZtM0lraDljdWw3VU1Sc2RwZXp4Zi1QU3k2dXJvWXNKR0hTdUVOYXdUVkRxVFpsN2xB?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 12:54:27 GMT"
+    },
+    {
+      "headline": "AI Image Generators Are Reshaping Content Creation Workflows",
+      "background": "The rapid adoption of AI image generation tools like Midjourney, DALL-E, and Stable Diffusion is forcing content teams, designers, and marketers to reassess how visual assets are sourced, reviewed, and owned.",
+      "keyFindings": [
+        "The snippet provides no specific findings, statistics, or named tools from the piece itself.",
+        "Coverage from general news outlets on this topic tends to focus on displacement narratives rather than workflow-level specifics useful to practitioners."
+      ],
+      "implications": "Without extractable specifics, the practical value of this piece is unclear. For teams actively evaluating AI image tools, more actionable resources exist from practitioners documenting specific workflow integration and prompt engineering outcomes.",
+      "tags": [
+        "AI Tools",
+        "Content Creation",
+        "Visual Design"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Cyprus Mail",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOG15dk5va243Z05JYzE1aXBjb21yQ1BhQnJoaHVHMFl3ekFwRnhiZHlrNWZWQXRfRXZGdWcyaFlfTFZKR3Bic3Y4QXpzekNPNGpOaUY5UnFHaEhWeWIyaHlaOThtVDZPYklKamxOdEwzSDNKOHNkcXJRM1FPQ1BZU1dfMUJPeFQ0Wm1CMUZPdk4tdw?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 12:38:18 GMT"
+    },
+    {
+      "headline": "Cognitive Load Is a Budget: Design for 4-Chunk Limit",
+      "background": "Jakob Nielsen revisits cognitive load theory in the context of modern interface design, pushing back against the tendency to treat cognitive load as something to simply eliminate rather than a finite resource to allocate deliberately.",
+      "keyFindings": [
+        "Working memory holds approximately 4 chunks of information at once — not 7 as older Miller's Law formulations suggested — meaning current UI density standards may be systematically over-loaded.",
+        "Nielsen frames cognitive load as a budget: the goal is not zero load but correct allocation, preserving capacity for the decisions and tasks that matter most to users.",
+        "Interfaces should audit which elements are consuming chunks unnecessarily — navigation labels, decorative elements, and ambiguous icons are common offenders — and eliminate or simplify them to free capacity for core task completion."
+      ],
+      "implications": "This reframe has direct implications for information architecture and component design: prioritizing which 4 things a user needs to hold in mind at any screen state should be an explicit design constraint, not an afterthought. Particularly relevant for dashboards, onboarding flows, and multi-step forms.",
+      "tags": [
+        "Cognitive Load",
+        "Information Architecture",
+        "Nielsen"
+      ],
+      "featured": true,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02SVhReUdZYWNZNGs1czFKMXBuRU00bm9VcUxJZWhPUlhJUkJfM2ZkaU53V2JoemEzNFVsNE9ncUpYVzZCNVhDU05WZ1dpVVFjVWtIbmEwa1dBOWtNM1VfV0Z2TQ?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 11:22:27 GMT"
     }
   ]
 }
