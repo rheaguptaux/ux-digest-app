@@ -1,225 +1,224 @@
 {
-  "generatedAt": "2026-08-12T15:31:16.300Z",
+  "generatedAt": "2026-08-13T15:32:49.032Z",
   "items": [
     {
-      "headline": "Why Some Products Feel Right: The Science of Fit",
-      "background": "Product teams often struggle to articulate why some designs feel immediately intuitive while others don't — 'feel' is frequently dismissed as subjective and therefore unactionable in design reviews.",
+      "headline": "Building MCP Tools Reveals Hard Truths About AI Agent Design",
+      "background": "Model Context Protocol (MCP) tools are a growing pattern for giving AI agents access to external data and actions, but most design guidance still treats the human as the primary user. This piece comes from direct experience building one.",
       "keyFindings": [
-        "Products that feel right typically align with users' existing mental models and physical expectations without requiring conscious adaptation.",
-        "The sensation of 'rightness' is often a signal that cognitive and motor load have been minimized simultaneously.",
-        "Perceived quality is heavily influenced by the first 2-3 seconds of interaction, before rational evaluation begins."
+        "AI agents calling your tool have no tolerance for ambiguous parameter names or unclear error messages — failures are silent and hard to debug",
+        "Tool descriptions function as the primary UI: the agent reads them to decide whether and how to invoke the tool, making copy more critical than in human-facing interfaces",
+        "Designing for agent callers requires thinking about failure modes that humans would self-correct — agents won't ask for clarification"
       ],
-      "implications": "For UX practitioners, 'feel' is a measurable proxy for cognitive and motor friction — not a vague aesthetic preference. Testing early tactile or first-interaction moments specifically can surface issues that task-completion metrics miss.",
+      "implications": "If your team is building or integrating MCP tools, treat the tool schema and description text as first-class design artifacts. Standard API documentation conventions aren't sufficient for agent-facing interfaces.",
       "tags": [
-        "Product Intuition",
-        "Cognitive Load",
-        "Interaction Design"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/0*pWhVLQEOhtdGXQ0b",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/illumination/why-do-some-products-just-feel-right-68734546cfae?source=rss------product_design-5",
-      "pubDate": "Wed, 12 Aug 2026 15:26:45 GMT"
-    },
-    {
-      "headline": "A Carnatic Violin Tuner Built Around How Musicians Actually Practice",
-      "background": "Most digital instrument tuners are built around Western equal temperament and fixed string counts, forcing musicians practicing Indian classical forms like Carnatic music to adapt their workflow to tools that don't match their tuning system or rehearsal patterns.",
-      "keyFindings": [
-        "Sa Perfect removes fixed string limits, allowing Carnatic practitioners to set and save reference pitches that reflect their actual raga-based practice rather than Western standard tuning.",
-        "The app eliminates 'link friction' — a specific pain point where users were accidentally tuning to an adjacent fifth rather than their intended reference pitch.",
-        "The design process centered on how Carnatic musicians actually begin practice sessions, not on feature parity with existing Western-oriented tuners."
-      ],
-      "implications": "This is a strong case study in domain-specific design: when a user group's workflow fundamentally differs from the assumed default, retrofitting a general-purpose tool creates compounding errors. Starting from practice behavior rather than feature sets is the operative lesson.",
-      "tags": [
-        "Domain-Specific Design",
-        "Mobile Apps",
-        "User Research"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*UOthRNM6_zGByjlZWZwSHw.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@harinarayananvm1692/sa-perfect-building-a-carnatic-first-violin-tuner-that-works-the-way-we-actually-practice-a682647fb7e2?source=rss------product_design-5",
-      "pubDate": "Wed, 12 Aug 2026 15:22:54 GMT"
-    },
-    {
-      "headline": "Design Decisions Are Built on Assumptions — Make Them Explicit",
-      "background": "Design teams routinely make decisions based on unstated assumptions about user behavior, problem priority, and what counts as 'obvious' — assumptions that often go untested until late in development when changes are expensive.",
-      "keyFindings": [
-        "Every design decision encodes at least one assumption about user behavior, whether or not the designer has named it.",
-        "Assumptions about what 'should feel obvious' are particularly risky because they are rarely flagged for validation — they feel like facts.",
-        "Making assumptions explicit before design work begins creates a lightweight audit trail that helps teams identify where they need research versus where they can proceed."
-      ],
-      "implications": "Teams should treat assumption-logging as a standard design artifact alongside wireframes and specs — especially for decisions made under time pressure. This is most critical at problem-definition and information-architecture stages, where wrong assumptions compound downstream.",
-      "tags": [
-        "Design Process",
-        "Research",
-        "Decision Making"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1080/1*hVMZg7fQ8pYQiKsnj_R4Sg.png",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@selimatakinwale/every-design-decision-is-built-on-assumptions-ca85648e02b3?source=rss------ux_research-5",
-      "pubDate": "Wed, 12 Aug 2026 15:21:34 GMT"
-    },
-    {
-      "headline": "AI Design Reviews Fail Silently — Here Are Four Fixes",
-      "background": "As AI tools generate more design artifacts — layouts, components, copy — standard design review processes are struggling to catch errors because AI failures tend to look plausible on the surface rather than obviously broken.",
-      "keyFindings": [
-        "AI-generated design work often violates design system rules in ways that are visually subtle — correct component type, wrong usage context — making standard visual QA insufficient.",
-        "The author identifies four specific review techniques: semantic intent checks, edge-case stress testing, system coherence audits, and accessibility state verification.",
-        "The core problem is that AI outputs optimize for visual plausibility, not functional or systemic correctness, so reviewers must shift from 'does this look right' to 'does this behave correctly across states'."
-      ],
-      "implications": "If your team is using AI to generate or assist with design work, your existing review checklist is probably inadequate. Reviewing for semantic and behavioral correctness — not just visual accuracy — requires deliberate process changes before AI-generated work ships.",
-      "tags": [
-        "AI Tools",
-        "Design Systems",
-        "Design Review"
+        "AI agents",
+        "MCP",
+        "Developer tools"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2400/1*oKiUuWVzH-281PMWkbNfSA.png",
+      "image": "https://cdn-images-1.medium.com/max/1819/1*s2xEjjElGvDnVPq6_pEmHw.png",
       "source": "Product Design on Medium",
-      "link": "https://anis-aliabadi.medium.com/stop-asking-ai-if-it-followed-the-design-system-956f1c45b1e1?source=rss------product_design-5",
-      "pubDate": "Wed, 12 Aug 2026 15:16:56 GMT"
+      "link": "https://medium.com/@apifymcpfactory/what-building-an-mcp-tool-taught-me-about-designing-for-ai-agents-68a8718d7798?source=rss------product_design-5",
+      "pubDate": "Thu, 13 Aug 2026 15:21:01 GMT"
     },
     {
-      "headline": "Gen Z Gravitating Toward Creative Degrees — Limited Data Here",
-      "background": "There is ongoing debate in higher education and industry about whether Gen Z enrollment patterns in creative fields reflect genuine interest shifts or economic pragmatism about career outcomes.",
+      "headline": "Award Announcement for Global Graphic Designers Upcoming",
+      "background": "What N Where is preparing to announce a list of top global graphic designers, part of ongoing industry recognition efforts.",
       "keyFindings": [
-        "The snippet provides no extractable data or specific findings from this piece.",
-        "No methodology, enrollment figures, or institutional sources are referenced in the available content."
+        "The announcement focuses on designers working across creativity, technology, and visual storytelling",
+        "No specific criteria or methodology for selection is detailed in the snippet"
       ],
-      "implications": "Insufficient content available to draw reliable conclusions. Treat any claims from this piece with caution until primary enrollment data can be verified from institutional or government sources.",
+      "implications": "Minimal relevance for UX/product practitioners. Award lists of this type rarely surface actionable insight or verifiable methodology.",
       "tags": [
-        "Education",
-        "Gen Z",
-        "Creative Careers"
+        "Graphic design",
+        "Industry awards"
       ],
       "featured": false,
-      "type": "research",
-      "category": "Industry news",
+      "type": "opinion",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": null,
-      "source": "PressReader",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oajJFTEQzckZXVGw2d0Q3blVvNDEwQ1kzWkhDNTlHZFB3d1NYN0s5TEJNN0FUekYzaC1ZelI2UFpmdmZJWENuMDFCd2trc3pyeVBiSC1Vem41RTIwdllzem14XzAza05ISVBRQjFEbldHbXNJWUtMZnZ3?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 13:02:20 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1536/1*ejeFtL4pgbZSeueeYS_Wuw.png",
+      "source": "Product Design on Medium",
+      "link": "https://whatnwhereofficial.medium.com/best-global-graphic-designers-to-be-announced-by-what-n-where-d33471828921?source=rss------product_design-5",
+      "pubDate": "Thu, 13 Aug 2026 15:13:46 GMT"
     },
     {
-      "headline": "UX Services Market Demand Shifting — No Specifics Available",
-      "background": "Market research reports on the UX services sector periodically circulate via press release, often cited as evidence of industry growth, though their methodologies and definitions vary widely.",
+      "headline": "Indonesian Student Cooking Guide: No Relevance to UX Digest",
+      "background": "This is a Bahasa Indonesia lifestyle article targeted at budget-conscious students (anak kos) about meal planning.",
       "keyFindings": [
-        "The snippet contains no specific figures, market size estimates, or named trends from the report.",
-        "Press release-format market studies frequently conflate different service categories and use inconsistent definitions of 'UX services'."
+        "Content is unrelated to UX, product design, or technology",
+        "Written in Indonesian for a local consumer audience"
       ],
-      "implications": "Without access to methodology and segmentation definitions, market figures from this type of report should not be used to justify strategic decisions. Look for primary data from sources like Nielsen Norman Group or industry association surveys instead.",
+      "implications": "Not applicable to a UX/tech professional audience.",
       "tags": [
-        "Industry Trends",
-        "Market Research"
+        "Off-topic"
       ],
       "featured": false,
-      "type": "research",
-      "category": "Industry news",
+      "type": "opinion",
+      "category": "Product design",
       "publishedWindow": "today",
       "image": null,
-      "source": "openPR.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTFnN3l2Nl81WnNNemd5eHZvcEZQel8xSjRpb0pXQWMyM3hLdzFPeVNzQ2JlNGpkQlEyMjFLV0VtVGZWeDR6Y2h0WmlkTGdySC1TOENLYnVfeDFzRi1CMWk5d2pOcWhvRmRibWY4ejVGck1KckkwYUduRXQ1ZVZXQV81NUd5ZlNBQ3NacklKczVnQ1Zm?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 12:56:06 GMT"
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@zyan.muzadi/bingung-masak-apa-hari-ini-konsep-sederhana-biar-anak-kos-gak-asal-makan-af66a96cd23e?source=rss------product_design-5",
+      "pubDate": "Thu, 13 Aug 2026 14:40:15 GMT"
     },
     {
-      "headline": "Tuxedo Rental Market Report — Not Relevant to This Digest",
-      "background": "This article appears to have been incorrectly included in a UX/product/tech content feed.",
+      "headline": "Foot Roller UX: Habit Fit Beats Feature Specs",
+      "background": "Consumer product reviews typically focus on intensity and feature count, but there is a growing argument in product design circles that behavioral fit — whether a product integrates into daily routine — predicts satisfaction better than specifications.",
       "keyFindings": [
-        "This is a market research press release for the tuxedo rental industry with no UX, product, or technology relevance.",
-        "The 7.9% CAGR figure refers to the formal wear rental sector through 2030."
+        "Number of rollers or ridges is a weak predictor of whether users actually continue using the product",
+        "Routine compatibility — when and how easily the product fits into existing behavior — is framed as the more meaningful design variable",
+        "Intensity-focused marketing may create expectation mismatches that drive abandonment"
       ],
-      "implications": "No relevance to UX, product, or tech practice. Not recommended for inclusion in this digest.",
+      "implications": "Relevant as a case study for product designers: it illustrates how optimizing for ease-of-habit-formation can outperform optimizing for peak-performance specs, applicable to software onboarding and feature prioritization logic.",
       "tags": [
-        "Out of Scope"
+        "Behavioral design",
+        "Consumer products",
+        "Habit formation"
       ],
       "featured": false,
-      "type": "research",
-      "category": "Industry news",
+      "type": "opinion",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": null,
-      "source": "openPR.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcURfYnRmVUpyTFZXTll6LWl3dnI4UGtrUm9sQjEyZUJFdHh6THZnNUNIVWdZWlpPcE5TejBKTWxPNEcwTk5oQWNDQUZGbFlnakVHTUZkUzhUcmJWNk5VNlVrZHU2M1FUY2h1YWt0TDliNm5qbXRlRWp5NWFfQkR5NlFVaEY2Q05hVGNwTy1Ma3RIX1NrVEV6S3ZMLXFqZw?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 12:55:15 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1000/1*KdA1eitYV1bFgv3gWtPCEA.jpeg",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@petercucek/when-choosing-a-foot-roller-behaviour-matters-more-than-intensity-534e320be04a?source=rss------product_design-5",
+      "pubDate": "Thu, 13 Aug 2026 14:26:34 GMT"
     },
     {
-      "headline": "Travel Agency Market Report — Not Relevant to This Digest",
-      "background": "This article appears to have been incorrectly included in a UX/product/tech content feed.",
+      "headline": "Microsoft Design on Engineering the First Five Minutes of an App",
+      "background": "First-run experiences are a persistent pain point: users who don't reach value quickly churn, yet onboarding design often gets deprioritized or treated as a one-time screen sequence rather than a designed journey. Microsoft Design published a dedicated treatment of this problem.",
       "keyFindings": [
-        "This is a market intelligence press release covering the travel agency services sector with no UX or product design angle.",
-        "No methodology, specific figures, or technology implications are present in the available snippet."
+        "The first five minutes are framed as the highest-leverage window for establishing user mental models and trust",
+        "The piece distinguishes between orientation (knowing where you are) and activation (doing something meaningful) as separate design goals",
+        "Microsoft's framework emphasizes reducing cognitive load in the critical path to a first success moment"
       ],
-      "implications": "No relevance to UX, product, or tech practice. Not recommended for inclusion in this digest.",
+      "implications": "Directly actionable for product teams designing onboarding: separating orientation from activation as distinct phases gives you cleaner success metrics and a clearer brief for each screen. Most relevant to complex or enterprise products where time-to-value is long.",
       "tags": [
-        "Out of Scope"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "openPR.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQXzRHWUZnbUozNHcyNmNLQVh4cFFacVNpb0EyNmstSGRYNG1Bb2ExdUR5VVJDSVpqR0RaX05iZWt3R0gtZEllTUhGWjF1ZTVjSEtzc1gwQmx3enpES0FQbHBaU0E0ZHZtM0lraDljdWw3VU1Sc2RwZXp4Zi1QU3k2dXJvWXNKR0hTdUVOYXdUVkRxVFpsN2xB?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 12:54:27 GMT"
-    },
-    {
-      "headline": "AI Image Generators Are Reshaping Content Creation Workflows",
-      "background": "The rapid adoption of AI image generation tools like Midjourney, DALL-E, and Stable Diffusion is forcing content teams, designers, and marketers to reassess how visual assets are sourced, reviewed, and owned.",
-      "keyFindings": [
-        "The snippet provides no specific findings, statistics, or named tools from the piece itself.",
-        "Coverage from general news outlets on this topic tends to focus on displacement narratives rather than workflow-level specifics useful to practitioners."
-      ],
-      "implications": "Without extractable specifics, the practical value of this piece is unclear. For teams actively evaluating AI image tools, more actionable resources exist from practitioners documenting specific workflow integration and prompt engineering outcomes.",
-      "tags": [
-        "AI Tools",
-        "Content Creation",
-        "Visual Design"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Cyprus Mail",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOG15dk5va243Z05JYzE1aXBjb21yQ1BhQnJoaHVHMFl3ekFwRnhiZHlrNWZWQXRfRXZGdWcyaFlfTFZKR3Bic3Y4QXpzekNPNGpOaUY5UnFHaEhWeWIyaHlaOThtVDZPYklKamxOdEwzSDNKOHNkcXJRM1FPQ1BZU1dfMUJPeFQ0Wm1CMUZPdk4tdw?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 12:38:18 GMT"
-    },
-    {
-      "headline": "Cognitive Load Is a Budget: Design for 4-Chunk Limit",
-      "background": "Jakob Nielsen revisits cognitive load theory in the context of modern interface design, pushing back against the tendency to treat cognitive load as something to simply eliminate rather than a finite resource to allocate deliberately.",
-      "keyFindings": [
-        "Working memory holds approximately 4 chunks of information at once — not 7 as older Miller's Law formulations suggested — meaning current UI density standards may be systematically over-loaded.",
-        "Nielsen frames cognitive load as a budget: the goal is not zero load but correct allocation, preserving capacity for the decisions and tasks that matter most to users.",
-        "Interfaces should audit which elements are consuming chunks unnecessarily — navigation labels, decorative elements, and ambiguous icons are common offenders — and eliminate or simplify them to free capacity for core task completion."
-      ],
-      "implications": "This reframe has direct implications for information architecture and component design: prioritizing which 4 things a user needs to hold in mind at any screen state should be an explicit design constraint, not an afterthought. Particularly relevant for dashboards, onboarding flows, and multi-step forms.",
-      "tags": [
-        "Cognitive Load",
-        "Information Architecture",
-        "Nielsen"
+        "Onboarding",
+        "First-run experience",
+        "Product design"
       ],
       "featured": true,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02SVhReUdZYWNZNGs1czFKMXBuRU00bm9VcUxJZWhPUlhJUkJfM2ZkaU53V2JoemEzNFVsNE9ncUpYVzZCNVhDU05WZ1dpVVFjVWtIbmEwa1dBOWtNM1VfV0Z2TQ?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 11:22:27 GMT"
+      "source": "microsoft.design",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11ZHphLTI2azBLRkI0cV81ekVOOU5TX1otR1FMaEJPNFozSlpEUEE4TEF0NWtNcTkzM3dYRk1fMm5fVzRDNEE0ajhVeWRYM1kwdnBHQmN3Y1R5ZE5SOGNwQWgxNlVQdG5VZW1vY3hVWmMzSTF0UHc?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 13:41:17 GMT"
+    },
+    {
+      "headline": "Bevi Redesigns Drink Machine Interface for Personalization at Scale",
+      "background": "Bevi makes smart water dispensers for offices and public spaces. As functional beverage options (electrolytes, supplements) multiply, the on-device touchscreen UX has become a real constraint on how much personalization is commercially viable at a machine.",
+      "keyFindings": [
+        "New interface is designed to handle a wider range of functional add-ins, not just flavor selection",
+        "The screen experience is positioned as the primary driver of product differentiation, not the hardware",
+        "Launch is framed around future scalability of personalized options, suggesting the UI architecture had to change to accommodate a growing ingredient matrix"
+      ],
+      "implications": "Worth watching for teams designing kiosk or embedded-screen experiences: this is a real-world case of UI needing to evolve as the product's configurability outgrows its original interface model.",
+      "tags": [
+        "Kiosk UI",
+        "Embedded interfaces",
+        "Personalization"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "markets.businessinsider.com",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN1k2cE9mT1QyZTBFM3FST2pqRDdzQTN5Smg1amVCMmxZeFJMS2RvZWdSUmRWdFNsbkZpb19HWkZ1blFIRGNSZ2VPQjlBdm9VZXVpdmJFN3FEblpGa1h2QzFtTVZjRDJDcnBkOUE3V2xNa01jeENDRVNSYTdNMmgzUVVOeVUyMk1ZanZaVnlpLVBnLTljN0JyX3FLMUxsa0UyQ3daSmZaWHBhT1g3Vm8zX2VTSzZFX09EOThRSVNpY3FJSnNPZEFqYkJYUXo1bXBzaFBUVGVPSlkxVVM5SkhzdnFmaFdiMlZNTzRN?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 13:37:45 GMT"
+    },
+    {
+      "headline": "Listicle: 23 Custom Web Dev Agencies for 2026",
+      "background": "Vendor roundup lists are a staple of tech publishing, typically produced for SEO rather than editorial value.",
+      "keyFindings": [
+        "No methodology or ranking criteria are disclosed in the snippet",
+        "Content appears to be a directory-style list rather than an evaluative comparison"
+      ],
+      "implications": "Not a reliable reference for vendor selection without independent verification of criteria. Use with skepticism.",
+      "tags": [
+        "Web development",
+        "Vendor lists"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Programming Insider",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbV9XRGVEVDFTaHl1dm9XZnVlR2k2RWtteHh3WWtEQVhwcTBld2FZSUZYMWJDTkRmZDAyU1VoRUkxcXg3UUdHTWlRZnVmdXFmdWpPQ1RMZU5JUHZZWDBJeHpGdEs3eHEzRF9iQUxXYld6akgxV3Z3NWc4NWgzMGhHNS1B?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 13:18:03 GMT"
+    },
+    {
+      "headline": "Bentley Names T.Jon Mayer Head of Exterior Design",
+      "background": "Leadership changes in automotive design are covered across two near-identical entries here — one from a car news outlet, one from Bentley's own newsroom.",
+      "keyFindings": [
+        "T.Jon Mayer has been appointed Head of Exterior Design and Design Operations at Bentley Motors",
+        "The dual sourcing (press release and trade outlet) adds no additional information"
+      ],
+      "implications": "No direct relevance to UX or digital product practice.",
+      "tags": [
+        "Automotive design",
+        "Leadership"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "CompleteCar.ie",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZk1ZcmgyRHd5NW9YWGZpT216d3hCMnJDcGNJYTRkNnhadU5wd1VfLTg4N0RiNmM4RU8yaGREdWRab0xEMkJtaVBYSS12eXlmZ0tjZlRNeHJBVXFJM0g1R0lpeHFpNW52UzZkYlBOWk5YVTlVN2tvcXBPRklObHVJc1AxRl8wMXh2Y215QmRManV0Zw?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 12:53:00 GMT"
+    },
+    {
+      "headline": "Bentley Names T.Jon Mayer Head of Exterior Design (Official)",
+      "background": "This is the official Bentley newsroom version of the same appointment covered in article 8.",
+      "keyFindings": [
+        "Official confirmation of T.Jon Mayer's appointment as Head of Exterior Design and Design Operations",
+        "No UX or digital product angle present in the announcement"
+      ],
+      "implications": "Duplicate of article 8 from a primary source. No added relevance for UX/product practitioners.",
+      "tags": [
+        "Automotive design",
+        "Leadership"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "BENTLEY NEWSROOM",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EWmRPN0c3cjY3MTdwZ2xSaU02S2hlOHJDLW1yTTZMaWlGVGxnTlRLeU5LbjZaSElTOG94dnhUQ0ExYjFoR1ZFQ2RzUTktM2tYQ0NuZmlCeW0?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 12:37:53 GMT"
+    },
+    {
+      "headline": "Agency Zero Negative Expands 3D Web Design Offering",
+      "background": "3D on the web has historically been limited to high-budget brand sites due to performance costs and specialist skill requirements. Agencies pitching 3D as a broader commercial service are testing whether tooling has matured enough to make it mainstream.",
+      "keyFindings": [
+        "Zero Negative is positioning 3D web design as accessible to a wider range of brand budgets, not just flagship campaigns",
+        "No specific tooling stack or performance benchmarks are cited in the snippet",
+        "The pitch is market expansion, not a technical breakthrough"
+      ],
+      "implications": "Treat as a market signal rather than a technical reference. If clients are asking about 3D web experiences, this reflects growing expectation-setting from agency marketing — worth knowing about when scoping projects.",
+      "tags": [
+        "3D web",
+        "Agency services",
+        "Web design trends"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeDdtMnotcUJiZXNIT3kzaU1JazZidGNPcHFEYlhpZl9sWnFHTWFCbkJGcDVIcHZxclN2UmNJYnE4dnJlSDM2UUg1eXBWNFNFMmJlYUVsRG5XNER5MUNJTVB0TXc1NEZzM1MtMUYyN0tpbHN1ZkRVdy1LRC1ncU5seXk5alZCdGJSRWp2dXVrNHlfaFBPdEdlTkY0S09OOXM?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 12:30:00 GMT"
     }
   ]
 }
