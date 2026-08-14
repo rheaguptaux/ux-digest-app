@@ -1,224 +1,235 @@
 {
-  "generatedAt": "2026-08-13T15:32:49.032Z",
+  "generatedAt": "2026-08-14T15:08:23.626Z",
   "items": [
     {
-      "headline": "Building MCP Tools Reveals Hard Truths About AI Agent Design",
-      "background": "Model Context Protocol (MCP) tools are a growing pattern for giving AI agents access to external data and actions, but most design guidance still treats the human as the primary user. This piece comes from direct experience building one.",
+      "headline": "RayIPTV rebrand: streaming UI case study breakdown",
+      "background": "Streaming platforms face intense competition for user retention, and brand consistency across UI is often the gap between churn and loyalty. This Medium case study documents a redesign project for RayIPTV.",
       "keyFindings": [
-        "AI agents calling your tool have no tolerance for ambiguous parameter names or unclear error messages — failures are silent and hard to debug",
-        "Tool descriptions function as the primary UI: the agent reads them to decide whether and how to invoke the tool, making copy more critical than in human-facing interfaces",
-        "Designing for agent callers requires thinking about failure modes that humans would self-correct — agents won't ask for clarification"
+        "Case study focuses on visual polish and first-impression design for a streaming platform",
+        "Covers brand evolution alongside UI/UX changes, not just surface restyling",
+        "No quantitative outcome data is surfaced in the available snippet"
       ],
-      "implications": "If your team is building or integrating MCP tools, treat the tool schema and description text as first-class design artifacts. Standard API documentation conventions aren't sufficient for agent-facing interfaces.",
+      "implications": "Useful as a portfolio reference for streaming UI patterns, but without performance metrics this is anecdotal. Treat as inspiration, not evidence.",
       "tags": [
-        "AI agents",
-        "MCP",
-        "Developer tools"
+        "Streaming UI",
+        "Brand Design",
+        "Case Study"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*0LaVhuwGvmTcYePHIjUC7w.png",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@creatodesigns/transforming-rayiptv-a-case-study-in-brand-evolution-and-seamless-streaming-ui-ux-9d4108e1b359?source=rss------ux_research-5",
+      "pubDate": "Fri, 14 Aug 2026 14:54:28 GMT"
+    },
+    {
+      "headline": "Undo is the most critical control in AI interfaces",
+      "background": "As AI tools take consequential actions on behalf of users — editing documents, sending messages, restructuring content — the cost of errors rises sharply. Error recovery design has lagged behind AI capability development.",
+      "keyFindings": [
+        "The argument centers on undo as a trust mechanism, not just a convenience feature",
+        "Without reliable undo, users limit how much agency they delegate to AI systems",
+        "The piece positions undo as infrastructure for AI adoption, not an edge-case feature"
+      ],
+      "implications": "Product teams building AI-assisted workflows should audit error recovery before shipping new AI actions. If users can't undo it, many won't try it.",
+      "tags": [
+        "AI tools",
+        "Error Recovery",
+        "Trust"
       ],
       "featured": true,
       "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1819/1*s2xEjjElGvDnVPq6_pEmHw.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@apifymcpfactory/what-building-an-mcp-tool-taught-me-about-designing-for-ai-agents-68a8718d7798?source=rss------product_design-5",
-      "pubDate": "Thu, 13 Aug 2026 15:21:01 GMT"
-    },
-    {
-      "headline": "Award Announcement for Global Graphic Designers Upcoming",
-      "background": "What N Where is preparing to announce a list of top global graphic designers, part of ongoing industry recognition efforts.",
-      "keyFindings": [
-        "The announcement focuses on designers working across creativity, technology, and visual storytelling",
-        "No specific criteria or methodology for selection is detailed in the snippet"
-      ],
-      "implications": "Minimal relevance for UX/product practitioners. Award lists of this type rarely surface actionable insight or verifiable methodology.",
-      "tags": [
-        "Graphic design",
-        "Industry awards"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*ejeFtL4pgbZSeueeYS_Wuw.png",
-      "source": "Product Design on Medium",
-      "link": "https://whatnwhereofficial.medium.com/best-global-graphic-designers-to-be-announced-by-what-n-where-d33471828921?source=rss------product_design-5",
-      "pubDate": "Thu, 13 Aug 2026 15:13:46 GMT"
-    },
-    {
-      "headline": "Indonesian Student Cooking Guide: No Relevance to UX Digest",
-      "background": "This is a Bahasa Indonesia lifestyle article targeted at budget-conscious students (anak kos) about meal planning.",
-      "keyFindings": [
-        "Content is unrelated to UX, product design, or technology",
-        "Written in Indonesian for a local consumer audience"
-      ],
-      "implications": "Not applicable to a UX/tech professional audience.",
-      "tags": [
-        "Off-topic"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
+      "category": "UX",
       "publishedWindow": "today",
       "image": null,
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@zyan.muzadi/bingung-masak-apa-hari-ini-konsep-sederhana-biar-anak-kos-gak-asal-makan-af66a96cd23e?source=rss------product_design-5",
-      "pubDate": "Thu, 13 Aug 2026 14:40:15 GMT"
+      "source": "UX on Medium",
+      "link": "https://medium.com/@najwa.nurhussen/the-most-important-button-in-ai-ux-might-be-undo-33a2ad971d51?source=rss------ux-5",
+      "pubDate": "Fri, 14 Aug 2026 14:43:50 GMT"
     },
     {
-      "headline": "Foot Roller UX: Habit Fit Beats Feature Specs",
-      "background": "Consumer product reviews typically focus on intensity and feature count, but there is a growing argument in product design circles that behavioral fit — whether a product integrates into daily routine — predicts satisfaction better than specifications.",
+      "headline": "You have 3 seconds to stop users from leaving",
+      "background": "Bounce rate research consistently shows users make stay-or-leave decisions within seconds of landing on a product. This piece addresses how to design specifically for that pre-commitment window.",
       "keyFindings": [
-        "Number of rollers or ridges is a weak predictor of whether users actually continue using the product",
-        "Routine compatibility — when and how easily the product fits into existing behavior — is framed as the more meaningful design variable",
-        "Intensity-focused marketing may create expectation mismatches that drive abandonment"
+        "Focuses on the decision moment before a user consciously evaluates a product",
+        "Argues visual and contextual signals in the first 3 seconds determine perceived relevance",
+        "Framing, hierarchy, and motion are identified as the primary levers in that window"
       ],
-      "implications": "Relevant as a case study for product designers: it illustrates how optimizing for ease-of-habit-formation can outperform optimizing for peak-performance specs, applicable to software onboarding and feature prioritization logic.",
-      "tags": [
-        "Behavioral design",
-        "Consumer products",
-        "Habit formation"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1000/1*KdA1eitYV1bFgv3gWtPCEA.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@petercucek/when-choosing-a-foot-roller-behaviour-matters-more-than-intensity-534e320be04a?source=rss------product_design-5",
-      "pubDate": "Thu, 13 Aug 2026 14:26:34 GMT"
-    },
-    {
-      "headline": "Microsoft Design on Engineering the First Five Minutes of an App",
-      "background": "First-run experiences are a persistent pain point: users who don't reach value quickly churn, yet onboarding design often gets deprioritized or treated as a one-time screen sequence rather than a designed journey. Microsoft Design published a dedicated treatment of this problem.",
-      "keyFindings": [
-        "The first five minutes are framed as the highest-leverage window for establishing user mental models and trust",
-        "The piece distinguishes between orientation (knowing where you are) and activation (doing something meaningful) as separate design goals",
-        "Microsoft's framework emphasizes reducing cognitive load in the critical path to a first success moment"
-      ],
-      "implications": "Directly actionable for product teams designing onboarding: separating orientation from activation as distinct phases gives you cleaner success metrics and a clearer brief for each screen. Most relevant to complex or enterprise products where time-to-value is long.",
+      "implications": "Relevant for landing pages and onboarding screens where cold-start impressions matter most. Test first-screen content independently from downstream flows.",
       "tags": [
         "Onboarding",
-        "First-run experience",
-        "Product design"
+        "Retention",
+        "Visual Hierarchy"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*BE7L_HKo5hjp4mJSWlZ4DQ.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@nikolaev.design1/the-3-second-rule-designing-for-the-moment-before-the-user-decides-to-stay-2a7b866c8dbd?source=rss------ux-5",
+      "pubDate": "Fri, 14 Aug 2026 14:37:37 GMT"
+    },
+    {
+      "headline": "Devotional marketplace app concept: Vraja Living",
+      "background": "Niche community marketplaces require UX that balances commerce with identity and values — a different design challenge than general e-commerce. This is a concept project for handcrafted goods serving a devotional community.",
+      "keyFindings": [
+        "Concept targets a conscious-consumer community rather than a mass market",
+        "Design challenge involves integrating cultural and spiritual identity into commerce UI",
+        "No user research or validation data is referenced in the snippet"
+      ],
+      "implications": "Useful for designers working on values-driven or subcultural marketplace products. Note this is a speculative concept, not a shipped product.",
+      "tags": [
+        "E-commerce",
+        "Niche Marketplaces",
+        "Concept Design"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1920/1*FOtRhmDgU4aHfoN5WaLryw.jpeg",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@create.chetna/vraja-living-a-devotional-marketplace-app-concept-5e1bbf1ce8e6?source=rss------product_design-5",
+      "pubDate": "Fri, 14 Aug 2026 14:34:27 GMT"
+    },
+    {
+      "headline": "Handheld maker: AI is optional, not essential to good design",
+      "background": "Hardware makers face pressure to incorporate AI as a selling point, even when the use case is thin. Mangmi, maker of the Air Y handheld device, is pushing back against AI-as-default in consumer hardware design.",
+      "keyFindings": [
+        "Mangmi explicitly positions AI as a nice-to-have rather than a core design requirement for the Air Y",
+        "Design philosophy prioritizes function and form over feature stacking",
+        "Represents a minority position in a market where AI integration is heavily marketed"
+      ],
+      "implications": "Worth noting for product teams facing internal pressure to add AI features without clear user need. A named hardware manufacturer making this stance public is a useful reference point in those conversations.",
+      "tags": [
+        "Hardware Design",
+        "AI features",
+        "Product Strategy"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Time Extension",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVDNVdlRsMVU5eHl6NzlfeFNQVnU5RllRVWRzUmZERVRGcWM0dndhekdjU3FHbzZPc2gwQnZSRmJSQ3N3bVZadzY2amhPS0ViMkVGX2FQZnIzQ251a2V1Qy1WN1kweEFHclR5Y2w2RnFacWtWd3YwU0kzUWFheFhDazc1SmR4QjF6Ykt2OFphaWxMZXcydl9fLWFmdXJ0dlJfMzBaYllReTBsdUVGTmZZUmNob1J0d0xJeFJ3VzN3Y1BFNFc0aHA0TU1HRERKMjlNSWp0bElmOUpVOHBCMGd6M3RpWQ?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 14:00:00 GMT"
+    },
+    {
+      "headline": "Target appoints first Chief AI Officer, links AI directly to UX",
+      "background": "Retailers are restructuring leadership to formally connect AI strategy to customer experience outcomes. Target's move is notable for explicitly pairing the AI role with UX rather than housing it purely in engineering or data.",
+      "keyFindings": [
+        "Target created a Chief AI Officer role for the first time in its history",
+        "The role is explicitly connected to UX and customer experience, not siloed in IT",
+        "Target frames AI plus UX as its primary lever for next-phase growth"
+      ],
+      "implications": "This signals a broader organizational pattern worth watching: AI strategy being embedded in experience design rather than treated as a backend capability. UX leaders should understand how to position their work within AI-driven business cases.",
+      "tags": [
+        "Retail Tech",
+        "AI Strategy",
+        "Org Design"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVZLSnJ4TjZCTUhQY1ljWWRLeUtESnhYRy1FeUZ1aGwzVGh6aVRVMXktV0Z0N013UWtNZTVoUERTQXVORENRZGZldWh6QTg3X2dfY1hmZ2J3OEFfS3VLZzZ5OEl1Q3NwcFBtMElrdm5FRkhMZjZqQ3hZODlLRWtMVFA3YUQtX3NNb0x2dmJLb1k3LTkzb2p6aG5vYmhJSjd3US1CRDBlQThiTDdQUEs5X9IBtgFBVV95cUxQekFDcVhYTU8yY19ldWdGbnAwTkF4VlBEd0VrNHlldDBrd1pvVm84ZDRVTXJNcWdkc1FhVlZheXpzV3Bmel9KbGRiaG94RnExeVNoRmFoSEJyMThWa3BkQi16MTd2Q29nOVZLTVRoNkJ5MVFMQ1FSZ2hBQ2tteUNTT1dvRXlJQzEySERVVzZqal9TWGk5bFh6VHIxa0xWU1dyQl9GUEphWEZPT3EyQ0tPUzByMVdFUQ?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 12:19:27 GMT"
+    },
+    {
+      "headline": "Microsoft merges Copilot apps, cuts 5 features in transition",
+      "background": "Microsoft has been consolidating its fragmented AI product lineup, and the Copilot app merger is part of that rationalization effort. Users of existing standalone apps face capability loss during the transition.",
+      "keyFindings": [
+        "Five specific features are being cut as part of the Copilot app consolidation",
+        "The merger changes the interface and access points users currently rely on",
+        "No direct replacements for the removed features are confirmed in the snippet"
+      ],
+      "implications": "Teams using Microsoft Copilot in workflows should audit which features they depend on before the merger completes. This is a concrete product change, not just a rebrand.",
+      "tags": [
+        "Microsoft Copilot",
+        "AI tools",
+        "Product Changes"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "techmitra.in",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44RVZsUjRaZkxrU0pNaHVyNWNfOEZaVTNyWHVCREpXRzI1dk1UUnh1eHFYeWo2WXpqbGlaal9sQVdSRk43Y3B5Z0ZmeVIyNFhLb19HU1ZrZzJwX21UWURV?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 11:31:39 GMT"
+    },
+    {
+      "headline": "Jakob Nielsen's AI UX roundup: agents, chat UI, and cognitive bias",
+      "background": "AI interface design is generating a fast-moving body of research and practice with few consolidated resources. Nielsen's roundup aggregates findings across multiple threads simultaneously being debated in the field.",
+      "keyFindings": [
+        "Covers branching UI vs. linear chat as competing paradigms for AI interaction design — a live design debate",
+        "Addresses base-rate neglect as a cognitive bias relevant to how users interpret AI outputs",
+        "Includes research on delegating agent actions, a key trust and control problem in agentic AI design"
+      ],
+      "implications": "High-signal reading for anyone designing AI interfaces right now. The branching vs. linear chat framing and the agent delegation findings are directly applicable to current design decisions.",
+      "tags": [
+        "AI Interaction Design",
+        "Cognitive Bias",
+        "Agentic AI"
       ],
       "featured": true,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "microsoft.design",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11ZHphLTI2azBLRkI0cV81ekVOOU5TX1otR1FMaEJPNFozSlpEUEE4TEF0NWtNcTkzM3dYRk1fMm5fVzRDNEE0ajhVeWRYM1kwdnBHQmN3Y1R5ZE5SOGNwQWgxNlVQdG5VZW1vY3hVWmMzSTF0UHc?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 13:41:17 GMT"
+      "source": "jakobnielsenphd.substack.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13cDZVUTVobVdnV2x0Ylc3cmFIbi1EQzRTaVJWWjVyM290azI3dlJQMEY2Q2w3RG1EU1pSVF84dGYyYXNnMGVqV05LRzlzMkRhcWlrMUlscUJOZUdzSFlvNHRGVm4wMGkxZFE?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 11:21:23 GMT"
     },
     {
-      "headline": "Bevi Redesigns Drink Machine Interface for Personalization at Scale",
-      "background": "Bevi makes smart water dispensers for offices and public spaces. As functional beverage options (electrolytes, supplements) multiply, the on-device touchscreen UX has become a real constraint on how much personalization is commercially viable at a machine.",
+      "headline": "JB Soft System launches steel fabrication company website",
+      "background": "Industrial and B2B companies in manufacturing are increasingly investing in web presence as a sales and credibility tool. This is a vendor press release about a website launch for Akash Industries.",
       "keyFindings": [
-        "New interface is designed to handle a wider range of functional add-ins, not just flavor selection",
-        "The screen experience is positioned as the primary driver of product differentiation, not the hardware",
-        "Launch is framed around future scalability of personalized options, suggesting the UI architecture had to change to accommodate a growing ingredient matrix"
+        "JB Soft System built and launched a website for Akash Industries, a steel fabrication firm",
+        "Targets engineering solutions as the core service area presented online",
+        "No design methodology, metrics, or technical details are included in the snippet"
       ],
-      "implications": "Worth watching for teams designing kiosk or embedded-screen experiences: this is a real-world case of UI needing to evolve as the product's configurability outgrows its original interface model.",
+      "implications": "Not substantively useful for UX or product practitioners. Press release content with no actionable findings.",
       "tags": [
-        "Kiosk UI",
-        "Embedded interfaces",
-        "Personalization"
+        "B2B Web",
+        "Industrial Design",
+        "Press Release"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "markets.businessinsider.com",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN1k2cE9mT1QyZTBFM3FST2pqRDdzQTN5Smg1amVCMmxZeFJMS2RvZWdSUmRWdFNsbkZpb19HWkZ1blFIRGNSZ2VPQjlBdm9VZXVpdmJFN3FEblpGa1h2QzFtTVZjRDJDcnBkOUE3V2xNa01jeENDRVNSYTdNMmgzUVVOeVUyMk1ZanZaVnlpLVBnLTljN0JyX3FLMUxsa0UyQ3daSmZaWHBhT1g3Vm8zX2VTSzZFX09EOThRSVNpY3FJSnNPZEFqYkJYUXo1bXBzaFBUVGVPSlkxVVM5SkhzdnFmaFdiMlZNTzRN?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 13:37:45 GMT"
+      "source": "LiveChennai",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16RC11RHc3dXhxVkFYOEtYOEZYSzVmRnREcHhLUV9MMllJUEdVdXZVTjl3ekVUV1NFQ09xeHVETS1PbWUzdDhwMTJDNWs0QVdEY0NYNnB6REdKQTYzWURZdDBDTFZRc0dkVExCV0Uzdw?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 11:16:47 GMT"
     },
     {
-      "headline": "Listicle: 23 Custom Web Dev Agencies for 2026",
-      "background": "Vendor roundup lists are a staple of tech publishing, typically produced for SEO rather than editorial value.",
+      "headline": "Over 63% of IEEE VIS papers may have a reproducibility problem",
+      "background": "Data visualization research relies heavily on IEEE VIS as its primary academic venue. Concerns about reproducibility in visualization research have been growing, mirroring a broader replication crisis in adjacent fields.",
       "keyFindings": [
-        "No methodology or ranking criteria are disclosed in the snippet",
-        "Content appears to be a directory-style list rather than an evaluative comparison"
+        "More than 63% of IEEE VIS research is identified as potentially liable to reproducibility issues",
+        "The finding puts a significant portion of foundational data viz research in question",
+        "The snippet does not specify which methodologies or paper types are most affected"
       ],
-      "implications": "Not a reliable reference for vendor selection without independent verification of criteria. Use with skepticism.",
+      "implications": "Practitioners and researchers citing IEEE VIS studies to justify design decisions should treat findings with added scrutiny. Evidence-based design arguments built on this body of work may need reexamination.",
       "tags": [
-        "Web development",
-        "Vendor lists"
+        "Data Visualization",
+        "Research Integrity",
+        "Evidence-Based Design"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Programming Insider",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbV9XRGVEVDFTaHl1dm9XZnVlR2k2RWtteHh3WWtEQVhwcTBld2FZSUZYMWJDTkRmZDAyU1VoRUkxcXg3UUdHTWlRZnVmdXFmdWpPQ1RMZU5JUHZZWDBJeHpGdEs3eHEzRF9iQUxXYld6akgxV3Z3NWc4NWgzMGhHNS1B?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 13:18:03 GMT"
-    },
-    {
-      "headline": "Bentley Names T.Jon Mayer Head of Exterior Design",
-      "background": "Leadership changes in automotive design are covered across two near-identical entries here — one from a car news outlet, one from Bentley's own newsroom.",
-      "keyFindings": [
-        "T.Jon Mayer has been appointed Head of Exterior Design and Design Operations at Bentley Motors",
-        "The dual sourcing (press release and trade outlet) adds no additional information"
-      ],
-      "implications": "No direct relevance to UX or digital product practice.",
-      "tags": [
-        "Automotive design",
-        "Leadership"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "CompleteCar.ie",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZk1ZcmgyRHd5NW9YWGZpT216d3hCMnJDcGNJYTRkNnhadU5wd1VfLTg4N0RiNmM4RU8yaGREdWRab0xEMkJtaVBYSS12eXlmZ0tjZlRNeHJBVXFJM0g1R0lpeHFpNW52UzZkYlBOWk5YVTlVN2tvcXBPRklObHVJc1AxRl8wMXh2Y215QmRManV0Zw?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 12:53:00 GMT"
-    },
-    {
-      "headline": "Bentley Names T.Jon Mayer Head of Exterior Design (Official)",
-      "background": "This is the official Bentley newsroom version of the same appointment covered in article 8.",
-      "keyFindings": [
-        "Official confirmation of T.Jon Mayer's appointment as Head of Exterior Design and Design Operations",
-        "No UX or digital product angle present in the announcement"
-      ],
-      "implications": "Duplicate of article 8 from a primary source. No added relevance for UX/product practitioners.",
-      "tags": [
-        "Automotive design",
-        "Leadership"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "BENTLEY NEWSROOM",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EWmRPN0c3cjY3MTdwZ2xSaU02S2hlOHJDLW1yTTZMaWlGVGxnTlRLeU5LbjZaSElTOG94dnhUQ0ExYjFoR1ZFQ2RzUTktM2tYQ0NuZmlCeW0?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 12:37:53 GMT"
-    },
-    {
-      "headline": "Agency Zero Negative Expands 3D Web Design Offering",
-      "background": "3D on the web has historically been limited to high-budget brand sites due to performance costs and specialist skill requirements. Agencies pitching 3D as a broader commercial service are testing whether tooling has matured enough to make it mainstream.",
-      "keyFindings": [
-        "Zero Negative is positioning 3D web design as accessible to a wider range of brand budgets, not just flagship campaigns",
-        "No specific tooling stack or performance benchmarks are cited in the snippet",
-        "The pitch is market expansion, not a technical breakthrough"
-      ],
-      "implications": "Treat as a market signal rather than a technical reference. If clients are asking about 3D web experiences, this reflects growing expectation-setting from agency marketing — worth knowing about when scoping projects.",
-      "tags": [
-        "3D web",
-        "Agency services",
-        "Web design trends"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeDdtMnotcUJiZXNIT3kzaU1JazZidGNPcHFEYlhpZl9sWnFHTWFCbkJGcDVIcHZxclN2UmNJYnE4dnJlSDM2UUg1eXBWNFNFMmJlYUVsRG5XNER5MUNJTVB0TXc1NEZzM1MtMUYyN0tpbHN1ZkRVdy1LRC1ncU5seXk5alZCdGJSRWp2dXVrNHlfaFBPdEdlTkY0S09OOXM?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 12:30:00 GMT"
+      "source": "GameDev.net",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdGQzdC1Id2txbVJ5MHBIWVVzZUhINWdvOEUtQk5XdWUtaFU1M0FrZFdfMDUzdHE4WjFHS1JSdk1MYWpJaS02b1ZqRUhURjlpdVlCSnRzckdlYWlwSmJ2Z0s2dFRvTHU1OHJqbHhzQWZiQVczcUlJN1NTLVRmTVhiaWtJZmh3MHRlSTZZLVdBcDRObnVwaHhnbmZNQVJ2NzQ0M3FNUUVB?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 08:31:33 GMT"
     }
   ]
 }
