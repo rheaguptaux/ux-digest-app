@@ -1,235 +1,229 @@
 {
-  "generatedAt": "2026-08-14T15:08:23.626Z",
+  "generatedAt": "2026-08-15T13:41:05.622Z",
   "items": [
     {
-      "headline": "RayIPTV rebrand: streaming UI case study breakdown",
-      "background": "Streaming platforms face intense competition for user retention, and brand consistency across UI is often the gap between churn and loyalty. This Medium case study documents a redesign project for RayIPTV.",
+      "headline": "AI wrote a full garment tech pack from scratch — here's how",
+      "background": "Tech packs (detailed manufacturing spec sheets) have traditionally required deep domain knowledge and factory experience to produce. Non-designers exploring AI tools for product development are testing whether that barrier still holds.",
       "keyFindings": [
-        "Case study focuses on visual polish and first-impression design for a streaming platform",
-        "Covers brand evolution alongside UI/UX changes, not just surface restyling",
-        "No quantitative outcome data is surfaced in the available snippet"
+        "A person with no design or manufacturing background used an AI tech pack generator to produce a spec sheet from a single product idea",
+        "The experiment surfaces how much domain scaffolding AI tools can now substitute for in early-stage product development",
+        "Output quality and practical factory-readiness remain open questions in the piece"
       ],
-      "implications": "Useful as a portfolio reference for streaming UI patterns, but without performance metrics this is anecdotal. Treat as inspiration, not evidence.",
-      "tags": [
-        "Streaming UI",
-        "Brand Design",
-        "Case Study"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*0LaVhuwGvmTcYePHIjUC7w.png",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@creatodesigns/transforming-rayiptv-a-case-study-in-brand-evolution-and-seamless-streaming-ui-ux-9d4108e1b359?source=rss------ux_research-5",
-      "pubDate": "Fri, 14 Aug 2026 14:54:28 GMT"
-    },
-    {
-      "headline": "Undo is the most critical control in AI interfaces",
-      "background": "As AI tools take consequential actions on behalf of users — editing documents, sending messages, restructuring content — the cost of errors rises sharply. Error recovery design has lagged behind AI capability development.",
-      "keyFindings": [
-        "The argument centers on undo as a trust mechanism, not just a convenience feature",
-        "Without reliable undo, users limit how much agency they delegate to AI systems",
-        "The piece positions undo as infrastructure for AI adoption, not an edge-case feature"
-      ],
-      "implications": "Product teams building AI-assisted workflows should audit error recovery before shipping new AI actions. If users can't undo it, many won't try it.",
+      "implications": "Worth knowing for product teams or founders without dedicated technical designers — AI-generated tech packs may accelerate early scoping but likely still require expert review before going to a manufacturer. Don't treat generated output as production-ready.",
       "tags": [
         "AI tools",
-        "Error Recovery",
-        "Trust"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "UX on Medium",
-      "link": "https://medium.com/@najwa.nurhussen/the-most-important-button-in-ai-ux-might-be-undo-33a2ad971d51?source=rss------ux-5",
-      "pubDate": "Fri, 14 Aug 2026 14:43:50 GMT"
-    },
-    {
-      "headline": "You have 3 seconds to stop users from leaving",
-      "background": "Bounce rate research consistently shows users make stay-or-leave decisions within seconds of landing on a product. This piece addresses how to design specifically for that pre-commitment window.",
-      "keyFindings": [
-        "Focuses on the decision moment before a user consciously evaluates a product",
-        "Argues visual and contextual signals in the first 3 seconds determine perceived relevance",
-        "Framing, hierarchy, and motion are identified as the primary levers in that window"
-      ],
-      "implications": "Relevant for landing pages and onboarding screens where cold-start impressions matter most. Test first-screen content independently from downstream flows.",
-      "tags": [
-        "Onboarding",
-        "Retention",
-        "Visual Hierarchy"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*BE7L_HKo5hjp4mJSWlZ4DQ.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@nikolaev.design1/the-3-second-rule-designing-for-the-moment-before-the-user-decides-to-stay-2a7b866c8dbd?source=rss------ux-5",
-      "pubDate": "Fri, 14 Aug 2026 14:37:37 GMT"
-    },
-    {
-      "headline": "Devotional marketplace app concept: Vraja Living",
-      "background": "Niche community marketplaces require UX that balances commerce with identity and values — a different design challenge than general e-commerce. This is a concept project for handcrafted goods serving a devotional community.",
-      "keyFindings": [
-        "Concept targets a conscious-consumer community rather than a mass market",
-        "Design challenge involves integrating cultural and spiritual identity into commerce UI",
-        "No user research or validation data is referenced in the snippet"
-      ],
-      "implications": "Useful for designers working on values-driven or subcultural marketplace products. Note this is a speculative concept, not a shipped product.",
-      "tags": [
-        "E-commerce",
-        "Niche Marketplaces",
-        "Concept Design"
+        "Product development",
+        "Manufacturing"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1920/1*FOtRhmDgU4aHfoN5WaLryw.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/1911/1*Szr-bQN-kURF_uMkylxSRQ.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@create.chetna/vraja-living-a-devotional-marketplace-app-concept-5e1bbf1ce8e6?source=rss------product_design-5",
-      "pubDate": "Fri, 14 Aug 2026 14:34:27 GMT"
+      "link": "https://medium.com/@silvashipa0/i-gave-an-ai-tech-pack-generator-one-product-idea-and-let-it-run-d36232a15e3c?source=rss------product_design-5",
+      "pubDate": "Sat, 15 Aug 2026 13:25:17 GMT"
     },
     {
-      "headline": "Handheld maker: AI is optional, not essential to good design",
-      "background": "Hardware makers face pressure to incorporate AI as a selling point, even when the use case is thin. Mangmi, maker of the Air Y handheld device, is pushing back against AI-as-default in consumer hardware design.",
+      "headline": "UX research, IA, and interaction design explained together",
+      "background": "UX education content often siloes research, information architecture, and interaction design as separate disciplines, leaving practitioners unclear on how they connect in actual project work.",
       "keyFindings": [
-        "Mangmi explicitly positions AI as a nice-to-have rather than a core design requirement for the Air Y",
-        "Design philosophy prioritizes function and form over feature stacking",
-        "Represents a minority position in a market where AI integration is heavily marketed"
+        "The piece argues that good design requires integrating user research findings directly into IA and interaction decisions, not treating them as sequential handoffs",
+        "Attractive screens are framed as an output of — not a substitute for — structured problem investigation",
+        "No original research cited; this is a practitioner synthesis piece"
       ],
-      "implications": "Worth noting for product teams facing internal pressure to add AI features without clear user need. A named hardware manufacturer making this stance public is a useful reference point in those conversations.",
+      "implications": "Useful as an orientation piece for junior designers or teams explaining UX scope to stakeholders, but experienced practitioners are unlikely to find new frameworks here.",
       "tags": [
-        "Hardware Design",
-        "AI features",
-        "Product Strategy"
+        "UX Research",
+        "Information Architecture",
+        "Interaction Design"
       ],
       "featured": false,
-      "type": "research",
-      "category": "Industry news",
+      "type": "opinion",
+      "category": "Research",
       "publishedWindow": "today",
-      "image": null,
-      "source": "Time Extension",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVDNVdlRsMVU5eHl6NzlfeFNQVnU5RllRVWRzUmZERVRGcWM0dndhekdjU3FHbzZPc2gwQnZSRmJSQ3N3bVZadzY2amhPS0ViMkVGX2FQZnIzQ251a2V1Qy1WN1kweEFHclR5Y2w2RnFacWtWd3YwU0kzUWFheFhDazc1SmR4QjF6Ykt2OFphaWxMZXcydl9fLWFmdXJ0dlJfMzBaYllReTBsdUVGTmZZUmNob1J0d0xJeFJ3VzN3Y1BFNFc0aHA0TU1HRERKMjlNSWp0bElmOUpVOHBCMGd6M3RpWQ?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 14:00:00 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1536/1*ewyZrsz3vInkCA8c5oDtsQ.png",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@hirufernando1107/from-user-problems-to-better-experiences-ux-research-ia-interaction-design-7b3d5d4f37f7?source=rss------ux_research-5",
+      "pubDate": "Sat, 15 Aug 2026 13:16:32 GMT"
     },
     {
-      "headline": "Target appoints first Chief AI Officer, links AI directly to UX",
-      "background": "Retailers are restructuring leadership to formally connect AI strategy to customer experience outcomes. Target's move is notable for explicitly pairing the AI role with UX rather than housing it purely in engineering or data.",
+      "headline": "Realistic path to becoming an AI product designer",
+      "background": "Demand for designers who can work with AI systems is rising, but most guidance is either too abstract or assumes existing senior design experience. This piece targets practitioners who want to ship AI-integrated work themselves.",
       "keyFindings": [
-        "Target created a Chief AI Officer role for the first time in its history",
-        "The role is explicitly connected to UX and customer experience, not siloed in IT",
-        "Target frames AI plus UX as its primary lever for next-phase growth"
+        "Focuses on practical shipping — building and releasing AI-involved design work — rather than conceptual AI literacy",
+        "Positions 'AI Designer' as a distinct role requiring specific skills beyond general UX, including understanding model behavior and output variability",
+        "Framed as a guide for working designers transitioning toward AI-focused roles, not career-switchers"
       ],
-      "implications": "This signals a broader organizational pattern worth watching: AI strategy being embedded in experience design rather than treated as a backend capability. UX leaders should understand how to position their work within AI-driven business cases.",
+      "implications": "Relevant for mid-level designers scoping a career pivot or adding AI product work to their practice. Check whether the skills outlined match actual job descriptions in your market before reorganizing your portfolio.",
       "tags": [
-        "Retail Tech",
-        "AI Strategy",
-        "Org Design"
+        "AI Design",
+        "Career development",
+        "Product design"
       ],
       "featured": false,
-      "type": "research",
-      "category": "Industry news",
+      "type": "opinion",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": null,
-      "source": "Pulse 2.0",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVZLSnJ4TjZCTUhQY1ljWWRLeUtESnhYRy1FeUZ1aGwzVGh6aVRVMXktV0Z0N013UWtNZTVoUERTQXVORENRZGZldWh6QTg3X2dfY1hmZ2J3OEFfS3VLZzZ5OEl1Q3NwcFBtMElrdm5FRkhMZjZqQ3hZODlLRWtMVFA3YUQtX3NNb0x2dmJLb1k3LTkzb2p6aG5vYmhJSjd3US1CRDBlQThiTDdQUEs5X9IBtgFBVV95cUxQekFDcVhYTU8yY19ldWdGbnAwTkF4VlBEd0VrNHlldDBrd1pvVm84ZDRVTXJNcWdkc1FhVlZheXpzV3Bmel9KbGRiaG94RnExeVNoRmFoSEJyMThWa3BkQi16MTd2Q29nOVZLTVRoNkJ5MVFMQ1FSZ2hBQ2tteUNTT1dvRXlJQzEySERVVzZqal9TWGk5bFh6VHIxa0xWU1dyQl9GUEphWEZPT3EyQ0tPUzByMVdFUQ?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 12:19:27 GMT"
+      "image": "https://cdn-images-1.medium.com/max/2600/1*DPP633WIrk6_3kIrF0tOWQ.png",
+      "source": "UX on Medium",
+      "link": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205?source=rss------ux-5",
+      "pubDate": "Sat, 15 Aug 2026 13:16:25 GMT"
     },
     {
-      "headline": "Microsoft merges Copilot apps, cuts 5 features in transition",
-      "background": "Microsoft has been consolidating its fragmented AI product lineup, and the Copilot app merger is part of that rationalization effort. Users of existing standalone apps face capability loss during the transition.",
+      "headline": "AI makes compute costs visible in a way we've avoided for 180 years",
+      "background": "The economics of computing have historically been abstracted from end users — flat subscriptions, bundled services, and invisible infrastructure hide real usage costs. AI's token- and compute-intensive nature is disrupting that model.",
       "keyFindings": [
-        "Five specific features are being cut as part of the Copilot app consolidation",
-        "The merger changes the interface and access points users currently rely on",
-        "No direct replacements for the removed features are confirmed in the snippet"
+        "The piece argues that AI is reintroducing metered cost visibility to computing for the first time since early pay-per-use models of the 19th–20th century",
+        "This shift has direct implications for how users perceive and ration AI tool usage, affecting engagement and trust",
+        "The 'meter' metaphor frames AI usage costs as a psychological and behavioral design problem, not just a pricing one"
       ],
-      "implications": "Teams using Microsoft Copilot in workflows should audit which features they depend on before the merger completes. This is a concrete product change, not just a rebrand.",
+      "implications": "Product and pricing designers working on AI tools need to consider how cost visibility — even when abstracted into credits or tiers — shapes user behavior and anxiety. Hiding the meter isn't always the right call; transparency may build more sustainable usage habits.",
       "tags": [
-        "Microsoft Copilot",
         "AI tools",
-        "Product Changes"
+        "Pricing design",
+        "User behavior"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1169/0*sKAWsl_jj2DSQlng",
+      "source": "UX on Medium",
+      "link": "https://uxdesign.cc/who-gets-the-meter-7cd1cd1ad5e4?source=rss------ux-5",
+      "pubDate": "Sat, 15 Aug 2026 13:15:05 GMT"
+    },
+    {
+      "headline": "MICA on turning creative work into business opportunity",
+      "background": "Art and design schools increasingly face pressure to connect studio education to entrepreneurial outcomes. This appears to be an institutional profile or talk from Maryland Institute College of Art.",
+      "keyFindings": [
+        "Sourced from MICA's own platform — likely a profile, lecture, or alumni feature rather than independent reporting",
+        "No original research or design methodology surfaced in the snippet"
+      ],
+      "implications": "Insufficient detail to extract actionable findings for UX or product practitioners. May be relevant to design educators or students considering entrepreneurial paths.",
+      "tags": [
+        "Design education",
+        "Entrepreneurship"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "techmitra.in",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44RVZsUjRaZkxrU0pNaHVyNWNfOEZaVTNyWHVCREpXRzI1dk1UUnh1eHFYeWo2WXpqbGlaal9sQVdSRk43Y3B5Z0ZmeVIyNFhLb19HU1ZrZzJwX21UWURV?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 11:31:39 GMT"
+      "source": "Maryland Institute College of Art",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTzlHWmJOcDkwcEFseUlSd3pyVFQ2M0JYX2NEUVFqTk1RR1lMUzdselBKRElvVlpBbTFkNmVBZ21LR1I3dzMwRGd1S1J0UUw2X3IwM1lVOFY1dE8xMWRTR1VoYlY0VVBHVzJMeXFMUnhra2pEcEZscWtYZERMVmp5YnR2djJ4c3VBOFliZzdXV0FDNm9qcGlwblZzbHozWVZ6RTI2LTFTY3NKdWYyVlpUeHRoX3FSOEU?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 12:33:25 GMT"
     },
     {
-      "headline": "Jakob Nielsen's AI UX roundup: agents, chat UI, and cognitive bias",
-      "background": "AI interface design is generating a fast-moving body of research and practice with few consolidated resources. Nielsen's roundup aggregates findings across multiple threads simultaneously being debated in the field.",
+      "headline": "Profile: designer Mark Williams on UX as a growth lever",
+      "background": "Business press regularly profiles design practitioners framing UX as a revenue driver, often for audience development purposes rather than substantive methodology sharing.",
       "keyFindings": [
-        "Covers branching UI vs. linear chat as competing paradigms for AI interaction design — a live design debate",
-        "Addresses base-rate neglect as a cognitive bias relevant to how users interpret AI outputs",
-        "Includes research on delegating agent actions, a key trust and control problem in agentic AI design"
+        "Sourced from Bold Journey Magazine — a profile publication, not a UX research outlet",
+        "Focus appears to be on Williams's philosophy rather than specific methods or case study data"
       ],
-      "implications": "High-signal reading for anyone designing AI interfaces right now. The branching vs. linear chat framing and the agent delegation findings are directly applicable to current design decisions.",
+      "implications": "No concrete methodology or findings are surfaced in available content. More useful as a networking or inspiration piece than a technical reference.",
       "tags": [
-        "AI Interaction Design",
-        "Cognitive Bias",
-        "Agentic AI"
+        "Design leadership",
+        "Business case for UX"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Bold Journey Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMkR6R2c0aWduSDBLcWhVVF96aV8ybVp5ZkpIeDNucXplTXlwRW5UZUFCZTVxWEJxdFEyaldmNW4wTUJkR3dPWEZvS1l5UzFRT3pRemRxc29aZDQxR195WGRzRkJwX0dubGdXelhCeVhxci1LQ0UtSjZNODA5Y3ZJczNrTktzWXlKbTdpZ19RUVgyRUhmQzlwaUxfQXJaYmMxRjRSdmEwODkxVFg0ZE40cWNZYmV1dTA0R1RoNWF3OVA3WnJKb0RLOFEtaGlhNk5naFo2MC01R3REaWc?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 05:51:49 GMT"
+    },
+    {
+      "headline": "Adchitects offers accessibility audits and remediation for websites",
+      "background": "Web accessibility compliance (WCAG standards) remains inconsistent across industries, and a market of agencies offering audit and remediation services has grown alongside legal enforcement pressure.",
+      "keyFindings": [
+        "Adchitects is positioning accessibility as a business service offering, not an in-house discipline",
+        "Coverage is from BBN Times, a press-release-style outlet — this reads as promotional rather than editorial",
+        "No specific audit methodology, WCAG conformance level, or outcome data is cited in the snippet"
+      ],
+      "implications": "Not an independent evaluation of accessibility services. Teams looking for accessibility vendors should verify WCAG conformance level commitments, testing methodology (automated vs. manual), and assistive technology coverage before engaging any third-party firm.",
+      "tags": [
+        "Accessibility",
+        "Vendor services"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "BBN Times",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVU1FLTdxQ3ZPZ041R3BTUkp4VFd3bjFoRmlJck1yeFpuc0p5LVYyeGlySTZGMU5ZVlJyczFTNDVka2FTb3YyeF9BYVBuV0ZWZS1wMXlZWGZPcnIxN1N0bHVZWGtCNHUtY09tR2RXaFI1NExQQzJiZk9wTEt4Qk94Tk42amJlZ0JuMzNGdkxjVVhSWktQTi1YTTBERjRINDBSaXNsZE9iMEhqVGpXekl5b1lrMFhuTHAyR01ESHdjWjQ?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 18:26:38 GMT"
+    },
+    {
+      "headline": "Bentley appoints T.Jon Mayer as exterior design and ops head",
+      "background": "Luxury automotive brands periodically restructure design leadership as they navigate transitions between heritage aesthetics and electrification-era product lines.",
+      "keyFindings": [
+        "T.Jon Mayer takes on a dual role covering both exterior design and design operations at Bentley Motors",
+        "The appointment signals organizational interest in aligning creative and operational design functions under unified leadership",
+        "Coverage is trade press from The Shop — no strategic rationale or design direction details provided"
+      ],
+      "implications": "Minimal direct relevance for UX or digital product practitioners. May be of passing interest to those tracking design leadership structures in large product organizations.",
+      "tags": [
+        "Design leadership",
+        "Automotive design"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "theshopmag.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51aGRWczdQU19NMVMxRlJqdE8yeFctRGhZdTBHYm5EbFFVYjI5dW8weUlZbkVvX2tFZ291dGRIMndmNkcxUGVDR1Ytd2Y5QUswVGNjTW1sRldpRmNmNk01RDhFeDBpYTV4TTV2Nnh5NXp1eUpXZWQ5UDRmc3jSAYQBQVVfeXFMTm1QaUNUZ3QzMDJudzhBQ3AxVEhwM2dlN0hUcTdabTNQNnhGNzRDbm1WMjM0WHNvaV8zRnZWSHRKYkMtOWp5R215V2ZKZUlteUp2RENkYzBzLTBxcEJ1b0lPY21XWkFFeS16M0VySURoLTFQdjZTLVdhMFBvRGdNZUpkaEdD?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 17:32:23 GMT"
+    },
+    {
+      "headline": "One AI output tells you almost nothing about system performance",
+      "background": "Teams evaluating AI tools and features often make go/no-go decisions based on a handful of test prompts, without accounting for output variability across inputs or runs — a methodologically weak practice that's become common in product and research workflows.",
+      "keyFindings": [
+        "A single AI output cannot reliably represent system performance — variability across runs and inputs is too high",
+        "Rigorous evaluation requires multiple representative inputs, repeated runs, and statistical confidence intervals",
+        "The piece treats AI evaluation as an empirical measurement problem, applying standards from scientific testing to product QA"
+      ],
+      "implications": "Critical for UX researchers and product teams building AI evaluation frameworks. If your team is using one or two test cases to validate AI feature behavior, your evaluation is likely misleading. Build test sets that reflect real usage diversity and run them repeatedly.",
+      "tags": [
+        "AI evaluation",
+        "Research methods",
+        "Product QA"
       ],
       "featured": true,
       "type": "research",
-      "category": "Industry news",
+      "category": "Research",
       "publishedWindow": "today",
       "image": null,
-      "source": "jakobnielsenphd.substack.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13cDZVUTVobVdnV2x0Ylc3cmFIbi1EQzRTaVJWWjVyM290azI3dlJQMEY2Q2w3RG1EU1pSVF84dGYyYXNnMGVqV05LRzlzMkRhcWlrMUlscUJOZUdzSFlvNHRGVm4wMGkxZFE?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 11:21:23 GMT"
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/eval-ai-output/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 14 Aug 2026 17:00:00 +0000"
     },
     {
-      "headline": "JB Soft System launches steel fabrication company website",
-      "background": "Industrial and B2B companies in manufacturing are increasingly investing in web presence as a sales and credibility tool. This is a vendor press release about a website launch for Akash Industries.",
+      "headline": "Psychological ownership backfires when attached to the wrong things",
+      "background": "Psychological ownership — the feeling that something is 'mine' — is known to increase motivation and accountability, but researchers and practitioners have noted it also creates defensive behavior when people can't control the outcomes they feel ownership over.",
       "keyFindings": [
-        "JB Soft System built and launched a website for Akash Industries, a steel fabrication firm",
-        "Targets engineering solutions as the core service area presented online",
-        "No design methodology, metrics, or technical details are included in the snippet"
+        "Misplaced psychological ownership — attached to outcomes outside one's control — reduces effectiveness and increases frustration",
+        "The piece recommends actively auditing what you feel ownership over and redirecting it toward controllable inputs",
+        "Applies at individual and team levels — relevant to how PMs and designers relate to product decisions made by others"
       ],
-      "implications": "Not substantively useful for UX or product practitioners. Press release content with no actionable findings.",
+      "implications": "Useful for product leads and ICs navigating organizations where they influence but don't control outcomes. Practically: distinguish ownership of your process and craft from ownership of shipped results — the latter will frequently be modified by factors outside your scope.",
       "tags": [
-        "B2B Web",
-        "Industrial Design",
-        "Press Release"
+        "Product mindset",
+        "Team dynamics",
+        "Decision-making"
       ],
       "featured": false,
       "type": "research",
-      "category": "Industry news",
+      "category": "Research",
       "publishedWindow": "today",
       "image": null,
-      "source": "LiveChennai",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16RC11RHc3dXhxVkFYOEtYOEZYSzVmRnREcHhLUV9MMllJUEdVdXZVTjl3ekVUV1NFQ09xeHVETS1PbWUzdDhwMTJDNWs0QVdEY0NYNnB6REdKQTYzWURZdDBDTFZRc0dkVExCV0Uzdw?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 11:16:47 GMT"
-    },
-    {
-      "headline": "Over 63% of IEEE VIS papers may have a reproducibility problem",
-      "background": "Data visualization research relies heavily on IEEE VIS as its primary academic venue. Concerns about reproducibility in visualization research have been growing, mirroring a broader replication crisis in adjacent fields.",
-      "keyFindings": [
-        "More than 63% of IEEE VIS research is identified as potentially liable to reproducibility issues",
-        "The finding puts a significant portion of foundational data viz research in question",
-        "The snippet does not specify which methodologies or paper types are most affected"
-      ],
-      "implications": "Practitioners and researchers citing IEEE VIS studies to justify design decisions should treat findings with added scrutiny. Evidence-based design arguments built on this body of work may need reexamination.",
-      "tags": [
-        "Data Visualization",
-        "Research Integrity",
-        "Evidence-Based Design"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "GameDev.net",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdGQzdC1Id2txbVJ5MHBIWVVzZUhINWdvOEUtQk5XdWUtaFU1M0FrZFdfMDUzdHE4WjFHS1JSdk1MYWpJaS02b1ZqRUhURjlpdVlCSnRzckdlYWlwSmJ2Z0s2dFRvTHU1OHJqbHhzQWZiQVczcUlJN1NTLVRmTVhiaWtJZmh3MHRlSTZZLVdBcDRObnVwaHhnbmZNQVJ2NzQ0M3FNUUVB?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 08:31:33 GMT"
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/psychological-ownership/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 14 Aug 2026 17:00:00 +0000"
     }
   ]
 }
