@@ -1,229 +1,224 @@
 {
-  "generatedAt": "2026-08-15T13:41:05.622Z",
+  "generatedAt": "2026-08-16T13:44:46.556Z",
   "items": [
     {
-      "headline": "AI wrote a full garment tech pack from scratch — here's how",
-      "background": "Tech packs (detailed manufacturing spec sheets) have traditionally required deep domain knowledge and factory experience to produce. Non-designers exploring AI tools for product development are testing whether that barrier still holds.",
+      "headline": "Bentley Hires Ex-Volvo Designer to Lead Exterior Design",
+      "background": "Bentley is navigating a brand repositioning as it shifts toward electrification, requiring design leadership that can balance heritage identity with future vehicle platforms.",
       "keyFindings": [
-        "A person with no design or manufacturing background used an AI tech pack generator to produce a spec sheet from a single product idea",
-        "The experiment surfaces how much domain scaffolding AI tools can now substitute for in early-stage product development",
-        "Output quality and practical factory-readiness remain open questions in the piece"
+        "T'jon Mayer, previously at Volvo, has been appointed head of exterior design at Bentley",
+        "The hire signals a cross-brand talent move between a mass-premium and ultra-luxury marque"
       ],
-      "implications": "Worth knowing for product teams or founders without dedicated technical designers — AI-generated tech packs may accelerate early scoping but likely still require expert review before going to a manufacturer. Don't treat generated output as production-ready.",
+      "implications": "Tangential to UX/product work, but relevant to those in automotive UX or brand design tracking how luxury marques are reshaping design leadership ahead of EV transitions.",
       "tags": [
-        "AI tools",
-        "Product development",
-        "Manufacturing"
+        "Automotive Design",
+        "Design Leadership"
       ],
       "featured": false,
-      "type": "opinion",
-      "category": "Product design",
+      "type": "research",
+      "category": "Industry news",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1911/1*Szr-bQN-kURF_uMkylxSRQ.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@silvashipa0/i-gave-an-ai-tech-pack-generator-one-product-idea-and-let-it-run-d36232a15e3c?source=rss------product_design-5",
-      "pubDate": "Sat, 15 Aug 2026 13:25:17 GMT"
+      "image": null,
+      "source": "AutoNext.co",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeEoyU0pkME5VZTFzemRybEo5SWFWMEktUGxVdVMycG93Y3RPNkJSSmRBb1BQYVVJVFNuRHhfanA5NEFSZkxmZVF0RjBPQm5YN0RVZ0MyUmZjZmhYVU4zQ2Y4NnVmTlNpYTFodHpXV1pyczhucW5fejhLaVVMZGxvUmpBTkIxdlE?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 13:36:15 GMT"
     },
     {
-      "headline": "UX research, IA, and interaction design explained together",
-      "background": "UX education content often siloes research, information architecture, and interaction design as separate disciplines, leaving practitioners unclear on how they connect in actual project work.",
+      "headline": "Visual Storytelling in UI/UX: What It Actually Means",
+      "background": "The term 'visual storytelling' is frequently invoked in UX discourse but rarely broken down into actionable design principles, leaving practitioners with little concrete guidance.",
       "keyFindings": [
-        "The piece argues that good design requires integrating user research findings directly into IA and interaction decisions, not treating them as sequential handoffs",
-        "Attractive screens are framed as an output of — not a substitute for — structured problem investigation",
-        "No original research cited; this is a practitioner synthesis piece"
+        "The piece argues design and writing share a core purpose — communication — and that UI flows should be structured like narratives with tension and resolution",
+        "Effective visual storytelling in UI requires deliberate sequencing of information to guide user attention and emotional state"
       ],
-      "implications": "Useful as an orientation piece for junior designers or teams explaining UX scope to stakeholders, but experienced practitioners are unlikely to find new frameworks here.",
+      "implications": "Useful framing for designers who struggle to justify information hierarchy decisions to stakeholders — narrative structure gives a communicable rationale beyond aesthetics.",
       "tags": [
-        "UX Research",
+        "Visual Design",
         "Information Architecture",
-        "Interaction Design"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*ewyZrsz3vInkCA8c5oDtsQ.png",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@hirufernando1107/from-user-problems-to-better-experiences-ux-research-ia-interaction-design-7b3d5d4f37f7?source=rss------ux_research-5",
-      "pubDate": "Sat, 15 Aug 2026 13:16:32 GMT"
-    },
-    {
-      "headline": "Realistic path to becoming an AI product designer",
-      "background": "Demand for designers who can work with AI systems is rising, but most guidance is either too abstract or assumes existing senior design experience. This piece targets practitioners who want to ship AI-integrated work themselves.",
-      "keyFindings": [
-        "Focuses on practical shipping — building and releasing AI-involved design work — rather than conceptual AI literacy",
-        "Positions 'AI Designer' as a distinct role requiring specific skills beyond general UX, including understanding model behavior and output variability",
-        "Framed as a guide for working designers transitioning toward AI-focused roles, not career-switchers"
-      ],
-      "implications": "Relevant for mid-level designers scoping a career pivot or adding AI product work to their practice. Check whether the skills outlined match actual job descriptions in your market before reorganizing your portfolio.",
-      "tags": [
-        "AI Design",
-        "Career development",
-        "Product design"
+        "Communication"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*DPP633WIrk6_3kIrF0tOWQ.png",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*Ik0QRX6qMLjjHoEsd6IyMQ.png",
       "source": "UX on Medium",
-      "link": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205?source=rss------ux-5",
-      "pubDate": "Sat, 15 Aug 2026 13:16:25 GMT"
+      "link": "https://medium.com/@dollyborade07/ui-ux-design-is-visual-storytelling-how-to-tell-stories-as-a-designer-e34953b5713f?source=rss------ux-5",
+      "pubDate": "Sun, 16 Aug 2026 13:26:27 GMT"
     },
     {
-      "headline": "AI makes compute costs visible in a way we've avoided for 180 years",
-      "background": "The economics of computing have historically been abstracted from end users — flat subscriptions, bundled services, and invisible infrastructure hide real usage costs. AI's token- and compute-intensive nature is disrupting that model.",
+      "headline": "Why Users Repeat Pointless Actions: The Fridge Door Problem",
+      "background": "Habitual and loop-based user behaviors — doing something, getting no result, and doing it again — are common in digital products but underexplained by standard UX models focused on task completion.",
       "keyFindings": [
-        "The piece argues that AI is reintroducing metered cost visibility to computing for the first time since early pay-per-use models of the 19th–20th century",
-        "This shift has direct implications for how users perceive and ration AI tool usage, affecting engagement and trust",
-        "The 'meter' metaphor frames AI usage costs as a psychological and behavioral design problem, not just a pricing one"
+        "Repetitive checking behavior (like reopening a fridge) is driven by unresolved psychological tension, not logic or new information",
+        "The same loop appears in digital contexts: refreshing feeds, reopening apps, rechecking notifications",
+        "This behavior is reinforced when interfaces provide variable or ambiguous feedback rather than clear state changes"
       ],
-      "implications": "Product and pricing designers working on AI tools need to consider how cost visibility — even when abstracted into credits or tiers — shapes user behavior and anxiety. Hiding the meter isn't always the right call; transparency may build more sustainable usage habits.",
+      "implications": "Designers building notification systems, feeds, or any content that updates asynchronously should consider whether their feedback states clearly signal 'nothing new here' — ambiguity fuels compulsive re-checking.",
       "tags": [
-        "AI tools",
-        "Pricing design",
-        "User behavior"
+        "Behavioral Design",
+        "Habit Loops",
+        "Feedback Systems"
       ],
-      "featured": true,
+      "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1169/0*sKAWsl_jj2DSQlng",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*x0qMOSMLwrshbOR2Jzo0YA.png",
       "source": "UX on Medium",
-      "link": "https://uxdesign.cc/who-gets-the-meter-7cd1cd1ad5e4?source=rss------ux-5",
-      "pubDate": "Sat, 15 Aug 2026 13:15:05 GMT"
+      "link": "https://medium.com/@info.rajakavi/we-open-the-fridge-nothing-changed-so-why-do-we-check-again-a836fca76ed5?source=rss------ux-5",
+      "pubDate": "Sun, 16 Aug 2026 13:26:14 GMT"
     },
     {
-      "headline": "MICA on turning creative work into business opportunity",
-      "background": "Art and design schools increasingly face pressure to connect studio education to entrepreneurial outcomes. This appears to be an institutional profile or talk from Maryland Institute College of Art.",
+      "headline": "Designing Expense Splitting for Groups Traveling Together",
+      "background": "Group travel expense apps like Splitwise exist but are often too general-purpose, leading to confusion when multiple currencies, shared costs, and unequal splits occur in real travel scenarios.",
       "keyFindings": [
-        "Sourced from MICA's own platform — likely a profile, lecture, or alumni feature rather than independent reporting",
-        "No original research or design methodology surfaced in the snippet"
+        "The Triplyf concept prioritizes trip-scoped expense tracking rather than general-purpose debt management",
+        "The design exploration focused on reducing cognitive load when settling up by surfacing simplified net balances rather than individual transaction history",
+        "Key insight: travelers want to understand what they owe contextually within a trip, not across a long history of transactions"
       ],
-      "implications": "Insufficient detail to extract actionable findings for UX or product practitioners. May be relevant to design educators or students considering entrepreneurial paths.",
+      "implications": "Useful case study for designers working on fintech or social utility apps — the scoping insight (limit context to the trip) is a transferable pattern for reducing complexity in multi-user financial flows.",
       "tags": [
-        "Design education",
-        "Entrepreneurship"
+        "Fintech UX",
+        "Case Study",
+        "Mobile Design"
       ],
       "featured": false,
-      "type": "research",
-      "category": "Industry news",
+      "type": "opinion",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": null,
-      "source": "Maryland Institute College of Art",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTzlHWmJOcDkwcEFseUlSd3pyVFQ2M0JYX2NEUVFqTk1RR1lMUzdselBKRElvVlpBbTFkNmVBZ21LR1I3dzMwRGd1S1J0UUw2X3IwM1lVOFY1dE8xMWRTR1VoYlY0VVBHVzJMeXFMUnhra2pEcEZscWtYZERMVmp5YnR2djJ4c3VBOFliZzdXV0FDNm9qcGlwblZzbHozWVZ6RTI2LTFTY3NKdWYyVlpUeHRoX3FSOEU?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 12:33:25 GMT"
+      "image": "https://cdn-images-1.medium.com/max/2600/0*cae1-9_xW3RVhG5y",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@mitalimaurya07/triplyf-designing-a-travel-first-way-to-split-expenses-786f4a71a3f1?source=rss------ux-5",
+      "pubDate": "Sun, 16 Aug 2026 13:25:32 GMT"
     },
     {
-      "headline": "Profile: designer Mark Williams on UX as a growth lever",
-      "background": "Business press regularly profiles design practitioners framing UX as a revenue driver, often for audience development purposes rather than substantive methodology sharing.",
+      "headline": "How Much Production Code Should Designers Actually Own?",
+      "background": "The 'designer who codes' debate has intensified as design systems, component libraries, and tools like Framer blur the line between design and engineering output.",
       "keyFindings": [
-        "Sourced from Bold Journey Magazine — a profile publication, not a UX research outlet",
-        "Focus appears to be on Williams's philosophy rather than specific methods or case study data"
+        "The piece examines where designer code ownership adds value versus where it creates bottlenecks or scope confusion",
+        "Context matters heavily: designers owning code is more viable in small teams or design-systems work than in large engineering orgs with strict deployment pipelines"
       ],
-      "implications": "No concrete methodology or findings are surfaced in available content. More useful as a networking or inspiration piece than a technical reference.",
+      "implications": "Relevant for design managers defining role boundaries and for individual designers deciding where to invest in technical skills — the answer is not universal and depends heavily on team structure.",
       "tags": [
-        "Design leadership",
-        "Business case for UX"
+        "Design Systems",
+        "Design-Dev Collaboration",
+        "Career Development"
       ],
       "featured": false,
-      "type": "research",
-      "category": "Industry news",
+      "type": "opinion",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": null,
-      "source": "Bold Journey Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMkR6R2c0aWduSDBLcWhVVF96aV8ybVp5ZkpIeDNucXplTXlwRW5UZUFCZTVxWEJxdFEyaldmNW4wTUJkR3dPWEZvS1l5UzFRT3pRemRxc29aZDQxR195WGRzRkJwX0dubGdXelhCeVhxci1LQ0UtSjZNODA5Y3ZJczNrTktzWXlKbTdpZ19RUVgyRUhmQzlwaUxfQXJaYmMxRjRSdmEwODkxVFg0ZE40cWNZYmV1dTA0R1RoNWF3OVA3WnJKb0RLOFEtaGlhNk5naFo2MC01R3REaWc?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 05:51:49 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1952/1*G98mlnFvFdGXlRdsXN6BbA.jpeg",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@thiagozeitune/how-much-code-should-designers-own-38d349533c1b?source=rss------ux-5",
+      "pubDate": "Sun, 16 Aug 2026 12:00:47 GMT"
     },
     {
-      "headline": "Adchitects offers accessibility audits and remediation for websites",
-      "background": "Web accessibility compliance (WCAG standards) remains inconsistent across industries, and a market of agencies offering audit and remediation services has grown alongside legal enforcement pressure.",
+      "headline": "Use the Fogg Behavior Model to Diagnose Weak Product Adoption",
+      "background": "Product teams often diagnose low adoption as a motivation problem and respond with more marketing or onboarding content, when the actual blocker may be friction or missing triggers.",
       "keyFindings": [
-        "Adchitects is positioning accessibility as a business service offering, not an in-house discipline",
-        "Coverage is from BBN Times, a press-release-style outlet — this reads as promotional rather than editorial",
-        "No specific audit methodology, WCAG conformance level, or outcome data is cited in the snippet"
+        "The Fogg Behavior Model states behavior occurs when Motivation, Ability, and a Prompt converge simultaneously — missing any one element breaks the behavior",
+        "The piece maps common product adoption failures to specific Fogg components: e.g., drop-off at activation often reflects low ability (too much friction), not low motivation",
+        "Diagnostic approach: identify which of the three elements is absent at the moment behavior is expected, rather than optimizing all three blindly"
       ],
-      "implications": "Not an independent evaluation of accessibility services. Teams looking for accessibility vendors should verify WCAG conformance level commitments, testing methodology (automated vs. manual), and assistive technology coverage before engaging any third-party firm.",
+      "implications": "This is a practical diagnostic tool for product and UX teams doing retention or activation work — mapping funnel drop-off points to specific Fogg components gives targeted intervention directions rather than spray-and-pray optimization.",
       "tags": [
-        "Accessibility",
-        "Vendor services"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "BBN Times",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVU1FLTdxQ3ZPZ041R3BTUkp4VFd3bjFoRmlJck1yeFpuc0p5LVYyeGlySTZGMU5ZVlJyczFTNDVka2FTb3YyeF9BYVBuV0ZWZS1wMXlZWGZPcnIxN1N0bHVZWGtCNHUtY09tR2RXaFI1NExQQzJiZk9wTEt4Qk94Tk42amJlZ0JuMzNGdkxjVVhSWktQTi1YTTBERjRINDBSaXNsZE9iMEhqVGpXekl5b1lrMFhuTHAyR01ESHdjWjQ?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 18:26:38 GMT"
-    },
-    {
-      "headline": "Bentley appoints T.Jon Mayer as exterior design and ops head",
-      "background": "Luxury automotive brands periodically restructure design leadership as they navigate transitions between heritage aesthetics and electrification-era product lines.",
-      "keyFindings": [
-        "T.Jon Mayer takes on a dual role covering both exterior design and design operations at Bentley Motors",
-        "The appointment signals organizational interest in aligning creative and operational design functions under unified leadership",
-        "Coverage is trade press from The Shop — no strategic rationale or design direction details provided"
-      ],
-      "implications": "Minimal direct relevance for UX or digital product practitioners. May be of passing interest to those tracking design leadership structures in large product organizations.",
-      "tags": [
-        "Design leadership",
-        "Automotive design"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "theshopmag.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51aGRWczdQU19NMVMxRlJqdE8yeFctRGhZdTBHYm5EbFFVYjI5dW8weUlZbkVvX2tFZ291dGRIMndmNkcxUGVDR1Ytd2Y5QUswVGNjTW1sRldpRmNmNk01RDhFeDBpYTV4TTV2Nnh5NXp1eUpXZWQ5UDRmc3jSAYQBQVVfeXFMTm1QaUNUZ3QzMDJudzhBQ3AxVEhwM2dlN0hUcTdabTNQNnhGNzRDbm1WMjM0WHNvaV8zRnZWSHRKYkMtOWp5R215V2ZKZUlteUp2RENkYzBzLTBxcEJ1b0lPY21XWkFFeS16M0VySURoLTFQdjZTLVdhMFBvRGdNZUpkaEdD?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 17:32:23 GMT"
-    },
-    {
-      "headline": "One AI output tells you almost nothing about system performance",
-      "background": "Teams evaluating AI tools and features often make go/no-go decisions based on a handful of test prompts, without accounting for output variability across inputs or runs — a methodologically weak practice that's become common in product and research workflows.",
-      "keyFindings": [
-        "A single AI output cannot reliably represent system performance — variability across runs and inputs is too high",
-        "Rigorous evaluation requires multiple representative inputs, repeated runs, and statistical confidence intervals",
-        "The piece treats AI evaluation as an empirical measurement problem, applying standards from scientific testing to product QA"
-      ],
-      "implications": "Critical for UX researchers and product teams building AI evaluation frameworks. If your team is using one or two test cases to validate AI feature behavior, your evaluation is likely misleading. Build test sets that reflect real usage diversity and run them repeatedly.",
-      "tags": [
-        "AI evaluation",
-        "Research methods",
-        "Product QA"
+        "Behavioral Design",
+        "Product Adoption",
+        "Onboarding"
       ],
       "featured": true,
       "type": "research",
-      "category": "Research",
+      "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/articles/eval-ai-output/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 14 Aug 2026 17:00:00 +0000"
+      "source": "HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUDczN1pWc3F2SGJsX0ZkR0pvMERxaFNNU1BLTmFWNVpSNHFjdTlPOG1UQjFCZWsyQmxHUzlPOWJQWmJWY1pXUkhnQUZwS2pGejJwVmJoNlZWWVF6NGVnN3dFNm90bDZ5RnZncks2VWw5bEkxS1REMC1aWnRQZmNSZEJ5TmFsNzZSZ0NQMGlnSEZNVjE3UnRjVQ?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 21:03:44 GMT"
     },
     {
-      "headline": "Psychological ownership backfires when attached to the wrong things",
-      "background": "Psychological ownership — the feeling that something is 'mine' — is known to increase motivation and accountability, but researchers and practitioners have noted it also creates defensive behavior when people can't control the outcomes they feel ownership over.",
+      "headline": "20% of LinkedIn Users Retroactively Add AI Skills to Past Jobs",
+      "background": "LinkedIn's profile editing allows users to revise historical job entries, and as AI skills become a hiring signal, users are backfilling them into roles that predate current AI tools.",
       "keyFindings": [
-        "Misplaced psychological ownership — attached to outcomes outside one's control — reduces effectiveness and increases frustration",
-        "The piece recommends actively auditing what you feel ownership over and redirecting it toward controllable inputs",
-        "Applies at individual and team levels — relevant to how PMs and designers relate to product decisions made by others"
+        "Approximately 20% of LinkedIn users have edited past job entries retroactively, with AI skills being the most common addition",
+        "This behavior inflates the apparent prevalence of AI experience in the workforce and complicates recruiter trust in profile data",
+        "LinkedIn's platform design — which allows unrestricted editing of historical entries without versioning or timestamps — enables this pattern"
       ],
-      "implications": "Useful for product leads and ICs navigating organizations where they influence but don't control outcomes. Practically: distinguish ownership of your process and craft from ownership of shipped results — the latter will frequently be modified by factors outside your scope.",
+      "implications": "For product designers working on professional profile or credentialing systems, this is a concrete example of how edit affordances without accountability mechanisms degrade data integrity and user trust at scale.",
       "tags": [
-        "Product mindset",
-        "Team dynamics",
-        "Decision-making"
+        "Trust & Safety",
+        "Platform Design",
+        "Professional Tools"
+      ],
+      "featured": true,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "week",
+      "image": null,
+      "source": "ndtvprofit.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbzdDYkpKRlQ0Nl9PWTFDNWpjanlqY0drZ2RBdF9rcldyUnF5dkNqcDlqZGVGbGU0SDdPRzhKQzRlV1V0aWU2RFloTkNaNjAyekp5WjlkYmo0WU1iMGJOUlUzSXJlSmFOVWx4MHdsdlRwUDVBakJmSF9QaWE1M2dyWjNvMmNobDZLWGNSR2FaVWhVSUlDdi00WHE3Ti1WZkthSVFsQzlhdUZSeGJIMWVaMFJoY3h0WVoyYnN2WGJ4ZC00bHN3a0NHM3hR0gHSAUFVX3lxTFBETjdPeWtBLS1jaTVXSTFsR09ZUmE3ODMzZnZUVkFIYnB0bWkyVl96bjdJYzN0Q0FXNkhNNUJnUElhaTViZFM5Q3ZucnZqNUhMVVhLVFZoaGNrQWpONWJfWWJ1VHVlYmo0SXlFNnFFMXd6WlpYbkc5T1RFcF8teUxMblIzNXFuMlVOMExyYXZsdFdkV3M0N05uUTBVLTBUODdvckF3Q3M5YTJqVmZ1U2NneTRNM2tuVWcwUjVkbEh1NWE5bTA2WGJpZUc0bFlrSjNBZw?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 16:03:23 GMT"
+    },
+    {
+      "headline": "Judge Orders Google to Fix Play Store Search That Buried Rivals",
+      "background": "Google's antitrust remediation around the Play Store has been under court supervision following findings that it used anticompetitive practices to disadvantage rival app distributors.",
+      "keyFindings": [
+        "A federal judge found that Google's Play Store search results were surfacing rival app stores in a degraded or suppressed manner",
+        "Google has been given one week to implement a fix to search result ordering affecting competing stores",
+        "The case is part of broader remedies stemming from the Epic v. Google antitrust ruling"
+      ],
+      "implications": "Relevant for anyone in app distribution, platform strategy, or search UX — this ruling reinforces that algorithmic curation in platform search is subject to antitrust scrutiny, with direct UI/ranking implications.",
+      "tags": [
+        "Antitrust",
+        "Platform Design",
+        "App Stores"
       ],
       "featured": false,
       "type": "research",
-      "category": "Research",
-      "publishedWindow": "today",
+      "category": "Industry news",
+      "publishedWindow": "week",
       "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/articles/psychological-ownership/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 14 Aug 2026 17:00:00 +0000"
+      "source": "Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM01ERWZHTDNiVE9oTzFkbUhVcFRBSEpFNTh3bmxVd29XWHNmZ2loVHdaYVJTZG9YZ3MtREFPUlpWVHBuUURISXk3Y1RBQzdqeURZN291cVlVRGlxcHNfQThva2RuSUlYd2xyai1SRnhzRHpUNDA2NmJpSF8wdVRrRC1GeTBHUnhQZmY2N1ZtU0RJMUNpSGJXN0VHMjlKVFVDa3RWZFlqMzBiRDZYZ1doYmpXRWRmUURLRFFXeUx2MFhlZw?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 13:29:36 GMT"
+    },
+    {
+      "headline": "Steel Fabricator Website Launch Press Release",
+      "background": "A web development agency issued a press release about launching a client website for a steel fabrication company.",
+      "keyFindings": [
+        "JB Soft System built and launched a website for Akash Industries"
+      ],
+      "implications": "No actionable insight for UX, product, or tech practitioners.",
+      "tags": [
+        "Press Release"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "week",
+      "image": null,
+      "source": "LiveChennai",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MczdsM1E2eS1tMVZNSWp2amxwNy1VZUdTUkNEZlpQa19fNTd6eU9MUzBxeXBfc245SlU2cGNYdzZmaVNZLWx3NkgtNjhIVy1PVzByU3dMQ3Myei1pTVVNZUthakZJUQ?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 11:16:46 GMT"
+    },
+    {
+      "headline": "Top Mobile App Dev Companies in Dubai: A Listicle",
+      "background": "Directory-style listicles ranking regional development agencies are common SEO content with limited editorial value.",
+      "keyFindings": [
+        "Ranks ten mobile app development agencies operating in Dubai"
+      ],
+      "implications": "No original research or actionable insight for UX or product practitioners.",
+      "tags": [
+        "App Development",
+        "Directory Content"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "week",
+      "image": null,
+      "source": "Big News Network.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEhFVlpSa2xVZUtqdjZ1ZjFxZmRTdDZRX2FKSkt1MmhXZ1FoODl2RlhDZWZCVXY1ZGZZRmZnR05ZOG1aLTZJN201TzN1QWpPb0V5bTZ2VUhadlNHR0RVUnNHbkV6QTIwREh5YWdRWDNFdTdpbDY1Ym5YbWlXSng5aDJZRkF6emFrLUljSFZLd09VWGRvbWZ0MEhB?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 11:03:00 GMT"
     }
   ]
 }
