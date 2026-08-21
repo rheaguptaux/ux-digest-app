@@ -1,232 +1,233 @@
 {
-  "generatedAt": "2026-08-20T14:10:43.877Z",
+  "generatedAt": "2026-08-21T14:07:09.620Z",
   "items": [
     {
-      "headline": "Top CTO-as-a-Service firms ranked for 2026",
-      "background": "Startups and scaling companies increasingly hire fractional or outsourced CTOs rather than full-time executives, but the vendor landscape is fragmented and hard to evaluate.",
+      "headline": "500 resources for mobile dev, but no curation",
+      "background": "Developers looking to learn mobile app development face an overwhelming number of blog posts and tutorials with no clear signal on quality or relevance. This piece attempts to consolidate that landscape.",
       "keyFindings": [
-        "Lists 8 companies offering fractional CTO services as of 2026",
-        "Targets companies needing technical leadership without full-time executive overhead"
+        "Aggregates 500 blog posts across mobile development topics with no quality ranking or annotation",
+        "No filtering by platform (iOS, Android, cross-platform) or skill level is indicated in the snippet",
+        "Value is entirely dependent on curation quality, which cannot be assessed from available information"
       ],
-      "implications": "Useful as a starting shortlist if you're scoping technical leadership options, but vendor rankings from outlet 'World Business Outlook' should be cross-checked — these lists often reflect paid placement rather than independent evaluation.",
+      "implications": "Use only if you need a broad starting list and are prepared to vet entries yourself. For targeted learning, a curated syllabus by platform and level will save significant time.",
       "tags": [
-        "Fractional CTO",
-        "Tech Leadership",
-        "Vendor Selection"
+        "Mobile Development",
+        "Learning Resources"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "World Business Outlook",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUDBEOEdxWElES0JMMmpjQ2NUVTFqeUF0NnVzU0Q2Tk9ac0sxVmpZWWR3MHJ6VHVULWRDY1V5NVFKSm1JUFhueTBIVFF4RGhLN1Yxek9FaHczMUxJdV9veGdaN19EQXdta1h6cnIzUFY2dXJSZ0c4TjZBTl9vOGxBTHpSSlo1UQ?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 14:03:33 GMT"
+      "source": "HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0RBRy14a1JSdVJlQ3R3OHo3ZmNOdGIyZXNrQVdQNFFVRlRadmdLTEhZeWxNcnBaODhTS25uUWhxNjFxQnlDWUVpQ3pWZk1rY0p0Z3hTVjJkVDlRLTJqdWZ2WnBZMnVHTVZieFhSXy1hMFFocEdQQlBaYU5lLTBxeQ?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 14:02:31 GMT"
     },
     {
-      "headline": "Single-screen Pomodoro app clears $200K ARR — here's how",
-      "background": "The productivity app market is saturated, yet some minimal tools generate outsized revenue. This breakdown examines Cat on Chair, a stripped-down Pomodoro timer, to identify what drives retention and willingness to pay.",
+      "headline": "How to pick the right AI model for real work",
+      "background": "The AI model market has fragmented rapidly, with GPT-5, Claude, Gemini, and others offering overlapping but distinct capabilities. Practitioners are struggling to match models to task types without a clear framework.",
       "keyFindings": [
-        "App generates over $18K/month (~$200K+ ARR) with a single-screen UI",
-        "Monetization appears tied to aesthetic simplicity and strong niche positioning rather than feature depth",
-        "Challenges the assumption that more features equal more revenue in utility apps"
+        "Frames model selection around task type rather than benchmark scores — different models suit reasoning, coding, writing, or summarization differently",
+        "Covers prompt engineering strategies tuned to specific model families, not generic advice",
+        "Addresses the cost-performance tradeoff as a practical decision variable for everyday workflows"
       ],
-      "implications": "For product designers building tools: this is a concrete case for ruthless scope reduction and investing in visual polish over feature expansion. Applies especially to solo or small-team app builds targeting habit-based use cases.",
+      "implications": "Relevant for any team integrating AI tools into product or design workflows. Treat model selection as a recurring decision tied to task context, not a one-time infrastructure choice.",
       "tags": [
-        "Monetization",
-        "Product Strategy",
-        "Productivity Apps"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*lyawhHeZy1S8TJyQDEQypg.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@omarkhan.44/this-one-screen-pomodoro-timer-generates-more-than-18k-a-month-200k-arr-here-is-why-ca6fe2363e29?source=rss------product_design-5",
-      "pubDate": "Thu, 20 Aug 2026 13:56:41 GMT"
-    },
-    {
-      "headline": "Designer vs. dev team: what B2B companies should hire first",
-      "background": "Early-stage B2B companies routinely face the build-vs-design prioritization dilemma, often defaulting to developers before establishing UX or visual direction, leading to costly rework.",
-      "keyFindings": [
-        "Argues B2B companies should assess whether their primary need is visual credibility or functional infrastructure before hiring",
-        "Frames the designer-first approach as lower risk for companies where web presence drives lead generation"
-      ],
-      "implications": "Thin on specifics and appears regionally promotional (Dallas TX focus), so treat as a framing piece rather than rigorous guidance. The underlying hire-sequence question is real but deserves more nuanced sourcing.",
-      "tags": [
-        "Hiring",
-        "B2B Design",
-        "Product Teams"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "NewsWatchTV",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZGdIVkVvbjNWN09xUVNYOExPdUpzcU02M3JfdUY3cnh1S3dpNXVoajFMdGVOR0oxQnlNMkNOQkZSWnptU1RBNFJTTjVvcFlCSVFoQ2JFcWZ0WmlIY3lFeWlTTGFJaEp4TjhvQkwzb0RsZEdHZW9majNBT01lVzRud0FOWWJWTmY2b2RWNnFpNnh3NF82REZFbHBQVWx0MllnQlVJbkxDLVgyQm5zVmhSRlBWMVVVZw?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 13:51:45 GMT"
-    },
-    {
-      "headline": "Legacy modernization must begin with discovery, not rewrites",
-      "background": "Organizations modernizing legacy systems frequently underestimate embedded business logic — rules and workflows baked into old code that aren't documented anywhere else — leading to failed migrations.",
-      "keyFindings": [
-        "Legacy systems often contain undocumented critical business logic that disappears in lift-and-shift modernization",
-        "Discovery phase should map existing system behavior before any architecture decisions are made",
-        "Skipping discovery is identified as a primary cause of modernization project failure"
-      ],
-      "implications": "If you're doing UX work on a legacy modernization project, push for a structured discovery phase that includes shadowing actual system use — not just stakeholder interviews. What users do with broken tools reveals requirements that no brief will capture.",
-      "tags": [
-        "Legacy Systems",
-        "Discovery",
-        "Enterprise UX"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1734/1*1_jMtKA7TWFBR9HpQ3ot8g.png",
-      "source": "Product Design on Medium",
-      "link": "https://souravsinhabit.medium.com/product-why-legacy-modernization-should-start-with-discovery-2ccc586b2229?source=rss------product_design-5",
-      "pubDate": "Thu, 20 Aug 2026 13:46:07 GMT"
-    },
-    {
-      "headline": "SAP: connected data is now manufacturers' AI differentiator",
-      "background": "AI adoption in manufacturing has moved past the pilot phase, but outcomes vary widely. SAP's research examines what separates companies seeing real returns from those still experimenting.",
-      "keyFindings": [
-        "SAP research finds manufacturers with integrated, connected data environments are advancing AI adoption faster than siloed competitors",
-        "Data connectivity — not model sophistication — is framed as the primary competitive variable",
-        "Positions real-time operational data access as prerequisite for meaningful AI deployment in manufacturing"
-      ],
-      "implications": "For product teams building industrial or enterprise tools: this reinforces that AI feature value is bottlenecked by data infrastructure, not UI. Prioritize data integration work before designing AI-facing interfaces.",
-      "tags": [
-        "AI Adoption",
-        "Manufacturing",
-        "Enterprise Data"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Enterprise Times",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU013UV9faVNXeGlPT1FqUUhnd3VWbk1JTHNQNjNRTUI3Z1paUWFjZTBTWUE4MnRxX2V4NUdobTJmTVVtQXhWMGVvRXBXYlNad2RHYzNkdlBsYlZ5enZVeVJHeERhTnl3V1FleFB3VlZaWVkzQ2Z2dURvMV9JdENUMDdfUmhHc2ZsN0xaTDByc3NYMkJjUUlyWTNoZTJZMVMtalhLUGhHcHRhQmgtT09oSjRoSFBzNmhoX1d0Ykg0NlYxQ1ZtQmlvdkxyY003UTFLdmc?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 13:36:11 GMT"
-    },
-    {
-      "headline": "When UX meets security threat modeling: inside ZEUEND",
-      "background": "Security and UX are typically handled by separate teams with different vocabularies, but products handling sensitive data or adversarial environments require designers who can engage directly with threat models.",
-      "keyFindings": [
-        "Argues that in security-sensitive contexts, the interface design problem is subordinate to threat modeling — UX decisions have direct security consequences",
-        "Introduces a case where standard UX methods were insufficient without understanding attacker capabilities and risk surfaces",
-        "Suggests UX designers working in these contexts need fluency in threat modeling frameworks, not just user research"
-      ],
-      "implications": "Directly relevant to anyone designing for fintech, healthcare, identity verification, or government products. If your threat model isn't informing your UX decisions, you're likely creating exploitable friction points or false reassurance in the interface.",
-      "tags": [
-        "Security",
-        "Threat Modeling",
-        "Sensitive Contexts"
+        "AI Tools",
+        "Prompt Engineering",
+        "Workflow"
       ],
       "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/800/1*07dEdfdHtuwUdz6mEpzC-Q.gif",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*4azifw8c2TSk60QPvwbcWg.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/@nalakoch36/the-first-time-ux-meets-a-threat-model-inside-zeuend-2ad4e2d37191?source=rss------ux-5",
-      "pubDate": "Thu, 20 Aug 2026 13:26:27 GMT"
+      "link": "https://medium.com/@uxraspberry/ai-models-and-model-selection-for-everyday-work-types-of-tasks-and-prompt-engineering-73e6fabfbd86?source=rss------ux-5",
+      "pubDate": "Fri, 21 Aug 2026 13:51:01 GMT"
     },
     {
-      "headline": "AI overrides user intent — and that's a cultural problem",
-      "background": "As AI assistants become embedded in everyday tools, there's growing concern that models trained on particular value systems impose those values on users rather than serving stated preferences.",
+      "headline": "Beautiful design killed site performance — and the client",
+      "background": "There is ongoing tension in web and product design between visual ambition and technical performance, with designers often underweighting load times and runtime cost when chasing aesthetic goals.",
       "keyFindings": [
-        "Author asked an AI a direct question about vitamins and received an unsolicited reframe of what they 'should' want instead",
-        "Argues AI systems exhibit de facto cultural biases baked into training and RLHF processes",
-        "Frames AI paternalism as a design and ethics issue, not just a model accuracy issue"
+        "The author's highest-effort visual design resulted in performance metrics that drove away the client",
+        "Aesthetic decisions — likely heavy assets, animations, or complex layouts — directly caused measurable performance degradation",
+        "Client disengagement (stopped answering emails) is framed as a direct consequence of a broken user experience, not just taste mismatch"
       ],
-      "implications": "For UX and product teams integrating AI: default AI behaviors that override or redirect user intent erode trust and autonomy. Audit your AI feature outputs for paternalistic response patterns, especially in health, finance, or lifestyle domains.",
+      "implications": "Performance is a design constraint, not an afterthought. Indie and freelance designers especially should build Core Web Vitals checks into their design review process before client handoff.",
       "tags": [
-        "AI Ethics",
-        "User Autonomy",
-        "Conversational AI"
+        "Performance",
+        "Web Design",
+        "Freelance"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "Research",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1376/1*Z5uSDtbEpAZxNsqhGek7NA.png",
-      "source": "UX Research on Medium",
-      "link": "https://ellina-morits.medium.com/ai-doesnt-have-a-culture-except-it-kind-of-does-17586599553e?source=rss------ux_research-5",
-      "pubDate": "Thu, 20 Aug 2026 13:22:54 GMT"
+      "image": null,
+      "source": "UX on Medium",
+      "link": "https://medium.com/@larkin_17138/the-prettiest-site-i-ever-built-was-the-worst-one-e0f96d1c7c64?source=rss------ux-5",
+      "pubDate": "Fri, 21 Aug 2026 13:45:03 GMT"
     },
     {
-      "headline": "How AI is reshaping product design and brand identity in 2026",
-      "background": "Generative AI tools have moved from novelty to standard workflow components for many design teams, but their impact on brand differentiation and design process is still being mapped.",
+      "headline": "UI/UX basics for indie developers building solo",
+      "background": "Solo developers and indie makers typically lack design training and struggle to produce interfaces that feel professional and usable without a dedicated design team.",
       "keyFindings": [
-        "Covers AI's role in accelerating visual iteration and brand asset generation",
-        "Raises questions about homogenization risk as teams use similar underlying models"
+        "Targets non-designers building products independently, focusing on practical heuristics over design theory",
+        "Emphasis appears to be on reducing friction and improving visual hierarchy as high-leverage starting points",
+        "Framed around the gap between a technically functional product and one users actually enjoy using"
       ],
-      "implications": "Light on original data and reads as a trend overview rather than rigorous analysis. Useful for framing conversations with stakeholders but not a substitute for team-specific AI workflow evaluation.",
+      "implications": "Useful as a starting point for developer-founders, but experienced UX practitioners will find it too foundational. Pair with usability testing even at small scale to validate assumptions.",
       "tags": [
-        "Generative AI",
-        "Brand Design",
-        "Design Workflow"
+        "Indie Development",
+        "UI Design",
+        "Usability"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1050/0*dtPrQbWcQpAXHyIf",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@junaidriaz194/how-to-design-better-ui-ux-as-an-indie-developer-ebc4742174ea?source=rss------ux-5",
+      "pubDate": "Fri, 21 Aug 2026 13:41:51 GMT"
+    },
+    {
+      "headline": "Claude Design can prototype full user flows, not just screens",
+      "background": "AI prototyping tools like Claude Design are increasingly used for rapid UI generation, but practitioners often use them only for isolated screen mockups rather than end-to-end flow design.",
+      "keyFindings": [
+        "Claude Design can generate interactive prototypes covering multi-step user flows, not just static UI components",
+        "The article provides a method for structuring prompts to get complete flow outputs rather than disconnected screens",
+        "Positioned as a time-saver for early-stage UX exploration before moving into dedicated design tools"
+      ],
+      "implications": "If you are using Claude Design only for screen-level output, you are underusing it. Structured prompting for full task flows can compress early discovery and ideation cycles significantly.",
+      "tags": [
+        "AI Prototyping",
+        "User Flows",
+        "Design Tools"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1590/1*XWHUcD0Mb2hmoX9XlUDO-Q.png",
+      "source": "UX on Medium",
+      "link": "https://uxplanet.org/claude-design-for-ux-how-to-design-complete-user-flows-not-just-ui-screens-094d6b8a7855?source=rss------ux-5",
+      "pubDate": "Fri, 21 Aug 2026 13:40:13 GMT"
+    },
+    {
+      "headline": "Nielsen's roundup: AI interviewers, design theater, planning fallacy",
+      "background": "Jakob Nielsen's UX roundups aggregate emerging ideas and debates across the field. This edition touches on AI's role in user research, performative design practices, and cognitive bias in project planning.",
+      "keyFindings": [
+        "'Design theater' is called out as a pattern where design process is performed for stakeholders without influencing actual outcomes",
+        "AI-as-interviewer is discussed as a viable research method, raising questions about validity and participant behavior differences",
+        "The planning fallacy — chronic underestimation of task time — is flagged as a systemic UX project risk"
+      ],
+      "implications": "The design theater framing is worth sharing with teams where research outputs are routinely deprioritized in sprint decisions. The AI interviewer discussion is practical context for anyone considering automated research tools.",
+      "tags": [
+        "User Research",
+        "AI Tools",
+        "Design Process"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Technology Org",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObzVYdTNhUGlqdkpfV1ExSVN1dEJWTmZjQ3ZlX3VZbDdOVmhUTW1fa19ROWItVVdaa01PY1JZNFJJTGk4WFdCbEw0OHJGaUxfaHRkWk1obktPanctaTNmbXJhQlpzN3pOQ3pGS1lpR2NPV2N1NEhsUVJCdllrSjV1aHNWREI0QUdybVdNQ2s1Y3ZtcjV2QU8wSlJJeWpwdDg4WDk3OEpR?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 10:53:57 GMT"
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tSTg0NUlvcDhxUGFTX0E3ZDF6QXJBUVNGYmZKRE5FTXZvZ01LbFJaQXBiTGlzUlpuWllJYVR5MGRNUlBzUUhickd3R1R2YWRJc2d5cXMxc1h3MllpRGJ3bE9lLUFhSm1PU2c?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 11:21:36 GMT"
     },
     {
-      "headline": "Teen iPhone theme redesigns challenge core UI conventions",
-      "background": "A viral set of iPhone theme redesigns created by teenagers has sparked debate among professional UI designers about whether established design principles are conventions or actual usability requirements.",
+      "headline": "Financial planning advice for parents supporting career-switching adult children",
+      "background": "Career transitions in tech and adjacent fields are common, and parents are sometimes asked to provide financial support. This piece addresses the personal finance dimension of that dynamic.",
       "keyFindings": [
-        "Teen designers broke multiple standard iOS UI conventions — icon grid, typography hierarchy, color contrast norms — while producing themes that gained significant popular appeal",
-        "Professional designers report the themes are genuinely difficult to critique using conventional usability frameworks",
-        "Surfaces a generational gap in aesthetic expectations that may not map neatly onto accessibility or usability metrics"
+        "Offers a three-step framework for parents to evaluate financial support without jeopardizing their own stability",
+        "Framed around career resets broadly, not specific to tech",
+        "Published in a personal finance context, not a UX or product context"
       ],
-      "implications": "Worth examining as a signal that your heuristic-based design critiques may be defending convention rather than usability. Separate the accessibility-critical rules (contrast, tap target size) from the aesthetic conventions before dismissing unconventional work.",
+      "implications": "Not relevant to UX, product, or tech practice. No actionable professional takeaway for this audience.",
       "tags": [
-        "UI Conventions",
-        "Visual Design",
-        "Heuristics"
+        "Personal Finance",
+        "Career"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "freeyork",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrcHFKeTR1dnMtTUducUlXXzBhUHA1UG8tSUF5ajh1MGVDc0JWMy1FUFZLZVdvbmFETFEtUGhOOWxGUU9jM1JpamRsUDl1U3IxTEkwcGR4Wk9zYTQtRFFJTW11YlBTZ29HQ3RudDVqVHdkUk1Jc3hRNlFtRVVjQQ?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 10:18:44 GMT"
+      "source": "livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZTFGMU1nRGpseVpxZlVJRlpvWnNVQ29pMlJ6MWdFOElZSlZVZHA3Z2I1aFVMbkExRDZtWGFLd29GMzBWSFJjTHBWSnBLb2dUR0ZaQkZpdWhIVEU0V1hyWU5lVVRObUg4YWFRcER3eWM5UXdHbVU3UVZ0NVVHT0EtM20yVUF0Y1RDRTFmcm9EMEpRbnRoYkFBQUxsR3hUYUtJd0N4SVd1ckhLRG5LNmpQQVh0Z1hpeTVBZng5MGgyN3lCUU1GZ3VudjhnUnhKRXNtMkRRNWZwbUs5Q2NENElzUnloMllpUVp2ek9XN2MxN0NQZTQ3RUFiUVo5TFdJY0R5Y05sSDBVcVNmMkRXMXfSAZMCQVVfeXFMUE1IRlR3ME91NWVFeVAyTVlvV2VyTlFTcVhPY2ZrTWp4aGZURDA1b0xqdXZQek1VU0RDbVh4N2FpWGY3cjVwSUl0aEhIbVNURUJhNnRPdllKZG5PTkI2Y2FfWTBHbUNiSGlFM3VNU1FTcUZJc0I2R3VJbG0yY053MzFMVVJDaGhWdHMtYUszZFR2T1poUG9kal9QT2JLWHZIX2otTXhrYXA2X2tfUkJlcnhrNjUtNkU3SVVBV2FVaU9ldlRsVlFYdGNvNkZiY1h5bmVVRHNPYmRRSHBoRGNodHFhZWdaUGRFUDVOMXNUV0Fmd25CVGZCZV9sc0hLTUludXMzTjNEdUtzcms3Z1ZqMURiVm8?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 09:51:23 GMT"
     },
     {
-      "headline": "A teen's iPhone theme is breaking professional designers' brains",
-      "background": "This is a companion piece to the freeyork article above, covering the same viral teen iPhone theme phenomenon with slightly different framing and audience.",
+      "headline": "West African program funds young tech talent development",
+      "background": "Access to formal tech education and funding remains uneven across Sub-Saharan Africa. Programs like Upskill 4.0 aim to close gaps for early-career practitioners in Nigeria and Ghana.",
       "keyFindings": [
-        "A 16-year-old's custom iPhone theme went viral for violating professional UI norms while remaining visually compelling to its audience",
-        "Designers interviewed describe difficulty applying standard critique frameworks to the work",
-        "The piece questions whether UI design education over-indexes on rules at the expense of expressive range"
+        "Upskill 4.0 targets young tech talent specifically in Nigeria and Ghana with structured support",
+        "Listed on fundsforNGOs, indicating grant or program funding is available for organizations in this space",
+        "No detail available in snippet on curriculum, funding amounts, or eligibility criteria"
       ],
-      "implications": "Largely overlaps with the freeyork piece. If reading both, the Creative Bloq version adds designer reaction quotes but reaches the same conclusion: the design community needs clearer separation between accessibility rules and stylistic conventions.",
+      "implications": "Relevant for practitioners, educators, or NGOs operating in West African tech ecosystems looking for program partnerships or funding. Limited direct relevance for product teams outside this region.",
       "tags": [
-        "UI Conventions",
-        "Visual Design",
-        "Design Education"
+        "Tech Education",
+        "Africa",
+        "Funding"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Creative Bloq",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYjJ1a3ZuSHFDajhyMnRULUxIUmpUQ0tTX2g1NU1lTnI3ZGJXUWFsQlVwYlNQeHFNQmdENDdvQkJ1cTNmYjFUcjB2WUdDQzA3MEhLdFN6UjZmc1ZwbG9hYmVxd1hjSnptdnFNTGtxX0xGaUNSanp1VWNtWXdNOXVRLVdxdGNDNThteldzNmJLak8wN3M2Y3RFWlJSWE5ra2REaWZJSE1Oa1U?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 08:00:00 GMT"
+      "source": "fundsforNGOs",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOGRuTWNfWHl4NGxicVVJVVJBRUtiYzJwbkFCam9LcEtNamZOeE9Qcm90eE1hRXpLbnNzLVdSbkU4eTBTS2QwYkJSdUJ3NVNwYjI0alU5S2o0dkxHOWQzcHJDZXlhMnotWUtxWmdGb0hnSmNuQ1lTZTlEN1JPckhFZENsOGlEU01DcG1Ba0Z3YngtZU1iOEp5d1BZOXV0b3AxcU9GMNIBqgFBVV95cUxNc2VoZTVjc09GOGJ1Y2h2WHRvQzhUZjA3TGRneVJCbVRoUWhhR2c4MmxMSFBzY3pyQ01fU3J2NGtuSmFGU1VndjdkVW5hYmtBdjlheUJzeDNpd0lkUC1fUFhzY2JiamZIRDRmaVlyak9CMzhLVjgxQWhhbGt2a1VzN0R4bWY2a1dsanNiQnBjMzBxVmpsMlhVWEVXYlA5QXF5emJsOVFIU04xQQ?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 07:27:02 GMT"
+    },
+    {
+      "headline": "Screen-free AI toys for kids are a real product category now",
+      "background": "Concerns about screen time in child development have created demand for AI-powered products that provide interactive learning without a display. The BubblePal from Haivivi is positioned as an early entrant in this category.",
+      "keyFindings": [
+        "Haivivi BubblePal is an AI toy designed for child interaction with no screen interface, relying on voice or physical interaction",
+        "Framed as part of a broader trend in screen-free AI consumer hardware for children",
+        "No data provided on safety certifications, privacy handling of children's voice data, or efficacy outcomes"
+      ],
+      "implications": "Product designers building for children or families should note the screen-free AI hardware space is maturing. Privacy and COPPA/GDPR-K compliance are critical design constraints for anyone entering this category.",
+      "tags": [
+        "AI Hardware",
+        "Children's Products",
+        "Privacy"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "TyN Magazine",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObmwwNW9sYlpvdjNaWnpqbENhME9OY0tkY2MyMHo5akEyWU5tY3pGVW1nclhiU2M2UmxJSk5zMUtjUjB6YjBsRjBTM19PTUo5eTNLTnpNUXNSWVM3MkVOV216UnRwVnFBVnVlYVJWMGZqRDh2RDF1VXRPOWFPeDJLbHdRblVWM3dWYUxKLTdEOHZWTkhlY3Fj?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 07:09:32 GMT"
+    },
+    {
+      "headline": "Škoda's app UI concept wins Red Dot Design Concept 2026",
+      "background": "Automotive UX is an increasingly competitive design space as vehicles become software-defined platforms. Design awards for concept work signal where industry investment and aesthetic direction are heading.",
+      "keyFindings": [
+        "Škoda Vision App concept received the Red Dot Design Concept award for 2026, one of the more recognized concept-stage design honors",
+        "The award is for a concept, not a shipped product — no confirmed production timeline or feature specification available",
+        "Automotive app UX is being evaluated by mainstream design juries, signaling its growing design legitimacy"
+      ],
+      "implications": "For UX practitioners in or adjacent to automotive, this signals that in-vehicle and companion app design is being held to consumer product design standards. Worth tracking as a reference point for visual and interaction direction in automotive UI.",
+      "tags": [
+        "Automotive UX",
+        "App Design",
+        "Design Awards"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Automotive World",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN2t4QWhVUVh6Ti1nVnZBdFNkQlp5QUZhQXM0bjB3RGkyZXRGZFVMN3Jid1BpYzNZN2tEcnpSS3ZWUnBuX0hXWWNBYkdyYnF3UGdQLXNBQmNVVTFFNVI4YUpjaFZBMTVzdmpDS0FPQjlvYXV4aDB6ZElvQ3lud0lNT3piNDBaek02ZzQ0ZUtEOFZDM3VjOGRBXzlMYw?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 04:20:33 GMT"
     }
   ]
 }
