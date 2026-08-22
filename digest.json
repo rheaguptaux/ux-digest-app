@@ -1,233 +1,233 @@
 {
-  "generatedAt": "2026-08-21T14:07:09.620Z",
+  "generatedAt": "2026-08-22T13:44:42.395Z",
   "items": [
     {
-      "headline": "500 resources for mobile dev, but no curation",
-      "background": "Developers looking to learn mobile app development face an overwhelming number of blog posts and tutorials with no clear signal on quality or relevance. This piece attempts to consolidate that landscape.",
+      "headline": "Custom software cuts complexity as businesses scale",
+      "background": "Off-the-shelf tools often break down as business workflows grow more complex, pushing companies toward custom-built solutions. This piece makes the case for bespoke digital products as an operational necessity rather than a luxury.",
       "keyFindings": [
-        "Aggregates 500 blog posts across mobile development topics with no quality ranking or annotation",
-        "No filtering by platform (iOS, Android, cross-platform) or skill level is indicated in the snippet",
-        "Value is entirely dependent on curation quality, which cannot be assessed from available information"
+        "Custom tools can eliminate manual handoffs between departments by encoding workflow logic directly into the software",
+        "Integration with existing data sources reduces duplicate data entry, a common source of error in scaled operations",
+        "ROI on custom builds is framed around time-per-task reduction rather than licensing cost comparisons"
       ],
-      "implications": "Use only if you need a broad starting list and are prepared to vet entries yourself. For targeted learning, a curated syllabus by platform and level will save significant time.",
+      "implications": "Relevant for product teams being asked to justify custom builds over SaaS. The framing here is useful for internal business cases, though the piece is light on hard benchmarks — treat it as directional, not prescriptive.",
       "tags": [
-        "Mobile Development",
-        "Learning Resources"
+        "Enterprise software",
+        "Workflow design",
+        "Product strategy"
       ],
       "featured": false,
-      "type": "research",
-      "category": "Industry news",
+      "type": "opinion",
+      "category": "Product design",
       "publishedWindow": "today",
       "image": null,
-      "source": "HackerNoon",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0RBRy14a1JSdVJlQ3R3OHo3ZmNOdGIyZXNrQVdQNFFVRlRadmdLTEhZeWxNcnBaODhTS25uUWhxNjFxQnlDWUVpQ3pWZk1rY0p0Z3hTVjJkVDlRLTJqdWZ2WnBZMnVHTVZieFhSXy1hMFFocEdQQlBaYU5lLTBxeQ?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 14:02:31 GMT"
+      "source": "Product Design on Medium",
+      "link": "https://sid9793.medium.com/how-custom-digital-products-streamline-complex-business-workflows-e3f00bbedc75?source=rss------product_design-5",
+      "pubDate": "Sat, 22 Aug 2026 12:12:44 GMT"
     },
     {
-      "headline": "How to pick the right AI model for real work",
-      "background": "The AI model market has fragmented rapidly, with GPT-5, Claude, Gemini, and others offering overlapping but distinct capabilities. Practitioners are struggling to match models to task types without a clear framework.",
+      "headline": "MMO design shows why removing friction kills engagement",
+      "background": "Game designers have long debated whether reducing friction improves or undermines player engagement. This final installment of a series argues that convenience-first design in MMOs has gutted the social and psychological depth that made the genre compelling.",
       "keyFindings": [
-        "Frames model selection around task type rather than benchmark scores — different models suit reasoning, coding, writing, or summarization differently",
-        "Covers prompt engineering strategies tuned to specific model families, not generic advice",
-        "Addresses the cost-performance tradeoff as a practical decision variable for everyday workflows"
+        "Achievement systems are critiqued as extrinsic reward loops that replace intrinsic motivation and meaningful progression",
+        "Convenience features like fast travel and instant matchmaking eliminated the incidental social interactions that built community",
+        "The author argues that friction — waiting, travel time, scarcity — was the mechanism through which players formed identity and attachment"
       ],
-      "implications": "Relevant for any team integrating AI tools into product or design workflows. Treat model selection as a recurring decision tied to task context, not a one-time infrastructure choice.",
+      "implications": "Directly applicable to product designers working on engagement, retention, and community features. The MMO context is a useful stress test for assumptions about reducing user effort — sometimes friction is the feature, not the bug.",
       "tags": [
-        "AI Tools",
-        "Prompt Engineering",
-        "Workflow"
+        "Engagement design",
+        "Game design",
+        "Retention"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/800/1*r9de5p5fs2Lm8JdXgTAtCA.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@SoaringMoon/convenience-killed-the-virtual-world-the-lost-art-of-mmo-friction-part-6-achievements-suck-9b65b6a377d1?source=rss------ux-5",
+      "pubDate": "Sat, 22 Aug 2026 11:41:01 GMT"
+    },
+    {
+      "headline": "Five steps to validate a feature before opening Figma",
+      "background": "A persistent problem in product teams is designers producing high-fidelity work before the underlying question has been tested. This piece offers a structured pre-design workflow to surface assumption failures early.",
+      "keyFindings": [
+        "The workflow starts with a problem framing step that requires articulating whose problem it is and what evidence confirms it exists",
+        "Step three involves mapping assumptions by probability of being wrong and potential impact — a basic risk matrix for feature ideas",
+        "The author recommends a written one-page brief shared with stakeholders before any visual work begins, to force explicit alignment"
+      ],
+      "implications": "Practical for individual designers and design leads alike. Most useful in teams where Figma files get treated as the start of the process rather than a deliverable that follows discovery. Could also help reduce costly late-stage pivots.",
+      "tags": [
+        "Discovery",
+        "Feature validation",
+        "Design process"
       ],
       "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*4azifw8c2TSk60QPvwbcWg.png",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*dIU3ejN5gH_vpKtloc6bHg.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/@uxraspberry/ai-models-and-model-selection-for-everyday-work-types-of-tasks-and-prompt-engineering-73e6fabfbd86?source=rss------ux-5",
-      "pubDate": "Fri, 21 Aug 2026 13:51:01 GMT"
+      "link": "https://medium.com/@sinarad.me/before-you-open-figma-a-5-step-ux-workflow-to-de-risk-features-ac9c6dd43b6e?source=rss------ux-5",
+      "pubDate": "Sat, 22 Aug 2026 11:26:22 GMT"
     },
     {
-      "headline": "Beautiful design killed site performance — and the client",
-      "background": "There is ongoing tension in web and product design between visual ambition and technical performance, with designers often underweighting load times and runtime cost when chasing aesthetic goals.",
+      "headline": "AI interfaces are repeating 1990s software design failures",
+      "background": "Alan Cooper's 1999 book 'The Inmates Are Running the Asylum' argued that engineers designing for themselves rather than users produced hostile software. This piece applies that critique to current AI product design.",
       "keyFindings": [
-        "The author's highest-effort visual design resulted in performance metrics that drove away the client",
-        "Aesthetic decisions — likely heavy assets, animations, or complex layouts — directly caused measurable performance degradation",
-        "Client disengagement (stopped answering emails) is framed as a direct consequence of a broken user experience, not just taste mismatch"
+        "The author argues AI products are being designed around model capabilities rather than user mental models, mirroring the engineer-centric design failures Cooper documented",
+        "Prompt interfaces are cited as a specific example: they require users to learn a new interaction language rather than meeting them in familiar patterns",
+        "The piece suggests AI teams lack dedicated interaction designers with enough influence to push back on capability-first roadmaps"
       ],
-      "implications": "Performance is a design constraint, not an afterthought. Indie and freelance designers especially should build Core Web Vitals checks into their design review process before client handoff.",
+      "implications": "A useful framing for UX practitioners trying to articulate why AI products feel hard to use despite impressive underlying capabilities. Relevant for anyone working on AI feature integration or advocating for user research investment in AI teams.",
       "tags": [
-        "Performance",
-        "Web Design",
-        "Freelance"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "UX on Medium",
-      "link": "https://medium.com/@larkin_17138/the-prettiest-site-i-ever-built-was-the-worst-one-e0f96d1c7c64?source=rss------ux-5",
-      "pubDate": "Fri, 21 Aug 2026 13:45:03 GMT"
-    },
-    {
-      "headline": "UI/UX basics for indie developers building solo",
-      "background": "Solo developers and indie makers typically lack design training and struggle to produce interfaces that feel professional and usable without a dedicated design team.",
-      "keyFindings": [
-        "Targets non-designers building products independently, focusing on practical heuristics over design theory",
-        "Emphasis appears to be on reducing friction and improving visual hierarchy as high-leverage starting points",
-        "Framed around the gap between a technically functional product and one users actually enjoy using"
-      ],
-      "implications": "Useful as a starting point for developer-founders, but experienced UX practitioners will find it too foundational. Pair with usability testing even at small scale to validate assumptions.",
-      "tags": [
-        "Indie Development",
-        "UI Design",
-        "Usability"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1050/0*dtPrQbWcQpAXHyIf",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@junaidriaz194/how-to-design-better-ui-ux-as-an-indie-developer-ebc4742174ea?source=rss------ux-5",
-      "pubDate": "Fri, 21 Aug 2026 13:41:51 GMT"
-    },
-    {
-      "headline": "Claude Design can prototype full user flows, not just screens",
-      "background": "AI prototyping tools like Claude Design are increasingly used for rapid UI generation, but practitioners often use them only for isolated screen mockups rather than end-to-end flow design.",
-      "keyFindings": [
-        "Claude Design can generate interactive prototypes covering multi-step user flows, not just static UI components",
-        "The article provides a method for structuring prompts to get complete flow outputs rather than disconnected screens",
-        "Positioned as a time-saver for early-stage UX exploration before moving into dedicated design tools"
-      ],
-      "implications": "If you are using Claude Design only for screen-level output, you are underusing it. Structured prompting for full task flows can compress early discovery and ideation cycles significantly.",
-      "tags": [
-        "AI Prototyping",
-        "User Flows",
-        "Design Tools"
+        "AI products",
+        "Interaction design",
+        "Design criticism"
       ],
       "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1590/1*XWHUcD0Mb2hmoX9XlUDO-Q.png",
+      "image": "https://cdn-images-1.medium.com/max/792/1*RP9Z1u1IhGW_Kg3sw9mCSg.png",
       "source": "UX on Medium",
-      "link": "https://uxplanet.org/claude-design-for-ux-how-to-design-complete-user-flows-not-just-ui-screens-094d6b8a7855?source=rss------ux-5",
-      "pubDate": "Fri, 21 Aug 2026 13:40:13 GMT"
+      "link": "https://albertborrero.medium.com/the-inmates-are-running-the-asylum-reprised-4f79ff573243?source=rss------ux-5",
+      "pubDate": "Sat, 22 Aug 2026 11:26:08 GMT"
     },
     {
-      "headline": "Nielsen's roundup: AI interviewers, design theater, planning fallacy",
-      "background": "Jakob Nielsen's UX roundups aggregate emerging ideas and debates across the field. This edition touches on AI's role in user research, performative design practices, and cognitive bias in project planning.",
+      "headline": "Press release: branding site launched for Siddha physician",
+      "background": "A web development firm issued a press release announcing a personal branding website built for an individual medical practitioner in Chennai.",
       "keyFindings": [
-        "'Design theater' is called out as a pattern where design process is performed for stakeholders without influencing actual outcomes",
-        "AI-as-interviewer is discussed as a viable research method, raising questions about validity and participant behavior differences",
-        "The planning fallacy — chronic underestimation of task time — is flagged as a systemic UX project risk"
+        "The site was built by JB Soft System for Dr. D. Baskaran, a practitioner of Siddha, a traditional South Indian medicine system",
+        "The announcement positions the site as a professional credibility and patient acquisition tool"
       ],
-      "implications": "The design theater framing is worth sharing with teams where research outputs are routinely deprioritized in sprint decisions. The AI interviewer discussion is practical context for anyone considering automated research tools.",
+      "implications": "Not meaningfully applicable to UX or product practice. No design process, findings, or transferable learnings are present.",
       "tags": [
-        "User Research",
-        "AI Tools",
-        "Design Process"
+        "Press release",
+        "Web development"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tSTg0NUlvcDhxUGFTX0E3ZDF6QXJBUVNGYmZKRE5FTXZvZ01LbFJaQXBiTGlzUlpuWllJYVR5MGRNUlBzUUhickd3R1R2YWRJc2d5cXMxc1h3MllpRGJ3bE9lLUFhSm1PU2c?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 11:21:36 GMT"
+      "source": "LiveChennai",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwcms5UTM2Y3I2LVIwcWNvbzNxLWtaT2N5Uk1CeUhEZDBObFJibDNvbWQ1bnpFTUppWXRXNDIyQW9kbHFYOHNoZEtEQ2YwSTRRa242b2lsQnVGNDNfd1hkU0xCQmtjQQ?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 09:22:05 GMT"
     },
     {
-      "headline": "Financial planning advice for parents supporting career-switching adult children",
-      "background": "Career transitions in tech and adjacent fields are common, and parents are sometimes asked to provide financial support. This piece addresses the personal finance dimension of that dynamic.",
+      "headline": "Anthropic's Claude gets a dedicated prototyping design tool",
+      "background": "AI labs are increasingly building design-adjacent tooling on top of their models. Anthropic has released Claude Design, positioning it as a prototyping aid for product and design work.",
       "keyFindings": [
-        "Offers a three-step framework for parents to evaluate financial support without jeopardizing their own stability",
-        "Framed around career resets broadly, not specific to tech",
-        "Published in a personal finance context, not a UX or product context"
+        "Claude Design appears to target early-stage UI prototyping, generating interface concepts from text prompts",
+        "The tool is built on Claude's existing multimodal and code generation capabilities rather than a separate model",
+        "Coverage is currently thin on specifics around export formats, fidelity limits, or integration with standard design toolchains"
       ],
-      "implications": "Not relevant to UX, product, or tech practice. No actionable professional takeaway for this audience.",
+      "implications": "Worth monitoring for design teams already using Claude in their workflow. Insufficient detail in current coverage to evaluate against Figma AI or other prototyping tools — wait for hands-on reviews before assessing fit.",
       "tags": [
-        "Personal Finance",
-        "Career"
+        "AI tools",
+        "Prototyping",
+        "Design tooling"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZTFGMU1nRGpseVpxZlVJRlpvWnNVQ29pMlJ6MWdFOElZSlZVZHA3Z2I1aFVMbkExRDZtWGFLd29GMzBWSFJjTHBWSnBLb2dUR0ZaQkZpdWhIVEU0V1hyWU5lVVRObUg4YWFRcER3eWM5UXdHbVU3UVZ0NVVHT0EtM20yVUF0Y1RDRTFmcm9EMEpRbnRoYkFBQUxsR3hUYUtJd0N4SVd1ckhLRG5LNmpQQVh0Z1hpeTVBZng5MGgyN3lCUU1GZ3VudjhnUnhKRXNtMkRRNWZwbUs5Q2NENElzUnloMllpUVp2ek9XN2MxN0NQZTQ3RUFiUVo5TFdJY0R5Y05sSDBVcVNmMkRXMXfSAZMCQVVfeXFMUE1IRlR3ME91NWVFeVAyTVlvV2VyTlFTcVhPY2ZrTWp4aGZURDA1b0xqdXZQek1VU0RDbVh4N2FpWGY3cjVwSUl0aEhIbVNURUJhNnRPdllKZG5PTkI2Y2FfWTBHbUNiSGlFM3VNU1FTcUZJc0I2R3VJbG0yY053MzFMVVJDaGhWdHMtYUszZFR2T1poUG9kal9QT2JLWHZIX2otTXhrYXA2X2tfUkJlcnhrNjUtNkU3SVVBV2FVaU9ldlRsVlFYdGNvNkZiY1h5bmVVRHNPYmRRSHBoRGNodHFhZWdaUGRFUDVOMXNUV0Fmd25CVGZCZV9sc0hLTUludXMzTjNEdUtzcms3Z1ZqMURiVm8?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 09:51:23 GMT"
+      "source": "The Zero Net",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Sb2dHeTFqQXk4cElGLTRtQ1F2aDYwRkhCQTY0b3ZUZUk1LTRkSURuY1JiaFRQamFkQVNmVktjek5wckxvZ2lYMzBTeFZCcXVNT2llSkxfUkllY0U?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 05:05:35 GMT"
     },
     {
-      "headline": "West African program funds young tech talent development",
-      "background": "Access to formal tech education and funding remains uneven across Sub-Saharan Africa. Programs like Upskill 4.0 aim to close gaps for early-career practitioners in Nigeria and Ghana.",
+      "headline": "VA expands Oracle Health EHR rollout to Indiana facilities",
+      "background": "The VA's years-long and troubled migration from its legacy VistA EHR system to Oracle Health (formerly Cerner) has faced significant usability and safety criticism at earlier rollout sites. Indiana represents a continued expansion of that program.",
       "keyFindings": [
-        "Upskill 4.0 targets young tech talent specifically in Nigeria and Ghana with structured support",
-        "Listed on fundsforNGOs, indicating grant or program funding is available for organizations in this space",
-        "No detail available in snippet on curriculum, funding amounts, or eligibility criteria"
+        "The Indiana rollout is being described by VA officials as a model for interoperability between VA and community care providers",
+        "The Oracle Health system allows Indiana VA facilities to share records with non-VA providers in the state's health network",
+        "Earlier rollout sites reported clinician workflow disruptions and patient safety concerns — this coverage does not address whether those issues have been resolved"
       ],
-      "implications": "Relevant for practitioners, educators, or NGOs operating in West African tech ecosystems looking for program partnerships or funding. Limited direct relevance for product teams outside this region.",
+      "implications": "Relevant for UX practitioners and PMs working in healthcare IT or government digital services. The gap between official 'interoperability success' framing and reported clinician usability problems at previous sites is worth tracking separately.",
       "tags": [
-        "Tech Education",
-        "Africa",
-        "Funding"
+        "Healthcare IT",
+        "EHR",
+        "Government tech"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "fundsforNGOs",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOGRuTWNfWHl4NGxicVVJVVJBRUtiYzJwbkFCam9LcEtNamZOeE9Qcm90eE1hRXpLbnNzLVdSbkU4eTBTS2QwYkJSdUJ3NVNwYjI0alU5S2o0dkxHOWQzcHJDZXlhMnotWUtxWmdGb0hnSmNuQ1lTZTlEN1JPckhFZENsOGlEU01DcG1Ba0Z3YngtZU1iOEp5d1BZOXV0b3AxcU9GMNIBqgFBVV95cUxNc2VoZTVjc09GOGJ1Y2h2WHRvQzhUZjA3TGRneVJCbVRoUWhhR2c4MmxMSFBzY3pyQ01fU3J2NGtuSmFGU1VndjdkVW5hYmtBdjlheUJzeDNpd0lkUC1fUFhzY2JiamZIRDRmaVlyak9CMzhLVjgxQWhhbGt2a1VzN0R4bWY2a1dsanNiQnBjMzBxVmpsMlhVWEVXYlA5QXF5emJsOVFIU04xQQ?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 07:27:02 GMT"
+      "source": "GovCIO Media & Research",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSnV0c1NtRXVKMjUtQkk3cGkxMXBrcWJ6TVFIN0Z6cjRBR0YyZ19Kc2FMS1dPNnlyN1ZhTWtEX0xRSEwyQ2xGeGZDMU9xR2tnM1A4S1NiTWthaHFvWC05cTZTdjl1aTN3bUlzZHlLbGgxdVFuVmczVHNNMUZSNWZlNnFHQTFMZkc1Q1JSeVNZOA?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 17:27:44 GMT"
     },
     {
-      "headline": "Screen-free AI toys for kids are a real product category now",
-      "background": "Concerns about screen time in child development have created demand for AI-powered products that provide interactive learning without a display. The BubblePal from Haivivi is positioned as an early entrant in this category.",
+      "headline": "Plain-language AI glossary built for product and design teams",
+      "background": "AI terminology is proliferating faster than most non-ML practitioners can track, creating communication gaps between product, design, and engineering. This reference defines the terms that come up most in day-to-day product and design work.",
       "keyFindings": [
-        "Haivivi BubblePal is an AI toy designed for child interaction with no screen interface, relying on voice or physical interaction",
-        "Framed as part of a broader trend in screen-free AI consumer hardware for children",
-        "No data provided on safety certifications, privacy handling of children's voice data, or efficacy outcomes"
+        "Covers practical concepts including tokens, context windows, agents, evals, and prompt injection — terms that affect product decisions even if designers aren't building models",
+        "Definitions are written for practitioners, not researchers, prioritizing application over technical precision",
+        "Prompt injection is included, which is relevant for any team designing AI features that accept user input"
       ],
-      "implications": "Product designers building for children or families should note the screen-free AI hardware space is maturing. Privacy and COPPA/GDPR-K compliance are critical design constraints for anyone entering this category.",
+      "implications": "Bookmark-worthy for UX and product practitioners who need a shared vocabulary with engineering or AI teams. Also useful for onboarding new team members to AI-adjacent projects without sending them to ML research papers.",
       "tags": [
-        "AI Hardware",
-        "Children's Products",
-        "Privacy"
+        "AI literacy",
+        "Reference",
+        "Product education"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/artificial-intelligence-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 21 Aug 2026 17:00:00 +0000"
+    },
+    {
+      "headline": "AI-generated images match stock photos in user perception tests",
+      "background": "Designers and content teams have been cautious about AI-generated imagery, partly due to assumed user skepticism or distrust. This research directly tests whether users perceive AI images differently from stock photography when image origin is not disclosed.",
+      "keyFindings": [
+        "In blind testing conditions, AI-generated images produced no statistically significant perception penalty compared to stock photos",
+        "The absence of a disclosure label was a key variable — the study does not test how users respond when images are labeled as AI-generated",
+        "Image quality and contextual fit mattered more to perception than origin"
+      ],
+      "implications": "Useful evidence for design teams debating AI image use in production interfaces. Important caveat: results apply only to unlabeled contexts — if your product or legal requirements mandate AI disclosure, user response may differ significantly.",
+      "tags": [
+        "AI-generated content",
+        "Visual design",
+        "User research"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/ai-generated-images/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 21 Aug 2026 17:00:00 +0000"
+    },
+    {
+      "headline": "Ethereum wallet delegation standard creates new phishing attack surface",
+      "background": "EIP-7702 is a recently introduced Ethereum standard that allows wallets to delegate transaction signing to smart contracts, enabling more flexible account behavior. Security researchers have identified phishing vectors specific to this delegation mechanism.",
+      "keyFindings": [
+        "Researchers found that EIP-7702 delegation can be exploited to redirect wallet permissions to attacker-controlled contracts without obvious user-facing warnings",
+        "The attack surface is partially a UX problem: existing wallet interfaces do not clearly communicate what delegation approvals mean to non-technical users",
+        "The standard is live on Ethereum mainnet, meaning the risk is active rather than theoretical"
+      ],
+      "implications": "Directly relevant for anyone designing wallet interfaces or approval flows in Web3 products. Delegation confirmation screens need clearer plain-language explanations of what permissions are being granted — current implementations are falling short.",
+      "tags": [
+        "Web3",
+        "Security",
+        "Wallet UX"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "TyN Magazine",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObmwwNW9sYlpvdjNaWnpqbENhME9OY0tkY2MyMHo5akEyWU5tY3pGVW1nclhiU2M2UmxJSk5zMUtjUjB6YjBsRjBTM19PTUo5eTNLTnpNUXNSWVM3MkVOV216UnRwVnFBVnVlYVJWMGZqRDh2RDF1VXRPOWFPeDJLbHdRblVWM3dWYUxKLTdEOHZWTkhlY3Fj?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 07:09:32 GMT"
-    },
-    {
-      "headline": "Škoda's app UI concept wins Red Dot Design Concept 2026",
-      "background": "Automotive UX is an increasingly competitive design space as vehicles become software-defined platforms. Design awards for concept work signal where industry investment and aesthetic direction are heading.",
-      "keyFindings": [
-        "Škoda Vision App concept received the Red Dot Design Concept award for 2026, one of the more recognized concept-stage design honors",
-        "The award is for a concept, not a shipped product — no confirmed production timeline or feature specification available",
-        "Automotive app UX is being evaluated by mainstream design juries, signaling its growing design legitimacy"
-      ],
-      "implications": "For UX practitioners in or adjacent to automotive, this signals that in-vehicle and companion app design is being held to consumer product design standards. Worth tracking as a reference point for visual and interaction direction in automotive UI.",
-      "tags": [
-        "Automotive UX",
-        "App Design",
-        "Design Awards"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Automotive World",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN2t4QWhVUVh6Ti1nVnZBdFNkQlp5QUZhQXM0bjB3RGkyZXRGZFVMN3Jid1BpYzNZN2tEcnpSS3ZWUnBuX0hXWWNBYkdyYnF3UGdQLXNBQmNVVTFFNVI4YUpjaFZBMTVzdmpDS0FPQjlvYXV4aDB6ZElvQ3lud0lNT3piNDBaek02ZzQ0ZUtEOFZDM3VjOGRBXzlMYw?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 04:20:33 GMT"
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZkRCVHZpWXpfVkZoYzNLN3V1LTg5YmFHcmQ2dUFRN2ZQY1pMSGg4RWRnem9fNkxmOWtPYURpSUJ1cVlJNW5heVkybDQxUUc4VzU5OEI3dTRoMkFZRnFYU0JzZWloUVZRR1JWU09URUF3d1hYQWJ5cFpnQUhFa1BtRE1VUXpTdUZzTnFSTmQtMTl6aC1iREFuOTNGUVFsVDloRzdGMm9qNjRLMG1rTkYzU08tNFF6MjZ3NlFiNDh5dWk?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 15:15:00 GMT"
     }
   ]
 }
