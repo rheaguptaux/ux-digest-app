@@ -1,224 +1,178 @@
 {
-  "generatedAt": "2026-08-22T13:44:42.395Z",
+  "generatedAt": "2026-08-23T13:46:54.162Z",
   "items": [
     {
-      "headline": "Custom software cuts complexity as businesses scale",
-      "background": "Off-the-shelf tools often break down as business workflows grow more complex, pushing companies toward custom-built solutions. This piece makes the case for bespoke digital products as an operational necessity rather than a luxury.",
+      "headline": "Prior career experience is an asset in UX transitions.",
+      "background": "Career changers entering UX or tech often discount their previous domain knowledge, assuming only design or coding skills matter. This piece challenges that assumption.",
       "keyFindings": [
-        "Custom tools can eliminate manual handoffs between departments by encoding workflow logic directly into the software",
-        "Integration with existing data sources reduces duplicate data entry, a common source of error in scaled operations",
-        "ROI on custom builds is framed around time-per-task reduction rather than licensing cost comparisons"
+        "Domain expertise from prior careers gives UX career-changers genuine subject-matter credibility that native tech workers often lack.",
+        "Understanding a specific industry's workflows and pain points can accelerate research and stakeholder communication.",
+        "Reframing past experience as contextual knowledge rather than irrelevant history is a competitive differentiator in hiring."
       ],
-      "implications": "Relevant for product teams being asked to justify custom builds over SaaS. The framing here is useful for internal business cases, though the piece is light on hard benchmarks — treat it as directional, not prescriptive.",
+      "implications": "Relevant for UX professionals or hiring managers evaluating career changers — prior industry experience in healthcare, finance, or education can meaningfully improve research quality and stakeholder trust, and shouldn't be buried on a portfolio.",
       "tags": [
-        "Enterprise software",
-        "Workflow design",
-        "Product strategy"
+        "Career Transitions",
+        "Portfolio",
+        "UX Hiring"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1920/1*ZC2ZSIDOhMObF_BfdU2HeQ.jpeg",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@michael.yurchenko.ua/your-previous-experience-is-not-excess-baggage-its-your-superpower-94a4916992e3?source=rss------ux-5",
+      "pubDate": "Sun, 23 Aug 2026 13:10:23 GMT"
+    },
+    {
+      "headline": "The best UI is one users never interact with.",
+      "background": "Product design has long focused on reducing friction in interfaces, but a growing argument holds that the real goal should be eliminating the need for interaction altogether — through automation, prediction, and ambient computing.",
+      "keyFindings": [
+        "Twenty years of interface refinement has optimized usability but not questioned whether the interface itself is necessary.",
+        "Proactive and ambient systems that act without explicit user input represent the next paradigm shift in product design.",
+        "The shift reframes the designer's job from 'making things easy to use' to 'making things unnecessary to use.'"
+      ],
+      "implications": "Product designers should begin evaluating where automation or prediction can replace interaction entirely, not just simplify it — particularly relevant in enterprise tools, health apps, and any high-frequency task flows.",
+      "tags": [
+        "Interaction Design",
+        "Automation",
+        "Product Strategy"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/736/1*bWYMDoyQnybfQhuZSohVzQ.jpeg",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@mynameisharshvara/the-best-interface-is-the-one-you-never-have-to-touch-ca6f6cc6c2f8?source=rss------product_design-5",
+      "pubDate": "Sun, 23 Aug 2026 12:57:48 GMT"
+    },
+    {
+      "headline": "Empty and finished states both block user engagement.",
+      "background": "Designers know blank states are a problem for onboarding, but this piece examines a paired phenomenon: users also hesitate to engage with content that feels polished or complete, creating friction at both ends of the content spectrum.",
+      "keyFindings": [
+        "Users struggle to begin tasks when presented with a blank canvas — the 'blank page problem' is well-documented in writing and creative tools.",
+        "Counterintuitively, users also avoid interacting with content that appears finished or authoritative, fearing they'll disrupt it.",
+        "Designing for 'in-progress' states — scaffolded, editable, visibly incomplete — can reduce both barriers."
+      ],
+      "implications": "For onboarding and collaborative product design, consider seeding interfaces with starter content that signals editability. Avoid over-polished default states that signal 'done' rather than 'yours to modify.'",
+      "tags": [
+        "Onboarding",
+        "Empty States",
+        "Content Design"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1600/0*B_NyIQXcamP4wKu9",
+      "source": "UX on Medium",
+      "link": "https://uxdesign.cc/nobody-wants-a-blank-page-nobody-touches-a-perfect-one-48d452a26dae?source=rss------ux-5",
+      "pubDate": "Sun, 23 Aug 2026 11:22:07 GMT"
+    },
+    {
+      "headline": "Good products solve problems users can't name.",
+      "background": "A recurring challenge in product discovery is that users often can't articulate what's wrong with their current workflow — they adapt around friction rather than identifying it. This piece addresses how to surface latent needs.",
+      "keyFindings": [
+        "Users frequently describe workarounds rather than problems, meaning surface-level interviews miss the actual pain point.",
+        "The most impactful product features often address needs users have normalized rather than consciously flagged.",
+        "Observational research and behavioral data tend to surface these latent problems better than direct questioning."
+      ],
+      "implications": "UX researchers should prioritize contextual inquiry and task observation over self-reported needs — especially in mature product categories where users have long-established workarounds they no longer notice.",
+      "tags": [
+        "User Research",
+        "Product Discovery",
+        "Behavioral Design"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": null,
+      "image": "https://cdn-images-1.medium.com/max/800/1*lfTD3cZyJFCr4faPd9EdHA.png",
       "source": "Product Design on Medium",
-      "link": "https://sid9793.medium.com/how-custom-digital-products-streamline-complex-business-workflows-e3f00bbedc75?source=rss------product_design-5",
-      "pubDate": "Sat, 22 Aug 2026 12:12:44 GMT"
+      "link": "https://medium.com/womenintechnology/great-products-solve-problems-users-cant-articulate-4531a56ce849?source=rss------product_design-5",
+      "pubDate": "Sun, 23 Aug 2026 11:06:01 GMT"
     },
     {
-      "headline": "MMO design shows why removing friction kills engagement",
-      "background": "Game designers have long debated whether reducing friction improves or undermines player engagement. This final installment of a series argues that convenience-first design in MMOs has gutted the social and psychological depth that made the genre compelling.",
+      "headline": "Seven tech roles that don't require coding skills.",
+      "background": "A persistent misconception holds that breaking into tech requires programming knowledge, which deters many career changers. This piece catalogs viable roles that are technical in context but not in execution.",
       "keyFindings": [
-        "Achievement systems are critiqued as extrinsic reward loops that replace intrinsic motivation and meaningful progression",
-        "Convenience features like fast travel and instant matchmaking eliminated the incidental social interactions that built community",
-        "The author argues that friction — waiting, travel time, scarcity — was the mechanism through which players formed identity and attachment"
+        "Roles highlighted include UX research, product management, technical writing, data analytics, and IT project management.",
+        "Many of these roles command competitive salaries and have growing demand despite requiring no coding proficiency.",
+        "The piece positions these as entry points for professionals from non-technical backgrounds."
       ],
-      "implications": "Directly applicable to product designers working on engagement, retention, and community features. The MMO context is a useful stress test for assumptions about reducing user effort — sometimes friction is the feature, not the bug.",
+      "implications": "Useful context for career advisors, bootcamp counselors, or hiring managers building diverse teams — though readers should verify current salary data and role definitions independently, as these vary significantly by company and region.",
       "tags": [
-        "Engagement design",
-        "Game design",
-        "Retention"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/800/1*r9de5p5fs2Lm8JdXgTAtCA.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@SoaringMoon/convenience-killed-the-virtual-world-the-lost-art-of-mmo-friction-part-6-achievements-suck-9b65b6a377d1?source=rss------ux-5",
-      "pubDate": "Sat, 22 Aug 2026 11:41:01 GMT"
-    },
-    {
-      "headline": "Five steps to validate a feature before opening Figma",
-      "background": "A persistent problem in product teams is designers producing high-fidelity work before the underlying question has been tested. This piece offers a structured pre-design workflow to surface assumption failures early.",
-      "keyFindings": [
-        "The workflow starts with a problem framing step that requires articulating whose problem it is and what evidence confirms it exists",
-        "Step three involves mapping assumptions by probability of being wrong and potential impact — a basic risk matrix for feature ideas",
-        "The author recommends a written one-page brief shared with stakeholders before any visual work begins, to force explicit alignment"
-      ],
-      "implications": "Practical for individual designers and design leads alike. Most useful in teams where Figma files get treated as the start of the process rather than a deliverable that follows discovery. Could also help reduce costly late-stage pivots.",
-      "tags": [
-        "Discovery",
-        "Feature validation",
-        "Design process"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*dIU3ejN5gH_vpKtloc6bHg.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@sinarad.me/before-you-open-figma-a-5-step-ux-workflow-to-de-risk-features-ac9c6dd43b6e?source=rss------ux-5",
-      "pubDate": "Sat, 22 Aug 2026 11:26:22 GMT"
-    },
-    {
-      "headline": "AI interfaces are repeating 1990s software design failures",
-      "background": "Alan Cooper's 1999 book 'The Inmates Are Running the Asylum' argued that engineers designing for themselves rather than users produced hostile software. This piece applies that critique to current AI product design.",
-      "keyFindings": [
-        "The author argues AI products are being designed around model capabilities rather than user mental models, mirroring the engineer-centric design failures Cooper documented",
-        "Prompt interfaces are cited as a specific example: they require users to learn a new interaction language rather than meeting them in familiar patterns",
-        "The piece suggests AI teams lack dedicated interaction designers with enough influence to push back on capability-first roadmaps"
-      ],
-      "implications": "A useful framing for UX practitioners trying to articulate why AI products feel hard to use despite impressive underlying capabilities. Relevant for anyone working on AI feature integration or advocating for user research investment in AI teams.",
-      "tags": [
-        "AI products",
-        "Interaction design",
-        "Design criticism"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/792/1*RP9Z1u1IhGW_Kg3sw9mCSg.png",
-      "source": "UX on Medium",
-      "link": "https://albertborrero.medium.com/the-inmates-are-running-the-asylum-reprised-4f79ff573243?source=rss------ux-5",
-      "pubDate": "Sat, 22 Aug 2026 11:26:08 GMT"
-    },
-    {
-      "headline": "Press release: branding site launched for Siddha physician",
-      "background": "A web development firm issued a press release announcing a personal branding website built for an individual medical practitioner in Chennai.",
-      "keyFindings": [
-        "The site was built by JB Soft System for Dr. D. Baskaran, a practitioner of Siddha, a traditional South Indian medicine system",
-        "The announcement positions the site as a professional credibility and patient acquisition tool"
-      ],
-      "implications": "Not meaningfully applicable to UX or product practice. No design process, findings, or transferable learnings are present.",
-      "tags": [
-        "Press release",
-        "Web development"
+        "Career Transitions",
+        "Non-Technical Roles",
+        "Tech Industry"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "LiveChennai",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwcms5UTM2Y3I2LVIwcWNvbzNxLWtaT2N5Uk1CeUhEZDBObFJibDNvbWQ1bnpFTUppWXRXNDIyQW9kbHFYOHNoZEtEQ2YwSTRRa242b2lsQnVGNDNfd1hkU0xCQmtjQQ?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 09:22:05 GMT"
+      "source": "Analytics Insight",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNXhEb29MbGl1RHZUSzZyTTM2Y1drNzRTNWNObXlva2loc0ZKQXhjZTkybTFrbllOMGJhd25rc0dNcndqU1Y4N21KMkJzQWU3aHcxVVR2RkJWMDBJQ2U2OFpYS1lzYzRuZzRMNGVQVGw2T0NyWl95ZFp6SFZNVjRqSVBYbjFzcWVudVI3MmJtWnJ1V05nY1Jtc2Vn0gGnAUFVX3lxTE5TanhtQVZ6c0EybkdrZ0FGSjV5VnB2WWpnSEhWSHhudVZJX3MxU0txVDcyZGVNWHNiaXJTOE52ck92LTZDODVIbVg4YWg0dzY0U2o3U2dNUjhLOVo1eHMzak05UGx2SkVuZERlU2syMHIzdDByUUtuTXp2bDc2UXhmU1hqZDZQS1VKZUg1VzBhWWlqejB3R3k4TnlvRFpFNDhUaEh3ZTln?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 06:30:00 GMT"
     },
     {
-      "headline": "Anthropic's Claude gets a dedicated prototyping design tool",
-      "background": "AI labs are increasingly building design-adjacent tooling on top of their models. Anthropic has released Claude Design, positioning it as a prototyping aid for product and design work.",
+      "headline": "AI cuts app development costs by 75%, one agency claims.",
+      "background": "App development costs have historically been a major barrier for startups and SMBs. Chop Dawg, a Philadelphia-based agency, is publicizing a dramatic cost reduction they attribute to pairing AI-assisted engineering with established processes.",
       "keyFindings": [
-        "Claude Design appears to target early-stage UI prototyping, generating interface concepts from text prompts",
-        "The tool is built on Claude's existing multimodal and code generation capabilities rather than a separate model",
-        "Coverage is currently thin on specifics around export formats, fidelity limits, or integration with standard design toolchains"
+        "Chop Dawg reports reducing typical app development costs from approximately $200,000 to near $50,000 using AI-accelerated engineering.",
+        "The agency attributes the reduction to AI tooling layered onto 18 years of process discipline, not AI replacing experienced developers.",
+        "The claim implies a 75% cost reduction is achievable without sacrificing quality, though no independent verification is cited."
       ],
-      "implications": "Worth monitoring for design teams already using Claude in their workflow. Insufficient detail in current coverage to evaluate against Figma AI or other prototyping tools — wait for hands-on reviews before assessing fit.",
+      "implications": "Treat this as a directional signal rather than a benchmark — cost claims from agencies are inherently promotional. However, it's worth investigating AI-assisted development workflows if you're scoping projects, as tooling-driven efficiency gains in this range are increasingly plausible.",
       "tags": [
-        "AI tools",
-        "Prototyping",
-        "Design tooling"
+        "App Development",
+        "AI Tools",
+        "Development Costs"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "The Zero Net",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Sb2dHeTFqQXk4cElGLTRtQ1F2aDYwRkhCQTY0b3ZUZUk1LTRkSURuY1JiaFRQamFkQVNmVktjek5wckxvZ2lYMzBTeFZCcXVNT2llSkxfUkllY0U?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 05:05:35 GMT"
+      "source": "FinancialContent",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNQ1FIZU8wTmpKc3IwTHVxNVVaQkdRT2l2c3JRMUNDNnlCdmJ3YkRGLXpLRW1WUm1DcmpDU2ZXX3B1VzVvWHRmYmYyZDYybzdaNUVCLTBwNW9YU3hpRHFoWVBhUUpZOVd6clpOYmtQZnVKVTlaNlVqdHVoY3lUWHhwdEpIc2Jja3lnanhSbXQwSzFRX0FhbDZ2cTEzZ0RTNHRYWnBUSHdweS1Zc2I2NmFkdWFnd0dSakFHVWlYcEVTd3BhTVZzQW9kclJpUHRIVjFhUWZMT195Si1BNldLTEh1RzJ4RVVETkJKQTVRQmdHcWZ4MHdWTkxrZElkVUJFX0ZyUEhLQW5BNW4tYTZqcVR2NG9HdEltZF9aRXZ1VA?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 04:12:00 GMT"
     },
     {
-      "headline": "VA expands Oracle Health EHR rollout to Indiana facilities",
-      "background": "The VA's years-long and troubled migration from its legacy VistA EHR system to Oracle Health (formerly Cerner) has faced significant usability and safety criticism at earlier rollout sites. Indiana represents a continued expansion of that program.",
+      "headline": "RRC Polytech secures $2M+ for applied research projects.",
+      "background": "Canadian polytechnic institutions have been expanding applied research programs, often in partnership with industry. RRC Polytech in Winnipeg announced funding for three projects, though specifics are limited in the snippet.",
       "keyFindings": [
-        "The Indiana rollout is being described by VA officials as a model for interoperability between VA and community care providers",
-        "The Oracle Health system allows Indiana VA facilities to share records with non-VA providers in the state's health network",
-        "Earlier rollout sites reported clinician workflow disruptions and patient safety concerns — this coverage does not address whether those issues have been resolved"
+        "RRC Polytech received more than $2 million CAD across three separate research initiatives.",
+        "No project details are available from the snippet alone.",
+        "Funding of this scale at polytechnics typically targets applied, industry-partnered research rather than pure academic inquiry."
       ],
-      "implications": "Relevant for UX practitioners and PMs working in healthcare IT or government digital services. The gap between official 'interoperability success' framing and reported clinician usability problems at previous sites is worth tracking separately.",
+      "implications": "Limited actionability without knowing the research topics. Worth monitoring if you work in Canadian tech, edtech, or applied research partnerships.",
       "tags": [
-        "Healthcare IT",
-        "EHR",
-        "Government tech"
+        "Research Funding",
+        "Education",
+        "Canada Tech"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "GovCIO Media & Research",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSnV0c1NtRXVKMjUtQkk3cGkxMXBrcWJ6TVFIN0Z6cjRBR0YyZ19Kc2FMS1dPNnlyN1ZhTWtEX0xRSEwyQ2xGeGZDMU9xR2tnM1A4S1NiTWthaHFvWC05cTZTdjl1aTN3bUlzZHlLbGgxdVFuVmczVHNNMUZSNWZlNnFHQTFMZkc1Q1JSeVNZOA?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 17:27:44 GMT"
+      "source": "Winnipeg Sun",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdEIweFRYZEdTS2Nzd19MMjF4ZGFyVEJ4cUVOeTFCVUNBT0ZUV3lla25rZ3lYRktDSkxURHdldjdDbm16LUZHbGVKNHBZMXNVU2poLTJldENFZUwtbkd5VlVKRnhhSWxXdVZLMG4zaU5qcHQzcWxiMGFCQ2lXXzBJYlp2dThGRlBQQ0dqd0htYzI1LTloeWxIT1BDTVhteFI1ZTRkcVdBNU9nWm1LZHpGWE52cmI0RW5YaDVMOGFLMThSRGV1Y0lkdmNjVTZDQzVJTVpnUGIwYzJhanI3NlUySUFvYUFKQQ?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 14:05:00 GMT"
     },
     {
-      "headline": "Plain-language AI glossary built for product and design teams",
-      "background": "AI terminology is proliferating faster than most non-ML practitioners can track, creating communication gaps between product, design, and engineering. This reference defines the terms that come up most in day-to-day product and design work.",
+      "headline": "ENS Enterprises financial statements published on BSE.",
+      "background": "This is a routine financial disclosure filing for ENS Enterprises Limited on the Bombay Stock Exchange.",
       "keyFindings": [
-        "Covers practical concepts including tokens, context windows, agents, evals, and prompt injection — terms that affect product decisions even if designers aren't building models",
-        "Definitions are written for practitioners, not researchers, prioritizing application over technical precision",
-        "Prompt injection is included, which is relevant for any team designing AI features that accept user input"
+        "ENS Enterprises Limited published financial statements via BSE listing.",
+        "No UX, product, or technology relevance is apparent from the available content."
       ],
-      "implications": "Bookmark-worthy for UX and product practitioners who need a shared vocabulary with engineering or AI teams. Also useful for onboarding new team members to AI-adjacent projects without sending them to ML research papers.",
+      "implications": "No relevant implications for UX, product, or tech practitioners. This article appears to have been included in error.",
       "tags": [
-        "AI literacy",
-        "Reference",
-        "Product education"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/articles/artificial-intelligence-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 21 Aug 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "AI-generated images match stock photos in user perception tests",
-      "background": "Designers and content teams have been cautious about AI-generated imagery, partly due to assumed user skepticism or distrust. This research directly tests whether users perceive AI images differently from stock photography when image origin is not disclosed.",
-      "keyFindings": [
-        "In blind testing conditions, AI-generated images produced no statistically significant perception penalty compared to stock photos",
-        "The absence of a disclosure label was a key variable — the study does not test how users respond when images are labeled as AI-generated",
-        "Image quality and contextual fit mattered more to perception than origin"
-      ],
-      "implications": "Useful evidence for design teams debating AI image use in production interfaces. Important caveat: results apply only to unlabeled contexts — if your product or legal requirements mandate AI disclosure, user response may differ significantly.",
-      "tags": [
-        "AI-generated content",
-        "Visual design",
-        "User research"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/articles/ai-generated-images/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 21 Aug 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "Ethereum wallet delegation standard creates new phishing attack surface",
-      "background": "EIP-7702 is a recently introduced Ethereum standard that allows wallets to delegate transaction signing to smart contracts, enabling more flexible account behavior. Security researchers have identified phishing vectors specific to this delegation mechanism.",
-      "keyFindings": [
-        "Researchers found that EIP-7702 delegation can be exploited to redirect wallet permissions to attacker-controlled contracts without obvious user-facing warnings",
-        "The attack surface is partially a UX problem: existing wallet interfaces do not clearly communicate what delegation approvals mean to non-technical users",
-        "The standard is live on Ethereum mainnet, meaning the risk is active rather than theoretical"
-      ],
-      "implications": "Directly relevant for anyone designing wallet interfaces or approval flows in Web3 products. Delegation confirmation screens need clearer plain-language explanations of what permissions are being granted — current implementations are falling short.",
-      "tags": [
-        "Web3",
-        "Security",
-        "Wallet UX"
+        "Finance",
+        "Off-Topic"
       ],
       "featured": false,
       "type": "research",
@@ -226,8 +180,54 @@
       "publishedWindow": "today",
       "image": null,
       "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZkRCVHZpWXpfVkZoYzNLN3V1LTg5YmFHcmQ2dUFRN2ZQY1pMSGg4RWRnem9fNkxmOWtPYURpSUJ1cVlJNW5heVkybDQxUUc4VzU5OEI3dTRoMkFZRnFYU0JzZWloUVZRR1JWU09URUF3d1hYQWJ5cFpnQUhFa1BtRE1VUXpTdUZzTnFSTmQtMTl6aC1iREFuOTNGUVFsVDloRzdGMm9qNjRLMG1rTkYzU08tNFF6MjZ3NlFiNDh5dWk?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 15:15:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VMUQwWW5iWFk4cU9DbWZpVTZzd0xVbzY2aGhaTTF1eURwbnk1ekVPYUc0VjV3UWNWNE5WX2VsSWFWR3hEeGFqaEVUXzRJUk92bEtWc0xKdGNHLWM4ZVdabWJTQTNad2VxSGYtUk5BMXJ5QQ?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 09:41:57 GMT"
+    },
+    {
+      "headline": "Blizzard Korea studio credited for top Overwatch skin designs.",
+      "background": "Within Overwatch's player community, debate about regional design quality has surfaced observations that a disproportionate number of well-received cosmetic skins originate from Blizzard's Korean studio.",
+      "keyFindings": [
+        "Community analysis suggests Blizzard Korea Studio produces a higher proportion of fan-favorite skins than other regional teams.",
+        "Korean design aesthetics and local cultural references appear to resonate broadly with the global Overwatch player base.",
+        "No official Blizzard attribution or studio breakdown has been formally published — this is community-driven analysis."
+      ],
+      "implications": "Tangentially relevant to game UX and global design team structure — raises questions about how regional design studios are resourced and credited. Not directly actionable for most product practitioners.",
+      "tags": [
+        "Game Design",
+        "Regional Studios",
+        "Cosmetic Design"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "week",
+      "image": null,
+      "source": "Inven Global",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR005RG1qZDk3NHRBYnhVUzJYTndjdDQ3OW5sR3FsaS1DeDNPcUg0TU1VTDd5YlcwSXdFbV81cFVLSi1PTVA4bl9uNFZEanZNbmNiVVNCX1d2X2xxRVhtYWdwRXJyMUw1M21qOF9HQlZKMG90RmNwMU80c1BiQ2kyekoxYUZGcks4X3YxUDF2c1lVWGNLUEtlX2pfcmNPdw?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 06:07:31 GMT"
+    },
+    {
+      "headline": "341 curated posts on mobile app development, indexed.",
+      "background": "HackerNoon compiled a large reference list of blog posts covering mobile app development topics, aimed at developers and product people looking for learning resources.",
+      "keyFindings": [
+        "The list aggregates 341 posts covering mobile app development across platforms and disciplines.",
+        "No editorial filtering criteria or quality ranking methodology is described in the snippet.",
+        "Usefulness depends heavily on curation quality, which cannot be assessed from the snippet alone."
+      ],
+      "implications": "Could serve as a starting point for self-directed learning on mobile development, but the lack of described curation standards means quality is uneven. Better used as a discovery tool than a curated curriculum.",
+      "tags": [
+        "Mobile Apps",
+        "Learning Resources",
+        "Development"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "week",
+      "image": null,
+      "source": "HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kOEdYelphNlNQSkRjZWhIeHlpM2gycjRjZnZWZ0hWejZsV24tTkFxeTBpWVRQWFZ2RkE2V1E5MV9PNmE3R2dnMDl1Wm45MS1nS2FkQnFyLTdsX3BDb0RVREo0cTlYODF2a1JOTHhqaDRZQQ?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 02:31:40 GMT"
     }
   ]
 }
