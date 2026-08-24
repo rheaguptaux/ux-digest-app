@@ -1,233 +1,230 @@
 {
-  "generatedAt": "2026-08-23T13:46:54.162Z",
+  "generatedAt": "2026-08-24T12:51:01.810Z",
   "items": [
     {
-      "headline": "Prior career experience is an asset in UX transitions.",
-      "background": "Career changers entering UX or tech often discount their previous domain knowledge, assuming only design or coding skills matter. This piece challenges that assumption.",
+      "headline": "WhatsApp Live Location buried under too many taps",
+      "background": "WhatsApp's Live Location feature lets users share real-time position with contacts, but actually navigating to that person requires moving through several non-obvious steps — a friction point that undermines a time-sensitive use case.",
       "keyFindings": [
-        "Domain expertise from prior careers gives UX career-changers genuine subject-matter credibility that native tech workers often lack.",
-        "Understanding a specific industry's workflows and pain points can accelerate research and stakeholder communication.",
-        "Reframing past experience as contextual knowledge rather than irrelevant history is a competitive differentiator in hiring."
+        "Accessing a shared Live Location to get directions requires multiple non-intuitive steps that aren't surfaced at the moment of need",
+        "The gap between receiving location data and acting on it (e.g. opening in Maps) represents a core task-flow failure",
+        "The feature exists but its discoverability and actionability are poorly designed for the primary use case"
       ],
-      "implications": "Relevant for UX professionals or hiring managers evaluating career changers — prior industry experience in healthcare, finance, or education can meaningfully improve research quality and stakeholder trust, and shouldn't be buried on a portfolio.",
+      "implications": "A useful reminder that feature availability is not the same as feature usability. If your product surfaces data users need to act on urgently, the path from 'received' to 'acted on' should be one or two taps — audit your own time-sensitive flows for similar buried actions.",
       "tags": [
-        "Career Transitions",
-        "Portfolio",
-        "UX Hiring"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1920/1*ZC2ZSIDOhMObF_BfdU2HeQ.jpeg",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@michael.yurchenko.ua/your-previous-experience-is-not-excess-baggage-its-your-superpower-94a4916992e3?source=rss------ux-5",
-      "pubDate": "Sun, 23 Aug 2026 13:10:23 GMT"
-    },
-    {
-      "headline": "The best UI is one users never interact with.",
-      "background": "Product design has long focused on reducing friction in interfaces, but a growing argument holds that the real goal should be eliminating the need for interaction altogether — through automation, prediction, and ambient computing.",
-      "keyFindings": [
-        "Twenty years of interface refinement has optimized usability but not questioned whether the interface itself is necessary.",
-        "Proactive and ambient systems that act without explicit user input represent the next paradigm shift in product design.",
-        "The shift reframes the designer's job from 'making things easy to use' to 'making things unnecessary to use.'"
-      ],
-      "implications": "Product designers should begin evaluating where automation or prediction can replace interaction entirely, not just simplify it — particularly relevant in enterprise tools, health apps, and any high-frequency task flows.",
-      "tags": [
-        "Interaction Design",
-        "Automation",
-        "Product Strategy"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/736/1*bWYMDoyQnybfQhuZSohVzQ.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@mynameisharshvara/the-best-interface-is-the-one-you-never-have-to-touch-ca6f6cc6c2f8?source=rss------product_design-5",
-      "pubDate": "Sun, 23 Aug 2026 12:57:48 GMT"
-    },
-    {
-      "headline": "Empty and finished states both block user engagement.",
-      "background": "Designers know blank states are a problem for onboarding, but this piece examines a paired phenomenon: users also hesitate to engage with content that feels polished or complete, creating friction at both ends of the content spectrum.",
-      "keyFindings": [
-        "Users struggle to begin tasks when presented with a blank canvas — the 'blank page problem' is well-documented in writing and creative tools.",
-        "Counterintuitively, users also avoid interacting with content that appears finished or authoritative, fearing they'll disrupt it.",
-        "Designing for 'in-progress' states — scaffolded, editable, visibly incomplete — can reduce both barriers."
-      ],
-      "implications": "For onboarding and collaborative product design, consider seeding interfaces with starter content that signals editability. Avoid over-polished default states that signal 'done' rather than 'yours to modify.'",
-      "tags": [
-        "Onboarding",
-        "Empty States",
-        "Content Design"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/0*B_NyIQXcamP4wKu9",
-      "source": "UX on Medium",
-      "link": "https://uxdesign.cc/nobody-wants-a-blank-page-nobody-touches-a-perfect-one-48d452a26dae?source=rss------ux-5",
-      "pubDate": "Sun, 23 Aug 2026 11:22:07 GMT"
-    },
-    {
-      "headline": "Good products solve problems users can't name.",
-      "background": "A recurring challenge in product discovery is that users often can't articulate what's wrong with their current workflow — they adapt around friction rather than identifying it. This piece addresses how to surface latent needs.",
-      "keyFindings": [
-        "Users frequently describe workarounds rather than problems, meaning surface-level interviews miss the actual pain point.",
-        "The most impactful product features often address needs users have normalized rather than consciously flagged.",
-        "Observational research and behavioral data tend to surface these latent problems better than direct questioning."
-      ],
-      "implications": "UX researchers should prioritize contextual inquiry and task observation over self-reported needs — especially in mature product categories where users have long-established workarounds they no longer notice.",
-      "tags": [
-        "User Research",
-        "Product Discovery",
-        "Behavioral Design"
+        "Mobile UX",
+        "Navigation",
+        "Feature Discoverability"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/800/1*lfTD3cZyJFCr4faPd9EdHA.png",
+      "image": "https://cdn-images-1.medium.com/max/1344/1*B2IKJuUw1tJBz73hb52kCg.jpeg",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/womenintechnology/great-products-solve-problems-users-cant-articulate-4531a56ce849?source=rss------product_design-5",
-      "pubDate": "Sun, 23 Aug 2026 11:06:01 GMT"
+      "link": "https://medium.com/@vikalpsinha/whatsapp-knows-where-they-are-why-does-it-take-so-many-steps-to-get-there-f7b5ef524dfb?source=rss------product_design-5",
+      "pubDate": "Mon, 24 Aug 2026 12:33:17 GMT"
     },
     {
-      "headline": "Seven tech roles that don't require coding skills.",
-      "background": "A persistent misconception holds that breaking into tech requires programming knowledge, which deters many career changers. This piece catalogs viable roles that are technical in context but not in execution.",
+      "headline": "Junior designers: stop chasing tools, build AI judgment instead",
+      "background": "Junior UX designers are under pressure to keep up with a rapidly expanding landscape of AI tools, creating anxiety about which ones to learn and a tendency to treat tool fluency as the primary skill to develop.",
       "keyFindings": [
-        "Roles highlighted include UX research, product management, technical writing, data analytics, and IT project management.",
-        "Many of these roles command competitive salaries and have growing demand despite requiring no coding proficiency.",
-        "The piece positions these as entry points for professionals from non-technical backgrounds."
+        "The volume of AI tools makes comprehensive fluency impossible — selective, principle-based learning is more sustainable",
+        "The recommended focus is on optimizing learning strategy rather than maximizing tool coverage",
+        "Transferable skills like prompt construction, output evaluation, and workflow integration matter more than specific tool expertise"
       ],
-      "implications": "Useful context for career advisors, bootcamp counselors, or hiring managers building diverse teams — though readers should verify current salary data and role definitions independently, as these vary significantly by company and region.",
+      "implications": "For designers early in their careers, prioritizing how to evaluate and integrate AI outputs critically is more durable than any specific tool certification. Hiring managers and team leads should calibrate expectations accordingly — tool lists on CVs are a weak signal.",
       "tags": [
-        "Career Transitions",
-        "Non-Technical Roles",
-        "Tech Industry"
+        "AI tools",
+        "Career development",
+        "Design skills"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*4w0ILNQnGDbvzc44ikFt7A.png",
+      "source": "Product Design on Medium",
+      "link": "https://itsandreaugusto.medium.com/the-ai-skills-junior-designers-should-focus-on-72a35e52bc12?source=rss------product_design-5",
+      "pubDate": "Mon, 24 Aug 2026 12:31:01 GMT"
+    },
+    {
+      "headline": "Has interaction design stalled for 15+ years?",
+      "background": "Despite constant talk of innovation in digital product design, some practitioners argue that the foundational methods and outputs of UX design — wireframes, user flows, usability testing — have remained largely unchanged since the late 2000s.",
+      "keyFindings": [
+        "UX designer Lidia Swangren, cited in Digital Design Essentials, suggests the discipline's core practice has not meaningfully evolved in over 15 years",
+        "The argument distinguishes between tool evolution (Figma vs. older software) and genuine methodological or conceptual advancement",
+        "The stagnation claim implies UX has been rebranding familiar practices rather than developing new ones"
+      ],
+      "implications": "Worth sitting with as a provocation if you work in UX leadership or education. If true, it suggests the field may be over-indexing on tool adoption as a proxy for progress — and that more fundamental methodological critique is overdue.",
+      "tags": [
+        "Design practice",
+        "UX maturity",
+        "Industry critique"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1171/1*RZVpJRZ_7ylfAa3ygBNN6Q.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@laura.gnzlz.ercoreca/is-it-possible-that-a-digital-design-discipline-has-barely-evolved-in-over-15-years-fd5fe01b673f?source=rss------product_design-5",
+      "pubDate": "Mon, 24 Aug 2026 11:54:36 GMT"
+    },
+    {
+      "headline": "What actually makes users remember an experience",
+      "background": "There's ongoing tension in UX between optimizing for aesthetic polish and optimizing for how an experience feels to use over time — and which of those drives return behavior.",
+      "keyFindings": [
+        "Return usage correlates more with how an experience feels than how it looks, according to the piece's central argument",
+        "Memorability appears tied to emotional resonance and ease of task completion rather than visual design quality",
+        "The most-returned-to products are not necessarily the most visually refined"
+      ],
+      "implications": "Vague without the full article's supporting evidence — treat as a restatement of established peak-end rule and emotional design research rather than new findings. Useful framing for stakeholder conversations about where to invest design effort.",
+      "tags": [
+        "Emotional design",
+        "Retention",
+        "Product experience"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1200/0*e1m6JhWybBVQh9b-",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@shraddhachavan/what-makes-a-user-experience-memorable-ee5f82612622?source=rss------product_design-5",
+      "pubDate": "Mon, 24 Aug 2026 11:51:25 GMT"
+    },
+    {
+      "headline": "Nielsen's roundup: AI economics, error recovery, left-digit effect",
+      "background": "Jakob Nielsen's UX Roundup series aggregates recent research and commentary across multiple UX and behavioral science topics in a single digest, covering both applied practice and broader industry trends.",
+      "keyFindings": [
+        "AI is identified as a structural threat to billable-hour consulting models — relevant to agencies and freelancers pricing UX work",
+        "The left-digit effect (e.g. users perceiving $4.99 as meaningfully cheaper than $5.00) is covered as a behavioral pricing factor applicable to product decisions",
+        "AI use differences across user segments and the concept of AI as a delegated agent are flagged as emerging UX design considerations"
+      ],
+      "implications": "High information density across several independently useful topics. The AI-undermines-billable-hours point is particularly actionable for anyone running or working in a UX consultancy — pricing model rethinking may be necessary sooner than expected.",
+      "tags": [
+        "AI economics",
+        "Behavioral science",
+        "Error recovery"
+      ],
+      "featured": true,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzZ3ByNVNpZ2dnSXlJUVZhZnAtemhjTUdyWGM4VzF3aHd0ZnBfUjRJMWlQX3FmMlJyV3dHMW1hNjI3bExpT1FIT3BSUFV3R1FKLVRuclN0RmhlWkk4bUpNUWRuWGItTXVQZ2c?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 11:21:38 GMT"
+    },
+    {
+      "headline": "The Unit and G2 Digital launch Vegas Club Casino app",
+      "background": "Casino and gaming operators are increasingly investing in branded mobile app experiences as a competitive differentiator in the regulated online gambling market.",
+      "keyFindings": [
+        "The Unit partnered with G2 Digital to deliver the Vegas Club Casino mobile app",
+        "No specific UX, technical, or design details are available from the snippet"
+      ],
+      "implications": "Insufficient detail to extract UX or product learnings. Relevant only if you work in gambling/gaming app development and want to track which studios are active in the space.",
+      "tags": [
+        "Mobile apps",
+        "Gaming industry"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Analytics Insight",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNXhEb29MbGl1RHZUSzZyTTM2Y1drNzRTNWNObXlva2loc0ZKQXhjZTkybTFrbllOMGJhd25rc0dNcndqU1Y4N21KMkJzQWU3aHcxVVR2RkJWMDBJQ2U2OFpYS1lzYzRuZzRMNGVQVGw2T0NyWl95ZFp6SFZNVjRqSVBYbjFzcWVudVI3MmJtWnJ1V05nY1Jtc2Vn0gGnAUFVX3lxTE5TanhtQVZ6c0EybkdrZ0FGSjV5VnB2WWpnSEhWSHhudVZJX3MxU0txVDcyZGVNWHNiaXJTOE52ck92LTZDODVIbVg4YWg0dzY0U2o3U2dNUjhLOVo1eHMzak05UGx2SkVuZERlU2syMHIzdDByUUtuTXp2bDc2UXhmU1hqZDZQS1VKZUg1VzBhWWlqejB3R3k4TnlvRFpFNDhUaEh3ZTln?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 06:30:00 GMT"
+      "source": "Asia Gaming Brief (AGB)",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYjhBVzhmc29YcTQyOU0wMG9FMlJVeG1NWHFKWVRrTHVReGVGVGQxeG5UWmNGa0J4NG8yckF5LXBjd1RtTDhIZVJtQzhYREhiT1NkX0VqMXZJQ1RNNzRhaFhncWtHV3pDbDdGaUJzUXNZeHh3SHdQTUxkWDJrYUo4MWJPTXpGVWhtR0s0YW9McmFldnZLWHVRaEJfWXFUdHo5NXo3U3NHTlgxVWdoY0ZTXzFB?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 10:32:18 GMT"
     },
     {
-      "headline": "AI cuts app development costs by 75%, one agency claims.",
-      "background": "App development costs have historically been a major barrier for startups and SMBs. Chop Dawg, a Philadelphia-based agency, is publicizing a dramatic cost reduction they attribute to pairing AI-assisted engineering with established processes.",
+      "headline": "Designer built agency after years working for free",
+      "background": "Unpaid and underpaid early-career work remains a contested practice in the design industry, with ongoing debate about whether it builds meaningful experience or simply exploits junior practitioners.",
       "keyFindings": [
-        "Chop Dawg reports reducing typical app development costs from approximately $200,000 to near $50,000 using AI-accelerated engineering.",
-        "The agency attributes the reduction to AI tooling layered onto 18 years of process discipline, not AI replacing experienced developers.",
-        "The claim implies a 75% cost reduction is achievable without sacrificing quality, though no independent verification is cited."
+        "AL SOLUTIONS was built by a designer who began their career doing unpaid work before transitioning to agency ownership",
+        "No specific business metrics, timelines, or design methodology details are available from the snippet"
       ],
-      "implications": "Treat this as a directional signal rather than a benchmark — cost claims from agencies are inherently promotional. However, it's worth investigating AI-assisted development workflows if you're scoping projects, as tooling-driven efficiency gains in this range are increasingly plausible.",
+      "implications": "Insufficient substantive detail to extract actionable UX or product insight. A business origin story rather than a practice or craft piece.",
       "tags": [
-        "App Development",
-        "AI Tools",
-        "Development Costs"
+        "Career development",
+        "Design business"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "FinancialContent",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNQ1FIZU8wTmpKc3IwTHVxNVVaQkdRT2l2c3JRMUNDNnlCdmJ3YkRGLXpLRW1WUm1DcmpDU2ZXX3B1VzVvWHRmYmYyZDYybzdaNUVCLTBwNW9YU3hpRHFoWVBhUUpZOVd6clpOYmtQZnVKVTlaNlVqdHVoY3lUWHhwdEpIc2Jja3lnanhSbXQwSzFRX0FhbDZ2cTEzZ0RTNHRYWnBUSHdweS1Zc2I2NmFkdWFnd0dSakFHVWlYcEVTd3BhTVZzQW9kclJpUHRIVjFhUWZMT195Si1BNldLTEh1RzJ4RVVETkJKQTVRQmdHcWZ4MHdWTkxrZElkVUJFX0ZyUEhLQW5BNW4tYTZqcVR2NG9HdEltZF9aRXZ1VA?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 04:12:00 GMT"
+      "source": "ThePrint",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZkNqMU5RZGFjTHVUYjRHU0hXN2I3bzFkZzg3cVJjd01sYXY3UGV5ZzlveGNkdkgwdWRXWHc2cUlZdGdJRF96WHJnLTh0a0F0SDdTSGxxZDdkN0NoS1B2WjJFZ20xRGlhSGt4WEhsTURjSXd0SGVZWjhaakNSVFVRNWZrN2Y2cG8zblB5eHJTV1hGOFFNdEd1a2xEUjVrRGFVX0pqRk9wN1lnSzU5X2tqaTNFR25TY2dXNHA00gHAAUFVX3lxTE9JQlMyYjJDa1lUZmJtcDMtcVY1R0x3V01IY0tIVVM3LXpUbWxPWml4eDNsRGtiWWhTLU9qQ0RhZnVDOG1HOFpkdEM4bF9KeWNPNGttSkFHMzJQT1htakREQlFRSEJLbFpuclA4MUIzRTNvaklUMzZYUUpOMHB6RTBGd21jVlZYSVluU2d5SEg2OUd3NW9VemxfbE1oM2dMOEhPUERFLUJ4ajFCdE5FbE1GTEl2Y0pVaF80X19fN3Rpeg?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 07:30:06 GMT"
     },
     {
-      "headline": "RRC Polytech secures $2M+ for applied research projects.",
-      "background": "Canadian polytechnic institutions have been expanding applied research programs, often in partnership with industry. RRC Polytech in Winnipeg announced funding for three projects, though specifics are limited in the snippet.",
+      "headline": "Nielsen Norman Group UX Conference: November 9–13, 2026",
+      "background": "The Nielsen Norman Group runs one of the most established structured UX training programs, offering intensive multi-day courses aimed at mid-to-senior practitioners seeking certification or skill deepening.",
       "keyFindings": [
-        "RRC Polytech received more than $2 million CAD across three separate research initiatives.",
-        "No project details are available from the snippet alone.",
-        "Funding of this scale at polytechnics typically targets applied, industry-partnered research rather than pure academic inquiry."
+        "The conference runs November 9–13, 2026, offering up to 5 concurrent in-depth training courses",
+        "Courses are positioned around durable, long-term UX skills rather than trend-driven content",
+        "Format allows attendees to build a custom multi-course training week"
       ],
-      "implications": "Limited actionability without knowing the research topics. Worth monitoring if you work in Canadian tech, edtech, or applied research partnerships.",
+      "implications": "Worth flagging to team leads planning 2026 L&D budgets. NN/g conferences are well-regarded for structured skill-building but are a significant time and cost investment — best suited for practitioners with 2+ years of experience looking to formalize or broaden their foundation.",
       "tags": [
-        "Research Funding",
-        "Education",
-        "Canada Tech"
+        "UX training",
+        "Professional development",
+        "Conferences"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/training/november/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Mon, 24 Aug 2026 06:48:00 +0000"
+    },
+    {
+      "headline": "Fully funded PhD in human-centered responsible AI — Salzburg",
+      "background": "Academic positions focused on responsible AI and human-computer interaction are expanding as institutions respond to growing regulatory and ethical scrutiny of AI systems.",
+      "keyFindings": [
+        "The University of Salzburg is offering a fully funded PhD position in Human-Centered Responsible AI",
+        "Salary is at least €52,865.40 per year — above average for European PhD stipends",
+        "The position sits at the intersection of HCI, ethics, and AI system design"
+      ],
+      "implications": "Relevant for UX researchers or designers considering an academic research path, particularly those interested in AI ethics and human-AI interaction as a formal research area rather than a practice-side concern.",
+      "tags": [
+        "Research",
+        "Responsible AI",
+        "Academic careers"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Winnipeg Sun",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdEIweFRYZEdTS2Nzd19MMjF4ZGFyVEJ4cUVOeTFCVUNBT0ZUV3lla25rZ3lYRktDSkxURHdldjdDbm16LUZHbGVKNHBZMXNVU2poLTJldENFZUwtbkd5VlVKRnhhSWxXdVZLMG4zaU5qcHQzcWxiMGFCQ2lXXzBJYlp2dThGRlBQQ0dqd0htYzI1LTloeWxIT1BDTVhteFI1ZTRkcVdBNU9nWm1LZHpGWE52cmI0RW5YaDVMOGFLMThSRGV1Y0lkdmNjVTZDQzVJTVpnUGIwYzJhanI3NlUySUFvYUFKQQ?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 14:05:00 GMT"
+      "source": "Global South Opportunities",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZSHVGXzR5RXZNLU9DU2NKMVMyVFJRSzdsSXpLSXNCWEZQa3FnNW5yTWRaWjB0VFpjMURvMEdSU2ZCcTdWZHNZNU1TOGctVG4wOHFKOERYVS00dVBxTWVhUUlac1NvYzAwUWlSVll3?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 06:23:44 GMT"
     },
     {
-      "headline": "ENS Enterprises financial statements published on BSE.",
-      "background": "This is a routine financial disclosure filing for ENS Enterprises Limited on the Bombay Stock Exchange.",
+      "headline": "Bank of Georgia wins 33 categories at digital banking awards",
+      "background": "Global Finance's World's Best Digital Banks Awards benchmark digital banking experiences internationally, with results often used as competitive reference points by fintech and banking product teams.",
       "keyFindings": [
-        "ENS Enterprises Limited published financial statements via BSE listing.",
-        "No UX, product, or technology relevance is apparent from the available content."
+        "Bank of Georgia won across 33 award categories — an unusually broad sweep for a single institution",
+        "No specific product features, UX decisions, or technical details are cited in the available snippet"
       ],
-      "implications": "No relevant implications for UX, product, or tech practitioners. This article appears to have been included in error.",
+      "implications": "The scale of the win is notable as a competitive intelligence signal for anyone working in fintech or digital banking product design, but without specifics on what drove the wins it offers limited actionable insight.",
       "tags": [
-        "Finance",
-        "Off-Topic"
+        "Fintech",
+        "Digital banking",
+        "Awards"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VMUQwWW5iWFk4cU9DbWZpVTZzd0xVbzY2aGhaTTF1eURwbnk1ekVPYUc0VjV3UWNWNE5WX2VsSWFWR3hEeGFqaEVUXzRJUk92bEtWc0xKdGNHLWM4ZVdabWJTQTNad2VxSGYtUk5BMXJ5QQ?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 09:41:57 GMT"
-    },
-    {
-      "headline": "Blizzard Korea studio credited for top Overwatch skin designs.",
-      "background": "Within Overwatch's player community, debate about regional design quality has surfaced observations that a disproportionate number of well-received cosmetic skins originate from Blizzard's Korean studio.",
-      "keyFindings": [
-        "Community analysis suggests Blizzard Korea Studio produces a higher proportion of fan-favorite skins than other regional teams.",
-        "Korean design aesthetics and local cultural references appear to resonate broadly with the global Overwatch player base.",
-        "No official Blizzard attribution or studio breakdown has been formally published — this is community-driven analysis."
-      ],
-      "implications": "Tangentially relevant to game UX and global design team structure — raises questions about how regional design studios are resourced and credited. Not directly actionable for most product practitioners.",
-      "tags": [
-        "Game Design",
-        "Regional Studios",
-        "Cosmetic Design"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "week",
-      "image": null,
-      "source": "Inven Global",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR005RG1qZDk3NHRBYnhVUzJYTndjdDQ3OW5sR3FsaS1DeDNPcUg0TU1VTDd5YlcwSXdFbV81cFVLSi1PTVA4bl9uNFZEanZNbmNiVVNCX1d2X2xxRVhtYWdwRXJyMUw1M21qOF9HQlZKMG90RmNwMU80c1BiQ2kyekoxYUZGcks4X3YxUDF2c1lVWGNLUEtlX2pfcmNPdw?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 06:07:31 GMT"
-    },
-    {
-      "headline": "341 curated posts on mobile app development, indexed.",
-      "background": "HackerNoon compiled a large reference list of blog posts covering mobile app development topics, aimed at developers and product people looking for learning resources.",
-      "keyFindings": [
-        "The list aggregates 341 posts covering mobile app development across platforms and disciplines.",
-        "No editorial filtering criteria or quality ranking methodology is described in the snippet.",
-        "Usefulness depends heavily on curation quality, which cannot be assessed from the snippet alone."
-      ],
-      "implications": "Could serve as a starting point for self-directed learning on mobile development, but the lack of described curation standards means quality is uneven. Better used as a discovery tool than a curated curriculum.",
-      "tags": [
-        "Mobile Apps",
-        "Learning Resources",
-        "Development"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "week",
-      "image": null,
-      "source": "HackerNoon",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kOEdYelphNlNQSkRjZWhIeHlpM2gycjRjZnZWZ0hWejZsV24tTkFxeTBpWVRQWFZ2RkE2V1E5MV9PNmE3R2dnMDl1Wm45MS1nS2FkQnFyLTdsX3BDb0RVREo0cTlYODF2a1JOTHhqaDRZQQ?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 02:31:40 GMT"
+      "source": "OC Media",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVDVfYVZZeHNKTHBLNDhxOXpaNXlUSFBZbUJ6bEFvU1paUVFUclpzOWp1a0pBTGphbXBOanEzRF9ZeTJTNXBxbTRrcENsTUhpSER1VHFOLVhOcnlTMW9uNkxobVBnMmxka1MzV29xOHlkMC1sLWZHQWZ6WG9odVZac0diNnVmVEpuLXpJMVhhRVlGVTNrMWNsVnNJWGp5akJDU2Y3QUE5S1gtbUtNZG16eA?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 05:45:01 GMT"
     }
   ]
 }
