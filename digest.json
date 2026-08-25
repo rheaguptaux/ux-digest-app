@@ -1,199 +1,157 @@
 {
-  "generatedAt": "2026-08-24T12:51:01.810Z",
+  "generatedAt": "2026-08-25T12:47:42.025Z",
   "items": [
     {
-      "headline": "WhatsApp Live Location buried under too many taps",
-      "background": "WhatsApp's Live Location feature lets users share real-time position with contacts, but actually navigating to that person requires moving through several non-obvious steps — a friction point that undermines a time-sensitive use case.",
+      "headline": "Claude Code's concise mode cuts token use and noise",
+      "background": "AI coding assistants like Claude Code default to verbose outputs that waste tokens and overwhelm non-engineering collaborators, including designers reviewing generated code or specs.",
       "keyFindings": [
-        "Accessing a shared Live Location to get directions requires multiple non-intuitive steps that aren't surfaced at the moment of need",
-        "The gap between receiving location data and acting on it (e.g. opening in Maps) represents a core task-flow failure",
-        "The feature exists but its discoverability and actionability are poorly designed for the primary use case"
+        "Claude Code's concise style setting measurably reduces token consumption per session",
+        "Shorter output makes AI-generated content easier for designers to parse and act on without filtering engineering jargon",
+        "The setting can be configured to persist across sessions rather than toggled per prompt"
       ],
-      "implications": "A useful reminder that feature availability is not the same as feature usability. If your product surfaces data users need to act on urgently, the path from 'received' to 'acted on' should be one or two taps — audit your own time-sensitive flows for similar buried actions.",
-      "tags": [
-        "Mobile UX",
-        "Navigation",
-        "Feature Discoverability"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1344/1*B2IKJuUw1tJBz73hb52kCg.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@vikalpsinha/whatsapp-knows-where-they-are-why-does-it-take-so-many-steps-to-get-there-f7b5ef524dfb?source=rss------product_design-5",
-      "pubDate": "Mon, 24 Aug 2026 12:33:17 GMT"
-    },
-    {
-      "headline": "Junior designers: stop chasing tools, build AI judgment instead",
-      "background": "Junior UX designers are under pressure to keep up with a rapidly expanding landscape of AI tools, creating anxiety about which ones to learn and a tendency to treat tool fluency as the primary skill to develop.",
-      "keyFindings": [
-        "The volume of AI tools makes comprehensive fluency impossible — selective, principle-based learning is more sustainable",
-        "The recommended focus is on optimizing learning strategy rather than maximizing tool coverage",
-        "Transferable skills like prompt construction, output evaluation, and workflow integration matter more than specific tool expertise"
-      ],
-      "implications": "For designers early in their careers, prioritizing how to evaluate and integrate AI outputs critically is more durable than any specific tool certification. Hiring managers and team leads should calibrate expectations accordingly — tool lists on CVs are a weak signal.",
+      "implications": "If you're using Claude Code in design-adjacent workflows — reviewing component specs, generating copy variants, or documenting interactions — the concise mode reduces noise without losing substance. Worth setting as a default rather than an afterthought.",
       "tags": [
         "AI tools",
-        "Career development",
-        "Design skills"
+        "Developer handoff",
+        "Prompt engineering"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "Product design",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*4w0ILNQnGDbvzc44ikFt7A.png",
-      "source": "Product Design on Medium",
-      "link": "https://itsandreaugusto.medium.com/the-ai-skills-junior-designers-should-focus-on-72a35e52bc12?source=rss------product_design-5",
-      "pubDate": "Mon, 24 Aug 2026 12:31:01 GMT"
+      "image": "https://cdn-images-1.medium.com/max/2600/1*LIxM6brwMz6YDm0wcFpKhw.png",
+      "source": "UX on Medium",
+      "link": "https://uxplanet.org/claude-codes-new-concise-style-can-save-you-a-lot-of-tokens-5ef2bd0241fc?source=rss------ux-5",
+      "pubDate": "Tue, 25 Aug 2026 12:06:08 GMT"
     },
     {
-      "headline": "Has interaction design stalled for 15+ years?",
-      "background": "Despite constant talk of innovation in digital product design, some practitioners argue that the foundational methods and outputs of UX design — wireframes, user flows, usability testing — have remained largely unchanged since the late 2000s.",
+      "headline": "Userlytics adds AI tools while keeping humans in control",
+      "background": "UX research platforms are under pressure to speed up synthesis and analysis using AI, but researchers worry about losing interpretive control over findings and participant data.",
       "keyFindings": [
-        "UX designer Lidia Swangren, cited in Digital Design Essentials, suggests the discipline's core practice has not meaningfully evolved in over 15 years",
-        "The argument distinguishes between tool evolution (Figma vs. older software) and genuine methodological or conceptual advancement",
-        "The stagnation claim implies UX has been rebranding familiar practices rather than developing new ones"
+        "Userlytics launched Study Pulse, a real-time AI monitoring tool that surfaces patterns during live studies rather than only in post-analysis",
+        "The platform positions its AI features explicitly as augmentation within a 'human in the loop' model, not full automation",
+        "New tools reportedly include AI-assisted highlight reels and automated tagging of usability sessions"
       ],
-      "implications": "Worth sitting with as a provocation if you work in UX leadership or education. If true, it suggests the field may be over-indexing on tool adoption as a proxy for progress — and that more fundamental methodological critique is overdue.",
+      "implications": "For research ops teams evaluating platforms, Userlytics is differentiating on researcher control rather than full automation — relevant if your organization has governance or consent requirements around AI processing of participant recordings.",
       "tags": [
-        "Design practice",
-        "UX maturity",
-        "Industry critique"
+        "Research ops",
+        "AI-assisted research",
+        "Usability testing"
       ],
       "featured": false,
-      "type": "opinion",
-      "category": "Product design",
+      "type": "research",
+      "category": "Industry news",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1171/1*RZVpJRZ_7ylfAa3ygBNN6Q.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@laura.gnzlz.ercoreca/is-it-possible-that-a-digital-design-discipline-has-barely-evolved-in-over-15-years-fd5fe01b673f?source=rss------product_design-5",
-      "pubDate": "Mon, 24 Aug 2026 11:54:36 GMT"
+      "image": null,
+      "source": "EIN News",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNemhIQ0VDS2JUQ2NacTZxdUV6NC01THBBUkZ0S2hycW4tdGVsS0RORzNZWldiNmxhWUZERDFHV1NLVkVqUldhMHQxZEFnZU80b3JrZlZERldETjVUck9qSmZJUW96ckRwUjhQd3NCdzJYRWNzZkI4d3kxSEk0ZVR4TFV5blU4VlJQR0wyZDI4ZTlTOWtmOGFiUnJ6UUZEUE1vNEthSlVnZmxhUDlfZ2FreHJPZW1sUXlRRWdtSzcxSGxhd2xrQWpSRjRrTW12ZDF4SkFRMjM4WmFrNjhfcEpZcHVxT1BPbzJaZDBJbUVqaw?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 12:00:00 GMT"
     },
     {
-      "headline": "What actually makes users remember an experience",
-      "background": "There's ongoing tension in UX between optimizing for aesthetic polish and optimizing for how an experience feels to use over time — and which of those drives return behavior.",
+      "headline": "Treat mockups as structured data, not static images",
+      "background": "As AI agents are increasingly used to interpret design files and generate code or documentation, handing off unstructured mockup files — with hundreds of unnamed or arbitrarily numbered frames — causes agents to misinterpret layout intent or fail entirely.",
       "keyFindings": [
-        "Return usage correlates more with how an experience feels than how it looks, according to the piece's central argument",
-        "Memorability appears tied to emotional resonance and ease of task completion rather than visual design quality",
-        "The most-returned-to products are not necessarily the most visually refined"
+        "Unnamed or sequentially numbered frames like 'Frame 1268' provide no semantic context for AI agents parsing design files",
+        "Structuring mockups with named, hierarchical frames functions like a data schema and improves agent accuracy in code generation tasks",
+        "The author argues that design file organization will become a core competency as agentic handoff workflows scale"
       ],
-      "implications": "Vague without the full article's supporting evidence — treat as a restatement of established peak-end rule and emotional design research rather than new findings. Useful framing for stakeholder conversations about where to invest design effort.",
+      "implications": "If you're working in Figma or similar tools with AI-assisted handoff in your pipeline, frame naming and component hierarchy are no longer just housekeeping — they directly affect how reliably agents can interpret your work. Audit your file structure before integrating agents.",
       "tags": [
-        "Emotional design",
-        "Retention",
-        "Product experience"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1200/0*e1m6JhWybBVQh9b-",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@shraddhachavan/what-makes-a-user-experience-memorable-ee5f82612622?source=rss------product_design-5",
-      "pubDate": "Mon, 24 Aug 2026 11:51:25 GMT"
-    },
-    {
-      "headline": "Nielsen's roundup: AI economics, error recovery, left-digit effect",
-      "background": "Jakob Nielsen's UX Roundup series aggregates recent research and commentary across multiple UX and behavioral science topics in a single digest, covering both applied practice and broader industry trends.",
-      "keyFindings": [
-        "AI is identified as a structural threat to billable-hour consulting models — relevant to agencies and freelancers pricing UX work",
-        "The left-digit effect (e.g. users perceiving $4.99 as meaningfully cheaper than $5.00) is covered as a behavioral pricing factor applicable to product decisions",
-        "AI use differences across user segments and the concept of AI as a delegated agent are flagged as emerging UX design considerations"
-      ],
-      "implications": "High information density across several independently useful topics. The AI-undermines-billable-hours point is particularly actionable for anyone running or working in a UX consultancy — pricing model rethinking may be necessary sooner than expected.",
-      "tags": [
-        "AI economics",
-        "Behavioral science",
-        "Error recovery"
+        "AI tools",
+        "Developer handoff",
+        "Design systems"
       ],
       "featured": true,
-      "type": "research",
-      "category": "Industry news",
+      "type": "opinion",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzZ3ByNVNpZ2dnSXlJUVZhZnAtemhjTUdyWGM4VzF3aHd0ZnBfUjRJMWlQX3FmMlJyV3dHMW1hNjI3bExpT1FIT3BSUFV3R1FKLVRuclN0RmhlWkk4bUpNUWRuWGItTXVQZ2c?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 11:21:38 GMT"
+      "image": "https://cdn-images-1.medium.com/max/2600/1*IzOCrm_wU6hhzpVB3Ka_sQ.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@denis_zelenykh/the-mockup-as-a-data-structure-or-why-you-should-never-show-frame-1268-to-an-agent-0cb0d650832e?source=rss------product_design-5",
+      "pubDate": "Tue, 25 Aug 2026 11:21:52 GMT"
     },
     {
-      "headline": "The Unit and G2 Digital launch Vegas Club Casino app",
-      "background": "Casino and gaming operators are increasingly investing in branded mobile app experiences as a competitive differentiator in the regulated online gambling market.",
+      "headline": "Screens alone no longer prove your value as a designer",
+      "background": "Designers are confronting a professional identity shift as AI tools commoditize visual execution, raising questions about how expertise and career credibility get demonstrated when output can be generated in minutes.",
       "keyFindings": [
-        "The Unit partnered with G2 Digital to deliver the Vegas Club Casino mobile app",
-        "No specific UX, technical, or design details are available from the snippet"
+        "The piece argues that a portfolio of polished screens is losing its signal value as hiring evidence now that AI can produce similar artifacts quickly",
+        "Luxury goods brands maintain value through craft history, scarcity logic, and process transparency — the author draws a parallel to how designers need to surface their reasoning, not just deliverables",
+        "The implication is that design judgment, research integration, and systems thinking are the durable differentiators"
       ],
-      "implications": "Insufficient detail to extract UX or product learnings. Relevant only if you work in gambling/gaming app development and want to track which studios are active in the space.",
+      "implications": "For designers updating portfolios or preparing for interviews, the case studies that will hold weight are ones that document decision-making, constraints, and tradeoffs — not just final UI. This matters especially in roles where AI tool use is already assumed.",
       "tags": [
-        "Mobile apps",
-        "Gaming industry"
+        "Design careers",
+        "Portfolio strategy",
+        "AI impact"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2520/1*i8e-1k5JodKftaeK72FcAQ.jpeg",
+      "source": "UX on Medium",
+      "link": "https://uxdesign.cc/what-luxury-bags-can-teach-designers-about-how-to-adapt-to-a-changing-deal-3c06caba673d?source=rss------ux-5",
+      "pubDate": "Tue, 25 Aug 2026 11:18:38 GMT"
+    },
+    {
+      "headline": "A governance model for AI-assisted UX research",
+      "background": "As AI tools automate more of the UX research pipeline — recruiting, note-taking, synthesis — there's no widely adopted framework for deciding where researcher judgment must stay in the loop versus where automation is safe to run independently.",
+      "keyFindings": [
+        "The 'researcher-in-the-loop' model proposes five distinct control points where human judgment should override or audit AI output, including problem framing, participant selection, and insight validation",
+        "The framework distinguishes between AI handling logistics and AI handling interpretation — the latter always requires researcher review",
+        "It addresses a specific failure mode: AI synthesis that surfaces patterns in data but misses the contextual meaning that comes from being present during sessions"
+      ],
+      "implications": "Research leads defining internal AI research workflows should use a model like this to set explicit policy rather than letting tool defaults determine where automation stops. Particularly relevant for teams where junior researchers might over-rely on AI synthesis without the experience to spot misreadings.",
+      "tags": [
+        "Research ops",
+        "AI-assisted research",
+        "Research governance"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1402/1*wtfCVtevl7C-Ud0-q25MaA.png",
+      "source": "UX on Medium",
+      "link": "https://uxdesign.cc/researcher-in-the-loop-18a8ffddf48e?source=rss------ux-5",
+      "pubDate": "Tue, 25 Aug 2026 11:18:36 GMT"
+    },
+    {
+      "headline": "How UX strategy must shift as SaaS products scale",
+      "background": "SaaS teams often carry MVP-era UX decisions — minimal onboarding, narrow navigation, limited permissions — into growth stages where those patterns break down under user volume and feature complexity.",
+      "keyFindings": [
+        "MVP UX prioritizes speed to value for a narrow user type, but scaling requires accommodating multiple personas, roles, and use cases within the same interface",
+        "The piece identifies onboarding, information architecture, and permissioning as the three areas most likely to become critical debt as SaaS products grow",
+        "It recommends introducing a UX maturity audit at Series A or equivalent inflection points rather than waiting for user complaints to surface structural problems"
+      ],
+      "implications": "Product and UX leads at growth-stage SaaS companies should treat this as a checklist moment — if your IA or onboarding hasn't been redesigned since early users, it's likely already misaligned with your current user mix. Technical debt has a UX equivalent.",
+      "tags": [
+        "SaaS",
+        "Information architecture",
+        "Onboarding"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Asia Gaming Brief (AGB)",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYjhBVzhmc29YcTQyOU0wMG9FMlJVeG1NWHFKWVRrTHVReGVGVGQxeG5UWmNGa0J4NG8yckF5LXBjd1RtTDhIZVJtQzhYREhiT1NkX0VqMXZJQ1RNNzRhaFhncWtHV3pDbDdGaUJzUXNZeHh3SHdQTUxkWDJrYUo4MWJPTXpGVWhtR0s0YW9McmFldnZLWHVRaEJfWXFUdHo5NXo3U3NHTlgxVWdoY0ZTXzFB?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 10:32:18 GMT"
+      "source": "Techloy",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3N5X3pKRzYzM0dVX1NlYU5TOUVaV3lva19TWU9UY1ZGcS1fQWdZQjB2T2N5TUZ5TnpiZEdvU19EOFdlazNad3ZzVUN5UnZWT1llX1BuN2pwNHZGX3h5REY3d1Q4YzFFaTJKR2oxN0tJMjUtb2FOdkRkazVqNkFvNWhqWDFRYTZaMGtJRXljSjA0QQ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 09:31:02 GMT"
     },
     {
-      "headline": "Designer built agency after years working for free",
-      "background": "Unpaid and underpaid early-career work remains a contested practice in the design industry, with ongoing debate about whether it builds meaningful experience or simply exploits junior practitioners.",
+      "headline": "Outreachy offers $7,000 remote internships in open source",
+      "background": "Outreachy is an established paid internship program placing people from underrepresented groups in open source software projects, running twice yearly with fully remote placements.",
       "keyFindings": [
-        "AL SOLUTIONS was built by a designer who began their career doing unpaid work before transitioning to agency ownership",
-        "No specific business metrics, timelines, or design methodology details are available from the snippet"
+        "December 2026 cohort offers a $7,000 stipend for a three-month remote internship",
+        "No prior open source contribution experience is required to apply",
+        "Outreachy targets applicants who face systemic barriers in the tech industry, including women, people of color, and people in the Global South"
       ],
-      "implications": "Insufficient substantive detail to extract actionable UX or product insight. A business origin story rather than a practice or craft piece.",
+      "implications": "Relevant for UX and tech practitioners looking to mentor or sponsor interns through open source projects, or for junior practitioners from underrepresented groups seeking structured entry points into the field.",
       "tags": [
-        "Career development",
-        "Design business"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "ThePrint",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZkNqMU5RZGFjTHVUYjRHU0hXN2I3bzFkZzg3cVJjd01sYXY3UGV5ZzlveGNkdkgwdWRXWHc2cUlZdGdJRF96WHJnLTh0a0F0SDdTSGxxZDdkN0NoS1B2WjJFZ20xRGlhSGt4WEhsTURjSXd0SGVZWjhaakNSVFVRNWZrN2Y2cG8zblB5eHJTV1hGOFFNdEd1a2xEUjVrRGFVX0pqRk9wN1lnSzU5X2tqaTNFR25TY2dXNHA00gHAAUFVX3lxTE9JQlMyYjJDa1lUZmJtcDMtcVY1R0x3V01IY0tIVVM3LXpUbWxPWml4eDNsRGtiWWhTLU9qQ0RhZnVDOG1HOFpkdEM4bF9KeWNPNGttSkFHMzJQT1htakREQlFRSEJLbFpuclA4MUIzRTNvaklUMzZYUUpOMHB6RTBGd21jVlZYSVluU2d5SEg2OUd3NW9VemxfbE1oM2dMOEhPUERFLUJ4ajFCdE5FbE1GTEl2Y0pVaF80X19fN3Rpeg?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 07:30:06 GMT"
-    },
-    {
-      "headline": "Nielsen Norman Group UX Conference: November 9–13, 2026",
-      "background": "The Nielsen Norman Group runs one of the most established structured UX training programs, offering intensive multi-day courses aimed at mid-to-senior practitioners seeking certification or skill deepening.",
-      "keyFindings": [
-        "The conference runs November 9–13, 2026, offering up to 5 concurrent in-depth training courses",
-        "Courses are positioned around durable, long-term UX skills rather than trend-driven content",
-        "Format allows attendees to build a custom multi-course training week"
-      ],
-      "implications": "Worth flagging to team leads planning 2026 L&D budgets. NN/g conferences are well-regarded for structured skill-building but are a significant time and cost investment — best suited for practitioners with 2+ years of experience looking to formalize or broaden their foundation.",
-      "tags": [
-        "UX training",
-        "Professional development",
-        "Conferences"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/training/november/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Mon, 24 Aug 2026 06:48:00 +0000"
-    },
-    {
-      "headline": "Fully funded PhD in human-centered responsible AI — Salzburg",
-      "background": "Academic positions focused on responsible AI and human-computer interaction are expanding as institutions respond to growing regulatory and ethical scrutiny of AI systems.",
-      "keyFindings": [
-        "The University of Salzburg is offering a fully funded PhD position in Human-Centered Responsible AI",
-        "Salary is at least €52,865.40 per year — above average for European PhD stipends",
-        "The position sits at the intersection of HCI, ethics, and AI system design"
-      ],
-      "implications": "Relevant for UX researchers or designers considering an academic research path, particularly those interested in AI ethics and human-AI interaction as a formal research area rather than a practice-side concern.",
-      "tags": [
-        "Research",
-        "Responsible AI",
-        "Academic careers"
+        "Internships",
+        "Open source",
+        "Inclusion"
       ],
       "featured": false,
       "type": "research",
@@ -201,30 +159,77 @@
       "publishedWindow": "today",
       "image": null,
       "source": "Global South Opportunities",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZSHVGXzR5RXZNLU9DU2NKMVMyVFJRSzdsSXpLSXNCWEZQa3FnNW5yTWRaWjB0VFpjMURvMEdSU2ZCcTdWZHNZNU1TOGctVG4wOHFKOERYVS00dVBxTWVhUUlac1NvYzAwUWlSVll3?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 06:23:44 GMT"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pdmZuNENuT3lhMkM4QXVBZWFZSUtaV0NSaXMtNWphVEdab1pwVlJUNUhXbDgtOEx4RzVPbjZxb1FGbmNpZVpDbVg3ZFZKUmFmTk1PVXhYLXpSYkwwYUpvMkM0UktzNlk0N1UyRW1zWGFSZw?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 08:17:10 GMT"
     },
     {
-      "headline": "Bank of Georgia wins 33 categories at digital banking awards",
-      "background": "Global Finance's World's Best Digital Banks Awards benchmark digital banking experiences internationally, with results often used as competitive reference points by fintech and banking product teams.",
+      "headline": "IIT Bombay launches online entrepreneurship postgrad program",
+      "background": "IIT Bombay is offering an executive postgraduate diploma in innovation and entrepreneurship targeted at working professionals, delivered online through a partner education platform.",
       "keyFindings": [
-        "Bank of Georgia won across 33 award categories — an unusually broad sweep for a single institution",
-        "No specific product features, UX decisions, or technical details are cited in the available snippet"
+        "The ePGD program is structured for working professionals with no full-time residency requirement",
+        "Curriculum covers innovation frameworks, venture design, and entrepreneurship strategy",
+        "Delivered in partnership with Jaro Education, a third-party online learning provider, not directly through IIT Bombay's own platform"
       ],
-      "implications": "The scale of the win is notable as a competitive intelligence signal for anyone working in fintech or digital banking product design, but without specifics on what drove the wins it offers limited actionable insight.",
+      "implications": "Limited direct relevance to day-to-day UX or product work. Worth noting the third-party delivery structure if evaluating credentialing value — the IIT Bombay association is real but the program logistics sit outside the institute's direct administration.",
       "tags": [
-        "Fintech",
-        "Digital banking",
-        "Awards"
+        "Design education",
+        "Entrepreneurship",
+        "Professional development"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "OC Media",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVDVfYVZZeHNKTHBLNDhxOXpaNXlUSFBZbUJ6bEFvU1paUVFUclpzOWp1a0pBTGphbXBOanEzRF9ZeTJTNXBxbTRrcENsTUhpSER1VHFOLVhOcnlTMW9uNkxobVBnMmxka1MzV29xOHlkMC1sLWZHQWZ6WG9odVZac0diNnVmVEpuLXpJMVhhRVlGVTNrMWNsVnNJWGp5akJDU2Y3QUE5S1gtbUtNZG16eA?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 05:45:01 GMT"
+      "source": "Jaro Education",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdE9ORmxkejNjUm9rdmJSeVJjTUZGOERiNk5kazhNdFRXMjhXczFtaWRGdkVVVG81VkJEQ1BBMWM1RV9fVy0yMXRrVFFrTXNiQzZ2aTBHd1BUeGs4MXVPRUVBZ1lSU091MXc2UjMwQjdKekQ4bHFNNmxLWS02dEZEWjJnNjFKU0RMZ2tLanJuVzZkOHhy?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 08:12:41 GMT"
+    },
+    {
+      "headline": "Autonomous websites that self-optimize after launch",
+      "background": "Most websites degrade in relevance after launch because continuous content and UX updates require ongoing human effort that teams rarely sustain. AI agent workflows are now being tested as a way to automate that ongoing optimization loop.",
+      "keyFindings": [
+        "The author built a system where AI agents autonomously update content, test variations, and adjust page structure post-launch without per-change human approval",
+        "A key design problem they surfaced: agents optimizing locally for engagement metrics can drift from the original strategic intent of the site without human correction checkpoints",
+        "The piece identifies 'goal drift' — where incremental agent decisions accumulate into outcomes the original designers didn't intend — as the central unsolved challenge"
+      ],
+      "implications": "For teams exploring agentic website management, the goal drift problem is the critical design constraint to solve before deployment — not the automation itself. Build in explicit intent anchors and audit triggers, not just performance metrics, as the agent's success criteria.",
+      "tags": [
+        "Agentic AI",
+        "Content strategy",
+        "Autonomous systems"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Design & dev",
+      "publishedWindow": "today",
+      "image": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg",
+      "source": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "link": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
+      "pubDate": "Tue, 25 Aug 2026 08:00:00 GMT"
+    },
+    {
+      "headline": "AI is eliminating jobs and creating new ones simultaneously",
+      "background": "Labor market reporting on AI tends to polarize between displacement narratives and optimistic 'new jobs' framing, with little specificity about which roles are actually emerging and at what rate.",
+      "keyFindings": [
+        "The piece notes net job creation in AI-adjacent roles but does not specify which categories or at what volume",
+        "Displacement is concentrated in repetitive task-heavy roles while emerging roles tend to require AI oversight or prompt engineering skills",
+        "No timeline or labor market data is cited — the piece is summary-level reporting"
+      ],
+      "implications": "Thin on actionable detail. For UX and product practitioners tracking workforce shifts, more rigorous sources like McKinsey's AI labor market reports or BLS occupational data will give more usable specifics than this piece provides.",
+      "tags": [
+        "AI impact",
+        "Workforce trends",
+        "Tech industry"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Inshorts",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMkRXQ1JMSlBsVy1wOUFlTDJoS19VNDljZkhUc2tsWF9zV19SQmRCT01oMzNub0hBdENIYUpORWlsNTdlRk9OUzVudVRDMExOeHFfdlY0ZnlicjdpR2dlbC1CaHNwSlhiSzlGX0ZkeFplVi1zUGlnODJMMzhySzBlc0UxRTF1RU9XZmVYUFhvdWFhM1U4STd4UTdxTzI1ZGd50gGgAUFVX3lxTE8yRFdDUkxKUGxXLXA5QWVMMmhLX1U0OWNmSFRza2xYX3NXX1JCZEJPTWgzM25vSEF0Q0hhSk5FaWw1N2VGT05TNW51VEMwTE54cV92VjRmeWJyN2lHZ2VsLUJoc3BKWGJLOUZfRmR4WmVWLXNQaWc4MkwzOHJLMGVzRTFFMXVFT1dmZVhQWG91YWEzVThJN3hRN3FPMjVkZ3k?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 07:35:58 GMT"
     }
   ]
 }
