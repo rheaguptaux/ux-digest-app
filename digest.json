@@ -1,232 +1,226 @@
 {
-  "generatedAt": "2026-08-28T21:46:46.029Z",
+  "generatedAt": "2026-08-29T16:18:36.517Z",
   "items": [
     {
-      "headline": "Comics as a Research Readout Format",
-      "background": "Research readouts are frequently ignored or forgotten because slide decks fail to make findings feel human or memorable. Practitioners have been experimenting with alternative storytelling formats to close the gap between insight and empathy.",
+      "headline": "Classic psychological rules still govern UX decisions",
+      "background": "Designers frequently invoke mental models like cognitive load, Hick's Law, and the serial position effect, but these principles are often cited loosely without grounding in how they actually constrain design choices.",
       "keyFindings": [
-        "Comics can translate interview data into narrative scenes that make participant experiences emotionally legible to stakeholders",
-        "Visual sequencing helps non-researchers follow causal chains — why users behave a certain way — not just what they do",
-        "The format is particularly effective for conveying edge cases or pain points that get flattened in bullet-point summaries"
+        "Cognitive overload increases decision abandonment, making simplicity a retention mechanism not just an aesthetic choice",
+        "Hick's Law predicts that doubling the number of choices logarithmically increases decision time, with direct implications for navigation and onboarding flows",
+        "The peak-end rule means users judge an experience primarily by its most intense moment and its conclusion, not its average quality"
       ],
-      "implications": "Worth trying when stakeholders are disengaged from traditional readouts or when findings involve nuanced emotional journeys. Requires additional production time and some illustration skill or tooling.",
+      "implications": "These principles are most actionable during critique and audit phases — use them as specific diagnostic lenses rather than post-hoc justifications. Especially relevant when evaluating information architecture and error recovery flows.",
       "tags": [
-        "Research Communication",
-        "Stakeholder Engagement",
-        "Storytelling"
+        "Cognitive Psychology",
+        "Information Architecture",
+        "Behavioral Design"
       ],
       "featured": false,
-      "type": "opinion",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2400/1*oyE6kZeZPhf_aLkM6MB1RQ.jpeg",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/design-bootcamp/from-insight-to-empathy-38c7b0c40a6b?source=rss------ux_research-5",
-      "pubDate": "Fri, 28 Aug 2026 21:37:14 GMT"
-    },
-    {
-      "headline": "AI Ships Features Before You Decide They Belong",
-      "background": "AI-assisted development tools are increasingly generating and sometimes deploying functional features before product and design teams have evaluated them. This is creating a new default: the thing already exists, so the burden shifts to justifying removal rather than justifying inclusion.",
-      "keyFindings": [
-        "When a prototype or feature arrives pre-built, teams default to keeping it due to sunk-cost framing even when it doesn't serve user needs",
-        "The traditional design gate — deciding what to build — is being bypassed when AI generates working implementations first",
-        "The author argues teams need an explicit 'earn your place' evaluation standard applied retroactively to AI-generated features"
-      ],
-      "implications": "Product and design teams should establish criteria for feature inclusion before AI tooling is run, not after. Without this, scope creep and design debt will accelerate significantly in AI-assisted workflows.",
-      "tags": [
-        "AI tools",
-        "Product Decision-Making",
-        "Design Process"
-      ],
-      "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/0*hUxLH_if6bVd7psq",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*1sp-EFY2TjCVTricyQyjdA.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/@ucdops/the-prototype-is-already-there-decide-what-earns-a-place-e00fe36cddda?source=rss------ux-5",
-      "pubDate": "Fri, 28 Aug 2026 21:19:02 GMT"
+      "link": "https://aysecelen.medium.com/psychological-rules-in-ux-8724dc853b4d?source=rss------ux-5",
+      "pubDate": "Sat, 29 Aug 2026 15:35:05 GMT"
     },
     {
-      "headline": "A Designer's First 90 Days: Avoid Over-Proving Yourself",
-      "background": "Designers joining new teams often front-load effort to demonstrate value quickly, which can damage relationships and credibility rather than build them. The first 90 days pattern is well-documented in management literature but underspecified for design roles.",
+      "headline": "Designers must now work at the AI reasoning layer",
+      "background": "As AI systems take over surface-level execution tasks, there is an open question about where designers add value — and whether the traditional craft skills of visual and interaction design are still the core of the role.",
       "keyFindings": [
-        "Over-delivery in the first weeks often signals insecurity rather than competence to experienced teams",
-        "Listening and mapping existing workflows before proposing changes builds more lasting credibility than early wins",
-        "The article distinguishes between performing productivity and building the contextual knowledge needed to actually improve outcomes"
+        "The piece argues the designer's core contribution is now shaping how AI systems reason about and present information, not just how interfaces look",
+        "Prompt architecture, model output evaluation, and decision-flow design are identified as emerging core competencies",
+        "Designers who remain focused only on UI polish risk being positioned as downstream finishers rather than strategic contributors"
       ],
-      "implications": "Relevant to junior and mid-level designers entering new organizations. The advice to slow down early is counterintuitive but consistent with research on onboarding effectiveness.",
+      "implications": "If you are a practicing UX or product designer, this framing suggests investing in understanding how LLM outputs are structured and evaluated — not just how to use AI tools as productivity aids. Relevant especially for teams building AI-native products.",
       "tags": [
-        "Career Development",
-        "Onboarding",
-        "Design Teams"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1024/0*FKFu5RDeuaacnscL.jpg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/faberhausplay/a-designers-first-90-days-how-to-make-the-most-of-your-new-beginning-40f518125830?source=rss------product_design-5",
-      "pubDate": "Fri, 28 Aug 2026 20:56:34 GMT"
-    },
-    {
-      "headline": "AI Knows Design System Rules But Consistently Breaks Them",
-      "background": "As AI tools like Copilot and generative UI assistants are trained on design system documentation, there was an expectation they would produce outputs consistent with those systems. In practice, designers report persistent violations of spacing, component usage, and hierarchy rules.",
-      "keyFindings": [
-        "AI tools can accurately describe design system principles when asked but generate outputs that contradict them without prompting",
-        "The gap appears to stem from training on broad visual data that overrides system-specific rules at generation time",
-        "The problem compounds in multi-step generation — each step drifts further from system constraints"
-      ],
-      "implications": "Do not use AI-generated UI as a starting point for design system-compliant work without a structured audit step. Organizations investing in AI-assisted design should document exactly where AI output requires human correction.",
-      "tags": [
-        "Design Systems",
         "AI tools",
-        "Generative UI"
+        "Design Strategy",
+        "Product Design"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*pJBhkbqRdik-enuvqFEEbw.png",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*F8QyhOh5hKjAU0VpS2s0ZQ.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@yeahjin/if-ai-knows-design-system-theory-why-does-it-still-design-against-it-39663d7a49e0?source=rss------product_design-5",
-      "pubDate": "Fri, 28 Aug 2026 20:48:03 GMT"
+      "link": "https://medium.com/@edgaruy/the-designers-role-has-moved-2174ab63cc65?source=rss------product_design-5",
+      "pubDate": "Sat, 29 Aug 2026 15:08:48 GMT"
     },
     {
-      "headline": "Raúl Rodríguez on Designing for Simplicity",
-      "background": "Profile pieces on working designers occasionally surface useful tactical or philosophical perspectives not found in methodology articles. This appears to be a Yahoo Finance feature on designer Raúl Rodríguez.",
+      "headline": "AI network connects Tamil Nadu coconut farmers to local buyers",
+      "background": "Agricultural supply chains in India frequently suffer from information asymmetry — farmers lack visibility into where demand exists, and buyers cannot easily source locally. AI-powered matching is increasingly proposed as a fix.",
       "keyFindings": [
-        "Insufficient article content was available to extract specific findings or claims"
+        "CocoCircle is a proposed platform designed to match coconut farmers in Tamil Nadu directly with buyers using AI-driven demand signals",
+        "The design centers on low-friction input for farmers, acknowledging limited smartphone fluency in the target demographic",
+        "The case study surfaces a core UX tension: building for users with low digital literacy while leveraging backend AI complexity"
       ],
-      "implications": "Cannot assess relevance or applicability without access to full article content. Verify before sharing as a reference resource.",
+      "implications": "Useful reference for designers working on civic tech, agri-tech, or any platform where the end user has constrained digital access. The approach of hiding AI complexity behind simple interfaces is worth examining as a pattern.",
       "tags": [
-        "Designer Profile",
-        "Simplicity"
+        "Civic Tech",
+        "AI tools",
+        "Inclusive Design"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@nivedha207_51205/cococircle-what-if-a-farmer-could-see-who-needs-what-they-grow-79bbf9616339?source=rss------product_design-5",
+      "pubDate": "Sat, 29 Aug 2026 14:32:50 GMT"
+    },
+    {
+      "headline": "Spam: No substantive content — skip",
+      "background": "This entry is a promotional listing for a digital marketing company with no article content.",
+      "keyFindings": [
+        "No findings available",
+        "Promotional content only",
+        "Not a legitimate editorial article"
+      ],
+      "implications": "Not applicable.",
+      "tags": [
+        "Spam"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1000/1*FCty9CNxr6TXqZEU1c60HA.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@tusharteambpre035ndmit/seonexa-and-its-team-best-digital-marketing-company-seonexa-info-5b90682bad9a?source=rss------ux-5",
+      "pubDate": "Sat, 29 Aug 2026 13:41:45 GMT"
+    },
+    {
+      "headline": "Spam: Nonsense travel booking link — skip",
+      "background": "This entry appears to be a spam or SEO-manipulation link with no editorial content.",
+      "keyFindings": [
+        "No findings available",
+        "Appears to be spam content",
+        "Not a legitimate editorial article"
+      ],
+      "implications": "Not applicable.",
+      "tags": [
+        "Spam"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlYwZkJ4Q2x1N0FPYXhjUjczSDhIQnVsMWsxODh1UjNrRFAxYzVNNVk0bk4ycVpOaDR6dFVNQW55eGRSMXVGbm5UMXdIY04tV19ZMWVKS0pQclNVdHdCWnpsaXRQMDNuOEdpT0d3N3VSc1dNU2RiZ2pBVUVIWkY0a0JYWmQtSmRuU1lITWd3?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 14:30:00 GMT"
+      "source": "Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BZXptM0FvMFZhM0VhS3JhTzh6b25OUkxaS0YyaE40NUl0d2FETElRTTJ4T2lESWE1ZUtUdWJ0dzk4ZFpBdTZTckdwcFZJNDVmRWozd2x6ZGdRRzQ?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 12:35:39 GMT"
     },
     {
-      "headline": "Nielsen's Weekly Roundup: AI Adoption Gaps and Research Gaps",
-      "background": "Jakob Nielsen's newsletter aggregates UX and AI-adjacent research weekly. This edition covers several distinct topics including organizational AI adoption patterns and the reliability of academic UX research.",
+      "headline": "Student packaging design for wearable fragrance brand Nāfas",
+      "background": "Nāfas is a student branding project by Saba Mojabi listed on the German design portfolio platform dasauge, covering brand identity and packaging for a wearable fragrance concept.",
       "keyFindings": [
-        "Staff and executives are using AI differently, with executives more likely to use it for strategic synthesis and staff for task execution",
-        "Nielsen flags that much academic UX research is outdated relative to current product contexts, raising questions about its applicability",
-        "Organizational AI culture is being set by managers and executives, not by the employees doing the work — limiting grassroots adoption"
+        "Project covers end-to-end brand and packaging design for a wearable fragrance product",
+        "No substantive UX or product findings available from the snippet"
       ],
-      "implications": "The staff-vs-executive AI use finding is directly relevant to anyone designing internal AI tools or rollout strategies. Bottom-up adoption requires deliberate permission structures, not just tool access.",
+      "implications": "Not directly actionable for UX or product practitioners. Of marginal relevance as a branding/packaging reference.",
       "tags": [
-        "AI Adoption",
-        "Research Methods",
-        "Organizational Design"
+        "Branding",
+        "Packaging Design"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OODctaVo4ejF6MjR6Ry1tTUhKNTJnbkhFTTlNaktibzg5Y0NHcVpiaVRfdFpfdnZDVEgybjV1SENTN3YwWURXLUNXaVI1cDc4Z1pVQklkenRtTXdaRzRwMDhCVDViSm5qM3c?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 11:21:32 GMT"
+      "source": "dasauge",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fME5JWFpyZm93TmZEaERaRXo2N1JDSVhFX3paeEFTVGJOSGlBMUJGX3p3RkMyM1oyRTQ5UEEtd2dLcTUwaVloV29meGJoT3NzUl8zQU5jN0VuclE?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 11:20:02 GMT"
     },
     {
-      "headline": "NielsenIQ Partners With an AI Deployment Company",
-      "background": "Market research firms are under pressure to integrate AI into data analysis and insight delivery pipelines. NielsenIQ's partnership signals a move toward operationalizing AI output within consumer research workflows.",
+      "headline": "MagicOS 11 targets iOS-level design polish on Android",
+      "background": "Honor's MagicOS has been positioning itself as a premium Android skin, and with iOS 27 expected to raise the bar on visual design, Android OEMs face pressure to compete on aesthetic coherence and interaction quality.",
       "keyFindings": [
-        "NielsenIQ has formed a partnership with an unnamed open AI deployment company to integrate AI into its research infrastructure",
-        "The move suggests large research firms are outsourcing AI implementation to specialized deployment vendors rather than building in-house",
-        "Insufficient detail was available in the snippet to confirm which specific AI capabilities are being deployed"
+        "MagicOS 11 is reported to introduce design language updates aimed at matching iOS 27's visual refinement",
+        "Specific UI changes cited include more consistent animation curves and tightened system-wide typography",
+        "No release date or confirmed feature list is available — reporting is speculative based on leaks"
       ],
-      "implications": "Relevant to UX researchers who rely on NielsenIQ consumer data — AI-mediated analysis may affect how findings are framed or surfaced. Watch for changes in data transparency and methodology documentation.",
+      "implications": "Worth monitoring if you design for Android or cross-platform — OEM-level OS skin divergence creates inconsistency across the Android device landscape that affects design system assumptions. Treat claims as unconfirmed until official announcement.",
       "tags": [
-        "Market Research",
-        "AI Integration",
-        "Research Tools"
+        "Mobile OS",
+        "Android",
+        "Design Systems"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Research Live",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRXFFLVRHRXZ5TTMxNVhfR1dNcmRaekZWM2lPWWx0RXpGc2ZiU0NxOVk5S2VsUGFMOWNfUzdfa09VdG9Tc1BwcGdwSm9fZ0tITTQxdkd5X2J0bi13MkNrNGtBUzVSOEZxbkdfcmlhbmxEbF9MMzhiTHdHWmNaenZEc1VuRm9vbU93RXNmZWo1MXkzTmJkZkRoa3Q0UGk2YzdBMGl2QUFtQk12amFv?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 08:28:54 GMT"
+      "source": "nokiapoweruser.com",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CNHNxQVU4c0U0ZG1md2FxdFNWYWZQaklJNFh3RkdfdXczdkl6MU50S0NEa1pFczFXODlPdXh5VnJBTlNocDdMQmhMc0s4Z0xfRlpSTHVEMUhET1daMmZKR3Z0Zm4?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 03:07:49 GMT"
     },
     {
-      "headline": "How Shipaton 2026 Built Its First Mobile Onboarding Flow",
-      "background": "Mobile onboarding is one of the highest-stakes UX surfaces — drop-off in the first session is disproportionately high. Teams building onboarding for the first time frequently lack internal benchmarks or process templates.",
+      "headline": "2026 early-career salaries mapped by major and location",
+      "background": "Compensation data for new graduates is frequently fragmented and hard to compare across fields and geographies, making it difficult for hiring managers and early-career professionals to benchmark accurately.",
       "keyFindings": [
-        "The team built their first onboarding flow from scratch, documenting decisions around flow length, permission requests, and value communication",
-        "Progressive disclosure was used to delay non-essential setup steps until after initial user activation",
-        "The piece is a build diary rather than a controlled study — findings are observational, not validated"
+        "The index covers starting salary ranges segmented by academic major and US location for the 2026 hiring cycle",
+        "No snippet detail available on specific figures for design, CS, or product-adjacent roles"
       ],
-      "implications": "Useful as a process reference for small teams building first-time onboarding with limited resources. Treat findings as directional, not prescriptive — no user testing data is cited.",
+      "implications": "Potentially useful for UX and product hiring managers benchmarking entry-level offers, or early-career designers evaluating offers — but verify figures against field-specific sources like Levels.fyi or AIGA salary surveys for design roles specifically.",
       "tags": [
-        "Onboarding",
-        "Mobile Design",
-        "Early-Stage Product"
+        "Compensation",
+        "Hiring",
+        "Career Development"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "HackerNoon",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVUNEU3IyMVltbTFWb2pYV0hyN3JvTU5EakQ1Y2dNa2x6YkVNWmMwU1B3clRtMDUxbTZPM3dBbzRzLTNWYUtBVWVRSnFTOWlrQWFxRFFIZm5zbVc1NFhhMVRIMDFhQVgzdGdqOXF6VEJYc1ZpQUh4dU9sYnpyTkVxMGYwU1RpS0RVWUU3aXBVOA?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 08:04:00 GMT"
+      "source": "College Recruiter",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS3RnbDdWeUpESEVHc0JvZDREQ2RVcTdsRHRuU0JyOGNxOWQxQlQwZC1yYkZjcXFBb3pkNzk1b210YWZYdEtoTVpvN0o3WTRzLUFlZk01eXg1cXZ5YTM3d01nMFZEZ3lMTmRyNTRwem92UFE1Q3lTQ0hudE1vZ05Bcnl1ZW9fbE1OX2IyOXBzMmJzeDFiYk9XOE1fWllzeS00M1V1c1EtODNORVdWZG51RmVxdkxnWWIwNGN0QkRsbjdhOUU?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 21:49:10 GMT"
     },
     {
-      "headline": "697,000 Malaysian Jobs Exposed to AI Displacement",
-      "background": "Government and economic research bodies across Southeast Asia are quantifying AI-driven job risk at a national scale, creating pressure on workers and institutions to respond with concrete upskilling strategies.",
+      "headline": "Spam: Apple App Store page, not an article — skip",
+      "background": "This entry links to an Apple platform page for an app called Karan Kumar, not an editorial article.",
       "keyFindings": [
-        "A report estimates 697,000 jobs in Malaysia are at high risk of displacement without workforce upskilling intervention",
-        "The article identifies specific sectors most exposed, though the snippet does not detail which ones",
-        "Recommended responses focus on technical upskilling rather than structural or policy-level interventions"
+        "No editorial content available",
+        "App store listing only",
+        "Not a legitimate article for digest inclusion"
       ],
-      "implications": "Relevant context for product and UX teams building workforce or education tools in Southeast Asian markets. The scale of the problem suggests strong demand signals for upskilling products in the region.",
+      "implications": "Not applicable.",
       "tags": [
-        "AI Displacement",
-        "Workforce",
-        "Southeast Asia"
+        "Spam"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Newswav",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaXE4WEtEZkNEWFplOFNxQllyT2F2dVhPcEdfY3lJUDdpekZQQ051dFJGb2RlREhycTVJLW91YkZRd09fcmZGSWJ0UUNNZk13SFQ1cExYMVFZVEpVbWxidU5XdVFRbDBVVjE4a0tSUU1KVkRCZmVreHNPemxTakpJVkFHek0zaE5ZRmZPRmwyQ0FieWNvUlJNOWNYcjM3U0RnM1RaRkdNNzlmUXJQemYweWFjRWREcVk?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 08:00:33 GMT"
+      "source": "Apple",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xLTFidVIxM2RtWWlYU3ZNbWNKbGo2U3pPSUR5cWRURXlvdVFRbUM0N2VHRlJCU1J6T0l2MVhIMEd4d1loRUxXM3FUQzNmbGFqajc4UmhZUEduSlZGYlVZRWk4UjVnQmFob1NKWW02MzJLSVlhb09ISlNyVUpMcG8?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 17:50:49 GMT"
     },
     {
-      "headline": "Korea Real Estate Board Upgrades UI With eXBuilder6",
-      "background": "Enterprise and government digital services in South Korea frequently use domestic development frameworks rather than internationally common toolsets. UI upgrades in these sectors reflect growing pressure to modernize legacy interfaces.",
+      "headline": "AI cannot substitute for real user research in empathy mapping",
+      "background": "There is growing pressure on UX teams to use AI to accelerate or replace qualitative research methods, including empathy mapping. Some tools now claim to generate empathy maps from secondary data or prompts alone.",
       "keyFindings": [
-        "Tomato System is supplying its eXBuilder6 framework to support a UI/UX overhaul of the Korea Real Estate Board's digital platform",
-        "eXBuilder6 is a Korean enterprise UI framework used for building web-based administrative interfaces",
-        "The project indicates continued investment in modernizing government-adjacent property data services in South Korea"
+        "AI can usefully organize and synthesize research you have already gathered, but cannot generate valid evidence about specific users' actual experiences",
+        "Empathy maps built from AI-generated content reflect training data patterns, not the particular context of your users — making them unreliable as a design foundation",
+        "The piece draws a clear line between AI as a synthesis aid and AI as a research substitute, treating the latter as a methodological failure"
       ],
-      "implications": "Limited direct applicability for most Western UX practitioners. Relevant for teams working on government or enterprise UI in the Korean market or evaluating regional enterprise UI frameworks.",
+      "implications": "If your team is under pressure to cut research time using AI, this is a useful reference for articulating why AI-assisted synthesis and AI-replaced research are not the same thing. Applies directly to anyone running discovery or defining personas.",
       "tags": [
-        "Enterprise UI",
-        "Government Digital Services",
-        "Korea"
+        "User Research",
+        "Empathy Mapping",
+        "AI tools"
       ],
-      "featured": false,
+      "featured": true,
       "type": "research",
-      "category": "Industry news",
+      "category": "Research",
       "publishedWindow": "today",
       "image": null,
-      "source": "thelec.net",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jdjBHZ3dKMTVKV054Z3VOb1RnT0ZNOXRXV1ZYV3kydDJsUy1ONUxRSVBYOHZzX0QtOHg2ZGdxV0VHdFAyeWVJV2ZiSm9XQ3UtVFE4WnhZeDd3WjRLQ1VJVzlGQk5yLXM?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 07:17:13 GMT"
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/ai-empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 28 Aug 2026 17:00:00 +0000"
     }
   ]
 }
