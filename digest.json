@@ -1,226 +1,235 @@
 {
-  "generatedAt": "2026-08-29T16:18:36.517Z",
+  "generatedAt": "2026-08-30T16:10:56.785Z",
   "items": [
     {
-      "headline": "Classic psychological rules still govern UX decisions",
-      "background": "Designers frequently invoke mental models like cognitive load, Hick's Law, and the serial position effect, but these principles are often cited loosely without grounding in how they actually constrain design choices.",
+      "headline": "Building an AI engine to audit UI/UX automatically",
+      "background": "Teams are increasingly using AI to generate UI code, but AI-generated interfaces often introduce design friction that hurts retention and conversion. There's growing interest in automating design quality checks rather than relying solely on manual UX review.",
       "keyFindings": [
-        "Cognitive overload increases decision abandonment, making simplicity a retention mechanism not just an aesthetic choice",
-        "Hick's Law predicts that doubling the number of choices logarithmically increases decision time, with direct implications for navigation and onboarding flows",
-        "The peak-end rule means users judge an experience primarily by its most intense moment and its conclusion, not its average quality"
+        "Author built a working AI audit pipeline that evaluates UI/UX issues in seconds rather than hours of manual review",
+        "Most AI apps fail due to poor interface design around the AI output, not the underlying model quality",
+        "The piece identifies conversion loss and low retention as the primary measurable costs of skipping structured UX evaluation"
       ],
-      "implications": "These principles are most actionable during critique and audit phases — use them as specific diagnostic lenses rather than post-hoc justifications. Especially relevant when evaluating information architecture and error recovery flows.",
+      "implications": "Useful for product teams shipping AI-generated interfaces at speed — but treat the audit tool as a first pass, not a replacement for usability testing with real users. The approach is most relevant where iteration cycles are fast and manual review is a bottleneck.",
       "tags": [
-        "Cognitive Psychology",
-        "Information Architecture",
-        "Behavioral Design"
+        "AI tools",
+        "Design auditing",
+        "Conversion"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1885/1*3hxudLDfLksCMwsAj2UF7A.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@iongraphics.official/how-i-built-an-ai-engine-to-audit-ui-ux-in-seconds-and-why-most-ai-apps-fail-005f56c31338?source=rss------product_design-5",
+      "pubDate": "Sun, 30 Aug 2026 15:43:07 GMT"
+    },
+    {
+      "headline": "Finding the gap between intended and actual product value",
+      "background": "Product teams frequently build around assumed user value that doesn't match what users actually discover or experience. This consultancy outlines their framework for diagnosing that gap.",
+      "keyFindings": [
+        "IC Eight positions 'value discovery' as a distinct discipline separate from standard user research or product strategy",
+        "The gap between intended and discovered value is framed as a systemic problem in technology companies, not an edge case",
+        "The consultancy focuses specifically on technology companies where product complexity makes assumed value harder to validate"
+      ],
+      "implications": "Relevant for product managers and UX leads doing roadmap prioritization — if value assumptions haven't been explicitly tested through discovery, there's likely a gap worth measuring before investing further in feature development.",
+      "tags": [
+        "Product strategy",
+        "Value discovery",
+        "Research"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*1sp-EFY2TjCVTricyQyjdA.png",
+      "image": null,
       "source": "UX on Medium",
-      "link": "https://aysecelen.medium.com/psychological-rules-in-ux-8724dc853b4d?source=rss------ux-5",
-      "pubDate": "Sat, 29 Aug 2026 15:35:05 GMT"
+      "link": "https://medium.com/@ic-eight/how-ic-eight-finds-the-gap-between-intended-and-discovered-product-value-8957f9722583?source=rss------ux-5",
+      "pubDate": "Sun, 30 Aug 2026 14:23:21 GMT"
     },
     {
-      "headline": "Designers must now work at the AI reasoning layer",
-      "background": "As AI systems take over surface-level execution tasks, there is an open question about where designers add value — and whether the traditional craft skills of visual and interaction design are still the core of the role.",
+      "headline": "AI agents are changing who — and what — the web is built for",
+      "background": "The web's commercial architecture has been built around human users for 30 years. AI agents that browse, compare, and transact autonomously are now disrupting that assumption at scale.",
       "keyFindings": [
-        "The piece argues the designer's core contribution is now shaping how AI systems reason about and present information, not just how interfaces look",
-        "Prompt architecture, model output evaluation, and decision-flow design are identified as emerging core competencies",
-        "Designers who remain focused only on UI polish risk being positioned as downstream finishers rather than strategic contributors"
+        "The author argues that AI agents are becoming primary actors on commercial web interfaces, not incidental users",
+        "Interfaces optimized for human cognition and persuasion may actively perform worse when the end user is a machine parsing structured data",
+        "Competing in 'machine-native markets' requires rethinking information architecture and API-first content exposure, not just visual design"
       ],
-      "implications": "If you are a practicing UX or product designer, this framing suggests investing in understanding how LLM outputs are structured and evaluated — not just how to use AI tools as productivity aids. Relevant especially for teams building AI-native products.",
+      "implications": "Product and UX teams building e-commerce, SaaS, or content platforms should audit how well their interfaces expose structured, machine-readable information — not just how well they convert human visitors. This is an early but real architectural concern.",
       "tags": [
-        "AI tools",
-        "Design Strategy",
-        "Product Design"
+        "AI agents",
+        "Information architecture",
+        "Web strategy"
       ],
       "featured": true,
       "type": "opinion",
-      "category": "Product design",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*F8QyhOh5hKjAU0VpS2s0ZQ.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@edgaruy/the-designers-role-has-moved-2174ab63cc65?source=rss------product_design-5",
-      "pubDate": "Sat, 29 Aug 2026 15:08:48 GMT"
+      "image": "https://cdn-images-1.medium.com/max/2312/1*3ces39eUgi4kKEbgjnUNSQ.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@briansolis/ai-agents-are-rewriting-the-web-how-to-compete-in-machine-native-markets-1cadef650fdf?source=rss------ux-5",
+      "pubDate": "Sun, 30 Aug 2026 13:46:01 GMT"
     },
     {
-      "headline": "AI network connects Tamil Nadu coconut farmers to local buyers",
-      "background": "Agricultural supply chains in India frequently suffer from information asymmetry — farmers lack visibility into where demand exists, and buyers cannot easily source locally. AI-powered matching is increasingly proposed as a fix.",
+      "headline": "Six concrete UI/UX design trends to watch through 2027",
+      "background": "Design trend forecasting is often dominated by aesthetic speculation. This piece attempts to ground predictions in directional signals already visible in shipping products.",
       "keyFindings": [
-        "CocoCircle is a proposed platform designed to match coconut farmers in Tamil Nadu directly with buyers using AI-driven demand signals",
-        "The design centers on low-friction input for farmers, acknowledging limited smartphone fluency in the target demographic",
-        "The case study surfaces a core UX tension: building for users with low digital literacy while leveraging backend AI complexity"
+        "The piece deliberately distinguishes its picks from AI hype, focusing on interface-level changes rather than backend AI capabilities",
+        "Specific trends named are positioned as already emerging in 2025-2026 products, not purely speculative",
+        "The framing targets practitioners who need to make near-term decisions, not five-year roadmaps"
       ],
-      "implications": "Useful reference for designers working on civic tech, agri-tech, or any platform where the end user has constrained digital access. The approach of hiding AI complexity behind simple interfaces is worth examining as a pattern.",
+      "implications": "Worth reviewing if you're planning design system updates or presenting direction to stakeholders — but cross-check any trend against your own user research before treating it as universal. Trend pieces can reflect author context more than industry-wide signals.",
       "tags": [
-        "Civic Tech",
-        "AI tools",
-        "Inclusive Design"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@nivedha207_51205/cococircle-what-if-a-farmer-could-see-who-needs-what-they-grow-79bbf9616339?source=rss------product_design-5",
-      "pubDate": "Sat, 29 Aug 2026 14:32:50 GMT"
-    },
-    {
-      "headline": "Spam: No substantive content — skip",
-      "background": "This entry is a promotional listing for a digital marketing company with no article content.",
-      "keyFindings": [
-        "No findings available",
-        "Promotional content only",
-        "Not a legitimate editorial article"
-      ],
-      "implications": "Not applicable.",
-      "tags": [
-        "Spam"
+        "Design trends",
+        "Design systems",
+        "Product design"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1000/1*FCty9CNxr6TXqZEU1c60HA.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*R9CU4zcLk_tBtq7ZDcGYDw.jpeg",
       "source": "UX on Medium",
-      "link": "https://medium.com/@tusharteambpre035ndmit/seonexa-and-its-team-best-digital-marketing-company-seonexa-info-5b90682bad9a?source=rss------ux-5",
-      "pubDate": "Sat, 29 Aug 2026 13:41:45 GMT"
+      "link": "https://wessimallegue.medium.com/the-top-6-ui-and-ux-trends-for-2027-8d36b3684345?source=rss------ux-5",
+      "pubDate": "Sun, 30 Aug 2026 13:07:14 GMT"
     },
     {
-      "headline": "Spam: Nonsense travel booking link — skip",
-      "background": "This entry appears to be a spam or SEO-manipulation link with no editorial content.",
+      "headline": "60% of crypto traders switched platforms within two years",
+      "background": "Crypto exchanges have historically competed on fees and coin availability, with the assumption that switching costs — wallet friction, verification overhead — create baseline retention. This research challenges that assumption.",
       "keyFindings": [
-        "No findings available",
-        "Appears to be spam content",
-        "Not a legitimate editorial article"
+        "60% of crypto traders changed their primary platform within a 24-month window, signaling near-total collapse of exchange loyalty",
+        "The scale of switching suggests that UX, trust signals, and support quality are now more decisive than fee structures alone",
+        "Platform loyalty in crypto is eroding faster than in traditional fintech, where switching rates are typically far lower"
       ],
-      "implications": "Not applicable.",
+      "implications": "For product and UX teams at fintech or crypto platforms, this is a signal to audit onboarding stickiness, trust-building moments, and support responsiveness — not just feature parity. Retention problems here are likely UX and trust problems, not just pricing problems.",
       "tags": [
-        "Spam"
+        "Fintech",
+        "Retention",
+        "Trust"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Mshale",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BZXptM0FvMFZhM0VhS3JhTzh6b25OUkxaS0YyaE40NUl0d2FETElRTTJ4T2lESWE1ZUtUdWJ0dzk4ZFpBdTZTckdwcFZJNDVmRWozd2x6ZGdRRzQ?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 12:35:39 GMT"
+      "source": "Yellow.com",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOc3FTcmlIbXhtSDI4RlFUU3FkZFV0ei1qaFdrU0lYQlhnbVNqUXFkY0pNTi01QlNRMHVvRmZLVXRobmEyeFhzT1gydGhxbHphYmg4YkJGS3NMXy1fYzZMYm9aMnRHaHJTSzJHb2RQb1FndmJTdUlmcWRzejVadXRDN1NhVWRuTDhtRGdpZXNvOFVEZmNmalpDLWNhZ0Y2RzNPcF9EQ25zaHJudlBuUzFFMVlQSUxGZkR3bTBEYkxlcDNDeFBqdlIyX3NiN3hVX0Fzc0dza2J0VEhKMmhEOXJmb0ZURkRYQWlN?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 17:21:35 GMT"
     },
     {
-      "headline": "Student packaging design for wearable fragrance brand Nāfas",
-      "background": "Nāfas is a student branding project by Saba Mojabi listed on the German design portfolio platform dasauge, covering brand identity and packaging for a wearable fragrance concept.",
+      "headline": "Fully funded Coursera scholarships for women in Global South",
+      "background": "Access to tech education for women in lower-income countries remains structurally limited despite growing demand for digital skills.",
       "keyFindings": [
-        "Project covers end-to-end brand and packaging design for a wearable fragrance product",
-        "No substantive UX or product findings available from the snippet"
+        "IgniteHer is offering fully funded Coursera scholarships specifically targeting girls and young women",
+        "The program is focused on the Global South, addressing geographic and economic barriers to tech education simultaneously",
+        "Coursera's platform access enables self-paced learning across tech and professional skills tracks"
       ],
-      "implications": "Not directly actionable for UX or product practitioners. Of marginal relevance as a branding/packaging reference.",
+      "implications": "Relevant for anyone involved in DEI hiring pipelines or talent programs targeting underrepresented candidates — this is a sourcing and awareness opportunity as much as an education one.",
       "tags": [
-        "Branding",
-        "Packaging Design"
+        "DEI",
+        "Education",
+        "Scholarships"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "dasauge",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fME5JWFpyZm93TmZEaERaRXo2N1JDSVhFX3paeEFTVGJOSGlBMUJGX3p3RkMyM1oyRTQ5UEEtd2dLcTUwaVloV29meGJoT3NzUl8zQU5jN0VuclE?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 11:20:02 GMT"
+      "source": "Global South Opportunities",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Sd0U2eFdRQ3hLbWZSU204V2l2dm5YQTRGTXBtNE54cUgyajVnMVY4NW8yRDM0bDRwd3RwMUVPaG9jdVpTcjBQSk5ZcnBQcGhOR0p2UGZGOFdMOG95OVdJanFJLU1keXhaTENxd0hpYw?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 16:21:34 GMT"
     },
     {
-      "headline": "MagicOS 11 targets iOS-level design polish on Android",
-      "background": "Honor's MagicOS has been positioning itself as a premium Android skin, and with iOS 27 expected to raise the bar on visual design, Android OEMs face pressure to compete on aesthetic coherence and interaction quality.",
+      "headline": "UX's new job: evaluating and correcting AI-generated design",
+      "background": "Generative AI tools now allow engineers and non-designers to produce UI at a pace that outstrips traditional UX review capacity. This is creating a quality control gap inside product teams.",
       "keyFindings": [
-        "MagicOS 11 is reported to introduce design language updates aimed at matching iOS 27's visual refinement",
-        "Specific UI changes cited include more consistent animation curves and tightened system-wide typography",
-        "No release date or confirmed feature list is available — reporting is speculative based on leaks"
+        "The piece argues UX's primary new function is custodial — evaluating and fixing AI-generated design output rather than originating design from scratch",
+        "Building 'shared judgment' across teams is proposed as a scalable alternative to bottlenecking all review through senior UX staff",
+        "Accelerating evaluation processes — not just adding headcount — is framed as the structural solution to keeping pace with AI output velocity"
       ],
-      "implications": "Worth monitoring if you design for Android or cross-platform — OEM-level OS skin divergence creates inconsistency across the Android device landscape that affects design system assumptions. Treat claims as unconfirmed until official announcement.",
+      "implications": "UX leads should consider building lightweight design review rubrics and team-wide quality criteria that non-UX contributors can apply before work reaches formal review. The custodial framing also has implications for how UX roles are scoped and hired for going forward.",
       "tags": [
-        "Mobile OS",
-        "Android",
-        "Design Systems"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "nokiapoweruser.com",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CNHNxQVU4c0U0ZG1md2FxdFNWYWZQaklJNFh3RkdfdXczdkl6MU50S0NEa1pFczFXODlPdXh5VnJBTlNocDdMQmhMc0s4Z0xfRlpSTHVEMUhET1daMmZKR3Z0Zm4?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 03:07:49 GMT"
-    },
-    {
-      "headline": "2026 early-career salaries mapped by major and location",
-      "background": "Compensation data for new graduates is frequently fragmented and hard to compare across fields and geographies, making it difficult for hiring managers and early-career professionals to benchmark accurately.",
-      "keyFindings": [
-        "The index covers starting salary ranges segmented by academic major and US location for the 2026 hiring cycle",
-        "No snippet detail available on specific figures for design, CS, or product-adjacent roles"
-      ],
-      "implications": "Potentially useful for UX and product hiring managers benchmarking entry-level offers, or early-career designers evaluating offers — but verify figures against field-specific sources like Levels.fyi or AIGA salary surveys for design roles specifically.",
-      "tags": [
-        "Compensation",
-        "Hiring",
-        "Career Development"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "College Recruiter",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS3RnbDdWeUpESEVHc0JvZDREQ2RVcTdsRHRuU0JyOGNxOWQxQlQwZC1yYkZjcXFBb3pkNzk1b210YWZYdEtoTVpvN0o3WTRzLUFlZk01eXg1cXZ5YTM3d01nMFZEZ3lMTmRyNTRwem92UFE1Q3lTQ0hudE1vZ05Bcnl1ZW9fbE1OX2IyOXBzMmJzeDFiYk9XOE1fWllzeS00M1V1c1EtODNORVdWZG51RmVxdkxnWWIwNGN0QkRsbjdhOUU?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 21:49:10 GMT"
-    },
-    {
-      "headline": "Spam: Apple App Store page, not an article — skip",
-      "background": "This entry links to an Apple platform page for an app called Karan Kumar, not an editorial article.",
-      "keyFindings": [
-        "No editorial content available",
-        "App store listing only",
-        "Not a legitimate article for digest inclusion"
-      ],
-      "implications": "Not applicable.",
-      "tags": [
-        "Spam"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Apple",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xLTFidVIxM2RtWWlYU3ZNbWNKbGo2U3pPSUR5cWRURXlvdVFRbUM0N2VHRlJCU1J6T0l2MVhIMEd4d1loRUxXM3FUQzNmbGFqajc4UmhZUEduSlZGYlVZRWk4UjVnQmFob1NKWW02MzJLSVlhb09ISlNyVUpMcG8?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 17:50:49 GMT"
-    },
-    {
-      "headline": "AI cannot substitute for real user research in empathy mapping",
-      "background": "There is growing pressure on UX teams to use AI to accelerate or replace qualitative research methods, including empathy mapping. Some tools now claim to generate empathy maps from secondary data or prompts alone.",
-      "keyFindings": [
-        "AI can usefully organize and synthesize research you have already gathered, but cannot generate valid evidence about specific users' actual experiences",
-        "Empathy maps built from AI-generated content reflect training data patterns, not the particular context of your users — making them unreliable as a design foundation",
-        "The piece draws a clear line between AI as a synthesis aid and AI as a research substitute, treating the latter as a methodological failure"
-      ],
-      "implications": "If your team is under pressure to cut research time using AI, this is a useful reference for articulating why AI-assisted synthesis and AI-replaced research are not the same thing. Applies directly to anyone running discovery or defining personas.",
-      "tags": [
-        "User Research",
-        "Empathy Mapping",
-        "AI tools"
+        "AI-generated design",
+        "Design review",
+        "Team structure"
       ],
       "featured": true,
       "type": "research",
       "category": "Research",
-      "publishedWindow": "today",
+      "publishedWindow": "week",
       "image": null,
       "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/articles/ai-empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "link": "https://www.nngroup.com/articles/ai-ux-debt/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "pubDate": "Fri, 28 Aug 2026 17:00:00 +0000"
+    },
+    {
+      "headline": "University of Hawaii runs IT and AI career pathway events",
+      "background": "Community colleges and university systems are expanding short-format professional development to address regional IT and cybersecurity skills gaps.",
+      "keyFindings": [
+        "The University of Hawaii System ran a fall 2026 Tech Days series targeting IT, AI, and cybersecurity career tracks",
+        "The series is positioned as a career pathway accelerator, suggesting shorter time-to-employment framing rather than degree programs",
+        "Cybersecurity was included alongside AI as a parallel skills priority, reflecting regional workforce demand"
+      ],
+      "implications": "Limited direct relevance for most UX and product practitioners. May be useful context for those working on workforce development platforms or educational product design targeting non-traditional learners.",
+      "tags": [
+        "Education",
+        "Workforce development",
+        "Cybersecurity"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "week",
+      "image": null,
+      "source": "University of Hawaii System",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByT2x3UThGTldSQnlOVEJIZEtlenExejVVdFQ5TW45bi04ZlQ4N0NpczB3dDVIZzFDOXhObjNSZWZZR21yY0FBb2xrM2VJcFRPRW1UVVN0ZlBaQzc0ckQxSF9ZdkdZT1R4NUpiSjc0dw?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 09:18:44 GMT"
+    },
+    {
+      "headline": "Top web design agencies in Malaysia for 2026",
+      "background": "Businesses in Southeast Asia increasingly source web design locally rather than through global agencies, and regional vendor guides have become a common research tool for procurement decisions.",
+      "keyFindings": [
+        "The list targets growing businesses in Malaysia specifically, implying SME-scale budgets and needs rather than enterprise",
+        "Eight agencies are ranked, suggesting a curated rather than exhaustive directory",
+        "Published in 2026, the list reflects current regional market players rather than historical recommendations"
+      ],
+      "implications": "Narrow geographic utility — relevant only if you're sourcing design vendors in Malaysia. Not applicable to broader UX or product strategy decisions.",
+      "tags": [
+        "Web design",
+        "Agency selection",
+        "Southeast Asia"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "week",
+      "image": null,
+      "source": "PC Tech Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUzlUTEZjVzA3U0twQWFqQmpUX1Q3T0xnLTM3UUwzbkpybXJBcGluTEhFT0hvYm1oOF9lUU1GbnNOSXVQZTBJdGdFVDNtSnJpZGI1bnpXWURvR3ZYX3JkSGJubFNQYUdlNzhkMUt0TDVqMlhmbkJVRzhOUFhCaVVNdVdaSUZGUjM3LWJDNk9oQ3hoYjB5a0E1UXUtSWdfN3d2X0E?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 08:10:19 GMT"
+    },
+    {
+      "headline": "Bentley appoints T. Jon Mayer as Head of Design",
+      "background": "Bentley Motors has been repositioning its design identity alongside its shift toward electrification, and senior design leadership appointments signal strategic direction for the brand's visual and UX future.",
+      "keyFindings": [
+        "T. Jon Mayer, credited as the designer behind the Torcal UX concept, has been appointed Head of Design at Bentley",
+        "The Torcal UX reference suggests Mayer's background includes interior and user experience design, not just exterior styling",
+        "The appointment signals Bentley is prioritizing UX-informed design leadership as the brand evolves its product lineup"
+      ],
+      "implications": "Contextually interesting for automotive UX practitioners tracking how legacy luxury brands are integrating UX thinking into senior leadership. Limited actionability for most digital product teams.",
+      "tags": [
+        "Automotive UX",
+        "Design leadership",
+        "Appointments"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "week",
+      "image": null,
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByVWc1bThjdkkyNXI1czlUcVJPbXN4MmFxdkREZ19TbDFJZkV0bkhySE1ieEp0cFluQ3NaT2NUMjlvZjQ0ZnlZS25FdDNPVmx5YWpv?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 01:34:26 GMT"
     }
   ]
 }
