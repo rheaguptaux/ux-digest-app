@@ -1,235 +1,235 @@
 {
-  "generatedAt": "2026-08-30T16:10:56.785Z",
+  "generatedAt": "2026-08-31T18:52:44.180Z",
   "items": [
     {
-      "headline": "Building an AI engine to audit UI/UX automatically",
-      "background": "Teams are increasingly using AI to generate UI code, but AI-generated interfaces often introduce design friction that hurts retention and conversion. There's growing interest in automating design quality checks rather than relying solely on manual UX review.",
+      "headline": "Humanoid robot as physical Ctrl+Z: a concept study",
+      "background": "As humanoid robots inch closer to consumer and workplace contexts, designers are starting to speculate on what meaningful interactions with them could look like — beyond novelty demos. This piece is an explicit product strategy and design thinking exercise, not a shipped product.",
       "keyFindings": [
-        "Author built a working AI audit pipeline that evaluates UI/UX issues in seconds rather than hours of manual review",
-        "Most AI apps fail due to poor interface design around the AI output, not the underlying model quality",
-        "The piece identifies conversion loss and low retention as the primary measurable costs of skipping structured UX evaluation"
+        "The concept frames a humanoid robot's core value proposition around reversibility — undoing physical actions in a space, analogous to Command Z in software.",
+        "It is presented as a design thinking artifact meant to demonstrate product strategy process rather than technical feasibility.",
+        "The framing implies reversibility as an underexplored design primitive for physical computing interfaces."
       ],
-      "implications": "Useful for product teams shipping AI-generated interfaces at speed — but treat the audit tool as a first pass, not a replacement for usability testing with real users. The approach is most relevant where iteration cycles are fast and manual review is a bottleneck.",
+      "implications": "Useful as a reference for UX practitioners thinking about error recovery and affordances in embodied or spatial computing contexts. Treat it as conceptual provocation, not product benchmark.",
       "tags": [
-        "AI tools",
-        "Design auditing",
-        "Conversion"
+        "Speculative Design",
+        "Robotics",
+        "Spatial Computing"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1885/1*3hxudLDfLksCMwsAj2UF7A.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*LhG-1gFBkGWGZ3jHs4rWkQ.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@iongraphics.official/how-i-built-an-ai-engine-to-audit-ui-ux-in-seconds-and-why-most-ai-apps-fail-005f56c31338?source=rss------product_design-5",
-      "pubDate": "Sun, 30 Aug 2026 15:43:07 GMT"
+      "link": "https://medium.com/@deborahprecious48/reversal-an-autonomous-humanoid-aid-performing-physical-command-z-function-in-your-space-37673fa7c3d9?source=rss------product_design-5",
+      "pubDate": "Mon, 31 Aug 2026 18:10:47 GMT"
     },
     {
-      "headline": "Finding the gap between intended and actual product value",
-      "background": "Product teams frequently build around assumed user value that doesn't match what users actually discover or experience. This consultancy outlines their framework for diagnosing that gap.",
+      "headline": "UX hiring expects heroic narratives from ordinary work",
+      "background": "There is a persistent tension in UX job searches between the reality of incremental, collaborative design work and the expectation — from portfolios to interviews — that candidates narrate transformative, individually-driven impact. This piece addresses that gap directly.",
       "keyFindings": [
-        "IC Eight positions 'value discovery' as a distinct discipline separate from standard user research or product strategy",
-        "The gap between intended and discovered value is framed as a systemic problem in technology companies, not an edge case",
-        "The consultancy focuses specifically on technology companies where product complexity makes assumed value harder to validate"
+        "Candidates are routinely expected to frame everyday design decisions as high-stakes, hero-driven outcomes in order to pass hiring screens.",
+        "The mismatch between required narrative and actual work creates pressure to exaggerate or misrepresent the nature of design contributions.",
+        "The piece implies this dynamic distorts who gets hired, potentially filtering out practitioners doing genuine but unglamorous work."
       ],
-      "implications": "Relevant for product managers and UX leads doing roadmap prioritization — if value assumptions haven't been explicitly tested through discovery, there's likely a gap worth measuring before investing further in feature development.",
+      "implications": "For hiring managers: recalibrate interview rubrics to reward honest, specific process description over polished transformation stories. For candidates: the pressure to oversell is structural, not personal failure — but knowing it exists helps you navigate it deliberately.",
       "tags": [
-        "Product strategy",
-        "Value discovery",
+        "UX Hiring",
+        "Portfolio",
+        "Career"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*ySRJ4_xvJuBHaY-X",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@ticianapaura/ux-hiring-real-work-is-less-heroic-than-fiction-6ed9ce752fad?source=rss------product_design-5",
+      "pubDate": "Mon, 31 Aug 2026 18:01:13 GMT"
+    },
+    {
+      "headline": "Barnes Foundation opens its visual platform to the broader field",
+      "background": "The Barnes Foundation developed a proprietary visual experience platform rooted in its specific pedagogical method for teaching art. The question of whether specialized cultural tools can generalize beyond their original institutional context is an ongoing challenge in edtech and cultural tech.",
+      "keyFindings": [
+        "The platform was originally purpose-built for the Barnes method of art education, which emphasizes formal visual analysis over biographical or historical framing.",
+        "Scaling meant adapting the platform's structure to accommodate different teaching approaches outside Barnes's own curriculum.",
+        "The case study documents the product decisions involved in moving from a bespoke institutional tool to a field-facing platform."
+      ],
+      "implications": "Relevant for product teams working on institutional or domain-specific tools facing pressure to expand their user base — particularly around how much core methodology should flex versus remain fixed during scaling.",
+      "tags": [
+        "Edtech",
+        "Platform Design",
+        "Cultural Tech"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/720/1*4M_a2FyTIoBi_sIt0F_ykQ.gif",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/barnes-foundation/scaling-the-visual-experience-platform-f7f0b74770d3?source=rss------ux_research-5",
+      "pubDate": "Mon, 31 Aug 2026 17:45:52 GMT"
+    },
+    {
+      "headline": "Real-world color is declining while screens grow more vivid",
+      "background": "There is a growing but underarticulated observation that physical environments — architecture, fashion, consumer goods — have trended toward muted, greyscale palettes over the past decade, while digital interfaces have moved in the opposite direction toward saturated, high-contrast color systems.",
+      "keyFindings": [
+        "The piece argues an inverse relationship exists: as physical environments have grown more neutral and grey, screen-based interfaces have become more colorful and saturated.",
+        "This divergence has gone largely unremarked in design discourse despite both trends being well documented individually.",
+        "The contrast raises questions about whether screen color norms are compensating for, or contributing to, the desaturation of physical spaces."
+      ],
+      "implications": "Worth flagging for visual designers and brand teams working across physical and digital touchpoints — color expectations and reading contexts differ significantly depending on which environment a user is coming from.",
+      "tags": [
+        "Color Design",
+        "Visual Design",
+        "Design Trends"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1402/1*isvyWqREW0mOkXuOjKrqaQ.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/write-a-catalyst/where-did-all-the-color-go-your-world-is-turning-grey-but-your-phone-isnt-c110f9aa8bef?source=rss------product_design-5",
+      "pubDate": "Mon, 31 Aug 2026 17:45:32 GMT"
+    },
+    {
+      "headline": "What freelance skills actually pay in 2026",
+      "background": "Freelance labor market data is frequently anecdotal or platform-skewed. This piece compiles structured pay data across ten in-demand skill categories for 2026, giving practitioners a concrete benchmark for pricing or skilling decisions.",
+      "keyFindings": [
+        "Ten specific freelance skill categories are ranked by demand and compensation for 2026.",
+        "The data is drawn from market-rate reporting at qz.com, implying aggregated or survey-based sourcing rather than a single platform.",
+        "Specific rates per skill are included, making it directly usable for rate negotiation or specialization decisions."
+      ],
+      "implications": "Useful for freelance UX, product, and tech practitioners benchmarking their rates or deciding where to invest in skill development. Cross-reference with platform-specific data since rates vary substantially by channel and geography.",
+      "tags": [
+        "Freelance",
+        "Career",
+        "Compensation"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "qz.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBabUxSV1lZYmR0Y1VMbkdxaEZkMGxlTV9PU2hfcl9CeVFvZEFnS3dNZlpIUklFM2JrRVRsZm13MkhnZldRM2J1UlZSSWFEX3pNeWZ6T1V2Tnc?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 17:12:02 GMT"
+    },
+    {
+      "headline": "Honor MagicOS 11 brings Liquid Glass styling to Android",
+      "background": "Following Apple's introduction of a Liquid Glass visual language in its 2025 OS updates, Android OEMs are beginning to incorporate similar translucency and glass-morphism aesthetics. Honor's MagicOS 11 is among the first major Android skins to explicitly adopt this direction alongside functional updates.",
+      "keyFindings": [
+        "MagicOS 11 introduces a Liquid Glass UX aesthetic, directly paralleling Apple's recently introduced design language.",
+        "The update also includes storage optimization features and multi-protocol charging support, suggesting a combined hardware-software capability push.",
+        "Honor is positioning MagicOS 11 as a premium experience layer competitive with flagship iOS and other Android skins."
+      ],
+      "implications": "For UX and product teams building on Android: glass-morphism and translucency are moving from iOS-specific to cross-platform conventions faster than past design language cycles, which affects component library and design system planning.",
+      "tags": [
+        "Mobile OS",
+        "Design Systems",
+        "Android"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Gizchina.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTTAtUjJYd3dUblpEVjhEQUQ5alFFLVkySDh0cWxxcFFQdGtyNFhmSEJlbEMwN1V3U0ltMnBSZ204amxaWTlkMzdiNERjTnFJU2JyMFZMNzZKMExvV2hwbTkySG53QWgxMG1TX2N3dk81UDNfXzBHWWZWdjRsaDRadTJvbDFmbFhYbjZhYU9KVW0xcXY5ZUk2M0c1dmJKOUc2cjV1ODVWT0ZadzNQYnBzNWZZbFNNWUUxSWpad3Z3?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 16:50:37 GMT"
+    },
+    {
+      "headline": "Back2School uses design to make education aid transparent",
+      "background": "In many African edtech and civic tech contexts, education support programs suffer from opacity — families and students cannot easily track eligibility, application status, or fund disbursement. Back2School is applying design and technology to address this accountability gap.",
+      "keyFindings": [
+        "Back2School is using interface design and technology infrastructure to surface the status and flow of education support to end users, not just administrators.",
+        "The approach prioritizes transparency as a core design requirement, not a secondary feature.",
+        "The project is documented via TechCabal, situating it within the African tech ecosystem."
+      ],
+      "implications": "A concrete case study in civic and social impact design where transparency is the primary UX goal. Useful for teams working on government services, NGO platforms, or any context where information asymmetry between institution and user is the core problem.",
+      "tags": [
+        "Civic Tech",
+        "Edtech",
+        "Social Impact Design"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "techcabal.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdi1GWm43NTVya0NWOW9NUE80RG51ZWxYWkc5aDE4TUIyS2N5N05kazV5ZW4zNV94VjkyUjNQTXUyT3Fncnh4b19RM0tXMlR1OUZLV1hIVHJaYTFQS2Rvc3EzR1FyUGEzaW93VWEtdEF2V3p1MWFGLXVXYkZxYTNWc3AwbWJlNUxlQ1dfdzJJVXd2NHdncFVFWS1DVXl2Si1JQWN3V2VnN1ZoejhudjI0WHdxd0RqRk5KMlpYd0tMTm4?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 15:07:55 GMT"
+    },
+    {
+      "headline": "Decouple workflow logic from UI state in frontend apps",
+      "background": "Frontend applications frequently entangle business workflow logic with UI state management, making both harder to test, maintain, and scale. This is a known architectural problem that different frameworks and patterns attempt to solve in different ways.",
+      "keyFindings": [
+        "The piece argues that workflow orchestration — sequencing steps, managing side effects, handling transitions — should be separated as a distinct layer from UI reactivity and rendering concerns.",
+        "Mixing the two creates tightly coupled code where business logic changes force UI refactors and vice versa.",
+        "The proposed separation makes individual layers independently testable and replaceable."
+      ],
+      "implications": "Directly applicable for frontend engineers and design engineers building complex flows — onboarding, checkout, multi-step forms. The pattern is framework-agnostic in principle but implementation specifics vary; assess fit against your current state management approach before adopting.",
+      "tags": [
+        "Frontend Architecture",
+        "State Management",
+        "Design Engineering"
+      ],
+      "featured": true,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUk1Q25oNUx0UVdYbUxrbUlvQ2VQSUNfRXFrRGRUVU1VazFEalhkQzZ3MlBfcEhEUVBQaHdhZFhHc1EtZEJuWDNKaXpYTVRVRldkbk5aSEpqOWdhYXN1eVhhUFpNd0wzZlZYczdpZndUSEFVbjBHR0NPUllxZk56d09PMFRUQ21MZ2Q4alU2TkxXVUJwdF94aDZaNmpMaEZY?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 13:20:33 GMT"
+    },
+    {
+      "headline": "Psychology of UX: what brain science actually says",
+      "background": "Applying cognitive and behavioral psychology to UI design is common practice, but much published guidance in this space is either oversimplified or misattributes research findings. This piece attempts to ground UX decision-making in relevant psychological principles.",
+      "keyFindings": [
+        "The piece covers established psychological concepts — likely including cognitive load, Gestalt principles, or attentional models — as applied to web UI decisions.",
+        "It is published via SMBtech, targeting practitioners who may not have formal psychology background.",
+        "Specific design recommendations are tied to named psychological mechanisms rather than left as general best practices."
+      ],
+      "implications": "Useful as a reference layer for UX rationale in client communication or design critiques, but verify any cited studies independently — applied psychology in UX writing frequently overgeneralizes lab findings to complex real-world interfaces.",
+      "tags": [
+        "Cognitive Psychology",
+        "UI Design",
         "Research"
       ],
       "featured": false,
-      "type": "opinion",
-      "category": "UX",
+      "type": "research",
+      "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "UX on Medium",
-      "link": "https://medium.com/@ic-eight/how-ic-eight-finds-the-gap-between-intended-and-discovered-product-value-8957f9722583?source=rss------ux-5",
-      "pubDate": "Sun, 30 Aug 2026 14:23:21 GMT"
+      "source": "SMBtech",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQWlhWjBHUHA4Y2ZDcjBqbVZ1LU9ZY2swWDR4eGpnbTVTbzNhX0RZeDZzSHJPcjZzVU9PbzJXSlI4T2JWV09oS214Z0p3OGtaRDBnY1ZLTVNlclJVOTcxSVVfLXJGR3Nibml6ZG9yRjdtSV93SWI2RVdBcVBtelgxaHJfMVRnRlBHNGl3bA?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 12:46:04 GMT"
     },
     {
-      "headline": "AI agents are changing who — and what — the web is built for",
-      "background": "The web's commercial architecture has been built around human users for 30 years. AI agents that browse, compare, and transact autonomously are now disrupting that assumption at scale.",
+      "headline": "Digital transformation fails when it leads with platforms",
+      "background": "Organizations repeatedly invest in digital transformation initiatives that prioritize platform and tool selection over organizational change management, and repeatedly see poor adoption and ROI as a result. This piece argues the sequencing is the core error.",
       "keyFindings": [
-        "The author argues that AI agents are becoming primary actors on commercial web interfaces, not incidental users",
-        "Interfaces optimized for human cognition and persuasion may actively perform worse when the end user is a machine parsing structured data",
-        "Competing in 'machine-native markets' requires rethinking information architecture and API-first content exposure, not just visual design"
+        "The central claim is that digital transformation succeeds when people — their behaviors, incentives, and workflows — are the design target, with platform selection following from that analysis.",
+        "Platform-first approaches tend to produce tools that fit vendor capabilities rather than actual organizational needs.",
+        "The piece likely draws on transformation case studies to illustrate the failure mode, though sourced from a lifestyle and tech publication rather than a research outlet."
       ],
-      "implications": "Product and UX teams building e-commerce, SaaS, or content platforms should audit how well their interfaces expose structured, machine-readable information — not just how well they convert human visitors. This is an early but real architectural concern.",
+      "implications": "Relevant for product and UX practitioners involved in enterprise or organizational tool rollouts. The framing supports advocating for discovery and change management investment before platform commitments are made — a common battle in large-scale product projects.",
       "tags": [
-        "AI agents",
-        "Information architecture",
-        "Web strategy"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2312/1*3ces39eUgi4kKEbgjnUNSQ.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@briansolis/ai-agents-are-rewriting-the-web-how-to-compete-in-machine-native-markets-1cadef650fdf?source=rss------ux-5",
-      "pubDate": "Sun, 30 Aug 2026 13:46:01 GMT"
-    },
-    {
-      "headline": "Six concrete UI/UX design trends to watch through 2027",
-      "background": "Design trend forecasting is often dominated by aesthetic speculation. This piece attempts to ground predictions in directional signals already visible in shipping products.",
-      "keyFindings": [
-        "The piece deliberately distinguishes its picks from AI hype, focusing on interface-level changes rather than backend AI capabilities",
-        "Specific trends named are positioned as already emerging in 2025-2026 products, not purely speculative",
-        "The framing targets practitioners who need to make near-term decisions, not five-year roadmaps"
-      ],
-      "implications": "Worth reviewing if you're planning design system updates or presenting direction to stakeholders — but cross-check any trend against your own user research before treating it as universal. Trend pieces can reflect author context more than industry-wide signals.",
-      "tags": [
-        "Design trends",
-        "Design systems",
-        "Product design"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*R9CU4zcLk_tBtq7ZDcGYDw.jpeg",
-      "source": "UX on Medium",
-      "link": "https://wessimallegue.medium.com/the-top-6-ui-and-ux-trends-for-2027-8d36b3684345?source=rss------ux-5",
-      "pubDate": "Sun, 30 Aug 2026 13:07:14 GMT"
-    },
-    {
-      "headline": "60% of crypto traders switched platforms within two years",
-      "background": "Crypto exchanges have historically competed on fees and coin availability, with the assumption that switching costs — wallet friction, verification overhead — create baseline retention. This research challenges that assumption.",
-      "keyFindings": [
-        "60% of crypto traders changed their primary platform within a 24-month window, signaling near-total collapse of exchange loyalty",
-        "The scale of switching suggests that UX, trust signals, and support quality are now more decisive than fee structures alone",
-        "Platform loyalty in crypto is eroding faster than in traditional fintech, where switching rates are typically far lower"
-      ],
-      "implications": "For product and UX teams at fintech or crypto platforms, this is a signal to audit onboarding stickiness, trust-building moments, and support responsiveness — not just feature parity. Retention problems here are likely UX and trust problems, not just pricing problems.",
-      "tags": [
-        "Fintech",
-        "Retention",
-        "Trust"
+        "Digital Transformation",
+        "Enterprise UX",
+        "Change Management"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Yellow.com",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOc3FTcmlIbXhtSDI4RlFUU3FkZFV0ei1qaFdrU0lYQlhnbVNqUXFkY0pNTi01QlNRMHVvRmZLVXRobmEyeFhzT1gydGhxbHphYmg4YkJGS3NMXy1fYzZMYm9aMnRHaHJTSzJHb2RQb1FndmJTdUlmcWRzejVadXRDN1NhVWRuTDhtRGdpZXNvOFVEZmNmalpDLWNhZ0Y2RzNPcF9EQ25zaHJudlBuUzFFMVlQSUxGZkR3bTBEYkxlcDNDeFBqdlIyX3NiN3hVX0Fzc0dza2J0VEhKMmhEOXJmb0ZURkRYQWlN?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 17:21:35 GMT"
-    },
-    {
-      "headline": "Fully funded Coursera scholarships for women in Global South",
-      "background": "Access to tech education for women in lower-income countries remains structurally limited despite growing demand for digital skills.",
-      "keyFindings": [
-        "IgniteHer is offering fully funded Coursera scholarships specifically targeting girls and young women",
-        "The program is focused on the Global South, addressing geographic and economic barriers to tech education simultaneously",
-        "Coursera's platform access enables self-paced learning across tech and professional skills tracks"
-      ],
-      "implications": "Relevant for anyone involved in DEI hiring pipelines or talent programs targeting underrepresented candidates — this is a sourcing and awareness opportunity as much as an education one.",
-      "tags": [
-        "DEI",
-        "Education",
-        "Scholarships"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Global South Opportunities",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Sd0U2eFdRQ3hLbWZSU204V2l2dm5YQTRGTXBtNE54cUgyajVnMVY4NW8yRDM0bDRwd3RwMUVPaG9jdVpTcjBQSk5ZcnBQcGhOR0p2UGZGOFdMOG95OVdJanFJLU1keXhaTENxd0hpYw?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 16:21:34 GMT"
-    },
-    {
-      "headline": "UX's new job: evaluating and correcting AI-generated design",
-      "background": "Generative AI tools now allow engineers and non-designers to produce UI at a pace that outstrips traditional UX review capacity. This is creating a quality control gap inside product teams.",
-      "keyFindings": [
-        "The piece argues UX's primary new function is custodial — evaluating and fixing AI-generated design output rather than originating design from scratch",
-        "Building 'shared judgment' across teams is proposed as a scalable alternative to bottlenecking all review through senior UX staff",
-        "Accelerating evaluation processes — not just adding headcount — is framed as the structural solution to keeping pace with AI output velocity"
-      ],
-      "implications": "UX leads should consider building lightweight design review rubrics and team-wide quality criteria that non-UX contributors can apply before work reaches formal review. The custodial framing also has implications for how UX roles are scoped and hired for going forward.",
-      "tags": [
-        "AI-generated design",
-        "Design review",
-        "Team structure"
-      ],
-      "featured": true,
-      "type": "research",
-      "category": "Research",
-      "publishedWindow": "week",
-      "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/articles/ai-ux-debt/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 28 Aug 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "University of Hawaii runs IT and AI career pathway events",
-      "background": "Community colleges and university systems are expanding short-format professional development to address regional IT and cybersecurity skills gaps.",
-      "keyFindings": [
-        "The University of Hawaii System ran a fall 2026 Tech Days series targeting IT, AI, and cybersecurity career tracks",
-        "The series is positioned as a career pathway accelerator, suggesting shorter time-to-employment framing rather than degree programs",
-        "Cybersecurity was included alongside AI as a parallel skills priority, reflecting regional workforce demand"
-      ],
-      "implications": "Limited direct relevance for most UX and product practitioners. May be useful context for those working on workforce development platforms or educational product design targeting non-traditional learners.",
-      "tags": [
-        "Education",
-        "Workforce development",
-        "Cybersecurity"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "week",
-      "image": null,
-      "source": "University of Hawaii System",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByT2x3UThGTldSQnlOVEJIZEtlenExejVVdFQ5TW45bi04ZlQ4N0NpczB3dDVIZzFDOXhObjNSZWZZR21yY0FBb2xrM2VJcFRPRW1UVVN0ZlBaQzc0ckQxSF9ZdkdZT1R4NUpiSjc0dw?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 09:18:44 GMT"
-    },
-    {
-      "headline": "Top web design agencies in Malaysia for 2026",
-      "background": "Businesses in Southeast Asia increasingly source web design locally rather than through global agencies, and regional vendor guides have become a common research tool for procurement decisions.",
-      "keyFindings": [
-        "The list targets growing businesses in Malaysia specifically, implying SME-scale budgets and needs rather than enterprise",
-        "Eight agencies are ranked, suggesting a curated rather than exhaustive directory",
-        "Published in 2026, the list reflects current regional market players rather than historical recommendations"
-      ],
-      "implications": "Narrow geographic utility — relevant only if you're sourcing design vendors in Malaysia. Not applicable to broader UX or product strategy decisions.",
-      "tags": [
-        "Web design",
-        "Agency selection",
-        "Southeast Asia"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "week",
-      "image": null,
-      "source": "PC Tech Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUzlUTEZjVzA3U0twQWFqQmpUX1Q3T0xnLTM3UUwzbkpybXJBcGluTEhFT0hvYm1oOF9lUU1GbnNOSXVQZTBJdGdFVDNtSnJpZGI1bnpXWURvR3ZYX3JkSGJubFNQYUdlNzhkMUt0TDVqMlhmbkJVRzhOUFhCaVVNdVdaSUZGUjM3LWJDNk9oQ3hoYjB5a0E1UXUtSWdfN3d2X0E?oc=5",
-      "pubDate": "Thu, 27 Aug 2026 08:10:19 GMT"
-    },
-    {
-      "headline": "Bentley appoints T. Jon Mayer as Head of Design",
-      "background": "Bentley Motors has been repositioning its design identity alongside its shift toward electrification, and senior design leadership appointments signal strategic direction for the brand's visual and UX future.",
-      "keyFindings": [
-        "T. Jon Mayer, credited as the designer behind the Torcal UX concept, has been appointed Head of Design at Bentley",
-        "The Torcal UX reference suggests Mayer's background includes interior and user experience design, not just exterior styling",
-        "The appointment signals Bentley is prioritizing UX-informed design leadership as the brand evolves its product lineup"
-      ],
-      "implications": "Contextually interesting for automotive UX practitioners tracking how legacy luxury brands are integrating UX thinking into senior leadership. Limited actionability for most digital product teams.",
-      "tags": [
-        "Automotive UX",
-        "Design leadership",
-        "Appointments"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "week",
-      "image": null,
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByVWc1bThjdkkyNXI1czlUcVJPbXN4MmFxdkREZ19TbDFJZkV0bkhySE1ieEp0cFluQ3NaT2NUMjlvZjQ0ZnlZS25FdDNPVmx5YWpv?oc=5",
-      "pubDate": "Thu, 27 Aug 2026 01:34:26 GMT"
+      "source": "Lifestyle & Tech",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ1dDMEJOQ1AwOVdnQzhfZ1JOSTB3NDdOSDNKX2R5NE5MM29ObmplY1N3dFZiVmZBTG5NWl9zZ1NqQTFwb0hBSmE0Z1JsamdtZEc2VHdjcmNZUmlzaXpTdWhJVUdBY3ZSTjQyMlgwVHVoUDhXdEVZdUt2c0h5cDVXRHFvN3FJNmRyb3dRaEhCV1o3Wkx6TmdiakJWMjJ3Vk9KY3Z0RllCVXRnaWZ6T1lHY0ZRR1RCUzlHQ2NiWHpJaXdZZHg1UzdEYw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 12:02:26 GMT"
     }
   ]
 }
