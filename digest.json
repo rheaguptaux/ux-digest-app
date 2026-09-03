@@ -1,235 +1,229 @@
 {
-  "generatedAt": "2026-09-02T16:05:18.142Z",
+  "generatedAt": "2026-09-03T15:54:59.105Z",
   "items": [
     {
-      "headline": "4 Questions Killing Your Shopify Conversion Rate",
-      "background": "Product page conversion is a persistent pain point for e-commerce teams, with most optimization advice focusing on aesthetics or CTAs while ignoring the sequential logic customers use to evaluate a purchase.",
+      "headline": "White space signals quality — most sites misuse it",
+      "background": "Designers often treat white space as leftover room rather than an intentional design element. Premium brands consistently use generous spacing to signal quality, but the technique is widely misunderstood as simply 'leaving things out.'",
       "keyFindings": [
-        "Product pages fail most often by not answering trust, fit, and urgency questions in the order customers actually ask them",
-        "Silent objections — unaddressed concerns the page never anticipates — are cited as a primary cause of abandonment",
-        "The piece frames conversion as a sequential information problem, not a design polish problem"
+        "Sites that feel premium typically reduce visual density rather than add distinctive elements",
+        "Misuse of white space often comes from stakeholder pressure to fill space with content or CTAs",
+        "Intentional white space directs attention more effectively than visual hierarchy alone"
       ],
-      "implications": "Useful for anyone auditing or building e-commerce product pages — evaluate your page against a customer's mental sequence of questions, not just visual hierarchy. Most relevant to DTC and Shopify-based teams.",
+      "implications": "If your UI feels cluttered despite clean components, audit spacing decisions made under stakeholder pressure to 'fill the page.' This is especially relevant during design reviews where empty space gets flagged as incomplete work.",
       "tags": [
-        "E-commerce",
-        "Conversion",
-        "Information Architecture"
+        "Visual Design",
+        "Layout",
+        "Conversion"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/750/0*oFWBPm8aKyMsXlx6.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@petr.meissel.cz/the-quiet-power-of-white-space-and-why-most-sites-get-it-wrong-1be05945a56e?source=rss------product_design-5",
+      "pubDate": "Thu, 03 Sep 2026 15:17:34 GMT"
+    },
+    {
+      "headline": "Design systems live beyond Figma — teams often miss this",
+      "background": "Many teams treat design systems as a Figma library problem, stopping at component documentation without addressing how systems function across engineering handoff, governance, and team workflows.",
+      "keyFindings": [
+        "Design systems deliver the most value when they span design tooling, code, and team process — not just UI kits",
+        "Teams that limit systems to Figma files often see low adoption from engineering",
+        "System governance and documentation standards are frequently the missing layer"
+      ],
+      "implications": "If your design system sees low engineering adoption, the gap is likely process and documentation rather than component quality. Invest in cross-functional ownership structures early.",
+      "tags": [
+        "Design Systems",
+        "Design-Dev Handoff",
+        "Team Process"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1056/1*UBywXjA6ToczZ_rpNI1NtQ.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@giovanaleaods/design-system-para-al%C3%A9m-do-figma-620e0ce606a8?source=rss------product_design-5",
+      "pubDate": "Thu, 03 Sep 2026 15:00:22 GMT"
+    },
+    {
+      "headline": "Reusable components aren't automatically useful ones",
+      "background": "Design systems have made component reuse a default goal, but teams are increasingly recognizing that high reusability can mask poor fit-for-purpose design. A component used everywhere may serve no specific context well.",
+      "keyFindings": [
+        "Components optimized for reusability often require so many variants they become difficult to implement correctly",
+        "Overloaded components can introduce accessibility and usability inconsistencies across contexts",
+        "The article argues utility should be scoped to real use cases before reusability is considered"
+      ],
+      "implications": "When auditing or building design system components, validate against specific, documented use cases before generalizing. A narrower, well-scoped component often delivers more value than a flexible one nobody uses correctly.",
+      "tags": [
+        "Design Systems",
+        "Component Design",
+        "Accessibility"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/700/1*ElBYMkjc8mFR3RPYebshsQ.png",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*-hNP19F01kNYoMYcdsvk9Q.jpeg",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@selimbaouz/why-your-shopify-product-page-isnt-converting-39f7f33970d8?source=rss------product_design-5",
-      "pubDate": "Wed, 02 Sep 2026 15:48:44 GMT"
+      "link": "https://medium.com/@SaraTariqMustafa/reusable-does-not-mean-good-the-hidden-trap-of-design-system-components-771291a23dfc?source=rss------product_design-5",
+      "pubDate": "Thu, 03 Sep 2026 14:57:29 GMT"
     },
     {
-      "headline": "Fable 5.1 Likely Refers to Claude, Not a New Anthropic Model",
-      "background": "AI model releases are frequent enough that coverage sometimes conflates or mislabels products. The snippet describes 'Fable 5.1' as an Anthropic model, but Anthropic's flagship model is Claude — Fable is not a known Anthropic product name.",
+      "headline": "Spotify Premium's value gap is a UX problem, not just pricing",
+      "background": "Subscription services frequently lose conversions not because of price but because users can't clearly assess what they're getting relative to cost. This case study examines Spotify Premium's upgrade flow through that lens.",
       "keyFindings": [
-        "The article appears to misidentify or rename an Anthropic model, raising accuracy concerns about the source",
-        "No model called 'Fable 5.1' is publicly documented in Anthropic's official releases as of mid-2025",
-        "The framing targets product designers evaluating AI tools, making factual accuracy especially consequential"
+        "The current Premium upgrade flow buries feature differentiation, making it hard for users to compare tiers meaningfully",
+        "Clearer value communication at the decision point — not just lower pricing — is identified as the primary conversion lever",
+        "Side-by-side plan comparison is absent from key moments in the funnel where users are most likely to convert"
       ],
-      "implications": "Treat this piece with caution before citing or acting on it. Verify AI model capabilities directly from vendor documentation rather than third-party UX blogs, which frequently contain errors in this space.",
+      "implications": "For teams working on freemium conversion, this is a useful reminder that pricing page UX — specifically feature comparison clarity — often outweighs price sensitivity. Audit what information is available at the exact moment a user considers upgrading.",
+      "tags": [
+        "Freemium",
+        "Conversion",
+        "Pricing UX"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*C85YZkZtId9C6WzjUsLrlw.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@papori.ux/rethinking-spotify-premium-from-price-to-value-a-mini-case-study-a94453848ed8?source=rss------product_design-5",
+      "pubDate": "Thu, 03 Sep 2026 14:50:48 GMT"
+    },
+    {
+      "headline": "Henceforth Solutions issues AI capability press release",
+      "background": "A software development firm issued a press release announcing expanded AI development services for enterprise clients.",
+      "keyFindings": [
+        "Announcement covers AI software development services targeting businesses in early AI adoption stages",
+        "No independent data, case studies, or technical specifics are provided in the release"
+      ],
+      "implications": "This is a vendor press release with no actionable findings for practitioners. Not relevant to UX or product decision-making.",
       "tags": [
         "AI tools",
-        "Product Design",
-        "Source Reliability"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1280/1*MnxhGacTXzFet1mbI7J_jA.png",
-      "source": "UX on Medium",
-      "link": "https://uxplanet.org/fable-5-1-for-product-designers-f905e0cde0ee?source=rss------ux-5",
-      "pubDate": "Wed, 02 Sep 2026 15:43:36 GMT"
-    },
-    {
-      "headline": "Redesigning a Multi-Module Business Platform for Clarity",
-      "background": "Business management platforms that span multiple functional modules — invoicing, HR, CRM, etc. — routinely suffer from navigation fragmentation and inconsistent interaction patterns across web and mobile.",
-      "keyFindings": [
-        "The redesign prioritized cross-module consistency as the primary usability lever",
-        "A parallel web and mobile redesign required reconciling different interaction constraints without forking the experience",
-        "Simplification of a complex system was achieved through information architecture restructuring, not feature reduction"
-      ],
-      "implications": "A useful case reference for teams working on enterprise or SMB platforms with legacy module structures. The approach of restructuring IA before visual redesign is a transferable pattern.",
-      "tags": [
-        "Enterprise UX",
-        "Mobile Design",
-        "Information Architecture"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*WLozQq9wUBxutvuVheVLJQ.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@tosovic.design/kancelarko-making-complex-business-management-feel-simple-c73dacadb16d?source=rss------product_design-5",
-      "pubDate": "Wed, 02 Sep 2026 15:26:35 GMT"
-    },
-    {
-      "headline": "How Accumulated Small UX Failures Compound Into Real Harm",
-      "background": "The concept of 'the tyranny of small decisions' comes from economics — individually rational choices that produce collectively irrational outcomes. This piece applies that lens to UX design and its downstream effects on users' lives.",
-      "keyFindings": [
-        "Poor UX decisions are framed not as isolated friction points but as compounding systemic costs borne by users over time",
-        "The piece draws a direct line between dark patterns and low-quality defaults to sociological harm at scale",
-        "Economic theory is used to argue that UX designers bear partial responsibility for aggregate user outcomes, not just single interactions"
-      ],
-      "implications": "Relevant for designers and PMs thinking about ethical design and long-term product impact. Challenges the common practice of optimizing individual flows in isolation without accounting for cumulative cognitive and financial costs on users.",
-      "tags": [
-        "Design Ethics",
-        "Dark Patterns",
-        "Systems Thinking"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*TQIZL3fYCWQfcRRG2W0hSw.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@56kasturi/the-tyranny-of-small-decisions-and-poor-ux-b547306e7f5d?source=rss------ux-5",
-      "pubDate": "Wed, 02 Sep 2026 15:09:40 GMT"
-    },
-    {
-      "headline": "VCU Student's UX Internship Experience Profiled",
-      "background": "Human-interest coverage of individual student internship experiences is common in university news outlets but carries limited technical or professional insight for practicing UX professionals.",
-      "keyFindings": [
-        "The piece is a profile of a VCU student's personal internship experience, not a study or industry analysis",
-        "No specific methodologies, tools, or findings are described in the available snippet",
-        "Coverage originates from a university PR outlet, not an industry publication"
-      ],
-      "implications": "Not meaningfully actionable for working UX practitioners. May be of interest to students or educators looking at how internship experiences are framed institutionally.",
-      "tags": [
-        "Student Experience",
-        "Internship",
-        "Career"
+        "Vendor News"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "VCU News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZk4xWm9HdVRhWGwtNlJib0x0NV9wY25TRDBQTGRqbW1fUlJWcEthLU9sbk1JdHBSR3VBUEU4OXlfYWVzM2hXa2ZaVWdWLVFpS3dqcjdaN1FVcVJ1dlVHQlJ0dVJCV3dFU3lRUm92cHczeC11NmZuN2NSN0JLblFnN2lMUTVwVTFXZVNlYWJIQXE4SDB5TGdF?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 14:52:55 GMT"
+      "source": "Issuewire",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOWRKU2FFM2ItaTA5Q085eEt2Q1lKdUFyQVB2YzJxT1pwNVM4OS1nemxhNGtETTExLTVGOVJFVlpYRWg3RTBMR3ZDOTdsVzVmU2RwTFZoanZLOU5jQnNzSFpkZXFmSnY0REpsT0NJUlFPMWFPR2VkU0M0RTdtT21pM05rcllhcTFlaXh4QXd5NUlGbWotVXEtRFhNVXdkdWZ6U3l3cmJkNjdCc082TE8tRG9XQ3lxcjFXOUNHMXN4VjkyYmxaMlphMVNOeHNiMFJVbnNHaFZrcmh0Z2k0X2J2ckdZTmw4Zy0xVFo1b1dLQ1M?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 13:18:37 GMT"
     },
     {
-      "headline": "Folding Bike Designs Compared on Usability Criteria",
-      "background": "Core77 regularly applies design criticism to physical product categories. Folding bicycles involve a dense set of UX tradeoffs — fold mechanism speed, portability, ride quality, and learnability — that vary significantly across competing designs.",
+      "headline": "Samsung's Fold8 FanCam uses AI to track chosen subjects",
+      "background": "Samsung's foldable phone line has iterated heavily on camera features, and the Fold8 introduces subject-tracking camera modes aimed at consumer photography use cases like concerts and sports.",
       "keyFindings": [
-        "The comparison evaluates folding bikes against usability criteria rather than purely technical or aesthetic specs",
-        "Different folding mechanisms produce meaningfully different task-completion experiences for the same core use case",
-        "Physical product UX is assessed using criteria recognizable from digital UX: learnability, efficiency, error recovery"
+        "My FanCam uses on-device AI to lock focus and tracking on a user-designated subject in a crowd",
+        "The feature is optimized for scenarios with significant subject movement and visual noise",
+        "Engineers tuned the model specifically for partial occlusion — subjects moving behind other people"
       ],
-      "implications": "Useful as a reference case for applying UX evaluation frameworks to physical/industrial design. The methodology of cross-product usability comparison is transferable to hardware and IoT product work.",
+      "implications": "Relevant for product teams thinking about AI-assisted media capture UX. Subject designation interaction patterns here — how users select and confirm a tracked subject — are worth examining for similar features.",
       "tags": [
-        "Physical Product Design",
-        "Usability Evaluation",
-        "Industrial Design"
+        "AI tools",
+        "Mobile Camera",
+        "Computer Vision"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Core77",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWI3NzYwdXVybUUxd1BaX2t2NlF1amw4cEtaZC1ONEp1ZmE2eEpON1Y3N0VfNnRYdUVUS2poSUlGeW1HLXVzZlAxdWkzeWM3QjByMWVmaUVxTDEyNmZtYkpteGlXLTNiVXRGdmZVWGVqVWdmRkcweVE1dDk1ZW9ESkR0cU52X3hpVFM5XzB5anI2RHVUSVZ1MWJrM0JudXRYOVZmVGVmNVBETWR6eEZrTVhiOFpTMXUyRjlXaQ?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 14:00:17 GMT"
+      "source": "Samsung Global Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVk9HcUYzYlJfNXYwUzNaeXJwZjluaTZLMkhCX01pdmNRUGNqbkRMZnJDSFNQSkZtZV8wTUdGdklYeTV5VWVpdkFfUEg1WGxBWDZpX1VhTGw0b2J1OTItRnhZVWF0azltRzNqSDczWi1Jcm5aaXRYS3lDcllyeENuVXJmdzJCcmU3Qk9rQ2tRU25ZZ2RmQWIyTVFzMi1XejJpV0pNVGhoVTFnLU8ybVBJN18ta3RzM2JLX1RrMElYU0pPbTVuWGNTaDU5Z0s3TzJDM1NMaUtBbHVGbmI2WVVoZHBNTlZsUFJkUl9Ucg?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 12:33:58 GMT"
     },
     {
-      "headline": "12-Year-Old Builds Skincare App After Design Camp",
-      "background": "Youth design education programs are growing in visibility, with sponsors increasingly funding camps that introduce children to app design and entrepreneurship tools.",
+      "headline": "HTEC Momentum wins two UX Design Awards",
+      "background": "UX Design Awards recognize work across interaction and interface design categories. HTEC Momentum is a product and UX consultancy with a track record of award submissions.",
       "keyFindings": [
-        "A 12-year-old participant in a LASCO-sponsored design camp produced a functional skincare app concept",
-        "The story originates from the Jamaica Observer as a sponsorship and education interest piece",
-        "No technical detail about the app's design or functionality is provided in the snippet"
+        "HTEC Momentum received two honors in the 2024 UX Design Awards",
+        "No project details or evaluated criteria are disclosed in the announcement"
       ],
-      "implications": "Not directly actionable for UX or product professionals. Relevant context for those working in design education, youth programs, or CSR-linked design initiatives.",
+      "implications": "Award announcements without project specifics offer little signal for practitioners. No actionable findings.",
       "tags": [
-        "Design Education",
-        "Youth Programs",
-        "Community"
+        "Industry Awards",
+        "Design Agencies"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Jamaica Observer",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGtBY0pzcFQ1NThjd1F1OGFYd2gtRTFUQ2JwemtQaGhWRTQzQThBZ2hrOVVpZkkxckdha2pXS2d1MVFhOVJJVm5TOUhMNFpCcGRPc21McFlwWFNWZk4wM0lkUUlSZUlsNm10Ni1wbUtlS3FUZTVNOTZtZEhQVXhjUURuR1VhRXBZenpJVlJDc0JDWUswMmwzR3ExVmJRWE9TQVZKWXRaTGN5dlN1YkFBajlYa3pXNFEza1E?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 13:31:55 GMT"
+      "source": "Rutland Herald",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNX3F6Ry1teWFyZ2xMRW05RHBTeVFlUnh4T1JIMy1Zd0hQN18zcmFybVBMc3NDZl8wSlNmb0RUUTJIUkpYS2tmb1ZCb1ZKNTlQWWJYZEhnOWJmMHdTYmdINHFoSl91M3dsOWpMR3kybVktN0c3R2k5Z0RySzFQcWJHamRSMXdiREk5VTE5ZHJIQ3VVMFRNVFZQTnNHNWt1dHNuX2E1ejhzZ1VGVDRDNk9SakxIX3hlOGYzeUJYTHkyZ2dGMEZkeEhWTWpZT3gxT2VOeFdUazg3MDhMeEtWSERDUXZaRU4tT2w2eHZROVhUY2VYTG04LWhndldyWHhOWVctclN5VUpxblBQUQ?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 12:18:34 GMT"
     },
     {
-      "headline": "Tether Releases Open-Source AI Translation for Underserved Languages",
-      "background": "Most commercial AI translation models are heavily optimized for high-resource languages like English, Spanish, and Mandarin, leaving African and smaller European languages significantly underserved in NLP tooling.",
+      "headline": "Online casino UX borrows heavily from game design — here's what transfers",
+      "background": "Online gambling platforms have invested heavily in retention-focused UX, drawing from game design principles. This piece examines whether those patterns have legitimate applications outside gambling contexts.",
       "keyFindings": [
-        "Tether — primarily known as a stablecoin issuer — has released open-source AI translation models targeting African and European minority languages",
-        "Open-source release means these models can be integrated into products without licensing costs or API dependency",
-        "The move expands the realistic localization surface for digital products in markets previously too costly to support"
+        "Casino platforms use progress indicators, reward loops, and session pacing mechanics that mirror game UX patterns",
+        "Rapid feedback on user actions — a core casino UX feature — is identified as directly transferable to non-gambling products",
+        "The piece notes that some retention mechanics from casino UX carry ethical risks when applied outside regulated contexts"
       ],
-      "implications": "Worth evaluating for product teams building for African markets or multilingual European contexts where commercial translation APIs have poor coverage. Open-source licensing removes a significant adoption barrier.",
+      "implications": "Progress mechanics and feedback timing from game-influenced UX can improve engagement in legitimate product contexts, but teams should explicitly evaluate whether borrowed retention patterns serve users or exploit them.",
       "tags": [
-        "Localization",
-        "NLP",
-        "Open Source"
+        "Game Design",
+        "Engagement Patterns",
+        "Ethics"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcDhCR3BDR05jN1drdDl4SlczZlZhVFBkdExpVFVQZWdxeUc2cEtfUnhMQnVKUXVuME9xNTBfZzdHYlN4cEoxSE5XUVRwcDdfOG42LVBaYVp0a3dCVUJLNklfakpJRUVJWlZJakZrdG9YSUU2ejVCZS1PU1Z1OE5WbkVXakdPUQ?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 13:11:04 GMT"
+      "source": "COGconnected",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORFlVbjdhUTFWQnhyRW9IUUFKeTF2VjlsVFVBbnJZNl8tNWJ4RnM4OUpoZTdGdDdpR0dReHlqQUVPQmNZNTNvSGZHMjNWaXZJMU10TWpfNDcwTHBJTUlmeEJDY0M3RFltWExTSWxMSlhaSmlfMjdPTXNfZ0tKeldHLXVMZ1dQRzBjd0JXVzk3WXBNWHRGRFow?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 07:01:39 GMT"
     },
     {
-      "headline": "GlobalFoundries Releases PDK for Semiconductor UX Platform",
-      "background": "'UX platform' in this context refers to GlobalFoundries' semiconductor product family name — not user experience design. PDK (Process Design Kit) availability is a technical milestone for chip designers using that fabrication node.",
+      "headline": "Hyundai wins 16 IDEA Awards across vehicle and mobility design",
+      "background": "The IDEA Awards, run by the Industrial Designers Society of America, recognize product and industrial design across categories. Hyundai has been expanding its design investment across EVs and mobility concepts.",
       "keyFindings": [
-        "This story uses 'UX' as a semiconductor product line name, unrelated to user experience design",
-        "PDK availability signals that the fabrication process is ready for commercial chip design engagements",
-        "Coverage originates from a financial news outlet targeting investors, not technology practitioners"
+        "Hyundai Motor Group received 16 IDEA Awards in the 2024 cycle, spanning vehicles, interiors, and mobility concepts",
+        "No specific winning products or evaluation criteria are detailed in the coverage"
       ],
-      "implications": "Not relevant to UX, product, or software design work. The 'UX' terminology is a naming coincidence in semiconductor manufacturing.",
+      "implications": "Minimal relevance for digital UX practitioners. Industrial and automotive design awards have limited direct application to software product work.",
       "tags": [
-        "Semiconductor",
-        "Not UX-Relevant",
-        "Mistagged"
+        "Industrial Design",
+        "Automotive",
+        "Awards"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Investing.com UK",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONHEzeXFROGJzSW5vWlVnVmg3dGtCTWFyYkJwRF9tT3JUdm1SdmtzZ3VPZGhaT2xYdEdYUzBPaVBHYTJyeWl2eG1COXpjcWx3V1FDYVZhc2t0b0tiVWx0Mi1vMVREdTdyY2dHSFFTdUNFeTlkWXBCTnZ5elVZUldPTWFYb21GMnRWa1pCYks2blZvVXFsZWl3eWM2Qlpxa1J0YjBmNXU3RmZ1cHpHV3hEczF6T2Z2Qk5YVFhXQllOZklpNmJy?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 12:38:00 GMT"
+      "source": "Businesskorea",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RQV9Pc2ZaWHlmdVpZZ3dmYzI0YmlDSVB2cXhSMks2N24tejhhYVl0T3c4UTA1TkFSNmZmSld0TVhlX0NVM2d2QkZmQXM2eFF0WWpMZ3FkM1NiaEl5U2REOVFFRVRaRzUwdThDU3BfVC1sTUhJ?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 06:01:21 GMT"
     },
     {
-      "headline": "Camtek Wins $31M Semiconductor Packaging Inspection Order",
-      "background": "Advanced packaging is a growing segment of the semiconductor supply chain, with optical inspection systems playing a quality-control role. This is a business/financial news item about a specific contract win.",
+      "headline": "Listicle ranks nine web portal development vendors",
+      "background": "'Best of' vendor lists for development services are a common content marketing format with typically little editorial rigor behind rankings.",
       "keyFindings": [
-        "Camtek secured a $31 million order from an OSAT (Outsourced Semiconductor Assembly and Test) provider",
-        "The contract is for advanced packaging inspection equipment, not software or UX tooling",
-        "This is a financial/industry trade story with no connection to UX, product design, or software development"
+        "The list covers nine companies offering custom web portal development",
+        "No methodology, evaluation criteria, or comparative data are provided",
+        "Coverage appears to be sponsored or SEO-driven content rather than independent editorial"
       ],
-      "implications": "Not relevant to UX or product work. Included in source batch likely due to automated tagging errors.",
+      "implications": "Not a reliable resource for vendor selection. Teams evaluating portal development partners should use structured RFP processes and reference checks rather than ranked listicles.",
       "tags": [
-        "Semiconductor",
-        "Not UX-Relevant",
-        "Mistagged"
+        "Vendor Selection",
+        "Web Development"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "openpr.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcFkxNlNMN3VzUnZ0V0F4OUxOSnFyd3k0OWJ0dElwaWt1SmtjTVFKaFEzT0N0WUw1MFB6UFNvaHZiZ096dWluTFQ1Ums4Y0xpSkNOTDMtZ3YtX0d3X3pQUFNEaWdmal9ncEJPYUpFZHhHUENLeTZ3WC1Zd3otQm1Ja1lvZWptWEhXcVRCamVNaUxwVnM1MzVCTVd3?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 11:45:36 GMT"
+      "source": "TechBullion",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aVVlIWHQ1N2pOX1kzZm1CQlc4YnVmR21TUnpESEhNVUtLdXZaSVp4cWJTSnFPcFhPYkM3Z0U1NEZ2dThUS21NVVZNU3dORi1leUZLZUQycXNEbjk5ZkJ2SGtvdmxjdVNSUi1UVHVMSTRuZDc3ak1PQ1Q3dw?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 05:33:38 GMT"
     }
   ]
 }
