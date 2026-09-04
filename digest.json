@@ -1,219 +1,175 @@
 {
-  "generatedAt": "2026-09-03T15:54:59.105Z",
+  "generatedAt": "2026-09-04T15:52:43.304Z",
   "items": [
     {
-      "headline": "White space signals quality — most sites misuse it",
-      "background": "Designers often treat white space as leftover room rather than an intentional design element. Premium brands consistently use generous spacing to signal quality, but the technique is widely misunderstood as simply 'leaving things out.'",
+      "headline": "Lean UX Discovery Is Just Naming What You Already Do",
+      "background": "Lean UX has gained traction as a framework for integrating discovery into agile workflows, but practitioners debate whether it introduces genuinely new methods or repackages existing instincts with new terminology.",
       "keyFindings": [
-        "Sites that feel premium typically reduce visual density rather than add distinctive elements",
-        "Misuse of white space often comes from stakeholder pressure to fill space with content or CTAs",
-        "Intentional white space directs attention more effectively than visual hierarchy alone"
+        "The article argues Lean UX discovery primarily gives names to practices teams already perform intuitively",
+        "Methodology adoption may be driven more by the need for shared vocabulary than by behavioral change",
+        "Naming practices explicitly can still have organizational value even without changing the underlying work"
       ],
-      "implications": "If your UI feels cluttered despite clean components, audit spacing decisions made under stakeholder pressure to 'fill the page.' This is especially relevant during design reviews where empty space gets flagged as incomplete work.",
+      "implications": "Worth considering when selling discovery processes internally — framing familiar activities in Lean UX terms can reduce stakeholder resistance without requiring teams to overhaul how they actually work. Caveat: this framing risks overconfidence that teams are already doing enough.",
       "tags": [
-        "Visual Design",
-        "Layout",
+        "Lean UX",
+        "Discovery",
+        "Research Methods"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1920/1*iFq58pe4F01Ocoz62l2yYA.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/webeetle/lean-ux-discovery-dare-un-nome-alla-scoperta-ad8e9ee4e062?source=rss------product_design-5",
+      "pubDate": "Fri, 04 Sep 2026 15:36:34 GMT"
+    },
+    {
+      "headline": "17 Wireframing Tools Tested: What Actually Works in 2026",
+      "background": "The wireframing tool landscape has fragmented significantly with AI-assisted generators, motion prototyping, and all-in-one platforms competing alongside legacy sketch tools, making it harder for teams to choose without hands-on comparison.",
+      "keyFindings": [
+        "17 tools were directly tested across categories: AI generators, all-in-one platforms, sketch tools, enterprise prototyping, and motion tools",
+        "AI wireframe generators are now a distinct enough category to evaluate separately from traditional wireframing tools",
+        "Enterprise prototyping and motion capability are now factors in tool selection, not just fidelity and speed"
+      ],
+      "implications": "Useful reference if your team is reassessing tooling for 2025-2026. Pay attention to which category fits your workflow stage — an AI generator optimized for speed will underperform an enterprise tool on handoff quality.",
+      "tags": [
+        "Wireframing",
+        "Design Tools",
+        "Prototyping"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1920/1*zatfsWXC-XwBKRel1Tvi6Q.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@flowstep/17-wireframing-tools-in-2026-we-tested-the-best-tools-09cb77c45aeb?source=rss------ux-5",
+      "pubDate": "Fri, 04 Sep 2026 15:08:01 GMT"
+    },
+    {
+      "headline": "Using AI for OOUX Structure Is a Trap — Use It for Details",
+      "background": "Object-Oriented UX (OOUX) is a structured methodology for defining content objects and relationships before interface design begins. As designers experiment with using AI to accelerate structured design work, there is growing debate about where AI genuinely helps versus where it introduces errors that cost more to fix.",
+      "keyFindings": [
+        "Attempting to use AI to shortcut the structural object-mapping phase of OOUX produced errors that required double the time to correct",
+        "AI performed better when applied to texture-level tasks — copy, attributes, edge cases — rather than core object definition",
+        "The author concludes that AI shortcuts in foundational UX work often defer rather than eliminate the hard thinking"
+      ],
+      "implications": "Directly actionable for anyone using AI in structured design methodologies: reserve AI assistance for filling in detail within a structure you've defined yourself. Using it to generate the structure is where the time cost compounds.",
+      "tags": [
+        "OOUX",
+        "AI tools",
+        "Structured Design"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1920/1*isUMAcEeDVQUWVmnGNF2Fw.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@lex.konovalov/use-ai-for-texture-not-bones-notes-from-an-ooux-misadventure-6ed0ef2bd49e?source=rss------product_design-5",
+      "pubDate": "Fri, 04 Sep 2026 14:48:34 GMT"
+    },
+    {
+      "headline": "A UX Audit of Bionluk's Freelancer Onboarding Flow",
+      "background": "Bionluk is a Turkish freelance marketplace. This piece documents a first-person experience hitting a friction point while attempting to update a profile to freelancer status — a common onboarding and account-switching pattern across gig platforms.",
+      "keyFindings": [
+        "The author encountered a specific blocking point in Bionluk's profile update flow for freelancer status",
+        "The piece uses a real task failure as a case study in onboarding friction",
+        "Written in Turkish, limiting accessibility for non-Turkish-speaking readers"
+      ],
+      "implications": "Limited generalizability given the platform specificity and language barrier, but the underlying pattern — account-type switching as an overlooked UX edge case — is relevant for any platform with multiple user roles.",
+      "tags": [
+        "Onboarding",
+        "Freelance Platforms",
+        "Account Management"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1887/1*X9LkCqgFELPoPij-60MPgA.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@nsegulec/bionlukta-freelancer-olmay%C4%B1-d%C3%BC%C5%9F%C3%BCn%C3%BCyordum-bir-noktaya-tak%C4%B1ld%C4%B1m-i%CC%87%C5%9Fte-ortaya-%C3%A7%C4%B1kanlar-93987bb094dd?source=rss------ux-5",
+      "pubDate": "Fri, 04 Sep 2026 14:40:21 GMT"
+    },
+    {
+      "headline": "Designing User-Facing Profiles from Telematics Driving Data",
+      "background": "Telematics data — speed, braking, cornering — is increasingly used by insurers and fleet operators to score driving behavior, but translating raw sensor data into a legible, actionable user profile is a significant UX challenge with real trust implications.",
+      "keyFindings": [
+        "The piece works through the design process of converting telematics signals into a driving profile users can understand and act on",
+        "Presenting behavioral data back to users requires decisions about framing, granularity, and what to show versus what to suppress",
+        "Data visualization choices directly affect whether users perceive the scoring system as fair"
+      ],
+      "implications": "Relevant for anyone working on personal data dashboards, insurance tech, or fleet UX. The core challenge — translating algorithmic scoring into user-legible feedback — applies well beyond driving contexts.",
+      "tags": [
+        "Data Visualization",
+        "Telematics",
+        "Behavioral UX"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yYjlmWm0yaHI3Z01seC03MXRsbUl3c3JDNWgzelVLNVNubEpGZ2VtSVBUVUNtZG8xMzdSTy05Y1hUZFJob1dhUmc5LWxwelBoUy01bGtiUEl2bjJBTWNLV3g2VjVHYXVUcnZCWnRmbHRua0dKTjJoazdEQQ?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 11:31:49 GMT"
+    },
+    {
+      "headline": "Nielsen's Roundup: AI Visitors Convert Better, Sunk Cost Traps, Team Conflict",
+      "background": "Jakob Nielsen's UX roundups synthesize recent research and commentary across multiple UX and product topics in a single digest format, making them a useful signal-check on current practitioner concerns.",
+      "keyFindings": [
+        "Traffic arriving via AI referral sources (e.g. ChatGPT) converts at higher rates than traditional search traffic, per cited data",
+        "Hidden team disagreement — conflict that isn't surfaced openly — is flagged as an underdiagnosed product team problem",
+        "Sunk cost bias and AI attitude survey design are also covered as distinct topics"
+      ],
+      "implications": "The AI traffic finding is immediately relevant for anyone tracking acquisition metrics — segmenting AI referral traffic separately from organic search may reveal conversion patterns worth acting on. The hidden disagreement point is worth raising in retros.",
+      "tags": [
+        "AI Traffic",
+        "Team Dynamics",
         "Conversion"
       ],
       "featured": false,
-      "type": "opinion",
-      "category": "Product design",
+      "type": "research",
+      "category": "Industry news",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/750/0*oFWBPm8aKyMsXlx6.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@petr.meissel.cz/the-quiet-power-of-white-space-and-why-most-sites-get-it-wrong-1be05945a56e?source=rss------product_design-5",
-      "pubDate": "Thu, 03 Sep 2026 15:17:34 GMT"
+      "image": null,
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nZTdKS3Y1OWtpc1NPOGJveFpwZGprOUtuaWhmTmhwM3VJQXpuUXBpTnJwUzBrVWlHc1cyNnBUdm8tV2RyT0dIZElPemZaSDdBQjNlcWg2alhCRHM1azdvSEphWEppajg1eFE?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 11:21:12 GMT"
     },
     {
-      "headline": "Design systems live beyond Figma — teams often miss this",
-      "background": "Many teams treat design systems as a Figma library problem, stopping at component documentation without addressing how systems function across engineering handoff, governance, and team workflows.",
+      "headline": "Game UX Summit Turns 10, Moves to Kuala Lumpur",
+      "background": "The Game UX Summit is one of the few conferences specifically focused on user experience within game design, and its 10th anniversary marks a notable milestone for a discipline that has historically sat at the margins of mainstream UX discourse.",
       "keyFindings": [
-        "Design systems deliver the most value when they span design tooling, code, and team process — not just UI kits",
-        "Teams that limit systems to Figma files often see low adoption from engineering",
-        "System governance and documentation standards are frequently the missing layer"
+        "The summit's 10th anniversary edition will be held in Kuala Lumpur",
+        "No session details or dates are included in the available snippet"
       ],
-      "implications": "If your design system sees low engineering adoption, the gap is likely process and documentation rather than component quality. Invest in cross-functional ownership structures early.",
+      "implications": "Relevant only as a save-the-date signal for practitioners working in game UX or interested in cross-disciplinary UX methods. Insufficient detail available to assess program quality.",
       "tags": [
-        "Design Systems",
-        "Design-Dev Handoff",
-        "Team Process"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1056/1*UBywXjA6ToczZ_rpNI1NtQ.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@giovanaleaods/design-system-para-al%C3%A9m-do-figma-620e0ce606a8?source=rss------product_design-5",
-      "pubDate": "Thu, 03 Sep 2026 15:00:22 GMT"
-    },
-    {
-      "headline": "Reusable components aren't automatically useful ones",
-      "background": "Design systems have made component reuse a default goal, but teams are increasingly recognizing that high reusability can mask poor fit-for-purpose design. A component used everywhere may serve no specific context well.",
-      "keyFindings": [
-        "Components optimized for reusability often require so many variants they become difficult to implement correctly",
-        "Overloaded components can introduce accessibility and usability inconsistencies across contexts",
-        "The article argues utility should be scoped to real use cases before reusability is considered"
-      ],
-      "implications": "When auditing or building design system components, validate against specific, documented use cases before generalizing. A narrower, well-scoped component often delivers more value than a flexible one nobody uses correctly.",
-      "tags": [
-        "Design Systems",
-        "Component Design",
-        "Accessibility"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1376/1*-hNP19F01kNYoMYcdsvk9Q.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@SaraTariqMustafa/reusable-does-not-mean-good-the-hidden-trap-of-design-system-components-771291a23dfc?source=rss------product_design-5",
-      "pubDate": "Thu, 03 Sep 2026 14:57:29 GMT"
-    },
-    {
-      "headline": "Spotify Premium's value gap is a UX problem, not just pricing",
-      "background": "Subscription services frequently lose conversions not because of price but because users can't clearly assess what they're getting relative to cost. This case study examines Spotify Premium's upgrade flow through that lens.",
-      "keyFindings": [
-        "The current Premium upgrade flow buries feature differentiation, making it hard for users to compare tiers meaningfully",
-        "Clearer value communication at the decision point — not just lower pricing — is identified as the primary conversion lever",
-        "Side-by-side plan comparison is absent from key moments in the funnel where users are most likely to convert"
-      ],
-      "implications": "For teams working on freemium conversion, this is a useful reminder that pricing page UX — specifically feature comparison clarity — often outweighs price sensitivity. Audit what information is available at the exact moment a user considers upgrading.",
-      "tags": [
-        "Freemium",
-        "Conversion",
-        "Pricing UX"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*C85YZkZtId9C6WzjUsLrlw.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@papori.ux/rethinking-spotify-premium-from-price-to-value-a-mini-case-study-a94453848ed8?source=rss------product_design-5",
-      "pubDate": "Thu, 03 Sep 2026 14:50:48 GMT"
-    },
-    {
-      "headline": "Henceforth Solutions issues AI capability press release",
-      "background": "A software development firm issued a press release announcing expanded AI development services for enterprise clients.",
-      "keyFindings": [
-        "Announcement covers AI software development services targeting businesses in early AI adoption stages",
-        "No independent data, case studies, or technical specifics are provided in the release"
-      ],
-      "implications": "This is a vendor press release with no actionable findings for practitioners. Not relevant to UX or product decision-making.",
-      "tags": [
-        "AI tools",
-        "Vendor News"
+        "Game UX",
+        "Industry Events"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Issuewire",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOWRKU2FFM2ItaTA5Q085eEt2Q1lKdUFyQVB2YzJxT1pwNVM4OS1nemxhNGtETTExLTVGOVJFVlpYRWg3RTBMR3ZDOTdsVzVmU2RwTFZoanZLOU5jQnNzSFpkZXFmSnY0REpsT0NJUlFPMWFPR2VkU0M0RTdtT21pM05rcllhcTFlaXh4QXd5NUlGbWotVXEtRFhNVXdkdWZ6U3l3cmJkNjdCc082TE8tRG9XQ3lxcjFXOUNHMXN4VjkyYmxaMlphMVNOeHNiMFJVbnNHaFZrcmh0Z2k0X2J2ckdZTmw4Zy0xVFo1b1dLQ1M?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 13:18:37 GMT"
+      "source": "THE MAGIC RAIN",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXpnRDNOUjF1aDl4NkkxaFl3WWw4NURjVGtQdDBHcEVvajhVSEhrWFNtSzBaa2V0TXJsQmlnVHRoS2FVdEFXVVJ1TnZkTmZxZy1sV1ZmdmlJX3A4OWF3WFMwVEpITTJvQUNSVlZsbFBWRm9NZVFZM2lGS1RPWnJldmdZRDY3M2l2WklwM3RQZGh5ZkVXeHRYazdB?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 07:57:38 GMT"
     },
     {
-      "headline": "Samsung's Fold8 FanCam uses AI to track chosen subjects",
-      "background": "Samsung's foldable phone line has iterated heavily on camera features, and the Fold8 introduces subject-tracking camera modes aimed at consumer photography use cases like concerts and sports.",
+      "headline": "School Website Launch Press Release — Not Relevant",
+      "background": "This is a vendor press release announcing a website build for a school in Chennai, India.",
       "keyFindings": [
-        "My FanCam uses on-device AI to lock focus and tracking on a user-designated subject in a crowd",
-        "The feature is optimized for scenarios with significant subject movement and visual noise",
-        "Engineers tuned the model specifically for partial occlusion — subjects moving behind other people"
+        "JB Soft System built a new website for Vedanikethan Matriculation Higher Secondary School",
+        "No UX methodology, research, or product insight is present in the piece"
       ],
-      "implications": "Relevant for product teams thinking about AI-assisted media capture UX. Subject designation interaction patterns here — how users select and confirm a tracked subject — are worth examining for similar features.",
+      "implications": "No actionable relevance for UX, product, or tech practitioners. Not suitable for inclusion in a professional reference digest.",
       "tags": [
-        "AI tools",
-        "Mobile Camera",
-        "Computer Vision"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Samsung Global Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVk9HcUYzYlJfNXYwUzNaeXJwZjluaTZLMkhCX01pdmNRUGNqbkRMZnJDSFNQSkZtZV8wTUdGdklYeTV5VWVpdkFfUEg1WGxBWDZpX1VhTGw0b2J1OTItRnhZVWF0azltRzNqSDczWi1Jcm5aaXRYS3lDcllyeENuVXJmdzJCcmU3Qk9rQ2tRU25ZZ2RmQWIyTVFzMi1XejJpV0pNVGhoVTFnLU8ybVBJN18ta3RzM2JLX1RrMElYU0pPbTVuWGNTaDU5Z0s3TzJDM1NMaUtBbHVGbmI2WVVoZHBNTlZsUFJkUl9Ucg?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 12:33:58 GMT"
-    },
-    {
-      "headline": "HTEC Momentum wins two UX Design Awards",
-      "background": "UX Design Awards recognize work across interaction and interface design categories. HTEC Momentum is a product and UX consultancy with a track record of award submissions.",
-      "keyFindings": [
-        "HTEC Momentum received two honors in the 2024 UX Design Awards",
-        "No project details or evaluated criteria are disclosed in the announcement"
-      ],
-      "implications": "Award announcements without project specifics offer little signal for practitioners. No actionable findings.",
-      "tags": [
-        "Industry Awards",
-        "Design Agencies"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Rutland Herald",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNX3F6Ry1teWFyZ2xMRW05RHBTeVFlUnh4T1JIMy1Zd0hQN18zcmFybVBMc3NDZl8wSlNmb0RUUTJIUkpYS2tmb1ZCb1ZKNTlQWWJYZEhnOWJmMHdTYmdINHFoSl91M3dsOWpMR3kybVktN0c3R2k5Z0RySzFQcWJHamRSMXdiREk5VTE5ZHJIQ3VVMFRNVFZQTnNHNWt1dHNuX2E1ejhzZ1VGVDRDNk9SakxIX3hlOGYzeUJYTHkyZ2dGMEZkeEhWTWpZT3gxT2VOeFdUazg3MDhMeEtWSERDUXZaRU4tT2w2eHZROVhUY2VYTG04LWhndldyWHhOWVctclN5VUpxblBQUQ?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 12:18:34 GMT"
-    },
-    {
-      "headline": "Online casino UX borrows heavily from game design — here's what transfers",
-      "background": "Online gambling platforms have invested heavily in retention-focused UX, drawing from game design principles. This piece examines whether those patterns have legitimate applications outside gambling contexts.",
-      "keyFindings": [
-        "Casino platforms use progress indicators, reward loops, and session pacing mechanics that mirror game UX patterns",
-        "Rapid feedback on user actions — a core casino UX feature — is identified as directly transferable to non-gambling products",
-        "The piece notes that some retention mechanics from casino UX carry ethical risks when applied outside regulated contexts"
-      ],
-      "implications": "Progress mechanics and feedback timing from game-influenced UX can improve engagement in legitimate product contexts, but teams should explicitly evaluate whether borrowed retention patterns serve users or exploit them.",
-      "tags": [
-        "Game Design",
-        "Engagement Patterns",
-        "Ethics"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "COGconnected",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORFlVbjdhUTFWQnhyRW9IUUFKeTF2VjlsVFVBbnJZNl8tNWJ4RnM4OUpoZTdGdDdpR0dReHlqQUVPQmNZNTNvSGZHMjNWaXZJMU10TWpfNDcwTHBJTUlmeEJDY0M3RFltWExTSWxMSlhaSmlfMjdPTXNfZ0tKeldHLXVMZ1dQRzBjd0JXVzk3WXBNWHRGRFow?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 07:01:39 GMT"
-    },
-    {
-      "headline": "Hyundai wins 16 IDEA Awards across vehicle and mobility design",
-      "background": "The IDEA Awards, run by the Industrial Designers Society of America, recognize product and industrial design across categories. Hyundai has been expanding its design investment across EVs and mobility concepts.",
-      "keyFindings": [
-        "Hyundai Motor Group received 16 IDEA Awards in the 2024 cycle, spanning vehicles, interiors, and mobility concepts",
-        "No specific winning products or evaluation criteria are detailed in the coverage"
-      ],
-      "implications": "Minimal relevance for digital UX practitioners. Industrial and automotive design awards have limited direct application to software product work.",
-      "tags": [
-        "Industrial Design",
-        "Automotive",
-        "Awards"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Businesskorea",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RQV9Pc2ZaWHlmdVpZZ3dmYzI0YmlDSVB2cXhSMks2N24tejhhYVl0T3c4UTA1TkFSNmZmSld0TVhlX0NVM2d2QkZmQXM2eFF0WWpMZ3FkM1NiaEl5U2REOVFFRVRaRzUwdThDU3BfVC1sTUhJ?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 06:01:21 GMT"
-    },
-    {
-      "headline": "Listicle ranks nine web portal development vendors",
-      "background": "'Best of' vendor lists for development services are a common content marketing format with typically little editorial rigor behind rankings.",
-      "keyFindings": [
-        "The list covers nine companies offering custom web portal development",
-        "No methodology, evaluation criteria, or comparative data are provided",
-        "Coverage appears to be sponsored or SEO-driven content rather than independent editorial"
-      ],
-      "implications": "Not a reliable resource for vendor selection. Teams evaluating portal development partners should use structured RFP processes and reference checks rather than ranked listicles.",
-      "tags": [
-        "Vendor Selection",
+        "Press Release",
         "Web Development"
       ],
       "featured": false,
@@ -221,9 +177,51 @@
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "TechBullion",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aVVlIWHQ1N2pOX1kzZm1CQlc4YnVmR21TUnpESEhNVUtLdXZaSVp4cWJTSnFPcFhPYkM3Z0U1NEZ2dThUS21NVVZNU3dORi1leUZLZUQycXNEbjk5ZkJ2SGtvdmxjdVNSUi1UVHVMSTRuZDc3ak1PQ1Q3dw?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 05:33:38 GMT"
+      "source": "Live Chennai",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0YUt5ZWhmZ25rNXY0Vld3Y0QwMGIydkhrY296dUlRUFRxeXhCaFJ4eWhSUTdjMXNHUDVSMVM1bWVnRXlJbEJ5LVdtSU96aW5ZRmhpZnB3bGVtaXFfYXdpUUkwSmlnZw?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 07:11:27 GMT"
+    },
+    {
+      "headline": "Volvo EX60 Design Coverage — Automotive, Not UX",
+      "background": "Auto&Design published coverage of the Volvo EX60, an upcoming electric vehicle, focusing on its Scandinavian design language.",
+      "keyFindings": [
+        "Coverage is automotive design editorial rather than UX or product analysis",
+        "No interface, interaction, or digital product content is present in the available snippet"
+      ],
+      "implications": "No direct relevance for UX or product practitioners unless the full piece covers in-vehicle interface design — which the snippet does not suggest.",
+      "tags": [
+        "Automotive Design",
+        "Industrial Design"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Auto&Design",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxVlBndm5KdmxhUWlzTF93TnM3VWdyYzZkSXlidlpqQkdQZG5JeUVyTFRDaWVOV1NpLWhoMlVqOTN4eFdmTzI5Y0U4U3JVQXc3eDJaSkFZYnBHcFZPMHZlV3hBWHFnQVVGamxJS29EVWJyT19TcWpHQ19BYVg?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 07:07:23 GMT"
+    },
+    {
+      "headline": "React Native Agency Listicle for South Africa — Skip",
+      "background": "This is a sponsored or SEO-driven listicle ranking React Native development companies operating in South Africa for 2026.",
+      "keyFindings": [
+        "Lists 10+ React Native development agencies based in or serving South Africa",
+        "No methodology, benchmarks, or evaluation criteria are described in the snippet"
+      ],
+      "implications": "Not useful as a reference resource. Listicles of this type typically lack transparent ranking criteria and serve primarily as lead generation for listed companies.",
+      "tags": [
+        "React Native",
+        "Agency Listings"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "WhaTech",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeDlhb2lLMGd0aTMxblVFeU9VbkJlVzhaVlI3bnVpcGtKcjAzUEctZXA4aEt2ODFlZUVlZElfUUFkVjNwVUJrLW9mNlpub01FYmp6MnJheDZDVWhfT01uZFg1M2hBdGd5NHYtQ3ZORFZGTHBfaE9BYW0tWXJESmkxaFktVGZRTzhJZEFOQ0NHLVR1ZG01Sm13R2EzQ2sxb1ozcGhfd1lSekhOTTdMektyczF6RF9zMzJVXzlEME1qOE5WQUF6U0ZJVldYQ2NJWWNLSHAzedIB1AFBVV95cUxQeDlhb2lLMGd0aTMxblVFeU9VbkJlVzhaVlI3bnVpcGtKcjAzUEctZXA4aEt2ODFlZUVlZElfUUFkVjNwVUJrLW9mNlpub01FYmp6MnJheDZDVWhfT01uZFg1M2hBdGd5NHYtQ3ZORFZGTHBfaE9BYW0tWXJESmkxaFktVGZRTzhJZEFOQ0NHLVR1ZG01Sm13R2EzQ2sxb1ozcGhfd1lSekhOTTdMektyczF6RF9zMzJVXzlEME1qOE5WQUF6U0ZJVldYQ2NJWWNLSHAzeQ?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 22:45:46 GMT"
     }
   ]
 }
