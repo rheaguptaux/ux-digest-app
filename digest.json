@@ -1,218 +1,200 @@
 {
-  "generatedAt": "2026-09-04T15:52:43.304Z",
+  "generatedAt": "2026-09-05T14:43:10.073Z",
   "items": [
     {
-      "headline": "Lean UX Discovery Is Just Naming What You Already Do",
-      "background": "Lean UX has gained traction as a framework for integrating discovery into agile workflows, but practitioners debate whether it introduces genuinely new methods or repackages existing instincts with new terminology.",
+      "headline": "Silent churn reveals more than power users do.",
+      "background": "Product teams routinely prioritize feedback from active, vocal users — those who file requests, respond to surveys, or engage in forums. This piece challenges that instinct by focusing on the segment that never speaks: users who quietly left.",
       "keyFindings": [
-        "The article argues Lean UX discovery primarily gives names to practices teams already perform intuitively",
-        "Methodology adoption may be driven more by the need for shared vocabulary than by behavioral change",
-        "Naming practices explicitly can still have organizational value even without changing the underlying work"
+        "Users who churn rarely explain why — they simply stop showing up, making analytics silence a signal in itself.",
+        "The most engaged users in your dashboard are statistically unrepresentative of the broader user base and often push for complexity others don't need.",
+        "Designing for vocal power users can actively accelerate churn among casual or struggling users."
       ],
-      "implications": "Worth considering when selling discovery processes internally — framing familiar activities in Lean UX terms can reduce stakeholder resistance without requiring teams to overhaul how they actually work. Caveat: this framing risks overconfidence that teams are already doing enough.",
+      "implications": "If you're using feature request volume or NPS responses to set roadmap priorities, you're optimizing for a self-selected minority. Supplement with exit interviews, drop-off funnel analysis, and passive behavioral data to get a fuller picture of who you're actually losing.",
       "tags": [
-        "Lean UX",
-        "Discovery",
-        "Research Methods"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1920/1*iFq58pe4F01Ocoz62l2yYA.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/webeetle/lean-ux-discovery-dare-un-nome-alla-scoperta-ad8e9ee4e062?source=rss------product_design-5",
-      "pubDate": "Fri, 04 Sep 2026 15:36:34 GMT"
-    },
-    {
-      "headline": "17 Wireframing Tools Tested: What Actually Works in 2026",
-      "background": "The wireframing tool landscape has fragmented significantly with AI-assisted generators, motion prototyping, and all-in-one platforms competing alongside legacy sketch tools, making it harder for teams to choose without hands-on comparison.",
-      "keyFindings": [
-        "17 tools were directly tested across categories: AI generators, all-in-one platforms, sketch tools, enterprise prototyping, and motion tools",
-        "AI wireframe generators are now a distinct enough category to evaluate separately from traditional wireframing tools",
-        "Enterprise prototyping and motion capability are now factors in tool selection, not just fidelity and speed"
-      ],
-      "implications": "Useful reference if your team is reassessing tooling for 2025-2026. Pay attention to which category fits your workflow stage — an AI generator optimized for speed will underperform an enterprise tool on handoff quality.",
-      "tags": [
-        "Wireframing",
-        "Design Tools",
-        "Prototyping"
+        "User Research",
+        "Churn",
+        "Product Strategy"
       ],
       "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1920/1*zatfsWXC-XwBKRel1Tvi6Q.png",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*vN9Bi7WbjxBE_ETWgZE_9Q.jpeg",
       "source": "UX on Medium",
-      "link": "https://medium.com/@flowstep/17-wireframing-tools-in-2026-we-tested-the-best-tools-09cb77c45aeb?source=rss------ux-5",
-      "pubDate": "Fri, 04 Sep 2026 15:08:01 GMT"
+      "link": "https://blog.startupstash.com/the-users-who-left-never-filed-a-feature-request-306c4afe1325?source=rss------ux-5",
+      "pubDate": "Sat, 05 Sep 2026 13:51:07 GMT"
     },
     {
-      "headline": "Using AI for OOUX Structure Is a Trap — Use It for Details",
-      "background": "Object-Oriented UX (OOUX) is a structured methodology for defining content objects and relationships before interface design begins. As designers experiment with using AI to accelerate structured design work, there is growing debate about where AI genuinely helps versus where it introduces errors that cost more to fix.",
+      "headline": "Specialist vs. generalist: what 50 job posts reveal.",
+      "background": "The UX job market has shifted noticeably since 2022, with layoffs consolidating roles and companies increasingly expecting designers to cover more ground. There's an ongoing debate about whether specializing or staying broad offers better career resilience.",
       "keyFindings": [
-        "Attempting to use AI to shortcut the structural object-mapping phase of OOUX produced errors that required double the time to correct",
-        "AI performed better when applied to texture-level tasks — copy, attributes, edge cases — rather than core object definition",
-        "The author concludes that AI shortcuts in foundational UX work often defer rather than eliminate the hard thinking"
+        "An analysis of 50 UX job postings across LinkedIn, Wellfound, and Medium found mixed but leaning-generalist signals in role requirements.",
+        "Many postings bundled research, interaction design, and content responsibilities into a single role, reflecting leaner team structures.",
+        "Pure specialist roles (e.g., UX researcher only) appeared less frequently and tended to be concentrated at larger organizations."
       ],
-      "implications": "Directly actionable for anyone using AI in structured design methodologies: reserve AI assistance for filling in detail within a structure you've defined yourself. Using it to generate the structure is where the time cost compounds.",
+      "implications": "If you're early-to-mid career, the current market appears to reward T-shaped skills — depth in one area, fluency across several. Specialists may still find strong roles, but primarily at companies large enough to staff dedicated functions.",
       "tags": [
-        "OOUX",
-        "AI tools",
-        "Structured Design"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1920/1*isUMAcEeDVQUWVmnGNF2Fw.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@lex.konovalov/use-ai-for-texture-not-bones-notes-from-an-ooux-misadventure-6ed0ef2bd49e?source=rss------product_design-5",
-      "pubDate": "Fri, 04 Sep 2026 14:48:34 GMT"
-    },
-    {
-      "headline": "A UX Audit of Bionluk's Freelancer Onboarding Flow",
-      "background": "Bionluk is a Turkish freelance marketplace. This piece documents a first-person experience hitting a friction point while attempting to update a profile to freelancer status — a common onboarding and account-switching pattern across gig platforms.",
-      "keyFindings": [
-        "The author encountered a specific blocking point in Bionluk's profile update flow for freelancer status",
-        "The piece uses a real task failure as a case study in onboarding friction",
-        "Written in Turkish, limiting accessibility for non-Turkish-speaking readers"
-      ],
-      "implications": "Limited generalizability given the platform specificity and language barrier, but the underlying pattern — account-type switching as an overlooked UX edge case — is relevant for any platform with multiple user roles.",
-      "tags": [
-        "Onboarding",
-        "Freelance Platforms",
-        "Account Management"
+        "Career Development",
+        "Hiring",
+        "Specialization"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1887/1*X9LkCqgFELPoPij-60MPgA.png",
+      "image": "https://cdn-images-1.medium.com/max/807/0*sh_MiYwz-MjzcR23",
       "source": "UX on Medium",
-      "link": "https://medium.com/@nsegulec/bionlukta-freelancer-olmay%C4%B1-d%C3%BC%C5%9F%C3%BCn%C3%BCyordum-bir-noktaya-tak%C4%B1ld%C4%B1m-i%CC%87%C5%9Fte-ortaya-%C3%A7%C4%B1kanlar-93987bb094dd?source=rss------ux-5",
-      "pubDate": "Fri, 04 Sep 2026 14:40:21 GMT"
+      "link": "https://medium.com/@Rythmuxdesigner/the-ux-designers-dilemma-in-2026-specialist-or-generalist-59a71af11cd6?source=rss------ux-5",
+      "pubDate": "Sat, 05 Sep 2026 13:41:00 GMT"
     },
     {
-      "headline": "Designing User-Facing Profiles from Telematics Driving Data",
-      "background": "Telematics data — speed, braking, cornering — is increasingly used by insurers and fleet operators to score driving behavior, but translating raw sensor data into a legible, actionable user profile is a significant UX challenge with real trust implications.",
+      "headline": "Copying a competitor's CTA is a dead end.",
+      "background": "Conversion optimization culture has normalized benchmarking CTAs against competitors or high-profile case studies — borrowing button copy, color, and placement based on others' reported lifts. This piece pushes back on that practice directly.",
       "keyFindings": [
-        "The piece works through the design process of converting telematics signals into a driving profile users can understand and act on",
-        "Presenting behavioral data back to users requires decisions about framing, granularity, and what to show versus what to suppress",
-        "Data visualization choices directly affect whether users perceive the scoring system as fair"
+        "A CTA that drove a 90% conversion lift in one context can underperform or reduce conversions in a different product or audience context, because the surrounding trust signals, user intent, and brand relationship differ.",
+        "CTA performance is a downstream result of copy, offer clarity, page context, and user expectations — not button wording in isolation.",
+        "Treating CTAs as the primary conversion lever misdiagnoses where friction actually lives in most flows."
       ],
-      "implications": "Relevant for anyone working on personal data dashboards, insurance tech, or fleet UX. The core challenge — translating algorithmic scoring into user-legible feedback — applies well beyond driving contexts.",
+      "implications": "Before testing CTA copy or design, audit the surrounding context — the offer itself, the trust signals on the page, and whether users understand what happens after they click. Borrowed CTA patterns won't transfer if those foundations are different.",
       "tags": [
-        "Data Visualization",
-        "Telematics",
-        "Behavioral UX"
+        "Conversion Optimization",
+        "CTA Testing",
+        "Copywriting"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/700/1*7x8u6qJ2Mp-eRcAjdE_nOw.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@selimbaouz/stop-copying-your-competitors-ctas-here-s-why-it-never-works-6cdaeb75f062?source=rss------ux-5",
+      "pubDate": "Sat, 05 Sep 2026 13:33:05 GMT"
+    },
+    {
+      "headline": "AI search surfaces answers but buries the rest.",
+      "background": "AI-powered search tools like Perplexity, ChatGPT search, and Google's AI Overviews are shifting how users retrieve information — delivering synthesized answers rather than lists of links. This raises questions about what gets surfaced, what gets omitted, and what that means for how people understand a topic.",
+      "keyFindings": [
+        "AI search optimizes for answer speed, which structurally deprioritizes contradictory, nuanced, or minority-viewpoint sources.",
+        "The shift from keyword results to conversational answers removes the user's ability to scan and evaluate competing sources directly.",
+        "Content that doesn't fit clean summarization — long-form analysis, primary research, complex arguments — is systematically underrepresented in AI-generated responses."
+      ],
+      "implications": "For product and content teams, this changes discoverability strategy: content optimized for traditional SEO may not surface in AI search at all. It's also worth designing for users who arrive having already received an AI-generated summary — they may have partial or subtly incorrect context before they reach your product.",
+      "tags": [
+        "AI Search",
+        "Information Architecture",
+        "Content Strategy"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1280/0*v2z49EOzCp-R_WwC.jpg",
+      "source": "UX Research on Medium",
+      "link": "https://us-wonderatlas.medium.com/ui-ux-ai-is-redefining-search-from-keywords-to-conversations-6906d7d98704?source=rss------ux_research-5",
+      "pubDate": "Sat, 05 Sep 2026 13:18:24 GMT"
+    },
+    {
+      "headline": "Promotional content — not relevant to this digest.",
+      "background": "This is a promotional listing for a local training school, not a substantive article with findings or analysis relevant to UX, product, or tech practitioners.",
+      "keyFindings": [
+        "No substantive findings to report.",
+        "Promotional content for W3 Web School in Kolkata.",
+        "Not a research or practice-relevant piece."
+      ],
+      "implications": "No actionable implications for UX or product practitioners. Excluded from editorial consideration.",
+      "tags": [
+        "Promotional",
+        "Education"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "HackerNoon",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yYjlmWm0yaHI3Z01seC03MXRsbUl3c3JDNWgzelVLNVNubEpGZ2VtSVBUVUNtZG8xMzdSTy05Y1hUZFJob1dhUmc5LWxwelBoUy01bGtiUEl2bjJBTWNLV3g2VjVHYXVUcnZCWnRmbHRua0dKTjJoazdEQQ?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 11:31:49 GMT"
+      "source": "easternherald.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWGpTNFdwc18wQmVnWGZYS2NSZ2lxTHhMbUZkanh6U3hQemtmOElvNTVCYUdsa01XNEtwX0NhMDBvYXFObDRaSWlpU1dhUzlCWTVITWJwc2xzYzNPTHZlYnNPNVdWcV9zaVBjcVdhSnhIM1o5Rkt4bmFab2FoLVNpRVVodkY1VnBwZ0g4NnRJLU9vU3NBai0tWmtOZzB1TGUwVUFBbUgzcXctV2JhYWwyYy1ISG9uRjVl?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 09:38:22 GMT"
     },
     {
-      "headline": "Nielsen's Roundup: AI Visitors Convert Better, Sunk Cost Traps, Team Conflict",
-      "background": "Jakob Nielsen's UX roundups synthesize recent research and commentary across multiple UX and product topics in a single digest format, making them a useful signal-check on current practitioner concerns.",
+      "headline": "Promotional vendor list — not relevant to this digest.",
+      "background": "This is a listicle-style vendor directory for property listing app development companies, without editorial analysis or original research.",
       "keyFindings": [
-        "Traffic arriving via AI referral sources (e.g. ChatGPT) converts at higher rates than traditional search traffic, per cited data",
-        "Hidden team disagreement — conflict that isn't surfaced openly — is flagged as an underdiagnosed product team problem",
-        "Sunk cost bias and AI attitude survey design are also covered as distinct topics"
+        "No substantive findings to report.",
+        "Commercial vendor directory content.",
+        "No UX or product practice relevance."
       ],
-      "implications": "The AI traffic finding is immediately relevant for anyone tracking acquisition metrics — segmenting AI referral traffic separately from organic search may reveal conversion patterns worth acting on. The hidden disagreement point is worth raising in retros.",
+      "implications": "No actionable implications for UX or product practitioners. Excluded from editorial consideration.",
       "tags": [
-        "AI Traffic",
-        "Team Dynamics",
-        "Conversion"
+        "Promotional",
+        "App Development"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nZTdKS3Y1OWtpc1NPOGJveFpwZGprOUtuaWhmTmhwM3VJQXpuUXBpTnJwUzBrVWlHc1cyNnBUdm8tV2RyT0dIZElPemZaSDdBQjNlcWg2alhCRHM1azdvSEphWEppajg1eFE?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 11:21:12 GMT"
+      "source": "nerdbot",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVl9rdFVEa0Q3dk1WUjEyNlR3RjhyczJoQmlpTVNtYjJXNHFFM2h5ZWJoQVlBV1MyQW1QdE5JVXJGS1hRV1Jpck0xZFBvczctM285TTZFelE3R3NUSm1Ec25oX21GVHdsR01PT25sdGFvNXlmeDd4OXdtbEtXdU96NEJKMzJTOVJEMUFsYkJGdlR2OVU?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 19:34:40 GMT"
     },
     {
-      "headline": "Game UX Summit Turns 10, Moves to Kuala Lumpur",
-      "background": "The Game UX Summit is one of the few conferences specifically focused on user experience within game design, and its 10th anniversary marks a notable milestone for a discipline that has historically sat at the margins of mainstream UX discourse.",
+      "headline": "YLabs hiring remote design research deputy director ($72K).",
+      "background": "Senior design research roles with a global health or social impact focus are relatively rare. YLabs works on youth-centered design in low- and middle-income countries, making this a notable opening for researchers with that orientation.",
       "keyFindings": [
-        "The summit's 10th anniversary edition will be held in Kuala Lumpur",
-        "No session details or dates are included in the available snippet"
+        "The role is fully remote and pays up to $72,143 — below market rate for senior research leadership at commercial tech firms, reflecting nonprofit sector norms.",
+        "YLabs focuses on design research for health and social programs in the Global South, requiring contextual research experience beyond standard product research.",
+        "Deputy Director level suggests people management and program oversight responsibilities, not an IC research role."
       ],
-      "implications": "Relevant only as a save-the-date signal for practitioners working in game UX or interested in cross-disciplinary UX methods. Insufficient detail available to assess program quality.",
+      "implications": "Worth flagging for experienced researchers interested in impact-driven work who can accept nonprofit compensation. The salary ceiling will likely screen out candidates currently at senior levels in commercial tech.",
       "tags": [
-        "Game UX",
-        "Industry Events"
+        "Hiring",
+        "Design Research",
+        "Impact Design"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "THE MAGIC RAIN",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXpnRDNOUjF1aDl4NkkxaFl3WWw4NURjVGtQdDBHcEVvajhVSEhrWFNtSzBaa2V0TXJsQmlnVHRoS2FVdEFXVVJ1TnZkTmZxZy1sV1ZmdmlJX3A4OWF3WFMwVEpITTJvQUNSVlZsbFBWRm9NZVFZM2lGS1RPWnJldmdZRDY3M2l2WklwM3RQZGh5ZkVXeHRYazdB?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 07:57:38 GMT"
+      "source": "Global South Opportunities",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLZEoybnJGRVhlWkIxbW1YTzMxdENwdFhkYzRSdU82TU1xWG1IWGhPNm5LS2YyMlpRdzMwQzJFNjRudWRscUFvbUNJVGxVWjF4cENpNGw2OTVYTTk2czE3cl9iT09fTHpINzd6dHNn?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 17:12:15 GMT"
     },
     {
-      "headline": "School Website Launch Press Release — Not Relevant",
-      "background": "This is a vendor press release announcing a website build for a school in Chennai, India.",
+      "headline": "Structured starting point for AI in UX practice.",
+      "background": "Practitioners face a fragmented landscape of AI tools, tutorials, and claims, with little structured guidance on how to actually integrate AI into UX work reliably. This is a curated study guide rather than a single article.",
       "keyFindings": [
-        "JB Soft System built a new website for Vedanikethan Matriculation Higher Secondary School",
-        "No UX methodology, research, or product insight is present in the piece"
+        "The guide aggregates articles and videos specifically about applying AI to UX workflows, providing a structured learning path rather than scattered tips.",
+        "Coverage spans multiple use cases within UX work, suggesting practical breadth rather than focus on a single tool.",
+        "Published by Nielsen Norman Group, which applies its standard of evidence-based practice to the curation."
       ],
-      "implications": "No actionable relevance for UX, product, or tech practitioners. Not suitable for inclusion in a professional reference digest.",
+      "implications": "Useful as an onboarding resource for teams trying to build shared AI literacy across a UX function, or for individual practitioners who want a vetted starting point rather than piecing together advice from disparate sources.",
       "tags": [
-        "Press Release",
-        "Web Development"
+        "AI Tools",
+        "Professional Development",
+        "Workflow"
       ],
-      "featured": false,
+      "featured": true,
       "type": "research",
-      "category": "Industry news",
+      "category": "Research",
       "publishedWindow": "today",
       "image": null,
-      "source": "Live Chennai",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0YUt5ZWhmZ25rNXY0Vld3Y0QwMGIydkhrY296dUlRUFRxeXhCaFJ4eWhSUTdjMXNHUDVSMVM1bWVnRXlJbEJ5LVdtSU96aW5ZRmhpZnB3bGVtaXFfYXdpUUkwSmlnZw?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 07:11:27 GMT"
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/ai-work-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 04 Sep 2026 17:00:00 +0000"
     },
     {
-      "headline": "Volvo EX60 Design Coverage — Automotive, Not UX",
-      "background": "Auto&Design published coverage of the Volvo EX60, an upcoming electric vehicle, focusing on its Scandinavian design language.",
+      "headline": "Clutch vendor rankings — not relevant to this digest.",
+      "background": "This is a promotional rankings piece recognizing app development companies, published in partnership with or sourced from Clutch's directory listings.",
       "keyFindings": [
-        "Coverage is automotive design editorial rather than UX or product analysis",
-        "No interface, interaction, or digital product content is present in the available snippet"
+        "No substantive findings to report.",
+        "Commercial vendor recognition content.",
+        "No UX or product practice relevance."
       ],
-      "implications": "No direct relevance for UX or product practitioners unless the full piece covers in-vehicle interface design — which the snippet does not suggest.",
+      "implications": "No actionable implications for UX or product practitioners. Excluded from editorial consideration.",
       "tags": [
-        "Automotive Design",
-        "Industrial Design"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Auto&Design",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxVlBndm5KdmxhUWlzTF93TnM3VWdyYzZkSXlidlpqQkdQZG5JeUVyTFRDaWVOV1NpLWhoMlVqOTN4eFdmTzI5Y0U4U3JVQXc3eDJaSkFZYnBHcFZPMHZlV3hBWHFnQVVGamxJS29EVWJyT19TcWpHQ19BYVg?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 07:07:23 GMT"
-    },
-    {
-      "headline": "React Native Agency Listicle for South Africa — Skip",
-      "background": "This is a sponsored or SEO-driven listicle ranking React Native development companies operating in South Africa for 2026.",
-      "keyFindings": [
-        "Lists 10+ React Native development agencies based in or serving South Africa",
-        "No methodology, benchmarks, or evaluation criteria are described in the snippet"
-      ],
-      "implications": "Not useful as a reference resource. Listicles of this type typically lack transparent ranking criteria and serve primarily as lead generation for listed companies.",
-      "tags": [
-        "React Native",
-        "Agency Listings"
+        "Promotional",
+        "App Development"
       ],
       "featured": false,
       "type": "research",
@@ -220,8 +202,30 @@
       "publishedWindow": "today",
       "image": null,
       "source": "WhaTech",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeDlhb2lLMGd0aTMxblVFeU9VbkJlVzhaVlI3bnVpcGtKcjAzUEctZXA4aEt2ODFlZUVlZElfUUFkVjNwVUJrLW9mNlpub01FYmp6MnJheDZDVWhfT01uZFg1M2hBdGd5NHYtQ3ZORFZGTHBfaE9BYW0tWXJESmkxaFktVGZRTzhJZEFOQ0NHLVR1ZG01Sm13R2EzQ2sxb1ozcGhfd1lSekhOTTdMektyczF6RF9zMzJVXzlEME1qOE5WQUF6U0ZJVldYQ2NJWWNLSHAzedIB1AFBVV95cUxQeDlhb2lLMGd0aTMxblVFeU9VbkJlVzhaVlI3bnVpcGtKcjAzUEctZXA4aEt2ODFlZUVlZElfUUFkVjNwVUJrLW9mNlpub01FYmp6MnJheDZDVWhfT01uZFg1M2hBdGd5NHYtQ3ZORFZGTHBfaE9BYW0tWXJESmkxaFktVGZRTzhJZEFOQ0NHLVR1ZG01Sm13R2EzQ2sxb1ozcGhfd1lSekhOTTdMektyczF6RF9zMzJVXzlEME1qOE5WQUF6U0ZJVldYQ2NJWWNLSHAzeQ?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 22:45:46 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRXJQd09sZGtxcThmZ1NJMDdzcE13Q1kxN3BxdzlZRHd1amtNSTNheTdpdXl2bXg2NW1WLWJybDBCUXBXQl9hT0Q4MjVERmZYUmh4S09BUThtYldKNlQzeUotM2FIZ0Y1WHlmMnZSSWdxUks3UzVPc3RYWGhUSnpOdzFWZUd5VzlVMWRnZ3Mzd1I3T25fcWsyeFY5X3RWWjVranp5WTEwMl9fMTRwbVJ3QkU5aGdpUnFv0gG4AUFVX3lxTE1FclB3T2xka3FxOGZnU0kwN3NwTXdDWTE3cHF3OVlEd3Vqa01JM2F5N2l1eXZteDY1bVYtYnJsMEJRcFdCX2FPRDgyNURGZlhSaHhLT0FROG1iV0o2VDN5Si0zYUhnRjVYeWYydlJJZ3FSSzdTNU9zdFhYaFRKek53MVZlR3lXOVUxZGdnczN3UjdPbl9xazJ4VjlfdFZaNWtqenlZMTAyX18xNHBtUndCRTloZ2lScW8?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 13:09:54 GMT"
+    },
+    {
+      "headline": "HTEC Momentum wins two UX Design Awards.",
+      "background": "The UX Design Awards recognize applied UX work across industries. Award announcements from consultancies and agencies are periodic signals of recognized practice, though they rarely include methodology detail.",
+      "keyFindings": [
+        "HTEC Momentum received two distinctions at the UX Design Awards, adding to prior recognition.",
+        "No specific project details or evaluated criteria are included in the snippet.",
+        "Award is a reputational signal only — no transferable findings are available from this announcement."
+      ],
+      "implications": "No direct practice implications without access to the awarded project details. If the awarded work is publicly documented, it may be worth reviewing for methodology or design decisions.",
+      "tags": [
+        "Industry Recognition",
+        "Design Awards"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "week",
+      "image": null,
+      "source": "New Castle News",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxORmRwbEZ3X3U3VEFUM1VmXzVUOF9LZW1nQzRTQlIyZ1p5alIyNWVqVFFRcTl5Sks1NU11YXBfME8xUzlnQ3Zyb3ZJMW5KNzBuRW05dWpJSW80WEhHU3hpRXNtVjdWVEo2X3hTVThtQlRJOGF5anltclJhRVVJMGdUZ2REM1Z2cGRGcjQ3UnE2MTY5WF9Nblo4SUJvcVJpTDFVSUQtWnR0akV1Sm84REt0QmI3ZmFHTHpKcUVqWllxYi1CUU02R0hReERsQ0RxQU5vYkhSa1BLT1BvMWNBSW5oZXhTTHVYMmNMZ0VsTFB0WGo3ZHpsemdxVlRoMFZSOHVZMmQ2Snd6YlpENlFGby05ZjJaeTI?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 17:37:06 GMT"
     }
   ]
 }
