@@ -1,213 +1,233 @@
 {
-  "generatedAt": "2026-09-08T16:07:31.656Z",
+  "generatedAt": "2026-09-09T16:02:13.156Z",
   "items": [
     {
-      "headline": "Why AI keeps generating the same tired UI patterns",
-      "background": "As AI-assisted design tools become standard in product workflows, there's a growing concern that outputs are converging on a narrow set of visual patterns — dashboards, cards, gradients, rounded corners — regardless of context or need.",
+      "headline": "What GPT-6 Astra actually changes for design and dev",
+      "background": "OpenAI's GPT-6 Astra release generated broad coverage focused on AGI-level claims, but practicing designers and developers need to know what concretely shifts in their daily workflows, not the headline narrative.",
       "keyFindings": [
-        "AI design tools are trained predominantly on existing, popular UI patterns, creating a feedback loop that reinforces the same aesthetic conventions",
-        "The homogenization problem is structural, not a capability gap — the models can execute, but they default to what's statistically common in training data",
-        "Card-based layouts, soft gradients, and rounded corners are overrepresented in training corpora because they dominate popular design showcase sites like Dribbble and Behance"
+        "The piece separates capability announcements from workflow-relevant changes, focusing on what's immediately applicable rather than long-term speculation",
+        "Improvements in multimodal reasoning and longer context windows are flagged as the most directly relevant changes for design and dev work",
+        "The article cautions that most Monday-morning workflows won't change dramatically despite the marketing framing"
       ],
-      "implications": "Designers using AI tools for ideation or generation should treat first outputs as a starting baseline, not a direction. Prompting strategies that explicitly break from dominant patterns — or that specify user context over aesthetic style — may yield more differentiated results.",
+      "implications": "Useful as a reality-check resource to share with stakeholders who conflate model announcements with immediate product capability. Most relevant for teams evaluating whether to upgrade AI tooling or adjust prompting strategies.",
       "tags": [
         "AI tools",
-        "Visual Design",
-        "Design Systems"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1376/1*5KFIC5LF7rukPu3aM2ymcg.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@dollyborade07/ai-design-slop-why-ai-keeps-designing-the-same-dashboard-cards-gradients-and-rounded-corners-26d8e4779a86?source=rss------ux-5",
-      "pubDate": "Tue, 08 Sep 2026 15:45:28 GMT"
-    },
-    {
-      "headline": "One AI experiment that shifted a designer's process",
-      "background": "Designers are actively experimenting with integrating AI into day-to-day ticket-based design work, with varied and sometimes unexpected results on how they approach problems.",
-      "keyFindings": [
-        "The author used an AI tool during routine design ticket work and found it changed their problem-framing approach, not just execution speed",
-        "The experiment surfaced a shift toward using AI for early-stage reasoning rather than final asset generation"
-      ],
-      "implications": "Anecdotal and lacks methodological rigor, so treat this as a practitioner reflection rather than evidence. Most useful for designers curious about where in the workflow AI intervention has cognitive impact.",
-      "tags": [
-        "AI tools",
-        "Design process"
+        "Generative AI",
+        "Product development"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/720/0*HgDUG4SkZjEedtW-.gif",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*ZdNFPimvJM1aUMBJebopSA.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@shreshth02kanojia/ai-experiment-that-changed-my-approach-towards-design-895563f39298?source=rss------product_design-5",
-      "pubDate": "Tue, 08 Sep 2026 15:35:09 GMT"
+      "link": "https://mohitphogat.medium.com/gpt-6-astra-is-here-heres-what-it-actually-means-for-design-and-dev-work-041dffd2c0b8?source=rss------product_design-5",
+      "pubDate": "Wed, 09 Sep 2026 16:01:01 GMT"
     },
     {
-      "headline": "Duolingo's gamification works — but has real limits",
-      "background": "Duolingo is frequently cited as a gold standard for gamification in edtech, but there's an ongoing debate about whether its engagement mechanics actually produce language proficiency or just retention.",
+      "headline": "Agentic AI shifts product design from suggestions to actions",
+      "background": "Most AI product design to date has been built around recommendation loops — the AI suggests, the human decides. Agentic AI systems that take autonomous actions on behalf of users represent a structural break from that pattern.",
       "keyFindings": [
-        "Duolingo's streak mechanic is explicitly designed around loss aversion — users are more motivated by not breaking a streak than by learning progress itself",
-        "The app's XP and leaderboard systems drive daily active use but have been criticized for optimizing engagement over actual learning outcomes",
-        "Research on gamified learning suggests extrinsic reward systems can undermine intrinsic motivation over time, a tension Duolingo has not fully resolved"
+        "The shift from suggestive to agentic AI changes the fundamental trust contract between user and system — errors are no longer reversible recommendations but completed actions",
+        "Designing for agentic AI requires explicit undo states, confirmation checkpoints, and transparent action logs that most current design systems don't account for",
+        "The piece argues that existing mental models around AI affordances are insufficient once the AI can execute, not just advise"
       ],
-      "implications": "For product designers building learning or behavior-change tools, Duolingo's mechanics are worth studying as engagement drivers — but should not be treated as a model for outcome quality. Distinguishing between retention metrics and success metrics is critical.",
+      "implications": "Teams building on top of agentic APIs or LLM-powered automation need to rethink error states, permission scoping, and user control mechanisms now — these aren't edge cases but core interaction patterns. Particularly urgent for anyone designing enterprise or task-automation products.",
       "tags": [
-        "Gamification",
-        "Edtech",
-        "Behavioral design"
+        "Agentic AI",
+        "Interaction design",
+        "Trust & safety"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/0*i3nYnm6jdFVQvRzk",
+      "image": null,
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@gp2030/how-duolingo-turned-language-learning-into-a-game-b137b745fa47?source=rss------product_design-5",
-      "pubDate": "Tue, 08 Sep 2026 15:31:16 GMT"
+      "link": "https://medium.com/@sofiafloresaraujo/what-changes-when-ai-stops-suggesting-and-starts-acting-cc0ce8615f0a?source=rss------product_design-5",
+      "pubDate": "Wed, 09 Sep 2026 15:59:49 GMT"
     },
     {
-      "headline": "How to prove UX value when revenue isn't the metric",
-      "background": "UX teams embedded in organizations with non-commercial goals — or in early product stages — routinely struggle to justify resource investment using standard ROI framing, which puts them at a disadvantage in planning and headcount conversations.",
+      "headline": "Design systems are sliding off the Gartner hype curve",
+      "background": "Zeroheight's 2025 design systems report references Gartner's Hype Cycle placing design systems past peak inflated expectations and entering the trough of disillusionment — a signal that early enthusiasm has collided with organizational reality.",
       "keyFindings": [
-        "The piece argues for building a measurement framework around leading indicators — task success rate, error reduction, support ticket volume — rather than lagging financial outcomes",
-        "Connecting UX work to operational cost reduction (e.g., reduced onboarding support load) is presented as a viable proxy for impact when revenue attribution is impossible"
+        "Gartner's 2025 Hype Cycle places design systems in the disillusionment phase, suggesting adoption pain points now outweigh perceived value for many teams",
+        "The zeroheight report surfaces ongoing breakdowns in governance, contribution models, and cross-functional adoption as root causes — not the systems themselves",
+        "The framing 'already broken' implies the problems predate AI disruption; tooling changes are compounding pre-existing structural failures"
       ],
-      "implications": "Relevant for UX practitioners in nonprofit, government, healthcare, or early-stage startup contexts. Building a pre-agreed measurement framework with stakeholders before a project starts is more effective than retroactively arguing for credit.",
+      "implications": "Orgs still building out design systems should audit governance and adoption processes before investing further in tooling. The hype cycle positioning is a useful benchmark to set realistic expectations with leadership about ROI timelines.",
       "tags": [
-        "UX metrics",
-        "Stakeholder management"
+        "Design systems",
+        "Governance",
+        "Tooling"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "UX",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1376/1*JYZxynpy9frzrx4xf1znZA.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@uxraspberry/proving-ux-impact-when-success-isnt-just-dollars-bfe030d181dc?source=rss------ux-5",
-      "pubDate": "Tue, 08 Sep 2026 15:16:00 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1672/1*1HGIw9fBJXi_24AzSBKo1g.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@dnied/design-systems-were-already-broken-cfcd854ccb3d?source=rss------product_design-5",
+      "pubDate": "Wed, 09 Sep 2026 15:48:57 GMT"
     },
     {
-      "headline": "A' Design Awards 2026 call for entries opens",
-      "background": "Annual design awards cycle announcement.",
+      "headline": "Users pick easier options over better ones — here's why",
+      "background": "A persistent challenge in UX is that well-designed 'optimal' paths get ignored when a lower-friction alternative exists, even if it produces worse outcomes for the user. This piece frames that behavior through cognitive load theory rather than user error.",
       "keyFindings": [
-        "A' Design Awards has opened submissions for its 2026 international competition across multiple design categories"
+        "The brain applies a cost-benefit calculation to every interaction — cognitive effort is treated as a real cost, which means friction directly reduces the likelihood of a preferred behavior",
+        "Users defaulting to easier options is not irrational; it reflects accurate self-assessment of limited attentional resources",
+        "Design interventions that reduce effort on the desired path — not just punishment of the easy path — are more effective at shifting behavior"
       ],
-      "implications": "Relevant only if your team actively pursues award submissions for portfolio or business development purposes. No editorial insight.",
+      "implications": "When analyzing drop-off or suboptimal user choices, audit the effort differential between paths before assuming intent or motivation is the issue. Reducing cognitive load on the target path is often more effective than adding friction to alternatives.",
       "tags": [
-        "Design awards"
+        "Cognitive load",
+        "Behavioral design",
+        "Conversion"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*CWH_9SuzZct3S77dAzsqPg.jpeg",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@NiamhOS/the-path-of-least-resistance-why-users-choose-the-easier-option-over-the-better-one-37db243b011a?source=rss------product_design-5",
+      "pubDate": "Wed, 09 Sep 2026 15:28:21 GMT"
+    },
+    {
+      "headline": "A' Design Awards 2026 call for entries open",
+      "background": "The A' Design Awards runs an annual multidisciplinary competition accepting work across product, graphic, digital, and interdisciplinary design categories.",
+      "keyFindings": [
+        "The 2026 call for entries has been officially announced",
+        "The awards cover multidisciplinary and interdisciplinary design work",
+        "No submission deadline or fee details are included in the snippet"
+      ],
+      "implications": "Relevant only for designers or studios actively seeking award submissions. Limited actionable detail available from the snippet alone.",
+      "tags": [
+        "Design awards",
+        "Industry events"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "EIN News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOelR3Uk01Sm1HNkx3YU5hQU1SQlRiZ0RLdjlFVWs3MVMtWXZtUE0weTBpT0Q2UVVWY3lkX3lxdThmZVJyeWZ1bXVibW1CN2tGamNfUk43bm1weUdESjJOanFEWEdCY1Zlb0pTQ3dtX0ZBOGFOODNJaUZOSkU1Qnk3MVd3Z2dscm80Yk9wRjEtMFRKNW8weklOMkNybklxQU1DVjlLS3FYMlpZM2ZBZUM5dWJ0aldDd29O?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 13:23:00 GMT"
+      "source": "einnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjRoUDlERHRhbm9sa2VSbi1zTGNmbzlldG8teHhWa3Z6VEFSMUQyd0llT0FqVTZQUkg2akFNYlR2R29zQ3RsN0VZNGczTVRsU3lucVRnalR5OE1iMndNeVpkWGpmaDNoeHM1VGlCYWdrMTBsWjRSMEVWcFZFYnhWcTFRY2d5c2tUVnRTVDZmOHg0S3Zwa3lMSThjd1pkaHBBVW5zNENZOXV1RlhlZzQ2OFc2R0NMS0tuRjZXWUdoWWJCenR1c3dGLQ?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 13:11:00 GMT"
     },
     {
-      "headline": "Remote jobs paying $83K+ with low experience requirements",
-      "background": "General jobs listicle unrelated to UX or product practice.",
+      "headline": "Chase 2027 summer analyst program open",
+      "background": "JPMorgan Chase's Leadership Development Program periodically opens applications for summer analyst roles targeted at students interested in finance and business.",
       "keyFindings": [
-        "Article lists 13 remote roles paying above $83,000 annually that claim to require minimal prior experience"
+        "Applications are open for Summer 2027 analyst positions",
+        "The program is targeted at early-career candidates, likely undergraduates",
+        "No UX, product, or tech-specific tracks are mentioned in the snippet"
       ],
-      "implications": "Not relevant to UX, product, or tech practice as a discipline. No actionable insight for this audience.",
+      "implications": "Not directly relevant to UX, product, or tech practitioners. May be of interest to students exploring finance-adjacent career paths.",
       "tags": [
-        "Jobs"
+        "Internships",
+        "Early career"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "FinanceBuzz",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11enhYTUExY3gxM05RTDRpUHZyOUNDTjRkM25SREp3RXdIQ1YzMUZtUlRrT3F0WmRjRzl0VjRsUi1ZbnBQdU92QkFIQTJ4US1oNDlLZEk0MnFIU1BDTUkxX2VHWk1ab2xZRTJQWDkzaXZFUDlJSy14Sg?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 11:30:00 GMT"
+      "source": "Opportunity Desk",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSUh5eEptRElCNWl5NV92aC1tRnVuRnFWMmlXSEcydVZ3WWYxTGZkWTdpcjFQUWg1SVJyN1pLUGNLSGszNkVNbDZIekhzUlYxdnQ2RW1yTHdXeEN5VkJaa21NOU5INWNhSnZ5OFRGTlpIUC1KVjFIZXNvTWZ0eE1Sd3ZncVBaempqS1RRc3BqUG11bFpuYjh3dHlEZG4?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 12:02:00 GMT"
     },
     {
-      "headline": "Designer reconstructs 1986 visual era in new project",
-      "background": "A designer named Elena du Plessis has undertaken a project recreating or referencing 1986 visual and design aesthetics.",
+      "headline": "Sixteen short video app development firms ranked",
+      "background": "Short-form video remains a high-growth app category, and teams scoping development partners have limited curated vendor resources to reference.",
       "keyFindings": [
-        "Project involves reconstructing or reimagining design artifacts and visual language from 1986"
+        "The piece lists 16 companies specializing in short video app development",
+        "No methodology for ranking or selection criteria is stated in the snippet",
+        "Coverage appears to be a vendor directory rather than an independent comparative analysis"
       ],
-      "implications": "Insufficient detail in available content to assess relevance or craft implications for working practitioners.",
+      "implications": "Treat as a starting list for vendor discovery only. No independent vetting criteria are described, so due diligence on individual firms is still required.",
       "tags": [
-        "Visual Design",
-        "Design history"
+        "Mobile development",
+        "Vendor selection",
+        "Short-form video"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "NWU News",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TdkItSTNRM2FZM1Z5UnN1VTdUQ2R0b2ZHUGtKcHBZM2tqdDBkaUUzM0xSdUNSdzFNaFJWa01CZUlIcDE5VE51eUlfVEZJTVAwQlZIcklYSmhfNEIzdjlaYkhTeklJZmZvajJ6d1JB?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 11:21:25 GMT"
+      "source": "WhaTech",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNXVxMF9KSUVjUUQ1YkdXUE1mWjVGMGYyX3FLRHRHRm40bUt5R1ZCNnhNbzE0ZFZhZ1JuaVRKa2h4X3MycnlmNGpOUnE3cEJqbnctVWpQUVVObWJhZDQzMjVIT1pKejBXVHlDNTJnbGNjb01QZkJsZndfQkRuTUNrX3djV3NMdnBlNmdpZmdlVHc1c3hMa3Y4MDdGcm12VDRlZmM40gGjAUFVX3lxTE01dXEwX0pJRWNRRDViR1dQTWZaNUYwZjJfcUtEdEdGbjRtS3lHVkI2eE1vMTRkVmFnUm5pVEpraHhfczJyeWY0ak5ScTdwQmpudy1ValBRVU5tYmFkNDMyNUhPWkp6MFdUeUM1MmdsY2NvTVBmQmxmd19CRG5NQ2tfd2NXc0x2cGU2Z2lmZ2VUdzVzeExrdjgwN0ZybXZUNGVmYzg?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 10:58:50 GMT"
     },
     {
-      "headline": "Dubai app studio DXB APPS claims regional leadership",
-      "background": "Press release-style coverage of a mobile development company's market positioning in the UAE.",
+      "headline": "Appikr Labs adds AI capabilities, targets UAE market",
+      "background": "Regional AI-powered mobile development services are expanding in the UAE as demand for app development with built-in AI features grows across the Gulf region.",
       "keyFindings": [
-        "DXB APPS is positioning itself as a top mobile app development firm in Dubai based on unnamed criteria"
+        "Appikr Labs has announced expanded AI-powered mobile development services specifically targeting UAE clients",
+        "The announcement is a press release and contains no third-party validation or case study data",
+        "No specific AI technologies or differentiators are described in the available snippet"
       ],
-      "implications": "This is vendor PR, not editorial content. No findings applicable to UX or product practice.",
+      "implications": "Not independently verified reporting. Relevant only for teams in the UAE actively sourcing mobile development partners with AI integration capabilities.",
       "tags": [
-        "Mobile development"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "The National Law Review",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZGRKY0ZrUUdzTTRVWFVwN2MxUE4zZ2wxdjF4c2hXTzcxZVlMNFh6M0ZnX0pFa1RKcmM0cU4wVFRCS1NCdlhSTnI3UEp0bzBUMHFBaFBjSjBmZXpjZVgtRkI3T3RPMlVWZ20tN2c2aVJtMk1rWlpRZEtEYzI1VXBrc1JtV01kemRuSXJFSElveWNKbG9zanNrbUpWNGNvSHltMGNFX2I5eFI?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 11:11:01 GMT"
-    },
-    {
-      "headline": "Evidano launches AI-native qualitative research platform",
-      "background": "Qualitative research in UX is time-intensive, and a wave of AI-assisted tools are now targeting the synthesis and analysis stages of user research workflows.",
-      "keyFindings": [
-        "Evidano is positioned as an AI-native platform specifically for qualitative research, suggesting automation of tasks like tagging, theme extraction, or interview synthesis",
-        "The 'AI-native' framing indicates the product is built around AI capabilities rather than retrofitting AI onto legacy research tooling"
-      ],
-      "implications": "Worth evaluating if your team runs high-volume qualitative research and spends significant time on synthesis. Validate any AI-generated theme extraction against raw data — accuracy and bias in qualitative AI tools remain an open problem.",
-      "tags": [
-        "Research tools",
+        "Mobile development",
         "AI tools",
-        "Qualitative research"
+        "Regional markets"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Dynamic Business",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZnU5ZmhyM3NaYW1TdTFPWTRRekk5VHN3dmlqWEd0VVozZHJ6UlFWbTFoOFlRT2I3X0ZmbDFZdjBqZDUwRXloNEVBaVVNc1RYOVA3NDBxaGNCV0QtRlVBWVZnbDhmUVpZLTJHbTdzTndmNktPRTY1NDRSVmhJLUdSNzRvZ2JrTjNZM0NV?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 11:04:54 GMT"
+      "source": "Issuewire",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWW5hWTI2NXhYYTlSbVVXZ0FqQWtsdnY0WmJhY3pOalhIU3hRRW5OUlRiMzR4YklqVVhPTUYxUzBveGFwNEZwRVdWcFBreGhka3J5N1JlMVhBc1lPOHJ6WHZidFJhNjI3eVFERlRkSENLQ3ctTHJLWDRPVnNWWERHdDcyeV9SanJUa2s1OG1jRloyVTNDZ0lKUGtpbl91cm4tR2kwODVHUUFJWGxaNi1jQUxmaFJ3eUtoQjlWRw?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 10:57:41 GMT"
     },
     {
-      "headline": "Nigerian designer's fees range from ₦500 to ₦200,000",
-      "background": "Compensation and market rate visibility for designers in African markets is limited, and there's a growing conversation about pricing equity and sustainable freelance practice outside Western markets.",
+      "headline": "Figma cuts AI tool pricing in half to grow adoption",
+      "background": "Figma has been rolling out AI-powered features across its platform, but uptake has been uneven. A 50% price reduction suggests the company is prioritizing volume and habit formation over near-term revenue from AI features.",
       "keyFindings": [
-        "A Nigerian designer's per-project fees span from ₦500 (less than $1 USD) to ₦200,000 (roughly $130 USD), illustrating extreme rate variance in the local market",
-        "The piece surfaces the tension between local market pricing expectations and the skills required to compete globally"
+        "Figma reduced pricing on its AI tools by 50%",
+        "The move is explicitly framed as a volume strategy, not a response to competitive undercutting",
+        "No details on which specific AI features are affected or whether this applies to all plan tiers are available from the snippet"
       ],
-      "implications": "Useful context for anyone hiring, partnering with, or supporting designers in Nigerian or broader West African markets. Rate disparities this wide often signal unclear scope definition, client education gaps, or absence of professional pricing norms — problems that affect work quality and designer sustainability.",
+      "implications": "Teams that held off on Figma AI features due to cost should re-evaluate now. For product and pricing strategists, this is a live example of the land-and-expand model applied to AI feature adoption within an established tool.",
       "tags": [
-        "Designer compensation",
-        "Global design markets"
+        "Figma",
+        "AI tools",
+        "Pricing strategy"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Techloy",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xUjZVYlZheDRjd3N4a1h0TzlJaUNXQ25WZHVVaXgzeC1GZUhfZnFDQTNhbEI1bW9iaFRLVnExVVBtSmRqQ01oWGxQVUdQSXB0RmkyMVRkVVJXbGhMa0dpbXhpelUyT0c1QWlWbnFJY0MtTUk3dFk4bkdvMGU?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 10:42:46 GMT"
+      "source": "AIM Media House",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc19wSnpmXzVscml6cl9ucFpNdkRHNjZHVE15Zng1LWhnbjY2Y1RkX2pNRVJ3RVg3dHppQ1BUSUJuZGl0UjZBaGd2VGxIc3Z2TjJiT0dScVN1YUhFa0FZRWNDLVViRXZQeGFvVVZBb3lNTzZSYWtCek1iTHJ6LVhzeFRfWUFfQmtETHZfbm16ZmhvRGdaWlE?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 10:48:07 GMT"
+    },
+    {
+      "headline": "Buttonless interfaces put UX designers' role under pressure",
+      "background": "The rise of conversational and intent-driven AI interfaces is challenging the foundational assumption that UX design means designing visible UI components. Some practitioners argue this requires a redefinition of the discipline itself.",
+      "keyFindings": [
+        "The piece argues the web is moving toward intent-driven experiences where traditional UI components like buttons, menus, and forms become optional or invisible",
+        "UX designers are framed as needing to shift from visual interface design to experience orchestration and intent modeling",
+        "No interface is still an interface — decisions about what the system infers and acts on are design decisions, just less visible ones"
+      ],
+      "implications": "Relevant for senior UX practitioners thinking about career positioning and skill development. The practical near-term implication is that conversation design, system behavior specification, and AI prompt architecture are becoming core UX competencies, not specializations.",
+      "tags": [
+        "Conversational UI",
+        "AI interfaces",
+        "Design practice"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Design & dev",
+      "publishedWindow": "today",
+      "image": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
+      "source": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
+      "pubDate": "Wed, 09 Sep 2026 10:00:00 GMT"
     }
   ]
 }
