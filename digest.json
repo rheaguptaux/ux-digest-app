@@ -1,229 +1,229 @@
 {
-  "generatedAt": "2026-09-10T15:56:37.155Z",
+  "generatedAt": "2026-09-11T15:59:18.902Z",
   "items": [
     {
-      "headline": "Design Thinking and Critical Thinking Are the Same Skill",
-      "background": "As AI tools take over more execution-layer design work, there's growing pressure on designers to articulate what uniquely human value they bring. This piece argues the answer has been hiding in plain sight.",
+      "headline": "Sliders Often Make Decisions Harder Than Necessary",
+      "background": "Sliders are a common UI pattern for letting users set values across a range, but there's ongoing debate about whether the apparent flexibility they offer actually helps users make better decisions or just adds friction.",
       "keyFindings": [
-        "The author maps design thinking stages directly onto classical critical thinking frameworks, arguing they share the same underlying cognitive moves: questioning assumptions, evaluating evidence, synthesizing conclusions.",
-        "The piece positions AI as a threat specifically to designers who treat design thinking as a process checklist rather than a reasoning practice.",
-        "The argument implies designers who can articulate their reasoning — not just their output — will be harder to automate or sideline."
+        "Users frequently don't need or want the precision a slider implies — they just want a reasonable result fast.",
+        "Discrete options (e.g. small/medium/large) can outperform free-range sliders by reducing cognitive load and anchoring decisions.",
+        "Sliders tend to perform worst when users lack a strong prior preference or domain knowledge to guide their input."
       ],
-      "implications": "If you're making the case for design's value inside an AI-augmented product org, reframing your work as structured critical reasoning (not creative intuition) may land better with engineering and product stakeholders. Worth stress-testing whether your own practice actually reflects this or just borrows the vocabulary.",
+      "implications": "Before defaulting to a slider, audit whether users actually need granular control or whether 3–5 labelled options would serve them better. Sliders may be appropriate for inherently continuous values (volume, brightness) but are often a poor fit for preference or budget inputs.",
       "tags": [
-        "Design Thinking",
-        "AI in Design",
-        "Design Leadership"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1500/1*6XfOw9gddXPf-i5kH1oOaw.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@neha.rustagi2910/youve-been-thinking-critically-this-whole-time-you-just-didn-t-know-it-8a18f16ca77e?source=rss------product_design-5",
-      "pubDate": "Thu, 10 Sep 2026 15:50:46 GMT"
-    },
-    {
-      "headline": "Design Systems Aren't AI-Ready If Their Logic Is Invisible",
-      "background": "Teams are increasingly connecting AI coding and design tools directly to their design systems, expecting them to make appropriate component choices autonomously. This piece identifies a structural gap most teams haven't addressed.",
-      "keyFindings": [
-        "AI can match tokens and retrieve components, but it cannot infer the decision rationale behind when or why a specific pattern should be used — that logic typically lives only in people's heads or scattered documentation.",
-        "The piece argues that 'AI-readiness' for a design system requires making governance rules explicit: what the AI is permitted to change, override, or propose.",
-        "Without legible decision logic, AI integration risks producing technically valid but contextually wrong outputs that pass automated checks."
-      ],
-      "implications": "If your team is integrating AI into design-system workflows, auditing which decisions are documented versus assumed is a concrete next step. This is especially critical for systems governing high-stakes or brand-sensitive surfaces. The bottleneck isn't tooling — it's documentation discipline.",
-      "tags": [
-        "Design Systems",
-        "AI Tools",
-        "Governance"
+        "Form Design",
+        "Decision-Making",
+        "Input Controls"
       ],
       "featured": true,
       "type": "opinion",
-      "category": "Product design",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/800/1*h0LFNFEUxSpufIcI4w_5-A.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@pgh.ahmadi/a-design-system-isnt-ai-ready-until-its-decisions-are-legible-1360ac7e163d?source=rss------product_design-5",
-      "pubDate": "Thu, 10 Sep 2026 15:28:02 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1536/1*XaZHLMferUCVn2xi7SUIvg.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@nick.miro/sliders-look-simple-but-they-often-make-decisions-harder-cf2db125ad63?source=rss------ux-5",
+      "pubDate": "Fri, 11 Sep 2026 15:46:18 GMT"
     },
     {
-      "headline": "The Gap Between Designer Ambitions and Industry Reality",
-      "background": "A recurring tension in design careers is the mismatch between design education's aspirational framing and what day-to-day product work actually looks like, especially at large companies.",
+      "headline": "Not Every Game Design Needs to Be Innovative",
+      "background": "There's persistent pressure in the games industry — including iGaming — to treat every product as an opportunity for design innovation, which can distort priorities and resource allocation.",
       "keyFindings": [
-        "The author describes entering the industry expecting creative ownership and finding instead constrained, execution-focused roles inside large organizations.",
-        "The piece reflects on the gap between 'design thinking' as taught and design work as practiced under business and engineering constraints.",
-        "No original research or data is cited; this is a personal narrative piece."
+        "The piece argues that solid execution of established design patterns is often more valuable than novelty.",
+        "Chasing groundbreaking design in contexts where users want familiarity can actively hurt engagement.",
+        "Reliable, expected experiences build trust, especially in regulated or high-stakes gaming contexts."
       ],
-      "implications": "Useful as a sanity check for junior designers or hiring managers setting role expectations, but light on actionable specifics. Treat as perspective, not guidance.",
+      "implications": "For product designers working in mature or regulated categories, pattern consistency and reliability should often take precedence over differentiation. Innovation is a strategy, not a default requirement.",
       "tags": [
-        "Design Careers",
-        "Design Culture"
+        "Game Design",
+        "Product Strategy",
+        "Design Patterns"
       ],
       "featured": false,
-      "type": "opinion",
-      "category": "Product design",
+      "type": "research",
+      "category": "Industry news",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/800/1*x-AdXo9qmk_fy0gAhd-fdw.gif",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@tiwari.dhairya26/design-perception-vs-reality-e68c396b1ef6?source=rss------product_design-5",
-      "pubDate": "Thu, 10 Sep 2026 15:07:12 GMT"
+      "image": null,
+      "source": "iGaming Business",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWx4eWo1cjRHVndjOW1COGI3d0h5WndLM0dCcEVmNnZEeXFOUUxuYy1NWTh4eldwejREMTVmS2RIV3h2a2FpWldxTGhhMThwZWMzaFBQQ3Z3SnpCSzAtTEVqUTRzZGRhQTRDTFB4TnZPNndFa09vSHFwbDhQM1JueHRpQkdjRFlvZGRaNW4yRkNrdWlTVktrZi1XUERXdjl6YlRtUw?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 15:14:54 GMT"
     },
     {
-      "headline": "Users Are Focused on Goals, Not Your Interface Craft",
-      "background": "There's a persistent gap in product teams between internal pride in UI polish and what users actually notice or care about. This piece makes the case that this mismatch has real product consequences.",
+      "headline": "Robots and Humans Pick Orders Better When Robots Lead",
+      "background": "As warehouses integrate robotic systems alongside human workers, a key unresolved question is how to structure their collaboration — specifically who should set the pace and route.",
       "keyFindings": [
-        "Users are task-focused: their attention is on completing a goal, not evaluating component quality, visual consistency, or interaction elegance.",
-        "The piece argues that beautiful, award-worthy interfaces can still fail users if they obscure task paths or introduce cognitive load.",
-        "The implied critique is aimed at teams that optimize for design peer approval over usability outcome metrics."
+        "A controlled study with 60 pickers found that robot-led navigation consistently outperformed human-led and side-by-side configurations.",
+        "Human pickers adapted quickly to following robot guidance without significant resistance or error increase.",
+        "The performance gap was attributed to route optimization, not speed — robots reduced backtracking more than humans naturally did."
       ],
-      "implications": "A useful provocation to run past teams that are over-indexing on polish in design reviews. Pair with actual task-completion data from usability sessions to make it concrete — the argument is well-worn but consistently underweighted in sprint prioritization.",
+      "implications": "For teams designing human-robot collaboration workflows, defaulting to human control may feel intuitive but isn't always optimal. Consider where ceding navigation or sequencing to automated systems reduces friction without undermining worker agency.",
       "tags": [
-        "Usability",
-        "Product Design",
-        "Design Culture"
+        "Human-Robot Interaction",
+        "Workflow Design",
+        "Warehouse UX"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": null,
+      "image": "https://cdn-images-1.medium.com/max/1536/1*5NtkHtIZDYgzjXR0nHCRkg.jpeg",
       "source": "UX on Medium",
-      "link": "https://medium.com/@hamzarashid3214/the-user-is-not-thinking-about-your-ux-98976382e882?source=rss------ux-5",
-      "pubDate": "Thu, 10 Sep 2026 15:01:36 GMT"
+      "link": "https://medium.com/@zecci77/who-leads-the-aisle-what-the-research-says-about-humans-and-robots-picking-orders-together-36a9fbdf9dc3?source=rss------ux-5",
+      "pubDate": "Fri, 11 Sep 2026 14:15:44 GMT"
     },
     {
-      "headline": "Logica Research Hires Director for Financial Services Practice",
-      "background": "Logica Research, a market research firm, announced an internal hire to lead its financial services vertical.",
+      "headline": "Recommendation Systems Quietly Erode User Autonomy",
+      "background": "As AI-driven recommendation engines become standard in consumer products, there's growing scrutiny over whether they expand user choice or subtly constrain it by surfacing only what the system predicts users want.",
       "keyFindings": [
-        "Shruthi Venkatesh joins as Director with a focus on financial services research.",
-        "No methodological changes, research outputs, or client-facing service changes are detailed in the announcement."
+        "Recommendation systems optimized for engagement tend to reduce content diversity over time, narrowing what users are exposed to.",
+        "Transparency about why something is recommended is rarely surfaced at the point of decision, limiting informed choice.",
+        "The piece argues that ordinary product decisions — such as ranking logic and default filters — carry meaningful ethical weight that teams rarely acknowledge explicitly."
       ],
-      "implications": "Personnel announcement with no direct implications for UX or product practice. Low relevance for this digest's audience.",
+      "implications": "Product teams building or refining recommendation features should audit whether their systems create genuine exploration paths or just reinforce existing behavior. Consider surfacing recommendation rationale and building in deliberate diversity mechanisms.",
       "tags": [
-        "Industry News",
-        "Research Firms"
+        "Recommendation Systems",
+        "AI Ethics",
+        "User Autonomy"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2100/0*Glaim9MTZyyddlnN",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@roy_yang/who-is-really-choosing-revisiting-byteys-ai-recommendations-through-the-lens-of-autonomy-b93152ad0a22?source=rss------product_design-5",
+      "pubDate": "Fri, 11 Sep 2026 14:01:04 GMT"
+    },
+    {
+      "headline": "Beautiful App UI Doesn't Guarantee a Smooth Order Flow",
+      "background": "There's a persistent assumption that visual design quality correlates with usability, but checkout and ordering flows regularly expose the gap between aesthetic polish and functional clarity.",
+      "keyFindings": [
+        "Visually well-designed apps can still create ordering failures when information hierarchy doesn't match user intent at the point of decision.",
+        "Common failure points include unclear quantity selection, ambiguous CTAs after a product is chosen, and confirmation steps that feel redundant or unclear.",
+        "The piece uses a concrete customer journey scenario to show where UI polish masks underlying flow problems."
+      ],
+      "implications": "UX reviews of commerce flows should be conducted task-first, not screen-first — evaluating whether each step serves the user's immediate goal rather than whether it looks cohesive. Visual QA and flow QA need to be separate processes.",
+      "tags": [
+        "E-commerce UX",
+        "Checkout Flows",
+        "Usability"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1254/1*HgM2qNm5zOdx0427qcOmbg.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@waqaskhanlla/your-app-can-look-beautiful-and-still-make-ordering-difficult-2ccf477a306f?source=rss------ux-5",
+      "pubDate": "Fri, 11 Sep 2026 13:07:30 GMT"
+    },
+    {
+      "headline": "How to Build a UX ROI Case That Holds Up",
+      "background": "UX teams regularly struggle to secure budget and executive buy-in because design value is hard to quantify in business terms that resonate with finance and leadership stakeholders.",
+      "keyFindings": [
+        "The piece walks through defining a specific, bounded business outcome tied to a design initiative rather than making broad claims about UX value.",
+        "It recommends calculating both the cost of the design work and the cost of the problem being solved, then modeling the delta.",
+        "Causality is flagged as the hardest part to defend — the author recommends identifying a testable mechanism (e.g. A/B test, funnel comparison) rather than relying on correlation."
+      ],
+      "implications": "UX leads preparing investment cases should anchor claims to a single measurable outcome with a defined timeframe, not a portfolio of potential benefits. Boardroom credibility depends on being specific and falsifiable, not comprehensive.",
+      "tags": [
+        "UX Strategy",
+        "ROI",
+        "Stakeholder Communication"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Design & dev",
+      "publishedWindow": "today",
+      "image": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
+      "source": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
+      "pubDate": "Fri, 11 Sep 2026 13:00:00 GMT"
+    },
+    {
+      "headline": "Nielsen Roundup: Experience Beats Skills, AI Use Surges",
+      "background": "Jakob Nielsen's recurring UX roundup synthesizes current research and industry signals across multiple fronts — this edition covers hiring trends, AI adoption rates, and several interface-specific topics.",
+      "keyFindings": [
+        "Employers are increasingly prioritizing demonstrated experience over skill credentials when hiring UX roles, according to recent hiring data cited.",
+        "AI tool usage among knowledge workers is reported to be growing exponentially, not linearly, with dependency concerns rising alongside adoption.",
+        "GPT Image 2.5 and the 'undo' interaction pattern are both flagged as noteworthy developments worth tracking for product and design practitioners."
+      ],
+      "implications": "For UX practitioners, the experience-over-skills hiring signal suggests portfolio depth and case study quality matter more than certification. Teams integrating AI tools should also be proactively evaluating dependency risks in their workflows.",
+      "tags": [
+        "Hiring Trends",
+        "AI Adoption",
+        "Industry Research"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "einnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3FDa3RxbGI2TlR3V1dRVTdGcUhlY3FWTTlUc1BHdXBjT0JlM3dhTzM4ODlHUFljajdETGFUMWVCVjFQZm5talZuaTczZGVRUFJsZlFpRW1sVEFVTGs0dHR3NFVsbEZRVW1PZlExblZlbkhRMy1UUldFc1U0dU5RaEd5YjVxbkZrZC1uYUp5b2NmT0hUSzlhMUJkLWpWUmFsQUJRRTU4NHJ2aTROcUV4WEtUVl95ZjJBZ2gxaGNMd2ZZWFRILWl1eVd3?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 14:30:00 GMT"
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92SFhCTnJKQmVUSE9iUkZ6TnV2RzJtVVhscGN3dGNodVU0c1Y0MGVIY25tNjlPWGNFUURmS3pyb0U4S1J0RnlUaVFIc2liSFY4dnJLcEpPRm9FbmRWZ2EtTGtaaXpYM2x2RXc?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 11:21:42 GMT"
     },
     {
-      "headline": "Apple's iPhone Duo Reportedly Rethinks Core Interface Structure",
-      "background": "Apple has faced sustained criticism that iPhone interface conventions — home screen, app grid, navigation patterns — have changed little in fundamental ways despite incremental updates. A new form factor report suggests a more structural shift.",
+      "headline": "Irish Tourism Young Talent Spotlight: Not Relevant Here",
+      "background": "This is a business profile piece covering young professionals in the Irish tourism industry, unrelated to UX, product design, or technology.",
       "keyFindings": [
-        "Fast Company reports Apple's iPhone Duo introduces interface changes significant enough to be described as inverting existing conventions, though specific interaction model details are not available in the snippet.",
-        "The 'Duo' naming suggests a dual-screen or split-surface form factor, which would have direct implications for app layout and navigation paradigms.",
-        "No release date or confirmed hardware specs are included in the available excerpt."
+        "No UX, product, or technology findings applicable to this digest.",
+        "Content is sector-specific to Irish tourism and hospitality.",
+        "Appears to be a listicle or awards feature with no research or design insights."
       ],
-      "implications": "If the form factor changes are as significant as reported, app developers and UX teams targeting iOS will need to revisit layout assumptions, especially around single-column navigation and thumb-zone conventions. Watch for Apple developer documentation updates before designing to this.",
+      "implications": "Not applicable to a UX, product, or tech audience. No actionable takeaways for this readership.",
       "tags": [
-        "Mobile Design",
-        "iOS",
-        "Form Factor"
+        "Off-Topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Fast Company",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcDAzS2Y5N1NRVHZ1OEVwQXd2RUhTcXRCNTV5VEhoRzZ5WG04bHZkT2pOU0NLUWhHV2lzTGV5VUxoaVZWWEJxMlJoNmI1aC1DRXpMMkJtTzRsMWZDdWVEUFpZOUZkb0RWY0Q5a1B4WHU1SnZEbTZlblpheGxyU0NFZG5pcm1yYm9hNTlXY2VTSUg3enBTWnRkRg?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 10:19:20 GMT"
+      "source": "businessplus.ie",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZVlg4UHJjMGoxY1pPVG5RdkhnNmVQMEw4dTFXYlNYcG00UW1DRHg4MWlCWkxPTG1wV19kc0tXcGpMb1l1NTVUOFliQXd2cHZWSGFpS0FJZXFmNjFwaFRBSmNhSFVJRjZHN0pSX2tpRzlVZw?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 11:00:00 GMT"
     },
     {
-      "headline": "UXcon Vienna Programme Targets Dark Patterns and Fintech",
-      "background": "UXcon Vienna is an annual European UX conference. The 2025 edition is drawing attention for a programme that directly addresses regulatory and ethical pressure points in digital product design.",
+      "headline": "Training Institute Award Notice: Not Relevant Here",
+      "background": "This is a press release announcing an award given to a computer training institute in Gujarat, India. It has no substantive UX, product, or technology research content.",
       "keyFindings": [
-        "The conference programme explicitly features dark patterns, AI ethics, and fintech UX as core tracks — areas under active regulatory scrutiny in the EU.",
-        "The timing aligns with EU enforcement of the Digital Services Act and ongoing scrutiny of deceptive design practices by the European Commission.",
-        "No speaker list or specific session details are available from the snippet."
+        "Promotional press release with no research, findings, or design insights.",
+        "Not relevant to UX, product, or technology practice.",
+        "No actionable content for this digest's audience."
       ],
-      "implications": "Worth tracking for UX practitioners working in fintech or regulated digital products in Europe. The dark patterns track in particular may surface defensible design benchmarks ahead of regulatory deadlines.",
+      "implications": "Not applicable. No takeaways for UX, product, or tech practitioners.",
       "tags": [
-        "Dark Patterns",
-        "Fintech UX",
-        "Regulation"
+        "Off-Topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "FinTechRadar",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUDlqdTBUMmVmVzd4Rkt2QWl1eUJRS3Y3LWNHSVRIZzE2UVMyNkJ4N0dvaVpISW1LaXlJanViSjRaODhkbEc3U3VlUXR1SE9qNllFWkxvblVZaFdMOExUbnFYRElKcFBRTWpxT19FNVF5WG93a2hDRUJBTkFsSnZvbE5hVFh4Z3Ridm9UN21UTUhvNDlpX3kyTXliZUlTb3ctYXEtc3RKZVFydU9WSUNlWW9WSQ?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 10:18:29 GMT"
+      "source": "Issuewire",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTnR3TXdWTHRtUUFJYThYNjNGWEo5YVd2NGVhTmo2cmx2NXd1RUdNWEpVNFFPWEtCY09GeHR2QUlkLVNmcndGN0FqY01CdjRDaXhPM2g0SjFFdEUyM0JCdTZqbmdBa1FYWEdUY2lXcWh3ekYyUDlySlVhb2QtWVhzU1NTd1pZbk5KcWlraFVSbXZwMTdXTEZqMGJpZHNMYnhBV0g4SWlpZHE0UmZTblBPT3VsZVN2V3NYLXQ0UHlUb0d4c3JoUHluMGc4bWRoNUN0WF9JVlBrQmVVZkpyazZoeXJQdjdySUQ1WTkwcnpPbWs?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 09:09:33 GMT"
     },
     {
-      "headline": "Roundup: Top UX Agencies for Regulated Health Tech in 2026",
-      "background": "Health tech products face compounding UX constraints: FDA or CE regulatory requirements, clinical workflow integration, and accessibility mandates. Procurement teams and health tech startups frequently struggle to identify agencies with genuine experience in this space.",
+      "headline": "Real Estate App Dev Company Listicle: Not Relevant Here",
+      "background": "This is a vendor listicle ranking app development companies by market presence, not a research or design piece.",
       "keyFindings": [
-        "Technology.org has published a curated agency list specifically scoped to regulated health tech — a narrower and more useful cut than generic 'top UX agency' lists.",
-        "The 2026 framing suggests forward-looking criteria, though without the full article it's unclear whether selection methodology is disclosed.",
-        "No specific agencies, ranking criteria, or regional scope are available from the snippet alone."
+        "No design research, UX findings, or product strategy insights present.",
+        "Content is a commercial directory listing disguised as editorial.",
+        "Not useful for practitioners seeking substantive UX or tech knowledge."
       ],
-      "implications": "Potentially useful for health tech product leads evaluating agency partners, but verify the selection methodology before relying on rankings — many such lists are pay-to-play. Look for agencies with documented 510(k) or CE marking experience specifically.",
+      "implications": "Not applicable to a UX or product practice context. Vendor lists of this type are marketing content, not reference material.",
       "tags": [
-        "Health Tech",
-        "Agency Selection",
-        "Regulated Products"
+        "Off-Topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Technology Org",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BQ1B3QmFza1o1Yk1OOWhHWkliOVBQM1pBazFXSnM5LThEeGxjbUVNZDJtN2duaDdvM0dYek1VUHduYUZDckZQQ1J5UDNfWDdSQWhya3lqcWEtZGxpR3dWSmFSZWc3dHcwUU95QTNVN09MSDJ6eW1fOWhJNjU?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 09:54:12 GMT"
-    },
-    {
-      "headline": "Apptunix Publishes Promotional Content on Mobile App Development",
-      "background": "Mobile app development agencies regularly publish capability-positioning content framed as industry insight.",
-      "keyFindings": [
-        "This is a vendor press release from Apptunix promoting its custom mobile application services.",
-        "No research findings, product data, or industry analysis are present in the available content."
-      ],
-      "implications": "No meaningful signal for UX or product practitioners. Vendor marketing content.",
-      "tags": [
-        "Mobile Development",
-        "Industry News"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Menafn",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb1dES19LcnV4ZDZmSWFuNmRZM3Q1a1BldWxWQkdNakViQWpiMWgyMXJFM244LXI3WmlZVnZ4UUM5REZKOXZQNWM3cC1JcFNZazR1VE55MzhScFozRU1Xa19kcFVmUDJnZ19qVzBCb1NHS1VlQUJHbHlFNTg2RTViN3FFc3N2a0wwTnh0VU5SSE5scVdHMk95bFpRdUxEREpZMFdZRG9YS05jNnowanVQdWVmcTA4WHdsblVMNTZ3?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 07:02:32 GMT"
-    },
-    {
-      "headline": "Hyundai Mobis Shows 60 Future Mobility Technologies at R&D Event",
-      "background": "Automotive suppliers are competing to position themselves as technology platforms as vehicle interfaces and autonomous systems become primary product differentiators.",
-      "keyFindings": [
-        "Hyundai Mobis showcased 60 distinct future-mobility technologies at its Korea R&D Tech Day, spanning what is likely a range of in-vehicle UX, sensing, and electrification systems.",
-        "No specific technologies, interaction paradigms, or UX-relevant details are available from the snippet.",
-        "The event appears to be an internal R&D showcase rather than a public product launch."
-      ],
-      "implications": "Minimal actionable detail from the available excerpt. Relevant to automotive UX practitioners tracking supplier-side investment in in-vehicle interfaces, but requires the full report for anything specific.",
-      "tags": [
-        "Automotive UX",
-        "Future Mobility"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWWNDa0RSUzBwQS1vMkR0bjBuWEh1SXlsdEgtSXNJWmpSemU3MnV2N3JxekFoc1ZqQmlmcEtBZV96NFhDZURsaHhBekpTYUxaSjdsQVlyNEd5eWozdlk4U05oa2pCdlNVSm1IdTJLQ2gwemlNQXlMTEpGUEMzX243X1R30gGWAUFVX3lxTFBxNmdGTmltVHpHTW5LZjV1N2JzcTFqQU5uOU4xelFtZHNRYVBFZ0dnM3VMY2xaZWUxeXpxdndDS0hWYm90eXRyQWJmMmpVcmU5eWJTUTZiSi04UEgtOEhBSkstZVB4QVBTbEk3aUFoOXlqb255UlFKcnN4TTU2N0JVbk9zamUtNjJfdzR3M01OZUZfLVB3dw?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 02:00:00 GMT"
+      "source": "WhaTech",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNalZmb0c5SkR4V0gtaTZOTDhadFFzVjc4OVl1dnNYZUlSOXFFU3pOVHBZM2lTRlAwMTlZdElrTVk5VVBxZ0JMRERmTUoxV0p5aE1VRkRTYkhNUUZsLXlpUGpIVmswckZVamFyTkM1VVFtQU1ULXYxMjNNdFlwb0xtOHlWMkhvMExPOEJaTjd6N2lTVkpaUHJ2Q3NzV25YUy1jaDlqYjNtaTRQTklmODNGUkFRb3E3Z0psRUEtbFJWX2tmUdIBwgFBVV95cUxNalZmb0c5SkR4V0gtaTZOTDhadFFzVjc4OVl1dnNYZUlSOXFFU3pOVHBZM2lTRlAwMTlZdElrTVk5VVBxZ0JMRERmTUoxV0p5aE1VRkRTYkhNUUZsLXlpUGpIVmswckZVamFyTkM1VVFtQU1ULXYxMjNNdFlwb0xtOHlWMkhvMExPOEJaTjd6N2lTVkpaUHJ2Q3NzV25YUy1jaDlqYjNtaTRQTklmODNGUkFRb3E3Z0psRUEtbFJWX2tmUQ?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 08:31:04 GMT"
     }
   ]
 }
