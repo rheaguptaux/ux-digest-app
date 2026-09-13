@@ -1,225 +1,232 @@
 {
-  "generatedAt": "2026-09-12T15:07:52.360Z",
+  "generatedAt": "2026-09-13T15:43:46.099Z",
   "items": [
     {
-      "headline": "Apps win by selling feelings, not feature lists",
-      "background": "Product teams default to shipping features as their core value proposition, but retention data increasingly points to emotional experience as the stickier differentiator. This piece uses a real onboarding redesign as a case study for that argument.",
+      "headline": "Medium's word game hides a vocabulary lesson inside it",
+      "background": "Medium launched a word game called Good Words, positioning it as an extension of its writing-platform identity. These two pieces cover the same product from overlapping angles — one focused on the experience, one on the design conceit.",
       "keyFindings": [
-        "A redesigned onboarding flow with personality-driven microcopy and subtle transitions outperformed a feature-led version on early retention metrics",
-        "Apps users describe as 'addictive' are more consistently associated with emotional states (calm, confidence, delight) than with specific functionality",
-        "The team found that naming the feeling they wanted users to have before designing the interaction changed the output significantly"
+        "Good Words is a Boggle-style game with a three-minute round format",
+        "Each round ends with the player receiving a new vocabulary word to retain",
+        "The mechanic is designed to make word acquisition feel incidental rather than instructional"
       ],
-      "implications": "Before scoping a new flow or feature, define the target emotional state explicitly — not as a brand adjective but as a testable user experience goal. Applies especially to onboarding and empty states where functional value hasn't landed yet.",
+      "implications": "Interesting as a case study in embedding a brand's core value proposition (literacy, writing craft) into a game loop without making it feel didactic. Relevant to teams designing habit-forming or educational product extensions.",
+      "tags": [
+        "Gamification",
+        "Content products",
+        "Engagement"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*WCsiVs78Sg4bg3lkTGPLuw.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/the-common-room/every-round-of-mediums-new-game-leaves-you-a-little-richer-8e65ed755bcf?source=rss------product_design-5",
+      "pubDate": "Sun, 13 Sep 2026 15:04:37 GMT"
+    },
+    {
+      "headline": "Medium's word game hides a vocabulary lesson inside it",
+      "background": "Duplicate entry covering the same Medium Good Words product launch from a slightly different editorial angle — see article 1 for full context.",
+      "keyFindings": [
+        "Good Words is framed as Boggle with a writing-platform twist",
+        "The vocabulary delivery mechanic is the differentiating design choice",
+        "Medium is using game design to reinforce its identity as a language-focused platform"
+      ],
+      "implications": "Both pieces together suggest the vocabulary mechanic is the story, not the game itself. For product teams, this illustrates how a single differentiating feature can anchor an entire product narrative.",
+      "tags": [
+        "Gamification",
+        "Content products",
+        "Product identity"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*U09JCIEd2L4DvGS5YpY5qg.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/the-common-room/medium-launched-a-word-game-and-buried-a-vocabulary-lesson-inside-it-6eab7dfcdc39?source=rss------product_design-5",
+      "pubDate": "Sun, 13 Sep 2026 14:48:59 GMT"
+    },
+    {
+      "headline": "How a no-code builder improved conversion and retention",
+      "background": "No-code website builders face a well-documented retention problem: users sign up with high intent but drop off before building anything meaningful. This case study examines Websites.co.in's approach to that gap.",
+      "keyFindings": [
+        "The study focuses specifically on the conversion-to-retention funnel, not just acquisition",
+        "Identified friction points in the onboarding flow as a primary drop-off driver",
+        "Proposed and tested design interventions targeting early user activation"
+      ],
+      "implications": "Useful for product designers working on SaaS or no-code tools where the gap between signup and first value is wide. Onboarding friction at the template or first-build stage is a known high-risk moment worth auditing.",
       "tags": [
         "Onboarding",
-        "Emotional Design",
-        "Retention"
+        "Retention",
+        "No-code tools"
       ],
-      "featured": true,
+      "featured": false,
+      "type": "opinion",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/686/1*dL90GuY0Y2n1NTN1iYlJgA.png",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@sejalpal879/improving-conversion-retention-for-a-no-code-website-builder-b9991946f874?source=rss------ux_research-5",
+      "pubDate": "Sun, 13 Sep 2026 14:40:07 GMT"
+    },
+    {
+      "headline": "Ad-to-landing-page mismatch kills conversions — here's why",
+      "background": "Message match — the degree to which a landing page reflects the specific promise made in the ad that brought someone there — is a long-standing conversion optimization principle that is routinely ignored in practice.",
+      "keyFindings": [
+        "Users who click an ad for a specific product and land on a generic homepage face immediate context collapse",
+        "The mismatch creates distrust and increases bounce rate regardless of landing page quality in isolation",
+        "Specificity of the ad offer must be mirrored in the landing page headline, imagery, and CTA"
+      ],
+      "implications": "Directly actionable for anyone running paid acquisition or designing landing pages: audit whether your page fulfills the exact promise of each traffic source. Generic homepages as ad destinations are a consistent, measurable conversion killer.",
+      "tags": [
+        "Conversion optimization",
+        "Landing pages",
+        "Paid acquisition"
+      ],
+      "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1675/1*28ykAVZmXpz9iSg-_DKYSQ.png",
+      "image": "https://cdn-images-1.medium.com/max/1122/1*NVk43GSl_WQC6khNItfHaA.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/@dhairya.patel1104/feelings-are-the-new-features-why-the-most-addictive-apps-sell-feelings-not-features-6755c6feb79b?source=rss------ux-5",
-      "pubDate": "Sat, 12 Sep 2026 14:41:36 GMT"
+      "link": "https://medium.com/@waqaskhanlla/your-ad-made-a-promise-does-the-landing-page-keep-it-900c421fc353?source=rss------ux-5",
+      "pubDate": "Sun, 13 Sep 2026 14:12:21 GMT"
     },
     {
-      "headline": "Same cushion, different comfort: context shapes ergonomics",
-      "background": "Ergonomics product marketing typically presents comfort as a fixed, universal property, but the physical conditions of driving versus desk work are meaningfully different. This piece breaks down why the same product can perform differently across those two contexts.",
+      "headline": "AI builds interactive websites — a surface-level how-to",
+      "background": "A wave of tutorials is positioning AI coding tools as sufficient for building interactive web products without traditional development skills.",
       "keyFindings": [
-        "Vibration from vehicle engines changes how pressure distributes across a cushion, making firmness requirements different from static desk sitting",
-        "Airflow and seat pan shape in car seats versus office chairs affect whether a cushion's base material stays supportive or compresses",
-        "Adjustability matters more for driving due to fixed seat geometry that can't be modified the way office chairs can"
+        "Article promotes AI-assisted website building as accessible to non-developers",
+        "No specific tools, success metrics, or limitations are named in the available snippet",
+        "Content appears to be promotional or tutorial-style rather than research-based"
       ],
-      "implications": "Relevant for anyone designing or evaluating physical products across multiple use contexts — the principle that environmental conditions redefine comfort thresholds applies directly to hardware and wearable UX testing protocols.",
+      "implications": "Insufficient detail in the available content to extract reliable findings. Treat with caution — this category of content frequently overstates AI capability without addressing maintainability, accessibility, or edge-case handling.",
       "tags": [
-        "Ergonomics",
-        "Hardware UX",
-        "Context of Use"
+        "AI tools",
+        "No-code tools"
       ],
       "featured": false,
-      "type": "opinion",
-      "category": "Product design",
+      "type": "research",
+      "category": "Industry news",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1216/1*tITeN_qJgtsO3L5uZe6sWg.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@Dr.JT/best-seat-cushion-for-driving-vs-office-work-why-the-same-cushion-feels-different-53622930a1f0?source=rss------product_design-5",
-      "pubDate": "Sat, 12 Sep 2026 14:31:17 GMT"
+      "image": null,
+      "source": "markhub24.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS2FmUjByeGFXNjFCSFJMTG9RdnNwWVlNMUZKbnV6UE9WSjlPVUd3Zk9EM1VQVGMxVllJa19kM3RuYU53c3dCa0p1ZkxMOWFKdTc2ek9SOGlDaHV2WGVOVDFGY3pCaXBUSHlEd0EtdlZVS0ZYN192U3gteWFramlFUWpWNUp0bURfcG9OQnRGTVdaZkxoZGNMWGk4VVA1Tms?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 12:07:44 GMT"
     },
     {
-      "headline": "Mentoring juniors: start with what they want, not what you know",
-      "background": "Junior designer mentorship often defaults to a knowledge-transfer model where the senior sets the curriculum. This piece argues for inverting that structure based on a direct internship experiment.",
+      "headline": "Waterford examines a third river crossing — unrelated to UX",
+      "background": "This article covers a local infrastructure feasibility study for a river crossing in Waterford, Ireland.",
       "keyFindings": [
-        "Starting with a single open question — 'what do you want out of this?' — produced a more focused and effective mentorship structure than a pre-planned syllabus",
-        "The only fixed structural element was a 30-minute daily check-in; everything else was built responsively around the intern's stated goals",
-        "The approach shifted the mentor's role from instructor to problem-solver, which the author argues reduced dependence and built decision-making confidence faster"
+        "A feasibility study is being commissioned for a potential third crossing of the River Suir",
+        "The story is regional civil infrastructure news",
+        "No connection to UX, product, or technology topics"
       ],
-      "implications": "If you manage or mentor junior designers, consider replacing your default onboarding curriculum with a structured intake conversation first. Works best when the junior has enough context to articulate goals — may need scaffolding for very early-career people.",
+      "implications": "Not relevant to this digest's scope. Likely included in the feed due to a tagging or aggregation error.",
       "tags": [
-        "Mentorship",
-        "Design Leadership",
-        "Team Development"
+        "Off-topic"
       ],
       "featured": false,
-      "type": "opinion",
-      "category": "Product design",
+      "type": "research",
+      "category": "Industry news",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/0*6kjIV7MGgL1QDlkN",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@sammi121313/how-to-mentor-a-junior-designer-without-teaching-them-first-28d0cd4dab9b?source=rss------product_design-5",
-      "pubDate": "Sat, 12 Sep 2026 13:38:16 GMT"
+      "image": null,
+      "source": "wlrfm.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyR1hTMFloT0NFUUl2M0taam05QkR6OGhzeVF1Q0JPRFYxQ1IyeVdsYWxFdEVvVEN5Nk9KVnBPMUFqNFgyNkdUcENKcU9CaEdPeWJmdWptempDeVNmTFFvWU5maTNIbG9yZElNcU93?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 10:42:06 GMT"
     },
     {
-      "headline": "Uncertainty triggers anxiety — and kills conversions",
-      "background": "Cognitive load research has long identified ambiguity as a friction source, but its specific effect at high-stakes UI moments like payment confirmation is underexplored in practical design writing. This piece focuses on what happens neurologically and behaviorally at those moments.",
+      "headline": "Anthropic mapped seven AI misuse categories — cases weren't representative",
+      "background": "Anthropic published findings on how its models are misused, categorizing abuse into seven areas. The framing caveat — that documented cases are not typical of real-world misuse distribution — is significant for how the findings should be interpreted.",
       "keyFindings": [
-        "The brain registers uncertain outcomes similarly to threat responses, triggering avoidance behavior that manifests as drop-off at confirmation screens",
-        "Micro-interactions that confirm system status in real time — progress indicators, instant validation — measurably reduce perceived risk at payment steps",
-        "Ambiguous button labels and missing feedback loops are the most common culprits identified at checkout abandonment points"
+        "Anthropic identified seven distinct categories of model misuse",
+        "The company explicitly notes that reported cases are not representative of actual misuse prevalence",
+        "The caveat limits the usefulness of the taxonomy for risk modeling without additional real-world incidence data"
       ],
-      "implications": "Audit your highest-stakes confirmation moments — payment, deletion, irreversible actions — specifically for uncertainty signals: missing feedback, vague labels, or gaps between user action and system response. This is a high-ROI, low-effort fix category.",
+      "implications": "For product and policy teams building on top of Anthropic APIs, the seven-category framework is a useful starting checklist, but the non-representative sample means it should not be used to estimate likelihood or prioritize mitigations by frequency.",
       "tags": [
-        "Cognitive Load",
-        "Conversion",
-        "Microcopy"
+        "AI safety",
+        "Trust and safety",
+        "LLMs"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "quasa.io",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFU3cFZpVW5tVE1HemNESGw2eC04Mko1UzYxQW9RR3d5ZXA5Mk9fSUxCZ2M1cmlZYy02czB1blRRYUZ0TzhTU0NzRkZWRmxycnZFZzFnR01FRHZLTHUydlBEcnFGbk0za1JzMTl1RUNwbGw2ZWFzQmtWTVVlSjgwQ0pBOEJrbDZIUFN3aG5TUndENzJqRnRB?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 03:54:43 GMT"
+    },
+    {
+      "headline": "60% of crypto traders switched platforms within two years",
+      "background": "Exchange loyalty in crypto has been assumed to be driven by liquidity and token availability, but platform churn at this scale suggests UX, trust, and fee structures are more decisive than previously measured.",
+      "keyFindings": [
+        "60% of crypto traders moved to a different exchange within a 24-month window",
+        "The finding indicates platform loyalty in crypto is significantly lower than in traditional fintech",
+        "The research frames this as loyalty collapse rather than normal competitive switching"
+      ],
+      "implications": "For product teams at crypto exchanges or adjacent fintech products, this data reinforces that retention strategy — not just acquisition — is the competitive battleground. Trust signals, UX consistency, and fee transparency are likely leverage points worth prioritizing.",
+      "tags": [
+        "Retention",
+        "Fintech",
+        "User switching"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Yellow.com",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMkJNNTdmSktNRHVMYVBXb1VrT3ZPQTdMS3hwck9UNmwyOW9Zb1RicEYwQm41aEE5ZlBuYkhHYk0zS2xpcElUR1VEa3Y0bDVCRWVnZDJpOHVzYUVRc2JlWk9DVDBMT0tEU1hDQXZoanBBTVNybFZwR2YxUndMZVVieUYzRWtrS0laWE1JSnRLM3dRU0F3MW02MHVLbl9kLThTODBlRlhoUjBfMDNIQ084RFpRbllJaDN1WmNvdG1oVG54MHpIQWFxUGRmMXJva0E0a1hOXzZqRTg3VTFNQVFGVFJOcDRkbFUwQjBXSU13UG1VVmp2MmFIdEVDZEYzQQ?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 22:36:16 GMT"
+    },
+    {
+      "headline": "AI prototyping lets you test complex interactions much earlier",
+      "background": "Traditional prototyping tools struggle with complex conditional interactions — multi-step flows, dynamic content, stateful UI — forcing teams to either test late with high-fidelity builds or accept low-fidelity proxies that miss key usability issues.",
+      "keyFindings": [
+        "AI tools now make it feasible to prototype complex, stateful interactions without writing production code",
+        "Earlier testing of complex flows reduces the cost of discovering fundamental usability problems late in development",
+        "The approach is specifically positioned for interactions that are difficult to fake with static or clickthrough prototypes"
+      ],
+      "implications": "High relevance for UX and product teams working on dashboards, multi-step forms, configurators, or any flow with conditional logic. The practical shift is: don't wait for engineering to build a testable version — use AI prototyping to front-load interaction validation.",
+      "tags": [
+        "Prototyping",
+        "User testing",
+        "AI tools"
       ],
       "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
+      "type": "research",
+      "category": "Research",
+      "publishedWindow": "week",
       "image": null,
-      "source": "UX on Medium",
-      "link": "https://medium.com/@hamzarashid3214/your-brain-hates-uncertainty-ac6ca2c4cfa1?source=rss------ux-5",
-      "pubDate": "Sat, 12 Sep 2026 11:58:15 GMT"
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/test-earlier-with-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 11 Sep 2026 17:00:00 +0000"
     },
     {
-      "headline": "Top music streaming dev companies in South Africa — vendor list",
-      "background": "Vendor directory content with no substantive findings, research, or UX relevance.",
+      "headline": "NNG uses AI as an editor, not an author — and explains why",
+      "background": "As AI-generated content proliferates in UX and tech publishing, questions about editorial integrity and expertise accountability have intensified. Nielsen Norman Group is one of the few research-focused UX organizations to publicly articulate its policy.",
       "keyFindings": [
-        "Listicle of development companies with no evaluation criteria disclosed",
-        "No pricing, methodology, or project type data included"
+        "NN/G uses AI for clarity improvements, formatting assistance, and critique during the writing process",
+        "Humans retain full editorial judgment and are responsible for every claim published",
+        "The policy explicitly distinguishes between AI as a writing aid versus AI as a content source"
       ],
-      "implications": "Not useful as a reference for vendor selection without independent verification of any claims. Treat as a starting-point name list only.",
+      "implications": "This is a concrete, replicable editorial policy for any team producing thought leadership, documentation, or research content with AI assistance. The human-accountability principle is the operative line: someone must be able to stand behind every claim.",
       "tags": [
-        "Vendor Directory",
-        "App Development"
+        "AI tools",
+        "Editorial standards",
+        "Content strategy"
       ],
-      "featured": false,
+      "featured": true,
       "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
+      "category": "Research",
+      "publishedWindow": "week",
       "image": null,
-      "source": "WhaTech",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS01iQTM2ZFFKRy13OExNWWdoaEFUMGZSWHpaM1FIdHFOQnBjajhPa0N6NXlCeVAyakxWUkc2S25ZRjhGOWl6VlRnMTBGUzNLc21YMmlHMGdBMVZuWi16TkZZMDRsdklWVndfZlU1N185LVFMQkZwR3JrQmt5R1hBcXk2Vl9EdjZGMUVpeVY3U2oyd0lHazVmOC1ZbC1pWHZzWDRrU0wyTHA2bjFXeG5hUnZGQ1VCNDB2VVpVaFNPdjJPUdIBwgFBVV95cUxOS01iQTM2ZFFKRy13OExNWWdoaEFUMGZSWHpaM1FIdHFOQnBjajhPa0N6NXlCeVAyakxWUkc2S25ZRjhGOWl6VlRnMTBGUzNLc21YMmlHMGdBMVZuWi16TkZZMDRsdklWVndfZlU1N185LVFMQkZwR3JrQmt5R1hBcXk2Vl9EdjZGMUVpeVY3U2oyd0lHazVmOC1ZbC1pWHZzWDRrU0wyTHA2bjFXeG5hUnZGQ1VCNDB2VVpVaFNPdjJPUQ?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 01:30:35 GMT"
-    },
-    {
-      "headline": "QR codes and chantilly cream at restaurant Marcel — no real findings",
-      "background": "Appears to be a brief lifestyle or food media item touching on QR code menus at a specific restaurant, with no UX analysis or data.",
-      "keyFindings": [
-        "Mentions QR code menus in a dining context",
-        "No UX evaluation, user research, or design commentary included"
-      ],
-      "implications": "No actionable UX or product insight present. Not recommended for inclusion in a professional digest.",
-      "tags": [
-        "QR Codes",
-        "Hospitality"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "readfeedme.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVdGNkQU5RMFl2MEZ5bmdwVDFHeXpQNjZCREI2RHdFQ1JJcDFjOUU3RlBnZmpfcDEteXdYNXFReDZUTzEzcktRWXNfUzhkY09ZYWtkVmN2QjNNdzRrbl9kcUVTbkNGNlFzd1dWMnNtQm1POWhMa2c?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 23:15:59 GMT"
-    },
-    {
-      "headline": "Top video streaming dev companies in Montana — vendor list",
-      "background": "Vendor directory with no substantive UX, product, or technical analysis.",
-      "keyFindings": [
-        "Listicle format with no disclosed ranking methodology",
-        "Geographic specificity (Montana) suggests SEO targeting rather than editorial curation"
-      ],
-      "implications": "No actionable insight for UX or product practitioners. Not recommended for digest inclusion.",
-      "tags": [
-        "Vendor Directory",
-        "App Development"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "WhaTech",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMW11dGk0Qnh3SHFPdy1jU1RoSHpERzAyeHpNem51YnlQZ3dPVXpaMldQcWx5aWlYRlNBZ1ZydWhGVk1ndmUxdnZRSGpDTlJ3b1QzazVTNW9fclB0aGdyR1BaQ0VydXJBOEJTdUJFWnFxZ1NKRGxiTlA4Um1WYWZsQlo3T0k2NzN4ekVwZUVtQ0dVWFBxMFpFLUNNVGRWZE93RXJlUFZTVnZFdFJyeEtoZFlYUzEtX03SAbcBQVVfeXFMTzFtdXRpNEJ4d0hxT3ctY1NUaEh6REcwMnh6TXpudWJ5UGd3T1V6WjJXUHFseWlpWEZTQWdWcnVoRlZNZ3ZlMXZ2UUhqQ05Sd29UM2s1UzVvX3JQdGhnckdQWkNFcnVyQThCU3VCRVpxcWdTSkRsYk5QOFJtVmFmbEJaN09JNjczeHpFcGVFbUNHVVhQcTBaRS1DTVRkVmRPd0VyZVBWU1Z2RXRScnhLaGRZWFMxLV9N?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 21:35:16 GMT"
-    },
-    {
-      "headline": "Profile piece on a UX engineer — light on specifics",
-      "background": "Digital Journal profile of Kavya Muppaneni framed around user-centered design engineering, but snippets suggest it is a promotional or contributed profile rather than reported journalism.",
-      "keyFindings": [
-        "Framed around the intersection of engineering and UX, but no specific projects, methods, or outcomes are cited in available text",
-        "Profile format suggests brand-building content rather than reported findings"
-      ],
-      "implications": "No verifiable UX methodology or research findings to extract. May be worth a skim for practitioners interested in UX engineering career paths, but not a reference-grade resource.",
-      "tags": [
-        "UX Engineering",
-        "Career"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Digital Journal",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVmlSYnZ5TVkxOUJCMU1rUkppTWphZzhySzY0ZkdPREVGTGxVMnBOTFNxZUJxbXVudFFTNkZqbzhuOTNWd3ZUeGp2RVZlUGJZY2djaGFhUkp0SEN2NERtY0x0b3RQNUticThGUldlb3RBcGhZMHVYRkJjeTBkbG1ydGZhdUpJdm5kcnRpa1o2bWdhQUIwX2ZzeTg0cElOM0lyMUtMY0tsbF9MR0lVUE5tS21nTlY2UV9ROW80YQ?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 19:25:58 GMT"
-    },
-    {
-      "headline": "University of Toronto posting UX-adjacent roles up to $200K",
-      "background": "Narcity flagged a hiring push at U of T with a wide salary range, but the snippet gives no detail on which roles, departments, or required skills are involved.",
-      "keyFindings": [
-        "Salary range cited is $54/hour to $200,000/year — suggesting a broad range of role levels, not a single position",
-        "No role titles, UX or product relevance, or application details included in available text"
-      ],
-      "implications": "Not enough information to assess relevance for UX or product practitioners. Check U of T's careers portal directly if institutional tech or design roles are of interest.",
-      "tags": [
-        "Hiring",
-        "Career"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Narcity",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZm9PdFJJWkVjZ2JJNklfZXliTS1zeWMxQUhmR05RYncwYjlEMmhpQUI4aUJHUk1QaGdiOFRPWnVUeVVSN3RveXpIc3RDbVFKSVZuVGd2UWtWc1o5ZFFvY3k0X0JZbklRbkhuUlBpRWVDSkNRb3pud0xkTDRZTlpFUTZza1psMG5yd2c?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 18:22:04 GMT"
-    },
-    {
-      "headline": "iPhone 18 Pro and foldable iPhone design details leak",
-      "background": "Apple's hardware design roadmap is perpetually speculated upon, and parametric/architectural design publications occasionally surface CAD-based renders or supply chain leaks ahead of announcements. This piece covers expected form factor changes for the 2026 iPhone lineup.",
-      "keyFindings": [
-        "iPhone 18 Pro is reported to carry forward the titanium frame with refined edge geometry and a smaller Dynamic Island footprint",
-        "The foldable iPhone duo reportedly uses a dual-hinge mechanism distinct from Samsung's single-fold approach, targeting a more tablet-like expanded state",
-        "Display crease mitigation is cited as a primary engineering focus, with a new polymer layer reportedly reducing visible fold lines"
-      ],
-      "implications": "For UX and product designers working on iOS apps, a foldable form factor will require serious layout adaptability work — multi-window states, dynamic type scaling across fold configurations, and interaction model rethinking for hinge-state transitions. Start watching iPadOS multitasking patterns now as a proxy.",
-      "tags": [
-        "Hardware Design",
-        "iOS",
-        "Foldable Devices"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Parametric Architecture",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1cWtoTVBQei1lV2dHZk9vaGI5UmNPSEk1U3BSR1YzbHdZc3hCT21UY2pENVFjMVlneVhjMG5HLU5QU0FnZ2RXVXNDWEMwREkxZ1p5OVYzSm1lSmYybXZicWUwa2tjeGkzZGtQcFNtZ0ltOVVhamc?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 18:00:00 GMT"
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/ai-editorial-process/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 11 Sep 2026 17:00:00 +0000"
     }
   ]
 }
