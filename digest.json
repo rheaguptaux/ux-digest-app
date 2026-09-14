@@ -1,177 +1,202 @@
 {
-  "generatedAt": "2026-09-13T15:43:46.099Z",
+  "generatedAt": "2026-09-14T17:50:08.289Z",
   "items": [
     {
-      "headline": "Medium's word game hides a vocabulary lesson inside it",
-      "background": "Medium launched a word game called Good Words, positioning it as an extension of its writing-platform identity. These two pieces cover the same product from overlapping angles — one focused on the experience, one on the design conceit.",
+      "headline": "Apple Duo sparks real questions about dual-screen UI design",
+      "background": "Apple's rumored or announced Duo device — a dual-screen form factor — has triggered debate in design and developer communities about whether existing UI paradigms hold up or need to be rethought from scratch.",
       "keyFindings": [
-        "Good Words is a Boggle-style game with a three-minute round format",
-        "Each round ends with the player receiving a new vocabulary word to retain",
-        "The mechanic is designed to make word acquisition feel incidental rather than instructional"
+        "Dual-screen form factors force designers to reconsider assumptions baked into single-viewport layout systems",
+        "Developer and design communities are split on whether this is a meaningful paradigm shift or incremental hardware iteration",
+        "Existing component libraries and responsive frameworks are largely unprepared for true dual-screen continuity"
       ],
-      "implications": "Interesting as a case study in embedding a brand's core value proposition (literacy, writing craft) into a game loop without making it feel didactic. Relevant to teams designing habit-forming or educational product extensions.",
+      "implications": "If you're building apps targeting Apple platforms, now is the time to audit layout logic that assumes a single contiguous viewport. Foldable and dual-screen edge cases are no longer hypothetical.",
       "tags": [
-        "Gamification",
-        "Content products",
-        "Engagement"
+        "Dual-screen design",
+        "Mobile UI",
+        "Apple platform"
       ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*WCsiVs78Sg4bg3lkTGPLuw.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/the-common-room/every-round-of-mediums-new-game-leaves-you-a-little-richer-8e65ed755bcf?source=rss------product_design-5",
-      "pubDate": "Sun, 13 Sep 2026 15:04:37 GMT"
-    },
-    {
-      "headline": "Medium's word game hides a vocabulary lesson inside it",
-      "background": "Duplicate entry covering the same Medium Good Words product launch from a slightly different editorial angle — see article 1 for full context.",
-      "keyFindings": [
-        "Good Words is framed as Boggle with a writing-platform twist",
-        "The vocabulary delivery mechanic is the differentiating design choice",
-        "Medium is using game design to reinforce its identity as a language-focused platform"
-      ],
-      "implications": "Both pieces together suggest the vocabulary mechanic is the story, not the game itself. For product teams, this illustrates how a single differentiating feature can anchor an entire product narrative.",
-      "tags": [
-        "Gamification",
-        "Content products",
-        "Product identity"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*U09JCIEd2L4DvGS5YpY5qg.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/the-common-room/medium-launched-a-word-game-and-buried-a-vocabulary-lesson-inside-it-6eab7dfcdc39?source=rss------product_design-5",
-      "pubDate": "Sun, 13 Sep 2026 14:48:59 GMT"
-    },
-    {
-      "headline": "How a no-code builder improved conversion and retention",
-      "background": "No-code website builders face a well-documented retention problem: users sign up with high intent but drop off before building anything meaningful. This case study examines Websites.co.in's approach to that gap.",
-      "keyFindings": [
-        "The study focuses specifically on the conversion-to-retention funnel, not just acquisition",
-        "Identified friction points in the onboarding flow as a primary drop-off driver",
-        "Proposed and tested design interventions targeting early user activation"
-      ],
-      "implications": "Useful for product designers working on SaaS or no-code tools where the gap between signup and first value is wide. Onboarding friction at the template or first-build stage is a known high-risk moment worth auditing.",
-      "tags": [
-        "Onboarding",
-        "Retention",
-        "No-code tools"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/686/1*dL90GuY0Y2n1NTN1iYlJgA.png",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@sejalpal879/improving-conversion-retention-for-a-no-code-website-builder-b9991946f874?source=rss------ux_research-5",
-      "pubDate": "Sun, 13 Sep 2026 14:40:07 GMT"
-    },
-    {
-      "headline": "Ad-to-landing-page mismatch kills conversions — here's why",
-      "background": "Message match — the degree to which a landing page reflects the specific promise made in the ad that brought someone there — is a long-standing conversion optimization principle that is routinely ignored in practice.",
-      "keyFindings": [
-        "Users who click an ad for a specific product and land on a generic homepage face immediate context collapse",
-        "The mismatch creates distrust and increases bounce rate regardless of landing page quality in isolation",
-        "Specificity of the ad offer must be mirrored in the landing page headline, imagery, and CTA"
-      ],
-      "implications": "Directly actionable for anyone running paid acquisition or designing landing pages: audit whether your page fulfills the exact promise of each traffic source. Generic homepages as ad destinations are a consistent, measurable conversion killer.",
-      "tags": [
-        "Conversion optimization",
-        "Landing pages",
-        "Paid acquisition"
-      ],
-      "featured": false,
+      "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1122/1*NVk43GSl_WQC6khNItfHaA.png",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*GYLI7FAfemoYdl_YSwy_3Q.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/@waqaskhanlla/your-ad-made-a-promise-does-the-landing-page-keep-it-900c421fc353?source=rss------ux-5",
-      "pubDate": "Sun, 13 Sep 2026 14:12:21 GMT"
+      "link": "https://medium.com/@bartikyunuscan/apple-duo-and-the-dual-screen-paradigm-a-new-era-for-ui-ux-or-just-another-screen-392f6fa138bb?source=rss------ux-5",
+      "pubDate": "Mon, 14 Sep 2026 17:39:20 GMT"
     },
     {
-      "headline": "AI builds interactive websites — a surface-level how-to",
-      "background": "A wave of tutorials is positioning AI coding tools as sufficient for building interactive web products without traditional development skills.",
+      "headline": "UI architecture comes down to state and geometry — nothing else",
+      "background": "Responsive UI has grown increasingly complex with foldables, floating keyboards, and variable screen sizes, and many developers struggle to reason about layout changes systematically. This piece proposes a two-axis mental model to cut through that complexity.",
       "keyFindings": [
-        "Article promotes AI-assisted website building as accessible to non-developers",
-        "No specific tools, success metrics, or limitations are named in the available snippet",
-        "Content appears to be promotional or tutorial-style rather than research-based"
+        "The author argues all UI change is driven by exactly two variables: application state and geometric constraints",
+        "Treating these as separate concerns clarifies when a layout change is a design problem versus a data/logic problem",
+        "The model applies directly to foldable device handling, soft keyboard intrusion, and multi-window scenarios"
       ],
-      "implications": "Insufficient detail in the available content to extract reliable findings. Treat with caution — this category of content frequently overstates AI capability without addressing maintainability, accessibility, or edge-case handling.",
+      "implications": "This framework is practically useful when auditing why a layout breaks — before touching code, identify whether the issue is state-driven or geometry-driven. It also helps structure conversations between designers and engineers.",
       "tags": [
-        "AI tools",
-        "No-code tools"
+        "Responsive design",
+        "UI architecture",
+        "Foldables"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1278/1*FlmlxpmgCIUQDy8i6fhyGg.png",
+      "source": "UX on Medium",
+      "link": "https://iamolchavan.medium.com/state-vs-geometry-the-two-things-your-ui-actually-cares-about-b036a3bf2bfd?source=rss------ux-5",
+      "pubDate": "Mon, 14 Sep 2026 17:02:06 GMT"
+    },
+    {
+      "headline": "Internal tools are genuinely harder to design than consumer products",
+      "background": "Internal applications are frequently deprioritized in design investment on the assumption they're simpler than consumer-facing products. This piece pushes back on that assumption with specific reasons why enterprise and internal tooling presents unique design challenges.",
+      "keyFindings": [
+        "Internal users can't churn, so bad UX gets normalized and goes unaddressed for years",
+        "Designers rarely get access to actual end users in enterprise contexts, making research harder to conduct",
+        "Internal tools often carry legacy data models and workflows that constrain interface decisions far more than consumer products do"
+      ],
+      "implications": "If you're a designer assigned to an internal tool, budget extra time for workflow archaeology — understanding the existing process is usually the bottleneck, not the interface design itself. Don't assume fewer users means fewer constraints.",
+      "tags": [
+        "Enterprise UX",
+        "Internal tools",
+        "Design research"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*M0cnwIiOYFEcDLQLl5kTsw.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@hafeezolamide517/why-internal-applications-are-harder-to-design-than-they-look-944462faad1a?source=rss------product_design-5",
+      "pubDate": "Mon, 14 Sep 2026 16:54:44 GMT"
+    },
+    {
+      "headline": "Airbus's engineering principles have direct parallels in product scaling",
+      "background": "Product teams scaling complex systems often reinvent principles that safety-critical engineering industries discovered decades ago. This piece draws on Airbus aircraft design thinking as a lens for product architecture and scaling decisions.",
+      "keyFindings": [
+        "Airbus design philosophy prioritizes envelope protection — preventing systems from operating outside safe parameters — which maps to guardrails in product systems",
+        "The principle of making the right action the easiest action is central to both cockpit design and good product UX",
+        "Redundancy and graceful degradation, standard in aerospace, are underused concepts in software product design"
+      ],
+      "implications": "For product teams building at scale, this framing is useful for justifying constraint-based design decisions to stakeholders — particularly around error prevention and system limits. Most applicable to high-stakes or high-complexity product domains.",
+      "tags": [
+        "Product strategy",
+        "Systems design",
+        "Scaling"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1200/0*n68logL6VcC5B0Ac.png",
+      "source": "Product Design on Medium",
+      "link": "https://gvanderloop.medium.com/what-airbus-taught-me-about-building-products-that-scale-6751fd4ef52e?source=rss------product_design-5",
+      "pubDate": "Mon, 14 Sep 2026 16:50:55 GMT"
+    },
+    {
+      "headline": "Textron and Merlin reveal autonomous cargo aircraft concept",
+      "background": "Autonomous aviation is advancing from experimental to announced concepts, with Merlin and Textron unveiling a pilotless version of the established Cessna SkyCourier cargo aircraft.",
+      "keyFindings": [
+        "The autonomous SkyCourier concept is based on the existing Cessna 408 SkyCourier platform, a certified twin-turboprop cargo aircraft",
+        "Merlin is providing the autonomy stack; Textron Aviation is the airframe partner",
+        "The concept targets cargo operations, sidestepping near-term regulatory hurdles around passenger autonomous flight"
+      ],
+      "implications": "Relevant context for UX practitioners working in aviation, defense, or autonomous systems — ground control interfaces and operator oversight UX will be a design frontier as these concepts move toward certification.",
+      "tags": [
+        "Autonomous systems",
+        "Aviation UX",
+        "Defense tech"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "markhub24.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS2FmUjByeGFXNjFCSFJMTG9RdnNwWVlNMUZKbnV6UE9WSjlPVUd3Zk9EM1VQVGMxVllJa19kM3RuYU53c3dCa0p1ZkxMOWFKdTc2ek9SOGlDaHV2WGVOVDFGY3pCaXBUSHlEd0EtdlZVS0ZYN192U3gteWFramlFUWpWNUp0bURfcG9OQnRGTVdaZkxoZGNMWGk4VVA1Tms?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 12:07:44 GMT"
+      "source": "AVweb",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93STRNRnctaGw1OWNVR29Mc0RBaC1FODUzUnpQWlVzRjlGS2YwTjdxVVpVSzFhUnVQTmk5WUlPZWdwLWNkNlhXU19vSzFvSXdtME5pR21URi1DY1hzQXppWUFEMkFqTXR6TjVQZ0lEZFVDSlhXVWJhdg?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 14:51:38 GMT"
     },
     {
-      "headline": "Waterford examines a third river crossing — unrelated to UX",
-      "background": "This article covers a local infrastructure feasibility study for a river crossing in Waterford, Ireland.",
+      "headline": "Merlin and Textron's SkyCourier autonomy targets cargo operations first",
+      "background": "This is a second-source report on the same Merlin/Textron autonomous SkyCourier announcement, covered from a defense technology perspective rather than general aviation.",
       "keyFindings": [
-        "A feasibility study is being commissioned for a potential third crossing of the River Suir",
-        "The story is regional civil infrastructure news",
-        "No connection to UX, product, or technology topics"
+        "Coverage emphasizes the defense and dual-use implications of autonomous cargo aviation more than the civilian logistics angle",
+        "The Tectonic Defense framing positions this as part of a broader autonomous logistics capability buildout",
+        "No new technical specifications beyond the AVweb report are introduced"
       ],
-      "implications": "Not relevant to this digest's scope. Likely included in the feed due to a tagging or aggregation error.",
+      "implications": "The dual civilian/defense framing of this announcement is worth noting for product teams in autonomous systems — design requirements diverge significantly between commercial cargo and defense logistics contexts.",
       "tags": [
-        "Off-topic"
+        "Autonomous systems",
+        "Defense tech",
+        "Aviation UX"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "wlrfm.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyR1hTMFloT0NFUUl2M0taam05QkR6OGhzeVF1Q0JPRFYxQ1IyeVdsYWxFdEVvVEN5Nk9KVnBPMUFqNFgyNkdUcENKcU9CaEdPeWJmdWptempDeVNmTFFvWU5maTNIbG9yZElNcU93?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 10:42:06 GMT"
+      "source": "Tectonic Defense",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZRGRfS2g1US1DOHpXSnBTbFo0Ml91TXVHX2FQd0FvNEtselRZcW9sLTNvTThkOXZzUlBTVlc1dTNlTjlNVWRTZURCay1BRjdvZ3diTF8yTmhLUERTX3JuV2hwdThNWnZxMERnd2g0Y25tWlpHcWFKaTM5WF8?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 13:56:50 GMT"
     },
     {
-      "headline": "Anthropic mapped seven AI misuse categories — cases weren't representative",
-      "background": "Anthropic published findings on how its models are misused, categorizing abuse into seven areas. The framing caveat — that documented cases are not typical of real-world misuse distribution — is significant for how the findings should be interpreted.",
+      "headline": "Xiaomi's foldable copies Duo's form but misses the point",
+      "background": "As Apple's Duo dual-screen concept circulates, competitors are already releasing or previewing devices with similar physical form factors, raising questions about whether the deeper design intent is being understood or just the aesthetics.",
       "keyFindings": [
-        "Anthropic identified seven distinct categories of model misuse",
-        "The company explicitly notes that reported cases are not representative of actual misuse prevalence",
-        "The caveat limits the usefulness of the taxonomy for risk modeling without additional real-world incidence data"
+        "The Xiaomi 18 Fold physically resembles the Apple Duo form factor in screen arrangement",
+        "The piece argues Xiaomi's implementation treats the second screen as mirroring or extension rather than as a distinct interactive surface with its own context",
+        "Apple's concept reportedly treats each screen as having an independent state, enabling genuinely different interactions on each panel simultaneously"
       ],
-      "implications": "For product and policy teams building on top of Anthropic APIs, the seven-category framework is a useful starting checklist, but the non-representative sample means it should not be used to estimate likelihood or prioritize mitigations by frequency.",
+      "implications": "For designers evaluating foldable platforms: hardware form factor similarity doesn't mean UX parity. Assess whether the OS and app framework actually supports independent-surface interaction before designing for it.",
       "tags": [
-        "AI safety",
-        "Trust and safety",
-        "LLMs"
+        "Dual-screen design",
+        "Foldables",
+        "Mobile UI"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "quasa.io",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFU3cFZpVW5tVE1HemNESGw2eC04Mko1UzYxQW9RR3d5ZXA5Mk9fSUxCZ2M1cmlZYy02czB1blRRYUZ0TzhTU0NzRkZWRmxycnZFZzFnR01FRHZLTHUydlBEcnFGbk0za1JzMTl1RUNwbGw2ZWFzQmtWTVVlSjgwQ0pBOEJrbDZIUFN3aG5TUndENzJqRnRB?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 03:54:43 GMT"
+      "source": "zeera wireless",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzRCU0M1M3RXVFVVM2FyNFRjUjhTSi1LRE9mZkFWWXlhay1NS20wWi1qanpDQk55SlJJeG1RVHJTLU05VVZPSnMyeWNVajVlTDY5ekZOemN6SlF4SlBWWlE3NnViLUxjTzFvQVlZcXRpb1ZTZHZJSy1PZVNzNTlqX0pwNTE4WjFG?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 13:31:39 GMT"
+    },
+    {
+      "headline": "Think Company rebrands after 20 years — mostly a press release",
+      "background": "Think Company, a Philadelphia-based UX and design consultancy founded in the early 2000s, has updated its brand identity and relaunched its website.",
+      "keyFindings": [
+        "The rebrand is positioned as an effort to better communicate two decades of work across strategy, design, and technology",
+        "No substantive methodology or service changes are announced alongside the visual refresh",
+        "This is a PR Newswire release, not editorial coverage"
+      ],
+      "implications": "Low signal for practitioners. Useful only if you're tracking the design consultancy landscape or evaluating vendors — the rebrand itself doesn't indicate a change in capabilities or positioning beyond optics.",
+      "tags": [
+        "Design industry",
+        "Consultancy"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdlFkTnZybjU3ZE9sMXpZcWRLNnlMM09JakktTnMwMFZ1OF9oQ3M4QmlfanRpd2Y0emNKQXNPRElLT3NhYjlvdWtUazZjSFh0cEp3VHA5QjRuVzhPUHdnNFBTMlpOR2M4NHRsUlhZaHBMVnRSNkwwWXE5LTI4WW13V2cySTRRXzZiTzFRRFpXTUZybXBWRHhQazNaMjdrWnJ6akgtSXlfYlJjWDg1YlRYcTQ4cWtubEgwUTBSWEx3S2JiY1RtODI4d09DdHhSOUxhV3VrYV9Ka2t0X3Zfc3BGa3RUaw?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 13:30:00 GMT"
     },
     {
       "headline": "60% of crypto traders switched platforms within two years",
-      "background": "Exchange loyalty in crypto has been assumed to be driven by liquidity and token availability, but platform churn at this scale suggests UX, trust, and fee structures are more decisive than previously measured.",
+      "background": "Platform loyalty in crypto exchanges has been assumed to be relatively high due to onboarding friction and asset custody inertia. New survey data challenges that assumption directly.",
       "keyFindings": [
-        "60% of crypto traders moved to a different exchange within a 24-month window",
-        "The finding indicates platform loyalty in crypto is significantly lower than in traditional fintech",
-        "The research frames this as loyalty collapse rather than normal competitive switching"
+        "60% of crypto traders reported switching their primary exchange within a 24-month period",
+        "The research attributes platform switching primarily to fee structure dissatisfaction and UX friction, not security incidents",
+        "Exchange loyalty collapse accelerated notably after 2022, suggesting macro events (FTX collapse) permanently lowered switching reluctance"
       ],
-      "implications": "For product teams at crypto exchanges or adjacent fintech products, this data reinforces that retention strategy — not just acquisition — is the competitive battleground. Trust signals, UX consistency, and fee transparency are likely leverage points worth prioritizing.",
+      "implications": "For product teams at fintech or crypto platforms, this is a retention red flag: the historical moat of onboarding friction is eroding. Reducing ongoing UX friction matters more than it used to for keeping activated users.",
       "tags": [
         "Retention",
-        "Fintech",
-        "User switching"
+        "Fintech UX",
+        "User loyalty"
       ],
       "featured": false,
       "type": "research",
@@ -179,54 +204,31 @@
       "publishedWindow": "today",
       "image": null,
       "source": "Yellow.com",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMkJNNTdmSktNRHVMYVBXb1VrT3ZPQTdMS3hwck9UNmwyOW9Zb1RicEYwQm41aEE5ZlBuYkhHYk0zS2xpcElUR1VEa3Y0bDVCRWVnZDJpOHVzYUVRc2JlWk9DVDBMT0tEU1hDQXZoanBBTVNybFZwR2YxUndMZVVieUYzRWtrS0laWE1JSnRLM3dRU0F3MW02MHVLbl9kLThTODBlRlhoUjBfMDNIQ084RFpRbllJaDN1WmNvdG1oVG54MHpIQWFxUGRmMXJva0E0a1hOXzZqRTg3VTFNQVFGVFJOcDRkbFUwQjBXSU13UG1VVmp2MmFIdEVDZEYzQQ?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 22:36:16 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYnNldFN0VlhIMEtOSVVPdmVTMDJMaWl5aWNRU2tsbmhnWFF4MkJLcUx4dnVmNjh5eE5EcU5vQUh3ZExNMWxJdnpCUUg4OUZJTkhFS1BkSlhXS203UWJVbUdiNG8zNG5UN0hSUnJ3bmo5WWdsU0FtR3NiNlM2dVVUa0lTLVpoYzdfRnU1UF9iVTh5eFZla3k2UHlRWFF6ZXMzVHlpMmkzVHdzUGVFYUZIT0NyZzg1bzJBNk1LaUdFejgzazBoN3lvdU9TbjlmNDZLSVBkTThBOGtTdGdZZVE?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 13:13:35 GMT"
     },
     {
-      "headline": "AI prototyping lets you test complex interactions much earlier",
-      "background": "Traditional prototyping tools struggle with complex conditional interactions — multi-step flows, dynamic content, stateful UI — forcing teams to either test late with high-fidelity builds or accept low-fidelity proxies that miss key usability issues.",
+      "headline": "UC Irvine offers a strategy-first framework for kids and screen time",
+      "background": "Parental anxiety around children's digital lives is widespread but often poorly informed, leading to either over-restriction or passive permissiveness. UC Irvine researchers offer a more structured approach.",
       "keyFindings": [
-        "AI tools now make it feasible to prototype complex, stateful interactions without writing production code",
-        "Earlier testing of complex flows reduces the cost of discovering fundamental usability problems late in development",
-        "The approach is specifically positioned for interactions that are difficult to fake with static or clickthrough prototypes"
+        "The research recommends categorizing digital activities by their developmental impact rather than applying blanket screen time limits",
+        "Active and social digital engagement is treated differently from passive consumption in the framework",
+        "Parental co-engagement — using devices alongside children — is identified as more protective than time limits alone"
       ],
-      "implications": "High relevance for UX and product teams working on dashboards, multi-step forms, configurators, or any flow with conditional logic. The practical shift is: don't wait for engineering to build a testable version — use AI prototyping to front-load interaction validation.",
+      "implications": "Limited direct application for most UX/product practitioners, but relevant for those designing children's apps or family-facing products — the distinction between passive consumption and active engagement has design implications for how features are structured and defaulted.",
       "tags": [
-        "Prototyping",
-        "User testing",
-        "AI tools"
+        "Digital wellbeing",
+        "Children's tech",
+        "Design ethics"
       ],
-      "featured": true,
+      "featured": false,
       "type": "research",
-      "category": "Research",
-      "publishedWindow": "week",
+      "category": "Industry news",
+      "publishedWindow": "today",
       "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/articles/test-earlier-with-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 11 Sep 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "NNG uses AI as an editor, not an author — and explains why",
-      "background": "As AI-generated content proliferates in UX and tech publishing, questions about editorial integrity and expertise accountability have intensified. Nielsen Norman Group is one of the few research-focused UX organizations to publicly articulate its policy.",
-      "keyFindings": [
-        "NN/G uses AI for clarity improvements, formatting assistance, and critique during the writing process",
-        "Humans retain full editorial judgment and are responsible for every claim published",
-        "The policy explicitly distinguishes between AI as a writing aid versus AI as a content source"
-      ],
-      "implications": "This is a concrete, replicable editorial policy for any team producing thought leadership, documentation, or research content with AI assistance. The human-accountability principle is the operative line: someone must be able to stand behind every claim.",
-      "tags": [
-        "AI tools",
-        "Editorial standards",
-        "Content strategy"
-      ],
-      "featured": true,
-      "type": "research",
-      "category": "Research",
-      "publishedWindow": "week",
-      "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/articles/ai-editorial-process/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 11 Sep 2026 17:00:00 +0000"
+      "source": "UC Irvine",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUFtdGtYWEJ5Z3lBT3B3OVpVUXpfQ1pOTEVQY0RJNzNaRjQzWGo3bnNjejIwZVBjWXNzclViMGVfUmJvT0VKck1LNXlpUlF2bWlzVjVWT29XemN4WVRheE5LdGxwRzBmU0lPVEJ5NEk3UnFPY1NPX1ZJNDhvX1RRNmcwcndacHFibmtfWmF3?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 12:27:06 GMT"
     }
   ]
 }
