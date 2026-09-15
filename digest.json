@@ -1,234 +1,229 @@
 {
-  "generatedAt": "2026-09-14T17:50:08.289Z",
+  "generatedAt": "2026-09-15T16:25:27.320Z",
   "items": [
     {
-      "headline": "Apple Duo sparks real questions about dual-screen UI design",
-      "background": "Apple's rumored or announced Duo device — a dual-screen form factor — has triggered debate in design and developer communities about whether existing UI paradigms hold up or need to be rethought from scratch.",
+      "headline": "How to stop AI from generating generic SaaS UI",
+      "background": "AI design tools default to predictable, template-like UI patterns — a growing concern as more teams use them to generate interfaces or briefs. Designers are asking whether better inputs can produce genuinely differentiated output.",
       "keyFindings": [
-        "Dual-screen form factors force designers to reconsider assumptions baked into single-viewport layout systems",
-        "Developer and design communities are split on whether this is a meaningful paradigm shift or incremental hardware iteration",
-        "Existing component libraries and responsive frameworks are largely unprepared for true dual-screen continuity"
+        "Stronger creative briefs and explicit constraints can redirect AI away from default SaaS visual patterns",
+        "Design direction given upfront — tone, hierarchy, interaction style — has more impact on output quality than post-generation editing",
+        "Generic AI UI often stems from vague prompts, not tool limitations"
       ],
-      "implications": "If you're building apps targeting Apple platforms, now is the time to audit layout logic that assumes a single contiguous viewport. Foldable and dual-screen edge cases are no longer hypothetical.",
+      "implications": "Practical for any designer using AI in early-stage UI work: invest time in constraint-setting and reference framing before generating, not after. Applies especially to brand-sensitive or competitive product categories where differentiation matters.",
       "tags": [
-        "Dual-screen design",
-        "Mobile UI",
-        "Apple platform"
+        "AI tools",
+        "Visual Design",
+        "Design Process"
       ],
       "featured": true,
       "type": "opinion",
-      "category": "UX",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*GYLI7FAfemoYdl_YSwy_3Q.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@bartikyunuscan/apple-duo-and-the-dual-screen-paradigm-a-new-era-for-ui-ux-or-just-another-screen-392f6fa138bb?source=rss------ux-5",
-      "pubDate": "Mon, 14 Sep 2026 17:39:20 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1672/1*o7YCAxzI3XIt7FW1qfLCZA.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/design-bootcamp/the-anti-ai-ui-playbook-stop-making-generic-saas-websites-3574489f2162?source=rss------product_design-5",
+      "pubDate": "Tue, 15 Sep 2026 16:11:46 GMT"
     },
     {
-      "headline": "UI architecture comes down to state and geometry — nothing else",
-      "background": "Responsive UI has grown increasingly complex with foldables, floating keyboards, and variable screen sizes, and many developers struggle to reason about layout changes systematically. This piece proposes a two-axis mental model to cut through that complexity.",
+      "headline": "What AI agents actually are, explained for designers",
+      "background": "The term 'AI agent' is used loosely across product and tech conversations, but few explanations break down the actual architecture in terms designers or PMs can apply. This piece addresses that gap.",
       "keyFindings": [
-        "The author argues all UI change is driven by exactly two variables: application state and geometric constraints",
-        "Treating these as separate concerns clarifies when a layout change is a design problem versus a data/logic problem",
-        "The model applies directly to foldable device handling, soft keyboard intrusion, and multi-window scenarios"
+        "AI agents combine a language model with tools, memory, and decision loops — not just a single prompt-response cycle",
+        "Memory in agents can be short-term (within a session) or long-term (persisted across sessions), which affects how they behave in products",
+        "The loop structure — perceive, decide, act, observe — is what distinguishes agents from standard LLM calls"
       ],
-      "implications": "This framework is practically useful when auditing why a layout breaks — before touching code, identify whether the issue is state-driven or geometry-driven. It also helps structure conversations between designers and engineers.",
+      "implications": "Designers building or specifying AI-powered features need to understand which agent components they're working with — particularly memory scope — since these directly affect user expectations around continuity and context. Relevant to anyone writing product specs for agentic workflows.",
       "tags": [
-        "Responsive design",
-        "UI architecture",
-        "Foldables"
+        "AI agents",
+        "Product Design",
+        "Mental Models"
       ],
       "featured": true,
       "type": "opinion",
-      "category": "UX",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1278/1*FlmlxpmgCIUQDy8i6fhyGg.png",
-      "source": "UX on Medium",
-      "link": "https://iamolchavan.medium.com/state-vs-geometry-the-two-things-your-ui-actually-cares-about-b036a3bf2bfd?source=rss------ux-5",
-      "pubDate": "Mon, 14 Sep 2026 17:02:06 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1774/1*FmwPsEdKYUbWGWGLRmJ2Cw.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@parvaneh.pouladzadeh/what-is-an-ai-agent-a-guide-to-how-agents-actually-work-2368dcd6dda5?source=rss------product_design-5",
+      "pubDate": "Tue, 15 Sep 2026 16:02:42 GMT"
     },
     {
-      "headline": "Internal tools are genuinely harder to design than consumer products",
-      "background": "Internal applications are frequently deprioritized in design investment on the assumption they're simpler than consumer-facing products. This piece pushes back on that assumption with specific reasons why enterprise and internal tooling presents unique design challenges.",
+      "headline": "How to debug WSO2 API Manager event failures",
+      "background": "WSO2 API Manager is used in enterprise environments to manage and monitor APIs, but diagnosing event-related failures is poorly documented and often starts with ambiguous symptoms rather than clear error output.",
       "keyFindings": [
-        "Internal users can't churn, so bad UX gets normalized and goes unaddressed for years",
-        "Designers rarely get access to actual end users in enterprise contexts, making research harder to conduct",
-        "Internal tools often carry legacy data models and workflows that constrain interface decisions far more than consumer products do"
+        "Most WSO2 incidents surface as vague behavioral symptoms before any stack trace appears",
+        "Event pipeline failures often require cross-referencing multiple log sources rather than a single error log",
+        "The piece provides a structured diagnostic sequence for tracing event issues to root cause"
       ],
-      "implications": "If you're a designer assigned to an internal tool, budget extra time for workflow archaeology — understanding the existing process is usually the bottleneck, not the interface design itself. Don't assume fewer users means fewer constraints.",
+      "implications": "Relevant specifically to backend engineers or DevOps teams running WSO2 in production. Not applicable to UX or product work, but useful operational reference for API infrastructure teams.",
       "tags": [
-        "Enterprise UX",
-        "Internal tools",
-        "Design research"
+        "API Management",
+        "Debugging",
+        "Enterprise Tech"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*M0cnwIiOYFEcDLQLl5kTsw.png",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*GyMbtjYgdL3OUt2LuH7-Qw.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@hafeezolamide517/why-internal-applications-are-harder-to-design-than-they-look-944462faad1a?source=rss------product_design-5",
-      "pubDate": "Mon, 14 Sep 2026 16:54:44 GMT"
+      "link": "https://medium.com/@abhishekdesilva/a-debugging-field-guide-for-wso2-api-managers-events-06f9265cb062?source=rss------product_design-5",
+      "pubDate": "Tue, 15 Sep 2026 16:01:15 GMT"
     },
     {
-      "headline": "Airbus's engineering principles have direct parallels in product scaling",
-      "background": "Product teams scaling complex systems often reinvent principles that safety-critical engineering industries discovered decades ago. This piece draws on Airbus aircraft design thinking as a lens for product architecture and scaling decisions.",
+      "headline": "Airbnb's real early story: door-knocking, not disruption",
+      "background": "Airbnb's founding is often framed as a platform innovation story, obscuring the manual, user-research-heavy work that actually built early supply. This piece revisits the documented record.",
       "keyFindings": [
-        "Airbus design philosophy prioritizes envelope protection — preventing systems from operating outside safe parameters — which maps to guardrails in product systems",
-        "The principle of making the right action the easiest action is central to both cockpit design and good product UX",
-        "Redundancy and graceful degradation, standard in aerospace, are underused concepts in software product design"
+        "Airbnb was generating only $200/week when founders personally flew to New York to photograph listings",
+        "Founders used a rented camera and knocked on doors themselves — a direct user intervention that improved listing quality and conversion",
+        "The growth inflection came from hands-on supply-side quality work, not a viral platform moment"
       ],
-      "implications": "For product teams building at scale, this framing is useful for justifying constraint-based design decisions to stakeholders — particularly around error prevention and system limits. Most applicable to high-stakes or high-complexity product domains.",
+      "implications": "A useful concrete example for product teams to reference when making the case for manual, high-touch early-stage user work over premature scaling. The 'do things that don't scale' principle with a specific, documented instance.",
       "tags": [
-        "Product strategy",
-        "Systems design",
-        "Scaling"
+        "Product History",
+        "Early-Stage Product",
+        "Growth"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "Product design",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1200/0*n68logL6VcC5B0Ac.png",
-      "source": "Product Design on Medium",
-      "link": "https://gvanderloop.medium.com/what-airbus-taught-me-about-building-products-that-scale-6751fd4ef52e?source=rss------product_design-5",
-      "pubDate": "Mon, 14 Sep 2026 16:50:55 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1672/1*nZ07l7DfjTkYI9jBL9SiIw.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@andy.a.g/airbnb-was-making-200-a-week-when-its-founders-flew-to-new-york-with-a-rented-camera-f505166ba682?source=rss------ux-5",
+      "pubDate": "Tue, 15 Sep 2026 16:01:02 GMT"
     },
     {
-      "headline": "Textron and Merlin reveal autonomous cargo aircraft concept",
-      "background": "Autonomous aviation is advancing from experimental to announced concepts, with Merlin and Textron unveiling a pilotless version of the established Cessna SkyCourier cargo aircraft.",
+      "headline": "Newell Brands opens consumer research design center in Atlanta",
+      "background": "Newell Brands, which owns consumer product labels including Rubbermaid and Sharpie, has opened a dedicated design and innovation facility focused on consumer-led development.",
       "keyFindings": [
-        "The autonomous SkyCourier concept is based on the existing Cessna 408 SkyCourier platform, a certified twin-turboprop cargo aircraft",
-        "Merlin is providing the autonomy stack; Textron Aviation is the airframe partner",
-        "The concept targets cargo operations, sidestepping near-term regulatory hurdles around passenger autonomous flight"
+        "The Atlanta center is designed to bring consumer testing and brand innovation into a single physical space",
+        "The facility involves direct interaction with parents and children as target user groups for product testing"
       ],
-      "implications": "Relevant context for UX practitioners working in aviation, defense, or autonomous systems — ground control interfaces and operator oversight UX will be a design frontier as these concepts move toward certification.",
+      "implications": "Primarily a corporate announcement. Of passing interest to in-house design leaders thinking about dedicated research infrastructure, but limited actionable detail in available coverage.",
       "tags": [
-        "Autonomous systems",
-        "Aviation UX",
-        "Defense tech"
+        "Research Facilities",
+        "Consumer Research",
+        "Brand Design"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "AVweb",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93STRNRnctaGw1OWNVR29Mc0RBaC1FODUzUnpQWlVzRjlGS2YwTjdxVVpVSzFhUnVQTmk5WUlPZWdwLWNkNlhXU19vSzFvSXdtME5pR21URi1DY1hzQXppWUFEMkFqTXR6TjVQZ0lEZFVDSlhXVWJhdg?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 14:51:38 GMT"
+      "source": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSTRhdXNRQjlzMlFaU0piNVdHQjl3ZGhWUVo0VUhKM1RuU2xDZl9YbzZxZ0IzdUhXRXFwNzRNNnVjR1h0UTFWR0pDRnIzMXNWM3ZVYTJGeGFXckNJWW5GaVhtRktYX2VtcFQtcWRnN0NuR1NZMjZvN1FpSFRwYzllV1FVNThhNHBPWDhBSUJBbEo2QmhMd3JVT1EwUHRLanNiOHBqNi1lSElneFJBUUtZbzBUTTJGRXhGZV9SbTVXdUs2ZTdaNUhPTUV1RDAwUlduS1VpUGdLYXpuUW45V2djVjVvbjZkTVNZXzdlXzVyUUxVaTJyVkpNeHJVUVZtek0?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 16:00:00 GMT"
     },
     {
-      "headline": "Merlin and Textron's SkyCourier autonomy targets cargo operations first",
-      "background": "This is a second-source report on the same Merlin/Textron autonomous SkyCourier announcement, covered from a defense technology perspective rather than general aviation.",
+      "headline": "Newell's Atlanta design center: consumer testing in action",
+      "background": "Follow-on image-based coverage of the Newell Brands Atlanta design center opening, showing parents and children interacting with products in the facility.",
       "keyFindings": [
-        "Coverage emphasizes the defense and dual-use implications of autonomous cargo aviation more than the civilian logistics angle",
-        "The Tectonic Defense framing positions this as part of a broader autonomous logistics capability buildout",
-        "No new technical specifications beyond the AVweb report are introduced"
+        "Visual documentation shows hands-on product interaction sessions with family user groups",
+        "Confirms the center is operational and running live consumer sessions, not just announced"
       ],
-      "implications": "The dual civilian/defense framing of this announcement is worth noting for product teams in autonomous systems — design requirements diverge significantly between commercial cargo and defense logistics contexts.",
+      "implications": "Duplicate coverage of the Newell story above with visual detail. No additional strategic insight; skip if you've read the prior item.",
       "tags": [
-        "Autonomous systems",
-        "Defense tech",
-        "Aviation UX"
+        "Consumer Research",
+        "Brand Design",
+        "Research Facilities"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Tectonic Defense",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZRGRfS2g1US1DOHpXSnBTbFo0Ml91TXVHX2FQd0FvNEtselRZcW9sLTNvTThkOXZzUlBTVlc1dTNlTjlNVWRTZURCay1BRjdvZ3diTF8yTmhLUERTX3JuV2hwdThNWnZxMERnd2g0Y25tWlpHcWFKaTM5WF8?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 13:56:50 GMT"
+      "source": "Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMG9qQlRiM0FVOEZvWGsxbGtuM3o4bGVXcFppeHctV21ucm9iYktkdnJaUmdIVUlWRWdwX0o5aWZBTmtiYlJaR05wVEVCN1ZiN1Q2NlgxYlZXYjBDQmtGaUFiU0Jlak83X201MmFYMllWaFRQckZENjB5OW1kb2MxajNWV1ZPRmsxbVR6MHVONVI5V1h0Zkl4YmdQX2Jma09Fa1MwX3RWMVNGSi1YeGJNRGRuV2lGZw?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 16:00:00 GMT"
     },
     {
-      "headline": "Xiaomi's foldable copies Duo's form but misses the point",
-      "background": "As Apple's Duo dual-screen concept circulates, competitors are already releasing or previewing devices with similar physical form factors, raising questions about whether the deeper design intent is being understood or just the aesthetics.",
+      "headline": "Networking gets 45% of students interview offers",
+      "background": "College students often underestimate networking as a job-search strategy relative to applications. This piece cites outcome data from a student cohort.",
       "keyFindings": [
-        "The Xiaomi 18 Fold physically resembles the Apple Duo form factor in screen arrangement",
-        "The piece argues Xiaomi's implementation treats the second screen as mirroring or extension rather than as a distinct interactive surface with its own context",
-        "Apple's concept reportedly treats each screen as having an independent state, enabling genuinely different interactions on each panel simultaneously"
+        "45% of students who used networking tactics received interview offers in the sample group",
+        "Tips focus on structured outreach rather than passive connection requests"
       ],
-      "implications": "For designers evaluating foldable platforms: hardware form factor similarity doesn't mean UX parity. Assess whether the OS and app framework actually supports independent-surface interaction before designing for it.",
+      "implications": "Tangentially relevant to early-career UX designers entering the job market. Not specific to design roles or the current hiring environment — treat the 45% figure with caution given unknown sample size and methodology.",
       "tags": [
-        "Dual-screen design",
-        "Foldables",
-        "Mobile UI"
+        "Career Development",
+        "Job Search",
+        "Students"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "zeera wireless",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzRCU0M1M3RXVFVVM2FyNFRjUjhTSi1LRE9mZkFWWXlhay1NS20wWi1qanpDQk55SlJJeG1RVHJTLU05VVZPSnMyeWNVajVlTDY5ekZOemN6SlF4SlBWWlE3NnViLUxjTzFvQVlZcXRpb1ZTZHZJSy1PZVNzNTlqX0pwNTE4WjFG?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 13:31:39 GMT"
+      "source": "huntingdondailynews.com",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQlFjQjdJUXpPcUhLZkRWVnNXRlFXN0V4ZmNuMGk1dDdzd3drMnpUOVBKMVlPZWppQ0hWS0gtUWhBREIzNldIX01rWklSY0V2c0M1TG5zQURsLURWSHVQRDNSbzh1SnJ2eGQyWVNpbUhqV1NmY0s1aEtiMGZkQTMxNWtPdEFUWW5tcVM2RGpQaW1VWDdZcDJtODlXWHFiSTJ6Szg3OHF1Wm85enhhbXU2ZjFqWXZsUkNRX0VlTFBkbzBVU2dtRVlNVGpvem1yZVJzZ0loTDg2RkNRRHpHVFVBNEdKYXI5UXh0U0dpcA?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 15:49:00 GMT"
     },
     {
-      "headline": "Think Company rebrands after 20 years — mostly a press release",
-      "background": "Think Company, a Philadelphia-based UX and design consultancy founded in the early 2000s, has updated its brand identity and relaunched its website.",
+      "headline": "Code and Theory wins Fast Company design award four years running",
+      "background": "Fast Company's Innovation by Design awards are an annual benchmark in the design industry. Code and Theory is a digital agency competing in this space.",
       "keyFindings": [
-        "The rebrand is positioned as an effort to better communicate two decades of work across strategy, design, and technology",
-        "No substantive methodology or service changes are announced alongside the visual refresh",
-        "This is a PR Newswire release, not editorial coverage"
+        "Code and Theory has received recognition in the Fast Company Innovation by Design program for four consecutive years",
+        "No specific project details are available in the snippet"
       ],
-      "implications": "Low signal for practitioners. Useful only if you're tracking the design consultancy landscape or evaluating vendors — the rebrand itself doesn't indicate a change in capabilities or positioning beyond optics.",
+      "implications": "A brand visibility announcement with no extractable methodology or design insight from available content. Not actionable.",
       "tags": [
-        "Design industry",
-        "Consultancy"
+        "Agency News",
+        "Design Awards"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdlFkTnZybjU3ZE9sMXpZcWRLNnlMM09JakktTnMwMFZ1OF9oQ3M4QmlfanRpd2Y0emNKQXNPRElLT3NhYjlvdWtUazZjSFh0cEp3VHA5QjRuVzhPUHdnNFBTMlpOR2M4NHRsUlhZaHBMVnRSNkwwWXE5LTI4WW13V2cySTRRXzZiTzFRRFpXTUZybXBWRHhQazNaMjdrWnJ6akgtSXlfYlJjWDg1YlRYcTQ4cWtubEgwUTBSWEx3S2JiY1RtODI4d09DdHhSOUxhV3VrYV9Ka2t0X3Zfc3BGa3RUaw?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 13:30:00 GMT"
+      "source": "Cincinnati Enquirer",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR0dIcjRpTTN4SGxmOERfUDBLMEhneEVDSjZmaHJ1b2h3WUpkdGFVYV9lUWtLNzdvV3I5bWZtVVJub0hoVm5jc0JBdFpnM2hxRWhDVUx1cm9pMjFKcWQ1d2dNWkpUQ09OLTduclVyVW5LbzcyUlZhZUpJSF94VHFENWp6VzVPUjVFMWNZOVp0ODUwVFdYWWxWM1R2bkF5dll3cV9VbmNTYXhPa2ktQWNya2tOVVhlTlY1N0V5b0FWOUhGRzRfcDZob0JrczlSU3c3NzE3N0ZKZUJqM28?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 15:04:16 GMT"
     },
     {
-      "headline": "60% of crypto traders switched platforms within two years",
-      "background": "Platform loyalty in crypto exchanges has been assumed to be relatively high due to onboarding friction and asset custody inertia. New survey data challenges that assumption directly.",
+      "headline": "A 2026 beginner roadmap for UI/UX designers",
+      "background": "Career roadmaps for UX designers proliferate online, but most go stale quickly as tooling and hiring expectations shift. A 2026-framed version suggests updated guidance.",
       "keyFindings": [
-        "60% of crypto traders reported switching their primary exchange within a 24-month period",
-        "The research attributes platform switching primarily to fee structure dissatisfaction and UX friction, not security incidents",
-        "Exchange loyalty collapse accelerated notably after 2022, suggesting macro events (FTX collapse) permanently lowered switching reluctance"
+        "Positioned as an updated path reflecting current tooling and hiring expectations for new designers entering in 2026",
+        "No specific skill priorities or tool recommendations are available from the snippet alone"
       ],
-      "implications": "For product teams at fintech or crypto platforms, this is a retention red flag: the historical moat of onboarding friction is eroding. Reducing ongoing UX friction matters more than it used to for keeping activated users.",
+      "implications": "Potentially useful for junior designers or educators, but impossible to evaluate quality from available content. Verify whether it addresses AI tools and current portfolio expectations before recommending.",
       "tags": [
-        "Retention",
-        "Fintech UX",
-        "User loyalty"
+        "Career Development",
+        "Beginner Resources",
+        "Design Education"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Yellow.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYnNldFN0VlhIMEtOSVVPdmVTMDJMaWl5aWNRU2tsbmhnWFF4MkJLcUx4dnVmNjh5eE5EcU5vQUh3ZExNMWxJdnpCUUg4OUZJTkhFS1BkSlhXS203UWJVbUdiNG8zNG5UN0hSUnJ3bmo5WWdsU0FtR3NiNlM2dVVUa0lTLVpoYzdfRnU1UF9iVTh5eFZla3k2UHlRWFF6ZXMzVHlpMmkzVHdzUGVFYUZIT0NyZzg1bzJBNk1LaUdFejgzazBoN3lvdU9TbjlmNDZLSVBkTThBOGtTdGdZZVE?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 13:13:35 GMT"
+      "source": "Buttondown",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV3NobXdzN29DbFV3VFhJQnV3ejJ5TlpNUGt4M2lpU3RtdWZyUTNTak1tbGppdXhadFFHdzhiLVRDRDJRSFVpQkNVaEVKdXhuTHN2UnhiMkFXSmd0Q0F0MEZMLXhBb1JCZl9IRlhxQUdvejhHVTlBUWlyYzBWaWV6ZWxQQmVQNmdaaUE4ckxwakZ5R2c?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 13:46:16 GMT"
     },
     {
-      "headline": "UC Irvine offers a strategy-first framework for kids and screen time",
-      "background": "Parental anxiety around children's digital lives is widespread but often poorly informed, leading to either over-restriction or passive permissiveness. UC Irvine researchers offer a more structured approach.",
+      "headline": "AI cuts app development costs from $200K to $50K",
+      "background": "Claims about AI dramatically reducing software development costs are widespread but rarely include methodology. Chop Dawg, an app development agency, is citing a 75% cost reduction in client projects.",
       "keyFindings": [
-        "The research recommends categorizing digital activities by their developmental impact rather than applying blanket screen time limits",
-        "Active and social digital engagement is treated differently from passive consumption in the framework",
-        "Parental co-engagement — using devices alongside children — is identified as more protective than time limits alone"
+        "Chop Dawg reports per-project costs dropping from approximately $200K to $50K using AI-assisted development workflows",
+        "The agency attributes the reduction to combining AI tooling with 18 years of existing process discipline, not AI alone",
+        "Implied that undisciplined AI adoption without process maturity would not replicate these results"
       ],
-      "implications": "Limited direct application for most UX/product practitioners, but relevant for those designing children's apps or family-facing products — the distinction between passive consumption and active engagement has design implications for how features are structured and defaulted.",
+      "implications": "Relevant to product managers and founders scoping build costs, but treat as a single vendor's self-reported figure. The caveat about process maturity is significant — cost reductions at this scale likely require substantial existing workflow infrastructure to sustain quality.",
       "tags": [
-        "Digital wellbeing",
-        "Children's tech",
-        "Design ethics"
+        "AI tools",
+        "App Development",
+        "Cost Estimation"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "UC Irvine",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUFtdGtYWEJ5Z3lBT3B3OVpVUXpfQ1pOTEVQY0RJNzNaRjQzWGo3bnNjejIwZVBjWXNzclViMGVfUmJvT0VKck1LNXlpUlF2bWlzVjVWT29XemN4WVRheE5LdGxwRzBmU0lPVEJ5NEk3UnFPY1NPX1ZJNDhvX1RRNmcwcndacHFibmtfWmF3?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 12:27:06 GMT"
+      "source": "TechBullion",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWEVZRWlOX0VMc3pocVVqZnR0V3VFQ0cxejJMOTFfMkdaU05TLXNIR1B2TWduenMyN3lyLWxPb05INWJxME9HYUNDR1JSaE9OVEdZMFJXb0FROVN0ci1nT3Rfell0NDRNUTNMeG5VbzY3QzlRd28wZ0d0R2RIZnluRndUMEl0Q3QyS2VSWHZMbFNQcHBUdnNTMVJ6dlVuOXg3bXJwTXNPUXhKVjg?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 13:44:20 GMT"
     }
   ]
 }
