@@ -1,229 +1,234 @@
 {
-  "generatedAt": "2026-09-15T16:25:27.320Z",
+  "generatedAt": "2026-09-16T16:16:55.044Z",
   "items": [
     {
-      "headline": "How to stop AI from generating generic SaaS UI",
-      "background": "AI design tools default to predictable, template-like UI patterns — a growing concern as more teams use them to generate interfaces or briefs. Designers are asking whether better inputs can produce genuinely differentiated output.",
+      "headline": "Global Finance ranks best consumer digital banks 2026",
+      "background": "Digital banking competition has intensified as neobanks and traditional banks with digital arms compete on UX, fees, and features. Annual rankings like this shape where product teams benchmark themselves.",
       "keyFindings": [
-        "Stronger creative briefs and explicit constraints can redirect AI away from default SaaS visual patterns",
-        "Design direction given upfront — tone, hierarchy, interaction style — has more impact on output quality than post-generation editing",
-        "Generic AI UI often stems from vague prompts, not tool limitations"
+        "Ranking covers consumer-facing digital banks globally for 2026 cycle",
+        "Global Finance evaluates on criteria including functionality, design, and customer experience",
+        "No specific bank names or scores are available from the snippet alone"
       ],
-      "implications": "Practical for any designer using AI in early-stage UI work: invest time in constraint-setting and reference framing before generating, not after. Applies especially to brand-sensitive or competitive product categories where differentiation matters.",
+      "implications": "Useful as a benchmarking reference if you work on financial product UX — check which institutions scored highly and audit what specific features or flows earned recognition.",
       "tags": [
-        "AI tools",
-        "Visual Design",
-        "Design Process"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*o7YCAxzI3XIt7FW1qfLCZA.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/design-bootcamp/the-anti-ai-ui-playbook-stop-making-generic-saas-websites-3574489f2162?source=rss------product_design-5",
-      "pubDate": "Tue, 15 Sep 2026 16:11:46 GMT"
-    },
-    {
-      "headline": "What AI agents actually are, explained for designers",
-      "background": "The term 'AI agent' is used loosely across product and tech conversations, but few explanations break down the actual architecture in terms designers or PMs can apply. This piece addresses that gap.",
-      "keyFindings": [
-        "AI agents combine a language model with tools, memory, and decision loops — not just a single prompt-response cycle",
-        "Memory in agents can be short-term (within a session) or long-term (persisted across sessions), which affects how they behave in products",
-        "The loop structure — perceive, decide, act, observe — is what distinguishes agents from standard LLM calls"
-      ],
-      "implications": "Designers building or specifying AI-powered features need to understand which agent components they're working with — particularly memory scope — since these directly affect user expectations around continuity and context. Relevant to anyone writing product specs for agentic workflows.",
-      "tags": [
-        "AI agents",
-        "Product Design",
-        "Mental Models"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1774/1*FmwPsEdKYUbWGWGLRmJ2Cw.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@parvaneh.pouladzadeh/what-is-an-ai-agent-a-guide-to-how-agents-actually-work-2368dcd6dda5?source=rss------product_design-5",
-      "pubDate": "Tue, 15 Sep 2026 16:02:42 GMT"
-    },
-    {
-      "headline": "How to debug WSO2 API Manager event failures",
-      "background": "WSO2 API Manager is used in enterprise environments to manage and monitor APIs, but diagnosing event-related failures is poorly documented and often starts with ambiguous symptoms rather than clear error output.",
-      "keyFindings": [
-        "Most WSO2 incidents surface as vague behavioral symptoms before any stack trace appears",
-        "Event pipeline failures often require cross-referencing multiple log sources rather than a single error log",
-        "The piece provides a structured diagnostic sequence for tracing event issues to root cause"
-      ],
-      "implications": "Relevant specifically to backend engineers or DevOps teams running WSO2 in production. Not applicable to UX or product work, but useful operational reference for API infrastructure teams.",
-      "tags": [
-        "API Management",
-        "Debugging",
-        "Enterprise Tech"
+        "Fintech",
+        "Benchmarking",
+        "Digital Banking"
       ],
       "featured": false,
-      "type": "opinion",
-      "category": "Product design",
+      "type": "research",
+      "category": "Industry news",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*GyMbtjYgdL3OUt2LuH7-Qw.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@abhishekdesilva/a-debugging-field-guide-for-wso2-api-managers-events-06f9265cb062?source=rss------product_design-5",
-      "pubDate": "Tue, 15 Sep 2026 16:01:15 GMT"
+      "image": null,
+      "source": "Global Finance Magazine",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83Wm03M0p2ZDN6R1BiSlYzcXVCaDU4YVZSVHdYczQxUkc4NElENW51VGpIUXJ4ZndBc2I5Q21JUkN3S3h5WTBtelNidVR4OVNlbGpsMl8ySnJ5MnNMd1FBOV82RHRZcUhaQ2hiZ1Q1ZWo0WW1zNHpaNFY1bw?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 16:08:41 GMT"
     },
     {
-      "headline": "Airbnb's real early story: door-knocking, not disruption",
-      "background": "Airbnb's founding is often framed as a platform innovation story, obscuring the manual, user-research-heavy work that actually built early supply. This piece revisits the documented record.",
+      "headline": "Designers should stop avoiding the nuanced middle ground",
+      "background": "Design and product culture often frames decisions in binaries — ship or don't, success or failure, bold or safe. This piece pushes back on that framing from a practicing designer's perspective.",
       "keyFindings": [
-        "Airbnb was generating only $200/week when founders personally flew to New York to photograph listings",
-        "Founders used a rented camera and knocked on doors themselves — a direct user intervention that improved listing quality and conversion",
-        "The growth inflection came from hands-on supply-side quality work, not a viral platform moment"
+        "The piece argues the 'middle' is not indecision but a legitimate, undervalued design position",
+        "Binary thinking in design critique and decision-making is identified as a systemic problem",
+        "Aristotle's law of excluded middle is used as a foil to challenge how designers frame trade-offs"
       ],
-      "implications": "A useful concrete example for product teams to reference when making the case for manual, high-touch early-stage user work over premature scaling. The 'do things that don't scale' principle with a specific, documented instance.",
+      "implications": "Relevant for design critiques, stakeholder negotiations, and retrospectives where false binaries shut down better solutions — worth sharing with teams that default to thumbs-up/thumbs-down review formats.",
       "tags": [
-        "Product History",
-        "Early-Stage Product",
-        "Growth"
+        "Design Thinking",
+        "Decision-Making",
+        "Design Culture"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*nZ07l7DfjTkYI9jBL9SiIw.png",
+      "image": "https://cdn-images-1.medium.com/max/1456/0*WfdVTRBwwU99I5S6.jpeg",
       "source": "UX on Medium",
-      "link": "https://medium.com/@andy.a.g/airbnb-was-making-200-a-week-when-its-founders-flew-to-new-york-with-a-rented-camera-f505166ba682?source=rss------ux-5",
-      "pubDate": "Tue, 15 Sep 2026 16:01:02 GMT"
+      "link": "https://amyxamanda.medium.com/the-middle-perspective-a-designers-view-cbba1c918102?source=rss------ux-5",
+      "pubDate": "Wed, 16 Sep 2026 15:54:20 GMT"
     },
     {
-      "headline": "Newell Brands opens consumer research design center in Atlanta",
-      "background": "Newell Brands, which owns consumer product labels including Rubbermaid and Sharpie, has opened a dedicated design and innovation facility focused on consumer-led development.",
+      "headline": "Why top AI coding tools launched desktop-first, not web",
+      "background": "The default startup advice for years has been to build web apps first for speed and reach. Cursor's $60B valuation and the desktop-first bets by OpenAI, Anthropic, and Cognition are forcing a reassessment of that rule.",
       "keyFindings": [
-        "The Atlanta center is designed to bring consumer testing and brand innovation into a single physical space",
-        "The facility involves direct interaction with parents and children as target user groups for product testing"
+        "Cursor, a desktop-native AI coding tool, reached a reported $60 billion valuation — cited as evidence desktop-first can win",
+        "OpenAI, Anthropic, and Cognition each chose desktop as primary surface for their developer-facing AI tools",
+        "The argument is that deep OS integration, local file access, and low-latency interaction make desktop superior for AI-assisted workflows"
       ],
-      "implications": "Primarily a corporate announcement. Of passing interest to in-house design leaders thinking about dedicated research infrastructure, but limited actionable detail in available coverage.",
+      "implications": "For product teams building AI-powered tools targeting professionals — especially developers or designers — desktop-first deserves serious consideration over default web assumptions, particularly where file system access and persistent context matter.",
       "tags": [
-        "Research Facilities",
-        "Consumer Research",
-        "Brand Design"
+        "AI Tools",
+        "Product Strategy",
+        "Desktop Apps"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*qcZj7IQY-k_o4Jysk8TuFA.png",
+      "source": "Product Design on Medium",
+      "link": "https://hoomanstudio.medium.com/why-openai-anthropic-and-cognition-all-bet-on-desktop-first-357dd3c87985?source=rss------product_design-5",
+      "pubDate": "Wed, 16 Sep 2026 15:46:01 GMT"
+    },
+    {
+      "headline": "Experian bill-lowering ad — not editorial content",
+      "background": "This item is a sponsored or promotional piece, not a news article or research finding.",
+      "keyFindings": [
+        "Promotional content for Experian's expense management tools",
+        "Targets consumers looking to reduce monthly bills",
+        "Not a research-backed or editorially independent piece"
+      ],
+      "implications": "Not relevant to UX, product, or tech practice. Skip.",
+      "tags": [
+        "Sponsored",
+        "Finance"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*6R39J-82m5XGM2i2a_Mfvg.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@mdjahid01332713731/lower-your-monthly-bills-with-experian-a2408f88db5b?source=rss------ux-5",
+      "pubDate": "Wed, 16 Sep 2026 15:44:41 GMT"
+    },
+    {
+      "headline": "Scrum backlog and sprint processes explained, part 2",
+      "background": "This is the second installment in a Turkish-language series on agile product development, focusing on backlog management, user stories, and sprint workflows for product teams.",
+      "keyFindings": [
+        "Continues from a prior piece on the Product Owner role within development teams",
+        "Covers backlog refinement and user story structure in a practical agile context",
+        "Written in Turkish, limiting accessibility for non-Turkish-speaking audiences"
+      ],
+      "implications": "Potentially useful for Turkish-speaking product managers and UX practitioners learning agile fundamentals, but not broadly accessible or novel enough for a general professional audience.",
+      "tags": [
+        "Agile",
+        "Product Management",
+        "Scrum"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1024/0*F5oNpdRcusFXi8-G",
+      "source": "Product Design on Medium",
+      "link": "https://mfurkanergdn.medium.com/backlog-user-story-ve-sprint-s%C3%BCre%C3%A7leri-part-2-7ddcf7798121?source=rss------product_design-5",
+      "pubDate": "Wed, 16 Sep 2026 15:41:01 GMT"
+    },
+    {
+      "headline": "Graphic design software market heading toward $14.26B by 2030",
+      "background": "The design tools market has fragmented significantly with the rise of Figma, Canva, and AI-native tools, prompting market research firms to re-forecast long-term growth trajectories.",
+      "keyFindings": [
+        "Market projected to reach $14.26 billion by 2030",
+        "Growth driven by demand for digital content creation and expanding tooling categories",
+        "No breakdown of which segments or tools are driving growth is available from the snippet"
+      ],
+      "implications": "Useful context for anyone making tooling investment decisions or pitching design infrastructure budgets — but treat market research press releases with caution, as methodology and definitions vary widely.",
+      "tags": [
+        "Design Tools",
+        "Market Research",
+        "Industry Trends"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSTRhdXNRQjlzMlFaU0piNVdHQjl3ZGhWUVo0VUhKM1RuU2xDZl9YbzZxZ0IzdUhXRXFwNzRNNnVjR1h0UTFWR0pDRnIzMXNWM3ZVYTJGeGFXckNJWW5GaVhtRktYX2VtcFQtcWRnN0NuR1NZMjZvN1FpSFRwYzllV1FVNThhNHBPWDhBSUJBbEo2QmhMd3JVT1EwUHRLanNiOHBqNi1lSElneFJBUUtZbzBUTTJGRXhGZV9SbTVXdUs2ZTdaNUhPTUV1RDAwUlduS1VpUGdLYXpuUW45V2djVjVvbjZkTVNZXzdlXzVyUUxVaTJyVkpNeHJVUVZtek0?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 16:00:00 GMT"
+      "source": "openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOC1mU2phYjh4SlZobkc4ZVNQa0ZoeDdqc0o0Y3RDOGlEMW1UVVR2V3lhbkVnX1BEaXRFd3JBYU8zaHRvd3ZYS3YtX3JtT3BhNEJSWG1SdE54aUZsZGRHWG9UN1o4VTZYXzZ5SHJhZG1zVW05amxkYjdBZDFCRTlvemZRLUVmWXF6bUhRNjVzQWNyMHRvUGc?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 15:29:12 GMT"
     },
     {
-      "headline": "Newell's Atlanta design center: consumer testing in action",
-      "background": "Follow-on image-based coverage of the Newell Brands Atlanta design center opening, showing parents and children interacting with products in the facility.",
+      "headline": "Google study maps how teenagers actually perceive AI",
+      "background": "As AI tools enter classrooms and consumer apps, there is limited systematic research on how teens understand, trust, and misuse AI — a gap that affects both product design and policy.",
       "keyFindings": [
-        "Visual documentation shows hands-on product interaction sessions with family user groups",
-        "Confirms the center is operational and running live consumer sessions, not just announced"
+        "Google conducted a study specifically on teen attitudes and mental models around AI",
+        "Coverage from The Tech Buzz summarizes findings but the snippet lacks specific data points",
+        "Study appears to address perception and trust rather than just usage behavior"
       ],
-      "implications": "Duplicate coverage of the Newell story above with visual detail. No additional strategic insight; skip if you've read the prior item.",
+      "implications": "Designers building AI features in education or consumer products serving minors should look at the primary Google source directly — teen mental models of AI differ meaningfully from adult assumptions and affect how explanations and guardrails should be designed.",
       "tags": [
-        "Consumer Research",
-        "Brand Design",
-        "Research Facilities"
+        "AI Perception",
+        "Teen Users",
+        "Research"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMG9qQlRiM0FVOEZvWGsxbGtuM3o4bGVXcFppeHctV21ucm9iYktkdnJaUmdIVUlWRWdwX0o5aWZBTmtiYlJaR05wVEVCN1ZiN1Q2NlgxYlZXYjBDQmtGaUFiU0Jlak83X201MmFYMllWaFRQckZENjB5OW1kb2MxajNWV1ZPRmsxbVR6MHVONVI5V1h0Zkl4YmdQX2Jma09Fa1MwX3RWMVNGSi1YeGJNRGRuV2lGZw?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 16:00:00 GMT"
+      "source": "The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSG9BMXZHV3NLaWZXdzZmMW16OEt0Z0FEeGk1eWlaLVRrejFMWGFFY0pUUDJKRFQyVVdnX0g0ZFJKMlgwNW1sbkMxc2lISlktc1R4Q2l6Z1FfQzlFWUxzMXB6RXJraWxka2lwc0RSTXAxemdvNlZTS1NRMjhWdjdUMVZ5ZC0wZGJObHlJbDZB?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 15:26:00 GMT"
     },
     {
-      "headline": "Networking gets 45% of students interview offers",
-      "background": "College students often underestimate networking as a job-search strategy relative to applications. This piece cites outcome data from a student cohort.",
+      "headline": "5 concrete findings from Google's teen AI attitudes study",
+      "background": "This is Google's own blog post summarizing their research into how teenagers think about AI — a primary source companion to news coverage of the same study.",
       "keyFindings": [
-        "45% of students who used networking tactics received interview offers in the sample group",
-        "Tips focus on structured outreach rather than passive connection requests"
+        "Google's own summary identifies 5 discrete findings about teen AI views, though the snippet does not enumerate them",
+        "The study is positioned as informing how Google designs AI products for younger users",
+        "Being a first-party source, this is more reliable than third-party summaries of the same research"
       ],
-      "implications": "Tangentially relevant to early-career UX designers entering the job market. Not specific to design roles or the current hiring environment — treat the 45% figure with caution given unknown sample size and methodology.",
+      "implications": "Read this primary source over the news summary — first-party research summaries from Google on this topic are directly relevant if you are designing AI features for platforms used by under-18 audiences, where trust, transparency, and age-appropriate explanation matter.",
       "tags": [
-        "Career Development",
-        "Job Search",
-        "Students"
+        "AI Perception",
+        "Teen Users",
+        "Research"
+      ],
+      "featured": true,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "blog.google",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdk5IUnN0UkRFa190YzNSMWgwTGhRR1ZNc09uQ3RQTkFEMkNMdkxPbXROajNEN0FHTl9NMmRsS1NQVDJVMGo2cVdaZklQU0JMVTh6ZlRWTGNHS1NZQTJtQ0pYSUMxamw0NkFtWXM3YVpZbjJNLUtDVmplX1dmdExvOUJyWGZ6UTdiQnlOaWJ3?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 15:13:07 GMT"
+    },
+    {
+      "headline": "Legal tech tools are narrowing the access-to-justice gap",
+      "background": "A significant portion of people who need legal help cannot afford representation, creating what advocates call the 'justice gap.' Technology — including AI-assisted tools — is increasingly being positioned as a partial solution.",
+      "keyFindings": [
+        "Technology tools are being deployed to extend access to legal support beyond what traditional representation can reach",
+        "The piece covers how automated or AI-assisted tools can handle intake, document prep, and basic guidance",
+        "The justice gap affects an estimated large majority of low-income individuals with civil legal needs in the US"
+      ],
+      "implications": "Relevant for UX practitioners working on civic tech, legal tech, or AI assistants — designing for users with low legal literacy, high stress, and limited digital confidence requires distinct accessibility and plain-language standards.",
+      "tags": [
+        "Legal Tech",
+        "Accessibility",
+        "Civic Tech"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "huntingdondailynews.com",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQlFjQjdJUXpPcUhLZkRWVnNXRlFXN0V4ZmNuMGk1dDdzd3drMnpUOVBKMVlPZWppQ0hWS0gtUWhBREIzNldIX01rWklSY0V2c0M1TG5zQURsLURWSHVQRDNSbzh1SnJ2eGQyWVNpbUhqV1NmY0s1aEtiMGZkQTMxNWtPdEFUWW5tcVM2RGpQaW1VWDdZcDJtODlXWHFiSTJ6Szg3OHF1Wm85enhhbXU2ZjFqWXZsUkNRX0VlTFBkbzBVU2dtRVlNVGpvem1yZVJzZ0loTDg2RkNRRHpHVFVBNEdKYXI5UXh0U0dpcA?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 15:49:00 GMT"
+      "source": "nerdbot",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSnNHdEh4R2ZTQ2phNTllMmlXQ3JPTXpuR2RnNmlxaUtQdmo3Ymh5WjV4NDctTmFiLTdOanEzaDAyOWRkUzFZWk9XMzMwRnV0YVN2YjhDT3hJZGIyYURUZmdxZWdXM3Q1SGR0OC1vNjEwUWx5OXF3Q1FYanBzSTZxNER0NXA5ZXRpNTZOUk1aeGVxWjRQWm1MRkRqRkVFWHdiS3lMdA?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 13:59:04 GMT"
     },
     {
-      "headline": "Code and Theory wins Fast Company design award four years running",
-      "background": "Fast Company's Innovation by Design awards are an annual benchmark in the design industry. Code and Theory is a digital agency competing in this space.",
+      "headline": "Listicle ranks 11 fintech app development firms",
+      "background": "Fintech app development is a crowded vendor market, and listicle-style vendor roundups are commonly used by companies in early vendor selection, despite varying editorial rigor.",
       "keyFindings": [
-        "Code and Theory has received recognition in the Fast Company Innovation by Design program for four consecutive years",
-        "No specific project details are available in the snippet"
+        "Lists 11 companies positioned for fintech app development projects",
+        "Published in PC Tech Magazine — not an independent analyst report",
+        "No methodology for selection or ranking criteria is mentioned in the snippet"
       ],
-      "implications": "A brand visibility announcement with no extractable methodology or design insight from available content. Not actionable.",
+      "implications": "Treat as a starting point for a vendor longlist at best — verify any firm independently. Not a substitute for analyst reports or peer referrals when making development partner decisions.",
       "tags": [
-        "Agency News",
-        "Design Awards"
+        "Fintech",
+        "Vendor Selection",
+        "App Development"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Cincinnati Enquirer",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR0dIcjRpTTN4SGxmOERfUDBLMEhneEVDSjZmaHJ1b2h3WUpkdGFVYV9lUWtLNzdvV3I5bWZtVVJub0hoVm5jc0JBdFpnM2hxRWhDVUx1cm9pMjFKcWQ1d2dNWkpUQ09OLTduclVyVW5LbzcyUlZhZUpJSF94VHFENWp6VzVPUjVFMWNZOVp0ODUwVFdYWWxWM1R2bkF5dll3cV9VbmNTYXhPa2ktQWNya2tOVVhlTlY1N0V5b0FWOUhGRzRfcDZob0JrczlSU3c3NzE3N0ZKZUJqM28?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 15:04:16 GMT"
-    },
-    {
-      "headline": "A 2026 beginner roadmap for UI/UX designers",
-      "background": "Career roadmaps for UX designers proliferate online, but most go stale quickly as tooling and hiring expectations shift. A 2026-framed version suggests updated guidance.",
-      "keyFindings": [
-        "Positioned as an updated path reflecting current tooling and hiring expectations for new designers entering in 2026",
-        "No specific skill priorities or tool recommendations are available from the snippet alone"
-      ],
-      "implications": "Potentially useful for junior designers or educators, but impossible to evaluate quality from available content. Verify whether it addresses AI tools and current portfolio expectations before recommending.",
-      "tags": [
-        "Career Development",
-        "Beginner Resources",
-        "Design Education"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Buttondown",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV3NobXdzN29DbFV3VFhJQnV3ejJ5TlpNUGt4M2lpU3RtdWZyUTNTak1tbGppdXhadFFHdzhiLVRDRDJRSFVpQkNVaEVKdXhuTHN2UnhiMkFXSmd0Q0F0MEZMLXhBb1JCZl9IRlhxQUdvejhHVTlBUWlyYzBWaWV6ZWxQQmVQNmdaaUE4ckxwakZ5R2c?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 13:46:16 GMT"
-    },
-    {
-      "headline": "AI cuts app development costs from $200K to $50K",
-      "background": "Claims about AI dramatically reducing software development costs are widespread but rarely include methodology. Chop Dawg, an app development agency, is citing a 75% cost reduction in client projects.",
-      "keyFindings": [
-        "Chop Dawg reports per-project costs dropping from approximately $200K to $50K using AI-assisted development workflows",
-        "The agency attributes the reduction to combining AI tooling with 18 years of existing process discipline, not AI alone",
-        "Implied that undisciplined AI adoption without process maturity would not replicate these results"
-      ],
-      "implications": "Relevant to product managers and founders scoping build costs, but treat as a single vendor's self-reported figure. The caveat about process maturity is significant — cost reductions at this scale likely require substantial existing workflow infrastructure to sustain quality.",
-      "tags": [
-        "AI tools",
-        "App Development",
-        "Cost Estimation"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "TechBullion",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWEVZRWlOX0VMc3pocVVqZnR0V3VFQ0cxejJMOTFfMkdaU05TLXNIR1B2TWduenMyN3lyLWxPb05INWJxME9HYUNDR1JSaE9OVEdZMFJXb0FROVN0ci1nT3Rfell0NDRNUTNMeG5VbzY3QzlRd28wZ0d0R2RIZnluRndUMEl0Q3QyS2VSWHZMbFNQcHBUdnNTMVJ6dlVuOXg3bXJwTXNPUXhKVjg?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 13:44:20 GMT"
+      "source": "PC Tech Magazine",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQkpsSzAzS1YxU2dKRnJsUTVvUUpYMTdvOHJJYWNpa215MGtibEpDb1JDeV9VZHBRcmZKdDQ1Yk05TlNNUks0Q1RjLTM5WDRGZWVqazcwRnJhdXRZUXZoZkxVWDdtRDBXbHJyNEVPb0FINUtRNVh2VHRVZ2FKNlNVZnVkMUExNnRIdEVVUjlzYw?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 13:07:30 GMT"
     }
   ]
 }
