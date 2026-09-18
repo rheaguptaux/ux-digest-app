@@ -1,233 +1,227 @@
 {
-  "generatedAt": "2026-09-17T16:24:06.830Z",
+  "generatedAt": "2026-09-18T15:57:23.209Z",
   "items": [
     {
-      "headline": "Education CRM Case Study: Admissions Data Made Usable",
-      "background": "CRM tools built for higher education often force admissions teams to navigate dense, poorly structured data across lead tracking, pipeline management, and enrollment reporting. This case study documents a redesign attempt to consolidate those workflows into a coherent UI.",
+      "headline": "Capstone project: designing a wedding vendor marketplace",
+      "background": "Bootcamp and career-track capstone projects offer a window into how emerging designers tackle real-world product problems, including marketplace dynamics that involve multiple user types.",
       "keyFindings": [
-        "The redesign centralized lead management, application status tracking, and enrollment analytics into a single dashboard view",
-        "Admissions staff were identified as the primary users, with distinct needs from marketing and leadership roles who also access the system",
-        "Data visualization choices were driven by the need to surface actionable pipeline metrics rather than raw record counts"
+        "Project is a UI/UX career track capstone focused on a two-sided marketplace for wedding vendors",
+        "Snippet provides no methodology, research findings, or design decisions beyond the premise"
       ],
-      "implications": "Useful reference for anyone designing internal tools where multiple user roles share a data-heavy system — the role-separation approach and dashboard prioritization decisions are worth examining before scoping similar CRM or ops tooling work.",
+      "implications": "Without access to the full case study, there is nothing concrete to evaluate or learn from here. Useful only if you click through and the full write-up details research methods, IA decisions, or usability findings.",
       "tags": [
-        "Case Study",
-        "Internal Tools",
-        "Data Visualization"
+        "Marketplace design",
+        "Case study",
+        "Career development"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*hP5-GT2EsfpYDsTqosQQmA.png",
+      "image": "https://cdn-images-1.medium.com/max/2148/1*jTk4Qp1Us8mch6RTOeL-iA.png",
       "source": "Product Design on Medium",
-      "link": "https://saishsai.medium.com/designing-an-education-crm-turning-complex-admissions-data-into-actionable-insights-4adc4f54c1ff?source=rss------product_design-5",
-      "pubDate": "Thu, 17 Sep 2026 15:55:26 GMT"
+      "link": "https://medium.com/@sneha.subru.1708/designing-knotbook-a-wedding-vendor-marketplace-24b7fcf5fcb4?source=rss------product_design-5",
+      "pubDate": "Fri, 18 Sep 2026 15:41:34 GMT"
     },
     {
-      "headline": "Stop Hiring a Unicorn as Your First Designer",
-      "background": "Early-stage founders routinely write job descriptions demanding a first design hire who combines product strategy, UX research, visual design, and sometimes frontend code — a combination that rarely exists and, when it does, commands a senior salary most startups can't afford.",
+      "headline": "Why brand promises and product behavior keep drifting apart",
+      "background": "Brand and product teams at most companies operate in separate silos, with brand setting guidelines around values and messaging while product teams make interaction decisions independently — creating gaps users notice even when teams don't.",
       "keyFindings": [
-        "Founders consistently conflate the skills of a seasoned product design team with the expectations placed on a single junior-to-mid hire",
-        "The piece argues the first design hire should be scoped to the company's most urgent design gap, not a fantasy generalist role",
-        "Hiring for breadth over depth early on often results in mediocre execution across all dimensions rather than excellence in any"
+        "Brand and digital product are typically designed as parallel, disconnected workstreams",
+        "The drift between stated brand values and actual product behavior erodes user trust over time",
+        "Organizational structure, not just design intent, is identified as the root cause of the misalignment"
       ],
-      "implications": "If you're involved in headcount planning or advising a startup on its first design hire, this is a useful gut-check — define the one or two outcomes you need from design in the next 12 months and hire to those, not to an imagined future org chart.",
+      "implications": "If you work on a product where brand guidelines exist but aren't embedded in design system decisions or interaction principles, this is a structural problem — not a handoff problem. Cross-functional alignment between brand and product at the systems level is the lever to pull.",
       "tags": [
-        "Hiring",
-        "Design Teams",
-        "Startups"
+        "Brand alignment",
+        "Design systems",
+        "Product strategy"
       ],
-      "featured": false,
+      "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": null,
+      "image": "https://cdn-images-1.medium.com/max/2600/1*iql4l5vRUrlL0TinDcl4_A.jpeg",
       "source": "Product Design on Medium",
-      "link": "https://carlwheatley.medium.com/stop-looking-for-a-unicorn-designer-dfda12ed6f9a?source=rss------product_design-5",
-      "pubDate": "Thu, 17 Sep 2026 15:45:22 GMT"
+      "link": "https://medium.com/@nadia_795/the-real-reason-brand-promises-and-product-behavior-drift-apart-e0a22d317f93?source=rss------product_design-5",
+      "pubDate": "Fri, 18 Sep 2026 15:33:08 GMT"
     },
     {
-      "headline": "A Non-Coding Designer Built a Real App — Here's What Happened",
-      "background": "The question of whether designers need to code resurfaces constantly, but documentation of designers actually attempting to ship production software without engineering support remains rare. This piece follows one designer through building an app called EVA.",
+      "headline": "Google Stitch vs Figma AI: same app, two tools compared",
+      "background": "Both Google Stitch and Figma AI launched AI-driven prototyping features that generate UI from text prompts, and designers are actively trying to determine which is more useful for real work versus demos.",
       "keyFindings": [
-        "The designer relied on no-code or AI-assisted tools to move from design to functional product without writing traditional code",
-        "The process surfaced concrete gaps between design intent and technical constraints that are typically caught during handoff with engineers",
-        "The experience reframed the author's understanding of what 'buildable' means when reviewing their own design decisions"
+        "Both tools can produce a functional mobile app prototype from a single text prompt",
+        "The comparison was conducted by designing the same app in both tools side by side",
+        "The piece is a hands-on evaluation, not a feature-list comparison"
       ],
-      "implications": "Relevant for designers curious about no-code tools or AI-assisted development — the value here is less about the output and more about how direct build experience changes design judgment. Approach as anecdote, not a repeatable workflow prescription.",
+      "implications": "For teams evaluating AI design tooling, prompt-to-prototype comparisons on actual project briefs are more informative than feature announcements. Check the full piece for specifics on output quality, editability, and where each tool breaks down.",
       "tags": [
-        "No-Code Tools",
-        "Design-to-Dev",
-        "AI tools"
+        "AI tools",
+        "Prototyping",
+        "Design tooling"
       ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*2nKwDlme8WOR2ySt9rvIZg.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@yendy.yara/what-happens-when-a-designer-who-cant-code-builds-a-real-app-3c3994a1af21?source=rss------product_design-5",
-      "pubDate": "Thu, 17 Sep 2026 15:43:58 GMT"
-    },
-    {
-      "headline": "How to Redesign a Site Without Tanking Your SEO",
-      "background": "Website redesigns frequently cause significant drops in organic search traffic due to URL structure changes, content reorganization, or technical regressions — losses that can take months to recover. This piece addresses how to mitigate that risk during a planned redesign.",
-      "keyFindings": [
-        "Preserving URL structures or implementing comprehensive 301 redirects is flagged as the single highest-leverage SEO protection during a redesign",
-        "Content auditing before redesign — identifying which pages drive organic traffic — should inform information architecture decisions, not follow them",
-        "Core Web Vitals scores can regress during redesigns if performance is not explicitly retested on the new build before launch"
-      ],
-      "implications": "Product and UX teams that hand off redesign specs without looping in SEO or analytics data risk destroying existing acquisition performance — make traffic analysis a required input to IA decisions, not an afterthought.",
-      "tags": [
-        "SEO",
-        "Information Architecture",
-        "Web Performance"
-      ],
-      "featured": false,
+      "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1779/1*5zVUvUlpX1wByf8tIJ2YAA.png",
+      "image": "https://cdn-images-1.medium.com/max/1791/1*4o49JV3vDIewJm7tS0hRWA.png",
       "source": "UX on Medium",
-      "link": "https://triare.medium.com/how-to-redesign-a-website-with-minimal-loss-of-rankings-and-users-ce0c176ca4f9?source=rss------ux-5",
-      "pubDate": "Thu, 17 Sep 2026 15:23:05 GMT"
+      "link": "https://uxplanet.org/google-stitch-vs-figma-ai-i-designed-the-same-mobile-app-with-both-7a219c347dba?source=rss------ux-5",
+      "pubDate": "Fri, 18 Sep 2026 14:48:43 GMT"
     },
     {
-      "headline": "Microsoft Makes the Case for User-Centered AI Evaluation",
-      "background": "Most AI model evaluation focuses on benchmark performance and accuracy metrics defined by engineers and researchers, with actual end-user experience treated as secondary. Microsoft Design published a framework arguing evaluation methods need to reorient around user goals and contexts.",
+      "headline": "A designer reflects on being laid off and nearly quitting",
+      "background": "Layoffs in the design industry have been widespread since 2023, and personal accounts of their professional and psychological impact surface regularly — with mixed utility as reference material.",
       "keyFindings": [
-        "Current AI evaluation benchmarks often measure capabilities that do not correspond to how users actually interact with AI products in real workflows",
-        "Microsoft's approach proposes integrating task-based user research and contextual inquiry directly into the AI evaluation pipeline, not just post-launch usability testing",
-        "The framework distinguishes between model performance and product performance, arguing teams conflate the two at the cost of user outcomes"
+        "Author was laid off in July and describes nearly leaving the design field as a result",
+        "No research, frameworks, or concrete professional insights are visible in the snippet"
       ],
-      "implications": "For UX practitioners working on AI-powered products, this gives concrete language and structure to push back on evaluation processes that exclude user research — worth citing internally when advocating for research involvement earlier in AI product development cycles.",
+      "implications": "This appears to be a personal essay rather than a professional reference piece. May have emotional resonance for designers navigating similar situations but is unlikely to contain actionable career or craft guidance.",
       "tags": [
-        "AI Evaluation",
-        "Research Methods",
-        "AI Products"
+        "Career development",
+        "Layoffs"
       ],
-      "featured": true,
-      "type": "research",
-      "category": "Industry news",
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
       "publishedWindow": "today",
       "image": null,
-      "source": "microsoft.design",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV2JBQzB6U3B1VWljWWpGcTN5QzFIeV80eTR1c0xubnpnZ1RpRlJLcWRBN3ZIbV9qRWZHZkZ2b1NZalhVNXlvZWxTckk2VVUxTUVyUEpLUF91RGdMUWhuYjQya2JHSlQycWl0NHlmakhXQlA1TlJ1UHJIUWNlMHZ6cg?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 14:44:04 GMT"
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@hopemidah/i-almost-quit-design-e9920dc47568?source=rss------product_design-5",
+      "pubDate": "Fri, 18 Sep 2026 14:21:52 GMT"
     },
     {
-      "headline": "Intentional Friction Is Making a Comeback in AI-Era UX",
-      "background": "A decade of UX practice optimized relentlessly for frictionless, low-effort interactions. As AI systems now handle more decisions on users' behalf, there is a growing argument that removing all friction has a cost — particularly around comprehension, consent, and accountability.",
+      "headline": "Google Flow AI tools demoed at Fashion Week collaboration",
+      "background": "Google has been promoting its Flow AI creative tools through high-profile partnerships, using fashion and culture contexts to demonstrate generative video and image capabilities beyond standard product demos.",
       "keyFindings": [
-        "AI automation that removes confirmation steps can reduce user understanding of what actions were taken and why, creating downstream trust problems",
-        "Designers are beginning to reintroduce deliberate pause points — confirmation dialogs, summary screens, explicit approval steps — specifically at the boundary of AI-driven actions",
-        "The piece identifies high-stakes or irreversible actions as the clearest category where friction is not a design failure but a safety mechanism"
+        "Google partnered with fashion designers to showcase Flow AI tools at Fashion Week",
+        "The collaboration appears to be a marketing and visibility exercise rather than a product release",
+        "No technical details or new feature announcements are indicated in the snippet"
       ],
-      "implications": "If you're designing AI features that act on behalf of users — sending messages, making purchases, editing documents — audit which actions are irreversible and consider whether you've removed too much confirmation friction in pursuit of 'seamless' experience.",
+      "implications": "This is a brand marketing story, not a product or tooling update. No changes to tool capabilities or availability are indicated — nothing to act on for practitioners.",
       "tags": [
-        "AI Products",
-        "Interaction Design",
-        "Trust & Safety"
-      ],
-      "featured": true,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Built In",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zbmlyLVA0VUQ2cWFFU3cxTHVFN0dOR2xZc2VrYnR1Q19VMG1aMm1BcDBBMFVPWVNvalVOaXg1emc1TjQ2Qm1sd1NyLWc5R01pdm8teGU0QkpVWExVbGU5UU5hOEVhbzRRemc?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 14:16:13 GMT"
-    },
-    {
-      "headline": "What Gets Lost When Algorithms Measure Everything",
-      "background": "As computational tools take over more observational and analytical tasks — from medical imaging to environmental monitoring — there is an ongoing philosophical debate about what forms of knowledge and judgment only humans can provide, and what happens when those are displaced.",
-      "keyFindings": [
-        "The piece draws a distinction between quantitative measurement, which machines do well, and qualitative appraisal — taste, judgment, felt experience — which resists automation",
-        "Examples from agriculture, medicine, and ecology illustrate cases where metric-optimized systems miss contextually significant signals that experienced human observers catch",
-        "The author argues that over-reliance on computational counting degrades the human capacity for qualitative perception over time, not just in individual decisions"
-      ],
-      "implications": "Relevant context for product teams designing AI-assisted decision tools — useful for framing conversations about where human review should be preserved by design rather than treated as an inefficiency to be automated away.",
-      "tags": [
-        "AI Ethics",
-        "Human Judgment",
-        "Automation"
+        "AI tools",
+        "Google",
+        "Generative AI"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Aeon",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcTRGWVdBRk83a1BQOU5xUl9SZThRajI3aHBUdnJkek45blpQYzlLUHpidHBRMzBtYmE1dkh6LUZJY2tqNmFqZ0lYS3l1Q2x1eENXMkdJV2ZsM2h6S1pVMzZ5Z3EtWFRieVh1T3lIX3pLRjRwUzlUa0ZxN2llclEtdndET1V6eEk?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 10:01:17 GMT"
+      "source": "The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWnluV2RXNUd0d1BRTFphVDVSOUpuU242d3Nic2Y4RHpWVm93bGMzeVN4NlZwZlhuc3VLSS1jdzJ2dS00LWRObEl3ZGNZZkJEVkVWeFJVNkZ2VXFXN0tyOUF0ZW9PbG0wR3JDM0V1V3RhVElDdE1GTFZCeDJ2OERrT0pfUnpyb2Y1VGVTWmdFcEtqNkk?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 13:05:00 GMT"
     },
     {
-      "headline": "Mobile Dev Agency Announces Expansion in Oman",
-      "background": "Junkies Coder, a mobile app development firm, issued a press release announcing expanded services targeting businesses in Oman.",
+      "headline": "Nielsen's roundup: adapting AI to users and making AI show its work",
+      "background": "Jakob Nielsen's UX roundups synthesize current thinking on AI-human interaction, and this edition addresses a cluster of pressing questions: how to customize AI behavior for different users, what makes AI use profitable, and how to handle agentic AI delegation.",
       "keyFindings": [
-        "The announcement covers expanded mobile development capacity directed at the Omani business market",
-        "No specific technical differentiation or case study evidence is cited in the release",
-        "Content is a vendor press release with no independent reporting or data"
+        "Piece covers characteristics of profitable AI use — suggesting not all AI integration creates business value",
+        "Addresses 'progress visibility' as a design requirement when AI agents perform multi-step tasks",
+        "Argues AI must show its work — transparency in reasoning is framed as a UX requirement, not just a trust nice-to-have"
       ],
-      "implications": "No substantive UX, product, or technical insight here — this is a marketing announcement and not relevant to practitioners.",
+      "implications": "The progress visibility and 'show your work' points are directly applicable to anyone designing AI-assisted workflows or agentic features. Users need to understand what an AI did and where it is in a process — this is an interaction design problem, not just an AI ethics one.",
       "tags": [
-        "Industry News",
-        "Mobile Development"
+        "AI interaction design",
+        "Agentic AI",
+        "Transparency"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Issuewire.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQckduQnJRVXNkb2lWeGVJVlpKOVZLMUVDb2FhMWhLMlVrVWJ0Zi03dnZyWDBiUGJSSFRzNjUtaFBDNnVHblFZRVV4M2FWQUQxbWpBdjAwclIwUm5lcGhJWW5TeVhZSWU0ZThSMTFiSDcyUlh5QzJMOEhoYUVKd2tZVWh3Z0VJM3lYSmsyZXo0MHRscVhzUjYzZ0VabXROeVV5cnp2aEZqY3Z6VGlBUDZOc2V5WmNMV0xJTEgw?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 08:34:31 GMT"
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kdmtlLTQ3bnJsQnJ1by1iMWVKZ3ZBMnF4b1VEc1d6bkRyOHBOZW9zMk95ZTJjWlBtVXg1dWhub3Q0akJoamtkZlhpd1Y0d1pUaGdsekY3ZndFVk0tUzFZMUs4b0xreklJUFE?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 11:21:11 GMT"
     },
     {
-      "headline": "Škoda Designer: Even Opening the Car Door Is Designed",
-      "background": "Automotive UX increasingly treats the full physical interaction sequence — not just the digital dashboard — as designed experience. This interview with a Škoda Peaq SUV designer addresses how physical touchpoints like door mechanisms are intentionally designed as experiential moments.",
+      "headline": "Off-topic: Ukrainian teen sets French language exam record",
+      "background": "This article has no connection to UX, product design, or technology.",
       "keyFindings": [
-        "The Peaq's door opening mechanism was deliberately engineered to create a specific tactile and auditory impression as part of the vehicle's brand experience",
-        "The designer frames every physical interaction with the vehicle as a designed micro-moment, not an engineering default",
-        "Sensory consistency across physical and digital touchpoints is described as a deliberate design constraint across the vehicle's development"
+        "Unrelated to UX, product, or tech",
+        "Appears to have been included in the feed in error"
       ],
-      "implications": "A useful reminder for product designers that interaction design principles — sequencing, feedback, sensory response — apply beyond screens. Relevant for anyone working on physical-digital products or hardware where tactile interactions are often under-designed.",
+      "implications": "No relevance to practitioners in this domain. Nothing to act on.",
       "tags": [
-        "Physical Design",
-        "Brand Experience",
-        "Interaction Design"
+        "Off-topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Škoda Storyboard",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWG9kWmJuZXBjeWdCR2dpcTFkSjhZc2UyZGNoQmNrZ0xKUThka2J6N0RYbzV0Z0Vob0pBNk41UHc0eWVtbjBLdXlrWW0ydm5VOEtLM1JiODd3VzdDTnB5WDB0VjZVMXNoRkVwOTk5VzhPSGttVEplTllmVnZvR2xNbl9hS1Q5TVpfQ2VqUGVzZmZiWUozOG1TUmwwZl9pZjVmVGF6WWI3R2otYk9WVHNHeDJHbDZ3OFNSZ1BJ?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 08:03:58 GMT"
+      "source": "glavnoe.in.ua",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSzhxOVNzNmFENHJVU1k3eDlwT2Z4SzdPNDBSSnpxazFMZFVlcnJ3WDZkLTM4dDF6cnB2ZnRzWjdsX053X09hMlNmcEZxWmxQX09JRE9sYTNXTkEwdnpzN2FUVVhrQ1J3WWVQU29xd1gwUnhuYWtIUGxnSF95R25FS3FOSUUwQms2N3UtV24tbXNTcWJCamZldk50TU5MeWVnMVZtQ29EYVhqOFNLNTRPSFctSThlYzcwWWYw0gG7AUFVX3lxTFBLOHE5U3M2YUQ0clVTWTd4OXBPZnhLN080MFJKenFrMUxkVWVycndYNmQtMzh0MXpycHZmdHNaN2xfTndfT2EyU2ZwRnFabFBfT0lET2xhM1dOQTB2enM3YVRVWGtDUndZZVBTb3F3WDBSeG5ha0hQbGdIX3lHbkVLcU5JRTBCazY3dS1Xbi1tc1NxYkJqZmV2TnRNTkx5ZWcxVm1Db0RhWGo4U0s1NE9IVy1JOGVjNzBZZjA?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 09:25:00 GMT"
     },
     {
-      "headline": "BuildLab Pitches a Tool to Reclaim Wasted Work Time",
-      "background": "Productivity tooling is a crowded market, but a subset of startups is specifically targeting the problem of untracked or misallocated time in professional and creative workflows. BuildLab announced a product positioning around solving 'time sinks' for teams.",
+      "headline": "Digital experience quality now tied directly to business impact",
+      "background": "The business case for investing in digital experience has been debated for years, with executives often treating UX as a cost center rather than a revenue driver — a framing this piece appears to push back on.",
       "keyFindings": [
-        "BuildLab is positioning its product around identifying and reducing time spent on low-value or repetitive work tasks",
-        "The announcement does not include a public product demo, pricing, or specific methodology for how time waste is detected",
-        "Coverage appears to be based on a company announcement with no independent product review"
+        "The snippet frames digital experience as more consequential to business outcomes than previously recognized",
+        "Appears to draw on recognition or award data to argue for real-world impact",
+        "No specific metrics or research findings are visible from the snippet alone"
       ],
-      "implications": "Nothing actionable for practitioners yet — monitor for a product launch with concrete feature detail before evaluating relevance to team workflows.",
+      "implications": "Without the full article, it's unclear whether this is backed by original data or is an opinion piece. Worth reading if you need business-case language for internal stakeholders, but verify whether claims are supported by cited evidence.",
       "tags": [
-        "Productivity Tools",
-        "Startups"
+        "Business case for UX",
+        "Digital experience",
+        "ROI"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Hello Partner",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHZiNWVkSnlmTXU4ZURCVmpNOTZqb1ZkSEpfaXYxZGx0cG5vSy1PVXRKMmxXbktFa2lVOFYwS3ZsR1Z4RWpINzVEdHdVR1pfelhPUlM2WGllSGV3OExDRmdkb2VLNWtmMnJaSzk0WUl2ZjVDcDJxdVRFeGFsZlJBQUZyV2pTQ2FuQTRValVpcDM?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 08:03:05 GMT"
+      "source": "Bizcommunity",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTVEyQ05HZWRZWFZZa2lHeTVadzlMbkZyT2JVaXk0aFd3WHhNX0JaQmxGZDFmSVE3aWV4Z20zZll5TTNiazNaSHRNcXR2S1N1MkNRWGRNTVpEaF9ESWNXVUZIamNtWkQ3cjhock45ZXBCUmI5Yy01VlZkd01ELTlyY2NwQmcwT0JISHpBTnUzMmNQTTJwQmRHVEV4WjFPeFlkWDRQRlFNTkpMaDhpLTh4UG5aZktWY2NZYmhQRVBIdw?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 07:13:12 GMT"
+    },
+    {
+      "headline": "Off-topic: Games 4 Change Festival coverage",
+      "background": "Games 4 Change is an annual event focused on social impact games, which sits adjacent to but outside the core UX/product/tech practitioner audience of this digest.",
+      "keyFindings": [
+        "Event focuses on games designed for social impact",
+        "No UX, product, or design research content is indicated in the snippet"
+      ],
+      "implications": "Marginally relevant if you work on game UX or gamification for social impact products, but the snippet provides no actionable content. Skip unless you have a specific interest in this space.",
+      "tags": [
+        "Games",
+        "Off-topic"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "gamedev.net",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxWVdLNHlUTEFObDRaUHdSUVhnTlFXZXVEYUFxbXRDRFFqTnk4TUs0NHU0TU5LSHhFRzhYdXJaMWRyWm5ONmlkcUQ3WDZaUXVMR0RxZWpZSUs2RGV2R2FNV19lR08?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 07:00:03 GMT"
+    },
+    {
+      "headline": "Cyces acquires Looppanel to expand AI-powered research tooling",
+      "background": "Looppanel is an AI user research platform that automates interview analysis, note-taking, and insight extraction. Acquisitions in the research tooling space signal ongoing consolidation as AI capabilities become a competitive differentiator.",
+      "keyFindings": [
+        "Cyces has acquired Looppanel, an AI-powered user research analysis tool",
+        "The stated goal is accelerating AI capabilities in user research workflows",
+        "Consolidation in the research tooling market continues, reducing the number of independent AI research platforms"
+      ],
+      "implications": "If your team uses Looppanel, monitor for changes to pricing, feature roadmap, or data handling policies post-acquisition. For teams evaluating research tools, factor acquisition risk into vendor decisions — independent tools can shift priorities quickly after M&A.",
+      "tags": [
+        "User research tools",
+        "AI tools",
+        "M&A"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSjFFWW1ELWJQd1R5SDFTYXVyVlJTbUxUUmlNU3lGUElSMFhmSmZYRnNsVTkweTVuZFloWFNGak1RVTItcTBGNk5zUGxoSUhzM1J4UmVvU2I5WmFTS3JHcHFSWTdQLWQ1Rm1ndi00ZkRkVnh5YkpwNjJlcjNIbUlEY3dMOG9fMGV3Y1FTUXQ2bEVONEJLcHY4dE1HWjg3YWU0THVBYTdkbjBCSUhidXBES1RlSW5NbE5SUFk0RF9iWEIzblU?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 05:59:00 GMT"
     }
   ]
 }
