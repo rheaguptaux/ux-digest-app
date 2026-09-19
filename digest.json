@@ -1,227 +1,217 @@
 {
-  "generatedAt": "2026-09-18T15:57:23.209Z",
+  "generatedAt": "2026-09-19T15:29:12.193Z",
   "items": [
     {
-      "headline": "Capstone project: designing a wedding vendor marketplace",
-      "background": "Bootcamp and career-track capstone projects offer a window into how emerging designers tackle real-world product problems, including marketplace dynamics that involve multiple user types.",
+      "headline": "Business cards still need to communicate your value fast.",
+      "background": "Business cards persist as a physical touchpoint in professional networking, but many designers and professionals treat them as formalities rather than communication tools with a specific job to do.",
       "keyFindings": [
-        "Project is a UI/UX career track capstone focused on a two-sided marketplace for wedding vendors",
-        "Snippet provides no methodology, research findings, or design decisions beyond the premise"
+        "A business card should let someone recall who you are and what you do without a follow-up conversation",
+        "The constraint of small physical format forces clarity about your professional identity and value proposition"
       ],
-      "implications": "Without access to the full case study, there is nothing concrete to evaluate or learn from here. Useful only if you click through and the full write-up details research methods, IA decisions, or usability findings.",
+      "implications": "Useful prompt for UX and product folks to audit how they communicate their role — if your card (or LinkedIn headline) can't convey your value in seconds, your positioning probably needs work regardless of medium.",
       "tags": [
-        "Marketplace design",
-        "Case study",
-        "Career development"
+        "Personal Branding",
+        "Communication Design"
       ],
       "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2148/1*jTk4Qp1Us8mch6RTOeL-iA.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@sneha.subru.1708/designing-knotbook-a-wedding-vendor-marketplace-24b7fcf5fcb4?source=rss------product_design-5",
-      "pubDate": "Fri, 18 Sep 2026 15:41:34 GMT"
-    },
-    {
-      "headline": "Why brand promises and product behavior keep drifting apart",
-      "background": "Brand and product teams at most companies operate in separate silos, with brand setting guidelines around values and messaging while product teams make interaction decisions independently — creating gaps users notice even when teams don't.",
-      "keyFindings": [
-        "Brand and digital product are typically designed as parallel, disconnected workstreams",
-        "The drift between stated brand values and actual product behavior erodes user trust over time",
-        "Organizational structure, not just design intent, is identified as the root cause of the misalignment"
-      ],
-      "implications": "If you work on a product where brand guidelines exist but aren't embedded in design system decisions or interaction principles, this is a structural problem — not a handoff problem. Cross-functional alignment between brand and product at the systems level is the lever to pull.",
-      "tags": [
-        "Brand alignment",
-        "Design systems",
-        "Product strategy"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*iql4l5vRUrlL0TinDcl4_A.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@nadia_795/the-real-reason-brand-promises-and-product-behavior-drift-apart-e0a22d317f93?source=rss------product_design-5",
-      "pubDate": "Fri, 18 Sep 2026 15:33:08 GMT"
-    },
-    {
-      "headline": "Google Stitch vs Figma AI: same app, two tools compared",
-      "background": "Both Google Stitch and Figma AI launched AI-driven prototyping features that generate UI from text prompts, and designers are actively trying to determine which is more useful for real work versus demos.",
-      "keyFindings": [
-        "Both tools can produce a functional mobile app prototype from a single text prompt",
-        "The comparison was conducted by designing the same app in both tools side by side",
-        "The piece is a hands-on evaluation, not a feature-list comparison"
-      ],
-      "implications": "For teams evaluating AI design tooling, prompt-to-prototype comparisons on actual project briefs are more informative than feature announcements. Check the full piece for specifics on output quality, editability, and where each tool breaks down.",
-      "tags": [
-        "AI tools",
-        "Prototyping",
-        "Design tooling"
-      ],
-      "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1791/1*4o49JV3vDIewJm7tS0hRWA.png",
+      "image": "https://cdn-images-1.medium.com/max/1122/1*ed82cMSu4GtbRxJGZlmXQw.png",
       "source": "UX on Medium",
-      "link": "https://uxplanet.org/google-stitch-vs-figma-ai-i-designed-the-same-mobile-app-with-both-7a219c347dba?source=rss------ux-5",
-      "pubDate": "Fri, 18 Sep 2026 14:48:43 GMT"
+      "link": "https://medium.com/@waqaskhanlla/your-business-card-is-small-the-job-it-carries-is-important-bc9a864c23d9?source=rss------ux-5",
+      "pubDate": "Sat, 19 Sep 2026 14:16:50 GMT"
     },
     {
-      "headline": "A designer reflects on being laid off and nearly quitting",
-      "background": "Layoffs in the design industry have been widespread since 2023, and personal accounts of their professional and psychological impact surface regularly — with mixed utility as reference material.",
+      "headline": "Using AI as a design thinking partner, not just a tool.",
+      "background": "Many practitioners use AI tools for output generation, but there's growing interest in using them earlier in the process — for brief development, constraint exploration, and ideation scaffolding.",
       "keyFindings": [
-        "Author was laid off in July and describes nearly leaving the design field as a result",
-        "No research, frameworks, or concrete professional insights are visible in the snippet"
+        "The author frames AI conversations as a way to stress-test briefs before execution begins",
+        "Questioning and exploring alternatives with AI can surface assumptions a solo designer might miss early"
       ],
-      "implications": "This appears to be a personal essay rather than a professional reference piece. May have emotional resonance for designers navigating similar situations but is unlikely to contain actionable career or craft guidance.",
+      "implications": "Most relevant to independent designers or small teams without access to regular critique — using AI for brief interrogation is a low-cost way to pressure-test scope before committing to a direction. Results depend heavily on prompt quality.",
       "tags": [
-        "Career development",
-        "Layoffs"
+        "AI tools",
+        "Design Process"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1400/1*xaHnVNAUa3iCfo3jluM2oQ.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/ai-tools-in-practice/impeccable-and-superdesign-start-with-the-brief-166573d42399?source=rss------ux-5",
+      "pubDate": "Sat, 19 Sep 2026 14:01:03 GMT"
+    },
+    {
+      "headline": "CAD's role in product design, explained for students.",
+      "background": "This appears to be a student-submitted academic overview of computer-aided design in product development contexts, likely part of a course requirement.",
+      "keyFindings": [
+        "Student-level survey content covering CAD applications in modern product design workflows"
+      ],
+      "implications": "Not a practitioner resource. Content is introductory and academic in nature — not suitable as a reference for working product designers or UX professionals.",
+      "tags": [
+        "Product Design",
+        "CAD"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": null,
+      "image": "https://cdn-images-1.medium.com/max/800/0*ZzQY5_GwUX6h7ni3",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@hopemidah/i-almost-quit-design-e9920dc47568?source=rss------product_design-5",
-      "pubDate": "Fri, 18 Sep 2026 14:21:52 GMT"
+      "link": "https://medium.com/@nishavarma1404/role-of-cad-in-modern-product-design-10ec4fa1ebc3?source=rss------product_design-5",
+      "pubDate": "Sat, 19 Sep 2026 14:00:26 GMT"
     },
     {
-      "headline": "Google Flow AI tools demoed at Fashion Week collaboration",
-      "background": "Google has been promoting its Flow AI creative tools through high-profile partnerships, using fashion and culture contexts to demonstrate generative video and image capabilities beyond standard product demos.",
+      "headline": "Your portfolio should show thinking, not just polish.",
+      "background": "There's an ongoing debate in UX hiring about whether portfolios should prioritize visual craft or documented decision-making — recruiters and hiring managers increasingly report that polished case studies without reasoning don't de-risk a hire.",
       "keyFindings": [
-        "Google partnered with fashion designers to showcase Flow AI tools at Fashion Week",
-        "The collaboration appears to be a marketing and visibility exercise rather than a product release",
-        "No technical details or new feature announcements are indicated in the snippet"
+        "Hiring managers use portfolios as risk assessments, not galleries — they're looking for evidence you can solve the problems they have",
+        "Showing process, constraints, and tradeoffs signals reliability more than visual finish",
+        "A portfolio that hides ambiguity or failure can raise more suspicion than one that addresses it directly"
       ],
-      "implications": "This is a brand marketing story, not a product or tooling update. No changes to tool capabilities or availability are indicated — nothing to act on for practitioners.",
+      "implications": "If you're a UX or product designer updating your portfolio, document the 'why' behind decisions — especially constraints, stakeholder conflicts, and what you'd do differently. This matters more in senior-level hiring where judgment is the actual thing being evaluated.",
       "tags": [
-        "AI tools",
-        "Google",
-        "Generative AI"
+        "Portfolio",
+        "Hiring",
+        "Career Development"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*ZWAskcX-p2DkjZlz3mLFiw.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@redxgraphixs/your-portfolio-is-not-a-gallery-it-is-a-risk-assessment-508356ed4f86?source=rss------product_design-5",
+      "pubDate": "Sat, 19 Sep 2026 13:20:58 GMT"
+    },
+    {
+      "headline": "A degree guide to communication design in India.",
+      "background": "Communication design as a formal degree path is less well-known than graphic design or UX in many markets, and prospective students often lack consolidated information on programs, costs, and career outcomes.",
+      "keyFindings": [
+        "Covers eligibility criteria, top colleges, fee structures, curriculum components, and salary ranges for B.Des in Communication Design in India"
+      ],
+      "implications": "Relevant primarily to students or educators in the Indian design education market. Not actionable for working practitioners outside that context.",
+      "tags": [
+        "Design Education",
+        "Communication Design"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "The Tech Buzz",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWnluV2RXNUd0d1BRTFphVDVSOUpuU242d3Nic2Y4RHpWVm93bGMzeVN4NlZwZlhuc3VLSS1jdzJ2dS00LWRObEl3ZGNZZkJEVkVWeFJVNkZ2VXFXN0tyOUF0ZW9PbG0wR3JDM0V1V3RhVElDdE1GTFZCeDJ2OERrT0pfUnpyb2Y1VGVTWmdFcEtqNkk?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 13:05:00 GMT"
+      "source": "College Mentor",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDTEVMLU9nUVZmUkJOdW14eFY2VlRUNzgxaEZjXzNydk9tcFU1Smk5dTR3ZUQ1ZVRzTkVWdFQ3bXp3c2lzSFdKcHRVRlIzb1A3RUM3N1hNOW56Wk1kY2RWbUlnQ3ZjRllMSVVrLWtVTzVqdw?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 10:24:13 GMT"
     },
     {
-      "headline": "Nielsen's roundup: adapting AI to users and making AI show its work",
-      "background": "Jakob Nielsen's UX roundups synthesize current thinking on AI-human interaction, and this edition addresses a cluster of pressing questions: how to customize AI behavior for different users, what makes AI use profitable, and how to handle agentic AI delegation.",
+      "headline": "Amazon's dark pattern settlement keeps getting bigger.",
+      "background": "Amazon was found to have used manipulative UI patterns to enroll users in Prime subscriptions without clear consent and to make cancellation deliberately difficult — the FTC took action, and settlements have been ongoing.",
       "keyFindings": [
-        "Piece covers characteristics of profitable AI use — suggesting not all AI integration creates business value",
-        "Addresses 'progress visibility' as a design requirement when AI agents perform multi-step tasks",
-        "Argues AI must show its work — transparency in reasoning is framed as a UX requirement, not just a trust nice-to-have"
+        "The Amazon Prime dark patterns settlement has expanded beyond its original scope",
+        "The case involves enrollment flows designed to obscure subscription commitment and cancellation paths that required multiple steps across non-obvious UI locations"
       ],
-      "implications": "The progress visibility and 'show your work' points are directly applicable to anyone designing AI-assisted workflows or agentic features. Users need to understand what an AI did and where it is in a process — this is an interaction design problem, not just an AI ethics one.",
+      "implications": "A concrete legal precedent for what regulators classify as dark patterns at scale. Product and UX teams building subscription flows should treat this case as a checklist of what not to implement — particularly around cancellation friction and consent clarity.",
       "tags": [
-        "AI interaction design",
-        "Agentic AI",
-        "Transparency"
+        "Dark Patterns",
+        "Legal & Compliance",
+        "Subscription UX"
+      ],
+      "featured": true,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "ContentGrip",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCMS1NZUpMNzFwNXEtbG05cVZYZWp4WVRlNVFPbWl0Vk96QVRFdGYtSDdKQlZOazJIMWt5Rkp0YVRaUGVhZ3Q3Mnc3bFA1algyM0ViVXA0ejJCbjJIcDQzYzBNVExEQQ?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 06:53:26 GMT"
+    },
+    {
+      "headline": "A vendor list for Android dev agencies in the US.",
+      "background": "Startups and enterprises sourcing Android development partners face a fragmented vendor landscape with little independent quality signal.",
+      "keyFindings": [
+        "Roundup-style listing of Android app development service providers in the US, aimed at startup and enterprise buyers"
+      ],
+      "implications": "Directory-style content with no disclosed editorial criteria for inclusion. Treat as a starting point for vendor discovery only — independent vetting required.",
+      "tags": [
+        "Mobile Development",
+        "Vendor Selection"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kdmtlLTQ3bnJsQnJ1by1iMWVKZ3ZBMnF4b1VEc1d6bkRyOHBOZW9zMk95ZTJjWlBtVXg1dWhub3Q0akJoamtkZlhpd1Y0d1pUaGdsekY3ZndFVk0tUzFZMUs4b0xreklJUFE?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 11:21:11 GMT"
+      "source": "WhaTech",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS21udHFhYjlaRUlIaUM2VkJwc1VGeFhSZUFoOWZhRC1STF83cXMzTkpBeFplMUVaMVhpV25QQ2MyanM1ajdVbmh6ZTN6Y2dRTVFabWVTZXdEbGdoTXNEMGpLNWhiR2paN243Vk9yMTQ5Y2lNYVAtaVVCTWx6bWltX1RUWWRTcjVCNHpnUnNXeEtXUmdmeWpSUHJCNkxyMl9hQ0xoWGp1TG9ua0Fyb1RlMEpDLXdNUkxCSXNybFFvd294WXRFckxmamM0MFdJLVdhaHpyekswVF9hLWhZM2xNRTdLbEUyMklrQmfSAeoBQVVfeXFMTkttbnRxYWI5WkVJSGlDNlZCcHNVRnhYUmVBaDlmYUQtUkxfN3FzM05KQXhaZTFFWjFYaVduUENjMmpzNWo3VW5oemUzemNnUU1RWm1lU2V3RGxnaE1zRDBqSzVoYkdqWjduN1ZPcjE0OWNpTWFQLWlVQk1sem1pbV9UVFlkU3I1QjR6Z1JzV3hLV1JnZnlqUlByQjZMcjJfYUNMaFhqdUxvbmtBcm9UZTBKQy13TVJMQklzcmxRb3dveFl0RXJMZmpjNDBXSS1XYWh6cnpLMFRfYS1oWTNsTUU3S2xFMjJJa0Jn?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 05:55:17 GMT"
     },
     {
-      "headline": "Off-topic: Ukrainian teen sets French language exam record",
-      "background": "This article has no connection to UX, product design, or technology.",
+      "headline": "A US super app agency roundup for 2026.",
+      "background": "Super apps — single platforms combining messaging, payments, commerce, and services — have struggled to gain traction in Western markets, but interest from enterprises and investors continues.",
       "keyFindings": [
-        "Unrelated to UX, product, or tech",
-        "Appears to have been included in the feed in error"
+        "Roundup of US-based companies offering super app development services, framed around 2026 planning"
       ],
-      "implications": "No relevance to practitioners in this domain. Nothing to act on.",
+      "implications": "Vendor listing without disclosed selection methodology. Useful only as a cold starting list — the super app model itself remains largely unproven in North American consumer markets, which should inform any scoping conversation with these vendors.",
       "tags": [
-        "Off-topic"
+        "Super Apps",
+        "Mobile Development"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "glavnoe.in.ua",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSzhxOVNzNmFENHJVU1k3eDlwT2Z4SzdPNDBSSnpxazFMZFVlcnJ3WDZkLTM4dDF6cnB2ZnRzWjdsX053X09hMlNmcEZxWmxQX09JRE9sYTNXTkEwdnpzN2FUVVhrQ1J3WWVQU29xd1gwUnhuYWtIUGxnSF95R25FS3FOSUUwQms2N3UtV24tbXNTcWJCamZldk50TU5MeWVnMVZtQ29EYVhqOFNLNTRPSFctSThlYzcwWWYw0gG7AUFVX3lxTFBLOHE5U3M2YUQ0clVTWTd4OXBPZnhLN080MFJKenFrMUxkVWVycndYNmQtMzh0MXpycHZmdHNaN2xfTndfT2EyU2ZwRnFabFBfT0lET2xhM1dOQTB2enM3YVRVWGtDUndZZVBTb3F3WDBSeG5ha0hQbGdIX3lHbkVLcU5JRTBCazY3dS1Xbi1tc1NxYkJqZmV2TnRNTkx5ZWcxVm1Db0RhWGo4U0s1NE9IVy1JOGVjNzBZZjA?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 09:25:00 GMT"
+      "source": "WhaTech",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcU9ycHRsdG05SVNIT19SczJJMkdDWlUtOWxOVDhPaDhGU0FMVTJBcXFFS3Y4YWR3LUxoTU1naXpGRTFYNlNQdVRKYmM3TFFTTFhVWUhHMDYzc0JLaGZFQ0RpQ1hzeDIxSzNVMWJURUl0bEdKNTdYYzA1bU1pNXMwRklaX05CYTExdU1vRWJmTXNFXzRVNms1dWZnS0NUXzgtbzQxWGxJZGVSbXdiOUR6elJ5YTR0VE9LSmdqeVNB0gG-AUFVX3lxTFBxT3JwdGx0bTlJU0hPX1JzMkkyR0NaVS05bE5UOE9oOEZTQUxVMkFxcUVLdjhhZHctTGhNTWdpekZFMVg2U1B1VEpiYzdMUVNMWFVZSEcwNjNzQktoZkVDRGlDWHN4MjFLM1UxYlRFSXRsR0o1N1hjMDVtTWk1czBGSVpfTkJhMTF1TW9FYmZNc0VfNFU2azV1ZmdLQ1RfOC1vNDFYbElkZVJtd2I5RHp6UnlhNHRUT0tKZ2p5U0E?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 05:23:51 GMT"
     },
     {
-      "headline": "Digital experience quality now tied directly to business impact",
-      "background": "The business case for investing in digital experience has been debated for years, with executives often treating UX as a cost center rather than a revenue driver — a framing this piece appears to push back on.",
+      "headline": "NN/g's structured study guide for designing AI products.",
+      "background": "Designers entering AI product work face a scattered landscape of guidance — this is Nielsen Norman Group's attempt to provide a structured learning path through their own existing content on AI UX.",
       "keyFindings": [
-        "The snippet frames digital experience as more consequential to business outcomes than previously recognized",
-        "Appears to draw on recognition or award data to argue for real-world impact",
-        "No specific metrics or research findings are visible from the snippet alone"
+        "Organizes NN/g articles and videos into a sequenced curriculum for AI product and feature design",
+        "Covers recommendations across categories including mental models, transparency, error handling, and human-AI interaction patterns"
       ],
-      "implications": "Without the full article, it's unclear whether this is backed by original data or is an opinion piece. Worth reading if you need business-case language for internal stakeholders, but verify whether claims are supported by cited evidence.",
+      "implications": "A practical starting point for UX practitioners being asked to design AI features without prior experience in the space. Content is NN/g-only, so supplement with external case studies — but the structural framing of what to learn is sound.",
       "tags": [
-        "Business case for UX",
-        "Digital experience",
-        "ROI"
+        "AI Design",
+        "Learning Resources",
+        "Product Design"
       ],
       "featured": false,
       "type": "research",
-      "category": "Industry news",
+      "category": "Research",
       "publishedWindow": "today",
       "image": null,
-      "source": "Bizcommunity",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTVEyQ05HZWRZWFZZa2lHeTVadzlMbkZyT2JVaXk0aFd3WHhNX0JaQmxGZDFmSVE3aWV4Z20zZll5TTNiazNaSHRNcXR2S1N1MkNRWGRNTVpEaF9ESWNXVUZIamNtWkQ3cjhock45ZXBCUmI5Yy01VlZkd01ELTlyY2NwQmcwT0JISHpBTnUzMmNQTTJwQmRHVEV4WjFPeFlkWDRQRlFNTkpMaDhpLTh4UG5aZktWY2NZYmhQRVBIdw?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 07:13:12 GMT"
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/designing-ai-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 18 Sep 2026 17:00:00 +0000"
     },
     {
-      "headline": "Off-topic: Games 4 Change Festival coverage",
-      "background": "Games 4 Change is an annual event focused on social impact games, which sits adjacent to but outside the core UX/product/tech practitioner audience of this digest.",
+      "headline": "AI agent users manage three distinct types of context.",
+      "background": "As AI agents move beyond single-turn prompts to handle multi-step tasks, practitioners and researchers are trying to understand how effective users actually structure and manage the information they feed these systems.",
       "keyFindings": [
-        "Event focuses on games designed for social impact",
-        "No UX, product, or design research content is indicated in the snippet"
+        "Power users maintain global context (persistent preferences and constraints across all tasks), local context (task-specific details), and ambient context (live data streams like email or calendars)",
+        "Treating all context as the same leads to agents that perform poorly on complex or ongoing tasks",
+        "Deliberately curating context type by type improves agent reliability and output relevance"
       ],
-      "implications": "Marginally relevant if you work on game UX or gamification for social impact products, but the snippet provides no actionable content. Skip unless you have a specific interest in this space.",
+      "implications": "Directly applicable for teams building AI agent interfaces or workflows — the three-context model gives designers a framework for what inputs to surface, persist, or auto-inject at the UI level. Also useful for individual practitioners building their own agent-based workflows.",
       "tags": [
-        "Games",
-        "Off-topic"
+        "AI Agents",
+        "Context Design",
+        "Workflow Design"
       ],
       "featured": false,
       "type": "research",
-      "category": "Industry news",
+      "category": "Research",
       "publishedWindow": "today",
       "image": null,
-      "source": "gamedev.net",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxWVdLNHlUTEFObDRaUHdSUVhnTlFXZXVEYUFxbXRDRFFqTnk4TUs0NHU0TU5LSHhFRzhYdXJaMWRyWm5ONmlkcUQ3WDZaUXVMR0RxZWpZSUs2RGV2R2FNV19lR08?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 07:00:03 GMT"
-    },
-    {
-      "headline": "Cyces acquires Looppanel to expand AI-powered research tooling",
-      "background": "Looppanel is an AI user research platform that automates interview analysis, note-taking, and insight extraction. Acquisitions in the research tooling space signal ongoing consolidation as AI capabilities become a competitive differentiator.",
-      "keyFindings": [
-        "Cyces has acquired Looppanel, an AI-powered user research analysis tool",
-        "The stated goal is accelerating AI capabilities in user research workflows",
-        "Consolidation in the research tooling market continues, reducing the number of independent AI research platforms"
-      ],
-      "implications": "If your team uses Looppanel, monitor for changes to pricing, feature roadmap, or data handling policies post-acquisition. For teams evaluating research tools, factor acquisition risk into vendor decisions — independent tools can shift priorities quickly after M&A.",
-      "tags": [
-        "User research tools",
-        "AI tools",
-        "M&A"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSjFFWW1ELWJQd1R5SDFTYXVyVlJTbUxUUmlNU3lGUElSMFhmSmZYRnNsVTkweTVuZFloWFNGak1RVTItcTBGNk5zUGxoSUhzM1J4UmVvU2I5WmFTS3JHcHFSWTdQLWQ1Rm1ndi00ZkRkVnh5YkpwNjJlcjNIbUlEY3dMOG9fMGV3Y1FTUXQ2bEVONEJLcHY4dE1HWjg3YWU0THVBYTdkbjBCSUhidXBES1RlSW5NbE5SUFk0RF9iWEIzblU?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 05:59:00 GMT"
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/3-agent-context-roles/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 18 Sep 2026 17:00:00 +0000"
     }
   ]
 }
