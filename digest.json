@@ -1,223 +1,234 @@
 {
-  "generatedAt": "2026-09-21T17:57:11.027Z",
+  "generatedAt": "2026-09-22T16:25:10.876Z",
   "items": [
     {
-      "headline": "AI builds fast — but context gets lost in transit",
-      "background": "As AI accelerates development cycles, teams are shipping faster but struggling to maintain shared understanding across research, design, and engineering. The breakdown happens when decisions and constraints don't travel cleanly between disciplines.",
+      "headline": "Survivor bias is making your service look better than it is",
+      "background": "UX research teams routinely collect feedback through post-completion surveys and success-state interviews, which structurally excludes anyone who dropped off before finishing. This creates a systematic blind spot that inflates perceived service quality.",
       "keyFindings": [
-        "Knowledge loss compounds across handoffs when AI-assisted builds skip the documentation layer",
-        "Research and design rationale gets decoupled from implementation when speed is prioritized",
-        "Design systems are particularly vulnerable because they depend on documented reasoning, not just outputs"
+        "Users who abandon a service mid-flow are invisible in most standard feedback loops, meaning failure modes go undetected",
+        "Positive completion data can mask serious barriers experienced by a large portion of attempted users",
+        "Designing research to capture dropout points — via analytics, exit surveys, or recruitment of non-completers — is necessary to get an accurate picture"
       ],
-      "implications": "Teams using AI to accelerate delivery should treat context preservation — decision logs, constraint documentation, rationale trails — as a first-class deliverable, not an afterthought. Especially critical in design systems work where future contributors inherit decisions without their original authors.",
+      "implications": "If your team is using NPS or post-task surveys as primary signals, you're likely measuring only your best-case users. Supplement with dropout recruitment and funnel drop-off analysis to surface real failure rates.",
       "tags": [
-        "Design Systems",
-        "AI tools",
-        "Documentation"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*xmE9meH4bq1DAGKs7LMqCw.png",
-      "source": "Product Design on Medium",
-      "link": "https://www.designsystemscollective.com/ai-made-building-faster-context-needs-to-keep-up-31c75e60a952?source=rss------product_design-5",
-      "pubDate": "Mon, 21 Sep 2026 17:52:03 GMT"
-    },
-    {
-      "headline": "Professional award announcement: Shayla Williams Fender",
-      "background": "Industry membership organizations periodically recognize members with tiered distinctions.",
-      "keyFindings": [
-        "Shayla Williams Fender was named a Pinnacle Professional Member of the Inner Circle of Excellence"
-      ],
-      "implications": "Not substantively relevant to UX, product, or tech practice. No actionable findings.",
-      "tags": [
-        "Industry News"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTUdkVEthTDEtejdfOGllcUZrYjBWSVh2cHdOenE2XzFpaTYzM0F5R0RWa1l0ejIzd2xRbjNDeTZwNU5sU18yZEdzMENUZlhIMlJLWWYxY2lVMWtxLVV4a3lhaWNJQzFiQWVadklqSGdidS1rUjVDbEdKMGhIOEZEcEhXNXBibC0zYzN1ZEtpSXpJOEJ0eWNNSkdXT3hSWjdNdzZtWnRNRkwwSE9vS0pWeWFOZmFPSVctRmVuTDZEMnhzZXNIdEFfS25CbGs4TmxxVkxUdXZVMFpOTXlVWkJmVzA0d25NXzBhRjFpLU04ckc2ZGF1eDdPS2JtTnRlUQ?oc=5",
-      "pubDate": "Mon, 21 Sep 2026 17:50:00 GMT"
-    },
-    {
-      "headline": "Write evals first, PRDs second for AI products",
-      "background": "Product managers building AI features are finding that traditional PRDs — which specify what to build — don't address the central challenge of AI development: determining whether the system is actually behaving correctly.",
-      "keyFindings": [
-        "Evals (evaluation frameworks) define what 'working correctly' means for an AI feature before a line of code is written",
-        "PRDs answer 'what to build'; evals answer 'how do we know it's built right' — a distinction that matters more for AI than deterministic software",
-        "Writing evals upfront forces teams to surface ambiguous success criteria early, when they're cheapest to resolve"
-      ],
-      "implications": "PMs and product designers on AI features should push for eval criteria to be defined during scoping — not after launch. This reframes AI product specs around measurable behavioral expectations rather than feature lists.",
-      "tags": [
-        "AI Product Development",
-        "Product Management",
-        "Evaluation"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2100/1*iQrAfX4Qj-eeqFuRtds8qw.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@iamchrisPM/writing-evals-instead-of-prds-how-id-spec-an-ai-product-before-writing-a-single-line-of-code-d15d9074230e?source=rss------product_design-5",
-      "pubDate": "Mon, 21 Sep 2026 17:17:08 GMT"
-    },
-    {
-      "headline": "Intro overview of design patterns for beginners",
-      "background": "Design patterns are recurring, reusable solutions to common UI and software design problems, but practitioners new to the concept often struggle to match pattern type to context.",
-      "keyFindings": [
-        "The piece categorizes common design patterns and attempts to map them to use-case contexts",
-        "Aimed at readers with little prior exposure to formal pattern libraries"
-      ],
-      "implications": "Useful only as a starting point for very early-career practitioners. Experienced UX or engineering professionals will find little new here.",
-      "tags": [
-        "Design Patterns",
-        "Fundamentals"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*1BHwcIo0tnXRN0CWtDM0Sg.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@shashi.mehta/lets-design-the-pattern-3c508d2033c5?source=rss------product_design-5",
-      "pubDate": "Mon, 21 Sep 2026 17:04:17 GMT"
-    },
-    {
-      "headline": "Personal reflection on defining project success metrics",
-      "background": "Defining what success means before starting work is a recurring challenge in UX and product practice, often skipped under time pressure.",
-      "keyFindings": [
-        "Author reflects on difficulty returning to structured thinking after burnout or overwork",
-        "No specific frameworks, data, or concrete methods are presented"
-      ],
-      "implications": "This is a personal essay without substantive methodology or findings. Not a reference resource for defining success metrics in practice.",
-      "tags": [
-        "Reflection",
-        "Product Strategy"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@arunbolzin/defining-success-what-are-we-actually-trying-to-achieve-cb51b0168e09?source=rss------product_design-5",
-      "pubDate": "Mon, 21 Sep 2026 16:59:51 GMT"
-    },
-    {
-      "headline": "When to hire a SaaS-specialist design agency vs. generalist",
-      "background": "B2B companies often face the choice between agencies with deep SaaS vertical experience and general B2B web design firms, without clear criteria for deciding.",
-      "keyFindings": [
-        "SaaS-specialist agencies are more likely to understand conversion patterns specific to trial flows, pricing pages, and product-led growth",
-        "General B2B firms may be more appropriate when the product is not self-serve or when brand positioning outweighs conversion optimization",
-        "The distinction matters most during a rebrand tied to a go-to-market shift"
-      ],
-      "implications": "Product and marketing teams evaluating design agencies should audit whether their core challenge is SaaS-specific (onboarding, trial conversion, PLG) or more general (brand, demand gen). That distinction should drive the hire.",
-      "tags": [
-        "Agency Selection",
-        "SaaS Design",
-        "B2B"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "programminginsider.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcThhUUNFRzZjNV9iRGQxeDBBa0J5OGFkOG1LaDUxUllPWVNMLTJRaDdHVnFDYkhJRUNCaTllU28wTmcxazlCeW9sc3kwUnlmaE1FZm14a1RHalZyOG1Ec3BTaThZS0NWaEdwRGp1cUtONVJvX3hKYmppd014RDZPUld6VDNtdU1oTjFzNXdlbDFsUV9QQjVreHJvaDRQNXZOYndLU0V5OFlZcGM?oc=5",
-      "pubDate": "Mon, 21 Sep 2026 15:42:30 GMT"
-    },
-    {
-      "headline": "Google's barrel roll Easter egg explained — not much else",
-      "background": "Google's 'do a barrel roll' search Easter egg has been a novelty since 2011. Some writers use it as a hook to discuss UX principles around delight and microinteractions.",
-      "keyFindings": [
-        "The piece is primarily SEO content rehashing a well-known Google trick",
-        "No substantive UX analysis or new findings are presented"
-      ],
-      "implications": "Not a useful reference for UX or product practitioners. Avoid using Easter eggs like this as proxies for discussing meaningful delight design without deeper analysis.",
-      "tags": [
-        "Easter Eggs",
-        "Microinteractions"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "tycoonstory.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVldiR2hkWl8yUlBmdDIzNURXS2VnMnlvaWt3OVFKTVdIdFZZVmR4TkhzajUydjQ4V3dFWVJFdERycFhHa3RPZTJ4UkRvaTJPalFyR1U0a08tVHNhYzhjaVVobTlDcnkyZGNNU1dPZGVaTkFBZTRfTmhLa1hrNUJDTnRlNWpQeVk1Qjg5OFkyMA?oc=5",
-      "pubDate": "Mon, 21 Sep 2026 12:32:29 GMT"
-    },
-    {
-      "headline": "Tapestry appoints North America qualitative research lead",
-      "background": "Consumer brand Tapestry — parent company of Coach, Kate Spade, and Stuart Weitzman — has made a senior research hire signaling investment in qualitative methods.",
-      "keyFindings": [
-        "Tapestry has hired a dedicated head of qualitative research for North America",
-        "The hire suggests growing institutional investment in qual methods at large consumer brands"
-      ],
-      "implications": "Relevant context for qualitative researchers tracking industry hiring trends and demand signals. No direct practice implications.",
-      "tags": [
-        "Research Hiring",
-        "Qualitative Research"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Research Live",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUlM1dXJYejlreTFlS0l4RFpuSklKekl6dEVob0xCTmFCYTNQX2NrSTBoTXVaWEVnMFlHQTdXTzFRcmhVdUJjc0hiZFFFRUYxeXNBSG9zVUF3djF6UE1QVFAydFRIemh3NzZHRUk1SmI5ajY3Uk9qRjBJR3dLeXFSZUg3SDBlYlZpdGxJTWFaTDdwd3A5LWR6T0EySkNXWGxV?oc=5",
-      "pubDate": "Mon, 21 Sep 2026 12:28:27 GMT"
-    },
-    {
-      "headline": "Nielsen roundup: AI secrets, IKEA effect, triangulation, and more",
-      "background": "Jakob Nielsen's recurring UX roundup aggregates recent findings and commentary across multiple UX topics, making it a useful pulse-check on what's being discussed in the field.",
-      "keyFindings": [
-        "Users are sharing sensitive personal information with AI tools at higher rates than with search or social platforms — raising trust and design ethics questions",
-        "The IKEA effect (overvaluing things you helped create) has implications for participatory design and co-creation methods",
-        "Triangulation as a research method is flagged as underused relative to its validity benefits"
-      ],
-      "implications": "Multiple items here have direct practice relevance: AI product designers should account for users' tendency to over-disclose; researchers should revisit triangulation as a default validity check rather than an advanced technique.",
-      "tags": [
-        "AI Ethics",
         "Research Methods",
-        "Cognitive Bias"
+        "Survivor Bias",
+        "Service Design"
       ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
+      "featured": true,
+      "type": "opinion",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jeGlPTkg0NndKYUpkMlBsUmp2cnpOc0tpMVpOeUtFeXFrYnJTYjhEVlUxbExIMEpIY05QQVROOE13MUNFXzQxeWhhTHFscDNBLWJtUzhKRDd3QUpFOExnaU1wYjBzR0tIeGc?oc=5",
-      "pubDate": "Mon, 21 Sep 2026 11:22:18 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1574/1*-NAiy2RiZZ6--npwSgdanw.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@harriet_27043/a-service-can-look-successful-simply-because-youre-only-hearing-from-the-people-who-made-it-to-the-71bf0585b035?source=rss------ux-5",
+      "pubDate": "Tue, 22 Sep 2026 16:09:23 GMT"
     },
     {
-      "headline": "Branding agency cut website carbon emissions through redesign",
-      "background": "Web sustainability is a growing concern as digital carbon footprints come under scrutiny. Agencies are beginning to treat low-carbon design as a differentiator and a client offering.",
+      "headline": "Effective marketing surfaces existing desire, doesn't manufacture it",
+      "background": "A persistent assumption in product and growth work is that marketing's job is to create demand. This piece argues the opposite — that the most effective approaches identify latent desires users already have and attach the product to them.",
       "keyFindings": [
-        "The agency reduced page weight and carbon output through design decisions including reduced imagery, system fonts, and simplified animations",
-        "The redesigned site was benchmarked against website carbon calculators to validate emissions reduction",
-        "Sustainable web design choices overlapped significantly with performance optimization — faster pages tend to also be lower-carbon"
+        "The most durable marketing connects to pre-existing motivations rather than trying to install new ones",
+        "Desire is framed as something to be discovered through user psychology, not constructed through messaging",
+        "This reframes the role of UX copywriting and positioning as excavation rather than persuasion"
       ],
-      "implications": "Web and product designers should note that sustainable design and performance optimization are largely aligned goals, not trade-offs. Carbon benchmarking tools like websitecarbon.com can be added to QA checklists without significant overhead.",
+      "implications": "For product and UX teams writing onboarding flows, empty states, or value propositions — look at what users already want before they arrive, not what you want them to want after they do.",
       "tags": [
-        "Sustainable Design",
-        "Web Performance",
-        "Green Tech"
+        "Copywriting",
+        "Behavioral Psychology",
+        "Growth"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1800/0*V6SdagGUeQ11Ff9i.gif",
+      "source": "UX on Medium",
+      "link": "https://medium.com/tech-is-art/the-science-of-making-you-want-it-c24983b5ea08?source=rss------ux-5",
+      "pubDate": "Tue, 22 Sep 2026 16:01:18 GMT"
+    },
+    {
+      "headline": "Indeed's push notifications send users to the wrong place",
+      "background": "Deep linking from notifications to the correct in-app destination is a known mobile UX challenge, but job-search platforms have particular stakes since missed or misrouted job alerts have real consequences for users under time pressure.",
+      "keyFindings": [
+        "Indeed's 'tap to view' notification routes users to a generic 'My Jobs' screen rather than the specific job referenced",
+        "The disconnect between notification promise and actual destination creates confusion and erodes trust in the alert system",
+        "The case study proposes clearer notification copy and direct deep linking to the relevant job card as fixes"
+      ],
+      "implications": "This is a concrete QA and product spec issue: notification tap destinations should be tested end-to-end as part of any release cycle. If your app sends actionable notifications, verify the full journey from lock screen to content.",
+      "tags": [
+        "Mobile UX",
+        "Notifications",
+        "Deep Linking"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1760/1*-lDSyIulPOZuoOEo6Rus5g.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@srisakthikumar03/lost-in-my-jobs-how-indeeds-notification-system-quietly-fails-the-people-job-hunting-the-e493e99208fc?source=rss------ux-5",
+      "pubDate": "Tue, 22 Sep 2026 15:48:33 GMT"
+    },
+    {
+      "headline": "A hackathon reflection on AI-assisted design instincts",
+      "background": "As AI tools become embedded in design workflows, practitioners are grappling with when to trust algorithmic suggestions versus their own design judgment. Hackathon settings compress this tension into a high-stakes short window.",
+      "keyFindings": [
+        "The author found that design instincts remained the primary filter for evaluating AI-generated outputs under time pressure",
+        "Collaborative AI use in a hackathon context helped a less-experienced designer build confidence in making calls quickly",
+        "Speed of iteration with AI did not eliminate the need for clear design rationale — it made rationale more important"
+      ],
+      "implications": "Useful framing for teams introducing AI tools: AI accelerates output but doesn't replace the judgment needed to evaluate it. Mentorship dynamics in AI-assisted work may shift toward teaching designers how to critique outputs, not just produce them.",
+      "tags": [
+        "AI Tools",
+        "Design Process",
+        "Mentorship"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*k5wii2xKhWgzAOGRyZv86Q.png",
+      "source": "Product Design on Medium",
+      "link": "https://userbexperiencedesign.medium.com/following-a-design-instinct-into-the-dark-d84dca3d2aef?source=rss------product_design-5",
+      "pubDate": "Tue, 22 Sep 2026 15:31:52 GMT"
+    },
+    {
+      "headline": "Physical machine UI: what tactile controls still get right",
+      "background": "As digital interfaces dominate product design discourse, the UX of physical and industrial equipment is rarely examined — despite offering lessons about affordance, feedback, and error prevention that screen-based design often fails at.",
+      "keyFindings": [
+        "Stencil machine controls rely on physical affordances that make correct operation self-evident without instruction",
+        "The layout of physical controls reflects a task flow logic that many digital UIs fail to replicate",
+        "Tactile and visual feedback on physical hardware provides immediate error correction that digital equivalents often lack"
+      ],
+      "implications": "Worth reviewing for designers working on hardware products, kiosk interfaces, or any context where physical and digital controls coexist. Affordance principles from industrial UI often translate directly to touchscreen interaction design.",
+      "tags": [
+        "Industrial Design",
+        "Affordance",
+        "Hardware UI"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Fast Company",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeGxfSjV0SkJ2MXFhQ2p1T3RQaUNtcTVzSmFsY3NfY3hhU0x1eGdZNDNvZ3lyVUFLZ2tlLXEzYzA3ZXMwOEdvbi1nM29KdjdPbUliVVEzV1prZXRVd1ZzUUwzZ1JoYUdNVUJjZ3NaQ1dEOGNkQ21oc29pc19lVWZUUy1adWM?oc=5",
-      "pubDate": "Mon, 21 Sep 2026 10:42:38 GMT"
+      "source": "Core77",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSV95VHJYb2JXQnpWMFhFdWY0bk05azZGNnlNTjZpSjlYX2h2cE53SXpLcGwxLXAzQjNObmZpS1VLTHBHdE5VVUdUSGZxZ1Bna1RZSlE5QjRnWnVqNzUxUUdLZWxOU1hTLXRGWXZial9QWGRhVzRVdEl0Q2FQWlhIZC0tN2RVVzVwdlcxbl9RT1FrUWRvNmttVGZmX05LTmlXckRNSld3?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 14:06:10 GMT"
+    },
+    {
+      "headline": "Parents using AI to generate printable kids' activities",
+      "background": "AI image and document generation tools are being adopted in everyday household contexts far outside professional workflows, raising practical questions about how non-technical users are integrating these tools into daily life.",
+      "keyFindings": [
+        "A parent with no technical background is using AI tools to generate customized printable chore charts and activity books on demand",
+        "The use case is explicitly framed as a screen-time reduction strategy — analog outputs generated by digital AI tools",
+        "No specific tools are named in the snippet, limiting reproducibility of the workflow described"
+      ],
+      "implications": "Limited direct relevance for most UX practitioners, but signals a real non-expert use pattern for generative AI that could inform how consumer AI tools are designed and onboarded for household users.",
+      "tags": [
+        "Consumer AI",
+        "Generative Tools",
+        "Everyday Use"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUNDNTcyYU1lWmxJZXBBMXlMM2J4OWRRQ0tNSTNFNmlqRDU3UXVEVDJqT3ZtZENpODVTbXV1bWJPU3ZWUXJrSVJzRW9XdVB0d0t4WHNKVUJNVkV1akRXVXFyWE5HcnRHVzV1MzZGTXltR2dHSGdUTHVoaURRdDNRVzRTRjltYVdz?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 13:27:23 GMT"
+    },
+    {
+      "headline": "Press release: company rebrands marketing stack as AI-ready",
+      "background": "Vendors across the marketing technology space are relabeling existing products and services as AI-enabled to capitalize on current demand, making it difficult to distinguish genuine capability shifts from repositioning.",
+      "keyFindings": [
+        "This is a vendor-issued press release with no independent verification of claims",
+        "No specific product capabilities, benchmarks, or customer outcomes are cited in the available snippet",
+        "The framing is entirely forward-looking and aspirational rather than based on documented results"
+      ],
+      "implications": "Not a credible reference for product or technology decisions. Treat vendor AI announcements without third-party validation or technical specifics as marketing, not signal.",
+      "tags": [
+        "MarTech",
+        "AI Marketing",
+        "Vendor Announcements"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Issuewire",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS0RVcllfaVFYYjdDdzlTWFJDdm9GX3V4OFhwUTV0dUg5YjFGTnpOZU11S0p5N2ZjTl9YT3ZsSWl1Z2Zkb0hhYlNSZ2dwdTBfSHN5dVNTUlduekZXa3cyS2EtRm03WDN1NUpRMDJNTlZlQWZ1VzdzZzNMWTA1ZjN3UDFMZV8zTHFVbjBYVUdVYTk1Mjc5THBaR0RYYzFmb1ZhT0ZGWWpKTU9wTllWTEtBZHVvWFU2OVdEMnNIUTNOUXNCNVJLdE5n?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 13:08:25 GMT"
+    },
+    {
+      "headline": "Debate over foundation courses in undergraduate design education",
+      "background": "Design schools globally are reconsidering whether broad foundational coursework — covering drawing, materials, visual theory — is still worth the time before students specialize, given pressure to produce job-ready graduates faster.",
+      "keyFindings": [
+        "The piece appears to be an opinion or editorial from an Indian higher education context specifically addressing undergraduate design programs",
+        "Foundation courses are defended as building cross-disciplinary thinking that specialization-first tracks tend to skip",
+        "No empirical data on graduate outcomes or employer preferences is referenced in the available snippet"
+      ],
+      "implications": "Relevant for design educators and program directors rather than practicing UX professionals. Tangentially useful context for anyone hiring junior designers and noticing gaps in foundational visual or systems thinking skills.",
+      "tags": [
+        "Design Education",
+        "Curriculum",
+        "Junior Designers"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Deccan Herald",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa3NmVjA0LVY1RjAwNkdCTGxncnR4NUd0dTRQdmc5OVR4dW55emJNb0E0Z2ZBR2NvTVQ5MlRGamg1U0FidWRPUlB1b1FWZFpHU0FrRGhBV1d5eXdkcXZvT2RyVWhaZVM4THotenBFUXlPaGdxbUM3Wk5KZVQ1WmVKeFJDc1dUQU9HM3Q5c2RYeV9hWVUtM3E0bXdCZHFwZ3I1c203NWQ2ZTFTS2NvYk5XZzJOMzk5UC0wamoxczdMMWxMaHJqMWc?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 12:32:00 GMT"
+    },
+    {
+      "headline": "UX Design Awards open for Spring 2027 entries",
+      "background": "Industry awards cycles are a routine part of the design community calendar, used for portfolio recognition, benchmarking, and visibility.",
+      "keyFindings": [
+        "The UX Design Awards are accepting submissions for their Spring 2027 cycle",
+        "No eligibility criteria, categories, fees, or deadlines are specified in the available snippet",
+        "Designboom is the publishing source, not the awards organizer"
+      ],
+      "implications": "Check the UX Design Awards site directly for submission requirements and deadlines. Not enough information here to assess relevance or value of entering.",
+      "tags": [
+        "Awards",
+        "Design Community"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Designboom",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUJ1ekR6aV9CV3RfSDhTY0pGMnRWS0E5RmFYV2JQUVJJN0prbE9hdnlxSmtpazI1X1FXU1YwMzUwV0tTZzlNQmZqeVJNcHFac1Q4WUNDRzFsWlMwQ3dkd212clhhUXlUVFhPMjlwR2VKRWRaX1hGN2xtQWpKWXRzMU1HUUtNQ1NocGJDdnN3?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 12:13:19 GMT"
+    },
+    {
+      "headline": "Google offers 10 free certificate courses for in-demand skills",
+      "background": "Free credentialing programs from major tech companies have expanded significantly, and there is ongoing debate about their practical value compared to traditional education or portfolio-based hiring.",
+      "keyFindings": [
+        "Google is offering 10 certificate courses at no cost through an unspecified platform",
+        "Courses are framed around 'in-demand skills' but no specific subject areas are listed in the available snippet",
+        "No data on employer recognition, completion rates, or skill outcomes is included"
+      ],
+      "implications": "Insufficient detail here to evaluate which courses apply to UX or product roles. Visit the source directly to identify whether any cover relevant areas like data analytics, UX fundamentals, or AI tools before recommending to your team or candidates.",
+      "tags": [
+        "Professional Development",
+        "Free Resources",
+        "Certification"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Education Times",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeV9sYV9MWE9vMXBTcHBIV1JKTV80UGRJLW5tbjd4ZWkzRlRoVXNUOV95aXZRTlhhVzhzNThoV1JPZlBZekxSc2Y3eE5jdm9iSHdKUC05NlBFYWNiRm90YnVmOWVoeFVBaEl6WDVxaHdyS1ZCYVI2ZjY2RE9sSlRMSTE4cE0yd0kxTUVHWWZPOVBHa1A1TmVMU3pPSDZrZ0ZLcHNnUHQ2SW1ubnNRUmptVG5QZ21PWkVIYVlOcng3YWV1VGxj?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 11:23:00 GMT"
     }
   ]
 }
