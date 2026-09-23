@@ -1,234 +1,235 @@
 {
-  "generatedAt": "2026-09-22T16:25:10.876Z",
+  "generatedAt": "2026-09-23T16:15:30.488Z",
   "items": [
     {
-      "headline": "Survivor bias is making your service look better than it is",
-      "background": "UX research teams routinely collect feedback through post-completion surveys and success-state interviews, which structurally excludes anyone who dropped off before finishing. This creates a systematic blind spot that inflates perceived service quality.",
+      "headline": "Fuel Cycle Opens Mumbai AI Research Hub",
+      "background": "Research technology companies are expanding offshore operations to scale AI development capacity faster and at lower cost. Fuel Cycle, a consumer insights platform, is establishing a Global Capability Center in Navi Mumbai.",
       "keyFindings": [
-        "Users who abandon a service mid-flow are invisible in most standard feedback loops, meaning failure modes go undetected",
-        "Positive completion data can mask serious barriers experienced by a large portion of attempted users",
-        "Designing research to capture dropout points — via analytics, exit surveys, or recruitment of non-completers — is necessary to get an accurate picture"
+        "Fuel Cycle is opening a GCC in Navi Mumbai focused on AI and product team scaling",
+        "The center is intended to accelerate development of AI-powered consumer insights tooling",
+        "This mirrors a broader trend of US-based SaaS companies building engineering capacity in India"
       ],
-      "implications": "If your team is using NPS or post-task surveys as primary signals, you're likely measuring only your best-case users. Supplement with dropout recruitment and funnel drop-off analysis to surface real failure rates.",
+      "implications": "Worth monitoring if you use or evaluate Fuel Cycle for research ops — expanded AI tooling could change the platform's capabilities, but offshore scaling announcements don't always translate quickly to product improvements.",
       "tags": [
-        "Research Methods",
-        "Survivor Bias",
-        "Service Design"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1574/1*-NAiy2RiZZ6--npwSgdanw.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@harriet_27043/a-service-can-look-successful-simply-because-youre-only-hearing-from-the-people-who-made-it-to-the-71bf0585b035?source=rss------ux-5",
-      "pubDate": "Tue, 22 Sep 2026 16:09:23 GMT"
-    },
-    {
-      "headline": "Effective marketing surfaces existing desire, doesn't manufacture it",
-      "background": "A persistent assumption in product and growth work is that marketing's job is to create demand. This piece argues the opposite — that the most effective approaches identify latent desires users already have and attach the product to them.",
-      "keyFindings": [
-        "The most durable marketing connects to pre-existing motivations rather than trying to install new ones",
-        "Desire is framed as something to be discovered through user psychology, not constructed through messaging",
-        "This reframes the role of UX copywriting and positioning as excavation rather than persuasion"
-      ],
-      "implications": "For product and UX teams writing onboarding flows, empty states, or value propositions — look at what users already want before they arrive, not what you want them to want after they do.",
-      "tags": [
-        "Copywriting",
-        "Behavioral Psychology",
-        "Growth"
+        "ResearchOps",
+        "AI tools",
+        "Consumer Insights"
       ],
       "featured": false,
-      "type": "opinion",
-      "category": "UX",
+      "type": "research",
+      "category": "Industry news",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1800/0*V6SdagGUeQ11Ff9i.gif",
-      "source": "UX on Medium",
-      "link": "https://medium.com/tech-is-art/the-science-of-making-you-want-it-c24983b5ea08?source=rss------ux-5",
-      "pubDate": "Tue, 22 Sep 2026 16:01:18 GMT"
+      "image": null,
+      "source": "PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMlB4V0lUa05MQTB0NFhXUzdyU0VjN1F2WjNia3hZaUMtUjBXQTBhajMwWmJNcktCUlQxbklnZDJ6eE1pODNaZkJpeWsyd3J1RHZHUTlITVljeVVwNzhqd1VOM1d1eWxTMXNHNVRhVGNNUjYtVnJkZVh1WTBjem5EUGdlZzlkNEhkdkhtbnFMVnY0Zy1ENXNTRmkzX1dpVWwzWnRWRHJYNTJzQ2RWdWFWZFk1RFllVjJQUXpmSFhXVUxQMHVCdy10LUh4SF9EZ0xDVnIxTkJXUm1WTFZveldnV0pLNA?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 16:00:00 GMT"
     },
     {
-      "headline": "Indeed's push notifications send users to the wrong place",
-      "background": "Deep linking from notifications to the correct in-app destination is a known mobile UX challenge, but job-search platforms have particular stakes since missed or misrouted job alerts have real consequences for users under time pressure.",
+      "headline": "AI Performance Reviews Created a False Sense of Security",
+      "background": "There is growing concern that AI-assisted management and feedback tools produce inflated, generic assessments that fail to give employees accurate performance signals. This piece recounts a firsthand experience of that pattern playing out over a year.",
       "keyFindings": [
-        "Indeed's 'tap to view' notification routes users to a generic 'My Jobs' screen rather than the specific job referenced",
-        "The disconnect between notification promise and actual destination creates confusion and erodes trust in the alert system",
-        "The case study proposes clearer notification copy and direct deep linking to the relevant job card as fixes"
+        "Initial AI-generated performance reviews were uniformly positive and perceived as credible",
+        "The disconnect between AI feedback and actual performance became apparent over time",
+        "The piece argues this creates organizational risk by masking real performance problems"
       ],
-      "implications": "This is a concrete QA and product spec issue: notification tap destinations should be tested end-to-end as part of any release cycle. If your app sends actionable notifications, verify the full journey from lock screen to content.",
+      "implications": "Product and UX teams adopting AI-assisted HR or feedback tools should audit whether outputs are being taken at face value — generic positive reinforcement at scale can erode the reliability of performance culture.",
       "tags": [
-        "Mobile UX",
-        "Notifications",
-        "Deep Linking"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1760/1*-lDSyIulPOZuoOEo6Rus5g.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@srisakthikumar03/lost-in-my-jobs-how-indeeds-notification-system-quietly-fails-the-people-job-hunting-the-e493e99208fc?source=rss------ux-5",
-      "pubDate": "Tue, 22 Sep 2026 15:48:33 GMT"
-    },
-    {
-      "headline": "A hackathon reflection on AI-assisted design instincts",
-      "background": "As AI tools become embedded in design workflows, practitioners are grappling with when to trust algorithmic suggestions versus their own design judgment. Hackathon settings compress this tension into a high-stakes short window.",
-      "keyFindings": [
-        "The author found that design instincts remained the primary filter for evaluating AI-generated outputs under time pressure",
-        "Collaborative AI use in a hackathon context helped a less-experienced designer build confidence in making calls quickly",
-        "Speed of iteration with AI did not eliminate the need for clear design rationale — it made rationale more important"
-      ],
-      "implications": "Useful framing for teams introducing AI tools: AI accelerates output but doesn't replace the judgment needed to evaluate it. Mentorship dynamics in AI-assisted work may shift toward teaching designers how to critique outputs, not just produce them.",
-      "tags": [
-        "AI Tools",
-        "Design Process",
-        "Mentorship"
+        "AI tools",
+        "Org Design",
+        "Product Culture"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*k5wii2xKhWgzAOGRyZv86Q.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*VaUMUKGSqwb9Ujn0TShJFg.jpeg",
       "source": "Product Design on Medium",
-      "link": "https://userbexperiencedesign.medium.com/following-a-design-instinct-into-the-dark-d84dca3d2aef?source=rss------product_design-5",
-      "pubDate": "Tue, 22 Sep 2026 15:31:52 GMT"
+      "link": "https://medium.com/@maryinortiz/the-cult-of-ai-49ecf2ba8b86?source=rss------product_design-5",
+      "pubDate": "Wed, 23 Sep 2026 15:59:27 GMT"
     },
     {
-      "headline": "Physical machine UI: what tactile controls still get right",
-      "background": "As digital interfaces dominate product design discourse, the UX of physical and industrial equipment is rarely examined — despite offering lessons about affordance, feedback, and error prevention that screen-based design often fails at.",
+      "headline": "Designers Should Move Up the Value Chain, Not Fight AI",
+      "background": "As generative AI compresses the time and cost required to produce wireframes, mockups, and production-ready UI, there is active debate about whether the UX designer role is being devalued or simply transformed.",
       "keyFindings": [
-        "Stencil machine controls rely on physical affordances that make correct operation self-evident without instruction",
-        "The layout of physical controls reflects a task flow logic that many digital UIs fail to replicate",
-        "Tactile and visual feedback on physical hardware provides immediate error correction that digital equivalents often lack"
+        "The author argues AI is restructuring design economics, making execution-layer skills less defensible",
+        "The proposed response is to shift focus to strategy, problem framing, and systems thinking rather than screen craft",
+        "The piece positions outcome ownership — not deliverable production — as the durable designer skill"
       ],
-      "implications": "Worth reviewing for designers working on hardware products, kiosk interfaces, or any context where physical and digital controls coexist. Affordance principles from industrial UI often translate directly to touchscreen interaction design.",
+      "implications": "Practitioners who primarily compete on visual execution or tool proficiency are most exposed. Building visible expertise in research synthesis, product strategy, or design systems thinking is a more defensible position in hiring and client work.",
       "tags": [
-        "Industrial Design",
-        "Affordance",
-        "Hardware UI"
+        "Design careers",
+        "AI tools",
+        "Design strategy"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "UX on Medium",
+      "link": "https://medium.com/@baljka0526/blind-designer-07b43658a785?source=rss------ux-5",
+      "pubDate": "Wed, 23 Sep 2026 15:17:31 GMT"
+    },
+    {
+      "headline": "B2B UX Research Requires Internal Politics, Not Just User Access",
+      "background": "Enterprise UX research is complicated by gatekeeping from account managers, legal constraints, and relationship sensitivities that don't exist in consumer contexts. Nutanix's design team wrote about how they handle this in practice.",
+      "keyFindings": [
+        "In B2B settings, getting customer access often requires navigating internal stakeholders like sales and customer success before reaching end users",
+        "The piece identifies internal alignment — not recruiting — as the primary bottleneck for enterprise UX research",
+        "Structured pre-research briefings with account teams are presented as a practical mitigation strategy"
+      ],
+      "implications": "If you do research in an enterprise or B2B product context, treating internal alignment as a formal research phase — not a prerequisite to skip — can materially improve participant quality and reduce legal risk.",
+      "tags": [
+        "Enterprise UX",
+        "User Research",
+        "B2B"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1794/1*17DwV9__1ktVH_RvI1WRcA.png",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/nutanix-design/beyond-the-zoom-call-unlocking-enterprise-ux-insights-through-internal-alignment-51a3bc76bf33?source=rss------ux_research-5",
+      "pubDate": "Wed, 23 Sep 2026 14:53:28 GMT"
+    },
+    {
+      "headline": "A UX Portfolio Should Show Value Delivered, Not Just Screens",
+      "background": "Portfolio advice in UX is abundant but often superficial, focusing on visual presentation over demonstrating business or user impact. This piece addresses what actually converts clients or hiring managers.",
+      "keyFindings": [
+        "The author argues that portfolio reviewers are looking for evidence of problem-solving and outcomes, not aesthetic quality alone",
+        "Framing case studies around the value created — not the process followed — is identified as the key differentiator",
+        "Specific metrics, decisions made, and tradeoffs navigated are cited as the elements that build credibility"
+      ],
+      "implications": "When structuring case studies, lead with the problem and the measurable result — process diagrams and deliverable screenshots should support that narrative, not replace it.",
+      "tags": [
+        "Portfolio",
+        "Design careers",
+        "Case studies"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*PhyvFfM4rAQG5JsGZzyk6A.png",
+      "source": "UX on Medium",
+      "link": "https://walebuilds.medium.com/a-great-portfolio-isnt-just-about-beautiful-screens-it-s-about-value-d5e6bb376411?source=rss------ux-5",
+      "pubDate": "Wed, 23 Sep 2026 14:47:01 GMT"
+    },
+    {
+      "headline": "Monster Hunter Wilds Team Documents PC Performance Lessons",
+      "background": "Monster Hunter Wilds launched with significant PC performance issues at release, drawing criticism from players and technical reviewers. The development team is addressing this ahead of the Ascendance expansion.",
+      "keyFindings": [
+        "The Ascendance team is explicitly carrying forward performance optimization lessons from the base game's troubled PC launch",
+        "The piece signals intentional investment in PC-specific performance work, not just console parity",
+        "No specific technical fixes or benchmarks are detailed in the snippet"
+      ],
+      "implications": "Limited direct relevance to UX/product practice, though it illustrates how teams can publicly acknowledge performance debt and frame remediation as a learning process — a useful model for product post-mortems.",
+      "tags": [
+        "Game development",
+        "Performance",
+        "Post-mortem"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Core77",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSV95VHJYb2JXQnpWMFhFdWY0bk05azZGNnlNTjZpSjlYX2h2cE53SXpLcGwxLXAzQjNObmZpS1VLTHBHdE5VVUdUSGZxZ1Bna1RZSlE5QjRnWnVqNzUxUUdLZWxOU1hTLXRGWXZial9QWGRhVzRVdEl0Q2FQWlhIZC0tN2RVVzVwdlcxbl9RT1FrUWRvNmttVGZmX05LTmlXckRNSld3?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 14:06:10 GMT"
+      "source": "GamingBolt",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUHUyOG43V28za3hkOTV0Z0dQTUZYM3RLazRYeFBVVzFOWkM3a01KX1dseThxZWpqYjc3eTFkMDVTaXEwbXBVeFRqZDFLeEN2Z3VvUU5BRHBBQmFzR0FUM0hWcE11cDVEQkNJYjFHbDIxSF9zSVVTTkhON3JZMlRXWlBGd21JQUxSOXlRTlhwRWZmbDg3bEE1d2ZpU2Y3UlBmdU0xVDZRNENEV0pPRWRPb3VheWtUanU3c1hPcDd1VQ?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 13:45:47 GMT"
     },
     {
-      "headline": "Parents using AI to generate printable kids' activities",
-      "background": "AI image and document generation tools are being adopted in everyday household contexts far outside professional workflows, raising practical questions about how non-technical users are integrating these tools into daily life.",
+      "headline": "Fuel Cycle Navi Mumbai GCC to Scale AI and Product Teams",
+      "background": "This is a second news item covering the same Fuel Cycle Mumbai Global Capability Center announcement, reported by Moneycontrol with a local business angle.",
       "keyFindings": [
-        "A parent with no technical background is using AI tools to generate customized printable chore charts and activity books on demand",
-        "The use case is explicitly framed as a screen-time reduction strategy — analog outputs generated by digital AI tools",
-        "No specific tools are named in the snippet, limiting reproducibility of the workflow described"
+        "Confirms Fuel Cycle's Navi Mumbai GCC is operational or imminent",
+        "Hiring focus is on AI and product roles specifically",
+        "Duplicate coverage of item 1 — no materially new information in the snippet"
       ],
-      "implications": "Limited direct relevance for most UX practitioners, but signals a real non-expert use pattern for generative AI that could inform how consumer AI tools are designed and onboarded for household users.",
+      "implications": "No additional actionable detail beyond the first Fuel Cycle item in this batch.",
       "tags": [
-        "Consumer AI",
-        "Generative Tools",
-        "Everyday Use"
+        "ResearchOps",
+        "AI tools",
+        "Consumer Insights"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUNDNTcyYU1lWmxJZXBBMXlMM2J4OWRRQ0tNSTNFNmlqRDU3UXVEVDJqT3ZtZENpODVTbXV1bWJPU3ZWUXJrSVJzRW9XdVB0d0t4WHNKVUJNVkV1akRXVXFyWE5HcnRHVzV1MzZGTXltR2dHSGdUTHVoaURRdDNRVzRTRjltYVdz?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 13:27:23 GMT"
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORFZyUHNHd0NidmVXekVtbDFrLWJfXy0yVnBfODhtalphQ0FPckktS3lZTmlaY1NzN0pmUWR3NUpYN0ZrQ2JQcWFZcV9uNGpHMXBpckVXUTA1ZXYzcGswY0gySU9fY2ZRUGp1SXRZRTBRRmVzS0owX3I0OVdRUXZTVG5MQTVXb2pJUENjLVJZQWwtU0M2cEhrV2tXNVdEeGktRDg0N2VIZ1g0RnFlenFDc1M4Z01OcGs1WFJYS3RPdWhwNk9GVjJrQ0xBc1M4cHU5MlI4S3dSa2EtZnlNU0pqTVRn0gHnAUFVX3lxTE5BbWpVR0UyUU9famhINW5zaEdRN1JwM19MZTcyUTY0R1NNVXFtQWFVaXZhbUVIRWtGeVFaYWljMWFWcFZ6V2dsZWxfLW9UNk5LcS1jRWVpV280bThKTUxVMUIwdjFtME9oYk5SbkYwLW01YTFzLWpWSEJ6QnlaWWVEaG1tUE0wNjZrLVg2WkNiaklUQzFNSnRUdUNWQ2VNYW5KbVZmREozTlhnM0t3Y2FXUzNtckdHY1hVNXlTdTI2OU5sSkhZVXZ3d1FTWEJxQ1pIVC1WNl80V29ZODRDd0c1ZVdjek1hcw?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 12:45:14 GMT"
     },
     {
-      "headline": "Press release: company rebrands marketing stack as AI-ready",
-      "background": "Vendors across the marketing technology space are relabeling existing products and services as AI-enabled to capitalize on current demand, making it difficult to distinguish genuine capability shifts from repositioning.",
+      "headline": "Bettoblock Offers End-to-End Sweepstakes Casino Development",
+      "background": "The sweepstakes casino model has grown rapidly as a legal workaround in US markets where online gambling is restricted. Bettoblock is positioning itself as a full-stack development vendor in this space.",
       "keyFindings": [
-        "This is a vendor-issued press release with no independent verification of claims",
-        "No specific product capabilities, benchmarks, or customer outcomes are cited in the available snippet",
-        "The framing is entirely forward-looking and aspirational rather than based on documented results"
+        "Bettoblock is marketing end-to-end build services for sweepstakes casino products globally",
+        "The announcement is expansion-focused, targeting igaming operators wanting turnkey solutions",
+        "No UX, product quality, or technical specifications are detailed in the snippet"
       ],
-      "implications": "Not a credible reference for product or technology decisions. Treat vendor AI announcements without third-party validation or technical specifics as marketing, not signal.",
+      "implications": "Minimal direct relevance to UX or product practice. If you work in regulated or gambling-adjacent products, the sweepstakes model's growth is worth tracking for its UX and compliance implications.",
       "tags": [
-        "MarTech",
-        "AI Marketing",
-        "Vendor Announcements"
+        "iGaming",
+        "Product development",
+        "Regulation"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Issuewire",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS0RVcllfaVFYYjdDdzlTWFJDdm9GX3V4OFhwUTV0dUg5YjFGTnpOZU11S0p5N2ZjTl9YT3ZsSWl1Z2Zkb0hhYlNSZ2dwdTBfSHN5dVNTUlduekZXa3cyS2EtRm03WDN1NUpRMDJNTlZlQWZ1VzdzZzNMWTA1ZjN3UDFMZV8zTHFVbjBYVUdVYTk1Mjc5THBaR0RYYzFmb1ZhT0ZGWWpKTU9wTllWTEtBZHVvWFU2OVdEMnNIUTNOUXNCNVJLdE5n?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 13:08:25 GMT"
+      "source": "Menafn",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdzlham9QODFDY1ozcE5rd05pVnpYcUk1bG9XRmNZSENVLTRxLVlFdGM4bUlfNjF6TVdaaWg2ZUpRQ0hzN0xhamlRZjJiQmRZUzZDWEQ0RnhzX2lZb3BOQVNkMnJqVFBac2ViWkNGNFZBWUY0TUg3ckVmSy01aFNMb0FUUGJsb1FZOEdLeHJna3pQVHdOZkxDazhNd2tPLXFVTmlUV28yOGVLdlFMOGROTmZpTlJwRzhSdUU5RUptMks0cEZ4T1VwSkpn?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 10:02:42 GMT"
     },
     {
-      "headline": "Debate over foundation courses in undergraduate design education",
-      "background": "Design schools globally are reconsidering whether broad foundational coursework — covering drawing, materials, visual theory — is still worth the time before students specialize, given pressure to produce job-ready graduates faster.",
+      "headline": "Rally UXR Event Puts Research Ethics and Scaling on the Agenda",
+      "background": "Research Operations as a discipline is maturing, and practitioners are increasingly grappling with how to scale research programs without compromising participant ethics or data quality.",
       "keyFindings": [
-        "The piece appears to be an opinion or editorial from an Indian higher education context specifically addressing undergraduate design programs",
-        "Foundation courses are defended as building cross-disciplinary thinking that specialization-first tracks tend to skip",
-        "No empirical data on graduate outcomes or employer preferences is referenced in the available snippet"
+        "Rally UXR hosted a ReOps-focused event centered on research ethics and scaling challenges",
+        "Ethics — not just tooling or process — was foregrounded as a core scaling concern",
+        "No specific findings, frameworks, or speakers are detailed in the available snippet"
       ],
-      "implications": "Relevant for design educators and program directors rather than practicing UX professionals. Tangentially useful context for anyone hiring junior designers and noticing gaps in foundational visual or systems thinking skills.",
+      "implications": "If you manage or are building a research practice, the pairing of ethics with scaling signals that the field is moving beyond 'how do we do more research faster' toward 'how do we do it responsibly' — worth tracking Rally UXR's published outputs from this event.",
       "tags": [
-        "Design Education",
-        "Curriculum",
-        "Junior Designers"
+        "ResearchOps",
+        "Research ethics",
+        "User Research"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Deccan Herald",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa3NmVjA0LVY1RjAwNkdCTGxncnR4NUd0dTRQdmc5OVR4dW55emJNb0E0Z2ZBR2NvTVQ5MlRGamg1U0FidWRPUlB1b1FWZFpHU0FrRGhBV1d5eXdkcXZvT2RyVWhaZVM4THotenBFUXlPaGdxbUM3Wk5KZVQ1WmVKeFJDc1dUQU9HM3Q5c2RYeV9hWVUtM3E0bXdCZHFwZ3I1c203NWQ2ZTFTS2NvYk5XZzJOMzk5UC0wamoxczdMMWxMaHJqMWc?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 12:32:00 GMT"
+      "source": "TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTlxVzZuRlNabFFHbElXeDFkODdXRk9GMlRIY215emdaSXpVY2doZHV5WlRoWVYtYnRaSjdYcXNqMTdfSnljMGplclBRLTczQkQwM1ZzbC1PcE4tcmdSd0RQUkJ4N2wyWHBhem1fdjVpNWdqTUFrRUhleEMtTnpIam1QcmhnanhFTnhKQUdpQ0FKbFg3SlNRWnFfZEFhREFma2JadHhTc2xMa1FqbTVYbGlKRGd6bXhzd3ln?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 09:30:47 GMT"
     },
     {
-      "headline": "UX Design Awards open for Spring 2027 entries",
-      "background": "Industry awards cycles are a routine part of the design community calendar, used for portfolio recognition, benchmarking, and visibility.",
+      "headline": "2026 Guide Ranks Affordable Global Dev Agencies for Founders",
+      "background": "Early-stage founders frequently need to evaluate development agency options when they lack the budget or time to build in-house teams. Listicle-style agency guides proliferate but vary widely in rigor.",
       "keyFindings": [
-        "The UX Design Awards are accepting submissions for their Spring 2027 cycle",
-        "No eligibility criteria, categories, fees, or deadlines are specified in the available snippet",
-        "Designboom is the publishing source, not the awards organizer"
+        "The guide targets founders specifically, framing affordability as the primary filter",
+        "Coverage is global in scope across website and app development",
+        "No methodology, ranking criteria, or specific agency evaluations are visible in the snippet"
       ],
-      "implications": "Check the UX Design Awards site directly for submission requirements and deadlines. Not enough information here to assess relevance or value of entering.",
+      "implications": "Treat with caution — agency ranking guides of this type are frequently sponsored or SEO-driven. If evaluating vendors, use it as a starting list only and apply independent vetting.",
       "tags": [
-        "Awards",
-        "Design Community"
+        "Agency selection",
+        "Product development",
+        "Startups"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Designboom",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUJ1ekR6aV9CV3RfSDhTY0pGMnRWS0E5RmFYV2JQUVJJN0prbE9hdnlxSmtpazI1X1FXU1YwMzUwV0tTZzlNQmZqeVJNcHFac1Q4WUNDRzFsWlMwQ3dkd212clhhUXlUVFhPMjlwR2VKRWRaX1hGN2xtQWpKWXRzMU1HUUtNQ1NocGJDdnN3?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 12:13:19 GMT"
-    },
-    {
-      "headline": "Google offers 10 free certificate courses for in-demand skills",
-      "background": "Free credentialing programs from major tech companies have expanded significantly, and there is ongoing debate about their practical value compared to traditional education or portfolio-based hiring.",
-      "keyFindings": [
-        "Google is offering 10 certificate courses at no cost through an unspecified platform",
-        "Courses are framed around 'in-demand skills' but no specific subject areas are listed in the available snippet",
-        "No data on employer recognition, completion rates, or skill outcomes is included"
-      ],
-      "implications": "Insufficient detail here to evaluate which courses apply to UX or product roles. Visit the source directly to identify whether any cover relevant areas like data analytics, UX fundamentals, or AI tools before recommending to your team or candidates.",
-      "tags": [
-        "Professional Development",
-        "Free Resources",
-        "Certification"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Education Times",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeV9sYV9MWE9vMXBTcHBIV1JKTV80UGRJLW5tbjd4ZWkzRlRoVXNUOV95aXZRTlhhVzhzNThoV1JPZlBZekxSc2Y3eE5jdm9iSHdKUC05NlBFYWNiRm90YnVmOWVoeFVBaEl6WDVxaHdyS1ZCYVI2ZjY2RE9sSlRMSTE4cE0yd0kxTUVHWWZPOVBHa1A1TmVMU3pPSDZrZ0ZLcHNnUHQ2SW1ubnNRUmptVG5QZ21PWkVIYVlOcng3YWV1VGxj?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 11:23:00 GMT"
+      "source": "The Hans India",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWDFsS05Cc3hKZG52WmkyV3JSR0NOVHZtb011enVXbWJTeERveEZxdFB1ZVZpZ18xR2VhTm1xdE9UTnpwWmhmc01WdUotLXRTX1YwX0lseG45MkNBNGE4VXBIZU9ObV9rQ25BX2FzVDFIYm5zdThGUWNla0F4eGk3SVJ2NVNsRllFT1RVVHY0SEJtS0plTXc0Y2NZS0hOQWtUaXk1RDlYa0FGYV9VdTVkaVlfRFBFaHBObHBUdG1aODJqSEtsUGQ4X1o5TQ?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 06:19:12 GMT"
     }
   ]
 }
