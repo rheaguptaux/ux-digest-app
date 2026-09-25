@@ -1,131 +1,155 @@
 {
-  "generatedAt": "2026-09-24T16:37:54.841Z",
+  "generatedAt": "2026-09-25T16:43:19.417Z",
   "items": [
     {
-      "headline": "5 Hard Lessons from Shipping a Real AI Feature",
-      "background": "Most AI feature write-ups focus on the technology stack or business case. Practitioners designing AI-powered tools inside ad tech platforms face specific UX challenges around trust, explainability, and user control that generic AI design guidelines don't address.",
+      "headline": "TPU vs EVA Midsoles: What Actually Matters",
+      "background": "Footwear material comparisons often devolve into brand marketing rather than performance data, leaving buyers and designers without actionable criteria for choosing between TPU and EVA midsoles.",
       "keyFindings": [
-        "Designing for advertiser trust required surfacing AI reasoning inline, not just showing outputs",
-        "The team learned that users needed to feel in control of AI recommendations, not just able to override them",
-        "Iteration cycles for AI features were longer because edge cases only surfaced after real advertiser data was introduced"
+        "Snippet is too limited to extract specific findings from this article",
+        "Material name alone is framed as insufficient for evaluating midsole performance",
+        "The piece implies other variables — density, construction method, use case — matter more than material category"
       ],
-      "implications": "If you're embedding AI into a workflow tool, invest early in how the system communicates uncertainty and rationale — not just accuracy. This is especially relevant in B2B contexts where users are accountable for the AI's decisions.",
+      "implications": "This article is outside the UX/product/tech domain and is not relevant to this digest's audience. Not recommended for inclusion.",
       "tags": [
-        "AI features",
-        "Ad tech",
-        "Trust & transparency"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*o4833eC6Y94r1EH54jo79w.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@lfrankchen85/5-lessons-learnt-from-designing-an-ai-feature-6adf1d0f3dc4?source=rss------product_design-5",
-      "pubDate": "Thu, 24 Sep 2026 16:09:36 GMT"
-    },
-    {
-      "headline": "UX in Colombia Means Designing Under Real Constraints",
-      "background": "Global UX discourse tends to assume access to research budgets, fast internet, high-end devices, and collaborative tools. Practitioners in Latin America often work within very different economic and infrastructural realities that the mainstream conversation ignores.",
-      "keyFindings": [
-        "Colombian UX practitioners frequently work without dedicated research budgets or specialized tools",
-        "Device and connectivity constraints mean designs optimized for high-end markets often fail local users",
-        "The piece argues that adapting global UX frameworks to local context is a skill, not a compromise"
-      ],
-      "implications": "Designers working on products for emerging markets — or managing distributed teams — should pressure-test assumptions about tooling, connectivity, and device specs. Constraint-driven design produces different and often more resilient outcomes.",
-      "tags": [
-        "Global UX",
-        "Emerging markets",
-        "Design constraints"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*Ql5Pbse7hzt6Yv30zFOs6w.jpeg",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@carlos.rojasco/ux-en-colombia-dise%C3%B1ar-bien-con-lo-que-hay-df137c13858c?source=rss------ux-5",
-      "pubDate": "Thu, 24 Sep 2026 15:55:35 GMT"
-    },
-    {
-      "headline": "Meta's Keychain Is Another Hardware Bet Nobody Asked For",
-      "background": "Meta has already launched and quietly stepped back from two generations of consumer hardware that failed to find mainstream adoption. Its Ray-Ban smart glasses are the closest thing to a hit, but the company continues pushing physical products into a skeptical market.",
-      "keyFindings": [
-        "Meta is releasing a keychain-form-factor device, continuing its pattern of incremental hardware experiments",
-        "The piece draws a direct line to Meta's earlier hardware failures, arguing the pattern is repeating",
-        "No clear differentiated use case is established for the keychain product beyond ecosystem lock-in"
-      ],
-      "implications": "Worth tracking for product strategists: Meta's hardware cadence suggests it's building toward ambient computing presence rather than any single device. Each product is less about standalone value and more about data collection and ecosystem expansion.",
-      "tags": [
-        "Hardware",
-        "Meta",
-        "Consumer tech strategy"
+        "Off-topic",
+        "Footwear",
+        "Materials"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*55H2D0SDYF0Wsfic1-nXxg.png",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*Jh3k6bdZvvJ_AivtNUJVKA.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/utopian/meta-is-selling-a-keychain-now-c22db7919f8c?source=rss------product_design-5",
-      "pubDate": "Thu, 24 Sep 2026 15:54:01 GMT"
+      "link": "https://medium.com/vuzugu-journal/tpu-vs-eva-midsoles-what-matters-more-than-the-material-name-e0dd8a802f13?source=rss------product_design-5",
+      "pubDate": "Fri, 25 Sep 2026 16:16:01 GMT"
     },
     {
-      "headline": "Another Beginner's Guide to Design Thinking — Skip It",
-      "background": "Design thinking primers are among the most-published content in the UX space, typically covering the same five-stage Stanford model with minimal new framing or evidence.",
+      "headline": "How Early Career Design Success Can Backfire",
+      "background": "New designers often assume early client success validates their process and career direction, but smooth first projects can mask skill gaps and set unrealistic expectations for what design work typically involves.",
       "keyFindings": [
-        "Article is self-described as a complete beginner's guide with no original research or practitioner insight cited",
-        "Content appears to rehash standard Empathize-Define-Ideate-Prototype-Test framing without contextual nuance",
-        "No specific tools, methods, or case-based examples distinguishing it from existing resources are evident"
+        "Author's first paid design and dev project went well on the surface, which created a false baseline for what to expect",
+        "The success became a psychological liability rather than a foundation, contributing to near-burnout or disillusionment",
+        "The piece frames early wins as potentially dangerous if they prevent designers from building resilience for harder, messier projects"
       ],
-      "implications": "Not a useful reference for practitioners. If you're onboarding junior designers to design thinking, IDEO's Field Guide or Nielsen Norman Group's foundational articles provide better-grounded starting points.",
+      "implications": "Worth flagging for junior designers and design educators: early success without failure can delay the development of problem-solving skills under real constraints. Mentors should deliberately introduce harder briefs early.",
       "tags": [
-        "Design thinking",
-        "Beginner resources"
+        "Career development",
+        "Junior designers",
+        "Design education"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "UX",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/800/1*I_xO22VvtciVVa4aZky9IQ.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@victorianifemi100/ui-ux-design-thinking-process-a-complete-beginners-guide-846c61485731?source=rss------ux-5",
-      "pubDate": "Thu, 24 Sep 2026 15:53:43 GMT"
+      "image": "https://cdn-images-1.medium.com/max/2600/1*2y7g-63TeLVAtB-vayg0zw@2x.jpeg",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/design-bootcamp/i-almost-quit-design-after-my-first-paid-job-368d17b91040?source=rss------product_design-5",
+      "pubDate": "Fri, 25 Sep 2026 15:59:31 GMT"
     },
     {
-      "headline": "UserTesting Adds MCP Servers to Pipe Human Insight into AI Workflows",
-      "background": "As AI agents and LLM-based tools become embedded in product and design workflows, there's a growing gap between AI-generated outputs and actual human behavioral data. Model Context Protocol (MCP) is an emerging standard for connecting AI systems to external data sources.",
+      "headline": "6 Localization Failures That Make Apps Feel Broken",
+      "background": "Localization is frequently treated as a translation task rather than a UX task, leading to apps that function correctly under the hood but feel unreliable or confusing to users in non-primary markets.",
       "keyFindings": [
-        "UserTesting is launching MCP servers that allow AI tools to query real user research data at the workflow level",
-        "The integration targets AI coding assistants, design tools, and agent-based workflows rather than standalone research use",
-        "This positions UserTesting as infrastructure for AI-augmented product development, not just a standalone research platform"
+        "An app can pass QA in a second language while still feeling broken to native users due to tone, truncation, or cultural mismatch",
+        "Bad localization creates perceived unreliability even when no technical errors exist — users blame the product, not the translation",
+        "The piece identifies six specific failure modes, suggesting localization bugs are systematic and preventable, not random"
       ],
-      "implications": "For teams using AI tools in their product workflow, this signals a near-term future where user insight can be injected as context into AI-generated recommendations. Worth evaluating if you're building AI-assisted design or product spec processes.",
+      "implications": "Product teams shipping to international markets should treat localization review as a UX audit step, not just a string-replacement handoff. Native speakers should be included in usability testing, not just translation review.",
       "tags": [
+        "Localization",
+        "Mobile apps",
+        "Internationalization"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/612/0*XICmbSMErGWPr_db",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/write-a-catalyst/6-ways-bad-localization-makes-a-mobile-app-feel-broken-d00f8910ce81?source=rss------product_design-5",
+      "pubDate": "Fri, 25 Sep 2026 15:32:58 GMT"
+    },
+    {
+      "headline": "Manual Claiming Is an Intentional Engagement Loop, Not Bad UX",
+      "background": "Friction in reward systems is widely treated as a design flaw to eliminate, but some products deliberately require users to manually claim rewards rather than auto-distributing them — a pattern that gets criticized without much scrutiny of why it persists.",
+      "keyFindings": [
+        "Habit formation research supports manual claiming as a mechanism that reinforces engagement by requiring an active user action",
+        "The piece argues the friction is deliberate, not an oversight — it creates a completion moment that passive auto-delivery does not",
+        "This reframes a commonly flagged 'dark pattern' as potentially aligned with behavioral psychology, depending on implementation intent"
+      ],
+      "implications": "UX reviewers auditing reward and loyalty flows should distinguish between friction that exploits users and friction that creates genuine engagement rituals. Context and user benefit matter — the same pattern can be ethical or manipulative depending on what the user gets from the action.",
+      "tags": [
+        "Engagement design",
+        "Behavioral psychology",
+        "Gamification"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*C4hmuhuLt25QvYg01EUJHQ.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@pamrita211/manual-claiming-isnt-a-ux-flaw-it-s-an-engagement-loop-8f7785a9dd2a?source=rss------product_design-5",
+      "pubDate": "Fri, 25 Sep 2026 15:30:46 GMT"
+    },
+    {
+      "headline": "Nielsen UX Roundup: AI for Blind Users, Synthetic Users, Error Messages",
+      "background": "Jakob Nielsen's UX roundups aggregate research-backed findings and emerging practice across multiple UX topics simultaneously, making them useful as a quick scan of what's gaining traction in the field.",
+      "keyFindings": [
+        "AI agents are being evaluated as assistive tools specifically for blind users, extending beyond traditional screen reader paradigms",
+        "Synthetic users — AI-simulated participants — are being positioned as a tool to help designers stress-test assumptions before real user research",
+        "Recognition over recall principle is applied specifically to style exploration: showing options rather than asking users to generate preferences from memory"
+      ],
+      "implications": "The synthetic users item warrants skepticism — they can surface blind spots but cannot replace behavioral data from real users, especially for accessibility or edge-case populations. The AI-for-blind-users thread is worth tracking if you work in assistive tech or accessibility compliance.",
+      "tags": [
+        "Accessibility",
         "AI tools",
-        "User research",
-        "MCP"
+        "Research methods"
       ],
       "featured": true,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMUhFTmZuVUtCZ2dKakJJTjZHQVAzWHE0eDBMcWNaeE9mbjdOT29iRV8zT1UzQWVTYS1jYVdydHgxM3pQTDhMZ1MxVHZJV2trdXROQjYzQXJURTc2RmpMUDNMWG56QXM1Q3ZSZGFJNmNUUEQ5ZjNmdmlUNVZLUzhNd0xpN2lqT09CdzVBTlQzQTBZUVE2aDc3Z3d2WWsyS2RwSXdrQ2gwbUM?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 15:00:00 GMT"
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEOEU0ZnJNbHNKT1FFa0xjZzFGZzZKT2VPd0F2b0dvbkYzZk8xb21sNGU3bTlBNnB6OWV0STZ4RjFiNVNLVnF3TlNfZmFZZENMcXI4R0FGejBJRGxJenBMcHhuMEhmcWtHLUE?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 11:21:46 GMT"
     },
     {
-      "headline": "Listicle: Top US Mobile App Developers for Startups",
-      "background": "Vendor listicles targeting startup decision-makers are common in tech trade media, typically compiled from directory data without independent vetting.",
+      "headline": "RNA Sequencing Market Forecast to 2035",
+      "background": "Market research report on NGS-based RNA sequencing growth driven by precision medicine.",
       "keyFindings": [
-        "Article appears to be a vendor directory-style roundup with no disclosed evaluation methodology",
-        "Targets early-stage companies and growing brands looking for development partners",
-        "No comparative pricing, tech stack specialization, or outcome data is provided"
+        "No UX, product, or tech relevance to this digest's audience",
+        "Life sciences market data outside scope",
+        "No actionable findings for UX or product practitioners"
       ],
-      "implications": "Not a reliable procurement resource. Startups evaluating dev partners should use vetted sources like Clutch with verified client reviews, or seek referrals from founders with comparable product complexity.",
+      "implications": "This article is outside the scope of this digest and should not be included.",
       "tags": [
-        "Vendor selection",
+        "Off-topic",
+        "Life sciences",
+        "Market research"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd21WZVlEbm5rZ2RpalRPbWFzakhqM1RXUTEya19IODg1NlBsMUN6ZW5TMTh2Q1VMM0x5NW1IRHNuNVF4TWgwQVlZQXphU3RCdXdoMzFrRUlzVGQyN1A4endONXpoYVZUVl9Eck9yRERjRFlyZjJ4ZzI3V3RNOUpIeWxmc2ZXbnBtWTJ3Mk1ibGlYWFBRZVNidmJ4LXBZTEJQb1BlbER2OC05bGpabUJNUGpuQ1dxZk9HTDh3ZDFn?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 10:51:03 GMT"
+    },
+    {
+      "headline": "How AI Is Changing Mobile App Development",
+      "background": "Generic overview content about AI's impact on mobile development appears frequently as publishers chase search traffic, often without specific data or practitioner-level insight.",
+      "keyFindings": [
+        "Snippet provides no specific claims, data points, or named tools",
+        "Article appears to be a broad survey piece without original research or concrete findings",
+        "No unique angle is discernible from available text"
+      ],
+      "implications": "Insufficient source material to evaluate relevance or quality. Based on snippet and publication, likely too general for this digest's audience. Not recommended without full-text review.",
+      "tags": [
+        "AI tools",
         "Mobile development"
       ],
       "featured": false,
@@ -133,99 +157,78 @@
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "WhaTech",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX0ZIaVdMSlIyclQzMFkycFNKdGEtMV9faDU3cmlYT2Zjck5BSy0zcFZkZ0MzM1FncXRJT2M3bVoyZk94MXp0c1NjTG42WFZGeXJtdktMR01QaVd0LWlrVklZd3lHV1hCN2s0NUV1VExPaS1MWFRfSUVORkdXMjBhSm5DcnA1a251SVMtWTVRaFkyUlRweWZoWHBLYlRabktMVTNRbVdOUUlNT0FHWFpaRVhfQTdTaDZmX1o3Z21TSFFBeFJyN0NUdVJJWW5CNEpk0gHQAUFVX3lxTFBfRkhpV0xKUjJyVDMwWTJwU0p0YS0xX19oNTdyaVhPZmNyTkFLLTNwVmRnQzMzUWdxdElPYzdtWjJmT3gxenRzU2NMbjZYVkZ5cm12S0xHTVBpV3QtaWtWSVl3eUdXWEI3azQ1RXVUTE9pLUxYVF9JRU5GR1cyMGFKbkNycDVrbnVJUy1ZNVFoWTJSVHB5ZmhYcEtiVFpuS0xVM1FtV05RSU1PQUdYWlpFWF9BN1NoNmZfWjdnbVNIUUF4UnI3Q1R1UklZbkI0SmQ?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 13:47:51 GMT"
+      "source": "TechBullion",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeldkVWN4M3hkT3IyZ1o4akFDV0c4SFRMR3V2NHQyNllMNk1MbmljQ2pLWi00OWRGb3F1aUNsTTYyOTloY2hiaGx5R0tRR3ZRRlA1bG5hekZiUGUxX1pqN2NtMXNoX0lXYmRTZS10eWo1TE5yOFJ6dGhKY25XQ3k3eEt2eGFZVjJlSFln?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 10:37:17 GMT"
     },
     {
-      "headline": "ISDI ATLAS Launches New UG Design Programs for 2027",
-      "background": "Design education in India is expanding as demand for UX and product design talent grows, with several private universities adding undergraduate programs to compete with engineering and management tracks.",
+      "headline": "Electric Fleet Startup Targets Egypt's Delivery Logistics",
+      "background": "Emerging market logistics operators are exploring electric vehicle fleets as delivery infrastructure costs and emissions regulations increase pressure on traditional models.",
       "keyFindings": [
-        "ISDI ATLAS SkillTech University is introducing new undergraduate design offerings starting with the 2027 intake",
-        "The programs are positioned under a 'SkillTech' model, emphasizing applied and industry-linked learning",
-        "No curriculum specifics, faculty credentials, or industry partnerships are detailed in the announcement"
+        "Abanob Ramzy is building an electric fleet business aimed at Egypt's delivery sector",
+        "The bet is on fleet electrification as a structural shift in delivery economics, not just a green initiative",
+        "No UX or product design angle is present in available content"
       ],
-      "implications": "Relevant to hiring managers in India tracking the pipeline of formally trained design graduates. Meaningful evaluation requires waiting for curriculum details and placement outcomes.",
+      "implications": "This article is outside the UX/product/tech scope of this digest and should not be included.",
       "tags": [
-        "Design education",
-        "India",
-        "Talent pipeline"
+        "Off-topic",
+        "Logistics",
+        "Electric vehicles"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "ANI News",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaUdTX2JRRmRBUGRQWHVtY0p4RWZjcEJvaWhubENuM1RxSEw4RzJublVjb1BNajNJZ2p1V2ZkX0hzWXNhMUV1aEh3VnlWWkczUld2YnlfZlJPYjFQY1k4VG5kY0poS2U5YTZVa2ZUbjJjNThVdFhMbGVhSU50ZnY4SXJvc0t1bUpiZXVLb2J2Z0J1b1hNWkNmSGxIclFXXzBxY2pQQ1I0VWFFWFQzOEVFVl9Nc2VvUXVjR0l0ZjVEZXN0VDdyOFBrc3pnd0c3Y0dzWmVGY3JjOXVGMVk3MFBrRlhGalczS1VVNy1peA?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 13:40:00 GMT"
+      "source": "We are Tech",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOTNhOWQxS1FMTlhMZTQyUDRGRFZqeXNKYk5mcUdWdlZEZTJ3TjlqQlhnOEduRGpGcU5Sc2N1QllqdGNQNGVRcmNfdTQ3QmVLRVlBU184QUFTSC0tSkVCZE5ZTklDaENOY3pUSUZXN0FraGc1VGxzS3BIRXVHdktJNGROaVpBMnFWNTlJMVdjMzBESlFjNmZTdDctakFGV3VTeWRDSzNQQXB5dkEtU1NDOUNnaW5mZTFqUG9jdmR5d1c?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 10:14:27 GMT"
     },
     {
-      "headline": "Spam Content — No Usable Information",
-      "background": "This entry appears to be injected spam or SEO content with no editorial relevance to UX, product, or technology.",
+      "headline": "Google Stitch Turns Brand Assets Into UI Designs via Gemini",
+      "background": "AI-assisted UI generation tools are proliferating, but most require designers to start from scratch with prompts. Google's Stitch takes a different approach by ingesting existing brand assets as the starting point for generating interface designs.",
       "keyFindings": [
-        "Content is not a legitimate article — title contains a random alphanumeric identifier and a vague Chinese-language label",
-        "Source domain (czechinvest.gov.cz) is unrelated to the described topic, indicating possible content injection",
-        "No actionable or informational content is present"
+        "Google Stitch uses Gemini 2.0 Flash to generate UI designs directly from uploaded brand assets such as logos, color palettes, and typography",
+        "The tool is positioned as a way to accelerate early-stage UI exploration while maintaining brand consistency — not as a production handoff tool",
+        "It represents Google's direct entry into the AI design tool space currently occupied by tools like Galileo AI and Uizard"
       ],
-      "implications": "Discard. Flag for editorial review if this appeared in a curated feed, as it suggests a content pipeline integrity issue.",
+      "implications": "Worth watching for product designers doing early-stage concepting or brand alignment work. It won't replace component-level design decisions, but could compress the time from brief to first visual direction. Evaluate output quality critically — brand fidelity in AI-generated UI is still inconsistent.",
       "tags": [
-        "Spam",
-        "Content quality"
+        "AI design tools",
+        "UI generation",
+        "Google"
+      ],
+      "featured": true,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Techgenyz",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tb1JYZnlGcVA1MnhadjlSYm4tSEdScHE2YkJjWktjaXhiNHYzZEI2YVlJbXNEdVVWMC1kLWx5TEI2TWNldV9pNlZrLVNpRF8yQmhYMDFuRV8xSE5Tb3FDSlMzOVViZWJHQjZMYmttcWllQ0xVcC1nTA?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 09:14:14 GMT"
+    },
+    {
+      "headline": "Six Agency Models for Enterprise Digital Experience Work Compared",
+      "background": "Enterprise brands choosing digital experience partners face a fragmented agency landscape where firms with different specializations — consulting, creative, technology, or hybrid — use similar language to describe very different service models.",
+      "keyFindings": [
+        "The piece compares six distinct agency models, suggesting meaningful structural differences in how they deliver work — not just positioning differences",
+        "Published by iCrossing, itself a digital experience agency, which is a significant conflict of interest to flag",
+        "No specific data or independent benchmarks are cited in the available snippet"
+      ],
+      "implications": "Useful framing exercise for product or marketing leaders evaluating agency partners, but treat with caution given the source. Use the model taxonomy as a starting vocabulary, then validate against independent references or peer recommendations.",
+      "tags": [
+        "Agency selection",
+        "Enterprise",
+        "Digital experience"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "czechinvest.gov.cz",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaTlNNDBoNzdzRTFMWHUwX2lOTVRSSDRxXy1ISzcyeldBTDV2aHpHd3lFdzYwUlRzSy16QjJNSUZaR3lfLWhPdVhwTEdPSDNVZU5uV0c1TnNGMHNzdU40VWVYSTQyTUV0VXBFbW1zVkFzTnZrRnBpRlMwZWJ6a2RJRGtuRGZwOUZCeGg5QkRBR2djdFRpSDl1QXVZTWlmanNFSGE1dzR6ZjFXR0hkX0NWZURPNjZLTHluSWZsek9zc2FMN0ZodllOZTRFMUdWTld5NDFlMkZkazR0Y2dKc0o1SVJNN1FmdlA3ZmpLQ09lY0VaaUNCb2p4SjZFRTZVZG02RUpReg?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 12:26:00 GMT"
-    },
-    {
-      "headline": "Spam Content — No Usable Information",
-      "background": "This entry appears to be injected spam or SEO content with no editorial relevance to UX, product, or technology.",
-      "keyFindings": [
-        "Content is not a legitimate article — title references online lottery mechanics with a random alphanumeric string",
-        "Source domain (czechinvest.gov.cz) is a government investment agency unrelated to the described topic",
-        "No actionable or informational content is present"
-      ],
-      "implications": "Discard. Flag for editorial review — same pattern as the adjacent spam entry, suggesting a systematic feed injection rather than a one-off error.",
-      "tags": [
-        "Spam",
-        "Content quality"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "czechinvest.gov.cz",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPOXBnM25lQlJ1Qjdjc2dranhDZ3FBSjNTakpJN3QxWmc4dmhJVzZna1ExWmVOVkZiMGdiWnIxakZFVDJhYWtJSW96YnhVVXA0YVJXU0JuT3Ryck5XVDYzVlgtREs1bllyN2RCV0NYeWltYlFPS1dMYjhSVW5mUXYxdVJMSW9LVjNCLU1GMkpyalphbDU0Q1BPYnQzZnZ4c2xCSXNOX19fbW5HdlZHTWwtSEwyXzZHbmR2akJZcm1qVkI0V0E2bGQyZlJfS21RRTlNWU15aUM4YURfSEo5UlRZcXJLVnB0VmxPZDFtUER5ZXNPUEswNHIzRHNRTWdYV2dpZmNGMw?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 11:24:43 GMT"
-    },
-    {
-      "headline": "Tobii Brings Eye Tracking to Standard Webcams for Lab Research",
-      "background": "Professional eye tracking has historically required dedicated hardware costing thousands of dollars, limiting its use to well-funded research teams. Webcam-based eye tracking has existed but lacked the accuracy and controlled-environment credibility needed for formal UX research.",
-      "keyFindings": [
-        "Tobii's new product enables eye tracking using standard webcams, targeted specifically at controlled on-site research settings",
-        "The solution is positioned for research validity in lab environments, not remote or at-home studies",
-        "Local processing is emphasized, which addresses data privacy concerns common in regulated industries and enterprise research contexts"
-      ],
-      "implications": "This lowers the cost barrier for teams wanting to add gaze data to usability studies without dedicated eye tracking hardware. Validate accuracy specs against your research standards before replacing existing equipment — webcam-based tracking still has gaze resolution trade-offs compared to dedicated sensors.",
-      "tags": [
-        "Eye tracking",
-        "Usability research",
-        "Research tools"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTlRzMk9Oemp1QkY1RDlLTFE3Z0hrY1kzczFCZldEX1MweDB5RTVUdDZhSmxGR2Rrb01mak1zZjIwUUJHeXBGTXE2ZE9HTUlHRGtFX0MtT1IzeC00cGg3elhsczhYYkNnYm8tVi05dzFrcUhqZktaLVBRbGlEM1k0U2NOY3FIdktxZm1OOERFZDgwN1B6cF8xTDg5cDk2WnFHMmh5RHhEQnR3R0dRS3k3VkxiaUpIUDRtVVY2NzVHS0tzSWc3QkNzQkdnYTJlNURtR3VZS0VFS0RPWkRtNXBkU2N3M1g0QWk0b0dz?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 11:24:00 GMT"
+      "source": "iCrossing",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWmo0YkhwX25CR2ZlMkZIaWhaSllZNHBkXzlOcDF4VjFTZF84UjRWMEZ2dXJWRWU2SGhiTHA5U18xMFItdmc0dDlTOFY4aEMwanpiaTQ1OVlrMXpFbVQ2ZGpLTkNYd09UYlZGcW1oa1NROFlvd2JhS0wtczZfdlBMLU4yTlE1LUlo?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 01:45:45 GMT"
     }
   ]
 }
