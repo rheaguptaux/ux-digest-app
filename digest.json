@@ -1,134 +1,148 @@
 {
-  "generatedAt": "2026-09-25T16:43:19.417Z",
+  "generatedAt": "2026-09-26T15:55:55.945Z",
   "items": [
     {
-      "headline": "TPU vs EVA Midsoles: What Actually Matters",
-      "background": "Footwear material comparisons often devolve into brand marketing rather than performance data, leaving buyers and designers without actionable criteria for choosing between TPU and EVA midsoles.",
+      "headline": "Pregnancy App UX: A Design Case Study",
+      "background": "Nutrition and pregnancy apps are a crowded category with widely criticized UX — cluttered interfaces, anxiety-inducing data presentation, and poor accessibility for users in vulnerable health contexts.",
       "keyFindings": [
-        "Snippet is too limited to extract specific findings from this article",
-        "Material name alone is framed as insufficient for evaluating midsole performance",
-        "The piece implies other variables — density, construction method, use case — matter more than material category"
+        "Case study documents design decisions for a pregnancy and nutrition tracking app called Nurture+",
+        "No specific methodology, metrics, or research findings are surfaced in the available snippet"
       ],
-      "implications": "This article is outside the UX/product/tech domain and is not relevant to this digest's audience. Not recommended for inclusion.",
+      "implications": "Without access to the full piece, it's not possible to extract concrete UX decisions or outcomes. Treat as a portfolio reference rather than a research-backed resource.",
       "tags": [
-        "Off-topic",
-        "Footwear",
-        "Materials"
+        "Health UX",
+        "Case Study",
+        "Mobile Design"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*Jh3k6bdZvvJ_AivtNUJVKA.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*Xio5s5dxSgYrrGCRR_mvkw.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/vuzugu-journal/tpu-vs-eva-midsoles-what-matters-more-than-the-material-name-e0dd8a802f13?source=rss------product_design-5",
-      "pubDate": "Fri, 25 Sep 2026 16:16:01 GMT"
+      "link": "https://medium.com/@rakshatated98/nurture-pregnancy-and-nutrition-app-design-case-study-032b438884e0?source=rss------product_design-5",
+      "pubDate": "Sat, 26 Sep 2026 14:57:01 GMT"
     },
     {
-      "headline": "How Early Career Design Success Can Backfire",
-      "background": "New designers often assume early client success validates their process and career direction, but smooth first projects can mask skill gaps and set unrealistic expectations for what design work typically involves.",
+      "headline": "Why Your Brain Needs Silence to Focus",
+      "background": "Cognitive load and multitasking are perennial UX concerns, but this piece approaches the problem from a neuroscience angle — using the everyday experience of turning down the radio while parking as an entry point into how the brain manages competing sensory inputs.",
       "keyFindings": [
-        "Author's first paid design and dev project went well on the surface, which created a false baseline for what to expect",
-        "The success became a psychological liability rather than a foundation, contributing to near-burnout or disillusionment",
-        "The piece frames early wins as potentially dangerous if they prevent designers from building resilience for harder, messier projects"
+        "The brain suppresses non-essential sensory input during high-precision tasks, which is why people instinctively mute audio when navigating complex spatial decisions",
+        "This reflects a hard limit in working memory capacity, not a preference or habit",
+        "Digital environments that layer visual, auditory, and interactive demands simultaneously are working against this cognitive architecture"
       ],
-      "implications": "Worth flagging for junior designers and design educators: early success without failure can delay the development of problem-solving skills under real constraints. Mentors should deliberately introduce harder briefs early.",
+      "implications": "For UX and product designers, this reinforces the case for reducing interface noise at moments requiring user precision — form completion, complex navigation, onboarding steps with decisions. Stimulus reduction at high-stakes moments isn't minimalism for aesthetics; it has a neurological basis.",
       "tags": [
-        "Career development",
-        "Junior designers",
-        "Design education"
+        "Cognitive Load",
+        "Attention",
+        "Design Psychology"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "Product design",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*2y7g-63TeLVAtB-vayg0zw@2x.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/design-bootcamp/i-almost-quit-design-after-my-first-paid-job-368d17b91040?source=rss------product_design-5",
-      "pubDate": "Fri, 25 Sep 2026 15:59:31 GMT"
+      "image": null,
+      "source": "UX on Medium",
+      "link": "https://medium.com/@antonio.manuel.tech/por-que-voc%C3%AA-abaixa-o-r%C3%A1dio-para-estacionar-o-carro-a-neuroci%C3%AAncia-do-foco-na-era-digital-c88c17ea2e1d?source=rss------ux-5",
+      "pubDate": "Sat, 26 Sep 2026 14:46:00 GMT"
     },
     {
-      "headline": "6 Localization Failures That Make Apps Feel Broken",
-      "background": "Localization is frequently treated as a translation task rather than a UX task, leading to apps that function correctly under the hood but feel unreliable or confusing to users in non-primary markets.",
+      "headline": "Connecting Garmin Data to ChatGPT via MCP",
+      "background": "Most fitness wearable data sits locked in proprietary apps with rigid visualizations. The MCP (Model Context Protocol) standard is opening up new ways for developers to pipe personal data into LLMs for conversational querying, but practical implementations are still rare and DIY.",
       "keyFindings": [
-        "An app can pass QA in a second language while still feeling broken to native users due to tone, truncation, or cultural mismatch",
-        "Bad localization creates perceived unreliability even when no technical errors exist — users blame the product, not the translation",
-        "The piece identifies six specific failure modes, suggesting localization bugs are systematic and preventable, not random"
+        "The author built a local MCP server that bridges years of Garmin fitness data to ChatGPT using a secure plugin tunnel",
+        "The setup enables natural language queries across longitudinal running data — asking questions that Garmin's native app cannot answer",
+        "The experiment required no changes to Garmin's platform; it works by exporting and intermediating data locally"
       ],
-      "implications": "Product teams shipping to international markets should treat localization review as a UX audit step, not just a string-replacement handoff. Native speakers should be included in usability testing, not just translation review.",
+      "implications": "This is a concrete, replicable example of MCP being used for personal data querying — relevant to product teams thinking about AI-native data exploration features and to UX designers considering what conversational interfaces could replace in data-heavy dashboards. Security of the local tunnel approach should be scrutinized before any production use.",
       "tags": [
-        "Localization",
-        "Mobile apps",
-        "Internationalization"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/612/0*XICmbSMErGWPr_db",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/write-a-catalyst/6-ways-bad-localization-makes-a-mobile-app-feel-broken-d00f8910ce81?source=rss------product_design-5",
-      "pubDate": "Fri, 25 Sep 2026 15:32:58 GMT"
-    },
-    {
-      "headline": "Manual Claiming Is an Intentional Engagement Loop, Not Bad UX",
-      "background": "Friction in reward systems is widely treated as a design flaw to eliminate, but some products deliberately require users to manually claim rewards rather than auto-distributing them — a pattern that gets criticized without much scrutiny of why it persists.",
-      "keyFindings": [
-        "Habit formation research supports manual claiming as a mechanism that reinforces engagement by requiring an active user action",
-        "The piece argues the friction is deliberate, not an oversight — it creates a completion moment that passive auto-delivery does not",
-        "This reframes a commonly flagged 'dark pattern' as potentially aligned with behavioral psychology, depending on implementation intent"
-      ],
-      "implications": "UX reviewers auditing reward and loyalty flows should distinguish between friction that exploits users and friction that creates genuine engagement rituals. Context and user benefit matter — the same pattern can be ethical or manipulative depending on what the user gets from the action.",
-      "tags": [
-        "Engagement design",
-        "Behavioral psychology",
-        "Gamification"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*C4hmuhuLt25QvYg01EUJHQ.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@pamrita211/manual-claiming-isnt-a-ux-flaw-it-s-an-engagement-loop-8f7785a9dd2a?source=rss------product_design-5",
-      "pubDate": "Fri, 25 Sep 2026 15:30:46 GMT"
-    },
-    {
-      "headline": "Nielsen UX Roundup: AI for Blind Users, Synthetic Users, Error Messages",
-      "background": "Jakob Nielsen's UX roundups aggregate research-backed findings and emerging practice across multiple UX topics simultaneously, making them useful as a quick scan of what's gaining traction in the field.",
-      "keyFindings": [
-        "AI agents are being evaluated as assistive tools specifically for blind users, extending beyond traditional screen reader paradigms",
-        "Synthetic users — AI-simulated participants — are being positioned as a tool to help designers stress-test assumptions before real user research",
-        "Recognition over recall principle is applied specifically to style exploration: showing options rather than asking users to generate preferences from memory"
-      ],
-      "implications": "The synthetic users item warrants skepticism — they can surface blind spots but cannot replace behavioral data from real users, especially for accessibility or edge-case populations. The AI-for-blind-users thread is worth tracking if you work in assistive tech or accessibility compliance.",
-      "tags": [
-        "Accessibility",
-        "AI tools",
-        "Research methods"
+        "AI Tools",
+        "MCP",
+        "Data Visualization"
       ],
       "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1774/1*s7r-Ao9uw-xLkfjxy-PNCg.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@fcasanova/i-wanted-to-talk-to-my-garmin-data-so-i-connected-it-to-chatgpt-f24b85d08e69?source=rss------product_design-5",
+      "pubDate": "Sat, 26 Sep 2026 14:29:36 GMT"
+    },
+    {
+      "headline": "Vague Post on 'Deep Learning' Offers Nothing",
+      "background": "Medium's algorithm surfaces engagement-optimized posts alongside substantive articles, and this appears to be one of the former — a content-farm style post with hashtag-heavy framing and no discernible substance.",
+      "keyFindings": [
+        "No substantive content is present in the available snippet",
+        "Hashtag strings like #virals and #reels suggest SEO or social-reach intent rather than informational purpose"
+      ],
+      "implications": "Not relevant to UX, product, or tech practice. Skip.",
+      "tags": [
+        "Noise"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*2t7zgu-76Xk5Wwo7",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@cjr62061/hey-you-know-the-purpose-of-mastering-knowledge-deep-learning-c4f3dfd03678?source=rss------ux-5",
+      "pubDate": "Sat, 26 Sep 2026 14:27:50 GMT"
+    },
+    {
+      "headline": "Irish Vision Science Research Gets Public Platform",
+      "background": "Science communication events that translate academic research into public-facing formats are increasingly used to build awareness and funding support for niche medical research areas.",
+      "keyFindings": [
+        "A Waterford-based scientist's vision research is being featured at an Irish premiere event called 'A Vision for Vision'",
+        "No UX, product, or tech angle is present in the available content"
+      ],
+      "implications": "Not directly relevant to UX, product, or tech practice. Peripheral interest only for those working in accessibility or assistive technology for visual impairment.",
+      "tags": [
+        "Vision Research",
+        "Accessibility-adjacent"
+      ],
+      "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEOEU0ZnJNbHNKT1FFa0xjZzFGZzZKT2VPd0F2b0dvbkYzZk8xb21sNGU3bTlBNnB6OWV0STZ4RjFiNVNLVnF3TlNfZmFZZENMcXI4R0FGejBJRGxJenBMcHhuMEhmcWtHLUE?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 11:21:46 GMT"
+      "source": "wlrfm.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPRXF3d1dtQ24tbjQzeDlvVW1GU1pEel9haDNIWnZCeW1qVkpzU0ZkZ1ZNVjJvY2c2UlMtV0FDc0s3TjB4YjZINUx4c09oaE5hcW1sYkdUNHhqbGZkUEVvUA?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 12:50:35 GMT"
     },
     {
-      "headline": "RNA Sequencing Market Forecast to 2035",
-      "background": "Market research report on NGS-based RNA sequencing growth driven by precision medicine.",
+      "headline": "Game Dev Career Pivot After 100 Rejections",
+      "background": "The gaming industry's hiring barriers are well-documented, particularly for newcomers and career-changers. Human-interest stories about unconventional entry paths occasionally surface data points about indie success rates and job market dynamics.",
       "keyFindings": [
-        "No UX, product, or tech relevance to this digest's audience",
-        "Life sciences market data outside scope",
-        "No actionable findings for UX or product practitioners"
+        "The subject applied to 100 positions before pivoting to join her husband's game development work",
+        "Her first game gained meaningful traction after the pivot — though specific sales or player numbers are not in the snippet",
+        "The story reflects broader patterns of indie development as an alternative to studio hiring pipelines"
       ],
-      "implications": "This article is outside the scope of this digest and should not be included.",
+      "implications": "Limited direct relevance to UX or product work, though the indie game market is increasingly relevant to UX designers interested in game UX and small-team product development. The hiring difficulty pattern mirrors broader tech market conditions.",
       "tags": [
-        "Off-topic",
-        "Life sciences",
-        "Market research"
+        "Game Development",
+        "Careers"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYTA2VFQ1cERXc1F3OHhZNTUtcDh5alpUbTM2NXJiWndBR2l0RGhjWUpHbU01NVc1Zms3ZlBQbUx2OGNoZ1RCcGZEa1M4ZzRRMktKeVFDU21KSUEzZ2h0NjVtSk5MWlNtalg0UkpMYmVvc3E2LS1xaXVUNFpSdFpReVdLV2Zrd0s1c3hpVDNYaTc4Y3lWNXQ4?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 12:00:04 GMT"
+    },
+    {
+      "headline": "RNA Oligos Market Forecast Has No UX Relevance",
+      "background": "Market research reports on biotech verticals are occasionally picked up by news aggregators and misrouted into tech feeds.",
+      "keyFindings": [
+        "Report projects growth in the custom RNA oligonucleotide market through 2035, driven by RNA therapeutics and diagnostics",
+        "No connection to UX, product design, or technology practice"
+      ],
+      "implications": "Not relevant to this digest's audience. No actionable content for UX, product, or tech practitioners.",
+      "tags": [
+        "Biotech",
+        "Off-topic"
       ],
       "featured": false,
       "type": "research",
@@ -136,99 +150,74 @@
       "publishedWindow": "today",
       "image": null,
       "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd21WZVlEbm5rZ2RpalRPbWFzakhqM1RXUTEya19IODg1NlBsMUN6ZW5TMTh2Q1VMM0x5NW1IRHNuNVF4TWgwQVlZQXphU3RCdXdoMzFrRUlzVGQyN1A4endONXpoYVZUVl9Eck9yRERjRFlyZjJ4ZzI3V3RNOUpIeWxmc2ZXbnBtWTJ3Mk1ibGlYWFBRZVNidmJ4LXBZTEJQb1BlbER2OC05bGpabUJNUGpuQ1dxZk9HTDh3ZDFn?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 10:51:03 GMT"
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2FETzNxclNTOEdNMkZyUDlrb1M5a3lnd3dKdjZEbVpSQmFoR0J3MTk4eExrRWVrSjZaRnZtbjVWbjVvOGEwZzg5WUxjMlpsS25LaGlsSjdEa3pZR3VERlk0anhsNmlvR2k3dlNJRjRndjUxSUVOY0FhTHZyeVFZVFFEMS1NN3hZMkljUEVmLURUMXlPS3dCSHI3ZGk1UjMwQkRMWVg1OU5HX09Ta3ZCQXBtTk9HcEVzWUF6MEFB?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 10:16:04 GMT"
     },
     {
-      "headline": "How AI Is Changing Mobile App Development",
-      "background": "Generic overview content about AI's impact on mobile development appears frequently as publishers chase search traffic, often without specific data or practitioner-level insight.",
+      "headline": "Product Designers Don't Need UI/UX Skills — Or Do They?",
+      "background": "Role definition in design is an ongoing industry debate, sharpened by companies collapsing 'UX designer' and 'product designer' titles while expecting different skill sets depending on the organization. This piece appears to take a position on whether UI/UX competency is a baseline requirement for product designers.",
       "keyFindings": [
-        "Snippet provides no specific claims, data points, or named tools",
-        "Article appears to be a broad survey piece without original research or concrete findings",
-        "No unique angle is discernible from available text"
+        "The headline frames UI/UX skills as potentially separable from product design — a contested position in most hiring contexts",
+        "No specific findings or data points are surfaced in the available snippet",
+        "The framing likely reflects ongoing role fragmentation where some companies hire product designers primarily for strategy and systems thinking, not execution"
       ],
-      "implications": "Insufficient source material to evaluate relevance or quality. Based on snippet and publication, likely too general for this digest's audience. Not recommended without full-text review.",
+      "implications": "The answer varies significantly by company size and stage — at startups, product designers almost always need execution-level UI/UX skills; at larger orgs, specialization is more common. Worth reading if you're navigating job descriptions or team structuring, but verify the piece has data or practitioner evidence rather than opinion.",
       "tags": [
-        "AI tools",
-        "Mobile development"
+        "Product Design",
+        "Careers",
+        "Role Definition"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "TechBullion",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeldkVWN4M3hkT3IyZ1o4akFDV0c4SFRMR3V2NHQyNllMNk1MbmljQ2pLWi00OWRGb3F1aUNsTTYyOTloY2hiaGx5R0tRR3ZRRlA1bG5hekZiUGUxX1pqN2NtMXNoX0lXYmRTZS10eWo1TE5yOFJ6dGhKY25XQ3k3eEt2eGFZVjJlSFln?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 10:37:17 GMT"
+      "source": "The News Minute",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdEYtMld5dnRpYVZRUmdqV2Y2b28tU2ppdFRyQXJ5cWdZT2xsLWtrRGFlQ1JESEo2T0pfQUVZRjd1N2R3Z0tjLXJnd05YNXRsNk5IMEFQVl8tVng2bnh0RW1JN3V5V1NPaEdJZUJGQW9YeWlwT01DR2tYSnFZdGpOQ3MxY0hla0JIbGFhMW5n0gGOAUFVX3lxTE50Ri0yV3l2dGlhVlFSZ2pXZjZvby1Taml0VHJBcnlxZ1lPbGwta2tEYWVDUkRISjZPSl9BRVlGN3U3ZHdnS2Mtcmd3Tlg1dGw2TkgwQVBWXy1WeDZueHRFbUk3dXlXU09oR0llQkZBb1h5aXBPTUNHa1hKcVl0ak5DczFjSGVrQkhsYWExbmc?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 09:22:00 GMT"
     },
     {
-      "headline": "Electric Fleet Startup Targets Egypt's Delivery Logistics",
-      "background": "Emerging market logistics operators are exploring electric vehicle fleets as delivery infrastructure costs and emissions regulations increase pressure on traditional models.",
+      "headline": "Indian SkillTech University Adds UG Design Programs",
+      "background": "ISDI ATLAS SkillTech University in India is expanding its undergraduate offerings, likely in response to growing demand for formally credentialed design and tech education in the Indian market ahead of 2027 enrollment cycles.",
       "keyFindings": [
-        "Abanob Ramzy is building an electric fleet business aimed at Egypt's delivery sector",
-        "The bet is on fleet electrification as a structural shift in delivery economics, not just a green initiative",
-        "No UX or product design angle is present in available content"
+        "ISDI ATLAS is launching new undergraduate programs targeting 2027 enrollment",
+        "No specific program names, curricula, or admissions data are available in the snippet"
       ],
-      "implications": "This article is outside the UX/product/tech scope of this digest and should not be included.",
+      "implications": "Minimal immediate relevance unless you are hiring from or recruiting within the Indian design education pipeline. Worth monitoring if Indian design education expansion affects the regional talent pool you draw from.",
       "tags": [
-        "Off-topic",
-        "Logistics",
-        "Electric vehicles"
+        "Design Education",
+        "India",
+        "Careers"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "We are Tech",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOTNhOWQxS1FMTlhMZTQyUDRGRFZqeXNKYk5mcUdWdlZEZTJ3TjlqQlhnOEduRGpGcU5Sc2N1QllqdGNQNGVRcmNfdTQ3QmVLRVlBU184QUFTSC0tSkVCZE5ZTklDaENOY3pUSUZXN0FraGc1VGxzS3BIRXVHdktJNGROaVpBMnFWNTlJMVdjMzBESlFjNmZTdDctakFGV3VTeWRDSzNQQXB5dkEtU1NDOUNnaW5mZTFqUG9jdmR5d1c?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 10:14:27 GMT"
+      "source": "SMEStreet",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcWF4Y1Rnc0ptb2dEUVdLWU9GYjhoMTdXREFUa25ZTXVSVHI2el9aZ2FsN2VLaU1RMnFFazdNRFFDcGZ3UGpCRndRUGl3emYxLU8tTXhUVldmSXcwajU3Y0ljZi14eUcwQjJmbGN0WEpiX2k4X29ydnk5NWNTbWJQX2JORC1teHoxQW85S2ZEU1JjV01yeFVPU1NQa1ROLXRNenVJM1RJRWdSMlFQTEpr0gGvAUFVX3lxTE1xYXhjVGdzSm1vZ0RRV0tZT0ZiOGgxN1dEQVRrbllNdVJUcjZ6X1pnYWw3ZUtpTVEycUVrN01EUUNwZndQakJGd1FQaXd6ZjEtTy1NeFRWV2ZJdzBqNTdjSWNmLXh5RzBCMmZsY3RYSmJfaThfb3J2eTk1Y1NtYlBfYk5ELW14ejFBbzlLZkRTUmNXTXJ4VU9TU1BrVE4tdE16dUkzVElFZ1IyUVBMSms?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 08:28:37 GMT"
     },
     {
-      "headline": "Google Stitch Turns Brand Assets Into UI Designs via Gemini",
-      "background": "AI-assisted UI generation tools are proliferating, but most require designers to start from scratch with prompts. Google's Stitch takes a different approach by ingesting existing brand assets as the starting point for generating interface designs.",
+      "headline": "Same ISDI ATLAS Story, Different Outlet",
+      "background": "This appears to be a duplicate news item covering the same ISDI ATLAS SkillTech University program expansion announcement as the previous article, published in a separate outlet.",
       "keyFindings": [
-        "Google Stitch uses Gemini 2.0 Flash to generate UI designs directly from uploaded brand assets such as logos, color palettes, and typography",
-        "The tool is positioned as a way to accelerate early-stage UI exploration while maintaining brand consistency — not as a production handoff tool",
-        "It represents Google's direct entry into the AI design tool space currently occupied by tools like Galileo AI and Uizard"
+        "Duplicate coverage of ISDI ATLAS's 2027 undergraduate program expansion",
+        "No additional information beyond what the previous item covers"
       ],
-      "implications": "Worth watching for product designers doing early-stage concepting or brand alignment work. It won't replace component-level design decisions, but could compress the time from brief to first visual direction. Evaluate output quality critically — brand fidelity in AI-generated UI is still inconsistent.",
+      "implications": "Identical in substance to the preceding item. No additional value for UX or product practitioners.",
       "tags": [
-        "AI design tools",
-        "UI generation",
-        "Google"
-      ],
-      "featured": true,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Techgenyz",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tb1JYZnlGcVA1MnhadjlSYm4tSEdScHE2YkJjWktjaXhiNHYzZEI2YVlJbXNEdVVWMC1kLWx5TEI2TWNldV9pNlZrLVNpRF8yQmhYMDFuRV8xSE5Tb3FDSlMzOVViZWJHQjZMYmttcWllQ0xVcC1nTA?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 09:14:14 GMT"
-    },
-    {
-      "headline": "Six Agency Models for Enterprise Digital Experience Work Compared",
-      "background": "Enterprise brands choosing digital experience partners face a fragmented agency landscape where firms with different specializations — consulting, creative, technology, or hybrid — use similar language to describe very different service models.",
-      "keyFindings": [
-        "The piece compares six distinct agency models, suggesting meaningful structural differences in how they deliver work — not just positioning differences",
-        "Published by iCrossing, itself a digital experience agency, which is a significant conflict of interest to flag",
-        "No specific data or independent benchmarks are cited in the available snippet"
-      ],
-      "implications": "Useful framing exercise for product or marketing leaders evaluating agency partners, but treat with caution given the source. Use the model taxonomy as a starting vocabulary, then validate against independent references or peer recommendations.",
-      "tags": [
-        "Agency selection",
-        "Enterprise",
-        "Digital experience"
+        "Design Education",
+        "Duplicate"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "iCrossing",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWmo0YkhwX25CR2ZlMkZIaWhaSllZNHBkXzlOcDF4VjFTZF84UjRWMEZ2dXJWRWU2SGhiTHA5U18xMFItdmc0dDlTOFY4aEMwanpiaTQ1OVlrMXpFbVQ2ZGpLTkNYd09UYlZGcW1oa1NROFlvd2JhS0wtczZfdlBMLU4yTlE1LUlo?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 01:45:45 GMT"
+      "source": "outlookbusiness.com",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcGJ5QWhjYzU1eHllSXBTTEQzRTBuUHNVa2Y3OTVmTlZiNDVwMHZDZzQ3YWpWLTdjNGd6NTRQME1nRzRmMDMza1lSbnM5bWJadUZ3TExWUHpmLTRZYjJUNVZ2RWc5Sy12cFdUaW5xcVdTa2QyTThSR1NjbmQwX0hWaFNQU0htWVBFN0R5bDBqVHF6anI4UXJfWlltY2p4a0lMOTdaNDcyRjNKclQySmY3NG9CMXN2SUIyWVpfZXJMQlNEbmV3aTdCNVdnQmgxTmQ4OVR3czJMTkV1SEVyUWhBZ1JYQ1I1VE1zcHN3TEdzMTNJRnVhSFE0RERrUdIB-wFBVV95cUxQcGJ5QWhjYzU1eHllSXBTTEQzRTBuUHNVa2Y3OTVmTlZiNDVwMHZDZzQ3YWpWLTdjNGd6NTRQME1nRzRmMDMza1lSbnM5bWJadUZ3TExWUHpmLTRZYjJUNVZ2RWc5Sy12cFdUaW5xcVdTa2QyTThSR1NjbmQwX0hWaFNQU0htWVBFN0R5bDBqVHF6anI4UXJfWlltY2p4a0lMOTdaNDcyRjNKclQySmY3NG9CMXN2SUIyWVpfZXJMQlNEbmV3aTdCNVdnQmgxTmQ4OVR3czJMTkV1SEVyUWhBZ1JYQ1I1VE1zcHN3TEdzMTNJRnVhSFE0RERrUQ?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 06:07:10 GMT"
     }
   ]
 }
