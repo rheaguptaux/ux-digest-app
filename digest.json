@@ -1,223 +1,235 @@
 {
-  "generatedAt": "2026-09-26T15:55:55.945Z",
+  "generatedAt": "2026-09-27T16:31:45.303Z",
   "items": [
     {
-      "headline": "Pregnancy App UX: A Design Case Study",
-      "background": "Nutrition and pregnancy apps are a crowded category with widely criticized UX — cluttered interfaces, anxiety-inducing data presentation, and poor accessibility for users in vulnerable health contexts.",
+      "headline": "Cushioned Shoes Still Need Structural Support",
+      "background": "There's a persistent assumption in footwear design that high cushioning is sufficient for foot support, leading brands to deprioritize structural chassis elements in soft-soled shoes. VUZUGU-CORE™ appears to be a midsole or support technology challenging that tradeoff.",
       "keyFindings": [
-        "Case study documents design decisions for a pregnancy and nutrition tracking app called Nurture+",
-        "No specific methodology, metrics, or research findings are surfaced in the available snippet"
+        "Cushioning and structural support address different biomechanical needs and cannot substitute for each other",
+        "VUZUGU-CORE™ is positioned as a chassis system designed to work alongside cushioning layers",
+        "The piece acknowledges the technology is unproven and still requires real-world testing"
       ],
-      "implications": "Without access to the full piece, it's not possible to extract concrete UX decisions or outcomes. Treat as a portfolio reference rather than a research-backed resource.",
+      "implications": "Relevant mostly to product designers or researchers in wearables and physical product UX — this is a vendor-adjacent piece with limited independent validation. Treat claims skeptically until third-party testing exists.",
       "tags": [
-        "Health UX",
-        "Case Study",
-        "Mobile Design"
+        "Physical Product Design",
+        "Wearables",
+        "Biomechanics"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*Xio5s5dxSgYrrGCRR_mvkw.png",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*xESYEueb869EmZPKR51wWg.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@rakshatated98/nurture-pregnancy-and-nutrition-app-design-case-study-032b438884e0?source=rss------product_design-5",
-      "pubDate": "Sat, 26 Sep 2026 14:57:01 GMT"
+      "link": "https://medium.com/vuzugu-journal/why-a-cushioned-shoe-can-still-need-a-support-chassis-2f3fc2f7c905?source=rss------product_design-5",
+      "pubDate": "Sun, 27 Sep 2026 15:51:01 GMT"
     },
     {
-      "headline": "Why Your Brain Needs Silence to Focus",
-      "background": "Cognitive load and multitasking are perennial UX concerns, but this piece approaches the problem from a neuroscience angle — using the everyday experience of turning down the radio while parking as an entry point into how the brain manages competing sensory inputs.",
+      "headline": "Two Design Students Map Advocacy Program Experience",
+      "background": "Design students entering policy or civic advocacy spaces often lack frameworks for understanding those environments, and journey mapping is rarely applied to the participants' own experience rather than end users.",
       "keyFindings": [
-        "The brain suppresses non-essential sensory input during high-precision tasks, which is why people instinctively mute audio when navigating complex spatial decisions",
-        "This reflects a hard limit in working memory capacity, not a preference or habit",
-        "Digital environments that layer visual, auditory, and interactive demands simultaneously are working against this cognitive architecture"
+        "Authors used journey mapping as a reflective tool for their own participation in the YLAC Mobility Champions 2026 program",
+        "The piece documents how design thinking methods transfer — and strain — in non-commercial advocacy contexts",
+        "Co-authorship between two students suggests the reflection captures divergent as well as shared perspectives"
       ],
-      "implications": "For UX and product designers, this reinforces the case for reducing interface noise at moments requiring user precision — form completion, complex navigation, onboarding steps with decisions. Stimulus reduction at high-stakes moments isn't minimalism for aesthetics; it has a neurological basis.",
+      "implications": "Useful for educators and early-career designers interested in civic design or applying UX methods in non-product contexts. Limited generalizability given the personal scope, but the reflexive use of journey mapping is a transferable technique.",
       "tags": [
-        "Cognitive Load",
-        "Attention",
-        "Design Psychology"
+        "Design Education",
+        "Civic Design",
+        "Journey Mapping"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": null,
+      "image": "https://cdn-images-1.medium.com/max/2600/1*49QfZaTRWbNJaKeXBBUOKw.jpeg",
       "source": "UX on Medium",
-      "link": "https://medium.com/@antonio.manuel.tech/por-que-voc%C3%AA-abaixa-o-r%C3%A1dio-para-estacionar-o-carro-a-neuroci%C3%AAncia-do-foco-na-era-digital-c88c17ea2e1d?source=rss------ux-5",
-      "pubDate": "Sat, 26 Sep 2026 14:46:00 GMT"
+      "link": "https://medium.com/@shubhi.vris14/the-journey-map-of-two-design-students-in-advocacy-spaces-6a7d0a4d32b7?source=rss------ux-5",
+      "pubDate": "Sun, 27 Sep 2026 15:50:27 GMT"
     },
     {
-      "headline": "Connecting Garmin Data to ChatGPT via MCP",
-      "background": "Most fitness wearable data sits locked in proprietary apps with rigid visualizations. The MCP (Model Context Protocol) standard is opening up new ways for developers to pipe personal data into LLMs for conversational querying, but practical implementations are still rare and DIY.",
+      "headline": "Laser-Cut Phone Stand as Critical Design Exercise",
+      "background": "Critical design uses provocative objects to challenge assumptions about behavior and technology dependence. This student project frames a physical phone stand as a commentary on screen addiction using deliberately confrontational framing.",
       "keyFindings": [
-        "The author built a local MCP server that bridges years of Garmin fitness data to ChatGPT using a secure plugin tunnel",
-        "The setup enables natural language queries across longitudinal running data — asking questions that Garmin's native app cannot answer",
-        "The experiment required no changes to Garmin's platform; it works by exporting and intermediating data locally"
+        "The stand is constructed from 4mm MDF using laser cutting, framed metaphorically as a 'jail cell' for the phone",
+        "The project is presented as a design reflection rather than a commercial or functional prototype",
+        "Critical design framing is used to prompt questions about phone dependency rather than solve a usability problem"
       ],
-      "implications": "This is a concrete, replicable example of MCP being used for personal data querying — relevant to product teams thinking about AI-native data exploration features and to UX designers considering what conversational interfaces could replace in data-heavy dashboards. Security of the local tunnel approach should be scrutinized before any production use.",
+      "implications": "Primarily relevant to design educators and students exploring critical or speculative design methods. Not directly applicable to product or UX practice but illustrates how material choices and framing can carry conceptual weight.",
       "tags": [
-        "AI Tools",
-        "MCP",
-        "Data Visualization"
+        "Critical Design",
+        "Speculative Design",
+        "Design Education"
       ],
-      "featured": true,
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2387/1*yg7-FYPxLTcjfWAk5Cyjxw.jpeg",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@sindhumd215/critical-design-lazer-cut-phone-stand-72f49b0d231b?source=rss------ux-5",
+      "pubDate": "Sun, 27 Sep 2026 15:47:45 GMT"
+    },
+    {
+      "headline": "Six Habits That Took One Designer to Head of Product",
+      "background": "The designer-to-product-leader career path is common but poorly documented in terms of which specific practices actually drive the transition versus which are retrospective rationalization.",
+      "keyFindings": [
+        "The author credits a set of Figma-rooted design habits as foundational to reaching a Head of Product role",
+        "Six specific practices are identified as ones the author would repeat — implying others were abandoned or revised",
+        "The piece is first-person and retrospective, drawing from a single career trajectory rather than comparative data"
+      ],
+      "implications": "Useful for mid-career designers considering a move into product leadership, but treat as one data point. The habits described may be highly context-dependent — company size, industry, and team structure all affect which design-to-product transitions look like.",
+      "tags": [
+        "Career Development",
+        "Product Leadership",
+        "Design Practice"
+      ],
+      "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1774/1*s7r-Ao9uw-xLkfjxy-PNCg.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*sp1ifnnqB6ybVZOJw3BU8w.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@fcasanova/i-wanted-to-talk-to-my-garmin-data-so-i-connected-it-to-chatgpt-f24b85d08e69?source=rss------product_design-5",
-      "pubDate": "Sat, 26 Sep 2026 14:29:36 GMT"
+      "link": "https://nurxmedov.medium.com/from-designer-to-head-of-product-six-things-id-do-again-bc29c97eae65?source=rss------product_design-5",
+      "pubDate": "Sun, 27 Sep 2026 15:29:25 GMT"
     },
     {
-      "headline": "Vague Post on 'Deep Learning' Offers Nothing",
-      "background": "Medium's algorithm surfaces engagement-optimized posts alongside substantive articles, and this appears to be one of the former — a content-farm style post with hashtag-heavy framing and no discernible substance.",
+      "headline": "Eight Concrete Upgrades Hasselblad's 907x CFV 100C Needs",
+      "background": "The Hasselblad 907x CFV 100C is a high-end medium format digital back with a retro modular form factor. Despite its premium positioning, users and reviewers have identified persistent usability and feature gaps that Hasselblad has not addressed.",
       "keyFindings": [
-        "No substantive content is present in the available snippet",
-        "Hashtag strings like #virals and #reels suggest SEO or social-reach intent rather than informational purpose"
+        "Eight specific hardware or software improvements are proposed for the 907x CFV 100C system",
+        "The critique targets a camera priced in the upper tier of the medium format market, where usability gaps are harder to justify",
+        "The piece comes from PetaPixel, a specialist photography publication with a technically literate readership"
       ],
-      "implications": "Not relevant to UX, product, or tech practice. Skip.",
+      "implications": "Relevant to UX practitioners working on hardware products or camera software — illustrates how premium pricing raises usability expectations and how modular legacy form factors create interface debt.",
       "tags": [
-        "Noise"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/0*2t7zgu-76Xk5Wwo7",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@cjr62061/hey-you-know-the-purpose-of-mastering-knowledge-deep-learning-c4f3dfd03678?source=rss------ux-5",
-      "pubDate": "Sat, 26 Sep 2026 14:27:50 GMT"
-    },
-    {
-      "headline": "Irish Vision Science Research Gets Public Platform",
-      "background": "Science communication events that translate academic research into public-facing formats are increasingly used to build awareness and funding support for niche medical research areas.",
-      "keyFindings": [
-        "A Waterford-based scientist's vision research is being featured at an Irish premiere event called 'A Vision for Vision'",
-        "No UX, product, or tech angle is present in the available content"
-      ],
-      "implications": "Not directly relevant to UX, product, or tech practice. Peripheral interest only for those working in accessibility or assistive technology for visual impairment.",
-      "tags": [
-        "Vision Research",
-        "Accessibility-adjacent"
+        "Hardware UX",
+        "Physical Product Design",
+        "Camera Systems"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "wlrfm.com",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPRXF3d1dtQ24tbjQzeDlvVW1GU1pEel9haDNIWnZCeW1qVkpzU0ZkZ1ZNVjJvY2c2UlMtV0FDc0s3TjB4YjZINUx4c09oaE5hcW1sYkdUNHhqbGZkUEVvUA?oc=5",
-      "pubDate": "Sat, 26 Sep 2026 12:50:35 GMT"
+      "source": "PetaPixel",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWVhCRGV1b0JGckxHMkIxc3BVVnVtSHQ4UTdZU2tKNFd4ZkI1V1pwaXpfUHdxeEd0a0JKdXB6YnctMVJKOFdIT21ZRVJrb1RVM3ZBS3Q5YUZLNWFFZXFXY0haeDFDdTRSX3pKZEJ0azhyQW1RZFhUTWhnSDVldXF1YVF3a3gzWDRtU0JfZlBlcWxpZGM?oc=5",
+      "pubDate": "Sun, 27 Sep 2026 13:00:12 GMT"
     },
     {
-      "headline": "Game Dev Career Pivot After 100 Rejections",
-      "background": "The gaming industry's hiring barriers are well-documented, particularly for newcomers and career-changers. Human-interest stories about unconventional entry paths occasionally surface data points about indie success rates and job market dynamics.",
+      "headline": "Real Estate Promotion Piece, Not UX-Relevant",
+      "background": "This article appears to be promotional content about property investment in Batumi, Georgia, tied to commentary from a financial influencer. It has no connection to UX, product design, or technology.",
       "keyFindings": [
-        "The subject applied to 100 positions before pivoting to join her husband's game development work",
-        "Her first game gained meaningful traction after the pivot — though specific sales or player numbers are not in the snippet",
-        "The story reflects broader patterns of indie development as an alternative to studio hiring pipelines"
+        "Content is real estate investment promotion unrelated to UX or tech",
+        "Sourced from TechBullion, a publication that mixes legitimate tech news with sponsored financial content",
+        "No design, product, or technology findings present"
       ],
-      "implications": "Limited direct relevance to UX or product work, though the indie game market is increasingly relevant to UX designers interested in game UX and small-team product development. The hiring difficulty pattern mirrors broader tech market conditions.",
+      "implications": "No relevance to UX, product, or tech practice. Skip.",
       "tags": [
-        "Game Development",
-        "Careers"
+        "Off-Topic",
+        "Real Estate",
+        "Sponsored Content"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYTA2VFQ1cERXc1F3OHhZNTUtcDh5alpUbTM2NXJiWndBR2l0RGhjWUpHbU01NVc1Zms3ZlBQbUx2OGNoZ1RCcGZEa1M4ZzRRMktKeVFDU21KSUEzZ2h0NjVtSk5MWlNtalg0UkpMYmVvc3E2LS1xaXVUNFpSdFpReVdLV2Zrd0s1c3hpVDNYaTc4Y3lWNXQ4?oc=5",
-      "pubDate": "Sat, 26 Sep 2026 12:00:04 GMT"
+      "source": "TechBullion",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcVRQSVhxMEtCYmdiampDcVJlWlNHc0NzUGNSWnBNZU1EdVd0WDUtbnZnTlVQU2J5TXFwTTNBTWpwZ0t0bGZYWjhrSml1dUhHdFdrTnh6dkU0WlZ5cDZnTjZzQ2dqVGdwNVhkQkRhUDRRXzNJUkdNRmc0cHY5cHVqVURVV2FKdzZRQkpMSUZJaGZORXBVTXNoTFdzbm1nUGkwaHg4SEdtRVRMNTlERTZNbHo0SENqcElKN28waWUzMElYbDZTTnpfc0dXOURCd0xpTm9z?oc=5",
+      "pubDate": "Sun, 27 Sep 2026 11:45:33 GMT"
     },
     {
-      "headline": "RNA Oligos Market Forecast Has No UX Relevance",
-      "background": "Market research reports on biotech verticals are occasionally picked up by news aggregators and misrouted into tech feeds.",
+      "headline": "Gene-Editing Detection Market Report, Not UX-Relevant",
+      "background": "This is a market sizing and forecasting report for gene-editing detection kits through 2035, driven by growth in clinical trials. It has no connection to UX, product design, or technology practice.",
       "keyFindings": [
-        "Report projects growth in the custom RNA oligonucleotide market through 2035, driven by RNA therapeutics and diagnostics",
-        "No connection to UX, product design, or technology practice"
+        "Market growth is attributed to increased volume of clinical trials requiring gene-editing verification",
+        "Forecast horizon extends to 2035",
+        "No UX, design, or product development content present"
       ],
-      "implications": "Not relevant to this digest's audience. No actionable content for UX, product, or tech practitioners.",
+      "implications": "No relevance to UX, product, or tech practice. Skip.",
       "tags": [
-        "Biotech",
-        "Off-topic"
+        "Off-Topic",
+        "Life Sciences",
+        "Market Research"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2FETzNxclNTOEdNMkZyUDlrb1M5a3lnd3dKdjZEbVpSQmFoR0J3MTk4eExrRWVrSjZaRnZtbjVWbjVvOGEwZzg5WUxjMlpsS25LaGlsSjdEa3pZR3VERlk0anhsNmlvR2k3dlNJRjRndjUxSUVOY0FhTHZyeVFZVFFEMS1NN3hZMkljUEVmLURUMXlPS3dCSHI3ZGk1UjMwQkRMWVg1OU5HX09Ta3ZCQXBtTk9HcEVzWUF6MEFB?oc=5",
-      "pubDate": "Sat, 26 Sep 2026 10:16:04 GMT"
+      "source": "indexbox.io",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWXRhOF9IRzFLX0NxbkNlXzlPZDhRTDk4NDhxbi1nbkVKSGVKWGZmSDdjc2RMMXZFaEo0dDRkdUZndjh6NFp3cmFydjlYRzlMZk5kTldBZHQ3c2U1b1J1ZlpRWGY2S0FNb3BsZFduRzdyUzRhRjFmTDgwcWpDRlVLeG9QbTlUTFF5VDRVZnNuRVV6U0lfaGxCSDJadnRlNUdmaXZnV1poSl9wZGF5eWxJekZQNUs3eFFaNl9sY29XeTNIaUVTQnlV?oc=5",
+      "pubDate": "Sun, 27 Sep 2026 05:01:04 GMT"
     },
     {
-      "headline": "Product Designers Don't Need UI/UX Skills — Or Do They?",
-      "background": "Role definition in design is an ongoing industry debate, sharpened by companies collapsing 'UX designer' and 'product designer' titles while expecting different skill sets depending on the organization. This piece appears to take a position on whether UI/UX competency is a baseline requirement for product designers.",
+      "headline": "74 Real Product Failures That Hurt Usability",
+      "background": "Bad design in physical and digital products is often discussed abstractly. Compiled examples of real-world failures provide concrete evidence of how design decisions cause friction, confusion, or harm for actual users.",
       "keyFindings": [
-        "The headline frames UI/UX skills as potentially separable from product design — a contested position in most hiring contexts",
-        "No specific findings or data points are surfaced in the available snippet",
-        "The framing likely reflects ongoing role fragmentation where some companies hire product designers primarily for strategy and systems thinking, not execution"
+        "74 documented product design failures are presented, each making tasks harder for intended users",
+        "Examples span physical and likely digital products, illustrating that poor usability is not domain-specific",
+        "The volume and specificity of examples make this a practical reference for identifying common failure patterns"
       ],
-      "implications": "The answer varies significantly by company size and stage — at startups, product designers almost always need execution-level UI/UX skills; at larger orgs, specialization is more common. Worth reading if you're navigating job descriptions or team structuring, but verify the piece has data or practitioner evidence rather than opinion.",
+      "implications": "Useful as a teaching resource or heuristic reference for designers conducting design reviews or building failure-mode awareness. The AOL sourcing suggests a listicle format — useful for examples but unlikely to include structured analysis.",
       "tags": [
-        "Product Design",
-        "Careers",
-        "Role Definition"
+        "Usability Failures",
+        "Design Critique",
+        "Design Patterns"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "The News Minute",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdEYtMld5dnRpYVZRUmdqV2Y2b28tU2ppdFRyQXJ5cWdZT2xsLWtrRGFlQ1JESEo2T0pfQUVZRjd1N2R3Z0tjLXJnd05YNXRsNk5IMEFQVl8tVng2bnh0RW1JN3V5V1NPaEdJZUJGQW9YeWlwT01DR2tYSnFZdGpOQ3MxY0hla0JIbGFhMW5n0gGOAUFVX3lxTE50Ri0yV3l2dGlhVlFSZ2pXZjZvby1Taml0VHJBcnlxZ1lPbGwta2tEYWVDUkRISjZPSl9BRVlGN3U3ZHdnS2Mtcmd3Tlg1dGw2TkgwQVBWXy1WeDZueHRFbUk3dXlXU09oR0llQkZBb1h5aXBPTUNHa1hKcVl0ak5DczFjSGVrQkhsYWExbmc?oc=5",
-      "pubDate": "Sat, 26 Sep 2026 09:22:00 GMT"
+      "source": "AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnBEVGUtLTZMZFlRalJNSlgyeTVBNFptdVkyNlUzX3JDdWk1aXJ3QmFQalBnN0g5Z2RHemZ1WXZENWRzNkRwc2dwank5NU5HRURjeVBXczdsclROQzFwWGFkR1FzN0tZeVJSQzU1TzRXVUY4LWxjeDZ2Ukh6azBjeWlOR3ZnQQ?oc=5",
+      "pubDate": "Sun, 27 Sep 2026 02:00:05 GMT"
     },
     {
-      "headline": "Indian SkillTech University Adds UG Design Programs",
-      "background": "ISDI ATLAS SkillTech University in India is expanding its undergraduate offerings, likely in response to growing demand for formally credentialed design and tech education in the Indian market ahead of 2027 enrollment cycles.",
+      "headline": "World Cup Venue Politics, Not UX-Relevant",
+      "background": "This article covers geopolitical maneuvering between Spain and Morocco over hosting the 2030 FIFA World Cup final. It has no connection to UX, product design, or technology.",
       "keyFindings": [
-        "ISDI ATLAS is launching new undergraduate programs targeting 2027 enrollment",
-        "No specific program names, curricula, or admissions data are available in the snippet"
+        "Content is sports politics coverage with no technology or design dimension",
+        "Source is Goal.com, a sports news outlet",
+        "No UX, product, or tech findings present"
       ],
-      "implications": "Minimal immediate relevance unless you are hiring from or recruiting within the Indian design education pipeline. Worth monitoring if Indian design education expansion affects the regional talent pool you draw from.",
+      "implications": "No relevance to UX, product, or tech practice. Skip.",
       "tags": [
-        "Design Education",
-        "India",
-        "Careers"
+        "Off-Topic",
+        "Sports",
+        "Politics"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "SMEStreet",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcWF4Y1Rnc0ptb2dEUVdLWU9GYjhoMTdXREFUa25ZTXVSVHI2el9aZ2FsN2VLaU1RMnFFazdNRFFDcGZ3UGpCRndRUGl3emYxLU8tTXhUVldmSXcwajU3Y0ljZi14eUcwQjJmbGN0WEpiX2k4X29ydnk5NWNTbWJQX2JORC1teHoxQW85S2ZEU1JjV01yeFVPU1NQa1ROLXRNenVJM1RJRWdSMlFQTEpr0gGvAUFVX3lxTE1xYXhjVGdzSm1vZ0RRV0tZT0ZiOGgxN1dEQVRrbllNdVJUcjZ6X1pnYWw3ZUtpTVEycUVrN01EUUNwZndQakJGd1FQaXd6ZjEtTy1NeFRWV2ZJdzBqNTdjSWNmLXh5RzBCMmZsY3RYSmJfaThfb3J2eTk1Y1NtYlBfYk5ELW14ejFBbzlLZkRTUmNXTXJ4VU9TU1BrVE4tdE16dUkzVElFZ1IyUVBMSms?oc=5",
-      "pubDate": "Sat, 26 Sep 2026 08:28:37 GMT"
+      "source": "Goal.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcGJHbVlLaldMVEpJa1dIdUVXc25uSzh4b3ZNaDhoSE9SSTBEeUpjNHBmMXZ1cnBmQ2xoRDQ3WGI3czY0c2VOcUNOWllMbUw3U2lVa0haNlR2RjFlU2lLVDVYTXJtNG04MWJUczZ1amszTVh4bE9nOXZiakQ5UkFTd0FFTHFhUG13eENqOUFzaWhBeE9IbU5DdzMxcHBCblhUVFRXRk1CVThxZExxWHVvN0JoS0RSenY3a0tJV3BrcG0yS2xpYk5MN1lsaEdQYk41?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 20:15:07 GMT"
     },
     {
-      "headline": "Same ISDI ATLAS Story, Different Outlet",
-      "background": "This appears to be a duplicate news item covering the same ISDI ATLAS SkillTech University program expansion announcement as the previous article, published in a separate outlet.",
+      "headline": "Award-Winning Strength App Shows Niche Fitness UX Can Compete",
+      "background": "The A' Design Award covers a broad range of product and interface design categories. Winning entries in app design — especially in crowded verticals like fitness — offer a benchmark for what judges and by extension users respond to.",
       "keyFindings": [
-        "Duplicate coverage of ISDI ATLAS's 2027 undergraduate program expansion",
-        "No additional information beyond what the previous item covers"
+        "HERCS, a strength-training app designed by Luhan Rong, won an A' Design Award in its category",
+        "The app targets strength training specifically, a more focused niche than general fitness apps like MyFitnessPal or Apple Fitness+",
+        "Recognition at a formal design award suggests the interface achieved distinction in visual design, usability, or innovation criteria"
       ],
-      "implications": "Identical in substance to the preceding item. No additional value for UX or product practitioners.",
+      "implications": "Worth examining the HERCS interface directly if you work on fitness, health, or activity-tracking products — award-winning niche apps often demonstrate interaction patterns that larger competitors overlook. The A' Award is credible but broad, so weight accordingly.",
       "tags": [
-        "Design Education",
-        "Duplicate"
+        "App Design",
+        "Fitness UX",
+        "Award Recognition"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "outlookbusiness.com",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcGJ5QWhjYzU1eHllSXBTTEQzRTBuUHNVa2Y3OTVmTlZiNDVwMHZDZzQ3YWpWLTdjNGd6NTRQME1nRzRmMDMza1lSbnM5bWJadUZ3TExWUHpmLTRZYjJUNVZ2RWc5Sy12cFdUaW5xcVdTa2QyTThSR1NjbmQwX0hWaFNQU0htWVBFN0R5bDBqVHF6anI4UXJfWlltY2p4a0lMOTdaNDcyRjNKclQySmY3NG9CMXN2SUIyWVpfZXJMQlNEbmV3aTdCNVdnQmgxTmQ4OVR3czJMTkV1SEVyUWhBZ1JYQ1I1VE1zcHN3TEdzMTNJRnVhSFE0RERrUdIB-wFBVV95cUxQcGJ5QWhjYzU1eHllSXBTTEQzRTBuUHNVa2Y3OTVmTlZiNDVwMHZDZzQ3YWpWLTdjNGd6NTRQME1nRzRmMDMza1lSbnM5bWJadUZ3TExWUHpmLTRZYjJUNVZ2RWc5Sy12cFdUaW5xcVdTa2QyTThSR1NjbmQwX0hWaFNQU0htWVBFN0R5bDBqVHF6anI4UXJfWlltY2p4a0lMOTdaNDcyRjNKclQySmY3NG9CMXN2SUIyWVpfZXJMQlNEbmV3aTdCNVdnQmgxTmQ4OVR3czJMTkV1SEVyUWhBZ1JYQ1I1VE1zcHN3TEdzMTNJRnVhSFE0RERrUQ?oc=5",
-      "pubDate": "Sat, 26 Sep 2026 06:07:10 GMT"
+      "source": "telecomtalk.info",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQl9Ic0tkd25xMnA0TDVMVmVsTHdSOHBoUUltbWM5WHhLMVVvV2huYjRmMndSYUxjUFdGTEdQeXlnSTZxMFZDY2h4VU1aeXpLWmd0TFVRUDdGUE0tT2hJUnNOZk9CMS0zamM5SnB6SV9mSjItclpQbkdoX0pUMWhQbUsyZ0d0QjFvQXBEdkdn?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 19:35:01 GMT"
     }
   ]
 }
