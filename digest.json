@@ -1,154 +1,109 @@
 {
-  "generatedAt": "2026-09-28T19:20:38.120Z",
+  "generatedAt": "2026-09-29T17:46:20.986Z",
   "items": [
     {
-      "headline": "Vibecoded prototypes are fine — the hard part comes next.",
-      "background": "As AI-assisted 'vibecoding' makes it trivially easy for clients and non-designers to spin up working prototypes, some designers worry about being bypassed. This piece pushes back on that anxiety by reframing where the real design work actually lives.",
+      "headline": "Fast load times don't make a website good",
+      "background": "Performance optimization has become a dominant metric in web development, with tools like Lighthouse and Core Web Vitals framing speed as a proxy for quality. This piece pushes back on that conflation.",
       "keyFindings": [
-        "The visible, clickable layer of a prototype is now cheap to produce — the argument, structure, and decision logic behind it is not.",
-        "Clients building their own prototypes surfaces assumptions early, which reduces costly misalignment later in the process.",
-        "The article frames this shift as a reason to move designers upstream into problem framing, not downstream into pixel production."
+        "Speed is measurable and achievable, but usability, clarity, and usefulness require separate, harder work",
+        "A fast site can still fail users through poor information architecture, confusing flows, or irrelevant content",
+        "Optimizing for performance metrics without usability testing can produce high-scoring but low-value products"
       ],
-      "implications": "If clients are showing up with vibecoded prototypes, treat it as a discovery artifact rather than a threat. Your leverage is in interrogating what the prototype assumes, not in rebuilding it more cleanly.",
+      "implications": "Teams that ship to Lighthouse scores or CWV benchmarks without usability validation are measuring the wrong thing. Speed is a baseline, not a signal of product quality.",
+      "tags": [
+        "Performance",
+        "Product quality",
+        "Web development"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*gz8KXUZI-Zrsxj__z4wb1A.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@TusharKanjariya/a-website-can-be-fast-and-still-be-bad-e166ffbf8724?source=rss------ux-5",
+      "pubDate": "Tue, 29 Sep 2026 17:25:14 GMT"
+    },
+    {
+      "headline": "Full-color consumer 3D printers arrive — workflow gaps remain",
+      "background": "Full-color 3D printing has been available industrially for years but at prohibitive cost and complexity. Consumer-grade versions are now entering the market, raising questions about whether creators and small studios can realistically use them.",
+      "keyFindings": [
+        "Full-color 3D printing is transitioning from industrial to consumer price points",
+        "Workflow tooling, material handling, and color accuracy at consumer scale remain unresolved",
+        "The gap between hardware availability and usable creative infrastructure is significant"
+      ],
+      "implications": "For product designers or UX teams prototyping physical objects, the hardware is closer than ever, but budget time for workflow friction — software, materials, and post-processing are not yet seamless at this tier.",
       "tags": [
         "Prototyping",
-        "AI tools",
-        "Design process"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*UqGcRC2L6Rba8xUrL4HJjg.jpeg",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@federi/help-the-client-vibecoded-a-prototype-good-3e4f44e6cc1f?source=rss------ux-5",
-      "pubDate": "Mon, 28 Sep 2026 19:06:27 GMT"
-    },
-    {
-      "headline": "Unseen: A niche photo-sharing site for NYC street photographers.",
-      "background": "Mobile-first community apps targeting hyper-specific subcultures have had mixed success competing with Instagram and are-of-the-moment social platforms. Unseen is a case study in deliberately narrow scope.",
-      "keyFindings": [
-        "The app focuses exclusively on underdocumented NYC locations — alleys, overlooked corners, graffiti spots — rather than general street photography.",
-        "It is built as a mobile site rather than a native app, lowering the barrier to contribution and discovery.",
-        "The product design centers community curation around place, not individual photographer reputation."
-      ],
-      "implications": "Worth examining as a reference for niche community product design — particularly how place-based constraints can create focus that broad social platforms can't replicate. Not a major industry development.",
-      "tags": [
-        "Community products",
-        "Mobile design",
-        "Niche platforms"
+        "Hardware",
+        "3D printing"
       ],
       "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*a1xSfYzNLuyxvHrpw2Z1Ng.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@kev227/unseen-a-photography-community-for-discovering-nycs-hidden-corners-76525e1ee95e?source=rss------ux-5",
-      "pubDate": "Mon, 28 Sep 2026 18:49:56 GMT"
-    },
-    {
-      "headline": "A bootcamp student's first-week reflections on UX teamwork.",
-      "background": "Bootcamp experience essays are common on Medium and serve more as personal documentation than industry insight. This one covers early design education.",
-      "keyFindings": [
-        "The author identifies asking precise questions as the highest-leverage skill encountered in week one.",
-        "Teamwork dynamics and how to give early-stage design feedback emerged as a source of friction in group work.",
-        "Paper-based exercises surfaced assumptions faster than digital tools in early ideation sessions."
-      ],
-      "implications": "Not a resource for working practitioners. May be useful to educators designing bootcamp curricula or mentors working with career-changers.",
-      "tags": [
-        "Design education",
-        "Bootcamps"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/934/1*OjKqpvx-hy_pdIWmgazSfA.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@mizukisd1204/sticky-notes-sleepless-nights-and-a-plant-who-wanted-to-be-a-tree-a6aec126fde1?source=rss------ux-5",
-      "pubDate": "Mon, 28 Sep 2026 18:43:02 GMT"
-    },
-    {
-      "headline": "A practical framework for when to reuse, extend, or build components.",
-      "background": "Component library governance is a persistent pain point in design systems work — teams either over-build bespoke components or force-fit existing ones, both of which create maintenance debt and inconsistency.",
-      "keyFindings": [
-        "The piece proposes a three-way decision framework: reuse when the pattern matches closely, extend when behavior diverges but structure holds, build only when neither applies.",
-        "Forcing every new pattern into an existing component is identified as equally damaging to a library as building new ones indiscriminately.",
-        "The decision should be driven by how the component will be maintained over time, not just how it looks at build time."
-      ],
-      "implications": "Directly applicable for teams auditing or scaling a design system. The extend-vs-build distinction is the one most often skipped in practice — worth creating explicit team criteria for it before the next design system review.",
-      "tags": [
-        "Design systems",
-        "Component libraries",
-        "Front-end"
-      ],
-      "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2400/1*psxQLQBFcMbV83J8N9VJVQ.png",
+      "image": "https://cdn-images-1.medium.com/max/1734/1*fOFw03A4gvJrFRS8n_-1Gg.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@sinarad.me/reuse-extend-or-build-a-component-c93b189b43b9?source=rss------product_design-5",
-      "pubDate": "Mon, 28 Sep 2026 18:34:45 GMT"
+      "link": "https://medium.com/@dehoping80/consumer-grade-full-color-3d-printers-are-finally-here-but-are-we-really-ready-5e93f9210750?source=rss------product_design-5",
+      "pubDate": "Tue, 29 Sep 2026 17:01:02 GMT"
     },
     {
-      "headline": "UserTesting launches MCP servers for AI agent integration.",
-      "background": "Model Context Protocol (MCP) is becoming a standard interface for connecting AI agents to external tools and data sources. Research and testing platforms are beginning to expose their data via MCP to stay relevant in agent-driven workflows.",
+      "headline": "How to interview a research participant who stutters",
+      "background": "UX research methodology rarely addresses how to adapt interview techniques for participants with speech differences. Researchers encountering this for the first time often lack practical guidance.",
       "keyFindings": [
-        "UserTesting has launched MCP servers, allowing AI agents to query and interact with UserTesting data programmatically.",
-        "This positions UserTesting to integrate with agent-based research workflows rather than requiring manual platform access.",
-        "No specific detail is available in the snippet about which data types or agent frameworks are supported."
+        "Interviewers should avoid finishing sentences or filling silence for participants who stutter, as this disrupts the participant's own pacing",
+        "Standard time-boxed interview formats may need adjustment to give participants sufficient space to respond fully",
+        "Treating a stutter as unremarkable and maintaining normal eye contact reduces participant self-consciousness and improves data quality"
       ],
-      "implications": "If your team is building or evaluating AI-assisted research pipelines, UserTesting's MCP support is worth assessing — though you'll need to check documentation for actual capability scope before planning around it.",
+      "implications": "Research ops and interview moderators should add stutter-specific guidance to screener and facilitation protocols — especially for any study where participant communication style isn't pre-screened.",
       "tags": [
-        "AI tools",
-        "User research",
-        "MCP"
+        "Research methods",
+        "Accessibility",
+        "Inclusive research"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*vs6eyokfHhsgN6TLMZpBSw.jpeg",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@nicole-hunt/interviewing-someone-who-stutters-ux-research-tips-c3a2862b1d12?source=rss------ux_research-5",
+      "pubDate": "Tue, 29 Sep 2026 15:56:34 GMT"
+    },
+    {
+      "headline": "Being data-driven can become its own blind spot",
+      "background": "The 'data-driven' mandate has become default in product and UX culture, often treated as self-evidently correct. This piece, written in Spanish, uses Harari's Sapiens as a lens to examine the assumptions behind that orthodoxy.",
+      "keyFindings": [
+        "Harari argues humans have a near-irresistible attraction to quantification, which the author applies to product culture",
+        "Data-driven decision-making can suppress qualitative insight, intuition, and contextual judgment",
+        "The obsession with metrics can create organizational incentives to measure what's easy rather than what matters"
+      ],
+      "implications": "Worth flagging for leads and stakeholders who default to 'show me the data' as a way to defer or dismiss design decisions — data answers what happened, rarely why, and almost never what to do next.",
+      "tags": [
+        "Research strategy",
+        "Org culture",
+        "Decision-making"
       ],
       "featured": false,
-      "type": "research",
-      "category": "Industry news",
+      "type": "opinion",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": null,
-      "source": "martechcube.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVXZqY3Y2a1dKZFJkTkl0NUtzSGtkTVBaUG92dmcyd2tPektXQXpMbDBjZDdNRTE1RmFMWnZfeU95MnBwRkVsdTRzWDAxcDBEeUxkOVIxSHBZaGMyTzI1T0dhS0I0bnJobS1tUFFGTE16S1NrbDdJb2ZRQU9jRWxFaTBNYkxmX28?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 15:35:03 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1376/1*fgwujqCOkBS3uHjLIenZAw.jpeg",
+      "source": "UX on Medium",
+      "link": "https://dasagi.medium.com/la-obsesi%C3%B3n-por-ser-data-driven-dd70e1ecacae?source=rss------ux-5",
+      "pubDate": "Tue, 29 Sep 2026 15:52:46 GMT"
     },
     {
-      "headline": "RainCastle named a DesignRush website design finalist.",
-      "background": "DesignRush publishes monthly rankings of agency work. Finalist announcements are standard agency PR and carry limited independent editorial weight.",
+      "headline": "App agency expands into Saudi Arabia market",
+      "background": "Junkies Coder is broadening its custom mobile app development services into Saudi Arabia, a market seeing increased tech investment under Vision 2030.",
       "keyFindings": [
-        "RainCastle was named a September finalist in DesignRush's Best Website Designs category.",
-        "No specific design criteria or comparative context is provided in the available snippet.",
-        "DesignRush rankings are self-nominated or agency-submitted, which limits their use as independent quality signals."
+        "Junkies Coder is targeting business clients in Saudi Arabia with custom mobile development services",
+        "No specific technical differentiators or case studies were cited in the announcement"
       ],
-      "implications": "Not actionable for practitioners. Relevant only to those evaluating RainCastle as a vendor.",
+      "implications": "This is a vendor expansion announcement with no substantive UX, product, or technical findings. Low reference value for practitioners.",
       "tags": [
-        "Agency news",
-        "Web design"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "digitaljournal.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdUQzWUhIbi15cnY3czJsalBwYUNDWG45dXF1N0JlWW8wNWlnQVdsVEdnQ3RYZXBTcTFmOS1acElTN0hMcV83eHo1OGdLbVlQVk5VTVZVMi04VG1abGRpZEYxQm9KcG05MTZObWlBUUZMTmFMQXYyazlxM3lMbkxKUVBlREplZDl6VllVV3M2ZlROWjFaampBQ3lxeGdSTlp0V1NhdmlwU19IS3gzOVhF?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 13:57:31 GMT"
-    },
-    {
-      "headline": "Vector graphics software market report: growth and key players.",
-      "background": "Market research reports on established software categories like vector graphics are routinely published by research firms and distributed as press releases. They serve procurement and investor audiences more than practitioners.",
-      "keyFindings": [
-        "The report covers leading companies and growth opportunities in the vector graphics software market, though no specific vendors or figures are available from the snippet.",
-        "Market reports of this type typically segment by enterprise vs. SMB use and by geography.",
-        "No meaningful technical or UX-specific findings are surfaced in the available excerpt."
-      ],
-      "implications": "Not useful for day-to-day UX or product work. Of potential interest only to those doing competitive landscape analysis or vendor procurement at scale.",
-      "tags": [
-        "Market research",
-        "Design tools"
+        "Industry news",
+        "Mobile development"
       ],
       "featured": false,
       "type": "research",
@@ -156,77 +111,119 @@
       "publishedWindow": "today",
       "image": null,
       "source": "openPR.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXdDREpNZWdMV1NtTlVoT0dLcjRhSVBfeENlMlNPeXdENmVWRXdTZlhWVzJfOXczWjQyNDJncl9rY2M3ajVtbTAtaG1rZEw2YmxCRG51LUtYYXAtZzhFTm5tSDEwZDhSTEVjeVNlV09ITnJ2MjJzZjVKZXdkenBaSHhrZkthT3l5eHZYWjhGb3RJc2RZb2c?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 12:05:54 GMT"
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVWhjSVJPZ1VnOFREa1lXRVpaRTJ6aEh4eFA2QU96cFEwdEVSaTZvX3dTUlFTSndQMjFiRXB6TXU2TzFLd0Uzek81MEZTcnNSVGp5M3kxRHBsM09kME0yZUFQRnRQVGRra3JSQk9rWVpyY1RSbF9jWm04LUFnX0RldlFxUHU5cWk3MjdlZjhTT2JkUk55bzk1ckJ4ZXM?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 15:18:12 GMT"
     },
     {
-      "headline": "Nielsen's roundup challenges AI deskilling claims and more.",
-      "background": "Jakob Nielsen's UX Roundup aggregates recent research and commentary across multiple topics per issue. This edition covers a notably wide range, including a methodological critique of deskilling research and findings on how AI exposure affects user attitudes.",
+      "headline": "UserTesting rebrands as Auros, pivots to AI-human research network",
+      "background": "As AI-generated synthetic user data gains traction, established research platforms are under pressure to articulate what real human participants offer that AI cannot replicate. UserTesting's rebrand to Auros signals a strategic repositioning.",
       "keyFindings": [
-        "The roundup flags specific deskilling research as methodologically unsound — a significant claim given how widely AI-deskilling concerns are cited in design and product circles.",
-        "Research cited in the roundup found that direct exposure to AI tools tends to improve users' attitudes toward AI, countering the assumption that familiarity breeds skepticism.",
-        "UX jargon is identified as actively alienating to stakeholders and end users, with practical implications for how teams communicate research findings."
+        "UserTesting is rebranding to Auros, reframing its core offering as a 'human network behind AI'",
+        "The rebrand positions real human participants as infrastructure for training and validating AI systems, not just UX research subjects",
+        "No changes to core platform features were announced alongside the rebrand"
       ],
-      "implications": "The deskilling research critique is worth tracking — if the methodology is genuinely flawed, it undermines a frequently cited argument in conversations about AI's impact on creative and knowledge work. Teams using that research to justify tooling decisions should review the critique before doing so.",
+      "implications": "Research teams evaluating platforms should watch whether this repositioning changes pricing, participant pool access, or study types — or is purely a marketing shift. The framing of humans-as-AI-infrastructure raises questions about research participant ethics worth monitoring.",
       "tags": [
-        "AI research",
-        "Research methods",
-        "Design systems"
-      ],
-      "featured": true,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIdE9VaEd5QUhSLTg3UDZJOWxyRzZFSl9BVnozVE1IaGFkcTRla2xnZmVYRUtWOW1KQzZIeVNzdkZUREdpUW8zWno2SjdVcXpZTmFZclJVM242Q1czNWVmWnpRMVBHdVpURHc?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 11:21:56 GMT"
-    },
-    {
-      "headline": "Ramp: AI agents now write 75% of its pull requests.",
-      "background": "AI-assisted coding has moved quickly from copilot-style autocomplete to agents that open, write, and submit pull requests autonomously. Ramp's reported figure is among the highest publicly claimed by a production software team.",
-      "keyFindings": [
-        "75% of pull requests at Ramp are now authored by AI agents, not human engineers.",
-        "This represents a shift from AI as coding assistant to AI as a primary code contributor in a production engineering org.",
-        "Ramp is a fintech company with significant engineering scale, making this a non-trivial data point rather than a startup experiment."
-      ],
-      "implications": "For product and engineering leaders, this is a concrete benchmark for what AI-native development looks like at scale — and a signal to revisit assumptions about team sizing, code review process, and where human engineering effort should concentrate.",
-      "tags": [
-        "AI engineering",
-        "Developer tools",
-        "Agentic AI"
-      ],
-      "featured": true,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Dealroom.co",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV3hjcmV2b1hraWpHam1jQmw3Q2pFMnFMSm1YRGZQSDV4RWlXYmowcUVUZE1hSEJFUDJMTUY0OTJJd2FvYTJTWFNiMURtRHNVN2RUcDd1ZDg2Qng2cHF0emxhSHRqdWFwYkYxY0ZJcjVkN2prYkc5endRQTB4anNaTURWazVzRS1OMjdoUWVQdzI2RnlYb1c5YUo4T19KRGJk?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 07:42:07 GMT"
-    },
-    {
-      "headline": "Specno argues specialists are outcompeting generalists in tech.",
-      "background": "The generalist-vs-specialist debate has sharpened as AI tools lower the floor for broad competence, making it easier for specialists to cover adjacent ground without hiring generalists. Specno, a product and software agency, is making a market argument here.",
-      "keyFindings": [
-        "Specno argues that the 'jack of all trades' positioning is becoming economically disadvantaged as clients and employers increasingly pay premiums for deep specialization.",
-        "The piece frames AI as a contributing factor — generalist tasks are increasingly automatable, reducing the market value of breadth alone.",
-        "No independent data is cited in the snippet; this is an agency perspective, not a research finding."
-      ],
-      "implications": "Treat this as an opinion piece from an agency with a positioning incentive, not a research-backed finding. That said, the underlying tension is real and worth discussing in team conversations about career development and hiring criteria.",
-      "tags": [
-        "Career development",
-        "Specialization",
-        "Industry trends"
+        "Research platforms",
+        "AI tools",
+        "Industry news"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "The Bulrushes",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXVWYmhCOXdvZmoyWDBjN2NIYk5tMlVzaXcwaEd5SlUwMFRPVUZFT285UzZOQnNoVDNtQVpfOVRzc3JJRVZ5d3UyQVVfUUxlTV9YQUJZY1A4NnBzWG1KbGFqWmtaZzlZQTBEVWpPT29MakRTVFVBdFloUGhMQTc0Nml3VnZaNFZ0VHhDQjVNUDlyZWdpWVMwYkhkWU13WVBQUWNwaWFYYmFDS0ZzMGdQbEl6R0hEcUJaNFBXTQ?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 07:28:57 GMT"
+      "source": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTURkaXozbFFUN0tyRExqcHlBdE5Sa09sNktDMVJrdkVBcmFaZmpzaUdlRzlINENVcmZvenJUYzJrbHE2LUFaTW5uTm04YVRSWk1vUU80SDBYTUF5eXVqOEVjQmxidWl6Wkh6dU5vdEVteF9lRFlTWGJXRkdLLVhYbEo4WC1VSUlOMmluQm5TN1ZhRk5ScjNyOFFaZU5ySUxwMDU0YVJ2U0JwUGIwTUJ2NFFNSW83ZGYyVnk4NEVuTXhHRTk5bnVPRExZRm9jR21oUmc?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 15:00:00 GMT"
+    },
+    {
+      "headline": "Raiffeisen Bank Ukraine wins CX award for UX/UI work",
+      "background": "Raiffeisen Bank Ukraine received third place in the Best CX Case for UX/UI Application category at the UCXE 2026 awards.",
+      "keyFindings": [
+        "Raiffeisen Bank Ukraine placed third in the UX/UI application CX category at UCXE 2026",
+        "No details about the specific product, methodology, or design decisions behind the submission were included"
+      ],
+      "implications": "Award announcement with no substantive methodology or outcome data shared. Minimal reference value without access to the underlying case study.",
+      "tags": [
+        "Industry news",
+        "Awards"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Райффайзен Банк Україна",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWjdwSU4tUEpITEZEc3N2UnY3WlNMQ01QR25aRTQtMFJNWWRjV0ZMcWlIckFYWFZwbGRoZm1SWFJkNzRxbk5VckRINENuWHRSYWxWZEtZbjhxWmlHdWwtVWE1NXpoTWlGWUVOak51WjNUR3hRQXhxZnNXd3J5R1E3bnRGaHhhRk5NODlBV0U1WGV2bnpVQW11U2VqckV5LUhUUVV2Z3ZLRHpGSEhtS2F1d090U0w?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 14:41:43 GMT"
+    },
+    {
+      "headline": "Designli outlines its SaaS app development process",
+      "background": "SaaS founders without technical backgrounds often struggle to evaluate or structure an app development engagement. Designli published its own process as a reference, via Business of Apps.",
+      "keyFindings": [
+        "Designli's process is framed specifically for SaaS founders, implying milestone-based delivery and founder-facing communication structures",
+        "The piece is published by the agency itself, making it a promotional outline rather than an independent methodology review",
+        "No benchmarks, timelines, or cost structures were included in the snippet"
+      ],
+      "implications": "Useful as a conversation starter for founders scoping a first development engagement, but treat as a sales document — validate any process claims against independent client references.",
+      "tags": [
+        "App development",
+        "SaaS",
+        "Agency process"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "businessofapps.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN1BhYVp4dUdWRDd1cGd4bnJ4cFBaYldOVkJGRjdRUExxU2EyeENWYU9MVXh0dFNZQnE0MWVyWE02T3VOQW43djFVQnlHN01ObG94dnNHTVZKM2t6NXJCblZDV3VXRG9uOE1Ceng4RGdtbkRrd2dNV21vSlZQZkhmWFhrajB2RjZDZDh3aTRLazd2QWlJX2xz?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 13:07:46 GMT"
+    },
+    {
+      "headline": "AKQA hires new creative and experience leadership",
+      "background": "AKQA, a global experience and innovation agency, has made senior hires in creative and experience disciplines.",
+      "keyFindings": [
+        "AKQA added leadership roles in creative and experience functions",
+        "No specifics on the hires, their backgrounds, or strategic direction were included in available copy"
+      ],
+      "implications": "Personnel announcement with insufficient detail for practical reference. Monitor AKQA's output over the next 12 months if their work is relevant to your sector.",
+      "tags": [
+        "Agency news",
+        "Industry news"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "marketingreport.one",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQW5hWlJlc0g5WkhyUXNJYldHX0hudzZHYkxuclcxYnB2ZmJMVldrSGJQZzhheFZwckxfaFEwa19wVHI2OUNEblF0YTRBZEdHaUZIbm5RYUlSTTdpeWIzZmc4aXB6Z0psTDEyOE1rOUwtZm9BQ0VPSUJsaDYwQVJoaXlYbGc1ZXl0SXJCdDk1Yw?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 11:48:41 GMT"
+    },
+    {
+      "headline": "DesignRush lists top eCommerce agencies for 2026",
+      "background": "Roundup lists of agencies by category are a recurring content format used to drive search traffic, typically compiled by the publishing platform rather than through independent auditing.",
+      "keyFindings": [
+        "DesignRush compiled a list of 10 eCommerce agencies recommended for 2026 engagements",
+        "Selection methodology and ranking criteria are not disclosed in the snippet",
+        "DesignRush operates a paid listing model, which may influence inclusions"
+      ],
+      "implications": "Useful as a starting point for building a vendor shortlist, but cross-reference any agency here against independent case studies, Clutch reviews, and direct client references before engaging.",
+      "tags": [
+        "Agency selection",
+        "eCommerce",
+        "Industry lists"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "DesignRush",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PS3hZR3hEMUk2c0JBN0dLbHNrejRHTWdfU2IwLTJiaGxrRkRZeUxiLXlxQThlVHJZMlpjWTRWR2p4X2N1djB0QjQ0Vi0zWF9uc2FzelZLMXlaMVFJM1A5bmRiYlJOMFctenJvU3NmamVTQQ?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 09:38:55 GMT"
     }
   ]
 }
