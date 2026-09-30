@@ -1,229 +1,226 @@
 {
-  "generatedAt": "2026-09-29T17:46:20.986Z",
+  "generatedAt": "2026-09-30T17:42:17.707Z",
   "items": [
     {
-      "headline": "Fast load times don't make a website good",
-      "background": "Performance optimization has become a dominant metric in web development, with tools like Lighthouse and Core Web Vitals framing speed as a proxy for quality. This piece pushes back on that conflation.",
+      "headline": "EU Digital Product Passports Are Reshaping How Goods Are Made",
+      "background": "The EU is mandating Digital Product Passports (DPPs) for product categories including batteries, textiles, and electronics — requiring manufacturers to attach machine-readable records of a product's materials, repairability, and lifecycle data. This is a significant regulatory shift with direct implications for how products are designed and documented.",
       "keyFindings": [
-        "Speed is measurable and achievable, but usability, clarity, and usefulness require separate, harder work",
-        "A fast site can still fail users through poor information architecture, confusing flows, or irrelevant content",
-        "Optimizing for performance metrics without usability testing can produce high-scoring but low-value products"
+        "The EU's Ecodesign for Sustainable Products Regulation requires DPPs to be accessible via QR code or RFID tag on physical products",
+        "DPPs must contain data on materials origin, carbon footprint, repairability scores, and end-of-life instructions",
+        "Compliance timelines begin as early as 2027 for batteries and are staggered across other product categories through 2030"
       ],
-      "implications": "Teams that ship to Lighthouse scores or CWV benchmarks without usability validation are measuring the wrong thing. Speed is a baseline, not a signal of product quality.",
+      "implications": "Product and UX teams working on physical-digital interfaces or enterprise manufacturing software should be aware that DPP data entry, surfacing, and consumer-facing display will require deliberate IA and interface design work. This is not just a back-end compliance problem.",
       "tags": [
-        "Performance",
-        "Product quality",
-        "Web development"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*gz8KXUZI-Zrsxj__z4wb1A.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@TusharKanjariya/a-website-can-be-fast-and-still-be-bad-e166ffbf8724?source=rss------ux-5",
-      "pubDate": "Tue, 29 Sep 2026 17:25:14 GMT"
-    },
-    {
-      "headline": "Full-color consumer 3D printers arrive — workflow gaps remain",
-      "background": "Full-color 3D printing has been available industrially for years but at prohibitive cost and complexity. Consumer-grade versions are now entering the market, raising questions about whether creators and small studios can realistically use them.",
-      "keyFindings": [
-        "Full-color 3D printing is transitioning from industrial to consumer price points",
-        "Workflow tooling, material handling, and color accuracy at consumer scale remain unresolved",
-        "The gap between hardware availability and usable creative infrastructure is significant"
-      ],
-      "implications": "For product designers or UX teams prototyping physical objects, the hardware is closer than ever, but budget time for workflow friction — software, materials, and post-processing are not yet seamless at this tier.",
-      "tags": [
-        "Prototyping",
-        "Hardware",
-        "3D printing"
+        "Regulation",
+        "Product Design",
+        "Sustainability"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1734/1*fOFw03A4gvJrFRS8n_-1Gg.png",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*KZhEKUcvdb8Z48WSUxd5Rw.jpeg",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@dehoping80/consumer-grade-full-color-3d-printers-are-finally-here-but-are-we-really-ready-5e93f9210750?source=rss------product_design-5",
-      "pubDate": "Tue, 29 Sep 2026 17:01:02 GMT"
+      "link": "https://medium.com/@bainesaaron26/digital-product-passports-are-changing-global-manufacturing-d6c328f88f6f?source=rss------product_design-5",
+      "pubDate": "Wed, 30 Sep 2026 17:18:31 GMT"
     },
     {
-      "headline": "How to interview a research participant who stutters",
-      "background": "UX research methodology rarely addresses how to adapt interview techniques for participants with speech differences. Researchers encountering this for the first time often lack practical guidance.",
+      "headline": "Why This Design System Has No Warning Color Token",
+      "background": "Design systems typically include a standard set of semantic color tokens — success, error, warning, info. This piece challenges that convention by describing a real product state (quota-reached audio pause) that doesn't fit neatly into any of those categories, prompting a reconsideration of what warning actually means.",
       "keyFindings": [
-        "Interviewers should avoid finishing sentences or filling silence for participants who stutter, as this disrupts the participant's own pacing",
-        "Standard time-boxed interview formats may need adjustment to give participants sufficient space to respond fully",
-        "Treating a stutter as unremarkable and maintaining normal eye contact reduces participant self-consciousness and improves data quality"
+        "The author identified a UI state where the system is functioning correctly but is temporarily limited — a state that is neither an error nor a neutral idle",
+        "Adding a warning token to cover this case would have misrepresented the system's actual status to users",
+        "The decision was to handle the state with copy and iconography rather than color semantics, avoiding token proliferation"
       ],
-      "implications": "Research ops and interview moderators should add stutter-specific guidance to screener and facilitation protocols — especially for any study where participant communication style isn't pre-screened.",
+      "implications": "Before adding a new token to a design system, it's worth auditing whether the state you're trying to represent is genuinely a new semantic category or whether it's being forced into color when other UI elements — tone of voice, iconography, motion — would communicate it more accurately.",
       "tags": [
-        "Research methods",
-        "Accessibility",
-        "Inclusive research"
+        "Design Systems",
+        "Color Tokens",
+        "Semantic Design"
       ],
       "featured": true,
       "type": "opinion",
-      "category": "Research",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*vs6eyokfHhsgN6TLMZpBSw.jpeg",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@nicole-hunt/interviewing-someone-who-stutters-ux-research-tips-c3a2862b1d12?source=rss------ux_research-5",
-      "pubDate": "Tue, 29 Sep 2026 15:56:34 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1280/1*0EdAQy4h3majLpDn-K_aqA.jpeg",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@sebastianbalderas/the-token-we-refused-to-add-why-my-design-system-has-no-warning-color-1fbe039d8dad?source=rss------ux-5",
+      "pubDate": "Wed, 30 Sep 2026 17:15:52 GMT"
     },
     {
-      "headline": "Being data-driven can become its own blind spot",
-      "background": "The 'data-driven' mandate has become default in product and UX culture, often treated as self-evidently correct. This piece, written in Spanish, uses Harari's Sapiens as a lens to examine the assumptions behind that orthodoxy.",
+      "headline": "Document What Your Storybook Doesn't Cover — Inside Storybook",
+      "background": "Component libraries documented in Storybook often suffer from a gap: the tool shows what components do in isolation, but teams repeatedly ask questions about edge cases, anti-patterns, and out-of-scope usage that aren't addressed anywhere. This piece proposes a structural fix.",
       "keyFindings": [
-        "Harari argues humans have a near-irresistible attraction to quantification, which the author applies to product culture",
-        "Data-driven decision-making can suppress qualitative insight, intuition, and contextual judgment",
-        "The obsession with metrics can create organizational incentives to measure what's easy rather than what matters"
+        "The author received the same undocumented-scope question from three separate teams in one week, signaling a systemic documentation gap",
+        "The proposed solution is to add explicit 'What this is not' documentation pages directly inside Storybook, co-located with the components they describe",
+        "This reduces the support burden on design system teams by making exclusions and anti-patterns as visible as intended usage"
       ],
-      "implications": "Worth flagging for leads and stakeholders who default to 'show me the data' as a way to defer or dismiss design decisions — data answers what happened, rarely why, and almost never what to do next.",
+      "implications": "If your design system documentation only shows correct usage, you're leaving teams to discover misuse through trial and error. Proactively documenting non-use cases and out-of-scope scenarios inside Storybook is a low-cost intervention with high support-ticket payoff.",
       "tags": [
-        "Research strategy",
-        "Org culture",
-        "Decision-making"
+        "Design Systems",
+        "Documentation",
+        "Storybook"
       ],
-      "featured": false,
+      "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1376/1*fgwujqCOkBS3uHjLIenZAw.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/1280/1*cZDL8eQiUpDcBo2rcZzQcg.jpeg",
       "source": "UX on Medium",
-      "link": "https://dasagi.medium.com/la-obsesi%C3%B3n-por-ser-data-driven-dd70e1ecacae?source=rss------ux-5",
-      "pubDate": "Tue, 29 Sep 2026 15:52:46 GMT"
+      "link": "https://medium.com/@sebastianbalderas/put-what-your-storybook-is-not-inside-the-storybook-818bae6bee1c?source=rss------ux-5",
+      "pubDate": "Wed, 30 Sep 2026 17:14:12 GMT"
     },
     {
-      "headline": "App agency expands into Saudi Arabia market",
-      "background": "Junkies Coder is broadening its custom mobile app development services into Saudi Arabia, a market seeing increased tech investment under Vision 2030.",
+      "headline": "Stop Using Watermarks as a Proxy for Full Product Trust",
+      "background": "In physical product and architectural contexts, buyers and clients routinely request watermarks on drawings or renders as a form of authenticity or quality assurance — treating a single protective detail as a stand-in for broader due diligence. This piece pushes back on that habit.",
       "keyFindings": [
-        "Junkies Coder is targeting business clients in Saudi Arabia with custom mobile development services",
-        "No specific technical differentiators or case studies were cited in the announcement"
+        "A watermark is a document security measure, not a quality certification or proof of specification compliance",
+        "Buyers conflate visible protective details with verified product integrity, creating false assurance in procurement and review workflows",
+        "The author argues that proper verification requires structured review processes, not cosmetic document features"
       ],
-      "implications": "This is a vendor expansion announcement with no substantive UX, product, or technical findings. Low reference value for practitioners.",
+      "implications": "For product teams building document workflows, approval systems, or design handoff tools, this is a useful reminder that visible 'trust signals' in UIs can create the illusion of verification without the substance — a pattern worth auditing in your own interfaces.",
       "tags": [
-        "Industry news",
-        "Mobile development"
+        "Trust Signals",
+        "Procurement",
+        "Design Communication"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@jamierollinswrites/a-watermark-is-not-a-tiny-logo-floating-on-paper-5b084048b069?source=rss------product_design-5",
+      "pubDate": "Wed, 30 Sep 2026 17:12:14 GMT"
+    },
+    {
+      "headline": "October 2026 Smashing Magazine Wallpaper Pack Released",
+      "background": "Smashing Magazine runs a long-standing monthly community wallpaper series where designers submit desktop backgrounds, typically tied to the season or month.",
+      "keyFindings": [
+        "Wallpapers are available in multiple resolutions with and without calendar overlays",
+        "All submissions are community-designed and freely downloadable"
+      ],
+      "implications": "No substantive UX or product relevance. This is a design community tradition, not a reference resource item.",
+      "tags": [
+        "Community",
+        "Graphic Design"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Design & dev",
+      "publishedWindow": "today",
+      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
+      "source": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
+      "pubDate": "Wed, 30 Sep 2026 13:30:00 GMT"
+    },
+    {
+      "headline": "Lucid Motors Stock Movement Explained",
+      "background": "A financial news brief on intraday stock activity for Lucid Motors, an EV manufacturer.",
+      "keyFindings": [
+        "Piece covers short-term stock price movement for Lucid (LCID) on a specific Wednesday",
+        "No product, design, or technology methodology content present"
+      ],
+      "implications": "No relevance to UX, product design, or tech practice. Financial market news outside scope.",
+      "tags": [
+        "Finance",
+        "EV"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "openPR.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVWhjSVJPZ1VnOFREa1lXRVpaRTJ6aEh4eFA2QU96cFEwdEVSaTZvX3dTUlFTSndQMjFiRXB6TXU2TzFLd0Uzek81MEZTcnNSVGp5M3kxRHBsM09kME0yZUFQRnRQVGRra3JSQk9rWVpyY1RSbF9jWm04LUFnX0RldlFxUHU5cWk3MjdlZjhTT2JkUk55bzk1ckJ4ZXM?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 15:18:12 GMT"
+      "source": "Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ19pc1RuQXAyelV4MkhXcDNfQzZjNWVXSlNVWi1wYk90YWJNRnZDV081WTE0TmJQcjZhWHN6cEx3cWJHcmUxdkxQeXZxdFdWSDdiU0ltOS1hNTlNRWptN0F2NnhycXJxVFNZcUQ1cjhzQ3MwQzRDeWZsdVVnbGRzRjJxcU9jcnBqTm1tZ09fb2U4ck4wYmFTYzVtRzdCMUtaRnNiLQ?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 13:26:53 GMT"
     },
     {
-      "headline": "UserTesting rebrands as Auros, pivots to AI-human research network",
-      "background": "As AI-generated synthetic user data gains traction, established research platforms are under pressure to articulate what real human participants offer that AI cannot replicate. UserTesting's rebrand to Auros signals a strategic repositioning.",
+      "headline": "Channelscaler Adds Product and Sales Leadership",
+      "background": "Channelscaler, a channel marketing platform, issued a press release announcing executive hires.",
       "keyFindings": [
-        "UserTesting is rebranding to Auros, reframing its core offering as a 'human network behind AI'",
-        "The rebrand positions real human participants as infrastructure for training and validating AI systems, not just UX research subjects",
-        "No changes to core platform features were announced alongside the rebrand"
+        "Two senior roles filled: Head of Product and a sales leadership position",
+        "No product roadmap details or strategic direction disclosed in the announcement"
       ],
-      "implications": "Research teams evaluating platforms should watch whether this repositioning changes pricing, participant pool access, or study types — or is purely a marketing shift. The framing of humans-as-AI-infrastructure raises questions about research participant ethics worth monitoring.",
+      "implications": "Standard executive appointment PR with no actionable insight for UX or product practitioners.",
       "tags": [
-        "Research platforms",
-        "AI tools",
-        "Industry news"
+        "Company News"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTURkaXozbFFUN0tyRExqcHlBdE5Sa09sNktDMVJrdkVBcmFaZmpzaUdlRzlINENVcmZvenJUYzJrbHE2LUFaTW5uTm04YVRSWk1vUU80SDBYTUF5eXVqOEVjQmxidWl6Wkh6dU5vdEVteF9lRFlTWGJXRkdLLVhYbEo4WC1VSUlOMmluQm5TN1ZhRk5ScjNyOFFaZU5ySUxwMDU0YVJ2U0JwUGIwTUJ2NFFNSW83ZGYyVnk4NEVuTXhHRTk5bnVPRExZRm9jR21oUmc?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 15:00:00 GMT"
+      "source": "The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbU9HbmFZSnNGMHdGSk9uLThGR0Z4aTBuTE52V2pkUnJYU2FHOFltZ0xqYksxSmQ1dC04c29rVWEzdnQ5dEZ0ejBDbUhoV1Vtb3pDd3pfV2ZPQWptSU1kenRXS0tYc0x2eDdZVUk2dFJFWDZOVmlBVUE2M0JoT2FwSVhEOE9NUDhvXzMzbVdnVTQ0TUZRajRRSHBub1doTTI4VDdhclg5SFh6NmZBangwQUZnd2R4ZWVBSjkzZTFfNjFpeHlHOEF0MENRZTZGbW5MdzdvVHVGMnJSUUpYWUU0WXdMckpwU0M4Mm1fX0UzclE3QdIB8gFBVV95cUxNbU9HbmFZSnNGMHdGSk9uLThGR0Z4aTBuTE52V2pkUnJYU2FHOFltZ0xqYksxSmQ1dC04c29rVWEzdnQ5dEZ0ejBDbUhoV1Vtb3pDd3pfV2ZPQWptSU1kenRXS0tYc0x2eDdZVUk2dFJFWDZOVmlBVUE2M0JoT2FwSVhEOE9NUDhvXzMzbVdnVTQ0TUZRajRRSHBub1doTTI4VDdhclg5SFh6NmZBangwQUZnd2R4ZWVBSjkzZTFfNjFpeHlHOEF0MENRZTZGbW5MdzdvVHVGMnJSUUpYWUU0WXdMckpwU0M4Mm1fX0UzclE3QQ?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 13:23:51 GMT"
     },
     {
-      "headline": "Raiffeisen Bank Ukraine wins CX award for UX/UI work",
-      "background": "Raiffeisen Bank Ukraine received third place in the Best CX Case for UX/UI Application category at the UCXE 2026 awards.",
+      "headline": "Userlytics Redesigns Its Mobile App for Research Participants",
+      "background": "Userlytics is a remote usability testing platform. Its tester-facing mobile app — used by research participants to complete studies — has been redesigned, addressing friction in the participation experience.",
       "keyFindings": [
-        "Raiffeisen Bank Ukraine placed third in the UX/UI application CX category at UCXE 2026",
-        "No details about the specific product, methodology, or design decisions behind the submission were included"
+        "The redesign focuses on guided task flows to reduce participant confusion during study sessions",
+        "New features include clearer progress indicators and a rewards dashboard to improve participant retention and return rates",
+        "The update targets the participant side of the platform, not the researcher dashboard"
       ],
-      "implications": "Award announcement with no substantive methodology or outcome data shared. Minimal reference value without access to the underlying case study.",
+      "implications": "For UX researchers using Userlytics, improved participant-side UX may reduce drop-off rates and improve data quality from mobile sessions. Worth revisiting if you've seen high abandonment in mobile studies on the platform.",
       "tags": [
-        "Industry news",
-        "Awards"
+        "User Research",
+        "Research Tools",
+        "Mobile"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Райффайзен Банк Україна",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWjdwSU4tUEpITEZEc3N2UnY3WlNMQ01QR25aRTQtMFJNWWRjV0ZMcWlIckFYWFZwbGRoZm1SWFJkNzRxbk5VckRINENuWHRSYWxWZEtZbjhxWmlHdWwtVWE1NXpoTWlGWUVOak51WjNUR3hRQXhxZnNXd3J5R1E3bnRGaHhhRk5NODlBV0U1WGV2bnpVQW11U2VqckV5LUhUUVV2Z3ZLRHpGSEhtS2F1d090U0w?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 14:41:43 GMT"
+      "source": "EIN Presswire",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONlJ4VjhRZ1RIdENvd3h4UmZEYkRyY2dJM0dqNTRmSHBlcXU4bnhURm1nU1BEZEMwRlNoNFNOSGJsSlBobVVDb09PNnpEZXZrc1lwRFlFaXVLQVNGWTRGZGV1Y09uU1ZnSzFsd1VKYnNTcnplTzhuY1JrRDFJdVdKS2RUVngtM0ctSEFhYWx3bHFyWWtiMEtMal84aGlYSTFEQWlnR2tzVm0wWldwNmRRVnlkc0lVX2dKNVdvOE90NUcwSWUzanExaS1vZWwxTW5ubHlhalExelZXc0xtZzdBR1Jn?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 13:00:00 GMT"
     },
     {
-      "headline": "Designli outlines its SaaS app development process",
-      "background": "SaaS founders without technical backgrounds often struggle to evaluate or structure an app development engagement. Designli published its own process as a reference, via Business of Apps.",
+      "headline": "Two-Photon Fluorescence Microscopy Market Forecast to 2035",
+      "background": "A market research statistical report on the two-photon fluorescence microscopy industry, driven by neuroscience and oncology research demand.",
       "keyFindings": [
-        "Designli's process is framed specifically for SaaS founders, implying milestone-based delivery and founder-facing communication structures",
-        "The piece is published by the agency itself, making it a promotional outline rather than an independent methodology review",
-        "No benchmarks, timelines, or cost structures were included in the snippet"
+        "Market growth is attributed primarily to increased neuroscience imaging and cancer biomarker research funding",
+        "Forecast window extends to 2035 with projected growth rates cited by IndexBox"
       ],
-      "implications": "Useful as a conversation starter for founders scoping a first development engagement, but treat as a sales document — validate any process claims against independent client references.",
+      "implications": "No relevance to UX, product design, or technology practice. Life sciences market data outside scope.",
       "tags": [
-        "App development",
-        "SaaS",
-        "Agency process"
+        "Market Research",
+        "Life Sciences"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "businessofapps.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN1BhYVp4dUdWRDd1cGd4bnJ4cFBaYldOVkJGRjdRUExxU2EyeENWYU9MVXh0dFNZQnE0MWVyWE02T3VOQW43djFVQnlHN01ObG94dnNHTVZKM2t6NXJCblZDV3VXRG9uOE1Ceng4RGdtbkRrd2dNV21vSlZQZkhmWFhrajB2RjZDZDh3aTRLazd2QWlJX2xz?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 13:07:46 GMT"
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR2l0elIxOEo4aUhEN1ZiTlh3aWs4RkJPM1pIeEtIdkFSRi1Lc08zcVVtVm8yUnl0Qk1MS2x5amdBN1hjMWtEYnRodlc5VER6QXdLR1FSRm5Rc3ZuTW9UaTBJMVFmZzNsRnVLVWVZaGpfYk04QmxOZ2FOTmxDdU9JcE5xVG1Za0Y3Sk0taU5lQWpFWUVQeERlcFNWS3otZENCVVlmYjVtSUM3THlJdzRla2gtSE1kdlN3eHg5M051LXN2NFlrdGZZc1g0emhUUmdtM3loTA?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 11:46:04 GMT"
     },
     {
-      "headline": "AKQA hires new creative and experience leadership",
-      "background": "AKQA, a global experience and innovation agency, has made senior hires in creative and experience disciplines.",
+      "headline": "Jakob Nielsen's 10 UX Principles He Says Still Hold in the AI Agent Era",
+      "background": "As AI agents take on more interface-level tasks, there is active debate about whether foundational UX heuristics remain applicable or need to be retired. Nielsen uses this piece to assert continuity rather than rupture.",
       "keyFindings": [
-        "AKQA added leadership roles in creative and experience functions",
-        "No specifics on the hires, their backgrounds, or strategic direction were included in available copy"
+        "Nielsen argues that principles like user control, error prevention, and match between system and real world apply directly to AI agent interface design",
+        "The piece reframes classic heuristics as 'slogans' — short enough to function as decision-making guides under fast-moving AI product development conditions",
+        "Nielsen does not introduce new principles, instead defending existing ones against the claim that AI makes them obsolete"
       ],
-      "implications": "Personnel announcement with insufficient detail for practical reference. Monitor AKQA's output over the next 12 months if their work is relevant to your sector.",
+      "implications": "Useful as a quick sanity check for teams designing AI-facing interfaces who may be over-indexing on novelty. The piece is more persuasive than prescriptive — it won't tell you how to apply these to agentic UX, but it argues you should.",
       "tags": [
-        "Agency news",
-        "Industry news"
+        "AI Agents",
+        "Heuristics",
+        "Interaction Design"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "marketingreport.one",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQW5hWlJlc0g5WkhyUXNJYldHX0hudzZHYkxuclcxYnB2ZmJMVldrSGJQZzhheFZwckxfaFEwa19wVHI2OUNEblF0YTRBZEdHaUZIbm5RYUlSTTdpeWIzZmc4aXB6Z0psTDEyOE1rOUwtZm9BQ0VPSUJsaDYwQVJoaXlYbGc1ZXl0SXJCdDk1Yw?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 11:48:41 GMT"
-    },
-    {
-      "headline": "DesignRush lists top eCommerce agencies for 2026",
-      "background": "Roundup lists of agencies by category are a recurring content format used to drive search traffic, typically compiled by the publishing platform rather than through independent auditing.",
-      "keyFindings": [
-        "DesignRush compiled a list of 10 eCommerce agencies recommended for 2026 engagements",
-        "Selection methodology and ranking criteria are not disclosed in the snippet",
-        "DesignRush operates a paid listing model, which may influence inclusions"
-      ],
-      "implications": "Useful as a starting point for building a vendor shortlist, but cross-reference any agency here against independent case studies, Clutch reviews, and direct client references before engaging.",
-      "tags": [
-        "Agency selection",
-        "eCommerce",
-        "Industry lists"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "DesignRush",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PS3hZR3hEMUk2c0JBN0dLbHNrejRHTWdfU2IwLTJiaGxrRkRZeUxiLXlxQThlVHJZMlpjWTRWR2p4X2N1djB0QjQ0Vi0zWF9uc2FzelZLMXlaMVFJM1A5bmRiYlJOMFctenJvU3NmamVTQQ?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 09:38:55 GMT"
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsX041dFl6REVHNHFkbDNydzNfd1hNOFNSX3BkSjNZVFBYd2VqclZYY003UFB5VWFFb0pHdUoyUzNrU29iQzZrWWdzcTZXcFZ5TzAwUmdyUk55RmJWeEE?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 11:21:04 GMT"
     }
   ]
 }
