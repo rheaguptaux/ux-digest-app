@@ -1,232 +1,218 @@
 {
-  "generatedAt": "2026-10-01T18:08:03.617Z",
+  "generatedAt": "2026-10-02T17:33:46.761Z",
   "items": [
     {
-      "headline": "One week, zero to finished design thesis",
-      "background": "Self-imposed time constraints are a common productivity tactic in design, but applying them to long-form academic work like a thesis is less documented. This piece is a personal account of compressing a full thesis process into seven days.",
+      "headline": "Design Reviews Are Political Theater, Not Critique",
+      "background": "Design reviews are a standard ritual in most product orgs, but practitioners frequently report they feel performative rather than productive. This piece argues the dysfunction is structural, not incidental.",
       "keyFindings": [
-        "Author moved from no defined concept to a completed thesis in seven days using structured daily milestones",
-        "Process relied on forcing early commitment to a single direction rather than extended divergent exploration",
-        "Constraints eliminated perfectionism loops that typically stall thesis work"
+        "Design reviews function as status negotiations and approval rituals rather than genuine design evaluation",
+        "The social dynamics of who speaks, who is present, and who called the meeting often determine outcomes more than design quality",
+        "Framing reviews as conversations obscures their actual purpose, making it harder to run them effectively"
       ],
-      "implications": "Useful as anecdotal evidence for designers stuck in extended concept phases, but results are highly individual. Not a replicable methodology without more structural detail.",
+      "implications": "If you run or participate in design reviews, understanding the political and organizational functions they serve — beyond critique — can help you structure them more honestly and get better decisions out of them. Relevant to leads and ICs alike.",
       "tags": [
         "Design process",
-        "Academic design",
-        "Productivity"
+        "Collaboration",
+        "Org dynamics"
       ],
-      "featured": false,
+      "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1920/1*eB85O1FlRyZ2EP5-9vCjfw.gif",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*yDlXnBiFpyMnGUY6C9tLqQ.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/@strivedi_27669/i-challenged-myself-to-finish-my-design-thesis-in-a-week-d5af73aca3f2?source=rss------ux-5",
-      "pubDate": "Thu, 01 Oct 2026 17:29:07 GMT"
+      "link": "https://waffledesigns.medium.com/design-reviews-are-not-about-design-fc695cef6858?source=rss------ux-5",
+      "pubDate": "Fri, 02 Oct 2026 17:17:33 GMT"
     },
     {
-      "headline": "Mac screenshot tool rebuilt around live canvas workflow",
-      "background": "Default screenshot tools on Mac treat captures as static files requiring manual organization. This developer built TrarrenShot to address friction in iterative design documentation workflows.",
+      "headline": "Shift UX 2026 Research Track Announced",
+      "background": "Shift UX is a regional UX conference; this post outlines the research-focused sessions in their 2026 program.",
       "keyFindings": [
-        "TrarrenShot introduces a Live Canvas feature that keeps screenshots editable and spatially organized rather than dumped as files",
-        "One Shot mode captures and processes in a single action, reducing the multi-step export workflow",
-        "Design decisions were driven by the author's own annotation and handoff pain points on Mac"
+        "A dedicated research track is available within the broader Shift UX 2026 conference program",
+        "Full program details are publicly viewable before registration"
       ],
-      "implications": "Relevant for designers doing frequent screen documentation or remote collaboration. Worth evaluating if screenshot-to-annotation friction is a recurring time cost in your workflow.",
+      "implications": "Useful only if you are evaluating UX conferences for professional development in 2026. Limited actionable detail available from the snippet alone.",
       "tags": [
-        "Design tooling",
-        "Mac workflow",
-        "Productivity"
+        "Conference",
+        "User research"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*HQsmFh6orZ72sB4w5dJOBA.png",
+      "source": "UX Research on Medium",
+      "link": "https://bog-dan.medium.com/shift-ux-2026-the-research-track-00ef2611b5b6?source=rss------ux_research-5",
+      "pubDate": "Fri, 02 Oct 2026 17:06:42 GMT"
+    },
+    {
+      "headline": "Single Measurements Fail Tapered Products",
+      "background": "Product labeling and UX for physical goods typically relies on one standardized dimension, but tapered or non-uniform shapes create genuine usability and accuracy problems for consumers.",
+      "keyFindings": [
+        "Tapered paper products cannot be accurately described by a single length measurement",
+        "The gap between labeled and actual usable capacity misleads purchasing decisions",
+        "The piece argues for multi-point measurement standards for non-uniform product shapes"
+      ],
+      "implications": "Niche but relevant to anyone working on packaging UX, e-commerce product specifications, or labeling systems where physical geometry affects user expectations and satisfaction.",
+      "tags": [
+        "Physical product UX",
+        "Information design"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1200/1*IIbs8pZzYrlV5m5xA6C5Fw.png",
+      "image": null,
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@zneuray/why-i-built-trarrenshot-rethinking-screenshot-workflows-on-mac-c4421238c13c?source=rss------product_design-5",
-      "pubDate": "Thu, 01 Oct 2026 17:18:29 GMT"
+      "link": "https://medium.com/@jamierollinswrites/length-is-not-capacity-8eb08761916a?source=rss------product_design-5",
+      "pubDate": "Fri, 02 Oct 2026 16:41:26 GMT"
     },
     {
-      "headline": "Color systems need rules, not just palettes",
-      "background": "Most design teams can assemble a visually coherent color palette, but scalable color systems require decisions about roles, relationships, and constraints that go well beyond picking swatches. This piece addresses the gap between looking good and functioning at scale.",
+      "headline": "AI Workflow Automates Resume Tailoring Per Job Application",
+      "background": "Manually rewriting a resume for every job posting is a known friction point in job searching. This piece documents a practical personal automation built to remove that overhead.",
       "keyFindings": [
-        "The hard work in color systems is defining semantic roles — what each color means and when it is used — not selecting the hues themselves",
-        "Without usage rules, teams accumulate color exceptions that erode consistency over time",
-        "Scalability requires planning for states, accessibility contrast requirements, and dark mode from the start, not as retrofits"
+        "Author built two parallel versions of the workflow — one using Claude Code, one using n8n",
+        "AI handles the mechanical rewriting while the author retains control over all substantive content decisions",
+        "The workflow reduces per-application resume editing to a manageable, repeatable process"
       ],
-      "implications": "Directly applicable to any team building or auditing a design system. If your color tokens don't have defined roles and constraints, you have a palette, not a system.",
-      "tags": [
-        "Design systems",
-        "Color",
-        "Tokens"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*U748Evwff9IoPNGNd8sMQg.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@hazel.zimuto/building-a-color-system-that-scales-not-just-looks-nice-0bfb25a69e64?source=rss------product_design-5",
-      "pubDate": "Thu, 01 Oct 2026 17:16:01 GMT"
-    },
-    {
-      "headline": "Typography systems require behavior rules, not just font picks",
-      "background": "Teams routinely over-invest in typeface selection and under-invest in defining how type should behave across screen sizes, hierarchies, and contexts. This piece argues that typography is a systematic discipline, not a one-time aesthetic decision.",
-      "keyFindings": [
-        "Typeface selection is the least consequential typography decision; scale, weight, spacing, and line-height rules have more impact on consistency",
-        "Without defined typographic behavior, teams make local decisions that fragment the visual language",
-        "A typography system should specify how type responds to context changes — not just which font is used"
-      ],
-      "implications": "Relevant for any team building or maintaining a design system. Auditing your existing type styles for behavioral consistency is a higher-leverage activity than revisiting font choices.",
-      "tags": [
-        "Design systems",
-        "Typography",
-        "Visual design"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*MOoBtW7OWXWy9c9_j486Bg.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@hazel.zimuto/typography-is-a-system-not-a-font-choice-7ff95f0a56a6?source=rss------product_design-5",
-      "pubDate": "Thu, 01 Oct 2026 17:11:43 GMT"
-    },
-    {
-      "headline": "Innosoft launches sweepstakes casino platform",
-      "background": "The sweepstakes casino model allows iGaming operators to circumvent traditional gambling regulations in some markets. Innosoft is expanding its platform offerings into this segment.",
-      "keyFindings": [
-        "Innosoft Group has released a sweepstakes casino product targeting regulated and semi-regulated iGaming markets",
-        "The platform is positioned as a next-generation solution for operators entering the sweepstakes model",
-        "No independent technical or UX detail is available from the announcement snippet"
-      ],
-      "implications": "Low relevance for most UX and product practitioners. iGaming-adjacent teams may want to track the sweepstakes platform space for compliance and UX pattern implications.",
-      "tags": [
-        "iGaming",
-        "Platform launch"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "TechBullion",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGFzODlvVWlXNUNYNm5MRWtNRkVZSERib3Y4anVmQ1Zxck9hcVdaeThfdk94elZoTUNjcncyZGNHajVsM2xZa3A1NGRCazhDZVRkSE5DeTl5bXotUnBpLWRMbFU0d0xiUlBLOEN3Q2Y1VkRLaHRIMU5iR21DTWdSaUFHelNMUFZtZ09NWXJYVEx1UXFCV3pQcG4zY3JLc2JCZGJvTzJUZ3V0SklMNkJSNU9LYXhReWp6WHc?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 16:39:11 GMT"
-    },
-    {
-      "headline": "UK home fragrance brand comparison study published",
-      "background": "Snug Scent, a fragrance brand, has released research comparing top UK home fragrance brands. The origin and methodology of the research are not independently verified in the snippet.",
-      "keyFindings": [
-        "Research was self-published by Snug Scent, a brand with a commercial interest in the findings",
-        "The snippet provides no detail on methodology, sample size, or criteria used",
-        "No clear UX, product, or tech relevance is evident from available information"
-      ],
-      "implications": "Not relevant to UX, product, or tech practice. Included here for completeness but can be safely skipped.",
-      "tags": [
-        "Market research",
-        "Consumer brands"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd3NUQmFIYkg3a1RjYVJDM1JnZHA1WkpTc1hobjdBMzZXc2lzNHg4ejB1RWNVLW9FNXoxYXd2MUpMOTdrbTNRSUtyTXRBaklMY3lJV21ZRGNxaHVTclFUakxFUml3VW43NTdERVNUTG9nU05IR0ZGRkZrNGJ2MFlaM2Zxb2pwVjhYaGZNZFI1ZUV5Sk5nQkJBQUZlbmVLYkpubW1COXUyZktmRWxzaHYwcVY5aFBlWmVWREdYRTF1MFlvR202ckV4WndGSWpMY1BHZTN5QmtZLWlKTHZTMWdFemVPYndsVGZob2pTTktKQQ?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 15:18:11 GMT"
-    },
-    {
-      "headline": "Wisconsin courts launch online TRO petition portal",
-      "background": "Temporary restraining order petitions have historically required in-person courthouse visits, creating access barriers for people in urgent safety situations. Wisconsin has deployed a digital portal to handle these filings remotely.",
-      "keyFindings": [
-        "Wisconsin's online portal allows residents to file TRO petitions without visiting a courthouse in person",
-        "The system is designed for high-stress, high-stakes use cases where users may be in crisis or facing safety threats",
-        "Accessibility and plain-language design are critical constraints for this user population"
-      ],
-      "implications": "A relevant case study for civic tech and legal UX practitioners. Designing for distressed users in high-consequence situations requires different usability standards than typical consumer products — error recovery and clarity under stress are paramount.",
-      "tags": [
-        "Civic tech",
-        "Accessibility",
-        "Legal UX"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "WLUK",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOcHFzbHN4TG9pQlE1RzhPV3NxOG1WZmVTN3RxZUlZU1BoTVdwbGI1Sk1VY01VeFVpT1g2eG1rZnRLSk5haUdyNXRPMjFIUlMxRS1XejdCd1JvdUl6dXRpZ085QVlqeWt1cWJaRVhRUElZbG5Pd3UwcXNZak5DMk8wOTdOYlNRLUpQZ0NxZG14RGxnd0s2Wk5nLXBlOEtrRmhWNlhlODc2VDhpU1U3aXk0NVlEcDY2WWxTNmMtaEwtaUJtMlV6aDk4cHc0dG1MYWgzOHlka3NzZ3o0Z3hQOUtjc2JLS2tFNG5sYkZES01sMjRTMTRnel9BSFNnSE9uVGJwdWdOVjBONFJUd3lUM2lKYWVRWjlrRG1VeUJTQ1ZR?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 14:13:31 GMT"
-    },
-    {
-      "headline": "App design should be driven by behavior, not aesthetics",
-      "background": "Product teams frequently prioritize visual polish over behavioral and psychological design principles. This piece makes the case for grounding app design decisions in user behavior research.",
-      "keyFindings": [
-        "Aesthetic decisions made without behavioral grounding often fail to support actual user goals",
-        "The piece references established behavioral principles — such as cognitive load reduction and habit loops — as design inputs",
-        "No new research is cited; the argument synthesizes existing UX thinking for a general tech audience"
-      ],
-      "implications": "Little that is new for experienced UX practitioners, but useful as a reference framing for stakeholder conversations where aesthetic priorities dominate. The arguments are sound even if the content is not novel.",
-      "tags": [
-        "Behavioral design",
-        "Product design"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "PC Tech Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWg1eUFZUTE1LUczd0pwN2h1LVQ5dGV2ZlQ3STBXNkRnZmJOa1FxS1F3aVFBVWdlbzY3bFBUQ3I5bHJSamdlSzJ3MXlISjFkRmFUcDViSkRObHV5eVk3Y25MSGxHMmNiZG04aGhsaVNuVHdndlNNLXphSWFwZHNjWnp2ejZYd2xN?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 11:28:35 GMT"
-    },
-    {
-      "headline": "AI-assisted word game built by couple attracts large Czech audience",
-      "background": "Indie games built with AI assistance are an emerging category, but most press covers English-language markets. This is a case study of a Czech-language AI-powered word game gaining significant organic traction.",
-      "keyFindings": [
-        "Přihořívá was built by a couple without a large studio and uses AI to power dynamic word game mechanics",
-        "The game has attracted thousands of active players in the Czech market through word-of-mouth",
-        "It demonstrates that AI-assisted game development is viable for small teams targeting non-English language markets"
-      ],
-      "implications": "Relevant for small product teams and indie developers exploring AI-assisted game or interactive content development. Localization and language-specific design remain differentiators even as AI lowers build costs.",
+      "implications": "Concrete example of AI-assisted personal workflow automation using accessible tools. Useful for anyone exploring practical Claude Code or n8n applications beyond toy demos, though the piece is in Chinese.",
       "tags": [
         "AI tools",
-        "Indie development",
-        "Game design"
+        "Workflow automation",
+        "n8n"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*WhEmTFKFJUp6RPUVZK0O_g.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@spidermen.chen/%E6%8A%95%E4%B8%80%E5%AE%B6%E6%94%B9%E4%B8%80%E6%AC%A1%E5%B1%A5%E6%AD%B7%E5%A4%AA%E7%B4%AF%E4%BA%86-%E6%88%91%E4%B9%BE%E8%84%86%E5%81%9A%E4%BA%86%E4%B8%80%E5%80%8B-ai-%E5%B7%A5%E4%BD%9C%E6%B5%81-2bcaaed28069?source=rss------product_design-5",
+      "pubDate": "Fri, 02 Oct 2026 16:33:26 GMT"
+    },
+    {
+      "headline": "UX vs UI Explained — Again",
+      "background": "The UX/UI distinction is one of the most persistently confused topics in the field, generating repeated explainer content aimed at newcomers and those hiring for these roles.",
+      "keyFindings": [
+        "Piece attempts to clarify that UX encompasses the full user journey and experience while UI is the visual and interactive layer",
+        "No novel findings or frameworks offered beyond the standard distinction"
+      ],
+      "implications": "Entry-level explainer only. Not relevant to practitioners already working in the field.",
+      "tags": [
+        "Fundamentals"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Around Prague",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcUtaZXUxYTFTMnp3a0pHOEJneEUzaldlTU5DMlRmQ05PYnJ4SVVuaFloYlFBMmlIQ3ZNQXVmeWhfa3E1TktqTjUzbDlpVFlPakVLS3lWN1FrLW9lRy1ROXFzYXYzTnFSVzRkeDYydTJwSVRpVXVDQl9SR213R1Z0TVdSX0FOS19HOERUZTNRa2tmbjdMa1BuTFdXRVRjcy1HUy0xWHhIN3NmVmVNV1U0?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 10:51:33 GMT"
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DN0RRTW1nREdlTVJqNGxSMVRramJJeXVEODF4WmwtVmZ4cnNYZTVNTVlWNGZsSDUydC02cDRteHlXWi02RGxvRXZ3UXJHLXJRUjBaZ1l2T1BYSWxCdHYwWkhoWlZHbENsTUZZVjJhN0M?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 15:25:44 GMT"
     },
     {
-      "headline": "Auros integrates AI into UserTesting with human oversight layer",
-      "background": "AI-driven synthesis of user research is an active area of development, but trust and validity concerns remain. Auros is positioning its integration with UserTesting around AI acceleration with humans retained as final decision-makers.",
+      "headline": "Creative Repute Opens Merchandise Shop",
+      "background": "A design agency has launched a branded merchandise offering.",
       "keyFindings": [
-        "Auros uses AI to process and surface patterns from UserTesting sessions, reducing manual synthesis time",
-        "The platform explicitly keeps human researchers as the validation layer before findings are acted on",
-        "The model is positioned as AI-augmented rather than AI-replaced research, addressing practitioner concerns about AI reliability in qualitative analysis"
+        "Creative Repute has launched a branded merchandise shop"
       ],
-      "implications": "Worth tracking for UX research teams evaluating AI synthesis tools. The human-as-final-arbiter model is the right safeguard, but teams should scrutinize what the AI is actually surfacing and whether it introduces pattern bias in qualitative data.",
+      "implications": "No UX, product, or tech relevance. Promotional content.",
+      "tags": [
+        "Industry news"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "The Courier-Journal",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnVNTU9LeEJrNUZ0R1VhYzZXWDBab2V0NkxJclgtalNPRjUxZFh5a2pwUDlsdEVXMFUzUXFGbFptTGJaVXRybGxNNGhtNU1NTHl4azFLZU9ZTTJWQ3JRQlZtaVQtT0d6TzJzS1lVMnRzTDEzYU1QSHB0aFh6TGZ5X0tnSHJaVXJnZ0NrSnN6Y01UbXJrcGxKazBQbGliamZuVjV0VElzQ3JwNlg2Wmc?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 15:16:27 GMT"
+    },
+    {
+      "headline": "Top Web Design Agencies in Africa 2026",
+      "background": "Listicle ranking African web design companies for 2026.",
+      "keyFindings": [
+        "Aggregates ten web design companies operating across the African market",
+        "Framed as a buyer's guide for those seeking design services in the region"
+      ],
+      "implications": "Potentially useful if you are sourcing design vendors in Africa. No methodology for rankings is visible from the snippet, so treat with appropriate skepticism.",
+      "tags": [
+        "Agency landscape",
+        "Africa"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Nubia Magazine!",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3QlkxY3BMbEEtRFd0RDNLQm5uMlRuTTZmVlhqYUQ3eGdfOGYzaFFQek5QYkVsay10REd6bzh6ZUJvTU41VmY2SDhuaWhHdFRJUE1rSTZzNEVVZzdBbDNnNFJRckJkeG1MSTRMa0hIWWZJLWs?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 12:33:00 GMT"
+    },
+    {
+      "headline": "Grok Gets a Wikipedia-Style Interface Upgrade",
+      "background": "Grok, xAI's AI assistant, has added a Grokipedia feature positioning it as a knowledge reference tool — a direct move into territory dominated by Wikipedia and AI search tools like Perplexity.",
+      "keyFindings": [
+        "Grokipedia is a new interface layer on Grok designed to present AI-generated knowledge in an encyclopedia format",
+        "The upgrade represents xAI's attempt to compete with structured knowledge and AI search products",
+        "Creative Bloq describes the redesign as visually significant"
+      ],
+      "implications": "Worth monitoring for anyone tracking AI information interfaces and how visual design choices shape perceived credibility of AI-generated content. No hands-on evaluation data available from this snippet.",
+      "tags": [
+        "AI tools",
+        "Information architecture"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Creative Bloq",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWWdXNE9XaExVMnVGazRVQUFnSTRFa3gtalpLc1ROUDQyR3NhbWJUNmZqamY1SDJvMU9wYXV4Z3BOYllVZGNweUVYU01MRVU4el9vSExMQTExUjdnal84djFZNUJfaVdQQWR4VjlfWjNrVHdWc3dSUUI1WTlab09JYjNERXliWHdib0N6QTkyVnE?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "headline": "PerfectionGeeks Claims to Lead Mobile App Development in 2025",
+      "background": "Vendor promotional content dressed as editorial coverage.",
+      "keyFindings": [
+        "Self-promotional piece from or about PerfectionGeeks Technologies claiming leadership in mobile app development"
+      ],
+      "implications": "No independent findings or data. Not a reliable reference.",
+      "tags": [
+        "Promotional content"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "programminginsider.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVjZXeDVXaHk2NjZxSUV1TzZJTnlEb1A5NS1jbnpGLUVaelZxM0FZQjUtRUJjR0ZOWF91Vm51eld5R1ptWnp6R1VUNjRPREh2bFk2amdqTEROUmtOLTAwRmxGcjEwWXRKbFRmaTIwTE5oSEFXYmYtSzFDcUg0OHQ3Rzc1OTZWMUdhUE9OQUk4eFNhX1JyQXVMaFZ4QUhGYXBkUzFJdlZnWFExRmF6TlE?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 11:50:40 GMT"
+    },
+    {
+      "headline": "Nielsen Roundup: Vigilance Fatigue, UI Clutter, and Measuring Outcomes",
+      "background": "Jakob Nielsen's recurring UX roundup synthesizes recent research and design guidance across multiple topics in a single digest — a reliable source of evidence-grounded UX guidance.",
+      "keyFindings": [
+        "Vigilance fatigue is identified as a real UX risk where users stop responding to alerts or warnings after repeated low-signal notifications",
+        "Scenarios outperform surveys for measuring user preferences in research contexts — users respond more accurately when given concrete situations than abstract questions",
+        "The roundup argues for measuring outcomes rather than outputs, and flags that satisfaction should be benchmarked against expectations, not absolute scores"
+      ],
+      "implications": "High-density practical guidance across research methods, alert design, and metrics — relevant to researchers, designers, and PMs. The scenarios-vs-surveys finding directly affects how you design preference research. Allow-paste guidance is also relevant to form and authentication design.",
       "tags": [
         "User research",
-        "AI tools",
-        "Research ops"
+        "Metrics",
+        "Notification design"
       ],
-      "featured": false,
+      "featured": true,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "diginomica.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01c1dZSnREQ0MwMXRQcU5kYXNqVWVJbjRJMVNBS3RUWHd4NFY3cVJIS3JmYWs5X3ZTUXRXdGVvNC1kM2s2dUk3ZTkyMGRXLTczSXY5ZGRZd183STRpRzNMVk5GZE42ODVaZWFjTk53MWRNQnE3TTJWWDFRSHRIdw?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 10:19:41 GMT"
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpcUR6c2pSbE1sWTMzcHBhS0drU1JVT2p6UGc0clRCNjdlam9oYkgtazNXNVU0TjVzcFUxbElxZVc1UVd6TWFqN2ZiUzdBT1YtZGJJaDBEYXhhOUpnVHdLWmlrTVZ5X2dVSEE?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 11:21:36 GMT"
     }
   ]
 }
