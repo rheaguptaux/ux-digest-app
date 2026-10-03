@@ -1,218 +1,215 @@
 {
-  "generatedAt": "2026-10-02T17:33:46.761Z",
+  "generatedAt": "2026-10-03T15:49:56.359Z",
   "items": [
     {
-      "headline": "Design Reviews Are Political Theater, Not Critique",
-      "background": "Design reviews are a standard ritual in most product orgs, but practitioners frequently report they feel performative rather than productive. This piece argues the dysfunction is structural, not incidental.",
+      "headline": "Who decides how far AI can act on your behalf?",
+      "background": "As AI agents move from answering questions to taking actions — booking, purchasing, deleting, sending — product teams are being forced to define explicit boundaries around what AI is permitted to do, for whom, and under what conditions. This piece frames that as a core product design decision, not just an engineering one.",
       "keyFindings": [
-        "Design reviews function as status negotiations and approval rituals rather than genuine design evaluation",
-        "The social dynamics of who speaks, who is present, and who called the meeting often determine outcomes more than design quality",
-        "Framing reviews as conversations obscures their actual purpose, making it harder to run them effectively"
+        "Authority scope — what an AI can do without asking — is now a product design variable that needs deliberate definition",
+        "Acting on behalf of a user requires explicit delegation logic, not just capability access",
+        "Boundary failures (AI doing too much or too little) are increasingly the primary source of user trust breakdowns in agentic products"
       ],
-      "implications": "If you run or participate in design reviews, understanding the political and organizational functions they serve — beyond critique — can help you structure them more honestly and get better decisions out of them. Relevant to leads and ICs alike.",
+      "implications": "If you're designing any AI-assisted workflow, you need to define permission tiers before launch — not as an afterthought. Consider building explicit confirmation steps at high-stakes action thresholds, especially in enterprise or regulated contexts.",
       "tags": [
-        "Design process",
-        "Collaboration",
-        "Org dynamics"
+        "Agentic AI",
+        "Trust",
+        "Product decisions"
       ],
       "featured": true,
       "type": "opinion",
-      "category": "UX",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*yDlXnBiFpyMnGUY6C9tLqQ.png",
-      "source": "UX on Medium",
-      "link": "https://waffledesigns.medium.com/design-reviews-are-not-about-design-fc695cef6858?source=rss------ux-5",
-      "pubDate": "Fri, 02 Oct 2026 17:17:33 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1672/1*YwvZeH-3eOXyvcsoXwnUEA.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@gokhanbakin/ai-neyi-kimin-ad%C4%B1na-ve-hangi-noktaya-kadar-yapabilir-eb60b4f4b36f?source=rss------product_design-5",
+      "pubDate": "Sat, 03 Oct 2026 15:41:23 GMT"
     },
     {
-      "headline": "Shift UX 2026 Research Track Announced",
-      "background": "Shift UX is a regional UX conference; this post outlines the research-focused sessions in their 2026 program.",
+      "headline": "Spam: Ulta gift card promotional offer",
+      "background": "This is not a relevant article for UX, product, or tech professionals.",
       "keyFindings": [
-        "A dedicated research track is available within the broader Shift UX 2026 conference program",
-        "Full program details are publicly viewable before registration"
+        "Promotional/spam content with no informational value"
       ],
-      "implications": "Useful only if you are evaluating UX conferences for professional development in 2026. Limited actionable detail available from the snippet alone.",
+      "implications": "Not applicable.",
       "tags": [
-        "Conference",
-        "User research"
+        "Irrelevant"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*2mCgK61kaOXJytx-z9d9xw.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@mdjahid01332713731/get-a-100-ulta-gift-card-in-the-usa-060ea0fcbbec?source=rss------ux-5",
+      "pubDate": "Sat, 03 Oct 2026 14:56:16 GMT"
+    },
+    {
+      "headline": "Spam: Casino review content",
+      "background": "This is not a relevant article for UX, product, or tech professionals.",
+      "keyFindings": [
+        "SEO/spam content with no informational value"
+      ],
+      "implications": "Not applicable.",
+      "tags": [
+        "Irrelevant"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "unnes.ac.id",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYndqWFZZeDRuODZlb3R1WGdZLW1KeHdJVHpjVGY0c1lDOVVibWtZOHNPYmFFNEo4SjZzdGY2cTZ4R1NaSHdRNFpJUDRkcnp5YmJkX1gwbUVKeUt6ODdodFlQNDJmZERqdnczTjd2R1FrRWYyZU5GTGp4bG0zcGpjOHpNZmxTZ2EtYkRNNA?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 14:27:16 GMT"
+    },
+    {
+      "headline": "7 design rules to make AI transparency real",
+      "background": "A persistent gap exists between AI usage rates and AI trust: most users accept AI outputs uncritically, yet fewer than half report trusting AI systems. This piece argues the gap is a design failure, not a user education problem, and proposes concrete interface rules to address it.",
+      "keyFindings": [
+        "Most users do not verify AI answers before acting on them, yet trust rates remain below 50% — a gap that design can close",
+        "Transparency mechanisms like confidence indicators, source attribution, and failure disclosure are framed as functional requirements, not nice-to-haves",
+        "The piece identifies 7 specific rules, including surfacing uncertainty explicitly and giving users meaningful ways to override or challenge AI outputs"
+      ],
+      "implications": "Designers building AI-facing interfaces should treat uncertainty communication as a core interaction pattern — not an edge case. This is especially critical in domains like health, finance, or legal where over-reliance on AI output carries real risk.",
+      "tags": [
+        "AI transparency",
+        "Trust",
+        "Interaction design"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*qObSQpLyf3R3nsB2y__3Zg.png",
+      "source": "Product Design on Medium",
+      "link": "https://pub.towardsai.net/transparent-ai-ux-7-rules-for-designing-ai-people-actually-trust-85de21d85ac5?source=rss------product_design-5",
+      "pubDate": "Sat, 03 Oct 2026 14:01:02 GMT"
+    },
+    {
+      "headline": "5 hard lessons from measuring UX beyond aesthetics",
+      "background": "Product teams frequently over-index on visual polish as a proxy for quality, while neglecting behavioral and outcome-based metrics. This piece draws from applied UX measurement work to challenge that default.",
+      "keyFindings": [
+        "Aesthetic ratings from users do not reliably predict task success rates or retention — teams optimizing for visual approval scores may be measuring the wrong thing",
+        "At least one finding challenges the assumption that more visually consistent interfaces always outperform less polished ones on usability metrics",
+        "The piece argues for combining attitudinal measures (how users feel) with behavioral metrics (what they actually do) to get accurate signal"
+      ],
+      "implications": "If your team's UX success criteria are primarily visual or satisfaction-score based, you may be missing performance regressions that only show up in task completion or error rate data. Worth revisiting your metrics framework before the next research cycle.",
+      "tags": [
+        "UX metrics",
+        "Research methods",
+        "Product quality"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Research",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*HQsmFh6orZ72sB4w5dJOBA.png",
+      "image": null,
       "source": "UX Research on Medium",
-      "link": "https://bog-dan.medium.com/shift-ux-2026-the-research-track-00ef2611b5b6?source=rss------ux_research-5",
-      "pubDate": "Fri, 02 Oct 2026 17:06:42 GMT"
+      "link": "https://medium.com/@junaidmaniyar/beyond-looking-good-5-surprising-lessons-from-the-front-lines-of-ux-metrics-52e673f40c1b?source=rss------ux_research-5",
+      "pubDate": "Sat, 03 Oct 2026 13:14:58 GMT"
     },
     {
-      "headline": "Single Measurements Fail Tapered Products",
-      "background": "Product labeling and UX for physical goods typically relies on one standardized dimension, but tapered or non-uniform shapes create genuine usability and accuracy problems for consumers.",
+      "headline": "Listicle: Generative AI development companies",
+      "background": "This is a vendor listing/marketing roundup with no original analysis or findings relevant to UX or product practice.",
       "keyFindings": [
-        "Tapered paper products cannot be accurately described by a single length measurement",
-        "The gap between labeled and actual usable capacity misleads purchasing decisions",
-        "The piece argues for multi-point measurement standards for non-uniform product shapes"
+        "Vendor directory content with no analytical value for practitioners"
       ],
-      "implications": "Niche but relevant to anyone working on packaging UX, e-commerce product specifications, or labeling systems where physical geometry affects user expectations and satisfaction.",
+      "implications": "Not applicable.",
       "tags": [
-        "Physical product UX",
-        "Information design"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@jamierollinswrites/length-is-not-capacity-8eb08761916a?source=rss------product_design-5",
-      "pubDate": "Fri, 02 Oct 2026 16:41:26 GMT"
-    },
-    {
-      "headline": "AI Workflow Automates Resume Tailoring Per Job Application",
-      "background": "Manually rewriting a resume for every job posting is a known friction point in job searching. This piece documents a practical personal automation built to remove that overhead.",
-      "keyFindings": [
-        "Author built two parallel versions of the workflow — one using Claude Code, one using n8n",
-        "AI handles the mechanical rewriting while the author retains control over all substantive content decisions",
-        "The workflow reduces per-application resume editing to a manageable, repeatable process"
-      ],
-      "implications": "Concrete example of AI-assisted personal workflow automation using accessible tools. Useful for anyone exploring practical Claude Code or n8n applications beyond toy demos, though the piece is in Chinese.",
-      "tags": [
-        "AI tools",
-        "Workflow automation",
-        "n8n"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*WhEmTFKFJUp6RPUVZK0O_g.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@spidermen.chen/%E6%8A%95%E4%B8%80%E5%AE%B6%E6%94%B9%E4%B8%80%E6%AC%A1%E5%B1%A5%E6%AD%B7%E5%A4%AA%E7%B4%AF%E4%BA%86-%E6%88%91%E4%B9%BE%E8%84%86%E5%81%9A%E4%BA%86%E4%B8%80%E5%80%8B-ai-%E5%B7%A5%E4%BD%9C%E6%B5%81-2bcaaed28069?source=rss------product_design-5",
-      "pubDate": "Fri, 02 Oct 2026 16:33:26 GMT"
-    },
-    {
-      "headline": "UX vs UI Explained — Again",
-      "background": "The UX/UI distinction is one of the most persistently confused topics in the field, generating repeated explainer content aimed at newcomers and those hiring for these roles.",
-      "keyFindings": [
-        "Piece attempts to clarify that UX encompasses the full user journey and experience while UI is the visual and interactive layer",
-        "No novel findings or frameworks offered beyond the standard distinction"
-      ],
-      "implications": "Entry-level explainer only. Not relevant to practitioners already working in the field.",
-      "tags": [
-        "Fundamentals"
+        "Irrelevant"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DN0RRTW1nREdlTVJqNGxSMVRramJJeXVEODF4WmwtVmZ4cnNYZTVNTVlWNGZsSDUydC02cDRteHlXWi02RGxvRXZ3UXJHLXJRUjBaZ1l2T1BYSWxCdHYwWkhoWlZHbENsTUZZVjJhN0M?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 15:25:44 GMT"
+      "source": "WhaTech",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNTcteDRuZWEtMGl6SXJpeU5wbVdiTDAyQXFlekZnX0Z1MHZVRVZjZ2NybHMyeElpQmxBWHNTMDBnNXlCeGhjQm1vMUt1Snlpb1IyYlZnaUM1Nkh0djNhTDNyZzQ5MkNJR0l2V2dBOWZXMkYtX2cyZkN5TFhtNkc3S2lGSjk0dGcxbjlsX2ptRzZmSEctMXNBWG9wQXFSMkRtZ1g1YWV4dkNOMVp2c0xjcDUza1hsc2Y0czZDWEItZ9IBvwFBVV95cUxQNTcteDRuZWEtMGl6SXJpeU5wbVdiTDAyQXFlekZnX0Z1MHZVRVZjZ2NybHMyeElpQmxBWHNTMDBnNXlCeGhjQm1vMUt1Snlpb1IyYlZnaUM1Nkh0djNhTDNyZzQ5MkNJR0l2V2dBOWZXMkYtX2cyZkN5TFhtNkc3S2lGSjk0dGcxbjlsX2ptRzZmSEctMXNBWG9wQXFSMkRtZ1g1YWV4dkNOMVp2c0xjcDUza1hsc2Y0czZDWEItZw?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 10:56:22 GMT"
     },
     {
-      "headline": "Creative Repute Opens Merchandise Shop",
-      "background": "A design agency has launched a branded merchandise offering.",
+      "headline": "Window management hasn't changed in 30 years — one dev is trying",
+      "background": "Desktop windowing systems — tiling, stacking, minimize/maximize — have remained structurally unchanged since the early 1990s despite dramatic shifts in screen sizes, multi-monitor setups, and workload complexity. A developer is proposing a rethought model.",
       "keyFindings": [
-        "Creative Repute has launched a branded merchandise shop"
+        "Core window management paradigms (overlapping windows, taskbar-based switching) have not fundamentally changed since Windows 3.1 and early macOS",
+        "The developer's proposed system rethinks spatial organization of windows around tasks or contexts rather than individual application instances",
+        "Current systems force users to manually manage window state, which creates cognitive overhead that compounds across complex workflows"
       ],
-      "implications": "No UX, product, or tech relevance. Promotional content.",
+      "implications": "Relevant for anyone designing desktop-native or Electron-based applications — if a new windowing model gains traction, apps designed around current assumptions about window state and focus behavior may need to adapt. Worth monitoring if you work on pro/power-user desktop tools.",
       "tags": [
-        "Industry news"
+        "Desktop UX",
+        "Window management",
+        "Systems design"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "The Courier-Journal",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnVNTU9LeEJrNUZ0R1VhYzZXWDBab2V0NkxJclgtalNPRjUxZFh5a2pwUDlsdEVXMFUzUXFGbFptTGJaVXRybGxNNGhtNU1NTHl4azFLZU9ZTTJWQ3JRQlZtaVQtT0d6TzJzS1lVMnRzTDEzYU1QSHB0aFh6TGZ5X0tnSHJaVXJnZ0NrSnN6Y01UbXJrcGxKazBQbGliamZuVjV0VElzQ3JwNlg2Wmc?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 15:16:27 GMT"
+      "source": "news.lavx.hu",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmFZQWhpS0FYTXdrMzhDOWNhbUw4cDNWSThMZDRhSEdkdjhYd3psSzQ0aW9HeENiWnBxa3lfQTRGR3E0SE9ObU1kUU55QTFjdWg0SXdtZmpyZm5xOGF6SGFma2xIaGIzZFlZaDF0cjNzTXEwa3Qydm82c2hnVUEyVGpkNkMxQlFpWHVaNjhJQlc3M1hDYktMazcyd0Mzb2ViZEUwYmRhMUE4d3FwNUVtaTQwNkJIdG13SVNleQ?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 09:21:16 GMT"
     },
     {
-      "headline": "Top Web Design Agencies in Africa 2026",
-      "background": "Listicle ranking African web design companies for 2026.",
+      "headline": "Tool listing: Dovetail research repository",
+      "background": "This is a product/tool listing with no original analysis or findings.",
       "keyFindings": [
-        "Aggregates ten web design companies operating across the African market",
-        "Framed as a buyer's guide for those seeking design services in the region"
+        "Tool promotion with no comparative or analytical content"
       ],
-      "implications": "Potentially useful if you are sourcing design vendors in Africa. No methodology for rankings is visible from the snippet, so treat with appropriate skepticism.",
+      "implications": "Not applicable.",
       "tags": [
-        "Agency landscape",
-        "Africa"
+        "Irrelevant"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Nubia Magazine!",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3QlkxY3BMbEEtRFd0RDNLQm5uMlRuTTZmVlhqYUQ3eGdfOGYzaFFQek5QYkVsay10REd6bzh6ZUJvTU41VmY2SDhuaWhHdFRJUE1rSTZzNEVVZzdBbDNnNFJRckJkeG1MSTRMa0hIWWZJLWs?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 12:33:00 GMT"
+      "source": "quasa.io",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNDFVei1hU0Z4YTc2LWJrdTVxeXdiSjMwRjN0QmN0LWlmYktRX1ZCOTdtamNqalF3cFpWSEo5SzYyVXpUV05zUkhMRlRkQmhFV09YdEgxdEpyZnhhakZYVU44ckwxUmRabnhMX1lPRkRVbHNKOTN4VFVVdEF4TVotVmVGMnJkNFZoSDlVdWg0bV9OYlJ3ZXc?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 18:13:37 GMT"
     },
     {
-      "headline": "Grok Gets a Wikipedia-Style Interface Upgrade",
-      "background": "Grok, xAI's AI assistant, has added a Grokipedia feature positioning it as a knowledge reference tool — a direct move into territory dominated by Wikipedia and AI search tools like Perplexity.",
+      "headline": "Press release: Areteworks 30-year healthcare design milestone",
+      "background": "This is a company press release announcing a milestone, not an analytical or research-based article.",
       "keyFindings": [
-        "Grokipedia is a new interface layer on Grok designed to present AI-generated knowledge in an encyclopedia format",
-        "The upgrade represents xAI's attempt to compete with structured knowledge and AI search products",
-        "Creative Bloq describes the redesign as visually significant"
+        "Promotional press release content with no practitioner-relevant findings"
       ],
-      "implications": "Worth monitoring for anyone tracking AI information interfaces and how visual design choices shape perceived credibility of AI-generated content. No hands-on evaluation data available from this snippet.",
+      "implications": "Not applicable.",
       "tags": [
-        "AI tools",
-        "Information architecture"
+        "Irrelevant"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Creative Bloq",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWWdXNE9XaExVMnVGazRVQUFnSTRFa3gtalpLc1ROUDQyR3NhbWJUNmZqamY1SDJvMU9wYXV4Z3BOYllVZGNweUVYU01MRVU4el9vSExMQTExUjdnal84djFZNUJfaVdQQWR4VjlfWjNrVHdWc3dSUUI1WTlab09JYjNERXliWHdib0N6QTkyVnE?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 12:00:00 GMT"
+      "source": "EIN Presswire",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYk1hdjJBaUllZGdhamt6Ull3ZXhkcVdIMGNrM25BSmZfYmM2YTVGY0J4VHRKbEFiNy1tR0RraWJPelRWMHhnUktmRzhLTHJrSVl6VXozV1BmSFlSX2dCS2tleEY2b2hsb1R0VVFlRzZnaG9NSUdqc214MDF1SE1XWDQ1OURVbEtHSU93aGdzbW1HQWNNMDdiN0dZSTAzODZrN3lWbVhfVkdLd0Rxc2RGa0REVEtnUmxTWlp2SktjcDYtdw?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 17:44:00 GMT"
     },
     {
-      "headline": "PerfectionGeeks Claims to Lead Mobile App Development in 2025",
-      "background": "Vendor promotional content dressed as editorial coverage.",
+      "headline": "Agentic AI systems are becoming the new 'Big Ball of Mud'",
+      "background": "The 'Big Ball of Mud' is a well-known software anti-pattern describing codebases that grow ad hoc into unmaintainable tangles. This piece argues that cheap AI-assisted development is producing the same failure mode in agentic systems — built fast, extended piecemeal, and eventually too fragile to safely modify or scale.",
       "keyFindings": [
-        "Self-promotional piece from or about PerfectionGeeks Technologies claiming leadership in mobile app development"
+        "Low build cost from AI tooling is accelerating the accumulation of poorly architected agentic systems that teams no longer fully understand",
+        "Agentic systems are particularly fragile because errors can cascade across autonomous action chains — unlike traditional software where failures are more localized",
+        "The piece identifies piecemeal feature extension — adding agents and tools incrementally without architectural planning — as the primary driver of this fragility pattern"
       ],
-      "implications": "No independent findings or data. Not a reliable reference.",
+      "implications": "Product and engineering teams building agentic systems should establish architectural review checkpoints before adding new agent capabilities, not after fragility becomes apparent. This is especially urgent for teams that have been moving fast using AI-assisted code generation without corresponding investment in systems documentation.",
       "tags": [
-        "Promotional content"
+        "Agentic AI",
+        "Software architecture",
+        "Technical debt"
       ],
       "featured": false,
       "type": "research",
-      "category": "Industry news",
+      "category": "Research",
       "publishedWindow": "today",
       "image": null,
-      "source": "programminginsider.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVjZXeDVXaHk2NjZxSUV1TzZJTnlEb1A5NS1jbnpGLUVaelZxM0FZQjUtRUJjR0ZOWF91Vm51eld5R1ptWnp6R1VUNjRPREh2bFk2amdqTEROUmtOLTAwRmxGcjEwWXRKbFRmaTIwTE5oSEFXYmYtSzFDcUg0OHQ3Rzc1OTZWMUdhUE9OQUk4eFNhX1JyQXVMaFZ4QUhGYXBkUzFJdlZnWFExRmF6TlE?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 11:50:40 GMT"
-    },
-    {
-      "headline": "Nielsen Roundup: Vigilance Fatigue, UI Clutter, and Measuring Outcomes",
-      "background": "Jakob Nielsen's recurring UX roundup synthesizes recent research and design guidance across multiple topics in a single digest — a reliable source of evidence-grounded UX guidance.",
-      "keyFindings": [
-        "Vigilance fatigue is identified as a real UX risk where users stop responding to alerts or warnings after repeated low-signal notifications",
-        "Scenarios outperform surveys for measuring user preferences in research contexts — users respond more accurately when given concrete situations than abstract questions",
-        "The roundup argues for measuring outcomes rather than outputs, and flags that satisfaction should be benchmarked against expectations, not absolute scores"
-      ],
-      "implications": "High-density practical guidance across research methods, alert design, and metrics — relevant to researchers, designers, and PMs. The scenarios-vs-surveys finding directly affects how you design preference research. Allow-paste guidance is also relevant to form and authentication design.",
-      "tags": [
-        "User research",
-        "Metrics",
-        "Notification design"
-      ],
-      "featured": true,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpcUR6c2pSbE1sWTMzcHBhS0drU1JVT2p6UGc0clRCNjdlam9oYkgtazNXNVU0TjVzcFUxbElxZVc1UVd6TWFqN2ZiUzdBT1YtZGJJaDBEYXhhOUpnVHdLWmlrTVZ5X2dVSEE?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 11:21:36 GMT"
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/big-ball-of-mud-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 02 Oct 2026 17:00:00 +0000"
     }
   ]
 }
