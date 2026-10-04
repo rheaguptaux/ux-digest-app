@@ -1,215 +1,223 @@
 {
-  "generatedAt": "2026-10-03T15:49:56.359Z",
+  "generatedAt": "2026-10-04T16:32:36.650Z",
   "items": [
     {
-      "headline": "Who decides how far AI can act on your behalf?",
-      "background": "As AI agents move from answering questions to taking actions — booking, purchasing, deleting, sending — product teams are being forced to define explicit boundaries around what AI is permitted to do, for whom, and under what conditions. This piece frames that as a core product design decision, not just an engineering one.",
+      "headline": "Ticket machines fail users when seconds matter most.",
+      "background": "Self-service ticketing kiosks at transit stations are notorious for slow interfaces, but the cost of that slowness is rarely framed in terms of real user consequences — missed trains, family stress, and forced workarounds.",
       "keyFindings": [
-        "Authority scope — what an AI can do without asking — is now a product design variable that needs deliberate definition",
-        "Acting on behalf of a user requires explicit delegation logic, not just capability access",
-        "Boundary failures (AI doing too much or too little) are increasingly the primary source of user trust breakdowns in agentic products"
+        "A family-of-three scenario at Berlin transit illustrates how a 4-minute window makes slow ticket UI a functional failure, not just an inconvenience",
+        "Screen lag and unclear flows on transit kiosks routinely exceed the cognitive and time budget of real-world users under pressure",
+        "The piece argues ticket purchase duration should be benchmarked against journey duration as a design constraint"
       ],
-      "implications": "If you're designing any AI-assisted workflow, you need to define permission tiers before launch — not as an afterthought. Consider building explicit confirmation steps at high-stakes action thresholds, especially in enterprise or regulated contexts.",
+      "implications": "For designers working on kiosk or high-stakes transactional flows, time-to-completion under pressure is a primary usability metric — not a secondary one. Consider stress-testing interfaces with hard time constraints as part of usability research.",
       "tags": [
-        "Agentic AI",
-        "Trust",
-        "Product decisions"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*YwvZeH-3eOXyvcsoXwnUEA.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@gokhanbakin/ai-neyi-kimin-ad%C4%B1na-ve-hangi-noktaya-kadar-yapabilir-eb60b4f4b36f?source=rss------product_design-5",
-      "pubDate": "Sat, 03 Oct 2026 15:41:23 GMT"
-    },
-    {
-      "headline": "Spam: Ulta gift card promotional offer",
-      "background": "This is not a relevant article for UX, product, or tech professionals.",
-      "keyFindings": [
-        "Promotional/spam content with no informational value"
-      ],
-      "implications": "Not applicable.",
-      "tags": [
-        "Irrelevant"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*2mCgK61kaOXJytx-z9d9xw.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@mdjahid01332713731/get-a-100-ulta-gift-card-in-the-usa-060ea0fcbbec?source=rss------ux-5",
-      "pubDate": "Sat, 03 Oct 2026 14:56:16 GMT"
-    },
-    {
-      "headline": "Spam: Casino review content",
-      "background": "This is not a relevant article for UX, product, or tech professionals.",
-      "keyFindings": [
-        "SEO/spam content with no informational value"
-      ],
-      "implications": "Not applicable.",
-      "tags": [
-        "Irrelevant"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "unnes.ac.id",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYndqWFZZeDRuODZlb3R1WGdZLW1KeHdJVHpjVGY0c1lDOVVibWtZOHNPYmFFNEo4SjZzdGY2cTZ4R1NaSHdRNFpJUDRkcnp5YmJkX1gwbUVKeUt6ODdodFlQNDJmZERqdnczTjd2R1FrRWYyZU5GTGp4bG0zcGpjOHpNZmxTZ2EtYkRNNA?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 14:27:16 GMT"
-    },
-    {
-      "headline": "7 design rules to make AI transparency real",
-      "background": "A persistent gap exists between AI usage rates and AI trust: most users accept AI outputs uncritically, yet fewer than half report trusting AI systems. This piece argues the gap is a design failure, not a user education problem, and proposes concrete interface rules to address it.",
-      "keyFindings": [
-        "Most users do not verify AI answers before acting on them, yet trust rates remain below 50% — a gap that design can close",
-        "Transparency mechanisms like confidence indicators, source attribution, and failure disclosure are framed as functional requirements, not nice-to-haves",
-        "The piece identifies 7 specific rules, including surfacing uncertainty explicitly and giving users meaningful ways to override or challenge AI outputs"
-      ],
-      "implications": "Designers building AI-facing interfaces should treat uncertainty communication as a core interaction pattern — not an edge case. This is especially critical in domains like health, finance, or legal where over-reliance on AI output carries real risk.",
-      "tags": [
-        "AI transparency",
-        "Trust",
-        "Interaction design"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*qObSQpLyf3R3nsB2y__3Zg.png",
-      "source": "Product Design on Medium",
-      "link": "https://pub.towardsai.net/transparent-ai-ux-7-rules-for-designing-ai-people-actually-trust-85de21d85ac5?source=rss------product_design-5",
-      "pubDate": "Sat, 03 Oct 2026 14:01:02 GMT"
-    },
-    {
-      "headline": "5 hard lessons from measuring UX beyond aesthetics",
-      "background": "Product teams frequently over-index on visual polish as a proxy for quality, while neglecting behavioral and outcome-based metrics. This piece draws from applied UX measurement work to challenge that default.",
-      "keyFindings": [
-        "Aesthetic ratings from users do not reliably predict task success rates or retention — teams optimizing for visual approval scores may be measuring the wrong thing",
-        "At least one finding challenges the assumption that more visually consistent interfaces always outperform less polished ones on usability metrics",
-        "The piece argues for combining attitudinal measures (how users feel) with behavioral metrics (what they actually do) to get accurate signal"
-      ],
-      "implications": "If your team's UX success criteria are primarily visual or satisfaction-score based, you may be missing performance regressions that only show up in task completion or error rate data. Worth revisiting your metrics framework before the next research cycle.",
-      "tags": [
-        "UX metrics",
-        "Research methods",
-        "Product quality"
+        "Kiosk Design",
+        "Transactional UX",
+        "Usability Testing"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Research",
       "publishedWindow": "today",
-      "image": null,
+      "image": "https://cdn-images-1.medium.com/max/1536/1*-4Wi2RpYPhSUdGdTJ35XQw.png",
       "source": "UX Research on Medium",
-      "link": "https://medium.com/@junaidmaniyar/beyond-looking-good-5-surprising-lessons-from-the-front-lines-of-ux-metrics-52e673f40c1b?source=rss------ux_research-5",
-      "pubDate": "Sat, 03 Oct 2026 13:14:58 GMT"
+      "link": "https://medium.com/@zaahra.zare/buying-a-ticket-should-not-take-longer-than-the-train-ride-1a57db999870?source=rss------ux_research-5",
+      "pubDate": "Sun, 04 Oct 2026 16:18:25 GMT"
     },
     {
-      "headline": "Listicle: Generative AI development companies",
-      "background": "This is a vendor listing/marketing roundup with no original analysis or findings relevant to UX or product practice.",
+      "headline": "Automating the wrong problem is AI's costliest product mistake.",
+      "background": "As product teams rush to integrate AI, the failure mode that gets least attention is not bad AI output — it is misidentifying which problems AI should solve in the first place.",
       "keyFindings": [
-        "Vendor directory content with no analytical value for practitioners"
+        "The piece argues that AI reliability traits — tirelessness, consistency, lack of distraction — make it tempting to automate processes that are broken at a systemic level rather than an execution level",
+        "Automating a flawed process with AI embeds and accelerates the flaw rather than correcting it",
+        "The distinction between 'hard to do manually' and 'worth doing at all' is framed as the core diagnostic question before any AI implementation"
       ],
-      "implications": "Not applicable.",
+      "implications": "Product and UX teams should audit the problem definition before scoping AI features — if the underlying workflow or goal is flawed, AI will scale the damage. Process audits should precede, not follow, AI investment decisions.",
       "tags": [
-        "Irrelevant"
+        "AI Integration",
+        "Product Strategy",
+        "Automation"
       ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
+      "featured": true,
+      "type": "opinion",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": null,
-      "source": "WhaTech",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNTcteDRuZWEtMGl6SXJpeU5wbVdiTDAyQXFlekZnX0Z1MHZVRVZjZ2NybHMyeElpQmxBWHNTMDBnNXlCeGhjQm1vMUt1Snlpb1IyYlZnaUM1Nkh0djNhTDNyZzQ5MkNJR0l2V2dBOWZXMkYtX2cyZkN5TFhtNkc3S2lGSjk0dGcxbjlsX2ptRzZmSEctMXNBWG9wQXFSMkRtZ1g1YWV4dkNOMVp2c0xjcDUza1hsc2Y0czZDWEItZ9IBvwFBVV95cUxQNTcteDRuZWEtMGl6SXJpeU5wbVdiTDAyQXFlekZnX0Z1MHZVRVZjZ2NybHMyeElpQmxBWHNTMDBnNXlCeGhjQm1vMUt1Snlpb1IyYlZnaUM1Nkh0djNhTDNyZzQ5MkNJR0l2V2dBOWZXMkYtX2cyZkN5TFhtNkc3S2lGSjk0dGcxbjlsX2ptRzZmSEctMXNBWG9wQXFSMkRtZ1g1YWV4dkNOMVp2c0xjcDUza1hsc2Y0czZDWEItZw?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 10:56:22 GMT"
+      "image": "https://cdn-images-1.medium.com/max/685/1*6UhWUNRXVQ2wLBAwHkFuVw.jpeg",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@KonstantinPM/the-most-expensive-ai-mistake-in-product-is-automating-the-wrong-problem-26436e7253a8?source=rss------ux-5",
+      "pubDate": "Sun, 04 Oct 2026 16:10:17 GMT"
     },
     {
-      "headline": "Window management hasn't changed in 30 years — one dev is trying",
-      "background": "Desktop windowing systems — tiling, stacking, minimize/maximize — have remained structurally unchanged since the early 1990s despite dramatic shifts in screen sizes, multi-monitor setups, and workload complexity. A developer is proposing a rethought model.",
+      "headline": "A Mac cleaner built without manipulation or scare tactics.",
+      "background": "Mac cleaning apps have a long history of dark patterns — inflated 'issues found' counts, aggressive subscription upsells, and irreversible deletions — used to manufacture urgency and drive conversion.",
       "keyFindings": [
-        "Core window management paradigms (overlapping windows, taskbar-based switching) have not fundamentally changed since Windows 3.1 and early macOS",
-        "The developer's proposed system rethinks spatial organization of windows around tasks or contexts rather than individual application instances",
-        "Current systems force users to manually manage window state, which creates cognitive overhead that compounds across complex workflows"
+        "The developer explicitly removed the 'issues found' counter, a common anxiety-driving dark pattern in the category",
+        "No subscription model is used, which the developer frames as a trust decision rather than a business constraint",
+        "Nothing is permanently deleted without explicit user confirmation, positioning recoverability as a core design principle"
       ],
-      "implications": "Relevant for anyone designing desktop-native or Electron-based applications — if a new windowing model gains traction, apps designed around current assumptions about window state and focus behavior may need to adapt. Worth monitoring if you work on pro/power-user desktop tools.",
+      "implications": "This is a useful case study for product teams building utility software: ethical defaults (no manipulation, reversible actions, honest counts) are viable as a differentiation strategy, not just a moral stance. Relevant to anyone designing tools where trust is the primary retention driver.",
       "tags": [
-        "Desktop UX",
-        "Window management",
-        "Systems design"
+        "Dark Patterns",
+        "Indie Software",
+        "Ethical Design"
       ],
       "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*k9VlQD38owZSC7BUWlkXyg.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@pankajkholiya/i-built-a-mac-cleaner-with-no-scare-tactics-heres-why-861a934d61a8?source=rss------product_design-5",
+      "pubDate": "Sun, 04 Oct 2026 16:06:57 GMT"
+    },
+    {
+      "headline": "Market research tools lose context by splitting data across tabs.",
+      "background": "Investors and analysts doing equity research routinely juggle multiple tools and browser tabs to piece together a complete picture of a single asset — a fragmented workflow that causes context loss and slows decision-making.",
+      "keyFindings": [
+        "A single stock research task routinely spans fundamentals, news, sentiment, and technicals across five or more separate tabs",
+        "Context fragmentation — losing the thread of a question as it moves across tools — is identified as the core UX failure, not data availability",
+        "The piece proposes that connected research interfaces that maintain query context across data types would meaningfully reduce cognitive load"
+      ],
+      "implications": "Relevant to anyone building research, analytics, or data-heavy tools: the design problem is often not surfacing more data but preserving the user's reasoning context as they move between data types. Consider how your information architecture supports multi-step investigative workflows.",
+      "tags": [
+        "Information Architecture",
+        "Research Tools",
+        "Data UX"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*FiCmz7uxLHouTcUW6y9hMA.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@MarketDeck/one-stock-five-tabs-why-market-research-should-connect-4da5ed63dbe1?source=rss------product_design-5",
+      "pubDate": "Sun, 04 Oct 2026 15:57:52 GMT"
+    },
+    {
+      "headline": "NeoVim wiped undo history — Raskin predicted this class of failure.",
+      "background": "Jef Raskin's 'The Humane Interface' laid out principles for software that respects user agency, including the critical importance of unlimited, reliable undo. NeoVim users recently discovered the editor can silently destroy years of undo history under certain conditions.",
+      "keyFindings": [
+        "NeoVim's undo history can be permanently lost due to file handling behaviors that are not clearly communicated to users, with reports of decade-long histories wiped",
+        "Raskin's humane interface laws explicitly identify unreliable or bounded undo as a fundamental violation of user trust and safety",
+        "The incident illustrates that even developer-focused power tools are not exempt from basic humane design obligations around reversibility"
+      ],
+      "implications": "For product and tool designers: reversibility is not a nice-to-have — its failure is catastrophic and trust-destroying. The NeoVim case is a concrete, shareable example for making the case internally for robust undo/history infrastructure.",
+      "tags": [
+        "Reversibility",
+        "Developer Tools",
+        "Humane Design"
+      ],
+      "featured": true,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
       "source": "news.lavx.hu",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmFZQWhpS0FYTXdrMzhDOWNhbUw4cDNWSThMZDRhSEdkdjhYd3psSzQ0aW9HeENiWnBxa3lfQTRGR3E0SE9ObU1kUU55QTFjdWg0SXdtZmpyZm5xOGF6SGFma2xIaGIzZFlZaDF0cjNzTXEwa3Qydm82c2hnVUEyVGpkNkMxQlFpWHVaNjhJQlc3M1hDYktMazcyd0Mzb2ViZEUwYmRhMUE4d3FwNUVtaTQwNkJIdG13SVNleQ?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 09:21:16 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXRtc3BSVGtIcVVvaW0tYjBIVGpzMzlOYTNMZ0lNU1Fvamt6ZVU0dGZreFUyRnpSZDdJcE54Qm9hRHFZMFJ3UWduUXhOV3NrNF9FanlqcWl4dWJXYzhRbzlkRU9DRzB5WGhWLTYtYXBhNzhNaU0xeVEtYnRYWGstN3VmdE9MWF9JeG1xWHNUcDRxd3hVZUpoSHdneTQxWWppS2VPRWRNaHRGYjhBRE04SXNkdDUxTFpjV3c?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 12:15:58 GMT"
     },
     {
-      "headline": "Tool listing: Dovetail research repository",
-      "background": "This is a product/tool listing with no original analysis or findings.",
+      "headline": "Developers rate OpenAI Codex highly as a coding assistant.",
+      "background": "The AI coding tool space is crowded, with GitHub Copilot, Cursor, and others competing for developer adoption. OpenAI's Codex-based app has been positioning itself as a direct competitor.",
       "keyFindings": [
-        "Tool promotion with no comparative or analytical content"
+        "Developer sentiment on the OpenAI Codex app is reported as strongly positive relative to competing tools",
+        "No specific benchmark data or methodology for the praise is detailed in the available snippet"
       ],
-      "implications": "Not applicable.",
+      "implications": "Treat this as a signal worth monitoring rather than a definitive ranking — the sourcing appears to be community sentiment rather than structured evaluation. Teams choosing AI coding tools should run their own task-specific comparisons.",
       "tags": [
-        "Irrelevant"
+        "AI Coding Tools",
+        "Developer Tools"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "quasa.io",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNDFVei1hU0Z4YTc2LWJrdTVxeXdiSjMwRjN0QmN0LWlmYktRX1ZCOTdtamNqalF3cFpWSEo5SzYyVXpUV05zUkhMRlRkQmhFV09YdEgxdEpyZnhhakZYVU44ckwxUmRabnhMX1lPRkRVbHNKOTN4VFVVdEF4TVotVmVGMnJkNFZoSDlVdWg0bV9OYlJ3ZXc?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 18:13:37 GMT"
+      "source": "x.com",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53NEgzUUlKWmwtNU9RRUVrSTZzOThWRDItSXBGcUgzbnlBVFY3ZnZnMTRfN1VFNXhBdm9IeFlBR3V2V3dqUUc2T2Z3ak9aelFJWEt5OEdmQQ?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 03:42:33 GMT"
     },
     {
-      "headline": "Press release: Areteworks 30-year healthcare design milestone",
-      "background": "This is a company press release announcing a milestone, not an analytical or research-based article.",
+      "headline": "Lexus UX vs Mercedes GLB: compact luxury SUV comparison.",
+      "background": "Auto comparison between 2026 Lexus UX and 2025 Mercedes-Benz GLB.",
       "keyFindings": [
-        "Promotional press release content with no practitioner-relevant findings"
+        "This is an automotive comparison piece with no relevance to UX, product, or technology topics covered by this digest"
       ],
-      "implications": "Not applicable.",
+      "implications": "Not applicable to UX, product, or tech practice.",
       "tags": [
-        "Irrelevant"
+        "Off-topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "EIN Presswire",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYk1hdjJBaUllZGdhamt6Ull3ZXhkcVdIMGNrM25BSmZfYmM2YTVGY0J4VHRKbEFiNy1tR0RraWJPelRWMHhnUktmRzhLTHJrSVl6VXozV1BmSFlSX2dCS2tleEY2b2hsb1R0VVFlRzZnaG9NSUdqc214MDF1SE1XWDQ1OURVbEtHSU93aGdzbW1HQWNNMDdiN0dZSTAzODZrN3lWbVhfVkdLd0Rxc2RGa0REVEtnUmxTWlp2SktjcDYtdw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 17:44:00 GMT"
+      "source": "The Car Connection",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFlRQjc0anpkRjlJQUc0UTBBZFhxc0wwRmZST0FlWENYN1d1bVZoZjlOX21SYUlObmpUdVhtczZvS2MxOWZiQm82N3lkeklHaXNNX04wSi0zT3Y2d1NxVVNSR0tSS08teXpkd0Q0ME43ZXdsWUg5OG9qZzB1TWdCNG5JZEhkU3Z1dW8tcEt6a29nZnhvejdFbGRidWxCOUk?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 22:24:53 GMT"
     },
     {
-      "headline": "Agentic AI systems are becoming the new 'Big Ball of Mud'",
-      "background": "The 'Big Ball of Mud' is a well-known software anti-pattern describing codebases that grow ad hoc into unmaintainable tangles. This piece argues that cheap AI-assisted development is producing the same failure mode in agentic systems — built fast, extended piecemeal, and eventually too fragile to safely modify or scale.",
+      "headline": "University homecoming story with no tech relevance.",
+      "background": "Campus event coverage from Robert Morris University.",
       "keyFindings": [
-        "Low build cost from AI tooling is accelerating the accumulation of poorly architected agentic systems that teams no longer fully understand",
-        "Agentic systems are particularly fragile because errors can cascade across autonomous action chains — unlike traditional software where failures are more localized",
-        "The piece identifies piecemeal feature extension — adding agents and tools incrementally without architectural planning — as the primary driver of this fragility pattern"
+        "This is a campus news story with no relevance to UX, product, or technology topics"
       ],
-      "implications": "Product and engineering teams building agentic systems should establish architectural review checkpoints before adding new agent capabilities, not after fragility becomes apparent. This is especially urgent for teams that have been moving fast using AI-assisted code generation without corresponding investment in systems documentation.",
+      "implications": "Not applicable to UX, product, or tech practice.",
       "tags": [
-        "Agentic AI",
-        "Software architecture",
-        "Technical debt"
+        "Off-topic"
       ],
       "featured": false,
       "type": "research",
-      "category": "Research",
+      "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/articles/big-ball-of-mud-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 02 Oct 2026 17:00:00 +0000"
+      "source": "RMU Sentry Media",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeU91RW50Ri1FN2hmVm5Hd3NpT0F3Z1FUbUJoNXRBRGJUYUZIMW5SM0d4UW9sZ2JfOHNhVWV6SFdMRWhISzdMRjRxTUk2b1locF9JeWd0NmRNTFNoUndRWXhpZjlSeWpGRndPWk5OR3pBQ0V0VEpOU1VITGFPZy15Ulotd0x5dXZiOVRGZUFTMHRHUGRpTDFpd0drcE54TjNITEZfaWxSVQ?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 21:00:31 GMT"
+    },
+    {
+      "headline": "Philippine university adds five new degree programs.",
+      "background": "NU Cebu is expanding its academic offerings across communication, business, technology, multimedia, and political science.",
+      "keyFindings": [
+        "Five new programs added spanning communication, business, technology, multimedia, and political science",
+        "No UX, product design, or technology practice content is present in the available snippet"
+      ],
+      "implications": "Not directly applicable to UX or product practice, though the inclusion of multimedia and technology programs may be worth noting for those tracking regional design education growth in Southeast Asia.",
+      "tags": [
+        "Design Education",
+        "Southeast Asia"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQemtTblpKZS1YQ3N4U2JmUVU4bFNQOWZlbVIxMGhPN2lFb0J4cWgxcjRXa0hZeFJxSG81YWJxeXdDcmhfbURTMHkzU3dzeVZSVUN3YnVQY2ZrNDBDOWRQajV2R2NIZ0dKTnJRcHpubW9ScTVXYW1Nbi1VWTFfbjhxUzZnd1NyMUR1QmgzN1BvX1NpNkFDMTl6SEI4WGxWVktOZHEzTVltV283cHhRd015ZGZoWlpGRWp3OWdBSl9B?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 18:26:02 GMT"
+    },
+    {
+      "headline": "Microsoft adds streaming transcription to complete voice agent pipeline.",
+      "background": "Building production-ready voice agents has required developers to stitch together separate speech-to-text, reasoning, and response components from different providers. Microsoft's Azure AI Foundry has been progressively closing those gaps.",
+      "keyFindings": [
+        "Microsoft shipped its first streaming transcription model on Azure AI Foundry, enabling real-time speech-to-text as part of a unified pipeline",
+        "The addition is framed as completing the end-to-end voice agent pipeline on Foundry, reducing reliance on third-party transcription services",
+        "Streaming transcription specifically — as opposed to batch — is the key capability gap being closed, enabling low-latency conversational voice applications"
+      ],
+      "implications": "Product and engineering teams building voice interfaces or voice agents on Azure now have a more integrated, lower-latency option without leaving the Foundry ecosystem. Evaluate against existing Whisper or third-party STT integrations for latency and accuracy tradeoffs.",
+      "tags": [
+        "Voice Interfaces",
+        "AI Infrastructure",
+        "Azure"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "week",
+      "image": null,
+      "source": "Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM2hiQTFMUWpsNHZ4LVdWdEQzVzB1M3pvMTNBQVFTXzRlVW9oN250NmhVYUhDRkdSb1d5SGtpZkE5cXhoeUdFXzRyZ01abG9NWWxjVXBTR0VLaWpxOWJOYXI2OG4wZkh3WlBQNWdmRTFXNkJlbzhZU0YwdGN6UUYzeW0zeUhIVS10Z1U0VXhOSU92RkNJRTJyR3VZbDJIdW9aZXp2OEJLckdrcWh0ZTUxQ3ZpRkJ4djQ1cFJLcGtobDQtMDFuNHFsWEN6WDNCakpjLUxHRGZ1MlpsZTJuNTlV?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 20:31:23 GMT"
     }
   ]
 }
