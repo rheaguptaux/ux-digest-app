@@ -1,231 +1,220 @@
 {
-  "generatedAt": "2026-10-05T20:24:35.732Z",
+  "generatedAt": "2026-10-06T18:01:01.854Z",
   "items": [
     {
-      "headline": "Hard Truths New UX Designers Wish They Knew Earlier",
-      "background": "UX education often emphasizes process and tools, leaving graduates unprepared for the realities of working in industry — ambiguous briefs, stakeholder politics, and the gap between portfolio work and real projects.",
+      "headline": "Collaborative AI: The Middle Ground Between Chatbot and Autonomous Agent",
+      "background": "AI deployment currently clusters around two extremes: stateless chatbots that forget context between sessions, and fully autonomous agents that operate independently of human input. Neither model fits most real workplace workflows, where ongoing human-AI collaboration is needed.",
       "keyFindings": [
-        "The author found UX harder than anticipated despite formal degree-level study, suggesting curricula may underrepresent real-world complexity.",
-        "Portfolio pressure and the expectation to show polished case studies begins before students have real project experience.",
-        "Soft skills — communication, managing feedback, advocating for design decisions — matter as much as craft skills on the job."
+        "The piece identifies a design gap between amnesiac single-turn chatbots and autonomous agents that act without human oversight",
+        "Collaborative AI is framed as a third category: systems that maintain context and shared goals while keeping humans in the loop",
+        "The 'Goldilocks trap' refers to the difficulty of calibrating AI autonomy — too little makes it useless, too much makes it unsafe"
       ],
-      "implications": "Useful context for UX hiring managers calibrating expectations for junior candidates, and for early-career designers identifying skill gaps not covered in formal programs. Mentorship and real client exposure matter more than tool proficiency early on.",
+      "implications": "If you're designing AI-assisted tools, consider where on the autonomy spectrum your product sits and whether that matches user expectations. Building for collaboration — persistent context, legible handoffs — is likely more appropriate than either extreme for most enterprise or productivity use cases.",
       "tags": [
-        "Career Development",
-        "UX Education",
-        "Junior Designers"
+        "AI Design",
+        "Human-AI Interaction",
+        "Autonomy"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "Research",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*Kp3Nl_pM4YYHaWU_ZdCaHg.png",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@maitreyeemore.0809/things-i-wish-someone-told-me-before-starting-ux-design-1536a6c5162f?source=rss------ux_research-5",
-      "pubDate": "Mon, 05 Oct 2026 20:15:12 GMT"
+      "image": "https://cdn-images-1.medium.com/max/2600/1*w5tHSwcDKPfyIcJKhKr2Gg.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@johnwmichael/what-is-collaborative-ai-the-missing-link-between-amnesiac-chatbots-and-rogue-autonomous-agents-785fe620d3a9?source=rss------product_design-5",
+      "pubDate": "Tue, 06 Oct 2026 17:52:25 GMT"
     },
     {
-      "headline": "Niche AI Tools Beat Broad Platforms for Solo Founders",
-      "background": "Most AI startup advice pushes founders toward building platforms or horizontal tools, but saturated markets and high user acquisition costs are making that approach increasingly difficult for small teams.",
+      "headline": "Users Trust AI Workflows on More Than Accuracy",
+      "background": "As AI gets embedded in professional workflows, teams often assume that improving model accuracy is the primary lever for user trust. This piece pushes back on that assumption, arguing that trust is a broader design problem.",
       "keyFindings": [
-        "The author argues that targeting a single, specific customer type with a narrow tool reduces competition and improves conversion because the value proposition is immediately legible.",
-        "The microphone purchase example illustrates how even high-information buyers experience decision paralysis — a gap a focused recommendation tool could close.",
-        "Small AI tools with one job can be built and validated in days, lowering the cost of testing product-market fit significantly."
+        "Accuracy alone does not determine whether users trust or act on AI outputs — perceived transparency and control matter independently",
+        "Trust breakdowns often occur at the interface level, not the model level — users distrust how results are presented, not just whether they're correct",
+        "The piece argues for designing explicit trust signals: confidence indicators, audit trails, and clear escalation paths"
       ],
-      "implications": "Relevant for product designers and founders scoping AI tool MVPs — a tighter problem definition reduces both design complexity and user onboarding friction. Resist the temptation to generalize the use case before validating the narrow one.",
+      "implications": "For UX practitioners building AI-assisted tools, invest in communicating uncertainty and process, not just output quality. This is especially relevant in high-stakes domains like healthcare, legal, or finance where users need to be able to justify their decisions.",
       "tags": [
-        "AI tools",
-        "Product Strategy",
-        "Micro-SaaS"
+        "AI Design",
+        "Trust",
+        "Human-AI Interaction"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*HbpFGfrztknB3mWx3Ij8xw.png",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*TOI07__uQvW1XDvmUC4Nlg.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@ayushramawat29/if-i-started-an-ai-business-today-id-build-a-tiny-tool-for-one-type-of-customer-799548589cce?source=rss------product_design-5",
-      "pubDate": "Mon, 05 Oct 2026 19:56:40 GMT"
+      "link": "https://medium.com/@thakkardevanshi25/designing-trust-in-ai-assisted-workflows-bb8d26ae3c23?source=rss------product_design-5",
+      "pubDate": "Tue, 06 Oct 2026 17:16:11 GMT"
     },
     {
-      "headline": "Visual Polish Doesn't Compensate for Broken Flows",
-      "background": "There's persistent pressure in product teams to prioritize visual design quality as a proxy for product quality, often at the expense of interaction design, information architecture, and task completion.",
+      "headline": "Irrelevant Article: Stem Cell Market Report",
+      "background": "This article covers the mesenchymal stem cell media market forecast through 2035, focusing on xeno-free product development trends in the biotech sector.",
       "keyFindings": [
-        "First impressions from visual design create an expectation gap — users become more frustrated when a beautiful interface fails them than a plainly designed one that works.",
-        "The article distinguishes between interface aesthetics and experience quality, arguing they are measured at different points in the user journey.",
-        "Usability failures downstream of a strong visual first impression can damage trust more than a consistently mediocre design."
+        "No relevance to UX, product design, or technology practice",
+        "Appears to be a market statistics report from IndexBox, not a technology or design publication"
       ],
-      "implications": "For product and design teams, this reinforces prioritizing end-to-end task flows and error states alongside visual work — especially before launch. Aesthetic investment without usability investment can actively increase user disappointment.",
+      "implications": "No applicable takeaways for UX, product, or tech practitioners.",
       "tags": [
-        "Usability",
-        "Visual Design",
-        "Trust"
+        "Out of Scope"
       ],
       "featured": false,
-      "type": "opinion",
-      "category": "Product design",
+      "type": "research",
+      "category": "Industry news",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1200/1*hRFa_y2u4kj9pOsmniEpKQ.png",
-      "source": "Product Design on Medium",
-      "link": "https://growithdesign.medium.com/why-beautiful-websites-still-fail-1d027f31f997?source=rss------product_design-5",
-      "pubDate": "Mon, 05 Oct 2026 19:03:51 GMT"
+      "image": null,
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS2l4WlljLWlFUjlIUjZQY3JtZDBxeGV2NFZPa1lXbk03eXNNUVFyaGlxdlNZQU9fZkJzMVZMMWtDbW5jRnpQcWt4Si03bEN2VE5tWENUUVR1dE4tSU8zYmwtR1loV0N2LThCTDJXZ3hOLUo5UEhjdUFGdUxYYl9DNWtJZGNvaWxibUhxRDNVZUI4LWdzdXB3bWUtVUd4d2NFWGJzSXVXMmdXYWZRc1pPSmFPY2NraWZ4UE9VQklrZ1pqdnN1TkptQg?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 17:16:04 GMT"
     },
     {
-      "headline": "Structured 10-Step Checklist for Diagnosing SaaS Churn",
-      "background": "Churn spikes in SaaS products are often investigated reactively and inconsistently, with teams jumping to conclusions about pricing or competition before ruling out onboarding and activation failures.",
+      "headline": "One Toggle That Makes Creation Forms Much Faster",
+      "background": "Long or complex creation forms — for adding products, users, records, or content — are a recurring friction point in B2B and admin interfaces. Most solutions focus on reducing fields, but this piece focuses on a behavioral pattern: users who create multiple similar items in sequence.",
       "keyFindings": [
-        "The checklist prescribes a specific investigation sequence, starting with activation metrics before moving to engagement, then pricing and external factors.",
-        "Investigating in the wrong order wastes time — the article argues most churn originates in early-stage product experience, not cancellation-moment factors.",
-        "The framework is designed for SaaS teams without dedicated data science resources, using metrics likely already available in standard analytics stacks."
+        "The 'carry-over toggle' lets users persist field values from a previous form submission into the next one, reducing repetitive data entry",
+        "The pattern is most valuable when users frequently create multiple similar records in a single session",
+        "The toggle approach is more explicit and controllable than auto-populating fields, avoiding errors from unwanted carryover"
       ],
-      "implications": "Directly applicable for product managers and growth designers dealing with retention problems. Use the sequence as a decision tree before jumping to redesigns or pricing experiments — most churn signals are readable in onboarding and Day 7 retention data first.",
+      "implications": "Consider adding a carry-over or 'duplicate previous entry' mechanism to creation forms in admin, CRM, inventory, or content tools where batch input is common. A simple checkbox or toggle is lower complexity than full templating features and likely covers most use cases.",
       "tags": [
-        "Retention",
-        "SaaS",
-        "Product Analytics"
+        "Form Design",
+        "Admin UI",
+        "Productivity"
       ],
       "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1220/1*YC9rR_Epck-_4Ya7ORdlAw.png",
+      "image": "https://cdn-images-1.medium.com/max/1800/0*mb-GZtwUekV8OJkq.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/@katerina_17253/a-10-step-churn-rate-checklist-for-saas-teams-5eba9b9fca52?source=rss------ux-5",
-      "pubDate": "Mon, 05 Oct 2026 18:38:40 GMT"
+      "link": "https://uxmovement.medium.com/how-to-make-creation-forms-faster-to-fill-out-dcc8087a7ea7?source=rss------ux-5",
+      "pubDate": "Tue, 06 Oct 2026 16:28:42 GMT"
     },
     {
-      "headline": "Big Tech Is Deliberately Making AI Look Cute and Friendly",
-      "background": "As AI assistants proliferate across consumer products, companies are making explicit design choices around personality, visual identity, and tone to reduce user anxiety and drive adoption.",
+      "headline": "AI-Generated UI Content Is Creating 'Zombie' Interface Experiences",
+      "background": "As AI tools get used to populate interfaces with content — product descriptions, placeholder data, summaries — there's a growing pattern of screens that look populated but feel hollow. This piece frames that as 'zombie interfaces': technically complete but experientially dead.",
       "keyFindings": [
-        "Major tech companies are investing in 'approachability design' — using rounded forms, soft color palettes, and friendly voice patterns to lower the perceived threat of AI tools.",
-        "The strategy appears coordinated across competitors, suggesting industry-wide UX consensus that anthropomorphic warmth drives engagement.",
-        "The approach raises questions about whether aesthetic approachability masks capability limitations or manipulates user trust."
+        "Zombie interfaces occur when AI-generated content fills UI space without reflecting genuine user context, intent, or community",
+        "The 'empty neighborhood problem' is an analogy for platforms that look inhabited but lack real social or informational density",
+        "The piece argues AI-filled content can suppress the organic signals designers use to know whether a product is actually working"
       ],
-      "implications": "UX and product teams building AI-facing interfaces should be aware that approachability design is becoming a baseline expectation — but should weigh it against transparency obligations, particularly when AI outputs are uncertain or high-stakes.",
+      "implications": "If you're using AI to generate or scaffold content in early-stage or sparse interfaces, audit whether that content is obscuring real engagement signals. Zombie interfaces can mislead both users and product teams about actual product-market fit.",
       "tags": [
-        "AI Design",
-        "Trust",
-        "Conversational UI"
+        "AI Content",
+        "Product Strategy",
+        "Information Architecture"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1427/1*AQ8lIbwsUYWEeMKujqk-Jg.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@jesusrega/the-empty-neighborhood-problem-0c33ccce6fe5?source=rss------ux-5",
+      "pubDate": "Tue, 06 Oct 2026 15:59:38 GMT"
+    },
+    {
+      "headline": "Irrelevant Article: McDonald's Canada Monopoly Campaign",
+      "background": "This is a marketing and advertising trade press piece about a promotional redesign of the McDonald's Monopoly campaign in Canada.",
+      "keyFindings": [
+        "No relevance to UX, product design, or technology practice",
+        "Covers a brand marketing campaign, not a design or tech topic"
+      ],
+      "implications": "No applicable takeaways for UX, product, or tech practitioners.",
+      "tags": [
+        "Out of Scope"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYkRsV2VEeVpyYkV3RFhwMFJwQWl3NUNTWHNYLV9vb091bHlQRlZhTk5LV0dQTnhIeVlCWVcwMDlpdWwxYldPVnl0YllCai1aZnRUcDB0dlNzeXRMa3lpWm1tUmVmX1c5a1BBai1ma29MbTZfYVhEYWZuV3lBeUZVYnhjRllLU0F5?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 18:12:09 GMT"
+      "source": "Roastbrief US",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3dsU3Vpbk9IRGNtdi1BTjlLZDRJZGNwU3ZiMTJEc2M4TllBOXRfWjI4ZDQ5aWp3UzJ6dEhoWE1wTjNkVGtCODZ2N0JlSE1VYXM2b051dnZNeWJMbXlfcE51aF91MVZtel9VVjZGaTJJckZONFdQMmd2VkZTWXlDbGJhZ1FLMUQ2S0ZKbVJwNnVVZUFlczE5TVZwUzZZdlRqVWZLQkhEbUNxbWM0M1FrN3hidkY?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 14:30:15 GMT"
     },
     {
-      "headline": "Human Primary Cell Culture Market Report — Not Relevant Here",
-      "background": "This is a biotech market research report covering cell therapy and toxicology sectors through 2035. It has no connection to UX, product design, or technology practice.",
+      "headline": "Facebook Tests Video-First Layout in India as Reels Dominate",
+      "background": "Meta has been restructuring Facebook's feed toward video content globally, but India — one of its largest and fastest-growing markets — is being used as a testing ground for a more aggressive video-first layout with Reels taking visual priority.",
       "keyFindings": [
-        "Report covers commercial projections for human primary cell culture products to 2035.",
-        "Growth drivers cited are cell therapy demand and predictive toxicology applications."
+        "Facebook is testing a redesigned UI in India where Reels occupy the primary screen real estate, pushing text and photo posts lower",
+        "The shift reflects internal data suggesting video consumption is the dominant behavior on the platform in that market",
+        "This is a regional A/B test, not a global rollout — India's mobile-first, video-heavy usage patterns make it a proxy market for future decisions"
       ],
-      "implications": "Not applicable to UX, product, or tech practice. Likely included in feed due to a tagging or categorization error.",
+      "implications": "For product and UX teams working on social or content platforms, this signals that video-first layout hierarchies are becoming the default expectation in mobile-heavy markets. If your product operates in similar contexts, assess whether your current IA still matches user behavior.",
       "tags": [
-        "Off-Topic",
-        "Biotech",
-        "Market Research"
+        "Mobile UX",
+        "Content Strategy",
+        "Social Platforms"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZEpOWTZiQ2hCMkhSdG5tcUlVVlRXZUUtVU9Bams0OG9NTEFXT2JiclR1S01VbElSR3UyY1FtOXQ1WkRLVU1mSENyOWNaYVU3cy1YWTc0X1dvUmJZZzktWk5TbkZkWUFKRVNhMUVHMTFoNXRWQ0JDejJEY2ZwU0wzS0xYdmNYYktsdm93T2lFV2FYSXdjZnFSUENmZjVTeVg3VXp0VjJUcUhjOEp4V1NSbDlhUDJRT0ktQVhYN0N6dE1kbVA0WktSaGR3c1ktN3BiUnA2QnJSVFNLNlh4Y1RoTWtHSDdmaDh2bnZFaw?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 14:56:04 GMT"
+      "source": "Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMkxFNFpFek1DS09VdE1wVS1rQ0RVOFo4VGtDMVVYeGtTLU9yYlppX2o5ZHZ2TFVJdW9qU3VtRXBJQTRMWlVOampPMzEtd0hxNlVoVGp4VXJVZjNMVjh5eHZxZEFnb0hiSWFsbERMcHp6TjJSVkdOa0tMb0RYczdZNHFxYlpKb3RXU2RESEZtNGxmUWpCQklZYmFTYkN4LWt0NUlLOGp1ZVRaTmRGT251Y05HNFlWNkJKM216RlNtQdIBxAFBVV95cUxQeV9wRzROaGhBUjNIcy1pQWREMERRelhNNGVESXFjMmhKLTFsZ1EySUFCMExqaC16eE05V1lqYm5xVng2TVVWaUd1aTBFSWhwc3JCLVpycnUzN0xNcUg1dEx1cWlTQnlMdWhrcnBXVDBwSERQQU5NcWhkc3FSSE5IblJySXI0d2g0Vm9CbVZqbmIzcnRvMEpDSFBWYUI2OGJMbG9VTlllU0VYM2pJcDJTUlJPS1Z3QXFoSDUtUWFUSUUybmJ4?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 14:02:23 GMT"
     },
     {
-      "headline": "UX Graduate Profile: Christine Montalbano, CCS 2022",
-      "background": "College for Creative Studies periodically profiles alumni to showcase career paths from their UX Design program. These pieces are primarily institutional marketing content.",
+      "headline": "Irrelevant Article: Fzeetechz Software Solutions Press Release",
+      "background": "This is a vendor press release from Issuewire promoting digital transformation services offered by Fzeetechz.",
       "keyFindings": [
-        "Christine Montalbano graduated from CCS's User Experience Design program in 2022.",
-        "No substantive project detail, methodology, or career outcome data is present in the available snippet."
+        "No editorial content, research, or findings relevant to UX or product practice",
+        "Promotional press release with no substantive technical or design claims"
       ],
-      "implications": "Not substantively useful as a reference resource without access to the full profile. May be of interest to prospective CCS students researching program outcomes.",
+      "implications": "No applicable takeaways for UX, product, or tech practitioners.",
       "tags": [
-        "UX Education",
-        "Alumni",
-        "Career Development"
+        "Out of Scope"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "College for Creative Studies",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVS3RKdlhYS2VCOE1QZWprOE5oSDMyODlqaEswZ2xDUmpDMHp2WG9rY05yN2lqc2p3TnhrUk5yOVZaQmoxUml0X1NkLVBEM2RVcnItRFgwRlpRT0YwbGwxVHBFNC1OTGo2M0U2a1NqVTlfdmdIRnpkSXZiQTVKOUU?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 14:50:29 GMT"
+      "source": "Issuewire.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFNwWVo1OW13eTNRZjZmVkZrSWZxZFNyQ1VHSE5OWmZ3bjZDenhNXy05M0Z2ME1zUWtzcHI5TEJTb0hLTVh2R0p6bEpzQjl0dEhNdy1Zek5sSFloc0dxSzZpTVJoelMwWWNvVUdOSi1WMnJXRFg1M0toYUJjemtVTzBXcWRaUDJIVnU4bDl5MDNjRml2dGVkTU81SDR0ZlJqVnE3WDdRd3BSdDExX2N1b28wbGt1Zw?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 13:56:31 GMT"
     },
     {
-      "headline": "Cell Culture Matrices Market Report — Not Relevant Here",
-      "background": "This is a biotech market research report on cell culture matrices in regenerative medicine and bioproduction contexts. It has no connection to UX, product, or tech.",
+      "headline": "Irrelevant Article: Mobile Furniture Design Feature",
+      "background": "This is a Core77 product design feature covering a physical furniture piece with mobile and modular properties.",
       "keyFindings": [
-        "Report projects growth in the cell culture matrices market to 2035.",
-        "Key drivers listed are 3D bioproduction and regenerative medicine expansion."
+        "Covers industrial/product design, not UX or digital product work",
+        "No direct relevance to UX, software product, or technology practice"
       ],
-      "implications": "Not applicable to UX, product, or tech practice. Likely a feed ingestion error.",
+      "implications": "No applicable takeaways for UX, product, or tech practitioners.",
       "tags": [
-        "Off-Topic",
-        "Biotech",
-        "Market Research"
+        "Out of Scope"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNUxwWHhTRDdua21EOGFzeTZ4M3gybF9sa2k3dTZxbVB3YVFmRjdiYVVDek5vbkZTRWh6b3lnM2hLM3M3eC1pX1BMLUxqX0FVNFVRQlJEYTBvR2J5Qlo0RUxfQlQyQVFkVTk2VWlFUjZyV0hCYlh3M2MydHV3VW11SHUzTWlwLW02V2JUeEszY1U3dlptdlRuTUZsX1ZpYXAzeHBMMk93b3ozQnlGZno3RmIyWkJHSVZjemFGUUZSTmtMSldMeG40MjhTdnVxZ1NEV3lPMW5XcUc?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 14:21:04 GMT"
+      "source": "Core77",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR3FVSTZ0TVhBREY0TUNtTWFmQWt4LVZBbVRwVm9BckxYeEVpUi1qOGtqOXk3UzdBRjZDa3lDWXFMWFZtaEhKbUxxX3ZISjZsaWQ3NzVDNlp0akpfc3VHLWpFa2FfSmZhVDJkT3ctRzI3Y1dQSmlnQjNBSENPMmd4Q3VXSDlXcFZkUW5KQVdTNTNWOEVqWG5GRzk1UHdNZ1J6SlY2VXdwODBlUDFaZk5leVNnSkY1VmJYTTFGMDZDZHI?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 13:06:04 GMT"
     },
     {
-      "headline": "Cytometry Systems Market Forecast Report — Not Relevant Here",
-      "background": "This is a life sciences market forecast covering high-throughput cytometry systems for cell therapy potency testing. It has no connection to UX, product design, or technology practice.",
+      "headline": "Irrelevant Article: Bank of Cyprus Finance Award",
+      "background": "This is a financial news item reporting that Bank of Cyprus received awards at the 2026 Global Finance ceremony.",
       "keyFindings": [
-        "Report covers high-throughput cytometry system market projections to 2035.",
-        "Demand driver is cell therapy potency testing in clinical and commercial settings."
+        "No relevance to UX, product design, or technology practice",
+        "Finance industry press coverage with no design or tech content"
       ],
-      "implications": "Not applicable to UX, product, or tech practice. Likely a feed ingestion error.",
+      "implications": "No applicable takeaways for UX, product, or tech practitioners.",
       "tags": [
-        "Off-Topic",
-        "Biotech",
-        "Market Research"
+        "Out of Scope"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPanRNaGM5amVPZUxCTWNZU0p3N0RaZFVVX3h2ZFhiY0hjZTlabVFmeTZob1RXWFhOUFdPcGxsM0pKZWY1VFFIazRUcUNKQkNhWnBEMzdfalhIZFp1Z3VibEVheHkxbVd6aEVKS3p5ck80aXEyVC1INWJ6bVprdUxzNm5vWHVZb012eEZBMi1aNVM4al9RR1BJNXotUU5FMVBRUmZlczdnQ0JNUHFYZTlRMnZaM0ZsUFFIQmZYOE84U2NLOXJnc3dsSTRHWEZFeW1RazA1UUhLdw?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 13:51:04 GMT"
-    },
-    {
-      "headline": "Alloy Acquires Dragon Army, Consolidating Atlanta's Digital Agency Market",
-      "background": "Agency consolidation is accelerating as digital product studios face margin pressure and client demand for broader integrated capabilities — particularly in markets outside the major coastal tech hubs.",
-      "keyFindings": [
-        "Alloy has acquired Dragon Army, merging two of Atlanta's largest digital design and product agencies into a single entity.",
-        "The deal consolidates significant regional talent and client relationships, potentially reshaping the competitive landscape for digital work in the Southeast U.S.",
-        "No financial terms were disclosed in the announcement."
-      ],
-      "implications": "Relevant for UX and product professionals in the Atlanta market tracking employment and client options. Larger merged agencies can offer broader service lines but often create cultural integration challenges that affect design team quality and autonomy.",
-      "tags": [
-        "Agency",
-        "Industry Consolidation",
-        "Digital Studios"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM1ZId0ZHYWVaendNU2RXWWNrVUlYdjlGN2JlZk9SVVBJQ2xDeFNVVGtYT0dUVDhlc2NPWW9tc2pRdi16ZmZIYXdWcV9jYUluWnVjRFJ2aldUbEhtVkp1aFVhbUw0MTJ3R1owT0Z1dUh5ZEZyMXBBU21icTBIODkxMlhYbXZRQnJxUWVLOGFvUXBrU3hXWkhhcmFuYktNZWlEZVRLYVM1MFp6TlBUclB2bDV3ZFdYMUh5Um5lb3d6LWJfS204b21jWU9YcURvRk9uUXpiNHFpNVlIRlZKTmRSYURSOA?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 13:00:00 GMT"
+      "source": "CBN.com.cy",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaVJmZUVTODNCSjlmV3R6Nk1oazhPYlY0Z0N2NXlEdFlXQ2VXdDRTYmdvM2tvY2R3UDVNSTdRMmwzeHd2YzE0QWM3YVU2Wmw2cUZxQmtsekdpUHM3eHN6bXdpRXJWTVVtLWxSOHFJdkxJU085bGNVZVFrbktYcTV5RHhJRFJoQkZTQkx3?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 12:11:15 GMT"
     }
   ]
 }
