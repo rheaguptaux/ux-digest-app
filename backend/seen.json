@@ -1,12 +1,4 @@
 [
-  "https://medium.com/@TeddyGraphics_34506/the-future-of-self-service-kiosks-and-unattended-payment-is-a-sense-of-control-problem-d2388d578295?source=rss------product_design-5",
-  "https://medium.com/@sivakowsik/ai-can-accelerate-every-stage-of-design-it-cannot-own-the-handoffs-09a31deecb1b?source=rss------product_design-5",
-  "https://medium.com/@andreifeldi/consumerism-is-also-a-ux-problem-1ba7480096bb?source=rss------product_design-5",
-  "https://medium.com/@x16aniruddha/the-most-expensive-part-in-your-product-is-the-one-you-never-designed-fe2ee228e449?source=rss------product_design-5",
-  "https://waffledesigns.medium.com/paretos-principle-the-80-20-rule-why-most-of-what-you-build-gets-ignored-ccc6338bebc8?source=rss------ux-5",
-  "https://waffledesigns.medium.com/paretos-principle-the-80-20-rule-why-most-of-what-you-build-gets-ignored-ccc6338bebc8?source=rss------product_design-5",
-  "https://medium.com/@uxaudittool/website-ux-audit-the-complete-guide-to-better-user-experience-71eac517cbe8?source=rss------ux-5",
-  "https://medium.com/@subintheuxdesigner/build-interfaces-optimistically-5c6d8c76bea9?source=rss------product_design-5",
   "https://medium.com/@kthilini1999/a-box-of-bananas-changed-the-way-i-think-about-ux-d6df002a9f39?source=rss------ux-5",
   "https://medium.com/@kthilini1999/a-box-of-bananas-changed-the-way-i-think-about-ux-d6df002a9f39?source=rss------ux_research-5",
   "https://medium.com/@kthilini1999/a-box-of-bananas-changed-the-way-i-think-about-ux-d6df002a9f39?source=rss------product_design-5",
@@ -796,5 +788,15 @@
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOFRhWUtaTGpPUHRJb1NwQ1otT3c2Wk4zUTNOSWxEbWhuZHZjZW9MTGRDWm5jR0RWT2hGM1NDa2xSR084bXMyUnU0YWFYZkRONnQ3YXIxSmFRNTRVUGtfM2NJdjd4VDRuYldRUEEwUUhUYXY0TmpXMjY1ZDNIWThtRE5sbUlzYkhlVm1SaXUtZFNGWjZCRG5zOEdoZWFHN3c?oc=5",
   "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS2lTOWxaX21fLTBya1B6MGNDbDV4RlhtR092R1lOSnlsUGc3TmJrSDU1VkZyeG4xTV81WHloVHR6SjZHc0RENEV2YjVNS092WXNkeWhpLTFiYUI1eWhpZmtFZUtRcHJjcEN1SDh1anBxcHFDZS1HRXRfR2p0dUVQZndyWFcycXNGQ0FMWVJ6UzloOE11QW13YUJ0Z3BWOGUzVEpZWldMNTJ5dERCa0VHc0o4RGVGb3RJY25DTmEweG93RmdvZ2c?oc=5",
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWmZfSXlfTWxncTlscndHaURCSkFydHJtSU5YQkdmTlhLR1RFU2JNOHVtZDhiLWU0bnNyM29GeTYwZVBvNG5UTUtJdmo3MHRkVk8tTzFQMndHN1MyQm0wRXNoc2FvSjNPaEIwak0zbm1wOFNmQm5vYjkzRk1GQzhFcHN6Z3pYWjR6Nms4d3psRQ?oc=5",
-  "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hU3FVZzdkX0V5NHlyWEtYQ3NmZDVvZTYwaHA2Rzl4aV9VRGFxSjRXbEJTWDEtX0pscEZFTjhNWGFiNHZVQm5lYVdGZXA5Y1hkU0d6bThqUWtiTC0yZ0ZpWkcxT2l0V1BYX3pvdHBxek8?oc=5"
+  "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hU3FVZzdkX0V5NHlyWEtYQ3NmZDVvZTYwaHA2Rzl4aV9VRGFxSjRXbEJTWDEtX0pscEZFTjhNWGFiNHZVQm5lYVdGZXA5Y1hkU0d6bThqUWtiTC0yZ0ZpWkcxT2l0V1BYX3pvdHBxek8?oc=5",
+  "https://medium.com/@vishalwagh-designer/beyond-the-interface-how-i-think-about-ui-and-ux-in-greenaura-f879c52aa72e?source=rss------product_design-5",
+  "https://techblog.evolve.com/what-weve-learned-from-six-hackathons-at-evolve-4ae80816400c?source=rss------product_design-5",
+  "https://medium.com/@malachiemaynard/beastlog-005-more-than-chocolate-finding-the-feastables-identity-2976ef0de551?source=rss------product_design-5",
+  "https://medium.com/@quitehandy/the-evolution-of-ai-visual-creation-why-zpimage-is-a-game-changer-for-digital-creators-ecd732a2f052?source=rss------product_design-5",
+  "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVnJWaXpMS2tmRFR0dkRmb0Fac3E0aWhFTUZ6ZlNvaFJQMTNWTHdqYWk5czNuTTNXbmdaLXpnNHVmQ2dEaTBCUjNUdkYxSl9CXzBKX2tfSjBVczlseGt2d0s0SnV0OVpGM3ZjYnBuMndha3VlanE3NXBpQ2hxWWhCaQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSUlpSkl0UXhLQ2FJalJYbmNLa2JCZXFPWVI1bEJCWlcxZmtNRHVKSkFkeG91eWFrcE1YOFh2VFZJbVNKbzFBOWRCTW8xeGZ6OFVDaGF3anpWRjFvVk52Rkw3NlhMLTIzZ0c5LXpFQzY1bW1TT2RnZGZOa3RtUndTQnV4N1Fnczg2R1k5Skk5SFUyMGttdE1tSzFTNDVCbjU3QUMwNlU0d3N4UkJRUkFobUc0ODBVQ0VObEl6d3RmSXpfaUd3R1lWYzhwTQ?oc=5",
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU01IbGpuM2RBSkdiVW1PTDZGZkRDVmZtdDVsSV9MQzVaUUZ0N2hjWDFFNkxHZjFhMi1FQjV0WXJ0WVJYSVZmZ29yZWZVd09hRlI3NWFnNXZpUkEyZHlIMVdNTWJyZk9EQ2Z3d1l2QVRKckp3Y3B1cXQ5UkQyMzRZMWYxTUlTTWZvbGxCWHR1SllsVVgtcE9FUTV3MXg?oc=5",
+  "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNWNhNTZJdThRQ18yYjc1R0xwalB3MUF5UExoVDBJbkFiV2ZRcnJRY0VFcTdVYXQ4SklyNWpPcUQyQzR3MnB0SG1nbEVxTHpadF80eW9GZ3lMa3hwLTVEeE9PUVRMVHNGdV9pMXl6WGdweGlDSmVZU2hiWEZDcVJ0X284cmdtenVEMzAyRkRqSUhfejBIQnFGajJSc2xoQ1ZIaWNoQTBBbVgtWVVVYTZnWE14c3hiWmpFTEVVclhqbUpCU18xSXRraEI1b0phVU5YY1NWSDk2TkF0RERRRklPdmFnTC1aUG50aVJXeA?oc=5",
+  "https://news.google.com/rss/articles/CBMijgJBVV95cUxOQUVseUlHcGN3aXdqeFB0Z0hFYVBxNEs4Z213UlVPVEViYndVQ3QzcXhOWUhIMkx2TmM1dG5ONDdjcG1jYXFxYnVZeFdiLWFxN1daYUVFT3ppNzFaa2pmSHplcFNZS3FQUnBfem44Q2gyaUg4RC1hOElCQlFkd0JlbmtsMENpSTFLbDBvVFhqQUJNdS1tUlNYYW9zVTB6ak5YWFF0NHNmTEYwdF95ZjVNSFM3Xy1tOThraDVsdWRZN1ZLTWc2V2MtUnp3U1FwOEJGR1ljMmZIVGFYLVF4ZVFJbXhDM0h5Njlhd3JTazdwcUNvbXJBTmZwSFRUdF9pSmpaRmxvcW10d0xSUTIzbnfSAY4CQVVfeXFMTkFFbHlJR3Bjd2l3anhQdGdIRWFQcTRLOGdtd1JVT1RFYmJ3VUN0M3F4TllISDJMdk5jNXRuTjQ3Y3BtY2FxcWJ1WXhXYi1hcTdXWmFFRU96aTcxWmtqZkh6ZXBTWUtxUFJwX3puOENoMmlIOEQtYThJQkJRZHdCZW5rbDBDaUkxS2wwb1RYakFCTXUtbVJTWGFvc1UwempOWFhRdDRzZkxGMHRfeWY1TUhTN18tbTk4a2g1bHVkWTdWS01nNldjLVJ6d1NRcDhCRkdZYzJmSFRhWC1ReGVRSW14QzNIeTY5YXdyU2s3cHFDb21yQU5mcEhUVHRfaUpqWkZsb3FtdHdMUlEyM253?oc=5",
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSE92djVvMUhUSGxNb0lnNk5NOENvNWladzRxZ0hMNHhBX2NsTjZNY2YxUmhFRTZiQmNfOEdwWF9qbGdOaTZLd2ZZenNZNXRFeEJ2ZnZjMUo1SnRLOXVQX1RHSk13d0M5UmlueGlyTVBWSHlfTzlkRmFJVFZZVkFwR2xIZl85T2JSME5fZWlCLUFUUmtjU1FKOTNYWmZqSXdJNTJYNGNtVndQVTRRaml4aw?oc=5"
 ]
