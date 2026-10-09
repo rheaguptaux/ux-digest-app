@@ -1,130 +1,172 @@
 {
-  "generatedAt": "2026-10-08T18:31:19.951Z",
+  "generatedAt": "2026-10-09T18:02:54.481Z",
   "items": [
     {
-      "headline": "GreenAura's UI/UX structure, explained by its designer",
-      "background": "Personal design case studies on Medium vary widely in depth; this one claims to go beyond surface aesthetics to explain the structural thinking behind a sustainability-focused app called GreenAura.",
+      "headline": "Figma mockups aren't products — here's the gap",
+      "background": "Designers frequently face the disconnect between polished static mockups that win stakeholder approval and the messier reality of how those designs actually perform in implementation. This piece addresses the false confidence that high-fidelity prototypes can create.",
       "keyFindings": [
-        "Author distinguishes between UI decisions (visual layer) and UX decisions (flow and structure) as separate concerns in the build",
-        "GreenAura's interface is structured around reducing friction for eco-conscious task completion",
-        "Design choices are tied to a stated brand purpose rather than generic best practices"
+        "Static mockups can't surface edge cases like empty states, error flows, or responsive breakpoints",
+        "Stakeholder sign-off on a Figma file does not equate to validated product decisions",
+        "The gap between design intent and built output often isn't caught until user-facing problems emerge"
       ],
-      "implications": "Useful as a lightweight case study reference for junior designers thinking through how to articulate UI vs. UX rationale, but verify claims independently — Medium self-published case studies lack peer review and may omit failure states or iteration history.",
+      "implications": "Designers should pressure-test mockups against real content, real constraints, and real user flows before treating them as done. Push for prototype testing or staging reviews as a formal step, not an afterthought.",
       "tags": [
-        "Case Study",
-        "App Design",
-        "Sustainability"
+        "Design handoff",
+        "Prototyping",
+        "Stakeholder management"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*Txf-Z3aMrQrC1jhLaQb_Tw.png",
+      "image": null,
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@vishalwagh-designer/beyond-the-interface-how-i-think-about-ui-and-ux-in-greenaura-f879c52aa72e?source=rss------product_design-5",
-      "pubDate": "Thu, 08 Oct 2026 18:11:54 GMT"
+      "link": "https://medium.com/@monn.designer12/looks-great-in-figma-now-what-d01631ca4665?source=rss------product_design-5",
+      "pubDate": "Fri, 09 Oct 2026 17:46:26 GMT"
     },
     {
-      "headline": "Six hackathons in: what Evolve actually learned",
-      "background": "Hackathons are a common but inconsistently executed team practice; Evolve Tech shares operational lessons from running them twice yearly over three years, which is a long enough track record to surface real patterns.",
+      "headline": "Nigerian family funds 831 student scholarships worth ₦100m",
+      "background": "Scholarship announcements from private families in Nigeria are occasionally covered as philanthropic news but carry limited relevance to UX or product practice.",
       "keyFindings": [
-        "Biannual cadence with full calendar clearing was essential to avoiding half-engagement from participants",
-        "Teams learned that scoping problems tightly before the event — not during — determined whether outputs were usable afterward",
-        "Some hackathon outputs shipped into production, though the piece notes this wasn't the primary success metric"
+        "The Abiodun family awarded over ₦100 million in scholarships",
+        "831 indigent students received funding"
       ],
-      "implications": "Product and engineering leads considering internal hackathons should note Evolve's emphasis on pre-event problem framing — open-ended prompts correlated with lower output quality. Applicable to teams of most sizes but most relevant to product orgs with 10–50 engineers.",
+      "implications": "No direct relevance to UX, product, or tech practice. Not applicable to this digest's audience.",
       "tags": [
-        "Team Processes",
-        "Product Development",
-        "Innovation"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2022/1*_JUygd8vFA-3CjqF_qoWzw.png",
-      "source": "Product Design on Medium",
-      "link": "https://techblog.evolve.com/what-weve-learned-from-six-hackathons-at-evolve-4ae80816400c?source=rss------product_design-5",
-      "pubDate": "Thu, 08 Oct 2026 18:06:51 GMT"
-    },
-    {
-      "headline": "Feastables brand design as a product strategy case study",
-      "background": "MrBeast's Feastables chocolate brand competes in a crowded CPG market using creator-economy leverage, and this piece uses it as a lens to examine how brand identity, product design, and purpose intersect in a digitally native consumer brand.",
-      "keyFindings": [
-        "Feastables' visual identity was designed to signal disruption of legacy candy brands rather than to fit category conventions",
-        "The brand's advertising strategy relies on MrBeast's existing audience trust rather than traditional retail shelf presence",
-        "Author argues purpose-driven framing — positioning around 'better ingredients' — functions as competitive differentiation, not just marketing"
-      ],
-      "implications": "Relevant for product and brand designers working on consumer-facing products in saturated categories — the case illustrates how identity design can function as a market positioning tool, though the model depends heavily on pre-existing creator distribution that most brands won't have.",
-      "tags": [
-        "Brand Design",
-        "Product Strategy",
-        "Consumer Products"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1520/1*VVHb-s_bM3PsbkS2qU1brw.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@malachiemaynard/beastlog-005-more-than-chocolate-finding-the-feastables-identity-2976ef0de551?source=rss------product_design-5",
-      "pubDate": "Thu, 08 Oct 2026 18:01:02 GMT"
-    },
-    {
-      "headline": "ZPImage review: AI image tool pitched at marketers",
-      "background": "The AI image generation space is crowded with tools like Midjourney, DALL-E, and Adobe Firefly; this piece promotes ZPImage as a differentiated option for digital marketing and social media content workflows.",
-      "keyFindings": [
-        "ZPImage is positioned around speed-to-publish for marketing teams rather than creative exploration or fine art generation",
-        "The article does not provide independent benchmark comparisons against competing tools",
-        "Claims of 'game-changer' status are not supported by user data, third-party testing, or case studies in the snippet"
-      ],
-      "implications": "Treat this as vendor-adjacent promotional content rather than an objective tool review. Before adopting any AI image tool for production workflows, require side-by-side output comparisons on your actual use cases and check licensing terms for commercial use.",
-      "tags": [
-        "AI Tools",
-        "Content Creation",
-        "Digital Marketing"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1408/1*wC2i6VRvT4SJCCdUvoq1Fw.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@quitehandy/the-evolution-of-ai-visual-creation-why-zpimage-is-a-game-changer-for-digital-creators-ecd732a2f052?source=rss------product_design-5",
-      "pubDate": "Thu, 08 Oct 2026 17:36:56 GMT"
-    },
-    {
-      "headline": "Career paths for mass communication graduates in Nigeria",
-      "background": "This is a career guidance listicle from Zikoko targeting Nigerian graduates with mass communication degrees. It has no direct relevance to UX, product, or technology practice.",
-      "keyFindings": [
-        "Content is career advice scoped to a specific regional and disciplinary audience",
-        "No UX, product design, or technology findings present",
-        "Not applicable to this digest's subject matter"
-      ],
-      "implications": "No actionable implications for UX, product, or tech practitioners. Not relevant to this digest's audience.",
-      "tags": [
-        "Off-topic"
+        "Philanthropy",
+        "Education"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Zikoko!",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVnJWaXpMS2tmRFR0dkRmb0Fac3E0aWhFTUZ6ZlNvaFJQMTNWTHdqYWk5czNuTTNXbmdaLXpnNHVmQ2dEaTBCUjNUdkYxSl9CXzBKX2tfSjBVczlseGt2d0s0SnV0OVpGM3ZjYnBuMndha3VlanE3NXBpQ2hxWWhCaQ?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 16:37:16 GMT"
+      "source": "The Gazelle News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWUZIcEtITGMwSjloeWxHREl4YVdBZk9xTndYVGxCajczWGo0S09reEZncHFZQ0pFWWgyOXkwcXIwVVNFeW5hejA3ODVHbmhQV0dRVlFBUWtWY2lvVWtlVlE3YnFxYlZGRzVKSHQxcFQ5ZXhLZS1CS18zMnJLMEFRaXo0ZWU5TFJrS01UdWdYcmhXQmNRQldnVUV0VmozYUlua3JuUEdHYm5ObG1ySE5B?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 17:45:05 GMT"
     },
     {
-      "headline": "Hematopoietic colony assays market report to 2035",
-      "background": "This is a biotech market sizing report focused on cell therapy quality control. It has no relevance to UX, product design, or technology practice.",
+      "headline": "How 8 running shoe giants evolved their visual identity",
+      "background": "Brand identity in the sportswear category is highly competitive and historically documented, making it a useful reference for designers studying long-term logo and visual system evolution across a single vertical.",
       "keyFindings": [
-        "Content covers a life sciences instrumentation market segment",
-        "No UX, product, or technology findings present",
-        "Not applicable to this digest's subject matter"
+        "Covers Nike, Adidas, PUMA, ASICS, New Balance, Brooks, HOKA, and On — spanning decades of logo iteration",
+        "Documents the designers and decisions behind major rebrands, not just the visual outcomes",
+        "HOKA and On represent newer entrants whose identities were built in the era of digital-first brand exposure"
       ],
-      "implications": "No actionable implications for UX, product, or tech practitioners. Not relevant to this digest's audience.",
+      "implications": "Useful reference for brand designers studying how visual identity systems scale and evolve over time, particularly how legacy marks get simplified for digital contexts. Less directly actionable for product UX work.",
       "tags": [
-        "Off-topic"
+        "Brand identity",
+        "Logo design",
+        "Visual systems"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*_QKlJfNYBAZYkpp1I_fk8Q.jpeg",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@jkbclr/8-famous-running-shoe-brands-logo-and-design-evolution-c58c6bacf9ab?source=rss------product_design-5",
+      "pubDate": "Fri, 09 Oct 2026 17:43:45 GMT"
+    },
+    {
+      "headline": "Your personal AI context layer is becoming a sellable asset",
+      "background": "As AI agents increasingly rely on stored personal context — preferences, habits, history — to function effectively, a structural question is emerging: who owns and monetizes that context, and what happens when it gets commoditized by platforms.",
+      "keyFindings": [
+        "Personal context (the data that makes AI agents useful to a specific individual) is increasingly controlled by platform vendors, not users",
+        "Commodification risk means the same context that differentiates your AI experience today could become a generic, resold data layer tomorrow",
+        "The 'second brain' value proposition depends on context remaining personal and exclusive — both of which are threatened by platform economics"
+      ],
+      "implications": "Product teams building AI-assisted tools should think carefully about data portability and user ownership of context as trust and retention factors, not just compliance checkboxes. Users who are sophisticated about this will increasingly ask who holds their context.",
+      "tags": [
+        "AI agents",
+        "Data ownership",
+        "Personal AI"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*vy0g2Erp2Bl92wWKq0wo_g.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@candice.legeay/will-your-second-brain-become-a-commodity-2ba4f9001ccf?source=rss------ux-5",
+      "pubDate": "Fri, 09 Oct 2026 17:34:03 GMT"
+    },
+    {
+      "headline": "Generative UI shifts governance — it doesn't eliminate it",
+      "background": "As generative UI systems begin producing interface components dynamically, organizations face a gap in their existing governance frameworks, which were designed around human-authored screens reviewed at defined checkpoints. This piece argues that the governance problem doesn't go away — it transforms.",
+      "keyFindings": [
+        "When UI is generated rather than authored, the human certification point shifts from 'did we approve this screen' to 'did we approve the rules that generated this screen'",
+        "Generative systems need embedded authority to refuse outputs that violate policy or accessibility standards — not just human review after the fact",
+        "Enterprise governance frameworks built around static design artifacts are structurally unfit for generative UI pipelines"
+      ],
+      "implications": "UX leads and enterprise architects working with generative UI need to redefine what governance means at the system prompt and model constraint level, not just the output review level. This is especially critical in regulated industries where screen content carries legal or compliance weight.",
+      "tags": [
+        "Generative UI",
+        "Design governance",
+        "Enterprise UX"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1440/1*9jRgCY-_ZI76gGSb6Zy2ow.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/enterprise-experience-architecture/nobody-reviewed-the-screen-the-screen-was-still-governed-e37d59b397f4?source=rss------product_design-5",
+      "pubDate": "Fri, 09 Oct 2026 17:29:27 GMT"
+    },
+    {
+      "headline": "482 curated blog posts for learning design",
+      "background": "Design learning resources are fragmented across hundreds of blogs and newsletters, making curation a recurring need for practitioners trying to build or recommend structured reading.",
+      "keyFindings": [
+        "HackerNoon compiled 482 blog posts spanning design topics into a single reference list",
+        "No information available on how posts were selected, weighted by quality, or organized by topic or skill level"
+      ],
+      "implications": "May be useful as a bulk reference, but without editorial criteria or difficulty tiering, it functions more as a link dump than a structured curriculum. Verify quality before recommending to junior designers.",
+      "tags": [
+        "Design education",
+        "Resources"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hUTRZVC12U3ZlWFNqNWVEOERFY3MzTVROX3g3czhraHQwaHJmVk9yMFNRWWdOeklVZUxoTVZzaUlhVFhOaEY1a3FwdlYxYTdIaFdHWXNKY1hFY0xaeEZVSWpjZVVnOG84T2hF?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 14:19:48 GMT"
+    },
+    {
+      "headline": "Production budgeting tools are stuck in the past, Lineo argues",
+      "background": "The advertising and content production industry has largely continued to use budget structures and estimation methods developed before digital-native production workflows, streaming delivery, and AI-assisted production became standard.",
+      "keyFindings": [
+        "Lineo is challenging producers to update budgeting models that haven't structurally changed since the early 2000s",
+        "The argument implies current budgets systematically misallocate resources given how production pipelines have changed"
+      ],
+      "implications": "Limited direct applicability to UX/product work, but relevant to teams managing creative production budgets or building tools for production workflows. Worth noting if your product touches budget estimation or project scoping in creative industries.",
+      "tags": [
+        "Production budgeting",
+        "Creative ops"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "LBB - Little Black Book",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mWm1CclJkNW02a09nOGt5eDV0X1VOSTVmTVl1bUVYWUJrU3lVZTBlQ2NZN3BGYnM0ODRoa3BvTzVqdFhJRFF6dzRhdVVuTXVhUWtrcF85NDZyWEM0Nl9pMGM3Umd0Mjl1amc3X0NVckN1QTZnOGZRS3dB?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 14:18:40 GMT"
+    },
+    {
+      "headline": "Single-cell genomics market accelerating toward 2035",
+      "background": "Single-cell multiome assays combine multiple types of genomic data from individual cells and are increasingly used in pharmaceutical drug discovery pipelines.",
+      "keyFindings": [
+        "Market demand for single-cell multiome assays is accelerating through 2035 according to IndexBox projections",
+        "Growth is driven by integrated genomics use in drug discovery"
+      ],
+      "implications": "No relevance to UX, product design, or tech practice covered by this digest.",
+      "tags": [
+        "Biotech",
+        "Market research"
       ],
       "featured": false,
       "type": "research",
@@ -132,100 +174,51 @@
       "publishedWindow": "today",
       "image": null,
       "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSUlpSkl0UXhLQ2FJalJYbmNLa2JCZXFPWVI1bEJCWlcxZmtNRHVKSkFkeG91eWFrcE1YOFh2VFZJbVNKbzFBOWRCTW8xeGZ6OFVDaGF3anpWRjFvVk52Rkw3NlhMLTIzZ0c5LXpFQzY1bW1TT2RnZGZOa3RtUndTQnV4N1Fnczg2R1k5Skk5SFUyMGttdE1tSzFTNDVCbjU3QUMwNlU0d3N4UkJRUkFobUc0ODBVQ0VObEl6d3RmSXpfaUd3R1lWYzhwTQ?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 14:56:04 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTGVOUWVOWjNFMC14ckY5a3d5VkFNbjFSbHRlMDVPc1hvUmlpeWp4UW9GNnFkbnJuMGRid19BV0RkQW42VkJGaTJNaXQ1eHEwRTlqamY0TjRBcTBqcTZnTjd6VWctOGVVQ2JPdjNFT0w5VUFaSEJhUWwybGtFc0N3eFRRWVBpTFBXQ3cyRUNySmtKN3BTTlJVNEpZb2t6c3FIakpzbTZmT3VvazlPRWZfbTNLS0w2SnY0SkpWWXhGVUpBMmZySmkxTUFZS3FXbnZ3U3lYS0t4bUpseFozMElRTTlSU2VTeXJOV3pWUWhnX20?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 11:46:05 GMT"
     },
     {
-      "headline": "DesignRush lists top eCommerce agencies for 2026",
-      "background": "DesignRush regularly publishes ranked agency lists; these are typically sponsored or curated through a paid submission model rather than independent editorial evaluation.",
+      "headline": "Utah digital marketing agency hits 150-client milestone",
+      "background": "Small agency growth announcements are a common press release format with limited informational value for the broader industry.",
       "keyFindings": [
-        "List covers 10 agencies designated for eCommerce work in 2026",
-        "DesignRush's ranking methodology is not independently audited",
-        "No comparative performance data, client outcome metrics, or case study evidence is cited in the snippet"
+        "Adil Lazar Digital Marketing Agency reports serving over 150 clients in Utah"
       ],
-      "implications": "Agency ranking lists from platforms like DesignRush should not be used as primary vendor selection criteria — treat them as a starting point for discovery only, and evaluate agencies through portfolio review, references, and scoped trial work.",
+      "implications": "No relevance to UX, product, or tech practice. Not suitable for this digest.",
       "tags": [
-        "Agency Selection",
-        "eCommerce",
-        "Vendor Research"
+        "Marketing",
+        "Agency news"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Digital Journal",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU01IbGpuM2RBSkdiVW1PTDZGZkRDVmZtdDVsSV9MQzVaUUZ0N2hjWDFFNkxHZjFhMi1FQjV0WXJ0WVJYSVZmZ29yZWZVd09hRlI3NWFnNXZpUkEyZHlIMVdNTWJyZk9EQ2Z3d1l2QVRKckp3Y3B1cXQ5UkQyMzRZMWYxTUlTTWZvbGxCWHR1SllsVVgtcE9FUTV3MXg?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 13:29:25 GMT"
+      "source": "FinancialContent",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbG5lRG52TXBGWWJZb202Qk9PYTRDcGo0LWdfZFd1V1M4REFROHNHOGxfSHZSUWtIdTc5cVhHblZQekp2ZkdwRnZqMUk2aHprN1B3SXpmVmxoZWRUNWlndjZRbnptamhHV1RheUlWWVFSX2hKM0xVMVRyRjRocHV2dTFSS2JLN3VVdTAzdWpDc2VTVEFyWDQzZDFNRFlQSFdjZ040bHhISC1iWll2aHpjOUtFMUp6RU1CcVo4dDRQRzNNeXNFVmpSbVBxdGFZR3lBX3pWOE1GSlI?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 11:39:00 GMT"
     },
     {
-      "headline": "SmallRig releases global imaging scenarios report from industry forum",
-      "background": "SmallRig, a camera accessories manufacturer, hosted its third annual creator-focused industry forum and released a report identifying 12 global imaging use case categories, likely to inform product development and creator community engagement.",
+      "headline": "Nielsen's UX roundup: AI analysis, scrolling, naming consistency",
+      "background": "Jakob Nielsen's periodic UX roundups synthesize recent research and opinion across multiple UX topics. This edition covers AI-assisted research methods, skill development curves, interaction patterns, and foundational research practice.",
       "keyFindings": [
-        "Report identifies 12 distinct global imaging scenarios, though specific categories are not detailed in the snippet",
-        "Forum format suggests findings are influenced by creator community input rather than purely internal research",
-        "SmallRig's commercial interest in camera rigs and accessories means the report likely emphasizes hardware-adjacent use cases"
+        "AI thematic analysis is being evaluated as a method for processing qualitative UX research data — with specific attention to where it falls short versus human analysis",
+        "Nielsen identifies a 'fast asymptote' in AI skill acquisition, suggesting practitioners improve quickly early but hit a ceiling without deeper structural UX knowledge",
+        "Naming consistency across UI surfaces is flagged as a persistent, underweighted usability problem — mismatched labels between screens create measurable user confusion"
       ],
-      "implications": "Of limited direct relevance to UX or product practitioners unless working on camera, creator tool, or media production software. The scenario framework could be useful as secondary research for anyone designing tools for video or photography workflows.",
+      "implications": "The naming consistency point is immediately actionable: audit label parity across your product's navigation, notifications, and onboarding flows. The AI skill asymptote finding is a caution for teams assuming AI tools will substitute for foundational research training.",
       "tags": [
-        "Creator Tools",
-        "Industry Research",
-        "Hardware"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "巴士的報",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNWNhNTZJdThRQ18yYjc1R0xwalB3MUF5UExoVDBJbkFiV2ZRcnJRY0VFcTdVYXQ4SklyNWpPcUQyQzR3MnB0SG1nbEVxTHpadF80eW9GZ3lMa3hwLTVEeE9PUVRMVHNGdV9pMXl6WGdweGlDSmVZU2hiWEZDcVJ0X284cmdtenVEMzAyRkRqSUhfejBIQnFGajJSc2xoQ1ZIaWNoQTBBbVgtWVVVYTZnWE14c3hiWmpFTEVVclhqbUpCU18xSXRraEI1b0phVU5YY1NWSDk2TkF0RERRRklPdmFnTC1aUG50aVJXeA?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 11:15:05 GMT"
-    },
-    {
-      "headline": "Ubisoft responds to player criticism of Heroes III Remake with roadmap",
-      "background": "The Heroes of Might and Magic III Remake launched to mixed reception, with players criticizing changes to a beloved 1999 strategy game. Ubisoft is now releasing a public fix roadmap — a pattern increasingly common in live-service and remaster launches.",
-      "keyFindings": [
-        "Original Heroes III creator Jon Van Caneghem expressed satisfaction with the remake despite player backlash",
-        "Ubisoft published a roadmap committing to post-launch fixes in response to community criticism, suggesting the initial release was undercooked",
-        "The gap between creator approval and player reception points to differing expectations between legacy IP holders and active fan communities"
-      ],
-      "implications": "For product teams managing remakes, ports, or legacy product relaunches: original creator sign-off does not substitute for community beta testing with existing power users. Public fix roadmaps can partially recover trust but work best when paired with clear timelines and scoped commitments.",
-      "tags": [
-        "Game Design",
-        "Community Feedback",
-        "Product Launch"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "iXBT.games",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOQUVseUlHcGN3aXdqeFB0Z0hFYVBxNEs4Z213UlVPVEViYndVQ3QzcXhOWUhIMkx2TmM1dG5ONDdjcG1jYXFxYnVZeFdiLWFxN1daYUVFT3ppNzFaa2pmSHplcFNZS3FQUnBfem44Q2gyaUg4RC1hOElCQlFkd0JlbmtsMENpSTFLbDBvVFhqQUJNdS1tUlNYYW9zVTB6ak5YWFF0NHNmTEYwdF95ZjVNSFM3Xy1tOThraDVsdWRZN1ZLTWc2V2MtUnp3U1FwOEJGR1ljMmZIVGFYLVF4ZVFJbXhDM0h5Njlhd3JTazdwcUNvbXJBTmZwSFRUdF9pSmpaRmxvcW10d0xSUTIzbnfSAY4CQVVfeXFMTkFFbHlJR3Bjd2l3anhQdGdIRWFQcTRLOGdtd1JVT1RFYmJ3VUN0M3F4TllISDJMdk5jNXRuTjQ3Y3BtY2FxcWJ1WXhXYi1hcTdXWmFFRU96aTcxWmtqZkh6ZXBTWUtxUFJwX3puOENoMmlIOEQtYThJQkJRZHdCZW5rbDBDaUkxS2wwb1RYakFCTXUtbVJTWGFvc1UwempOWFhRdDRzZkxGMHRfeWY1TUhTN18tbTk4a2g1bHVkWTdWS01nNldjLVJ6d1NRcDhCRkdZYzJmSFRhWC1ReGVRSW14QzNIeTY5YXdyU2s3cHFDb21yQU5mcEhUVHRfaUpqWkZsb3FtdHdMUlEyM253?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 11:00:19 GMT"
-    },
-    {
-      "headline": "Cognizant: AI adoption doesn't follow demographic lines",
-      "background": "A persistent assumption in enterprise AI rollout planning is that younger, more tech-literate employees will adopt AI tools faster — shaping training and change management strategies. Cognizant's research directly challenges this model.",
-      "keyFindings": [
-        "Cognizant research found no statistically significant correlation between age, gender, or other demographic variables and AI tool adoption rates",
-        "Adoption was instead driven by individual factors including prior task fit, managerial encouragement, and perceived usefulness — not generational cohort",
-        "The 'one size does not fit all' finding argues against blanket demographic segmentation in AI training program design"
-      ],
-      "implications": "UX and product teams building internal AI tools or designing onboarding for enterprise AI products should not assume demographic proxies predict user readiness. Segmentation by role, task type, and workflow context will be more predictive than age or seniority — and change management should be designed accordingly.",
-      "tags": [
-        "AI Adoption",
-        "Enterprise UX",
-        "Onboarding"
+        "Research methods",
+        "AI tools",
+        "Usability"
       ],
       "featured": true,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "diginomica",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSE92djVvMUhUSGxNb0lnNk5NOENvNWladzRxZ0hMNHhBX2NsTjZNY2YxUmhFRTZiQmNfOEdwWF9qbGdOaTZLd2ZZenNZNXRFeEJ2ZnZjMUo1SnRLOXVQX1RHSk13d0M5UmlueGlyTVBWSHlfTzlkRmFJVFZZVkFwR2xIZl85T2JSME5fZWlCLUFUUmtjU1FKOTNYWmZqSXdJNTJYNGNtVndQVTRRaml4aw?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 10:35:01 GMT"
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OY0FZeFEyczRWS2V4RC1Cc0JESFJabXNfaC1qSWhZME8wbW5mN1ZEVG8wanExdkF6NDZ2cW1lR1lIT1hOeWFVclAyelRqTXAyVjMybjNwTzdydE9RcUFXckV2dXdpNjhRVUE?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 11:21:42 GMT"
     }
   ]
 }
