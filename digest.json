@@ -1,172 +1,106 @@
 {
-  "generatedAt": "2026-10-09T18:02:54.481Z",
+  "generatedAt": "2026-10-10T17:02:49.295Z",
   "items": [
     {
-      "headline": "Figma mockups aren't products — here's the gap",
-      "background": "Designers frequently face the disconnect between polished static mockups that win stakeholder approval and the messier reality of how those designs actually perform in implementation. This piece addresses the false confidence that high-fidelity prototypes can create.",
+      "headline": "Build it first, make it good later.",
+      "background": "Perfectionism and over-planning are persistent blockers in product and design work. This piece distills a lean-building mindset into a single printable principle.",
       "keyFindings": [
-        "Static mockups can't surface edge cases like empty states, error flows, or responsive breakpoints",
-        "Stakeholder sign-off on a Figma file does not equate to validated product decisions",
-        "The gap between design intent and built output often isn't caught until user-facing problems emerge"
+        "The core argument is that existence precedes quality — shipping something imperfect creates a foundation that perfectionism never does.",
+        "Framed as a poster artifact, suggesting the principle is meant as a daily environmental reminder rather than a methodology document."
       ],
-      "implications": "Designers should pressure-test mockups against real content, real constraints, and real user flows before treating them as done. Push for prototype testing or staging reviews as a formal step, not an afterthought.",
+      "implications": "Useful as a team culture nudge, but applies most cleanly to early-stage work. Teams in regulated or safety-critical contexts need to apply this selectively — 'make it exist' can't override accessibility or compliance baselines.",
       "tags": [
-        "Design handoff",
-        "Prototyping",
-        "Stakeholder management"
+        "Design process",
+        "Lean thinking",
+        "Team culture"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": null,
+      "image": "https://cdn-images-1.medium.com/max/2600/1*t26uHFQBCyUvsulH-Ht5RA.jpeg",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@monn.designer12/looks-great-in-figma-now-what-d01631ca4665?source=rss------product_design-5",
-      "pubDate": "Fri, 09 Oct 2026 17:46:26 GMT"
+      "link": "https://web2boomer.medium.com/poster-download-make-it-exist-first-make-it-good-later-cbd22916fa9a?source=rss------product_design-5",
+      "pubDate": "Sat, 10 Oct 2026 16:56:05 GMT"
     },
     {
-      "headline": "Nigerian family funds 831 student scholarships worth ₦100m",
-      "background": "Scholarship announcements from private families in Nigeria are occasionally covered as philanthropic news but carry limited relevance to UX or product practice.",
+      "headline": "How Spotify's algorithm learned to build mixtapes.",
+      "background": "Spotify's recommendation engine is one of the most studied in consumer tech, but the mechanics behind personalized playlist generation — particularly Discover Weekly and similar features — are rarely explained at a systems level for practitioners.",
       "keyFindings": [
-        "The Abiodun family awarded over ₦100 million in scholarships",
-        "831 indigent students received funding"
+        "Spotify combines collaborative filtering, natural language processing on music metadata, and audio analysis to build user taste profiles.",
+        "The 'mixtape' effect comes from sequencing logic that mimics human curation — not just relevance ranking but flow and mood arc.",
+        "Cold-start problems for new users or new tracks are addressed by leaning on NLP and audio features before behavioral data accumulates."
       ],
-      "implications": "No direct relevance to UX, product, or tech practice. Not applicable to this digest's audience.",
+      "implications": "For product and UX teams building recommendation features, this is a useful reference on how to layer multiple signal types rather than relying on a single model. The sequencing logic point is directly applicable to onboarding playlist or content queue design.",
       "tags": [
-        "Philanthropy",
-        "Education"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "The Gazelle News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWUZIcEtITGMwSjloeWxHREl4YVdBZk9xTndYVGxCajczWGo0S09reEZncHFZQ0pFWWgyOXkwcXIwVVNFeW5hejA3ODVHbmhQV0dRVlFBUWtWY2lvVWtlVlE3YnFxYlZGRzVKSHQxcFQ5ZXhLZS1CS18zMnJLMEFRaXo0ZWU5TFJrS01UdWdYcmhXQmNRQldnVUV0VmozYUlua3JuUEdHYm5ObG1ySE5B?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 17:45:05 GMT"
-    },
-    {
-      "headline": "How 8 running shoe giants evolved their visual identity",
-      "background": "Brand identity in the sportswear category is highly competitive and historically documented, making it a useful reference for designers studying long-term logo and visual system evolution across a single vertical.",
-      "keyFindings": [
-        "Covers Nike, Adidas, PUMA, ASICS, New Balance, Brooks, HOKA, and On — spanning decades of logo iteration",
-        "Documents the designers and decisions behind major rebrands, not just the visual outcomes",
-        "HOKA and On represent newer entrants whose identities were built in the era of digital-first brand exposure"
-      ],
-      "implications": "Useful reference for brand designers studying how visual identity systems scale and evolve over time, particularly how legacy marks get simplified for digital contexts. Less directly actionable for product UX work.",
-      "tags": [
-        "Brand identity",
-        "Logo design",
-        "Visual systems"
+        "Recommendation systems",
+        "Personalization",
+        "Machine learning"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*_QKlJfNYBAZYkpp1I_fk8Q.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*Kik4vBdTRHcyTO54HVSLAA.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@jkbclr/8-famous-running-shoe-brands-logo-and-design-evolution-c58c6bacf9ab?source=rss------product_design-5",
-      "pubDate": "Fri, 09 Oct 2026 17:43:45 GMT"
+      "link": "https://medium.com/@chijiokeuhegwu/reverse-engineering-spotify-how-an-algorithm-learned-to-make-mixtapes-7aec49764e14?source=rss------product_design-5",
+      "pubDate": "Sat, 10 Oct 2026 16:00:26 GMT"
     },
     {
-      "headline": "Your personal AI context layer is becoming a sellable asset",
-      "background": "As AI agents increasingly rely on stored personal context — preferences, habits, history — to function effectively, a structural question is emerging: who owns and monetizes that context, and what happens when it gets commoditized by platforms.",
+      "headline": "Recording every session made research harder, not easier.",
+      "background": "As UX research tooling has matured, auto-recording and transcript capture have become defaults. This piece comes from a team rebuilding a 14-year-old research app and confronting what that data abundance actually cost them.",
       "keyFindings": [
-        "Personal context (the data that makes AI agents useful to a specific individual) is increasingly controlled by platform vendors, not users",
-        "Commodification risk means the same context that differentiates your AI experience today could become a generic, resold data layer tomorrow",
-        "The 'second brain' value proposition depends on context remaining personal and exclusive — both of which are threatened by platform economics"
+        "Comprehensive recording created an analysis burden that slowed synthesis — researchers had more data but took longer to produce usable insights.",
+        "The rebuild prioritized structured note-taking and tagging during sessions over full-fidelity capture after the fact.",
+        "Fourteen years of legacy data revealed that the most-referenced artifacts were always structured summaries, not raw recordings."
       ],
-      "implications": "Product teams building AI-assisted tools should think carefully about data portability and user ownership of context as trust and retention factors, not just compliance checkboxes. Users who are sophisticated about this will increasingly ask who holds their context.",
+      "implications": "Before defaulting to record-everything tooling, teams should audit how often raw recordings actually get reviewed versus how often summaries drive decisions. Lighter capture with better structure at the point of observation may outperform high-fidelity archives.",
       "tags": [
-        "AI agents",
-        "Data ownership",
-        "Personal AI"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*vy0g2Erp2Bl92wWKq0wo_g.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@candice.legeay/will-your-second-brain-become-a-commodity-2ba4f9001ccf?source=rss------ux-5",
-      "pubDate": "Fri, 09 Oct 2026 17:34:03 GMT"
-    },
-    {
-      "headline": "Generative UI shifts governance — it doesn't eliminate it",
-      "background": "As generative UI systems begin producing interface components dynamically, organizations face a gap in their existing governance frameworks, which were designed around human-authored screens reviewed at defined checkpoints. This piece argues that the governance problem doesn't go away — it transforms.",
-      "keyFindings": [
-        "When UI is generated rather than authored, the human certification point shifts from 'did we approve this screen' to 'did we approve the rules that generated this screen'",
-        "Generative systems need embedded authority to refuse outputs that violate policy or accessibility standards — not just human review after the fact",
-        "Enterprise governance frameworks built around static design artifacts are structurally unfit for generative UI pipelines"
-      ],
-      "implications": "UX leads and enterprise architects working with generative UI need to redefine what governance means at the system prompt and model constraint level, not just the output review level. This is especially critical in regulated industries where screen content carries legal or compliance weight.",
-      "tags": [
-        "Generative UI",
-        "Design governance",
-        "Enterprise UX"
+        "Research operations",
+        "Research tooling",
+        "Synthesis"
       ],
       "featured": true,
       "type": "opinion",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*Ggj4mYM0d3KRgqeR7SmE2A.jpeg",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/design-bootcamp/recording-everything-made-research-harder-a4d6747ee51c?source=rss------ux_research-5",
+      "pubDate": "Sat, 10 Oct 2026 15:54:13 GMT"
+    },
+    {
+      "headline": "A practical accessibility guide for UI designers.",
+      "background": "Accessibility in UI design is frequently treated as a compliance checklist rather than a design practice. Introductory guides in this space often stay abstract; this piece positions itself as applied and practical.",
+      "keyFindings": [
+        "Covers contrast ratios, touch target sizing, and focus state visibility as foundational non-negotiables before moving to more complex patterns.",
+        "Frames accessibility as a default design constraint rather than a retrofit — arguing that accessible components are structurally better for all users.",
+        "Includes specific guidance on screen reader behavior and how visual hierarchy translates — or fails to translate — to non-visual contexts."
+      ],
+      "implications": "A solid reference for designers earlier in their accessibility practice. More experienced practitioners will find it introductory, but it's a credible resource to share with team members who are just starting to take accessibility seriously.",
+      "tags": [
+        "Accessibility",
+        "UI design",
+        "Inclusive design"
+      ],
+      "featured": false,
+      "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1440/1*9jRgCY-_ZI76gGSb6Zy2ow.png",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*v9YLfGFL3Nw03ipYd7QM5g.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/enterprise-experience-architecture/nobody-reviewed-the-screen-the-screen-was-still-governed-e37d59b397f4?source=rss------product_design-5",
-      "pubDate": "Fri, 09 Oct 2026 17:29:27 GMT"
+      "link": "https://medium.com/@chijiokeuhegwu/designing-for-everyone-a-practical-guide-to-accessibility-in-ui-design-44c0a0f6423e?source=rss------product_design-5",
+      "pubDate": "Sat, 10 Oct 2026 15:15:35 GMT"
     },
     {
-      "headline": "482 curated blog posts for learning design",
-      "background": "Design learning resources are fragmented across hundreds of blogs and newsletters, making curation a recurring need for practitioners trying to build or recommend structured reading.",
+      "headline": "Irrelevant market data — not a UX/tech story.",
+      "background": "This article covers the pharmaceutical biologics market forecast through 2035 and has no connection to UX, product, or technology practice.",
       "keyFindings": [
-        "HackerNoon compiled 482 blog posts spanning design topics into a single reference list",
-        "No information available on how posts were selected, weighted by quality, or organized by topic or skill level"
+        "No relevant findings for this audience."
       ],
-      "implications": "May be useful as a bulk reference, but without editorial criteria or difficulty tiering, it functions more as a link dump than a structured curriculum. Verify quality before recommending to junior designers.",
+      "implications": "Not applicable to UX, product, or tech practitioners. Likely a feed ingestion error.",
       "tags": [
-        "Design education",
-        "Resources"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "HackerNoon",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hUTRZVC12U3ZlWFNqNWVEOERFY3MzTVROX3g3czhraHQwaHJmVk9yMFNRWWdOeklVZUxoTVZzaUlhVFhOaEY1a3FwdlYxYTdIaFdHWXNKY1hFY0xaeEZVSWpjZVVnOG84T2hF?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 14:19:48 GMT"
-    },
-    {
-      "headline": "Production budgeting tools are stuck in the past, Lineo argues",
-      "background": "The advertising and content production industry has largely continued to use budget structures and estimation methods developed before digital-native production workflows, streaming delivery, and AI-assisted production became standard.",
-      "keyFindings": [
-        "Lineo is challenging producers to update budgeting models that haven't structurally changed since the early 2000s",
-        "The argument implies current budgets systematically misallocate resources given how production pipelines have changed"
-      ],
-      "implications": "Limited direct applicability to UX/product work, but relevant to teams managing creative production budgets or building tools for production workflows. Worth noting if your product touches budget estimation or project scoping in creative industries.",
-      "tags": [
-        "Production budgeting",
-        "Creative ops"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "LBB - Little Black Book",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mWm1CclJkNW02a09nOGt5eDV0X1VOSTVmTVl1bUVYWUJrU3lVZTBlQ2NZN3BGYnM0ODRoa3BvTzVqdFhJRFF6dzRhdVVuTXVhUWtrcF85NDZyWEM0Nl9pMGM3Umd0Mjl1amc3X0NVckN1QTZnOGZRS3dB?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 14:18:40 GMT"
-    },
-    {
-      "headline": "Single-cell genomics market accelerating toward 2035",
-      "background": "Single-cell multiome assays combine multiple types of genomic data from individual cells and are increasingly used in pharmaceutical drug discovery pipelines.",
-      "keyFindings": [
-        "Market demand for single-cell multiome assays is accelerating through 2035 according to IndexBox projections",
-        "Growth is driven by integrated genomics use in drug discovery"
-      ],
-      "implications": "No relevance to UX, product design, or tech practice covered by this digest.",
-      "tags": [
-        "Biotech",
-        "Market research"
+        "Off-topic"
       ],
       "featured": false,
       "type": "research",
@@ -174,51 +108,113 @@
       "publishedWindow": "today",
       "image": null,
       "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTGVOUWVOWjNFMC14ckY5a3d5VkFNbjFSbHRlMDVPc1hvUmlpeWp4UW9GNnFkbnJuMGRid19BV0RkQW42VkJGaTJNaXQ1eHEwRTlqamY0TjRBcTBqcTZnTjd6VWctOGVVQ2JPdjNFT0w5VUFaSEJhUWwybGtFc0N3eFRRWVBpTFBXQ3cyRUNySmtKN3BTTlJVNEpZb2t6c3FIakpzbTZmT3VvazlPRWZfbTNLS0w2SnY0SkpWWXhGVUpBMmZySmkxTUFZS3FXbnZ3U3lYS0t4bUpseFozMElRTTlSU2VTeXJOV3pWUWhnX20?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 11:46:05 GMT"
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeDV0ZmdZVXdKVDhPTmxzQ0Z1a0lpLUpxSjFoUVQxT0o4dWhjX0RxUFFOVF9KM0J0Vy1ybU43VjBDYmhPNjkwclpBUlBCMW9sU053UlRiUVY2QnJYSi0yS3VQYkE3dzhnUFpNQkNkM1NDTnljYVhPcmRRSDZrV2pkZUMxbDZ0WFhsdlBLdmlTQWFleHZJNkg2WFdpZEprZnh4Z2M4WWNsd2VQVW9xejNqX2hNb2FCaHhlalR4WXE0WlNrX0JibnFrTWFISXpQczg?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 12:46:04 GMT"
     },
     {
-      "headline": "Utah digital marketing agency hits 150-client milestone",
-      "background": "Small agency growth announcements are a common press release format with limited informational value for the broader industry.",
+      "headline": "Irrelevant market data — not a UX/tech story.",
+      "background": "This article covers RNA therapeutics and gene editing market forecasts through 2035 and has no connection to UX, product, or technology practice.",
       "keyFindings": [
-        "Adil Lazar Digital Marketing Agency reports serving over 150 clients in Utah"
+        "No relevant findings for this audience."
       ],
-      "implications": "No relevance to UX, product, or tech practice. Not suitable for this digest.",
+      "implications": "Not applicable to UX, product, or tech practitioners. Likely a feed ingestion error.",
       "tags": [
-        "Marketing",
-        "Agency news"
+        "Off-topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "FinancialContent",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbG5lRG52TXBGWWJZb202Qk9PYTRDcGo0LWdfZFd1V1M4REFROHNHOGxfSHZSUWtIdTc5cVhHblZQekp2ZkdwRnZqMUk2aHprN1B3SXpmVmxoZWRUNWlndjZRbnptamhHV1RheUlWWVFSX2hKM0xVMVRyRjRocHV2dTFSS2JLN3VVdTAzdWpDc2VTVEFyWDQzZDFNRFlQSFdjZ040bHhISC1iWll2aHpjOUtFMUp6RU1CcVo4dDRQRzNNeXNFVmpSbVBxdGFZR3lBX3pWOE1GSlI?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 11:39:00 GMT"
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOem9qTEMzUGJIdmdiTms5N2JvYXVCZWVqMTRWbDdTb1pOdzY2SFlIU3ctdGhSQlhDX1FsRDNhQlFKam9nMzF6VE5CTGRjcEFXTGRIanQ2aEpqS0tYSW5HaHQwVUxleWZnR1VmOWItR2lsMTVFWjlnNTlsOEhFbVVnR0xjUUVmMEI5NlJDVDZRRExkbWJUSFlwZlJTOWFHbG9zaEdrQ3UwR2VncGlnbzhvNWpvYVVKZzVuUTR5ZVozV0dYRHY4OGtXYV9wdFRFLXJ6?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 10:41:04 GMT"
     },
     {
-      "headline": "Nielsen's UX roundup: AI analysis, scrolling, naming consistency",
-      "background": "Jakob Nielsen's periodic UX roundups synthesize recent research and opinion across multiple UX topics. This edition covers AI-assisted research methods, skill development curves, interaction patterns, and foundational research practice.",
+      "headline": "Ogun state launches free digital skills training for graduates.",
+      "background": "Digital skills gaps in emerging markets are a growing policy concern. Nigeria's Ogun State government announced a program combining business support with free digital training targeting unemployed graduates.",
       "keyFindings": [
-        "AI thematic analysis is being evaluated as a method for processing qualitative UX research data — with specific attention to where it falls short versus human analysis",
-        "Nielsen identifies a 'fast asymptote' in AI skill acquisition, suggesting practitioners improve quickly early but hit a ceiling without deeper structural UX knowledge",
-        "Naming consistency across UI surfaces is flagged as a persistent, underweighted usability problem — mismatched labels between screens create measurable user confusion"
+        "The program targets graduates specifically, suggesting a focus on employability rather than foundational literacy.",
+        "Combines digital skills training with business support, implying an entrepreneurship pathway alongside job-readiness.",
+        "No detail available on curriculum scope, delivery format, or scale of enrollment."
       ],
-      "implications": "The naming consistency point is immediately actionable: audit label parity across your product's navigation, notifications, and onboarding flows. The AI skill asymptote finding is a caution for teams assuming AI tools will substitute for foundational research training.",
+      "implications": "Relevant context for teams designing digital skills or workforce development products for emerging market audiences. The pairing of business support with digital training is a model worth noting for product-market fit in similar contexts.",
       "tags": [
-        "Research methods",
-        "AI tools",
-        "Usability"
+        "Digital skills",
+        "Emerging markets",
+        "Workforce development"
       ],
-      "featured": true,
+      "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OY0FZeFEyczRWS2V4RC1Cc0JESFJabXNfaC1qSWhZME8wbW5mN1ZEVG8wanExdkF6NDZ2cW1lR1lIT1hOeWFVclAyelRqTXAyVjMybjNwTzdydE9RcUFXckV2dXdpNjhRVUE?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 11:21:42 GMT"
+      "source": "Nigeria Startup News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRmgyUXZoVlNDZ3hYcmVrMExHVkVnUDNJUDBIWWwyR3kzOUw3ai1GTmhOTUtKR3JjcWR4VVZsazV5NjVfdWR3YnVNcjRUeFNIOFdoNzJZSlZUaHVVLWJiNGxzRlVxay1xVkppSjNmcm9oQkVhd1QxYnpzQzQ0Tk0ybmFVdkEzcVNIUmQydzVEVWJPTllXTUZBRFB2SkRUSEtXb0F6dmlKbjI2dWRIR2dQZ0R3?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 08:10:18 GMT"
+    },
+    {
+      "headline": "Appikr Labs marks 16 years of app development in Dubai.",
+      "background": "This is a company profile or anniversary announcement for a Dubai-based app development firm. No substantive product, design, or technology findings are present in the snippet.",
+      "keyFindings": [
+        "Appikr Labs has operated in the Dubai app development market for 16 years.",
+        "No specific methodologies, case studies, or findings are described in the available content."
+      ],
+      "implications": "No actionable insight for UX, product, or tech practitioners based on available content. May be a sponsored or PR placement.",
+      "tags": [
+        "Off-topic"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Menafn",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYm5ub3lBT1hHSEZFMi12NjNVYjhYS0xTandjZ3l1UDQzaEQ0LXZhaTFHV0pES1kwYnlwWE80VmNyQUJ6NjcyT29GUkpRa1NndlJCV2JUYTNpeXNzYmxWYUlHMXZZeTNBa0NhaTV4UWFVLTk0S05XMS00R0IxZ2M3Ynduc3I?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 07:49:16 GMT"
+    },
+    {
+      "headline": "Scholarship program awards over ₦100m to Ogun students.",
+      "background": "A Nigerian family foundation linked to a state governor awarded scholarships to over 800 students in Ogun State. This is a philanthropic news item with no connection to UX, product, or technology practice.",
+      "keyFindings": [
+        "831 students received scholarships totaling over ₦100 million.",
+        "No UX, product, or technology relevance in available content."
+      ],
+      "implications": "Not applicable to this digest's audience. Likely a feed ingestion error.",
+      "tags": [
+        "Off-topic"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "The Nation Newspaper",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMU5QY3k5ZVpTMEx6Um93Z2g5N0RLV0pUNFZzOUh1MS1iX2dsSEJ0S2JYcGdYNExhM3NiQ2oyVFlpTTZsVzlVWmVLZWtIVjd5bmdNLTBQdUxrcWd2eXpsRG8yRXNhbHlOdDdCMGEtQkg1dzkySmRXaTYzSXZDOUhadTZUbEkwN1ZULXdtdFFidWFQLWN3Zm14ZUd1WFNGN1MySGJ5RVhZRlE2a0xXYUo3emFTNXJuUdIBuwFBVV95cUxOcTFGRTdJS3dLMTJSb2JVQ1dfc0RubmFYODJFYnFEWXhXb244akdZczByTWwxeGkyMnZjSEd3UjRYRGpSTVR0dVk3dTROQmx0ZE1wMVFXRlpmNUJxSVZ1ajZXc0c3TENQZkxLaVZfVHB6SkRPMWgwVFZZOFZkSTlVRF8tZEp4M24waF9RckJEVkM3aG9KNUdwZzNKay0wVklBREVKSDhUeUluMmgyQmY2U2xEZmV1UWpoZzVJ?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 21:02:56 GMT"
+    },
+    {
+      "headline": "Siri's real edge is context, not intelligence.",
+      "background": "Apple's revamped Siri has been positioned around on-device AI and deeper system integration, but early coverage has focused heavily on raw capability comparisons with ChatGPT and Gemini. This piece reframes what actually makes an AI assistant useful day-to-day.",
+      "keyFindings": [
+        "The author argues that personal context — calendar, contacts, habits, app state — matters more than model intelligence for assistant utility in real use cases.",
+        "A key usability problem identified: most AI assistants fail to communicate their own capability limits clearly, leading to user frustration when they can't complete expected tasks.",
+        "Siri's on-device data access gives it a structural advantage in context availability, even if it underperforms competitors on generative tasks."
+      ],
+      "implications": "For teams designing AI assistant features or conversational interfaces, this is a direct argument for investing in transparency about capability limits — not just capability itself. Users need accurate mental models of what the assistant can and can't do, and that's a UX design problem, not just a model problem.",
+      "tags": [
+        "AI assistants",
+        "Conversational UI",
+        "Mental models"
+      ],
+      "featured": true,
+      "type": "research",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/ai-assistant-context/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 09 Oct 2026 17:00:00 +0000"
     }
   ]
 }
