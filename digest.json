@@ -1,106 +1,109 @@
 {
-  "generatedAt": "2026-10-10T17:02:49.295Z",
+  "generatedAt": "2026-10-11T17:26:27.853Z",
   "items": [
     {
-      "headline": "Build it first, make it good later.",
-      "background": "Perfectionism and over-planning are persistent blockers in product and design work. This piece distills a lean-building mindset into a single printable principle.",
+      "headline": "Research-led concept app rethinks plant care as a service",
+      "background": "Plant care apps exist but mostly focus on reminders and basic identification. This project takes a service design approach, treating plant ownership as a broader ecosystem of needs — procurement, diagnosis, community, and care — rather than a single-feature utility.",
       "keyFindings": [
-        "The core argument is that existence precedes quality — shipping something imperfect creates a foundation that perfectionism never does.",
-        "Framed as a poster artifact, suggesting the principle is meant as a daily environmental reminder rather than a methodology document."
+        "Research identified distinct plant owner personas with different motivations — aesthetics, wellness, and sustainability — each requiring different service touchpoints.",
+        "The concept, Taru, maps a full service ecosystem including onboarding, ongoing care guidance, and plant replacement or rehoming flows.",
+        "Ecosystem mapping revealed gaps between what existing apps offer and what users actually need at moments of plant failure or purchase uncertainty."
       ],
-      "implications": "Useful as a team culture nudge, but applies most cleanly to early-stage work. Teams in regulated or safety-critical contexts need to apply this selectively — 'make it exist' can't override accessibility or compliance baselines.",
+      "implications": "Useful as a case study for designers working on niche lifestyle products — demonstrates how service blueprinting and ecosystem mapping can surface opportunities that feature-level thinking misses. Most applicable to early-stage product definition work.",
       "tags": [
-        "Design process",
-        "Lean thinking",
-        "Team culture"
+        "Service Design",
+        "Research Methods",
+        "Concept Design"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*t26uHFQBCyUvsulH-Ht5RA.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*tcBaLw7JOwCGs912wD4neA.png",
       "source": "Product Design on Medium",
-      "link": "https://web2boomer.medium.com/poster-download-make-it-exist-first-make-it-good-later-cbd22916fa9a?source=rss------product_design-5",
-      "pubDate": "Sat, 10 Oct 2026 16:56:05 GMT"
+      "link": "https://medium.com/@b.anikawork/designing-taru-a-research-led-exploration-of-plant-ownership-and-service-ecosystems-20ee994fd25c?source=rss------product_design-5",
+      "pubDate": "Sun, 11 Oct 2026 17:16:54 GMT"
     },
     {
-      "headline": "How Spotify's algorithm learned to build mixtapes.",
-      "background": "Spotify's recommendation engine is one of the most studied in consumer tech, but the mechanics behind personalized playlist generation — particularly Discover Weekly and similar features — are rarely explained at a systems level for practitioners.",
+      "headline": "Historical pigment scarcity explains how color shapes value perception",
+      "background": "Color psychology in design tends to focus on emotional associations, but rarely examines the economic and material history behind why certain colors carry prestige. This piece traces blue's historical rarity and cost to argue that perceived value is culturally and materially constructed.",
       "keyFindings": [
-        "Spotify combines collaborative filtering, natural language processing on music metadata, and audio analysis to build user taste profiles.",
-        "The 'mixtape' effect comes from sequencing logic that mimics human curation — not just relevance ranking but flow and mood arc.",
-        "Cold-start problems for new users or new tracks are addressed by leaning on NLP and audio features before behavioral data accumulates."
+        "Ultramarine blue, derived from lapis lazuli mined in a single Afghan valley, was historically more expensive than gold and reserved for the most important subjects in paintings.",
+        "The high cost of pigments like ultramarine meant that color choices in historical artifacts were direct signals of economic and social status.",
+        "Synthetic ultramarine was developed in the 1820s, collapsing the price and democratizing the color — demonstrating how material scarcity directly shapes cultural meaning."
       ],
-      "implications": "For product and UX teams building recommendation features, this is a useful reference on how to layer multiple signal types rather than relying on a single model. The sequencing logic point is directly applicable to onboarding playlist or content queue design.",
+      "implications": "For designers working on brand identity or premium product aesthetics, this historical lens is a reminder that color associations aren't universal or permanent — they're contingent on material and cultural context that changes over time.",
       "tags": [
-        "Recommendation systems",
-        "Personalization",
-        "Machine learning"
+        "Color Theory",
+        "Brand Design",
+        "Design History"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*Kik4vBdTRHcyTO54HVSLAA.png",
+      "image": "https://cdn-images-1.medium.com/max/2400/1*MQTrKzqH8-26mfq7XOK4pg.jpeg",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@chijiokeuhegwu/reverse-engineering-spotify-how-an-algorithm-learned-to-make-mixtapes-7aec49764e14?source=rss------product_design-5",
-      "pubDate": "Sat, 10 Oct 2026 16:00:26 GMT"
+      "link": "https://medium.com/@palashhjain22/nobody-pays-for-blue-8dc3e21a2b5c?source=rss------product_design-5",
+      "pubDate": "Sun, 11 Oct 2026 16:32:16 GMT"
     },
     {
-      "headline": "Recording every session made research harder, not easier.",
-      "background": "As UX research tooling has matured, auto-recording and transcript capture have become defaults. This piece comes from a team rebuilding a 14-year-old research app and confronting what that data abundance actually cost them.",
+      "headline": "FPD 2026 attendee: AI hype at conferences is softening into realism",
+      "background": "Design conferences have spent the past two years heavily featuring AI as a transformative force. The question practitioners are now asking is whether the reality of AI in design workflows is matching the promotional narrative — and what's actually being built.",
       "keyFindings": [
-        "Comprehensive recording created an analysis burden that slowed synthesis — researchers had more data but took longer to produce usable insights.",
-        "The rebuild prioritized structured note-taking and tagging during sessions over full-fidelity capture after the fact.",
-        "Fourteen years of legacy data revealed that the most-referenced artifacts were always structured summaries, not raw recordings."
+        "The author found more nuanced, workflow-specific AI discussions at FPD 2026 compared to prior years, with fewer grand claims and more concrete use-case focus.",
+        "A recurring theme was AI as a collaborator for iteration and exploration rather than autonomous output generation — designers are using it to compress early-stage work, not replace judgment.",
+        "Several speakers flagged that the hardest AI integration problems are organizational and process-related, not technical."
       ],
-      "implications": "Before defaulting to record-everything tooling, teams should audit how often raw recordings actually get reviewed versus how often summaries drive decisions. Lighter capture with better structure at the point of observation may outperform high-fidelity archives.",
+      "implications": "If you're benchmarking your team's AI adoption against industry norms, conference reports like this suggest that even early adopters are still working through process and cultural integration — not just tooling. Useful calibration for setting internal expectations.",
       "tags": [
-        "Research operations",
-        "Research tooling",
-        "Synthesis"
+        "AI tools",
+        "Design Process",
+        "Industry Trends"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1537/1*fqCA9oXzLDKBu3ahnf58dw.jpeg",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@antonelladebellis/my-takeaways-on-ai-and-design-from-fpd-conference-2026-a88c04349a7e?source=rss------product_design-5",
+      "pubDate": "Sun, 11 Oct 2026 16:29:59 GMT"
+    },
+    {
+      "headline": "Make design reviews end in a decision, not a discussion",
+      "background": "Design review meetings frequently stall at gathering feedback rather than reaching a clear build/no-build decision. This is a persistent structural problem in design-engineering collaboration, where ambiguous outcomes lead to rework and delayed handoffs.",
+      "keyFindings": [
+        "The author proposes framing the entire design review around one binary question: is this ready to build? — eliminating open-ended critique sessions.",
+        "Reviews should be structured with a pre-read sent in advance so meeting time is spent on decision-making, not context-setting.",
+        "Assigning a named decision-maker before the meeting starts prevents the diffusion of responsibility that leads to inconclusive outcomes."
+      ],
+      "implications": "Directly applicable to teams where design reviews are frequent but rarely decisive. The named decision-maker approach is a small structural change with high leverage — worth piloting before trying to overhaul the whole meeting format.",
+      "tags": [
+        "Design Process",
+        "Collaboration",
+        "Facilitation"
       ],
       "featured": true,
       "type": "opinion",
-      "category": "Research",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*Ggj4mYM0d3KRgqeR7SmE2A.jpeg",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/design-bootcamp/recording-everything-made-research-harder-a4d6747ee51c?source=rss------ux_research-5",
-      "pubDate": "Sat, 10 Oct 2026 15:54:13 GMT"
+      "image": "https://cdn-images-1.medium.com/max/2600/1*7g0GQZBsPd96ApMCE3aqbQ.png",
+      "source": "UX on Medium",
+      "link": "https://nurxmedov.medium.com/how-to-run-a-design-review-meeting-that-ends-in-a-decision-daf8332c2f1e?source=rss------ux-5",
+      "pubDate": "Sun, 11 Oct 2026 16:24:05 GMT"
     },
     {
-      "headline": "A practical accessibility guide for UI designers.",
-      "background": "Accessibility in UI design is frequently treated as a compliance checklist rather than a design practice. Introductory guides in this space often stay abstract; this piece positions itself as applied and practical.",
+      "headline": "Automated droplet generator market forecast through 2035",
+      "background": "This is a market research report on laboratory automation equipment — specifically droplet generators used in digital PCR and single-cell research. It has no relevance to UX, product design, or technology practice.",
       "keyFindings": [
-        "Covers contrast ratios, touch target sizing, and focus state visibility as foundational non-negotiables before moving to more complex patterns.",
-        "Frames accessibility as a default design constraint rather than a retrofit — arguing that accessible components are structurally better for all users.",
-        "Includes specific guidance on screen reader behavior and how visual hierarchy translates — or fails to translate — to non-visual contexts."
+        "Not applicable to UX or product work.",
+        "Market forecast content for a biotech equipment segment.",
+        "No design, research, or technology practice relevance found in available snippet."
       ],
-      "implications": "A solid reference for designers earlier in their accessibility practice. More experienced practitioners will find it introductory, but it's a credible resource to share with team members who are just starting to take accessibility seriously.",
+      "implications": "No implications for UX, product, or tech practitioners. This article appears to have been included in the feed in error.",
       "tags": [
-        "Accessibility",
-        "UI design",
-        "Inclusive design"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*v9YLfGFL3Nw03ipYd7QM5g.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@chijiokeuhegwu/designing-for-everyone-a-practical-guide-to-accessibility-in-ui-design-44c0a0f6423e?source=rss------product_design-5",
-      "pubDate": "Sat, 10 Oct 2026 15:15:35 GMT"
-    },
-    {
-      "headline": "Irrelevant market data — not a UX/tech story.",
-      "background": "This article covers the pharmaceutical biologics market forecast through 2035 and has no connection to UX, product, or technology practice.",
-      "keyFindings": [
-        "No relevant findings for this audience."
-      ],
-      "implications": "Not applicable to UX, product, or tech practitioners. Likely a feed ingestion error.",
-      "tags": [
-        "Off-topic"
+        "Out of Scope"
       ],
       "featured": false,
       "type": "research",
@@ -108,18 +111,43 @@
       "publishedWindow": "today",
       "image": null,
       "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeDV0ZmdZVXdKVDhPTmxzQ0Z1a0lpLUpxSjFoUVQxT0o4dWhjX0RxUFFOVF9KM0J0Vy1ybU43VjBDYmhPNjkwclpBUlBCMW9sU053UlRiUVY2QnJYSi0yS3VQYkE3dzhnUFpNQkNkM1NDTnljYVhPcmRRSDZrV2pkZUMxbDZ0WFhsdlBLdmlTQWFleHZJNkg2WFdpZEprZnh4Z2M4WWNsd2VQVW9xejNqX2hNb2FCaHhlalR4WXE0WlNrX0JibnFrTWFISXpQczg?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 12:46:04 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTW9xcHRjLUdHbHEzREMwRXRDeVl0X2xLWXY2X1BJa0c0bGxVdEs4eEVQM0hCX0RjUlgyZjRDajJINE5tbWxHeHdMTHVlVVlEUWdneWhFX1lNaklwTVl0MlppRUpXbGFxZHNtOWVnRWd2NlhESWx6MWpGZmtaSEtnc3k5YkZTZTZTUTZWQWZSTlVqUkRlY1FoNGRPRjlla0hCeTNBUjMyQnBEcFcyRmZobkx6TUdJbV9xb0h3bDFZRVBpZXpaRlpLNEhtbDRPNW56dWFkTzZLRUlYUQ?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 16:06:04 GMT"
     },
     {
-      "headline": "Irrelevant market data — not a UX/tech story.",
-      "background": "This article covers RNA therapeutics and gene editing market forecasts through 2035 and has no connection to UX, product, or technology practice.",
+      "headline": "Fuselab CEO predicts 2027 AI startups will look like control rooms",
+      "background": "As AI systems multiply, there's an open design and product question about how humans will manage fleets of agents and automated systems. This piece offers one executive's prediction about the interface paradigm that will dominate.",
       "keyFindings": [
-        "No relevant findings for this audience."
+        "Fuselab Creative's CEO argues that successful AI startups by 2027 will organize their UX around control-room-style dashboards — centralized, high-density monitoring interfaces rather than conversational or single-task tools.",
+        "The prediction implies a shift from AI as assistant (one-to-one interaction) to AI as managed infrastructure (one-to-many oversight).",
+        "The framing positions human oversight and intervention capability as the core design challenge for the next generation of AI products."
       ],
-      "implications": "Not applicable to UX, product, or tech practitioners. Likely a feed ingestion error.",
+      "implications": "If this trajectory holds, product designers working on AI tools should be building oversight and control affordances now — not as edge features but as primary interface patterns. The control-room metaphor is worth examining against your own product's human-in-the-loop requirements.",
       "tags": [
-        "Off-topic"
+        "AI tools",
+        "Product Strategy",
+        "Interface Design"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "markets.businessinsider.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcnNKNURhZkNrX0xyR3Bqdkl0ekQ4bjVNUzhzb2hYdVJUUDVwdHNabS1pY2VOWlZSZE9LYUU1REU2Y3Rkc0p1MHBHS2Z1b1h0NnlsNURaWEZ1X2N3N0pIM3hiQkY3QUZUQ3VNNVZPME9oWVJTRV8zYzFhc1VyTjlrMENYTjJxVmVQVk11OHgzeE42dG4tSWQyaGVxUS1FNm5JY1VDVXh6X3BjaV80MFNqWDY2QVpWYWM2endIZkNoQU81RlNEQk5GYjlkTEg?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 15:41:24 GMT"
+    },
+    {
+      "headline": "Endonuclease enzymes market forecast through 2035",
+      "background": "This is a market research report on endonuclease enzyme demand for gene editing and biopharma. It has no relevance to UX, product design, or technology practice.",
+      "keyFindings": [
+        "Not applicable to UX or product work.",
+        "Market forecast content for a life sciences reagent segment.",
+        "No design, research, or technology practice relevance found in available snippet."
+      ],
+      "implications": "No implications for UX, product, or tech practitioners. This article appears to have been included in the feed in error.",
+      "tags": [
+        "Out of Scope"
       ],
       "featured": false,
       "type": "research",
@@ -127,94 +155,77 @@
       "publishedWindow": "today",
       "image": null,
       "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOem9qTEMzUGJIdmdiTms5N2JvYXVCZWVqMTRWbDdTb1pOdzY2SFlIU3ctdGhSQlhDX1FsRDNhQlFKam9nMzF6VE5CTGRjcEFXTGRIanQ2aEpqS0tYSW5HaHQwVUxleWZnR1VmOWItR2lsMTVFWjlnNTlsOEhFbVVnR0xjUUVmMEI5NlJDVDZRRExkbWJUSFlwZlJTOWFHbG9zaEdrQ3UwR2VncGlnbzhvNWpvYVVKZzVuUTR5ZVozV0dYRHY4OGtXYV9wdFRFLXJ6?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 10:41:04 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONlVQYUJaa2lFeG1GcnFhb3RJV2V5d1pVZjc4T0NQWXFWYXNxX1BQTjg0TUdVaW9vT25VQ0c2ZXFMcXo0NUVZNUVxaTFYN0hfVU15d3F3VnBSR1AybUt1cG81SVM4Y2lfcFNJTWotZ1pVYW5aT016Q3FnUFcwY1lpTkZPUEpuYWdWMEp1Q01odHFIa1V4aWV1Yzc2eGpiS1ZHU3dHSmpuTWJVc2dhUmNwWmhkVVQzelNkR0gyUUQ3dzRkUjVTYVZtcmFR?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 14:46:04 GMT"
     },
     {
-      "headline": "Ogun state launches free digital skills training for graduates.",
-      "background": "Digital skills gaps in emerging markets are a growing policy concern. Nigeria's Ogun State government announced a program combining business support with free digital training targeting unemployed graduates.",
+      "headline": "Ten skills tech employers are paying for in 2026",
+      "background": "Tech hiring has shifted significantly since the 2022–2023 layoff cycles, with employers now emphasizing different skill profiles. Practitioners trying to position themselves or hire effectively need current signal on what's actually in demand versus what's just trending in discourse.",
       "keyFindings": [
-        "The program targets graduates specifically, suggesting a focus on employability rather than foundational literacy.",
-        "Combines digital skills training with business support, implying an entrepreneurship pathway alongside job-readiness.",
-        "No detail available on curriculum scope, delivery format, or scale of enrollment."
+        "AI integration skills — specifically the ability to apply AI tools within existing engineering and product workflows — appear across the majority of current job postings analyzed.",
+        "Cybersecurity and cloud infrastructure skills continue to command salary premiums, with employers willing to pay above-average rates to close persistent supply gaps.",
+        "Data literacy is increasingly expected as a baseline rather than a specialist skill, showing up in roles not historically associated with data work."
       ],
-      "implications": "Relevant context for teams designing digital skills or workforce development products for emerging market audiences. The pairing of business support with digital training is a model worth noting for product-market fit in similar contexts.",
+      "implications": "For UX and product practitioners, the signal here is that AI fluency and data literacy are becoming table-stakes expectations — not differentiators. Worth factoring into skill development priorities and how you describe existing competencies in applications or on teams.",
       "tags": [
-        "Digital skills",
-        "Emerging markets",
-        "Workforce development"
+        "Hiring",
+        "Career Development",
+        "Skills"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Nigeria Startup News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRmgyUXZoVlNDZ3hYcmVrMExHVkVnUDNJUDBIWWwyR3kzOUw3ai1GTmhOTUtKR3JjcWR4VVZsazV5NjVfdWR3YnVNcjRUeFNIOFdoNzJZSlZUaHVVLWJiNGxzRlVxay1xVkppSjNmcm9oQkVhd1QxYnpzQzQ0Tk0ybmFVdkEzcVNIUmQydzVEVWJPTllXTUZBRFB2SkRUSEtXb0F6dmlKbjI2dWRIR2dQZ0R3?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 08:10:18 GMT"
+      "source": "Legit.ng",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRElaZ0VLWk40eDRHTTFzazRsM1BfR0dVTVNsSjIwZ3F6T0JMTUJqYzRTOXI0OW1qTGg3bTBvSzBXQXRMNUVDU2JtQ3V6dll6X2dYb25zQngtU3VGaWhFQkJmLWRIaG9yVExBSmpuNlRSWFhZUWZibS1zYXRXc3BkZm1IbU9UZUpwUWdOUGYyZEw3SEZ4Sk5xNnV6dXRjOEZpemh5NA?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 10:37:59 GMT"
     },
     {
-      "headline": "Appikr Labs marks 16 years of app development in Dubai.",
-      "background": "This is a company profile or anniversary announcement for a Dubai-based app development firm. No substantive product, design, or technology findings are present in the snippet.",
+      "headline": "Junior product designer roles have nearly vanished from job postings",
+      "background": "There's been widespread anecdotal concern that entry-level design roles are disappearing, partly due to AI tools reducing the need for execution-heavy junior work and partly due to hiring freezes favoring senior talent. This piece attempts to quantify the problem.",
       "keyFindings": [
-        "Appikr Labs has operated in the Dubai app development market for 16 years.",
-        "No specific methodologies, case studies, or findings are described in the available content."
+        "Of 50 product designer job descriptions analyzed, only 2 explicitly welcomed or were open to junior-level candidates.",
+        "Most postings required 3–5 years of experience minimum, with several listing senior-level responsibilities under mid-level titles — a form of title compression that raises expectations without raising compensation.",
+        "The author found that portfolio requirements, case study depth expectations, and tool proficiency lists in many postings effectively screened out candidates with less than two years of experience regardless of stated seniority level."
       ],
-      "implications": "No actionable insight for UX, product, or tech practitioners based on available content. May be a sponsored or PR placement.",
+      "implications": "For hiring managers, this is a signal worth auditing: if your junior role posting mirrors senior expectations, you're likely filtering out viable candidates and contributing to a pipeline problem. For career changers or new graduates, the data suggests targeting smaller companies and startups where junior hiring is less systematically foreclosed.",
       "tags": [
-        "Off-topic"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Menafn",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYm5ub3lBT1hHSEZFMi12NjNVYjhYS0xTandjZ3l1UDQzaEQ0LXZhaTFHV0pES1kwYnlwWE80VmNyQUJ6NjcyT29GUkpRa1NndlJCV2JUYTNpeXNzYmxWYUlHMXZZeTNBa0NhaTV4UWFVLTk0S05XMS00R0IxZ2M3Ynduc3I?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 07:49:16 GMT"
-    },
-    {
-      "headline": "Scholarship program awards over ₦100m to Ogun students.",
-      "background": "A Nigerian family foundation linked to a state governor awarded scholarships to over 800 students in Ogun State. This is a philanthropic news item with no connection to UX, product, or technology practice.",
-      "keyFindings": [
-        "831 students received scholarships totaling over ₦100 million.",
-        "No UX, product, or technology relevance in available content."
-      ],
-      "implications": "Not applicable to this digest's audience. Likely a feed ingestion error.",
-      "tags": [
-        "Off-topic"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "The Nation Newspaper",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMU5QY3k5ZVpTMEx6Um93Z2g5N0RLV0pUNFZzOUh1MS1iX2dsSEJ0S2JYcGdYNExhM3NiQ2oyVFlpTTZsVzlVWmVLZWtIVjd5bmdNLTBQdUxrcWd2eXpsRG8yRXNhbHlOdDdCMGEtQkg1dzkySmRXaTYzSXZDOUhadTZUbEkwN1ZULXdtdFFidWFQLWN3Zm14ZUd1WFNGN1MySGJ5RVhZRlE2a0xXYUo3emFTNXJuUdIBuwFBVV95cUxOcTFGRTdJS3dLMTJSb2JVQ1dfc0RubmFYODJFYnFEWXhXb244akdZczByTWwxeGkyMnZjSEd3UjRYRGpSTVR0dVk3dTROQmx0ZE1wMVFXRlpmNUJxSVZ1ajZXc0c3TENQZkxLaVZfVHB6SkRPMWgwVFZZOFZkSTlVRF8tZEp4M24waF9RckJEVkM3aG9KNUdwZzNKay0wVklBREVKSDhUeUluMmgyQmY2U2xEZmV1UWpoZzVJ?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 21:02:56 GMT"
-    },
-    {
-      "headline": "Siri's real edge is context, not intelligence.",
-      "background": "Apple's revamped Siri has been positioned around on-device AI and deeper system integration, but early coverage has focused heavily on raw capability comparisons with ChatGPT and Gemini. This piece reframes what actually makes an AI assistant useful day-to-day.",
-      "keyFindings": [
-        "The author argues that personal context — calendar, contacts, habits, app state — matters more than model intelligence for assistant utility in real use cases.",
-        "A key usability problem identified: most AI assistants fail to communicate their own capability limits clearly, leading to user frustration when they can't complete expected tasks.",
-        "Siri's on-device data access gives it a structural advantage in context availability, even if it underperforms competitors on generative tasks."
-      ],
-      "implications": "For teams designing AI assistant features or conversational interfaces, this is a direct argument for investing in transparency about capability limits — not just capability itself. Users need accurate mental models of what the assistant can and can't do, and that's a UX design problem, not just a model problem.",
-      "tags": [
-        "AI assistants",
-        "Conversational UI",
-        "Mental models"
+        "Hiring",
+        "Career Development",
+        "Design Industry"
       ],
       "featured": true,
       "type": "research",
-      "category": "Research",
+      "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/articles/ai-assistant-context/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 09 Oct 2026 17:00:00 +0000"
+      "source": "Medium",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcDFQcUZHQkQxSWp6Z19PUW1sWEhEZVBpS0ZieU9Sd3VvQ1A2WHdxTzcxNXhCSDRXejZyQlB3Tjk1R2lfV0VveEtmTkV6RE9TUVJLa0NkME11R3had3dfVzBYTVZtWU9DclFlQzc4bVN4ZkhkM0FNMUVfbFFJeEg0aUZBdWxBeFlUQmxvZFRwZkc0WDVoMnpNcmVOR3pzVXZQT1Z3dHpYYlYtWUN6NllIOEI5SFVwVnY0YlotckFBZ1U?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 08:23:54 GMT"
+    },
+    {
+      "headline": "One designer's framework for fixing broken design workflows",
+      "background": "Design workflow dysfunction — misaligned handoffs, unclear ownership, feedback arriving too late — is a persistent operational complaint across product teams. This piece presents one practitioner's proposed fixes, positioned as a structural rather than cultural solution.",
+      "keyFindings": [
+        "Vitalii Khomenko identifies the core breakdown as designers receiving engineering feedback too late in the process, after decisions have compounded — arguing for structured design-engineering sync points earlier in the cycle.",
+        "The proposed workflow separates exploration phases (high ambiguity, low stakeholder involvement) from alignment phases (structured reviews, decision gates) to reduce noise in critique sessions.",
+        "Khomenko recommends explicit design debt tracking alongside technical debt — giving teams a shared language for communicating the cost of deferred design decisions."
+      ],
+      "implications": "The design debt tracking recommendation is the most novel and immediately actionable element here — few teams formalize this, which makes it invisible in roadmap conversations. Worth piloting even if the broader workflow restructuring isn't feasible short-term.",
+      "tags": [
+        "Design Process",
+        "Collaboration",
+        "Design Ops"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "SitePoint",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15dlR3XzhkaVBvMy1WZDdsQjhnVENEeWU1dHU5cF84cVpCaW5zUUdERVJwTllHRXFjOWJQSy1qMkxpM0tEbGNMRlFOT2duaXRoM1BFTFFad0txdUJHaUcwcFNYUEE4RTdnamVMaWNobGZVcVFj?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 06:14:25 GMT"
     }
   ]
 }
