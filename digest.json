@@ -1,109 +1,131 @@
 {
-  "generatedAt": "2026-10-11T17:26:27.853Z",
+  "generatedAt": "2026-10-12T20:59:20.873Z",
   "items": [
     {
-      "headline": "Research-led concept app rethinks plant care as a service",
-      "background": "Plant care apps exist but mostly focus on reminders and basic identification. This project takes a service design approach, treating plant ownership as a broader ecosystem of needs — procurement, diagnosis, community, and care — rather than a single-feature utility.",
+      "headline": "Localized UX drove fintech landing page for Philippine users",
+      "background": "Fintech products in Southeast Asia often fail to convert because they apply Western design conventions to markets with distinct payment infrastructure, trust signals, and financial literacy levels. This case study addresses that gap for the Philippine market.",
       "keyFindings": [
-        "Research identified distinct plant owner personas with different motivations — aesthetics, wellness, and sustainability — each requiring different service touchpoints.",
-        "The concept, Taru, maps a full service ecosystem including onboarding, ongoing care guidance, and plant replacement or rehoming flows.",
-        "Ecosystem mapping revealed gaps between what existing apps offer and what users actually need at moments of plant failure or purchase uncertainty."
+        "Localized payment integrations were treated as a core UX decision, not a dev handoff afterthought",
+        "Transparent data architecture — showing users how yields are calculated — was used as a primary trust mechanism",
+        "High-converting landing pages in this market required explicit democratization framing to address skepticism around digital assets"
       ],
-      "implications": "Useful as a case study for designers working on niche lifestyle products — demonstrates how service blueprinting and ecosystem mapping can surface opportunities that feature-level thinking misses. Most applicable to early-stage product definition work.",
+      "implications": "Relevant to product designers working on fintech in emerging markets: conversion optimization here is less about CTA placement and more about legibility of financial mechanisms and payment familiarity. Don't port Western fintech patterns wholesale.",
       "tags": [
-        "Service Design",
-        "Research Methods",
-        "Concept Design"
+        "Fintech",
+        "Localization",
+        "Conversion design"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*tcBaLw7JOwCGs912wD4neA.png",
+      "image": "https://cdn-images-1.medium.com/max/1211/1*D0MrWMETqpyIWNCvHCS44g.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@b.anikawork/designing-taru-a-research-led-exploration-of-plant-ownership-and-service-ecosystems-20ee994fd25c?source=rss------product_design-5",
-      "pubDate": "Sun, 11 Oct 2026 17:16:54 GMT"
+      "link": "https://medium.com/@darkpiodos/designing-kresta-building-a-high-converting-fintech-landing-page-for-the-philippine-market-208db34dc57f?source=rss------product_design-5",
+      "pubDate": "Mon, 12 Oct 2026 20:46:01 GMT"
     },
     {
-      "headline": "Historical pigment scarcity explains how color shapes value perception",
-      "background": "Color psychology in design tends to focus on emotional associations, but rarely examines the economic and material history behind why certain colors carry prestige. This piece traces blue's historical rarity and cost to argue that perceived value is culturally and materially constructed.",
+      "headline": "Wealth management UX built for Philippine multi-currency complexity",
+      "background": "Wealth management portals typically target high-net-worth users in Western markets, but growing middle-class investor segments in Southeast Asia need tools that handle multi-currency flows and institutional trust signals in locally relevant ways.",
       "keyFindings": [
-        "Ultramarine blue, derived from lapis lazuli mined in a single Afghan valley, was historically more expensive than gold and reserved for the most important subjects in paintings.",
-        "The high cost of pigments like ultramarine meant that color choices in historical artifacts were direct signals of economic and social status.",
-        "Synthetic ultramarine was developed in the 1820s, collapsing the price and democratizing the color — demonstrating how material scarcity directly shapes cultural meaning."
+        "Multi-currency data flows were designed as a UX architecture problem, not just a backend concern",
+        "Institutional trust markers — visual and structural cues borrowed from established finance — were deliberately embedded in the UI",
+        "The portal targeted complexity reduction as its core UX goal, not feature completeness"
       ],
-      "implications": "For designers working on brand identity or premium product aesthetics, this historical lens is a reminder that color associations aren't universal or permanent — they're contingent on material and cultural context that changes over time.",
+      "implications": "For product teams building financial tools in APAC: trust is communicated through structural clarity and familiar institutional cues, not just brand polish. Information architecture decisions here directly affect perceived credibility.",
       "tags": [
-        "Color Theory",
-        "Brand Design",
-        "Design History"
+        "Fintech",
+        "Information architecture",
+        "Localization"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2400/1*MQTrKzqH8-26mfq7XOK4pg.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/1211/1*dtt-KFxApt2NBhl4oTfwnw.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@palashhjain22/nobody-pays-for-blue-8dc3e21a2b5c?source=rss------product_design-5",
-      "pubDate": "Sun, 11 Oct 2026 16:32:16 GMT"
+      "link": "https://medium.com/@darkpiodos/designing-finora-building-a-high-converting-wealth-management-portal-for-the-philippine-market-b35f8bc726a7?source=rss------product_design-5",
+      "pubDate": "Mon, 12 Oct 2026 20:46:01 GMT"
     },
     {
-      "headline": "FPD 2026 attendee: AI hype at conferences is softening into realism",
-      "background": "Design conferences have spent the past two years heavily featuring AI as a transformative force. The question practitioners are now asking is whether the reality of AI in design workflows is matching the promotional narrative — and what's actually being built.",
+      "headline": "AI accounting dashboards need less data, more explanation",
+      "background": "As AI handles more back-office work like data ingestion and categorization, designers are left with a UI problem: what does a dashboard show when the AI has already done most of the work? Traditional data-dense dashboards may be the wrong pattern.",
       "keyFindings": [
-        "The author found more nuanced, workflow-specific AI discussions at FPD 2026 compared to prior years, with fewer grand claims and more concrete use-case focus.",
-        "A recurring theme was AI as a collaborator for iteration and exploration rather than autonomous output generation — designers are using it to compress early-stage work, not replace judgment.",
-        "Several speakers flagged that the hardest AI integration problems are organizational and process-related, not technical."
+        "When AI completes the primary task, the dashboard's job shifts from enabling action to communicating confidence and status",
+        "Showing less data — not more — tested better for comprehension in an AI accounting ingestion screen",
+        "Explaining what the AI did and why matters more to users than showing the full output"
       ],
-      "implications": "If you're benchmarking your team's AI adoption against industry norms, conference reports like this suggest that even early adopters are still working through process and cultural integration — not just tooling. Useful calibration for setting internal expectations.",
+      "implications": "Designers building AI-assisted products should audit whether their dashboards are still optimized for human-driven workflows. If the AI is doing the work, users need legibility and trust signals, not raw data access.",
       "tags": [
         "AI tools",
-        "Design Process",
-        "Industry Trends"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1537/1*fqCA9oXzLDKBu3ahnf58dw.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@antonelladebellis/my-takeaways-on-ai-and-design-from-fpd-conference-2026-a88c04349a7e?source=rss------product_design-5",
-      "pubDate": "Sun, 11 Oct 2026 16:29:59 GMT"
-    },
-    {
-      "headline": "Make design reviews end in a decision, not a discussion",
-      "background": "Design review meetings frequently stall at gathering feedback rather than reaching a clear build/no-build decision. This is a persistent structural problem in design-engineering collaboration, where ambiguous outcomes lead to rework and delayed handoffs.",
-      "keyFindings": [
-        "The author proposes framing the entire design review around one binary question: is this ready to build? — eliminating open-ended critique sessions.",
-        "Reviews should be structured with a pre-read sent in advance so meeting time is spent on decision-making, not context-setting.",
-        "Assigning a named decision-maker before the meeting starts prevents the diffusion of responsibility that leads to inconclusive outcomes."
-      ],
-      "implications": "Directly applicable to teams where design reviews are frequent but rarely decisive. The named decision-maker approach is a small structural change with high leverage — worth piloting before trying to overhaul the whole meeting format.",
-      "tags": [
-        "Design Process",
-        "Collaboration",
-        "Facilitation"
+        "Dashboard design",
+        "Accounting software"
       ],
       "featured": true,
       "type": "opinion",
-      "category": "UX",
+      "category": "Research",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*7g0GQZBsPd96ApMCE3aqbQ.png",
-      "source": "UX on Medium",
-      "link": "https://nurxmedov.medium.com/how-to-run-a-design-review-meeting-that-ends-in-a-decision-daf8332c2f1e?source=rss------ux-5",
-      "pubDate": "Sun, 11 Oct 2026 16:24:05 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1400/1*KyWMTOD8nrFW6R3r0Lbsyg.png",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@muskaanaraidesigns/when-ai-does-the-work-the-dashboard-gets-a-different-job-62cdf40c03d6?source=rss------ux_research-5",
+      "pubDate": "Mon, 12 Oct 2026 20:41:31 GMT"
     },
     {
-      "headline": "Automated droplet generator market forecast through 2035",
-      "background": "This is a market research report on laboratory automation equipment — specifically droplet generators used in digital PCR and single-cell research. It has no relevance to UX, product design, or technology practice.",
+      "headline": "Stop shipping PNGs: designers should hand off tokens, not images",
+      "background": "The gap between design files and production code remains a persistent source of rework and miscommunication on product teams. Static image exports in particular create ambiguity around spacing, states, and behavior that slows engineering.",
       "keyFindings": [
-        "Not applicable to UX or product work.",
-        "Market forecast content for a biotech equipment segment.",
-        "No design, research, or technology practice relevance found in available snippet."
+        "PNG handoffs force developers to make interpretive decisions that designers intended to specify",
+        "Structured Figma files with named components, constraints, and annotated states reduce implementation errors",
+        "The author frames this as a workflow cost problem — lost time, not just lost quality"
       ],
-      "implications": "No implications for UX, product, or tech practitioners. This article appears to have been included in the feed in error.",
+      "implications": "Applies most directly to small-to-mid product teams without dedicated design engineers. Moving to component-based handoffs with documented states is a process change, not just a tool change — it requires alignment on what 'done' means in design.",
       "tags": [
-        "Out of Scope"
+        "Design handoff",
+        "Design systems",
+        "Figma"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1359/0*Jqha5we_t5jCcD4G",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@ganeemy292/your-product-team-is-losing-time-because-designers-still-ship-pngs-c86ddfaa06e1?source=rss------product_design-5",
+      "pubDate": "Mon, 12 Oct 2026 20:34:23 GMT"
+    },
+    {
+      "headline": "High school students tour K-State tech programs",
+      "background": "A local news item about a high school group visiting Kansas State University to learn about technology career paths.",
+      "keyFindings": [
+        "Students from Great Bend High School visited K-State to explore emerging tech fields",
+        "The visit was framed as a career awareness initiative"
+      ],
+      "implications": "Not directly relevant to working UX or product practitioners. No actionable findings for professional practice.",
+      "tags": [
+        "Education",
+        "Tech careers"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Great Bend Tribune",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcnIwU2wtX09PZ1F5V1dhNV9nZGxwc3RnUE0xV2F1eEVOcDFHc1B3NVQxTmYwZjJydmVMaDRvTE5LSW9VcC1ickZtMEpxa19PdWFfZzV0RS1yOVFhbXRlTTN4cllVbHJIUW9JRC1lSWhvOXo2b01pVk9fVTE5MHZjbmVvVUhiaGhpRW11Tmw5SjlzdUpvU3JVX1ZxSVNhWldGWlBYekoxSnQ2MXR6M2ZJ?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 18:30:17 GMT"
+    },
+    {
+      "headline": "Multispectral camera market forecast through 2035",
+      "background": "A market research summary projecting growth in multispectral imaging hardware, primarily driven by precision agriculture applications.",
+      "keyFindings": [
+        "Precision agriculture is identified as the primary demand driver for multispectral cameras through 2035",
+        "The market is projected to expand significantly over the next decade per IndexBox data"
+      ],
+      "implications": "Not directly relevant to UX or product design practice. May be peripheral context for teams building agricultural tech products.",
+      "tags": [
+        "Market research",
+        "AgriTech",
+        "Hardware"
       ],
       "featured": false,
       "type": "research",
@@ -111,43 +133,41 @@
       "publishedWindow": "today",
       "image": null,
       "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTW9xcHRjLUdHbHEzREMwRXRDeVl0X2xLWXY2X1BJa0c0bGxVdEs4eEVQM0hCX0RjUlgyZjRDajJINE5tbWxHeHdMTHVlVVlEUWdneWhFX1lNaklwTVl0MlppRUpXbGFxZHNtOWVnRWd2NlhESWx6MWpGZmtaSEtnc3k5YkZTZTZTUTZWQWZSTlVqUkRlY1FoNGRPRjlla0hCeTNBUjMyQnBEcFcyRmZobkx6TUdJbV9xb0h3bDFZRVBpZXpaRlpLNEhtbDRPNW56dWFkTzZLRUlYUQ?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 16:06:04 GMT"
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeVVKRWFWcXJoOWVnN3A5QU9kT2lhZUtMZWY3OGtWSlhOTjBua3pxOV9xWkF2dlNHZGhUXzFRMVZXQW1Zc1ZrYTNMMGtSdzk4Vl9CRTdETlFxTHZiXzJDU29OdGl4clV3ME9hLU5Dam5kZ1dWZHMxZjB5cWtxcFg2Ni1jSFRCRmY4SjZqWEVvdkZNOWRySmtWOV83RnQzWHNqcW5PSkZBcGdUcGFSZEZ3bGdIbnppMUtSM0Y1LQ?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 17:16:05 GMT"
     },
     {
-      "headline": "Fuselab CEO predicts 2027 AI startups will look like control rooms",
-      "background": "As AI systems multiply, there's an open design and product question about how humans will manage fleets of agents and automated systems. This piece offers one executive's prediction about the interface paradigm that will dominate.",
+      "headline": "QNB Group wins seven digital banking awards",
+      "background": "A press release-style item covering QNB Group's recognition by Global Finance magazine across seven digital banking categories.",
       "keyFindings": [
-        "Fuselab Creative's CEO argues that successful AI startups by 2027 will organize their UX around control-room-style dashboards — centralized, high-density monitoring interfaces rather than conversational or single-task tools.",
-        "The prediction implies a shift from AI as assistant (one-to-one interaction) to AI as managed infrastructure (one-to-many oversight).",
-        "The framing positions human oversight and intervention capability as the core design challenge for the next generation of AI products."
+        "QNB won seven awards from Global Finance in digital banking",
+        "No specific product or UX innovations are described in the snippet"
       ],
-      "implications": "If this trajectory holds, product designers working on AI tools should be building oversight and control affordances now — not as edge features but as primary interface patterns. The control-room metaphor is worth examining against your own product's human-in-the-loop requirements.",
+      "implications": "No actionable findings for UX or product practitioners. Award announcements without disclosed criteria offer limited signal.",
       "tags": [
-        "AI tools",
-        "Product Strategy",
-        "Interface Design"
+        "Digital banking",
+        "Industry awards"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "markets.businessinsider.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcnNKNURhZkNrX0xyR3Bqdkl0ekQ4bjVNUzhzb2hYdVJUUDVwdHNabS1pY2VOWlZSZE9LYUU1REU2Y3Rkc0p1MHBHS2Z1b1h0NnlsNURaWEZ1X2N3N0pIM3hiQkY3QUZUQ3VNNVZPME9oWVJTRV8zYzFhc1VyTjlrMENYTjJxVmVQVk11OHgzeE42dG4tSWQyaGVxUS1FNm5JY1VDVXh6X3BjaV80MFNqWDY2QVpWYWM2endIZkNoQU81RlNEQk5GYjlkTEg?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 15:41:24 GMT"
+      "source": "Gulf Times",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTFRlVE50Qk5IYWxwdVZadWFLOXFFQkdyWTF4TlpjdXZFUDNHd1Z6ZDBMeVdVcFZTZHUyVXFKTHlad2pmLTk0dC1wQU9uMlRjSzMwWW1EUFFEWXZPYUQ2bHgtR2dqdUQ5QlcxMlNJUG9uZFBLYktMZEZ5SWFGVkxQQUNBcTRLLTFWdFNNeDJrbVo3YmZhZHhBWllHSTdzVUtDVWtDYnlaUDVJZ9IBqgFBVV95cUxNTFRlVE50Qk5IYWxwdVZadWFLOXFFQkdyWTF4TlpjdXZFUDNHd1Z6ZDBMeVdVcFZTZHUyVXFKTHlad2pmLTk0dC1wQU9uMlRjSzMwWW1EUFFEWXZPYUQ2bHgtR2dqdUQ5QlcxMlNJUG9uZFBLYktMZEZ5SWFGVkxQQUNBcTRLLTFWdFNNeDJrbVo3YmZhZHhBWllHSTdzVUtDVWtDYnlaUDVJZw?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 16:25:00 GMT"
     },
     {
-      "headline": "Endonuclease enzymes market forecast through 2035",
-      "background": "This is a market research report on endonuclease enzyme demand for gene editing and biopharma. It has no relevance to UX, product design, or technology practice.",
+      "headline": "MOPS SDS running buffers market forecast to 2035",
+      "background": "A market research summary on laboratory reagent demand, specifically MOPS SDS running buffers used in biologics research.",
       "keyFindings": [
-        "Not applicable to UX or product work.",
-        "Market forecast content for a life sciences reagent segment.",
-        "No design, research, or technology practice relevance found in available snippet."
+        "Biologics industry growth is cited as the primary demand driver",
+        "The forecast covers market expansion through 2035"
       ],
-      "implications": "No implications for UX, product, or tech practitioners. This article appears to have been included in the feed in error.",
+      "implications": "No relevance to UX, product, or tech practice. Out of scope for this digest.",
       "tags": [
-        "Out of Scope"
+        "Life sciences",
+        "Market research"
       ],
       "featured": false,
       "type": "research",
@@ -155,77 +175,52 @@
       "publishedWindow": "today",
       "image": null,
       "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONlVQYUJaa2lFeG1GcnFhb3RJV2V5d1pVZjc4T0NQWXFWYXNxX1BQTjg0TUdVaW9vT25VQ0c2ZXFMcXo0NUVZNUVxaTFYN0hfVU15d3F3VnBSR1AybUt1cG81SVM4Y2lfcFNJTWotZ1pVYW5aT016Q3FnUFcwY1lpTkZPUEpuYWdWMEp1Q01odHFIa1V4aWV1Yzc2eGpiS1ZHU3dHSmpuTWJVc2dhUmNwWmhkVVQzelNkR0gyUUQ3dzRkUjVTYVZtcmFR?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 14:46:04 GMT"
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTk9PcThXV2Y0RGNPTGhEcVJzZUJSMHp6NDdOZUV3cmZ1Zk1lZmVkYU9pTzFMNlAtZXN6UE1tcjd1bkV0ZEtpYzdYVFNSX1FaNUNURGlaTGZBbmhMNWN1OG9PT2FKeFhqbGFySWROa0xEMDFWSlRLWkM2cXp6cXh1RUNUWTM2bExqaTFRNDRDVmc4aGhUandlZDNsbmlBMjdqZUxMdlBXdGswd1kzdS1JQjFtRWtrU2JNQ3hTQk9VVm9FelE1ZFJn?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 12:46:04 GMT"
     },
     {
-      "headline": "Ten skills tech employers are paying for in 2026",
-      "background": "Tech hiring has shifted significantly since the 2022–2023 layoff cycles, with employers now emphasizing different skill profiles. Practitioners trying to position themselves or hire effectively need current signal on what's actually in demand versus what's just trending in discourse.",
+      "headline": "IIT Bombay's interaction design program: what it covers",
+      "background": "Jaro Education published a curriculum overview for IIT Bombay's executive postgraduate diploma in interaction design, targeting working professionals looking to formalize UX skills.",
       "keyFindings": [
-        "AI integration skills — specifically the ability to apply AI tools within existing engineering and product workflows — appear across the majority of current job postings analyzed.",
-        "Cybersecurity and cloud infrastructure skills continue to command salary premiums, with employers willing to pay above-average rates to close persistent supply gaps.",
-        "Data literacy is increasingly expected as a baseline rather than a specialist skill, showing up in roles not historically associated with data work."
+        "The program covers interaction design principles, prototyping, and user research methods",
+        "It is structured as an executive PGD, targeting mid-career professionals rather than entry-level candidates",
+        "IIT Bombay's institutional credibility is positioned as a key differentiator in the Indian design education market"
       ],
-      "implications": "For UX and product practitioners, the signal here is that AI fluency and data literacy are becoming table-stakes expectations — not differentiators. Worth factoring into skill development priorities and how you describe existing competencies in applications or on teams.",
+      "implications": "Useful context for practitioners in India evaluating formal credentialing options. Content appears to be promotional rather than independently reviewed — verify curriculum depth before enrolling.",
       "tags": [
-        "Hiring",
-        "Career Development",
-        "Skills"
+        "Design education",
+        "Career development",
+        "Interaction design"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Legit.ng",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRElaZ0VLWk40eDRHTTFzazRsM1BfR0dVTVNsSjIwZ3F6T0JMTUJqYzRTOXI0OW1qTGg3bTBvSzBXQXRMNUVDU2JtQ3V6dll6X2dYb25zQngtU3VGaWhFQkJmLWRIaG9yVExBSmpuNlRSWFhZUWZibS1zYXRXc3BkZm1IbU9UZUpwUWdOUGYyZEw3SEZ4Sk5xNnV6dXRjOEZpemh5NA?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 10:37:59 GMT"
+      "source": "Jaro Education",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVFDcVAwZmhHSmRwWk9HVEJhcExRMG9EQ1RQR203eS12a083MGJEWGJORlhmS2tNMjM0UEwtdF9jYVFCUVIwdkpkRnZIaHQ1dklfM0QybmQ1blpxVkZsMHNvcmFqekoxR3J6RURHZWdmb0w4TUZ0RmtnZ0xZcmlEVzd6TzlXcEFwOUNWc3pvc1kwX3ZrVGc?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 11:41:22 GMT"
     },
     {
-      "headline": "Junior product designer roles have nearly vanished from job postings",
-      "background": "There's been widespread anecdotal concern that entry-level design roles are disappearing, partly due to AI tools reducing the need for execution-heavy junior work and partly due to hiring freezes favoring senior talent. This piece attempts to quantify the problem.",
+      "headline": "Cytochalasin E reagent market forecast to 2035",
+      "background": "A market research item projecting growth in a niche biochemical reagent used in cytoskeleton-targeted drug discovery research.",
       "keyFindings": [
-        "Of 50 product designer job descriptions analyzed, only 2 explicitly welcomed or were open to junior-level candidates.",
-        "Most postings required 3–5 years of experience minimum, with several listing senior-level responsibilities under mid-level titles — a form of title compression that raises expectations without raising compensation.",
-        "The author found that portfolio requirements, case study depth expectations, and tool proficiency lists in many postings effectively screened out candidates with less than two years of experience regardless of stated seniority level."
+        "Drug discovery applications are cited as the growth driver for this reagent category",
+        "Forecast covers market trajectory through 2035"
       ],
-      "implications": "For hiring managers, this is a signal worth auditing: if your junior role posting mirrors senior expectations, you're likely filtering out viable candidates and contributing to a pipeline problem. For career changers or new graduates, the data suggests targeting smaller companies and startups where junior hiring is less systematically foreclosed.",
+      "implications": "No relevance to UX, product, or tech practice. Out of scope for this digest.",
       "tags": [
-        "Hiring",
-        "Career Development",
-        "Design Industry"
-      ],
-      "featured": true,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Medium",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcDFQcUZHQkQxSWp6Z19PUW1sWEhEZVBpS0ZieU9Sd3VvQ1A2WHdxTzcxNXhCSDRXejZyQlB3Tjk1R2lfV0VveEtmTkV6RE9TUVJLa0NkME11R3had3dfVzBYTVZtWU9DclFlQzc4bVN4ZkhkM0FNMUVfbFFJeEg0aUZBdWxBeFlUQmxvZFRwZkc0WDVoMnpNcmVOR3pzVXZQT1Z3dHpYYlYtWUN6NllIOEI5SFVwVnY0YlotckFBZ1U?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 08:23:54 GMT"
-    },
-    {
-      "headline": "One designer's framework for fixing broken design workflows",
-      "background": "Design workflow dysfunction — misaligned handoffs, unclear ownership, feedback arriving too late — is a persistent operational complaint across product teams. This piece presents one practitioner's proposed fixes, positioned as a structural rather than cultural solution.",
-      "keyFindings": [
-        "Vitalii Khomenko identifies the core breakdown as designers receiving engineering feedback too late in the process, after decisions have compounded — arguing for structured design-engineering sync points earlier in the cycle.",
-        "The proposed workflow separates exploration phases (high ambiguity, low stakeholder involvement) from alignment phases (structured reviews, decision gates) to reduce noise in critique sessions.",
-        "Khomenko recommends explicit design debt tracking alongside technical debt — giving teams a shared language for communicating the cost of deferred design decisions."
-      ],
-      "implications": "The design debt tracking recommendation is the most novel and immediately actionable element here — few teams formalize this, which makes it invisible in roadmap conversations. Worth piloting even if the broader workflow restructuring isn't feasible short-term.",
-      "tags": [
-        "Design Process",
-        "Collaboration",
-        "Design Ops"
+        "Life sciences",
+        "Market research"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "SitePoint",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15dlR3XzhkaVBvMy1WZDdsQjhnVENEeWU1dHU5cF84cVpCaW5zUUdERVJwTllHRXFjOWJQSy1qMkxpM0tEbGNMRlFOT2duaXRoM1BFTFFad0txdUJHaUcwcFNYUEE4RTdnamVMaWNobGZVcVFj?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 06:14:25 GMT"
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMlNzT2stTXlzNVRGVXdlSEFlWUVtME5zZU14WEI4UGtpdXVsZVF0dHFWRm9oQ1lUSE1wRXl0N1lzR2VvNDk1M1VSdTFvdk1VS2NmTlV1S243aEliU3ctRDdSLXdLUHU4blVDUmZPYW1QRnVUTjhaVXVGVm5NbTFJa0hOVXBvbFkxdlNTSU12VzlHamhIeUNxYUIzMXJLLUs4V05hYnViYkRpX1cwM0U2YzlqMFZRNGwxamkxWTVUaU5lalhPY0JlaTRBZW5RTERy?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 11:21:04 GMT"
     }
   ]
 }
