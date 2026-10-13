@@ -1,130 +1,172 @@
 {
-  "generatedAt": "2026-10-12T20:59:20.873Z",
+  "generatedAt": "2026-10-13T18:57:57.414Z",
   "items": [
     {
-      "headline": "Localized UX drove fintech landing page for Philippine users",
-      "background": "Fintech products in Southeast Asia often fail to convert because they apply Western design conventions to markets with distinct payment infrastructure, trust signals, and financial literacy levels. This case study addresses that gap for the Philippine market.",
+      "headline": "Better Handoffs: Closing the Design-to-Dev Gap",
+      "background": "Design-to-development handoff remains one of the most common friction points in product teams, with misread specs, missing states, and accessibility gaps creating rework cycles. Most existing guidance is either too abstract or tool-agnostic to be immediately useful.",
       "keyFindings": [
-        "Localized payment integrations were treated as a core UX decision, not a dev handoff afterthought",
-        "Transparent data architecture — showing users how yields are calculated — was used as a primary trust mechanism",
-        "High-converting landing pages in this market required explicit democratization framing to address skepticism around digital assets"
+        "Structured Figma file organization — including named components, clear layer hierarchies, and annotated edge cases — directly reduces developer interpretation errors.",
+        "Responsive design specs and accessibility annotations need to be embedded in the handoff file itself, not left to verbal communication or separate documents.",
+        "Clear communication protocols between designers and developers, not just better tooling, are identified as the primary driver of smoother handoffs."
       ],
-      "implications": "Relevant to product designers working on fintech in emerging markets: conversion optimization here is less about CTA placement and more about legibility of financial mechanisms and payment familiarity. Don't port Western fintech patterns wholesale.",
+      "implications": "Teams still treating handoff as a one-time file export rather than an ongoing communication process will see the most gains from formalizing annotation standards and responsive specs inside Figma. Most relevant to teams without dedicated design systems infrastructure.",
       "tags": [
-        "Fintech",
-        "Localization",
-        "Conversion design"
+        "Design Handoff",
+        "Figma",
+        "Design-Dev Collaboration"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1211/1*D0MrWMETqpyIWNCvHCS44g.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*Ai-ZAUUGDdCnSP_7KAJ20A.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@darkpiodos/designing-kresta-building-a-high-converting-fintech-landing-page-for-the-philippine-market-208db34dc57f?source=rss------product_design-5",
-      "pubDate": "Mon, 12 Oct 2026 20:46:01 GMT"
+      "link": "https://medium.com/@mugundhanmd874/ui-ux-handoff-bridging-the-gap-between-design-and-development-cb56c708ff8e?source=rss------product_design-5",
+      "pubDate": "Tue, 13 Oct 2026 18:14:04 GMT"
     },
     {
-      "headline": "Wealth management UX built for Philippine multi-currency complexity",
-      "background": "Wealth management portals typically target high-net-worth users in Western markets, but growing middle-class investor segments in Southeast Asia need tools that handle multi-currency flows and institutional trust signals in locally relevant ways.",
+      "headline": "Hop-on Share Processing Goes Electronic",
+      "background": "This is a financial/stock processing announcement with no relevance to UX, product, or technology practice.",
       "keyFindings": [
-        "Multi-currency data flows were designed as a UX architecture problem, not just a backend concern",
-        "Institutional trust markers — visual and structural cues borrowed from established finance — were deliberately embedded in the UI",
-        "The portal targeted complexity reduction as its core UX goal, not feature completeness"
+        "Hop-on shares are now eligible for electronic processing per Stock Titan reporting.",
+        "No UX, product, or design relevance identified."
       ],
-      "implications": "For product teams building financial tools in APAC: trust is communicated through structural clarity and familiar institutional cues, not just brand polish. Information architecture decisions here directly affect perceived credibility.",
+      "implications": "Not applicable to UX or product practice. Article appears in this batch in error.",
       "tags": [
-        "Fintech",
-        "Information architecture",
-        "Localization"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1211/1*dtt-KFxApt2NBhl4oTfwnw.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@darkpiodos/designing-finora-building-a-high-converting-wealth-management-portal-for-the-philippine-market-b35f8bc726a7?source=rss------product_design-5",
-      "pubDate": "Mon, 12 Oct 2026 20:46:01 GMT"
-    },
-    {
-      "headline": "AI accounting dashboards need less data, more explanation",
-      "background": "As AI handles more back-office work like data ingestion and categorization, designers are left with a UI problem: what does a dashboard show when the AI has already done most of the work? Traditional data-dense dashboards may be the wrong pattern.",
-      "keyFindings": [
-        "When AI completes the primary task, the dashboard's job shifts from enabling action to communicating confidence and status",
-        "Showing less data — not more — tested better for comprehension in an AI accounting ingestion screen",
-        "Explaining what the AI did and why matters more to users than showing the full output"
-      ],
-      "implications": "Designers building AI-assisted products should audit whether their dashboards are still optimized for human-driven workflows. If the AI is doing the work, users need legibility and trust signals, not raw data access.",
-      "tags": [
-        "AI tools",
-        "Dashboard design",
-        "Accounting software"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1400/1*KyWMTOD8nrFW6R3r0Lbsyg.png",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@muskaanaraidesigns/when-ai-does-the-work-the-dashboard-gets-a-different-job-62cdf40c03d6?source=rss------ux_research-5",
-      "pubDate": "Mon, 12 Oct 2026 20:41:31 GMT"
-    },
-    {
-      "headline": "Stop shipping PNGs: designers should hand off tokens, not images",
-      "background": "The gap between design files and production code remains a persistent source of rework and miscommunication on product teams. Static image exports in particular create ambiguity around spacing, states, and behavior that slows engineering.",
-      "keyFindings": [
-        "PNG handoffs force developers to make interpretive decisions that designers intended to specify",
-        "Structured Figma files with named components, constraints, and annotated states reduce implementation errors",
-        "The author frames this as a workflow cost problem — lost time, not just lost quality"
-      ],
-      "implications": "Applies most directly to small-to-mid product teams without dedicated design engineers. Moving to component-based handoffs with documented states is a process change, not just a tool change — it requires alignment on what 'done' means in design.",
-      "tags": [
-        "Design handoff",
-        "Design systems",
-        "Figma"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1359/0*Jqha5we_t5jCcD4G",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@ganeemy292/your-product-team-is-losing-time-because-designers-still-ship-pngs-c86ddfaa06e1?source=rss------product_design-5",
-      "pubDate": "Mon, 12 Oct 2026 20:34:23 GMT"
-    },
-    {
-      "headline": "High school students tour K-State tech programs",
-      "background": "A local news item about a high school group visiting Kansas State University to learn about technology career paths.",
-      "keyFindings": [
-        "Students from Great Bend High School visited K-State to explore emerging tech fields",
-        "The visit was framed as a career awareness initiative"
-      ],
-      "implications": "Not directly relevant to working UX or product practitioners. No actionable findings for professional practice.",
-      "tags": [
-        "Education",
-        "Tech careers"
+        "Off-Topic",
+        "Finance"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Great Bend Tribune",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcnIwU2wtX09PZ1F5V1dhNV9nZGxwc3RnUE0xV2F1eEVOcDFHc1B3NVQxTmYwZjJydmVMaDRvTE5LSW9VcC1ickZtMEpxa19PdWFfZzV0RS1yOVFhbXRlTTN4cllVbHJIUW9JRC1lSWhvOXo2b01pVk9fVTE5MHZjbmVvVUhiaGhpRW11Tmw5SjlzdUpvU3JVX1ZxSVNhWldGWlBYekoxSnQ2MXR6M2ZJ?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 18:30:17 GMT"
+      "source": "Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMXd5VVJBVE8yVVYxM3FnUmp3ZUZBb3JLVV9oWTRTRU0tRG1BcnlMaWhDalBlbTlQSXNBYTV5V0RUYUhpTmpaQWdEM2M4MTBZaENMNzRoSlY5elpRVThhQklEaDR6SzFpcFd0N1JQR1p5SnZpVVd1YjVhX3owVzgwWHlpVVFoTmg4R2E3ek5zZlFEUHhzX0d5NFNVdzN1WmZPbnRyRVkzVnhDV0NES05hemRzTEJMUGhMUHlGV3VB?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 18:10:00 GMT"
     },
     {
-      "headline": "Multispectral camera market forecast through 2035",
-      "background": "A market research summary projecting growth in multispectral imaging hardware, primarily driven by precision agriculture applications.",
+      "headline": "Visual UI Skills Alone Won't Get Junior Designers Hired",
+      "background": "The proliferation of AI design tools and high-quality UI kits has compressed the value of pixel-level craft, particularly for junior designers entering a tighter job market. There is active debate in the design community about what skills now differentiate candidates.",
       "keyFindings": [
-        "Precision agriculture is identified as the primary demand driver for multispectral cameras through 2035",
-        "The market is projected to expand significantly over the next decade per IndexBox data"
+        "The ability to produce aesthetically polished UI is no longer a differentiator when AI tools can generate comparable outputs rapidly and at low cost.",
+        "Junior designers are disproportionately affected because their portfolios historically led with visual execution rather than research, systems thinking, or problem framing.",
+        "The field is shifting toward valuing strategic thinking, communication, and cross-functional collaboration over static screen design craft."
       ],
-      "implications": "Not directly relevant to UX or product design practice. May be peripheral context for teams building agricultural tech products.",
+      "implications": "Junior designers should reframe portfolios around problem definition, decision rationale, and process documentation rather than leading with visual output. Hiring managers should audit whether their evaluation criteria still reflect what actually drives product outcomes.",
       "tags": [
-        "Market research",
-        "AgriTech",
+        "Design Careers",
+        "AI tools",
+        "Junior Designers"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1428/1*2v2yqLdV3RYuQIYIuuSE2g.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@seven_metrics/beautiful-ui-no-longer-guarantees-a-job-especially-for-junior-designers-where-is-ui-ux-heading-244afe02ad94?source=rss------product_design-5",
+      "pubDate": "Tue, 13 Oct 2026 17:47:32 GMT"
+    },
+    {
+      "headline": "Spatial Genomics Market Forecast Through 2035",
+      "background": "This is a life sciences market research report with no relevance to UX, product, or technology practice.",
+      "keyFindings": [
+        "Market forecast projects growth in base-resolution in situ hybridization assays through 2035.",
+        "No UX, product, or design relevance identified."
+      ],
+      "implications": "Not applicable to UX or product practice. Article appears in this batch in error.",
+      "tags": [
+        "Off-Topic",
+        "Life Sciences"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbXJBdXdoQmVobXRSajZTZWVFd25vRl9qaFdHWENyQ0xIV3JQRUdLTzZTeG5fT2ZxMFRsRjFtWnF2SjRqRlNJQk0xWVJWRGRRemJMb0Z6LWU5RXpneUR2NGdxTWhPbGNIWk1sQ2dHRmFnR1VaeGVjbkhhbVBhVlZ2Wlg3WTBmZWh0Y0ZwTlBVSjQxM0QtazYyMlVtZmlMRjJHem5WNWJiYndHTHNqY1JlWG9UclRUR1pPakp2RVBQN1ZHMXJ1RGtMVVl2cmdkY0ZpWmc?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 17:31:04 GMT"
+    },
+    {
+      "headline": "How Microsoft Scales Its Design Process Across Teams",
+      "background": "Large organizations with multiple product lines face a persistent challenge: maintaining design consistency and quality without creating bottlenecks or forcing a one-size-fits-all process on teams with different cadences and constraints.",
+      "keyFindings": [
+        "Microsoft's approach prioritizes shared design principles and systems infrastructure over mandating uniform workflows across product teams.",
+        "Scaling design effectively requires investment in documentation and tooling that lets individual teams move fast while staying aligned to broader standards.",
+        "Cross-functional collaboration structures — not just design systems — are positioned as critical to sustainable process scaling."
+      ],
+      "implications": "Relevant to design leads and ops roles at mid-to-large organizations. The core tension to watch: overly centralized process control slows teams, while full decentralization fragments the product experience. Microsoft's model suggests the answer lies in infrastructure, not oversight.",
+      "tags": [
+        "Design Operations",
+        "Design Systems",
+        "Scaling"
+      ],
+      "featured": true,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "microsoft.design",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCMjF0ZmJnQ0FKQjE1Vjc1bGRTOWRVUTFhOXBtRUo0TmVCUXQyX252bjNTZ3hwenhKQi1aZ3RMSlRVRDBhdnhIaUJjc1JKdjREMFVzZjVvd0VpU1dxYlhIZHc4X0RLTXEwVWdndTBR?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 16:48:59 GMT"
+    },
+    {
+      "headline": "Backpack Pocket Placement and Access Compared",
+      "background": "This is a consumer product comparison article about backpack compartment design with no direct relevance to UX, product, or technology practice, though peripheral connections to industrial or physical product design could be drawn.",
+      "keyFindings": [
+        "Pocket placement and opening type determine practical access patterns for different use cases.",
+        "Compartment count is identified as a misleading metric without additional context about size and accessibility.",
+        "No digital UX or product design relevance identified."
+      ],
+      "implications": "Not directly applicable to digital UX or product practice. May have marginal relevance to physical product or industrial designers evaluating affordance and access patterns.",
+      "tags": [
+        "Off-Topic",
+        "Physical Product Design"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*NiLOwlk6t9GdbP1AX3RUJQ.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@salestudia/backpack-pockets-compare-placement-and-access-aeea0a553416?source=rss------product_design-5",
+      "pubDate": "Tue, 13 Oct 2026 16:48:54 GMT"
+    },
+    {
+      "headline": "Build Research Frameworks That Survive Team Turnover",
+      "background": "Institutional knowledge loss is a chronic problem in UX research — when researchers leave, their mental models, tagging logic, and synthesis structures often go with them. This piece documents a real-world case where a deliberately structured insights model persisted long after the researcher who built it moved on.",
+      "keyFindings": [
+        "A five-field insights model — built for transferability, not personal preference — remained actively in use by the team sixteen months after the author's departure.",
+        "The model's durability came from its simplicity and clear field definitions, which reduced the interpretive burden on people who hadn't built it.",
+        "The author is now rethinking the framework's structure in light of AI-assisted synthesis, which changes how fields should be defined and weighted."
+      ],
+      "implications": "Research leads should design their tagging and synthesis structures as if they will leave tomorrow — explicit field definitions and minimal reliance on tacit knowledge are the key variables. Worth revisiting existing frameworks before layering in AI tooling, since AI will amplify both the strengths and ambiguities of whatever structure it inherits.",
+      "tags": [
+        "Research Operations",
+        "Knowledge Management",
+        "AI tools"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1448/1*KrMMemxq7R8M2O61D4p9mA.png",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@anna.brozyna2/research-that-outlasts-the-researcher-17eb95b69b95?source=rss------ux_research-5",
+      "pubDate": "Tue, 13 Oct 2026 16:47:58 GMT"
+    },
+    {
+      "headline": "Position Sensitive Detectors Market Forecast Through 2035",
+      "background": "This is a hardware instrumentation market research report with no relevance to UX, product, or technology practice.",
+      "keyFindings": [
+        "Market growth projected through 2035 driven by particle physics and medical imaging sectors.",
+        "No UX, product, or design relevance identified."
+      ],
+      "implications": "Not applicable to UX or product practice. Article appears in this batch in error.",
+      "tags": [
+        "Off-Topic",
         "Hardware"
       ],
       "featured": false,
@@ -133,41 +175,20 @@
       "publishedWindow": "today",
       "image": null,
       "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeVVKRWFWcXJoOWVnN3A5QU9kT2lhZUtMZWY3OGtWSlhOTjBua3pxOV9xWkF2dlNHZGhUXzFRMVZXQW1Zc1ZrYTNMMGtSdzk4Vl9CRTdETlFxTHZiXzJDU29OdGl4clV3ME9hLU5Dam5kZ1dWZHMxZjB5cWtxcFg2Ni1jSFRCRmY4SjZqWEVvdkZNOWRySmtWOV83RnQzWHNqcW5PSkZBcGdUcGFSZEZ3bGdIbnppMUtSM0Y1LQ?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 17:16:05 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSkZraU9GNkpvTW8zM0pXR1E3R1diTEhoV1ZrT0g5cFNUbDZ3VVZUeWFDTWRQd042UF9sdWFEZ2dfb2hDT0s0U0EyeURXZWJNWW1waGpCcjl2SHVZTmNwU0xxWmVxU0gzM0VLc0J4U2NWandXRkdmMWtaU1o2V2lHdTRFVXgtTzUwMUlmWlkydDZ6VHFHMDNjemJhNGxWQTZQYUlRS1dkZWlJTkFEd05XWmFpZ0syaWN6OHdZcXFSbkZhbUo3Q0hFNFZOOHhqUW1UNGc?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 14:41:04 GMT"
     },
     {
-      "headline": "QNB Group wins seven digital banking awards",
-      "background": "A press release-style item covering QNB Group's recognition by Global Finance magazine across seven digital banking categories.",
+      "headline": "Cell Therapy Demand Drives Stem Cell Growth Factor Market",
+      "background": "This is a life sciences market research report with no relevance to UX, product, or technology practice.",
       "keyFindings": [
-        "QNB won seven awards from Global Finance in digital banking",
-        "No specific product or UX innovations are described in the snippet"
+        "Stem cell growth factor market projected to accelerate through 2035 on cell therapy scale-up demand.",
+        "No UX, product, or design relevance identified."
       ],
-      "implications": "No actionable findings for UX or product practitioners. Award announcements without disclosed criteria offer limited signal.",
+      "implications": "Not applicable to UX or product practice. Article appears in this batch in error.",
       "tags": [
-        "Digital banking",
-        "Industry awards"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Gulf Times",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTFRlVE50Qk5IYWxwdVZadWFLOXFFQkdyWTF4TlpjdXZFUDNHd1Z6ZDBMeVdVcFZTZHUyVXFKTHlad2pmLTk0dC1wQU9uMlRjSzMwWW1EUFFEWXZPYUQ2bHgtR2dqdUQ5QlcxMlNJUG9uZFBLYktMZEZ5SWFGVkxQQUNBcTRLLTFWdFNNeDJrbVo3YmZhZHhBWllHSTdzVUtDVWtDYnlaUDVJZ9IBqgFBVV95cUxNTFRlVE50Qk5IYWxwdVZadWFLOXFFQkdyWTF4TlpjdXZFUDNHd1Z6ZDBMeVdVcFZTZHUyVXFKTHlad2pmLTk0dC1wQU9uMlRjSzMwWW1EUFFEWXZPYUQ2bHgtR2dqdUQ5QlcxMlNJUG9uZFBLYktMZEZ5SWFGVkxQQUNBcTRLLTFWdFNNeDJrbVo3YmZhZHhBWllHSTdzVUtDVWtDYnlaUDVJZw?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 16:25:00 GMT"
-    },
-    {
-      "headline": "MOPS SDS running buffers market forecast to 2035",
-      "background": "A market research summary on laboratory reagent demand, specifically MOPS SDS running buffers used in biologics research.",
-      "keyFindings": [
-        "Biologics industry growth is cited as the primary demand driver",
-        "The forecast covers market expansion through 2035"
-      ],
-      "implications": "No relevance to UX, product, or tech practice. Out of scope for this digest.",
-      "tags": [
-        "Life sciences",
-        "Market research"
+        "Off-Topic",
+        "Life Sciences"
       ],
       "featured": false,
       "type": "research",
@@ -175,43 +196,20 @@
       "publishedWindow": "today",
       "image": null,
       "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTk9PcThXV2Y0RGNPTGhEcVJzZUJSMHp6NDdOZUV3cmZ1Zk1lZmVkYU9pTzFMNlAtZXN6UE1tcjd1bkV0ZEtpYzdYVFNSX1FaNUNURGlaTGZBbmhMNWN1OG9PT2FKeFhqbGFySWROa0xEMDFWSlRLWkM2cXp6cXh1RUNUWTM2bExqaTFRNDRDVmc4aGhUandlZDNsbmlBMjdqZUxMdlBXdGswd1kzdS1JQjFtRWtrU2JNQ3hTQk9VVm9FelE1ZFJn?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 12:46:04 GMT"
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLS1hdnJVemRBWXgzLWxyS0pTdDgzN1Z4S1VnRUdsbXJfV2F1b29MaTZDRDl4YXVyUDIwTm11cTc1aFExTUhMUnp3SG9mbnQyQjJhTm90TnBxeFY0Nk5IdDlwbFlEcS12ajlGbmpTTzZPYlh0eEhKdkFYVDQ1dVMwTkRlMXhWazcycmFmS2h4a0QzM1JWc1p5NnR3dzhEMzhBNzJCb0ZMVVV3U3VKV0dCZlhRemRRQzdmUkN4R2FNdw?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 14:31:04 GMT"
     },
     {
-      "headline": "IIT Bombay's interaction design program: what it covers",
-      "background": "Jaro Education published a curriculum overview for IIT Bombay's executive postgraduate diploma in interaction design, targeting working professionals looking to formalize UX skills.",
+      "headline": "Irreversible Electroporation Generator Market Analysis",
+      "background": "This is a medical device market research report with no relevance to UX, product, or technology practice.",
       "keyFindings": [
-        "The program covers interaction design principles, prototyping, and user research methods",
-        "It is structured as an executive PGD, targeting mid-career professionals rather than entry-level candidates",
-        "IIT Bombay's institutional credibility is positioned as a key differentiator in the Indian design education market"
+        "Global market analysis and forecast provided for irreversible electroporation generators.",
+        "No UX, product, or design relevance identified."
       ],
-      "implications": "Useful context for practitioners in India evaluating formal credentialing options. Content appears to be promotional rather than independently reviewed — verify curriculum depth before enrolling.",
+      "implications": "Not applicable to UX or product practice. Article appears in this batch in error.",
       "tags": [
-        "Design education",
-        "Career development",
-        "Interaction design"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Jaro Education",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVFDcVAwZmhHSmRwWk9HVEJhcExRMG9EQ1RQR203eS12a083MGJEWGJORlhmS2tNMjM0UEwtdF9jYVFCUVIwdkpkRnZIaHQ1dklfM0QybmQ1blpxVkZsMHNvcmFqekoxR3J6RURHZWdmb0w4TUZ0RmtnZ0xZcmlEVzd6TzlXcEFwOUNWc3pvc1kwX3ZrVGc?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 11:41:22 GMT"
-    },
-    {
-      "headline": "Cytochalasin E reagent market forecast to 2035",
-      "background": "A market research item projecting growth in a niche biochemical reagent used in cytoskeleton-targeted drug discovery research.",
-      "keyFindings": [
-        "Drug discovery applications are cited as the growth driver for this reagent category",
-        "Forecast covers market trajectory through 2035"
-      ],
-      "implications": "No relevance to UX, product, or tech practice. Out of scope for this digest.",
-      "tags": [
-        "Life sciences",
-        "Market research"
+        "Off-Topic",
+        "Medical Devices"
       ],
       "featured": false,
       "type": "research",
@@ -219,8 +217,8 @@
       "publishedWindow": "today",
       "image": null,
       "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMlNzT2stTXlzNVRGVXdlSEFlWUVtME5zZU14WEI4UGtpdXVsZVF0dHFWRm9oQ1lUSE1wRXl0N1lzR2VvNDk1M1VSdTFvdk1VS2NmTlV1S243aEliU3ctRDdSLXdLUHU4blVDUmZPYW1QRnVUTjhaVXVGVm5NbTFJa0hOVXBvbFkxdlNTSU12VzlHamhIeUNxYUIzMXJLLUs4V05hYnViYkRpX1cwM0U2YzlqMFZRNGwxamkxWTVUaU5lalhPY0JlaTRBZW5RTERy?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 11:21:04 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamlYQzVOLWkzMXNULVFaY2Qyd2t4bFRWcHY2ZmNodlNnUnlqZTdkOHozOVlHWGdsYzRTaGg5YUJLNmZwb2lVM2E2MGFQRFJaaG9sVU90aXZNSDgzRlZtdTh3dXp5czdJeTNHd0w1V2JGbVFvYmtzUGlIQ0N6RzcyWVkwRlAzZHBhcUVJb1NtOTJoNWQ0eVUwaDlBLXlmN0tKRzlNU1pKMThIMWhySHBBZThsMUNVcUJ3NXRlWWJtcmpnNVZCTlFrdjZoNTZDNG5k?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 12:56:04 GMT"
     }
   ]
 }
