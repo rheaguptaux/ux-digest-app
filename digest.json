@@ -1,172 +1,18 @@
 {
-  "generatedAt": "2026-10-13T18:57:57.414Z",
+  "generatedAt": "2026-10-14T16:41:06.650Z",
   "items": [
     {
-      "headline": "Better Handoffs: Closing the Design-to-Dev Gap",
-      "background": "Design-to-development handoff remains one of the most common friction points in product teams, with misread specs, missing states, and accessibility gaps creating rework cycles. Most existing guidance is either too abstract or tool-agnostic to be immediately useful.",
+      "headline": "Qwen 27B LLM runs on jailbroken PS5 hardware",
+      "background": "Hobbyist and research communities have been experimenting with running large language models on unconventional consumer hardware. The PS5, with its powerful custom AMD GPU, has become a target since jailbreaks became viable.",
       "keyFindings": [
-        "Structured Figma file organization — including named components, clear layer hierarchies, and annotated edge cases — directly reduces developer interpretation errors.",
-        "Responsive design specs and accessibility annotations need to be embedded in the handoff file itself, not left to verbal communication or separate documents.",
-        "Clear communication protocols between designers and developers, not just better tooling, are identified as the primary driver of smoother handoffs."
+        "Qwen 27B, a 27-billion-parameter open-weight model, has been successfully run on a jailbroken PlayStation 5",
+        "The experiment demonstrates that modern LLMs can execute on consumer gaming hardware outside of traditional PC or server environments",
+        "No official Sony support exists for this; it relies entirely on unofficial firmware exploits"
       ],
-      "implications": "Teams still treating handoff as a one-time file export rather than an ongoing communication process will see the most gains from formalizing annotation standards and responsive specs inside Figma. Most relevant to teams without dedicated design systems infrastructure.",
+      "implications": "Mostly a proof-of-concept with limited direct product application, but relevant for teams thinking about on-device AI deployment — it signals that capable LLMs can run on constrained, non-standard silicon. Edge AI deployment assumptions may need revisiting.",
       "tags": [
-        "Design Handoff",
-        "Figma",
-        "Design-Dev Collaboration"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*Ai-ZAUUGDdCnSP_7KAJ20A.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@mugundhanmd874/ui-ux-handoff-bridging-the-gap-between-design-and-development-cb56c708ff8e?source=rss------product_design-5",
-      "pubDate": "Tue, 13 Oct 2026 18:14:04 GMT"
-    },
-    {
-      "headline": "Hop-on Share Processing Goes Electronic",
-      "background": "This is a financial/stock processing announcement with no relevance to UX, product, or technology practice.",
-      "keyFindings": [
-        "Hop-on shares are now eligible for electronic processing per Stock Titan reporting.",
-        "No UX, product, or design relevance identified."
-      ],
-      "implications": "Not applicable to UX or product practice. Article appears in this batch in error.",
-      "tags": [
-        "Off-Topic",
-        "Finance"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMXd5VVJBVE8yVVYxM3FnUmp3ZUZBb3JLVV9oWTRTRU0tRG1BcnlMaWhDalBlbTlQSXNBYTV5V0RUYUhpTmpaQWdEM2M4MTBZaENMNzRoSlY5elpRVThhQklEaDR6SzFpcFd0N1JQR1p5SnZpVVd1YjVhX3owVzgwWHlpVVFoTmg4R2E3ek5zZlFEUHhzX0d5NFNVdzN1WmZPbnRyRVkzVnhDV0NES05hemRzTEJMUGhMUHlGV3VB?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 18:10:00 GMT"
-    },
-    {
-      "headline": "Visual UI Skills Alone Won't Get Junior Designers Hired",
-      "background": "The proliferation of AI design tools and high-quality UI kits has compressed the value of pixel-level craft, particularly for junior designers entering a tighter job market. There is active debate in the design community about what skills now differentiate candidates.",
-      "keyFindings": [
-        "The ability to produce aesthetically polished UI is no longer a differentiator when AI tools can generate comparable outputs rapidly and at low cost.",
-        "Junior designers are disproportionately affected because their portfolios historically led with visual execution rather than research, systems thinking, or problem framing.",
-        "The field is shifting toward valuing strategic thinking, communication, and cross-functional collaboration over static screen design craft."
-      ],
-      "implications": "Junior designers should reframe portfolios around problem definition, decision rationale, and process documentation rather than leading with visual output. Hiring managers should audit whether their evaluation criteria still reflect what actually drives product outcomes.",
-      "tags": [
-        "Design Careers",
-        "AI tools",
-        "Junior Designers"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1428/1*2v2yqLdV3RYuQIYIuuSE2g.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@seven_metrics/beautiful-ui-no-longer-guarantees-a-job-especially-for-junior-designers-where-is-ui-ux-heading-244afe02ad94?source=rss------product_design-5",
-      "pubDate": "Tue, 13 Oct 2026 17:47:32 GMT"
-    },
-    {
-      "headline": "Spatial Genomics Market Forecast Through 2035",
-      "background": "This is a life sciences market research report with no relevance to UX, product, or technology practice.",
-      "keyFindings": [
-        "Market forecast projects growth in base-resolution in situ hybridization assays through 2035.",
-        "No UX, product, or design relevance identified."
-      ],
-      "implications": "Not applicable to UX or product practice. Article appears in this batch in error.",
-      "tags": [
-        "Off-Topic",
-        "Life Sciences"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbXJBdXdoQmVobXRSajZTZWVFd25vRl9qaFdHWENyQ0xIV3JQRUdLTzZTeG5fT2ZxMFRsRjFtWnF2SjRqRlNJQk0xWVJWRGRRemJMb0Z6LWU5RXpneUR2NGdxTWhPbGNIWk1sQ2dHRmFnR1VaeGVjbkhhbVBhVlZ2Wlg3WTBmZWh0Y0ZwTlBVSjQxM0QtazYyMlVtZmlMRjJHem5WNWJiYndHTHNqY1JlWG9UclRUR1pPakp2RVBQN1ZHMXJ1RGtMVVl2cmdkY0ZpWmc?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 17:31:04 GMT"
-    },
-    {
-      "headline": "How Microsoft Scales Its Design Process Across Teams",
-      "background": "Large organizations with multiple product lines face a persistent challenge: maintaining design consistency and quality without creating bottlenecks or forcing a one-size-fits-all process on teams with different cadences and constraints.",
-      "keyFindings": [
-        "Microsoft's approach prioritizes shared design principles and systems infrastructure over mandating uniform workflows across product teams.",
-        "Scaling design effectively requires investment in documentation and tooling that lets individual teams move fast while staying aligned to broader standards.",
-        "Cross-functional collaboration structures — not just design systems — are positioned as critical to sustainable process scaling."
-      ],
-      "implications": "Relevant to design leads and ops roles at mid-to-large organizations. The core tension to watch: overly centralized process control slows teams, while full decentralization fragments the product experience. Microsoft's model suggests the answer lies in infrastructure, not oversight.",
-      "tags": [
-        "Design Operations",
-        "Design Systems",
-        "Scaling"
-      ],
-      "featured": true,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "microsoft.design",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCMjF0ZmJnQ0FKQjE1Vjc1bGRTOWRVUTFhOXBtRUo0TmVCUXQyX252bjNTZ3hwenhKQi1aZ3RMSlRVRDBhdnhIaUJjc1JKdjREMFVzZjVvd0VpU1dxYlhIZHc4X0RLTXEwVWdndTBR?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 16:48:59 GMT"
-    },
-    {
-      "headline": "Backpack Pocket Placement and Access Compared",
-      "background": "This is a consumer product comparison article about backpack compartment design with no direct relevance to UX, product, or technology practice, though peripheral connections to industrial or physical product design could be drawn.",
-      "keyFindings": [
-        "Pocket placement and opening type determine practical access patterns for different use cases.",
-        "Compartment count is identified as a misleading metric without additional context about size and accessibility.",
-        "No digital UX or product design relevance identified."
-      ],
-      "implications": "Not directly applicable to digital UX or product practice. May have marginal relevance to physical product or industrial designers evaluating affordance and access patterns.",
-      "tags": [
-        "Off-Topic",
-        "Physical Product Design"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*NiLOwlk6t9GdbP1AX3RUJQ.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@salestudia/backpack-pockets-compare-placement-and-access-aeea0a553416?source=rss------product_design-5",
-      "pubDate": "Tue, 13 Oct 2026 16:48:54 GMT"
-    },
-    {
-      "headline": "Build Research Frameworks That Survive Team Turnover",
-      "background": "Institutional knowledge loss is a chronic problem in UX research — when researchers leave, their mental models, tagging logic, and synthesis structures often go with them. This piece documents a real-world case where a deliberately structured insights model persisted long after the researcher who built it moved on.",
-      "keyFindings": [
-        "A five-field insights model — built for transferability, not personal preference — remained actively in use by the team sixteen months after the author's departure.",
-        "The model's durability came from its simplicity and clear field definitions, which reduced the interpretive burden on people who hadn't built it.",
-        "The author is now rethinking the framework's structure in light of AI-assisted synthesis, which changes how fields should be defined and weighted."
-      ],
-      "implications": "Research leads should design their tagging and synthesis structures as if they will leave tomorrow — explicit field definitions and minimal reliance on tacit knowledge are the key variables. Worth revisiting existing frameworks before layering in AI tooling, since AI will amplify both the strengths and ambiguities of whatever structure it inherits.",
-      "tags": [
-        "Research Operations",
-        "Knowledge Management",
-        "AI tools"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1448/1*KrMMemxq7R8M2O61D4p9mA.png",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@anna.brozyna2/research-that-outlasts-the-researcher-17eb95b69b95?source=rss------ux_research-5",
-      "pubDate": "Tue, 13 Oct 2026 16:47:58 GMT"
-    },
-    {
-      "headline": "Position Sensitive Detectors Market Forecast Through 2035",
-      "background": "This is a hardware instrumentation market research report with no relevance to UX, product, or technology practice.",
-      "keyFindings": [
-        "Market growth projected through 2035 driven by particle physics and medical imaging sectors.",
-        "No UX, product, or design relevance identified."
-      ],
-      "implications": "Not applicable to UX or product practice. Article appears in this batch in error.",
-      "tags": [
-        "Off-Topic",
+        "On-device AI",
+        "Open-weight models",
         "Hardware"
       ],
       "featured": false,
@@ -174,51 +20,216 @@
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSkZraU9GNkpvTW8zM0pXR1E3R1diTEhoV1ZrT0g5cFNUbDZ3VVZUeWFDTWRQd042UF9sdWFEZ2dfb2hDT0s0U0EyeURXZWJNWW1waGpCcjl2SHVZTmNwU0xxWmVxU0gzM0VLc0J4U2NWandXRkdmMWtaU1o2V2lHdTRFVXgtTzUwMUlmWlkydDZ6VHFHMDNjemJhNGxWQTZQYUlRS1dkZWlJTkFEd05XWmFpZ0syaWN6OHdZcXFSbkZhbUo3Q0hFNFZOOHhqUW1UNGc?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 14:41:04 GMT"
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmVfZ3l5XzhCYURydXh0TXRlcDVYb3ExZWpOSDRaRGxCbmN2b25xZnhtY1lrOW80NDdFa1RyT08yZENKMFNod0YybjVodl9sRFBtc19ZdXhtY0dTR2N0dEQ4aVAyWEFzZm10dUdaX2J6amxsVWxoSFVCMzFTN3YyRm5iNmdsMjRjYTN5TERVaFFhdXB2VVNZ?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 16:30:45 GMT"
     },
     {
-      "headline": "Cell Therapy Demand Drives Stem Cell Growth Factor Market",
-      "background": "This is a life sciences market research report with no relevance to UX, product, or technology practice.",
+      "headline": "Overdrive PS5 storefront closes, gives away 1,600 games free",
+      "background": "Third-party digital game storefronts for consoles have faced ongoing viability challenges, squeezed between platform holders and thin margins. Overdrive was an independent PS5 content distribution experiment.",
       "keyFindings": [
-        "Stem cell growth factor market projected to accelerate through 2035 on cell therapy scale-up demand.",
-        "No UX, product, or design relevance identified."
+        "The Overdrive PS5 store is shutting down permanently",
+        "Users received access to approximately 1,600 games at no cost as part of the closure",
+        "The shutdown reflects the difficulty of sustaining independent distribution layers on closed console platforms"
       ],
-      "implications": "Not applicable to UX or product practice. Article appears in this batch in error.",
+      "implications": "For product teams building on top of closed platform ecosystems, this is a reminder that dependency on platform holders for distribution creates existential risk. Relevant to anyone designing marketplace or storefront products within walled gardens.",
       "tags": [
-        "Off-Topic",
-        "Life Sciences"
+        "Digital storefronts",
+        "Platform risk",
+        "Gaming"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLS1hdnJVemRBWXgzLWxyS0pTdDgzN1Z4S1VnRUdsbXJfV2F1b29MaTZDRDl4YXVyUDIwTm11cTc1aFExTUhMUnp3SG9mbnQyQjJhTm90TnBxeFY0Nk5IdDlwbFlEcS12ajlGbmpTTzZPYlh0eEhKdkFYVDQ1dVMwTkRlMXhWazcycmFmS2h4a0QzM1JWc1p5NnR3dzhEMzhBNzJCb0ZMVVV3U3VKV0dCZlhRemRRQzdmUkN4R2FNdw?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 14:31:04 GMT"
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VQjBCOV9sT29RVk1HcjVTbmRFdEZ4R283VE00MFRHNWllcHlyRnFPd21LUHFHOGt4aFV6VmtaTGgyS3drRjhRNDFDQ2RRSFFhWmVmV2dmSGM4ZFZ1Q0UtYTFxTFJnc3VBOXBPeFUxY2VIQkpDTHpxMXBOc0hZdw?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 16:16:49 GMT"
     },
     {
-      "headline": "Irreversible Electroporation Generator Market Analysis",
-      "background": "This is a medical device market research report with no relevance to UX, product, or technology practice.",
+      "headline": "PS5 Midnight Black edition launches Japan-only at ¥55,000",
+      "background": "Sony has periodically released regional hardware colorways and limited editions as market-specific product strategies, particularly in Japan where hardware aesthetics carry strong consumer weight.",
       "keyFindings": [
-        "Global market analysis and forecast provided for irreversible electroporation generators.",
-        "No UX, product, or design relevance identified."
+        "The Midnight Black PS5 variant will release exclusively in Japan on November 19",
+        "Retail price is set at ¥55,000, roughly $360 USD at current rates",
+        "No global release has been announced"
       ],
-      "implications": "Not applicable to UX or product practice. Article appears in this batch in error.",
+      "implications": "Minimal direct UX or product implication. Of note for teams tracking hardware segmentation strategies or regional product rollout patterns as examples of deliberate geographic exclusivity.",
       "tags": [
-        "Off-Topic",
-        "Medical Devices"
+        "Hardware",
+        "Regional strategy",
+        "Gaming"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamlYQzVOLWkzMXNULVFaY2Qyd2t4bFRWcHY2ZmNodlNnUnlqZTdkOHozOVlHWGdsYzRTaGg5YUJLNmZwb2lVM2E2MGFQRFJaaG9sVU90aXZNSDgzRlZtdTh3dXp5czdJeTNHd0w1V2JGbVFvYmtzUGlIQ0N6RzcyWVkwRlAzZHBhcUVJb1NtOTJoNWQ0eVUwaDlBLXlmN0tKRzlNU1pKMThIMWhySHBBZThsMUNVcUJ3NXRlWWJtcmpnNVZCTlFrdjZoNTZDNG5k?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 12:56:04 GMT"
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeUNvdWpRZUNBNXZ6ajAyajF1TnNzMTlqWFRLYlBaMTlWVHZzNkRIYjZlVmcxbXZUc3d4dy1GVnBzWGZjYU1nVEdPYWk3NUM2RTM3ZjNxbmplTmtfdnZBSmFnc3ZDN2gwLW41Y2pPd0x6OFBwbHh5ejJ6ay0zaGZyOU9MYXJpZXBDV3lB?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 16:16:45 GMT"
+    },
+    {
+      "headline": "Sunday Club pitched a printed newspaper for games on Shark Tank",
+      "background": "Sunday Club appeared on Shark Tank with a physical newspaper product dedicated to video game culture, entering a media landscape where print is broadly declining but niche print is experiencing selective revival.",
+      "keyFindings": [
+        "Sunday Club produces a physical printed newspaper format focused on gaming content",
+        "The product was pitched on Shark Tank, giving it national visibility",
+        "The format bets on tactile, offline media as a differentiator in a saturated digital games-media market"
+      ],
+      "implications": "Niche print products succeeding where broad print fails is a documented pattern — relevant for content strategists and product teams thinking about format differentiation. Worth watching as a case study in audience-specific channel choices.",
+      "tags": [
+        "Content strategy",
+        "Media formats",
+        "Gaming"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "The Cinemaholic",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94QkxuQnZWNEUyNmFhYW1hXzN5WTNuZVF2SXhFeE95TTVQcF9zLWRLcjg2SXA3X0pnTENGTU1DSVhZaVJyOFJWY1kxc0xieU9Sa015RVo2TlRhVWdNWUJz?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 15:51:06 GMT"
+    },
+    {
+      "headline": "Who evaluates AI quality when AI does the work?",
+      "background": "As AI takes over more content and decision-making tasks, a foundational quality-assurance problem is emerging: the humans who previously judged output quality are being removed from workflows, leaving no clear evaluator.",
+      "keyFindings": [
+        "The piece argues that AI displacement of workers also removes the domain expertise needed to assess whether AI output is actually good",
+        "Without skilled human reviewers, quality degradation may go undetected until it causes downstream harm",
+        "This is framed as a structural problem in AI adoption, not just a staffing issue"
+      ],
+      "implications": "Product and UX teams deploying AI in content or decision workflows need to explicitly preserve human evaluation capacity — don't eliminate the roles that supply quality judgment. This is especially critical in regulated or high-stakes domains.",
+      "tags": [
+        "AI quality",
+        "Workflow design",
+        "Human oversight"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*WqUY3aOC_83qT8kHkXWpsA.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@rubykuan/ai-%E5%8F%96%E4%BB%A3%E4%BA%86%E6%88%91%E5%80%91%E4%BD%86%E8%AA%B0%E4%BE%86%E5%88%A4%E6%96%B7%E5%AE%83%E5%81%9A%E5%BE%97%E5%A5%BD%E4%B8%8D%E5%A5%BD-e03aeacca8fc?source=rss------product_design-5",
+      "pubDate": "Wed, 14 Oct 2026 15:47:39 GMT"
+    },
+    {
+      "headline": "OpenAI flagged a $23 Amazon recorder as a security threat",
+      "background": "OpenAI's internal security and trust work occasionally surfaces consumer hardware being used in ways that pose risks to its systems or users. Inexpensive, commercially available recording hardware is an underexamined attack surface.",
+      "keyFindings": [
+        "OpenAI identified a specific consumer audio recorder sold on Amazon for $23 as a sophisticated surveillance risk",
+        "The device was flagged in a security context, suggesting it was being used or could be used to capture sensitive conversations",
+        "The low price point makes this category of hardware accessible at scale"
+      ],
+      "implications": "For teams running user research, design sprints, or confidential product discussions, cheap consumer recording hardware in physical spaces is a real and underappreciated risk. Physical space security deserves the same scrutiny as digital.",
+      "tags": [
+        "Security",
+        "Physical surveillance",
+        "Privacy"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQzdyT1lVNks0Y2VEOEIwNE1seFVraU11QTl0TUZNQmJxRGNJN2RjbWtVTTlxQklIeUEwSncyY0o2OVNiS2U1OFJfZVlhSFZ3Zl9vQk13cUZDdGtuUGdJc0MwTXo1UjdzdzR3YUU5eVQzN3Zlem9DazQ1SVdVcWxvWWpVUjNWSlphM3RDVi1PdDhyTGY2aTdBdkJzYw?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 15:18:20 GMT"
+    },
+    {
+      "headline": "Figma's complexity is catching up with vibe-coded workflows",
+      "background": "'Vibe coding' — using AI to generate functional interfaces rapidly without deep technical grounding — has spread to design tooling. Figma, as the dominant design tool, is now being stress-tested by this pattern.",
+      "keyFindings": [
+        "The piece argues Figma is becoming a victim of vibe-coded design: output that looks functional but lacks structural integrity",
+        "AI-assisted design in Figma is producing components and layouts that break under real product conditions",
+        "The problem is framed as systemic, not a matter of individual skill"
+      ],
+      "implications": "Design systems leads and product designers using AI-assisted Figma workflows need to build in explicit structural review gates. Speed gains from AI generation are being offset by downstream rework if component logic and constraints aren't validated.",
+      "tags": [
+        "Design tools",
+        "AI-assisted design",
+        "Design systems"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1474/1*9Jx63oEDWqUCNbE3DkuKVw.png",
+      "source": "UX on Medium",
+      "link": "https://levelup.gitconnected.com/figma-is-the-next-vibe-coded-victim-ffca4cb89b7a?source=rss------ux-5",
+      "pubDate": "Wed, 14 Oct 2026 15:13:17 GMT"
+    },
+    {
+      "headline": "Design system docs have a hidden third reader you're ignoring",
+      "background": "Design system documentation has traditionally been written for two audiences: designers and developers. The emergence of AI as a consumer of structured component specs is forcing a rethink of what documentation actually needs to contain.",
+      "keyFindings": [
+        "Knapsack released an open spec called the Design System Contract: a single structured file per component that formalizes its properties and constraints",
+        "The 'third reader' the piece identifies is AI tooling, which parses design system docs to generate or validate code and design decisions",
+        "Unstructured or ambiguous documentation fails AI consumers in ways that don't surface until generation errors occur"
+      ],
+      "implications": "Teams maintaining design systems should audit their component documentation for machine-readability now, not after AI tooling is embedded in their workflow. The Design System Contract spec is a concrete starting point worth evaluating.",
+      "tags": [
+        "Design systems",
+        "AI tooling",
+        "Documentation"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*bSqpTwuW3SisjAB8RSLzbg.jpeg",
+      "source": "Product Design on Medium",
+      "link": "https://www.designsystemscollective.com/your-design-system-has-a-third-reader-and-it-isnt-ai-716e98da447a?source=rss------product_design-5",
+      "pubDate": "Wed, 14 Oct 2026 14:45:01 GMT"
+    },
+    {
+      "headline": "AI companion loss reveals what good digital companionship requires",
+      "background": "AI companion products like Character.AI and Replika have built strong emotional attachment among users, raising unresolved product questions about what happens when characters are altered, deprecated, or removed.",
+      "keyFindings": [
+        "The piece examines how users respond to the disappearance or change of an AI character they had formed a relationship with",
+        "It frames continuity — the consistent presence of a character over time — as a core design requirement, not a nice-to-have",
+        "Founders building in this space are asking how to operationalize care and attachment as product attributes"
+      ],
+      "implications": "For teams building AI companion or agent products, character continuity and offboarding design are critical and underspecified problems. Abrupt changes to AI personas carry real user harm — this needs explicit product policy, not just technical decisions.",
+      "tags": [
+        "AI companions",
+        "Emotional design",
+        "Product ethics"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*bYfZRsDIuQfdYd-ZTztDtw.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@billhongmoney/when-a-character-disappears-we-learn-what-companionship-asks-of-us-7a54172e3383?source=rss------product_design-5",
+      "pubDate": "Wed, 14 Oct 2026 14:41:02 GMT"
+    },
+    {
+      "headline": "AI-written phishing invites are hijacking Google accounts in Taiwan",
+      "background": "Phishing attacks have been evolving with AI-generated content that is more convincing and harder to detect by both users and spam filters. Taiwan has become a documented target of sophisticated state-adjacent cyberattacks.",
+      "keyFindings": [
+        "Attackers are using AI-generated text to craft fake event invitations that successfully steal Google account credentials",
+        "The attacks are specifically targeting users in Taiwan, suggesting a coordinated and geographically focused campaign",
+        "AI-written phishing content is polished enough to bypass typical linguistic red flags users rely on to spot fakes"
+      ],
+      "implications": "UX and product teams building communication or calendar features need to revisit trust signal design — AI-generated phishing removes the grammar and formatting cues users historically used as warning signs. Security education materials are now outdated on this point.",
+      "tags": [
+        "Phishing",
+        "AI-generated content",
+        "Security"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmxoWGNXeklVRkRlYW1PSHpLY0lpaWxDRVp1dTVsUEZuUG1WdExGeFN1SnF4cDNQbmdKN3docFZhSjdiRDJjbmV3UUhOdVFXdmU4emNUUHVrRVZNR0VKQkhOZEpkbFQzeVc3TUdsYmZiZm5DcGFpdWR5Wkt6RUVjZklPLWVjV3NJOVNXd1VUZWNBWno1OTEtR3NXdjNYN0E?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 14:19:52 GMT"
     }
   ]
 }
