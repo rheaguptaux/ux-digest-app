@@ -1,226 +1,180 @@
 {
-  "generatedAt": "2026-10-14T16:41:06.650Z",
+  "generatedAt": "2026-10-15T16:26:37.117Z",
   "items": [
     {
-      "headline": "Qwen 27B LLM runs on jailbroken PS5 hardware",
-      "background": "Hobbyist and research communities have been experimenting with running large language models on unconventional consumer hardware. The PS5, with its powerful custom AMD GPU, has become a target since jailbreaks became viable.",
+      "headline": "Designer bets £2,000 on AI-assisted business building",
+      "background": "There's growing pressure on designers to leverage AI not just as a tool but as a co-founder or business accelerator. This piece documents a real attempt to do exactly that, with a fixed budget and no predetermined product idea.",
       "keyFindings": [
-        "Qwen 27B, a 27-billion-parameter open-weight model, has been successfully run on a jailbroken PlayStation 5",
-        "The experiment demonstrates that modern LLMs can execute on consumer gaming hardware outside of traditional PC or server environments",
-        "No official Sony support exists for this; it relies entirely on unofficial firmware exploits"
+        "Author starts with £2,000 and uses AI to research, validate, and prototype business directions",
+        "The experiment surfaces a tension between AI's ability to generate options and the human need to have conviction in a direction",
+        "No clear product emerges from the initial AI-assisted process, complicating the narrative that AI accelerates entrepreneurship"
       ],
-      "implications": "Mostly a proof-of-concept with limited direct product application, but relevant for teams thinking about on-device AI deployment — it signals that capable LLMs can run on constrained, non-standard silicon. Edge AI deployment assumptions may need revisiting.",
+      "implications": "Useful reality check for designers considering AI-assisted indie ventures. The budget and process details make this more grounded than typical 'AI startup' content, but outcomes remain thin — treat as a process document, not a success template.",
       "tags": [
-        "On-device AI",
-        "Open-weight models",
-        "Hardware"
+        "AI tools",
+        "Freelance",
+        "Entrepreneurship"
       ],
       "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmVfZ3l5XzhCYURydXh0TXRlcDVYb3ExZWpOSDRaRGxCbmN2b25xZnhtY1lrOW80NDdFa1RyT08yZENKMFNod0YybjVodl9sRFBtc19ZdXhtY0dTR2N0dEQ4aVAyWEFzZm10dUdaX2J6amxsVWxoSFVCMzFTN3YyRm5iNmdsMjRjYTN5TERVaFFhdXB2VVNZ?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 16:30:45 GMT"
-    },
-    {
-      "headline": "Overdrive PS5 storefront closes, gives away 1,600 games free",
-      "background": "Third-party digital game storefronts for consoles have faced ongoing viability challenges, squeezed between platform holders and thin margins. Overdrive was an independent PS5 content distribution experiment.",
-      "keyFindings": [
-        "The Overdrive PS5 store is shutting down permanently",
-        "Users received access to approximately 1,600 games at no cost as part of the closure",
-        "The shutdown reflects the difficulty of sustaining independent distribution layers on closed console platforms"
-      ],
-      "implications": "For product teams building on top of closed platform ecosystems, this is a reminder that dependency on platform holders for distribution creates existential risk. Relevant to anyone designing marketplace or storefront products within walled gardens.",
-      "tags": [
-        "Digital storefronts",
-        "Platform risk",
-        "Gaming"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VQjBCOV9sT29RVk1HcjVTbmRFdEZ4R283VE00MFRHNWllcHlyRnFPd21LUHFHOGt4aFV6VmtaTGgyS3drRjhRNDFDQ2RRSFFhWmVmV2dmSGM4ZFZ1Q0UtYTFxTFJnc3VBOXBPeFUxY2VIQkpDTHpxMXBOc0hZdw?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 16:16:49 GMT"
-    },
-    {
-      "headline": "PS5 Midnight Black edition launches Japan-only at ¥55,000",
-      "background": "Sony has periodically released regional hardware colorways and limited editions as market-specific product strategies, particularly in Japan where hardware aesthetics carry strong consumer weight.",
-      "keyFindings": [
-        "The Midnight Black PS5 variant will release exclusively in Japan on November 19",
-        "Retail price is set at ¥55,000, roughly $360 USD at current rates",
-        "No global release has been announced"
-      ],
-      "implications": "Minimal direct UX or product implication. Of note for teams tracking hardware segmentation strategies or regional product rollout patterns as examples of deliberate geographic exclusivity.",
-      "tags": [
-        "Hardware",
-        "Regional strategy",
-        "Gaming"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeUNvdWpRZUNBNXZ6ajAyajF1TnNzMTlqWFRLYlBaMTlWVHZzNkRIYjZlVmcxbXZUc3d4dy1GVnBzWGZjYU1nVEdPYWk3NUM2RTM3ZjNxbmplTmtfdnZBSmFnc3ZDN2gwLW41Y2pPd0x6OFBwbHh5ejJ6ay0zaGZyOU9MYXJpZXBDV3lB?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 16:16:45 GMT"
-    },
-    {
-      "headline": "Sunday Club pitched a printed newspaper for games on Shark Tank",
-      "background": "Sunday Club appeared on Shark Tank with a physical newspaper product dedicated to video game culture, entering a media landscape where print is broadly declining but niche print is experiencing selective revival.",
-      "keyFindings": [
-        "Sunday Club produces a physical printed newspaper format focused on gaming content",
-        "The product was pitched on Shark Tank, giving it national visibility",
-        "The format bets on tactile, offline media as a differentiator in a saturated digital games-media market"
-      ],
-      "implications": "Niche print products succeeding where broad print fails is a documented pattern — relevant for content strategists and product teams thinking about format differentiation. Worth watching as a case study in audience-specific channel choices.",
-      "tags": [
-        "Content strategy",
-        "Media formats",
-        "Gaming"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "The Cinemaholic",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94QkxuQnZWNEUyNmFhYW1hXzN5WTNuZVF2SXhFeE95TTVQcF9zLWRLcjg2SXA3X0pnTENGTU1DSVhZaVJyOFJWY1kxc0xieU9Sa015RVo2TlRhVWdNWUJz?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 15:51:06 GMT"
-    },
-    {
-      "headline": "Who evaluates AI quality when AI does the work?",
-      "background": "As AI takes over more content and decision-making tasks, a foundational quality-assurance problem is emerging: the humans who previously judged output quality are being removed from workflows, leaving no clear evaluator.",
-      "keyFindings": [
-        "The piece argues that AI displacement of workers also removes the domain expertise needed to assess whether AI output is actually good",
-        "Without skilled human reviewers, quality degradation may go undetected until it causes downstream harm",
-        "This is framed as a structural problem in AI adoption, not just a staffing issue"
-      ],
-      "implications": "Product and UX teams deploying AI in content or decision workflows need to explicitly preserve human evaluation capacity — don't eliminate the roles that supply quality judgment. This is especially critical in regulated or high-stakes domains.",
-      "tags": [
-        "AI quality",
-        "Workflow design",
-        "Human oversight"
-      ],
-      "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*WqUY3aOC_83qT8kHkXWpsA.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*h2Hu8MT7zvaJBqnNKm8ryQ.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@rubykuan/ai-%E5%8F%96%E4%BB%A3%E4%BA%86%E6%88%91%E5%80%91%E4%BD%86%E8%AA%B0%E4%BE%86%E5%88%A4%E6%96%B7%E5%AE%83%E5%81%9A%E5%BE%97%E5%A5%BD%E4%B8%8D%E5%A5%BD-e03aeacca8fc?source=rss------product_design-5",
-      "pubDate": "Wed, 14 Oct 2026 15:47:39 GMT"
+      "link": "https://medium.com/@davidhiggsconsulting/can-ai-help-me-build-a-business-before-it-replaces-me-5d769c12726e?source=rss------product_design-5",
+      "pubDate": "Thu, 15 Oct 2026 16:03:11 GMT"
     },
     {
-      "headline": "OpenAI flagged a $23 Amazon recorder as a security threat",
-      "background": "OpenAI's internal security and trust work occasionally surfaces consumer hardware being used in ways that pose risks to its systems or users. Inexpensive, commercially available recording hardware is an underexamined attack surface.",
+      "headline": "AI shouldn't drive every design decision — reframing the role",
+      "background": "A recurring field-notes series tracking how AI is actually changing UX practice. This entry challenges a widely repeated claim — that AI should be in the loop for every design decision — and argues the framing itself is the problem.",
       "keyFindings": [
-        "OpenAI identified a specific consumer audio recorder sold on Amazon for $23 as a sophisticated surveillance risk",
-        "The device was flagged in a security context, suggesting it was being used or could be used to capture sensitive conversations",
-        "The low price point makes this category of hardware accessible at scale"
+        "The author's original position, that every design decision should go through AI, overstated AI's role and created worse outcomes",
+        "The corrected framing centers AI as one input among several rather than a gatekeeper or final arbiter",
+        "Field observation: AI performs well on generative tasks but introduces noise when forced into evaluative or strategic decisions"
       ],
-      "implications": "For teams running user research, design sprints, or confidential product discussions, cheap consumer recording hardware in physical spaces is a real and underappreciated risk. Physical space security deserves the same scrutiny as digital.",
+      "implications": "Designers building AI-assisted workflows should audit where AI is adding signal versus friction. The evaluative/generative distinction is a useful heuristic for deciding when to invoke AI tools.",
       "tags": [
-        "Security",
-        "Physical surveillance",
-        "Privacy"
+        "AI tools",
+        "Design process",
+        "Decision-making"
       ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQzdyT1lVNks0Y2VEOEIwNE1seFVraU11QTl0TUZNQmJxRGNJN2RjbWtVTTlxQklIeUEwSncyY0o2OVNiS2U1OFJfZVlhSFZ3Zl9vQk13cUZDdGtuUGdJc0MwTXo1UjdzdzR3YUU5eVQzN3Zlem9DazQ1SVdVcWxvWWpVUjNWSlphM3RDVi1PdDhyTGY2aTdBdkJzYw?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 15:18:20 GMT"
-    },
-    {
-      "headline": "Figma's complexity is catching up with vibe-coded workflows",
-      "background": "'Vibe coding' — using AI to generate functional interfaces rapidly without deep technical grounding — has spread to design tooling. Figma, as the dominant design tool, is now being stress-tested by this pattern.",
-      "keyFindings": [
-        "The piece argues Figma is becoming a victim of vibe-coded design: output that looks functional but lacks structural integrity",
-        "AI-assisted design in Figma is producing components and layouts that break under real product conditions",
-        "The problem is framed as systemic, not a matter of individual skill"
-      ],
-      "implications": "Design systems leads and product designers using AI-assisted Figma workflows need to build in explicit structural review gates. Speed gains from AI generation are being offset by downstream rework if component logic and constraints aren't validated.",
-      "tags": [
-        "Design tools",
-        "AI-assisted design",
-        "Design systems"
-      ],
-      "featured": false,
+      "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1474/1*9Jx63oEDWqUCNbE3DkuKVw.png",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*ewbf37XiDmHlx-duPJf0PQ.png",
       "source": "UX on Medium",
-      "link": "https://levelup.gitconnected.com/figma-is-the-next-vibe-coded-victim-ffca4cb89b7a?source=rss------ux-5",
-      "pubDate": "Wed, 14 Oct 2026 15:13:17 GMT"
+      "link": "https://bradyux.medium.com/i-said-every-design-decision-goes-through-ai-i-had-the-sentence-wrong-1c9453903f1d?source=rss------ux-5",
+      "pubDate": "Thu, 15 Oct 2026 15:52:50 GMT"
     },
     {
-      "headline": "Design system docs have a hidden third reader you're ignoring",
-      "background": "Design system documentation has traditionally been written for two audiences: designers and developers. The emergence of AI as a consumer of structured component specs is forcing a rethink of what documentation actually needs to contain.",
+      "headline": "Auto-generate screenshot checklists from unmerged UX branches",
+      "background": "Handoff and QA for UX changes in unmerged branches is a persistent gap — developers often ship without a structured way to verify visual or interaction changes. This piece offers a prompt-based workflow to close that gap.",
       "keyFindings": [
-        "Knapsack released an open spec called the Design System Contract: a single structured file per component that formalizes its properties and constraints",
-        "The 'third reader' the piece identifies is AI tooling, which parses design system docs to generate or validate code and design decisions",
-        "Unstructured or ambiguous documentation fails AI consumers in ways that don't surface until generation errors occur"
+        "A single prompt can extract all UX-relevant changes from a git branch and format them as a reviewable screenshot checklist",
+        "The approach doesn't require additional tooling beyond an AI assistant with code context access",
+        "Targets the specific problem of changes that are visible in code but not yet captured in any design review artifact"
       ],
-      "implications": "Teams maintaining design systems should audit their component documentation for machine-readability now, not after AI tooling is embedded in their workflow. The Design System Contract spec is a concrete starting point worth evaluating.",
+      "implications": "Directly applicable to teams doing continuous deployment or working with frequent branch-based UX iteration. Most useful in environments where design QA is informal or under-resourced — adds structure without process overhead.",
       "tags": [
-        "Design systems",
-        "AI tooling",
-        "Documentation"
+        "Design QA",
+        "Developer handoff",
+        "AI tools"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*bSqpTwuW3SisjAB8RSLzbg.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*HGgf7VwAknuAGO35bINgZw.png",
       "source": "Product Design on Medium",
-      "link": "https://www.designsystemscollective.com/your-design-system-has-a-third-reader-and-it-isnt-ai-716e98da447a?source=rss------product_design-5",
-      "pubDate": "Wed, 14 Oct 2026 14:45:01 GMT"
+      "link": "https://medium.com/@lisachinmollica/prompt-turn-a-branchs-ux-changes-into-a-screenshot-checklist-286d2ce76526?source=rss------product_design-5",
+      "pubDate": "Thu, 15 Oct 2026 15:28:18 GMT"
     },
     {
-      "headline": "AI companion loss reveals what good digital companionship requires",
-      "background": "AI companion products like Character.AI and Replika have built strong emotional attachment among users, raising unresolved product questions about what happens when characters are altered, deprecated, or removed.",
+      "headline": "Enterprises aren't ready for agentic AI, OutSystems research finds",
+      "background": "Agentic AI — systems that autonomously take multi-step actions — is moving from concept to commercial deployment, but adoption readiness in enterprise contexts is largely unstudied. OutSystems commissioned research to assess where organizations actually stand.",
       "keyFindings": [
-        "The piece examines how users respond to the disappearance or change of an AI character they had formed a relationship with",
-        "It frames continuity — the consistent presence of a character over time — as a core design requirement, not a nice-to-have",
-        "Founders building in this space are asking how to operationalize care and attachment as product attributes"
+        "A majority of enterprises report using or piloting agentic AI, but few have governance frameworks in place to manage autonomous decision-making",
+        "Integration with legacy systems is cited as the top technical barrier to agentic AI deployment",
+        "Security and auditability gaps are flagged as the primary risk concerns, ahead of accuracy or performance issues"
       ],
-      "implications": "For teams building AI companion or agent products, character continuity and offboarding design are critical and underspecified problems. Abrupt changes to AI personas carry real user harm — this needs explicit product policy, not just technical decisions.",
+      "implications": "For product and platform teams scoping agentic features, governance and audit trail design are non-negotiable requirements — not post-launch concerns. This research is vendor-sponsored, so weigh findings accordingly, but the gap between deployment speed and readiness infrastructure is consistent with other independent reporting.",
       "tags": [
-        "AI companions",
-        "Emotional design",
-        "Product ethics"
+        "Agentic AI",
+        "Enterprise software",
+        "AI governance"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "VMblog",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeEpHYVVxYlRidW1DS2JnTkYwQWhMZ25Tcy12Nk14dU5yS0JyRkFLU2hpU2lzc1IwUXB5N3JaS2MwRkczbEhIaE9zZmg3TGdoY0ZaTHNxV0tMUC1Lbk9Gc0p2YXRrTGxQNXFsbnhSRWwzVjFTOVVERXJad1A1XzNFY1ZhTWxNLWZyeTN5ZjZ6MUltREQ1R1NpVjN2NGhtaXN4WmszdWM1Z0M3bFg4N2c?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 14:51:12 GMT"
+    },
+    {
+      "headline": "The Galaxy Model: a third way for design system governance",
+      "background": "Design system governance has long been framed as a binary choice between centralized control and federated autonomy. Neither model handles the tension between consistency and local innovation well, and teams frequently oscillate between them.",
+      "keyFindings": [
+        "The Galaxy Model positions a core system as a gravitational center with satellite systems orbiting it — teams extend locally without forking the core",
+        "Governance is defined by contribution protocols rather than ownership hierarchy, shifting the accountability model",
+        "The approach is designed to prevent both the rigidity of centralized systems and the drift and duplication of federated ones"
+      ],
+      "implications": "Relevant for any organization where multiple product teams share a design system but have divergent needs. The model is conceptual rather than tooling-specific, so implementation effort depends heavily on existing team structures and maturity.",
+      "tags": [
+        "Design systems",
+        "Governance",
+        "Scalability"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*bYfZRsDIuQfdYd-ZTztDtw.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*85Ip9lOLq5xtozvfa6CaqQ.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@billhongmoney/when-a-character-disappears-we-learn-what-companionship-asks-of-us-7a54172e3383?source=rss------product_design-5",
-      "pubDate": "Wed, 14 Oct 2026 14:41:02 GMT"
+      "link": "https://medium.com/@vincenzo.loscru/the-galaxy-model-rethinking-design-system-governance-for-modern-organizations-7af56bdf447b?source=rss------product_design-5",
+      "pubDate": "Thu, 15 Oct 2026 14:43:46 GMT"
     },
     {
-      "headline": "AI-written phishing invites are hijacking Google accounts in Taiwan",
-      "background": "Phishing attacks have been evolving with AI-generated content that is more convincing and harder to detect by both users and spam filters. Taiwan has become a documented target of sophisticated state-adjacent cyberattacks.",
+      "headline": "Eight companies specializing in app onboarding optimization, ranked",
+      "background": "Onboarding remains one of the highest-leverage surfaces in product retention, and a cottage industry of specialized vendors has grown around optimizing it. This roundup attempts to map the 2026 vendor landscape.",
       "keyFindings": [
-        "Attackers are using AI-generated text to craft fake event invitations that successfully steal Google account credentials",
-        "The attacks are specifically targeting users in Taiwan, suggesting a coordinated and geographically focused campaign",
-        "AI-written phishing content is polished enough to bypass typical linguistic red flags users rely on to spot fakes"
+        "The list covers vendors ranging from full-service onboarding platforms to analytics-focused tools that diagnose drop-off",
+        "Several vendors on the list specialize in mobile-specific onboarding patterns distinct from web flows",
+        "No independent performance benchmarks are included — vendor capabilities are largely self-reported"
       ],
-      "implications": "UX and product teams building communication or calendar features need to revisit trust signal design — AI-generated phishing removes the grammar and formatting cues users historically used as warning signs. Security education materials are now outdated on this point.",
+      "implications": "Useful as a starting directory if you're evaluating onboarding tooling, but treat capability claims skeptically without independent case data. Confirm whether each vendor's approach is mobile-native or ported from web before scoping a pilot.",
       "tags": [
-        "Phishing",
-        "AI-generated content",
-        "Security"
+        "Onboarding",
+        "Mobile apps",
+        "Vendor evaluation"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "TechBullion",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YMzBkcDktRGdYRGIxd002c2dPc3UwY2txbmZBOHl2WlhBWm0wSTNQck5xeTV4S2w0alNMZTNuUmotZjhySUJYcjI4TzhfcDhqOWxDemE4UmdXT1BfbERRa3NvR0xPU2xNa3EtREZwMXdJSkZ4OHl3QlhoNXpzNDA?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 11:44:38 GMT"
+    },
+    {
+      "headline": "Google targets Korean Gen Z with Gemini campus activations",
+      "background": "Google is competing with local and global rivals for AI mindshare among younger users in South Korea, a market with high smartphone penetration and strong domestic tech alternatives.",
+      "keyFindings": [
+        "Google ran physical campus pop-ups in Korea specifically promoting Gemini to university students",
+        "The campaign included career programming, positioning Gemini as a professional skill alongside a product",
+        "Activation focused on brand familiarity rather than technical depth"
+      ],
+      "implications": "Limited direct relevance for most UX/product practitioners. Worth noting as a data point on how AI companies are approaching brand-building with younger demographics through in-person experience design rather than purely digital channels.",
+      "tags": [
+        "AI marketing",
+        "Brand strategy",
+        "Gen Z"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LM0otanU0eFp0M05lc2hYc2dwV2RNS05SdHoyUmk1R2hzejhPOWVjT2gwZURjOXBVb204S3RtQmJodU55Q3RfZGY3ZEUzbnRMVEhOYjVHc1Zvc0VRSy1ScmU0Zjh0QVBRc1o2V3ZBaDJHT2pIcnlraFFn0gGOAUFVX3lxTFByV0taeEctU2hXSE9FSDNPTndycjVGdlB5NmozQ2RvMGk4bHZraHZUNkR2UnhyLVMtZnhrLXpwOHFCSk5JaFA5aUpZQW9hZ3RCdDBwNjhMSXBfNXltSlo3ZHByb0JHMENOOXB0Q3Y2bFliR1JCbHJRRjlBTHlZdjk4UWY1QVBRWHlmRko5dXc?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 08:13:00 GMT"
+    },
+    {
+      "headline": "Parallel AI coding agents compared across desktop apps",
+      "background": "Running multiple AI coding agents simultaneously is an emerging workflow for developers who want to parallelize implementation tasks. Several desktop applications now support this, but there's little direct comparison of how they handle it.",
+      "keyFindings": [
+        "Apps compared differ significantly in how they manage context isolation between parallel agents — some share context, some sandbox each agent",
+        "Throughput gains from parallelization vary by task type; decomposable tasks benefit most, tightly coupled tasks can create conflicts",
+        "UI design for monitoring multiple agents simultaneously is still immature across all tools reviewed"
+      ],
+      "implications": "Relevant for engineering-adjacent product teams experimenting with AI-assisted development workflows. The context isolation differences have real implications for code quality and merge conflicts — worth understanding before scaling parallel agent use.",
+      "tags": [
+        "AI coding tools",
+        "Developer tools",
+        "Workflow"
       ],
       "featured": false,
       "type": "research",
@@ -228,8 +182,54 @@
       "publishedWindow": "today",
       "image": null,
       "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmxoWGNXeklVRkRlYW1PSHpLY0lpaWxDRVp1dTVsUEZuUG1WdExGeFN1SnF4cDNQbmdKN3docFZhSjdiRDJjbmV3UUhOdVFXdmU4emNUUHVrRVZNR0VKQkhOZEpkbFQzeVc3TUdsYmZiZm5DcGFpdWR5Wkt6RUVjZklPLWVjV3NJOVNXd1VUZWNBWno1OTEtR3NXdjNYN0E?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 14:19:52 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2F0Q0xUWU5aeWtNVmlDc2Y3WGtwN2ItazBtX09yVmcyeWlPMkh3eUVDN2FCVy1YaHRhbS1rclMydDFrbzNXNXI1RzhiSWt2TU1IQ3NURWNON3paQkJfZWVjd0V1RE9CYVplNjd1Q3hXTnctNDZMdVhFUXdxWlUyOGtURDZjLVMx?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 07:56:23 GMT"
+    },
+    {
+      "headline": "Tesla Roadster reveal scheduled live on X",
+      "background": "Tesla has been building anticipation for the next-generation Roadster for several years, with multiple delays. A live reveal event on X represents both a product announcement and a continued bet on X as a media platform.",
+      "keyFindings": [
+        "Reveal was scheduled for 8:55 p.m. ET streamed exclusively on X",
+        "No confirmed specs or pricing were available ahead of the event",
+        "Choice of X as the exclusive platform continues Tesla's practice of bypassing traditional media channels"
+      ],
+      "implications": "Minimal direct relevance for UX or product practitioners. The platform choice is a minor case study in owned-channel event strategy, but there's no substantive UX or product content here.",
+      "tags": [
+        "Product launch",
+        "Automotive",
+        "Live streaming"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVmZlZ0UzbDZmOEZtMzdaSWJLQ0RKdkRmdFVJaTNVakYzSGVNeFUzaFpRa0pTd091YnVPT2dYVnFGUHBYZXhRejVkM0Q0V001bFNVdEZEc2Vpa1Q4QVdxNlRWdlgwV0lJaHpWXzliZERGcy1iVUtEQUpFOGFiZTQ3YmxpY1VTQldXRzB1cWFCNkpIMGFXWkUtMw?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 07:48:18 GMT"
+    },
+    {
+      "headline": "What status bar icons on iOS and Android actually mean",
+      "background": "Despite years of smartphone use, many users — and some designers — remain unclear on what the full set of status bar icons indicate, particularly less common ones. This piece attempts a comprehensive reference.",
+      "keyFindings": [
+        "Several icons differ in meaning between iOS and Android for the same underlying system state, which creates cross-platform design ambiguity",
+        "Some icons are contextual and only appear under specific network or hardware conditions, making them unfamiliar even to regular users",
+        "The piece covers icons added in recent OS versions that aren't documented prominently in official guidelines"
+      ],
+      "implications": "Useful reference for designers working on cross-platform products where status bar context affects UI decisions — particularly for apps that interact with connectivity, location, or hardware states. Bookmark rather than read linearly.",
+      "tags": [
+        "Mobile design",
+        "iOS",
+        "Android"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQXzVKZFdWb01WaU9lcTF0VDlXMEUtWnJqM0JINzZGLWplMzI0TmIyXzAya0FmTDA0U1ZhcHpaQkdxSnd6MlZPUnBEWFhYbkZGYnhxeVdJVm5obThGR1ZJWGhsUC1qQWpXSFdmUVFVeHlTTGZqUFAwMmJrbG8zLVV1cE1HMEljZ1pkOUk4?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 07:38:14 GMT"
     }
   ]
 }
