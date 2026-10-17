@@ -1,201 +1,62 @@
 {
-  "generatedAt": "2026-10-16T16:12:01.774Z",
+  "generatedAt": "2026-10-17T15:05:31.844Z",
   "items": [
     {
-      "headline": "Hick's Law and Cognitive Load Are Not the Same Rule",
-      "background": "Designers routinely conflate Hick's Law (more choices = longer decision time) with cognitive load theory (mental effort required to process information), using both to justify the same 'show fewer options' directive. The piece argues these are distinct concepts that can point in opposite directions.",
+      "headline": "Three-Day Sprint Reveals School App's Real Problem",
+      "background": "School communication apps frequently suffer from feature bloat aimed at administrators rather than the parents who use them daily. This case study documents a constrained redesign challenge that forced prioritization decisions under time pressure.",
       "keyFindings": [
-        "Hick's Law applies specifically to decision time when selecting from discrete options, not to general mental effort during task completion",
-        "Reducing visible options can actually increase cognitive load if users must then search, recall, or navigate to find hidden choices",
-        "The two principles conflict most sharply in navigation and filtering UI, where hiding options trades decision speed for memory burden"
+        "The core issue was information hierarchy, not just visual clutter — parents couldn't locate time-sensitive updates without scanning the full feed",
+        "Redesign introduced a parent-focused home view that surfaced urgent school messages separately from routine updates",
+        "Three-day constraint forced cutting scope to highest-impact flows rather than full-app overhaul"
       ],
-      "implications": "Before cutting options to 'reduce complexity,' identify whether the actual problem is decision paralysis or processing effort — they require different solutions. Progressive disclosure helps decision time but can hurt users who don't know what they're looking for.",
+      "implications": "Useful reference for teams doing rapid audits on communication-heavy apps. The parent-vs-admin priority tension is common in edtech and shows up in healthcare portals too — worth auditing whose mental model your IA actually serves.",
       "tags": [
-        "Cognitive Load",
         "Information Architecture",
-        "Decision Design"
+        "EdTech",
+        "Case Study"
       ],
-      "featured": true,
-      "type": "research",
-      "category": "Industry news",
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMzJmSVBYeHZvNTZxbzQ5c19GSEZoaUk3M2xWb2R6NWlZVThoVzZQaDR1SXc3TDZvSkVZU0sxZlMzckdCX3Y4U1lJc0NlOVdoRksyRGhwNU1GaTNlTnlCMFNtUDdhWlZfOHo4ZWNhbnNGNW5aRGpoN1pOZTl6Rkdjd3hnN3B6enNmUTVkYVQwVXROTlFjSlE1OGt3WlZfU0kxMDFpZFNjY09wZE9MTml0WW1SQW9wZ0pyZWN0SHpKQ2l6bTZzQVVOV2dWWEQyTGhUWUxtd2MweVA0ZjlOOHZtb2FBaG9IOHpnbUE1NA?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 15:31:04 GMT"
+      "image": "https://cdn-images-1.medium.com/max/924/1*H2jPZRWFGixhkvSNd649LA.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@thomas.lebas26/three-days-to-redesign-daily-connect-it-looked-like-a-ui-problem-8e8a7064c648?source=rss------product_design-5",
+      "pubDate": "Sat, 17 Oct 2026 14:17:42 GMT"
     },
     {
-      "headline": "Claude vs GPT: Designing a Website From Nothing",
-      "background": "Benchmarks comparing AI coding and design tools typically use real-world reference material the models may have trained on. This test used a fictional business to eliminate that advantage and evaluate genuine generative design capability.",
+      "headline": "AI CAD Tools Get Engineers to 75% Done Automatically",
+      "background": "Engineering CAD workflows have historically required hours of manual modeling before a concept becomes testable. A new generation of AI-assisted CAD tools is compressing that early-stage work significantly, changing how design iteration begins.",
       "keyFindings": [
-        "Both models were given identical prompts to design a website for a nonexistent business, removing the possibility of copying known patterns",
-        "The comparison surfaces differences in how each model handles ambiguity, makes structural decisions, and fills in missing brand context",
-        "Output quality differences were observable in layout logic and content hierarchy, not just visual styling"
+        "AI CAD tools can generate a workable 3D model from a rough concept brief, reducing early-stage modeling from days to hours",
+        "The '75% done' threshold means engineers spend most of their time on refinement and validation rather than construction",
+        "The shift moves the bottleneck from model creation to design judgment — knowing what to change, not how to build it"
       ],
-      "implications": "For UX and product teams evaluating AI design assistants, synthetic or novel briefs are a more honest evaluation method than real-brand prompts. Results here may not generalize to coding-heavy or component-library workflows.",
+      "implications": "Product teams embedding engineers early in ideation should account for this speed shift — if physical prototyping cycles compress, UX and engineering feedback loops can tighten meaningfully. The skill premium moves toward critical evaluation of AI output, not raw modeling ability.",
       "tags": [
         "AI Tools",
-        "Generative Design",
+        "Engineering Design",
         "Prototyping"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*S3k0sgOJ3wN1WfLQ-1vMVA.png",
+      "image": "https://cdn-images-1.medium.com/max/1375/1*mf_gxe0k4VV-jljtzongmw.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@afrozariju/hicks-law-vs-cognitive-load-why-fewer-options-isn-t-always-less-thinking-8cbaa67e8f37?source=rss------product_design-5",
-      "pubDate": "Fri, 16 Oct 2026 15:16:36 GMT"
+      "link": "https://medium.com/@johnsanthosh231/how-ai-cad-is-changing-engineering-design-from-blank-screen-to-75-done-065769eb240b?source=rss------product_design-5",
+      "pubDate": "Sat, 17 Oct 2026 13:37:53 GMT"
     },
     {
-      "headline": "A Designer Built a Daily Data-Viz Product With AI in One Afternoon",
-      "background": "There is ongoing debate about whether AI-assisted design lowers the barrier to shipping real products or just accelerates throwaway prototypes. This account describes a solo designer who moved from a single concept to a functioning daily product using AI tooling, then iterated on it for three months.",
+      "headline": "Preclinical Ultrasound Market Forecast Irrelevant to This Audience",
+      "background": "This is a market statistics report on preclinical ultrasound hardware tied to biologics research.",
       "keyFindings": [
-        "The initial working product was built in a single afternoon using AI assistance, starting from a question about simplifying news presentation",
-        "Three months of refinement followed the initial build, suggesting AI accelerates starting but not necessarily finishing",
-        "The project began as a data visualization concept and evolved into a regularly updated product"
+        "No UX, product, or tech findings present",
+        "Content is a market sizing report for biomedical equipment vendors"
       ],
-      "implications": "The pattern here — AI for initial scaffolding, sustained manual iteration for quality — is worth noting for teams deciding how to allocate design and dev time. The story applies most directly to solo practitioners or small teams, not org-scale product development.",
+      "implications": "No actionable content for UX, product, or tech practitioners. Not relevant to this digest.",
       "tags": [
-        "AI Tools",
-        "Data Visualization",
-        "Solo Design"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/640/1*hozeYeMhRirY1kr2DY2IAA.gif",
-      "source": "Product Design on Medium",
-      "link": "https://getterchen.medium.com/can-claude-and-gpt-design-a-website-for-a-business-that-does-not-exist-a27f550d3f46?source=rss------product_design-5",
-      "pubDate": "Fri, 16 Oct 2026 14:45:13 GMT"
-    },
-    {
-      "headline": "Yamato Transport Breach Exposes 5.31 Million Customer Records",
-      "background": "Yamato Transport, Japan's largest parcel delivery company, has confirmed a significant data breach affecting millions of users. Logistics companies hold dense personal data — names, addresses, phone numbers, delivery histories — making them high-value targets.",
-      "keyFindings": [
-        "5.31 million records were confirmed stolen in the breach",
-        "Yamato Transport is Japan's dominant parcel carrier, meaning the affected user base spans a large share of the Japanese population",
-        "The breach has been formally confirmed by the company, moving it past the speculation phase"
-      ],
-      "implications": "For product and UX teams building on logistics APIs or handling similar address/identity data sets, this is a reminder that delivery and fulfillment data carries serious PII exposure risk. Review data minimization practices and third-party logistics data-sharing agreements.",
-      "tags": [
-        "Data Breach",
-        "Privacy",
-        "Security"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/0*MzHWY5Rqscfxzf7D.jpg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@hamidmotahari/taar-no-1-chair-by-hamid-motahari-designer-e27dc9eaf89f?source=rss------product_design-5",
-      "pubDate": "Fri, 16 Oct 2026 14:44:12 GMT"
-    },
-    {
-      "headline": "iPhone Duo Sells Out Immediately, Pre-Orders Push to January",
-      "background": "Apple's latest dual-model iPhone release has sold through initial stock faster than fulfillment can meet, with new pre-orders now slipping to January delivery windows. This pattern repeats across major iPhone launches but has supply chain and product planning implications.",
-      "keyFindings": [
-        "Initial iPhone Duo stock sold out at or near launch, consistent with recent Apple release patterns",
-        "Pre-order delivery estimates have slipped to January, indicating a gap of at least several weeks between demand and supply",
-        "No specific unit volume or regional availability data is provided in the snippet"
-      ],
-      "implications": "Minimal direct UX or product implications, but relevant for teams building launch campaigns or in-app purchase flows tied to hardware availability — sold-out states and waitlist UX need to be planned for, not treated as edge cases.",
-      "tags": [
-        "Consumer Hardware",
-        "Product Launch",
-        "Supply Chain"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1400/0*nm58i34qXXbr-xVS.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/design-bootcamp/ill-never-leave-an-idea-in-the-drawer-again-33fa04429bee?source=rss------product_design-5",
-      "pubDate": "Fri, 16 Oct 2026 14:38:44 GMT"
-    },
-    {
-      "headline": "In Situ Transcriptomics Assay Kits Market Forecast to 2035",
-      "background": "Market research report on the in situ transcriptomics assay kits sector, focused on oncology R&D as a demand driver through 2035.",
-      "keyFindings": [
-        "Oncology R&D is identified as the primary growth driver for in situ transcriptomics assay kit demand",
-        "The forecast horizon extends to 2035, suggesting long-cycle capital and procurement planning relevance",
-        "No UX, product, or technology design findings are present in the available content"
-      ],
-      "implications": "No actionable relevance for UX, product, or tech practitioners. This article is outside the scope of this digest.",
-      "tags": [
-        "Market Research",
-        "Life Sciences"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUjY0dUZESHE5OFJtMmFXWmFKSkUzUDRfMEx6U0ktUVFWZnd4bTU1OWtVeWpZRGI0em9Ub1JEYkplNlVqZ1NCem9SVy1ncmRZaUkyVTl5SlpJZGNhZXR5dW1OLVF3NlZETGNYQXhTX1J0Qlo2cHdwS2NoNFhTaVZsMERDOEIyYjZTTzFydEFtZGc?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 14:22:58 GMT"
-    },
-    {
-      "headline": "Taar No. 1: Limited-Edition Chair by Hamid Motahari",
-      "background": "A limited-edition furniture piece — blackened stainless steel, hand-knotted wool, bronze — released in an edition of twelve by Iranian designer Hamid Motahari.",
-      "keyFindings": [
-        "Edition of twelve units, positioning it as collectible rather than commercial furniture",
-        "Materials include blackened stainless steel, hand-knotted wool, and bronze",
-        "No design process, UX, or technology content is present in the available snippet"
-      ],
-      "implications": "No direct relevance to UX, product, or tech work. Of potential peripheral interest to those tracking material and craft trends in physical product design.",
-      "tags": [
-        "Industrial Design",
-        "Craft",
-        "Limited Edition"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnZ1R1FmbWc5VExNNFVFeGgzaWZIZW1La1FyaWFZSGtKaUdobXdmSFVrUm9MTXNPeUhXeXU3clZBVm1jcUNyQzBVNEZOMlZjQ1B5bExSQjFiMFdneUxxT3YtOUJaa2diVHNnU1lSYno4dEt2bl9VODE2RmFLMElDQTNRZ0ZUeHhJTDVJMUlnN1dGT3hRSEYwRk83Ujc5ODdZYzA0Rw?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 14:10:58 GMT"
-    },
-    {
-      "headline": "Top Shopify Development Agencies for Ecommerce Brands (2027 List)",
-      "background": "Listicle-style roundup of Shopify development agencies, apparently dated 2027, aimed at ecommerce brands looking to scale. Published by OneArabia.",
-      "keyFindings": [
-        "Content is a vendor directory or agency roundup, not an analytical or research piece",
-        "No methodology, evaluation criteria, or comparative data is visible in the snippet",
-        "Dated 2027, which may indicate forward-projected or speculatively dated content"
-      ],
-      "implications": "No substantive UX, product, or technology findings. If evaluating Shopify agencies, look for sources with disclosed evaluation criteria and conflict-of-interest disclosures.",
-      "tags": [
-        "Ecommerce",
-        "Shopify",
-        "Agency Directory"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "OneArabia",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVNod2RPQ0ZKUWVINHBGZk9TQndhODhYNzZjTEdTNTd0RkQ0bURLYXRmRUYzOVpmdzBlWmtWdGRGb01pbXlmSjdEcUt2ZmVMMHNia2lFNDhTdnV6Tng0UW5VQWc2RDgxVmlHcjdWZ0hIbkJic2t4N0NOYVk2b190ekhVdTRqYlNiZjNFRjc0WnNQOTFGTXQtd1hyZlpNaW0zcEpjSUc3Nzdvdw?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 13:12:03 GMT"
-    },
-    {
-      "headline": "3D Culture Products Market Forecast to 2035",
-      "background": "Market research report projecting growth in 3D cell culture products, citing cell therapy manufacturing and organoid adoption as key drivers through 2035.",
-      "keyFindings": [
-        "Cell therapy manufacturing and organoid adoption are the two primary identified growth drivers",
-        "Forecast extends to 2035, indicating long-horizon market planning data",
-        "No UX, product design, or technology findings relevant to this digest's audience"
-      ],
-      "implications": "No actionable relevance for UX, product, or tech practitioners. Outside scope of this digest.",
-      "tags": [
-        "Market Research",
-        "Life Sciences"
+        "Off-Topic"
       ],
       "featured": false,
       "type": "research",
@@ -203,31 +64,161 @@
       "publishedWindow": "today",
       "image": null,
       "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSnZpcTA4VTM3ZzNRcDV5OVRxOVQyb21NOHlodG94azhiSlQ1NXdZWTNva2ROZ2MxeDhFRGVSMVVfQ0xWSDByTDJEdER0LTF0Q3M3UUktOUNMbDFVR085S05hVkNtMmhuaEZSaXFwbHI0WlBUZmZHVzB3X3pWTjlWeDB6N2tEanlOWTVJZTN5SExlX0U2XzBuMW5QOHJvbm85aXJaOWVzdC13WnZTajBQUUhWODF4QkhsX1dfeUFRaDUySmpiNlN6OXFJLUh3YWt6VlRVVklLOUcwZWIxLTFwZFlCcWNWZw?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 13:01:04 GMT"
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTkJoaVBhU0wyaVlqbnc0R3RhZXlIY3VaZkE5RnN2QjZxY0E3NnpXZU5LaDM2QTBXSEJGMjB1YVBPNmpQaDAxQXBDZWdqQTY0cWpWR0hLVjU3ck1IaU1FMTBNczJ3TFFYY1dfclhHdVlqdEt1UW5oSmdYMFBLRUVVeXk0eGJRTV9qU2xxY05IN0o3eDd2R0lRbkFmVXhjSzdnOXN0em8xLVhUS3FabHoxc1FsN2w2Wmx0NWRCcg?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 13:31:05 GMT"
     },
     {
-      "headline": "Top 10 Shopify Agencies for Scaling Ecommerce in 2027",
-      "background": "A second listicle-format roundup of Shopify development agencies, published by Business Upturn, with near-identical framing to another article in this batch.",
+      "headline": "Figma Config India: Design, Code, and AI Are Converging",
+      "background": "Figma's Config events have become a barometer for where the design-to-development handoff is heading. The India edition surfaced practitioner perspectives on how AI is redistributing work across design and engineering roles.",
       "keyFindings": [
-        "Duplicate category coverage with another article in this batch, offering no differentiated analytical content",
-        "No evaluation methodology or ranking criteria are visible in the snippet",
-        "Dated 2027, consistent with the other Shopify roundup in this batch"
+        "Speakers described a shift where AI handles increasing amounts of component generation, pushing designers toward systems thinking and decision-making",
+        "The design-code boundary is blurring inside Figma itself, with dev mode and AI features enabling engineers to work directly in design files",
+        "Attendees noted growing pressure on designers to develop fluency with prompting and output evaluation rather than pixel-level craft"
       ],
-      "implications": "No substantive UX, product, or technology findings. The duplication of this content type in a single batch suggests syndicated or SEO-driven publishing rather than editorial curation.",
+      "implications": "Designers who haven't yet engaged with Figma's AI and dev mode features are falling behind the baseline expectations at product companies. The Config India framing suggests this shift is reaching markets beyond early-adopter US tech hubs.",
       "tags": [
-        "Ecommerce",
-        "Shopify",
-        "Agency Directory"
+        "Design Tools",
+        "AI Tools",
+        "Design-Dev Handoff"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1402/1*KE7M_HwGMxcpgjyz26hL5A.jpeg",
+      "source": "UX on Medium",
+      "link": "https://vikasandesigns.medium.com/figma-config-india-2026-when-design-code-and-ai-start-sharing-the-same-canvas-c8703704a0a2?source=rss------ux-5",
+      "pubDate": "Sat, 17 Oct 2026 13:12:57 GMT"
+    },
+    {
+      "headline": "Template Sites Have Five Costs Founders Underestimate",
+      "background": "Startups routinely launch on Webflow, Squarespace, or WordPress themes to save time and money, often without accounting for the longer-term costs of that decision. This piece catalogs where template-based sites create real drag.",
+      "keyFindings": [
+        "Hidden costs include performance debt from unused CSS/JS, brand dilution from recognizable template patterns, and conversion loss from layouts optimized for the theme's demo content rather than the product",
+        "Customization time frequently erodes the initial build-time savings within the first two design iterations",
+        "The piece argues templates remain the right call specifically when a site is a placeholder, not a conversion tool — the mistake is treating them as equivalent to custom builds"
+      ],
+      "implications": "Relevant for anyone advising early-stage clients or making the build-vs-template call internally. The framing around 'what job is this site doing' is a useful decision filter before defaulting to a theme.",
+      "tags": [
+        "Web Design",
+        "Startups",
+        "Conversion"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1400/1*xUtS2xYtSoXJ2j2bsrx8yA.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@theshaheermalik/templates-cost-more-than-they-save-heres-where-c478eecbb66a?source=rss------ux-5",
+      "pubDate": "Sat, 17 Oct 2026 13:08:56 GMT"
+    },
+    {
+      "headline": "Custom Poster Printing Services Reviewed for UX Quality",
+      "background": "Consumer printing services vary widely in ordering flow usability and design tool quality, which affects both individual users and designers ordering on behalf of clients.",
+      "keyFindings": [
+        "No specific UX findings, data, or methodology are available from the snippet",
+        "Article appears to be a vendor roundup from a local news outlet with no evident expert UX evaluation criteria"
+      ],
+      "implications": "Insufficient information to assess relevance or accuracy. Not recommended as a reference source.",
+      "tags": [
+        "Off-Topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Business Upturn",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0NQUGEwc1J1ckRpNDFOVXFmc1d0czFYMWRNUmtYN0E3UkdMYlByd1h5Rm1kWkFkWndXLUZUdTc3SnFvdFBMdjZNMGx1TGRlM2VBRUxjaVIwU1hQcXQxLS1kemwwMWlxNmt6Nkh0MWhFbEM1RU9DSS1PWnNYVHItY0cyNzFoODBKTzNvSWNaNlU5T19vTUNmQ3BTRnhPWDRSZkZsZmZzMFJEQ0w4ZE45bll4NA?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 12:44:38 GMT"
+      "source": "Yonkers Times",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQclZZYXhsSExjcE1HNTZQOGVIQm05UkZwYTBqR0RrRUwyWV9hTk04ek5pY01hVHpXODFrNUppQWY2dzM4Tkpod1BJYUN3dWpuM3N2THFXaVIyNl9Xa194U3M5UWlncjVLd2lkUF96TTlycG1MSmJ2WFJjLTdTUUJJakh4TThjTU5vNmdHMFNfbmhSSkdXcUtjQW0xdXFfSGpMemRfX2pjbnZ5WlhGUUNDQw?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 12:11:15 GMT"
+    },
+    {
+      "headline": "Qualcomm Denies Galaxy S27 Ultra Overheating Reports",
+      "background": "Leaks suggested the Galaxy S27 Ultra's Snapdragon chip variant would have thermal management issues, a recurring concern for flagship Android devices with high-performance chips.",
+      "keyFindings": [
+        "Qualcomm has publicly denied overheating claims tied to the S27 Ultra Snapdragon variant",
+        "No independent thermal testing data has been published to confirm or refute the leak",
+        "Samsung has not commented on chip selection or thermal design for the S27 line"
+      ],
+      "implications": "Premature for any product or design decisions. Worth monitoring if your work involves designing for Android flagship constraints, but no confirmed facts to act on yet.",
+      "tags": [
+        "Mobile Hardware",
+        "Android"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcFlkRkNmQ2FGal9lQ1VkNS1ORW9rNG5IXzBiNy1ZSmZhbjRQdXNWN2ttUlIzeVpHRmR6bUxjOFU3M0I1M0Z4QV9FOFZuSi1rMlZ2cXZ6d1RqaV9NOHNsM2NadTFHeTJROGdGbkh0QTR1eFBOUjJRdmdUMm1MTEw4dWtwaThZUzBEdTNxRjQ4WE42OEQ2bWVvWHBaNGdnZEot?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 11:37:31 GMT"
+    },
+    {
+      "headline": "ChatGPT Gets Parallel Agents in GPT-6 Pro",
+      "background": "Agentic AI — systems that can plan and execute multi-step tasks autonomously — has been a major development focus across OpenAI, Anthropic, and Google. Parallel agents represent a meaningful architectural step, allowing multiple sub-tasks to run simultaneously rather than sequentially.",
+      "keyFindings": [
+        "GPT-6 Pro in ChatGPT now supports parallel agent execution, meaning complex tasks can be decomposed and run concurrently",
+        "This reduces latency on multi-step agentic workflows that previously required sequential tool calls",
+        "Access appears limited to GPT-6 Pro tier, continuing OpenAI's pattern of gating significant capability upgrades behind paid tiers"
+      ],
+      "implications": "Product teams building on the OpenAI API should evaluate whether parallel agent architecture changes the feasibility of workflows they previously ruled out as too slow. UX designers building AI-powered interfaces need to account for non-linear task execution in feedback and progress UI patterns.",
+      "tags": [
+        "AI Agents",
+        "ChatGPT",
+        "Product Development"
+      ],
+      "featured": true,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnBPYXp3Z1lKdkcxWGF2ZmFpUnNPeGlRcDlwN0FNR0Y1TE9Rc1o1MzZ4YlQyeXJPbVhIdW55ZUU4N1RoOWZZQ25nQ01yamxabFBsd0RCcExHLUJXNjM0VVkzcW43SmF2U3ZKdWJmQnhJSVFWZ1JLZ2xpb1FITlN0THh5aVJHa1U0YWs0Tg?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 11:35:27 GMT"
+    },
+    {
+      "headline": "Bungie Shifts Job Listing from Destiny 2 to Marathon",
+      "background": "Bungie's Marathon reboot has been in development alongside Destiny 2, but the balance of internal resources has been unclear. Job listing changes are a common indirect signal of studio prioritization shifts.",
+      "keyFindings": [
+        "A Bungie job listing previously associated with Destiny 2 has been relabeled for Marathon, suggesting resource reallocation",
+        "The shift dampens community speculation about significant new Destiny 2 content or systems development",
+        "No official Bungie statement has confirmed a broader strategic pivot away from Destiny 2"
+      ],
+      "implications": "Minimal direct relevance for UX or product practitioners. Of interest only to those following live-service game design or Bungie's product strategy.",
+      "tags": [
+        "Gaming",
+        "Studio Strategy"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "GameRiv",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM041b2xTOEpveUo5UjFLQ09iMndLVV94UG16VFdWRnY5ZFVfUkpNQUdvdkkyaTh2ZzAzZFFUNUM2OG4tcmRaZHkzUGcxV3VGYzd1Y2MtT2J0WWJaYk56TWt4c2UyU1NlMm9nbDdINjVPdU1EeG9Cb1dYc1pjWEx2YWpqVXRCdGtmSWtMWnlqSk56dk0?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 10:52:22 GMT"
+    },
+    {
+      "headline": "HHV-2 Peptide Pool Market Forecast Irrelevant to This Audience",
+      "background": "This is a biomedical market research report focused on herpes vaccine antigen research supply chains.",
+      "keyFindings": [
+        "No UX, product, or technology findings present",
+        "Content is a niche biomedical market sizing report"
+      ],
+      "implications": "No actionable content for UX, product, or tech practitioners. Not relevant to this digest.",
+      "tags": [
+        "Off-Topic"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcVJaRFpRdXgtZGNPM1FnSW5NYVg3aTVkVmozX2lnM1lwX3JPN3VHdU9zdS1EdlJ5Y0t6NWRxcFNJQXVxaEVETzFibWlxWmw5bVIyaUFFNW9FN2ZHYTJ0bUlOZU81WVBTSkZFSWlyUC1LX3huNXJ5ZTMxVlZuaHloMi1WUHd1bjJkeGJtMjV5NE9nU09sMWR0WnlhRUlLQktUaU1tQWVybGxPeGNpYWRibmhSV3E3SUREWHg4X0FQdklGQkFtUEZR?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 10:16:05 GMT"
     }
   ]
 }
