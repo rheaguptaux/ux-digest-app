@@ -1,215 +1,195 @@
 {
-  "generatedAt": "2026-10-17T15:05:31.844Z",
+  "generatedAt": "2026-10-18T15:28:46.390Z",
   "items": [
     {
-      "headline": "Three-Day Sprint Reveals School App's Real Problem",
-      "background": "School communication apps frequently suffer from feature bloat aimed at administrators rather than the parents who use them daily. This case study documents a constrained redesign challenge that forced prioritization decisions under time pressure.",
+      "headline": "HCI origins are more human than you'd expect",
+      "background": "HCI is often taught as a technical discipline, but its foundations are deeply rooted in cognitive psychology, ergonomics, and human factors research that predate the personal computer.",
       "keyFindings": [
-        "The core issue was information hierarchy, not just visual clutter — parents couldn't locate time-sensitive updates without scanning the full feed",
-        "Redesign introduced a parent-focused home view that surfaced urgent school messages separately from routine updates",
-        "Three-day constraint forced cutting scope to highest-impact flows rather than full-app overhaul"
+        "Student reflection notes that HCI origins center on human behavior, not just interface mechanics",
+        "Early HCI drew from disciplines outside computer science, which shaped its empathy-first framing"
       ],
-      "implications": "Useful reference for teams doing rapid audits on communication-heavy apps. The parent-vs-admin priority tension is common in edtech and shows up in healthcare portals too — worth auditing whose mental model your IA actually serves.",
+      "implications": "Useful framing for onboarding junior designers or structuring HCI curriculum — grounding the field in its human origins can shift how practitioners approach problem definition. Limited depth given this is a student log entry.",
       "tags": [
-        "Information Architecture",
-        "EdTech",
-        "Case Study"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/924/1*H2jPZRWFGixhkvSNd649LA.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@thomas.lebas26/three-days-to-redesign-daily-connect-it-looked-like-a-ui-problem-8e8a7064c648?source=rss------product_design-5",
-      "pubDate": "Sat, 17 Oct 2026 14:17:42 GMT"
-    },
-    {
-      "headline": "AI CAD Tools Get Engineers to 75% Done Automatically",
-      "background": "Engineering CAD workflows have historically required hours of manual modeling before a concept becomes testable. A new generation of AI-assisted CAD tools is compressing that early-stage work significantly, changing how design iteration begins.",
-      "keyFindings": [
-        "AI CAD tools can generate a workable 3D model from a rough concept brief, reducing early-stage modeling from days to hours",
-        "The '75% done' threshold means engineers spend most of their time on refinement and validation rather than construction",
-        "The shift moves the bottleneck from model creation to design judgment — knowing what to change, not how to build it"
-      ],
-      "implications": "Product teams embedding engineers early in ideation should account for this speed shift — if physical prototyping cycles compress, UX and engineering feedback loops can tighten meaningfully. The skill premium moves toward critical evaluation of AI output, not raw modeling ability.",
-      "tags": [
-        "AI Tools",
-        "Engineering Design",
-        "Prototyping"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1375/1*mf_gxe0k4VV-jljtzongmw.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@johnsanthosh231/how-ai-cad-is-changing-engineering-design-from-blank-screen-to-75-done-065769eb240b?source=rss------product_design-5",
-      "pubDate": "Sat, 17 Oct 2026 13:37:53 GMT"
-    },
-    {
-      "headline": "Preclinical Ultrasound Market Forecast Irrelevant to This Audience",
-      "background": "This is a market statistics report on preclinical ultrasound hardware tied to biologics research.",
-      "keyFindings": [
-        "No UX, product, or tech findings present",
-        "Content is a market sizing report for biomedical equipment vendors"
-      ],
-      "implications": "No actionable content for UX, product, or tech practitioners. Not relevant to this digest.",
-      "tags": [
-        "Off-Topic"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTkJoaVBhU0wyaVlqbnc0R3RhZXlIY3VaZkE5RnN2QjZxY0E3NnpXZU5LaDM2QTBXSEJGMjB1YVBPNmpQaDAxQXBDZWdqQTY0cWpWR0hLVjU3ck1IaU1FMTBNczJ3TFFYY1dfclhHdVlqdEt1UW5oSmdYMFBLRUVVeXk0eGJRTV9qU2xxY05IN0o3eDd2R0lRbkFmVXhjSzdnOXN0em8xLVhUS3FabHoxc1FsN2w2Wmx0NWRCcg?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 13:31:05 GMT"
-    },
-    {
-      "headline": "Figma Config India: Design, Code, and AI Are Converging",
-      "background": "Figma's Config events have become a barometer for where the design-to-development handoff is heading. The India edition surfaced practitioner perspectives on how AI is redistributing work across design and engineering roles.",
-      "keyFindings": [
-        "Speakers described a shift where AI handles increasing amounts of component generation, pushing designers toward systems thinking and decision-making",
-        "The design-code boundary is blurring inside Figma itself, with dev mode and AI features enabling engineers to work directly in design files",
-        "Attendees noted growing pressure on designers to develop fluency with prompting and output evaluation rather than pixel-level craft"
-      ],
-      "implications": "Designers who haven't yet engaged with Figma's AI and dev mode features are falling behind the baseline expectations at product companies. The Config India framing suggests this shift is reaching markets beyond early-adopter US tech hubs.",
-      "tags": [
-        "Design Tools",
-        "AI Tools",
-        "Design-Dev Handoff"
+        "HCI history",
+        "Design education",
+        "Foundations"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1402/1*KE7M_HwGMxcpgjyz26hL5A.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*zVQLcaH59Cr4sT9_-Gd0Ng.png",
       "source": "UX on Medium",
-      "link": "https://vikasandesigns.medium.com/figma-config-india-2026-when-design-code-and-ai-start-sharing-the-same-canvas-c8703704a0a2?source=rss------ux-5",
-      "pubDate": "Sat, 17 Oct 2026 13:12:57 GMT"
+      "link": "https://savi07.medium.com/reflective-log-entry-1-ac9a48d7032d?source=rss------ux-5",
+      "pubDate": "Sun, 18 Oct 2026 15:10:07 GMT"
     },
     {
-      "headline": "Template Sites Have Five Costs Founders Underestimate",
-      "background": "Startups routinely launch on Webflow, Squarespace, or WordPress themes to save time and money, often without accounting for the longer-term costs of that decision. This piece catalogs where template-based sites create real drag.",
+      "headline": "Physical prototyping makes better digital designers",
+      "background": "There's a longstanding debate about whether digital-only designers miss tactile and spatial intuitions that come from building physical objects — skills relevant to hardware UX, wearables, and embodied interaction.",
       "keyFindings": [
-        "Hidden costs include performance debt from unused CSS/JS, brand dilution from recognizable template patterns, and conversion loss from layouts optimized for the theme's demo content rather than the product",
-        "Customization time frequently erodes the initial build-time savings within the first two design iterations",
-        "The piece argues templates remain the right call specifically when a site is a placeholder, not a conversion tool — the mistake is treating them as equivalent to custom builds"
+        "Argument made that handling physical materials builds spatial and ergonomic intuition absent from screen-only workflows",
+        "Physical prototyping forces constraints that software tools abstract away, sharpening design judgment"
       ],
-      "implications": "Relevant for anyone advising early-stage clients or making the build-vs-template call internally. The framing around 'what job is this site doing' is a useful decision filter before defaulting to a theme.",
+      "implications": "Relevant for product designers working on hardware, wearables, or any device-adjacent product — consider low-fi physical prototyping as a deliberate skill-building practice, not just a novelty.",
       "tags": [
-        "Web Design",
-        "Startups",
-        "Conversion"
+        "Prototyping",
+        "Product design",
+        "Physical UX"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*RjAL3B8L7yuVdAnYMRt-Jw.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@uiyazir/why-you-should-design-products-you-can-actually-hold-b19e524af1a7?source=rss------product_design-5",
+      "pubDate": "Sun, 18 Oct 2026 15:03:33 GMT"
+    },
+    {
+      "headline": "7 interview questions that expose real design thinking",
+      "background": "As AI tools get better at generating polished portfolio commentary and rehearsed answers, hiring teams are struggling to distinguish genuine design judgment from AI-assisted prep.",
+      "keyFindings": [
+        "Questions focus on specific past decisions — rationale, tradeoffs, and outcomes — rather than process descriptions",
+        "AI tools can simulate design vocabulary but cannot fabricate authentic decision histories with real organizational context",
+        "Interviewers are advised to probe the 'why you chose X over Y' layer, not the 'what did you do' layer"
+      ],
+      "implications": "If you're hiring product designers, restructure interviews around decision archaeology — ask candidates to reconstruct a specific call they made and what they sacrificed. If you're a candidate, prepare real decision stories, not process summaries.",
+      "tags": [
+        "Hiring",
+        "Design interviews",
+        "AI tools"
       ],
       "featured": true,
       "type": "opinion",
-      "category": "UX",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1400/1*xUtS2xYtSoXJ2j2bsrx8yA.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@theshaheermalik/templates-cost-more-than-they-save-heres-where-c478eecbb66a?source=rss------ux-5",
-      "pubDate": "Sat, 17 Oct 2026 13:08:56 GMT"
+      "image": "https://cdn-images-1.medium.com/max/2600/1*F4Sx28jfPKPaqo8SbP3owg.png",
+      "source": "Product Design on Medium",
+      "link": "https://nurxmedov.medium.com/7-product-designer-interview-questions-chatgpt-cant-answer-653ba35933fb?source=rss------product_design-5",
+      "pubDate": "Sun, 18 Oct 2026 14:31:01 GMT"
     },
     {
-      "headline": "Custom Poster Printing Services Reviewed for UX Quality",
-      "background": "Consumer printing services vary widely in ordering flow usability and design tool quality, which affects both individual users and designers ordering on behalf of clients.",
+      "headline": "Stakeholder feedback is inevitable — here's the real problem",
+      "background": "Designers frequently experience the tension between craft investment and stakeholder revision cycles, which can erode both design quality and team morale when not managed structurally.",
       "keyFindings": [
-        "No specific UX findings, data, or methodology are available from the snippet",
-        "Article appears to be a vendor roundup from a local news outlet with no evident expert UX evaluation criteria"
+        "Piece frames unsolicited stakeholder opinions as a structural problem, not a personal one",
+        "Suggests the issue is insufficient alignment earlier in the process, not the feedback itself"
       ],
-      "implications": "Insufficient information to assess relevance or accuracy. Not recommended as a reference source.",
+      "implications": "A reminder that feedback overload late in a project is usually a symptom of under-involvement early. Useful for practitioners rethinking when and how stakeholders are brought in — though the piece appears to be personal reflection rather than a research-based guide.",
       "tags": [
-        "Off-Topic"
+        "Stakeholder management",
+        "Design process",
+        "Collaboration"
       ],
       "featured": false,
-      "type": "research",
-      "category": "Industry news",
+      "type": "opinion",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": null,
-      "source": "Yonkers Times",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQclZZYXhsSExjcE1HNTZQOGVIQm05UkZwYTBqR0RrRUwyWV9hTk04ek5pY01hVHpXODFrNUppQWY2dzM4Tkpod1BJYUN3dWpuM3N2THFXaVIyNl9Xa194U3M5UWlncjVLd2lkUF96TTlycG1MSmJ2WFJjLTdTUUJJakh4TThjTU5vNmdHMFNfbmhSSkdXcUtjQW0xdXFfSGpMemRfX2pjbnZ5WlhGUUNDQw?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 12:11:15 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1672/1*4J-SwLWfwiCADs6yikPixw.png",
+      "source": "Product Design on Medium",
+      "link": "https://sowmyagupta.medium.com/your-design-was-beautiful-then-everyone-had-an-opinion-c96d2b0f6661?source=rss------product_design-5",
+      "pubDate": "Sun, 18 Oct 2026 14:25:29 GMT"
     },
     {
-      "headline": "Qualcomm Denies Galaxy S27 Ultra Overheating Reports",
-      "background": "Leaks suggested the Galaxy S27 Ultra's Snapdragon chip variant would have thermal management issues, a recurring concern for flagship Android devices with high-performance chips.",
+      "headline": "ROG Xbox Ally X20 launches in Italy at €2,599",
+      "background": "The handheld gaming PC market is growing competitive, with ASUS ROG and Xbox collaborating on devices targeting premium portable gaming segments.",
       "keyFindings": [
-        "Qualcomm has publicly denied overheating claims tied to the S27 Ultra Snapdragon variant",
-        "No independent thermal testing data has been published to confirm or refute the leak",
-        "Samsung has not commented on chip selection or thermal design for the S27 line"
+        "Device launches in Italy at €2,599, bundle-only — no standalone unit pricing",
+        "Positioning suggests premium tier targeting enthusiast buyers rather than mainstream handheld market"
       ],
-      "implications": "Premature for any product or design decisions. Worth monitoring if your work involves designing for Android flagship constraints, but no confirmed facts to act on yet.",
+      "implications": "Minimal direct relevance to UX/product practitioners. Marginally relevant to designers working on gaming peripherals or handheld device interfaces.",
       "tags": [
-        "Mobile Hardware",
-        "Android"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcFlkRkNmQ2FGal9lQ1VkNS1ORW9rNG5IXzBiNy1ZSmZhbjRQdXNWN2ttUlIzeVpHRmR6bUxjOFU3M0I1M0Z4QV9FOFZuSi1rMlZ2cXZ6d1RqaV9NOHNsM2NadTFHeTJROGdGbkh0QTR1eFBOUjJRdmdUMm1MTEw4dWtwaThZUzBEdTNxRjQ4WE42OEQ2bWVvWHBaNGdnZEot?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 11:37:31 GMT"
-    },
-    {
-      "headline": "ChatGPT Gets Parallel Agents in GPT-6 Pro",
-      "background": "Agentic AI — systems that can plan and execute multi-step tasks autonomously — has been a major development focus across OpenAI, Anthropic, and Google. Parallel agents represent a meaningful architectural step, allowing multiple sub-tasks to run simultaneously rather than sequentially.",
-      "keyFindings": [
-        "GPT-6 Pro in ChatGPT now supports parallel agent execution, meaning complex tasks can be decomposed and run concurrently",
-        "This reduces latency on multi-step agentic workflows that previously required sequential tool calls",
-        "Access appears limited to GPT-6 Pro tier, continuing OpenAI's pattern of gating significant capability upgrades behind paid tiers"
-      ],
-      "implications": "Product teams building on the OpenAI API should evaluate whether parallel agent architecture changes the feasibility of workflows they previously ruled out as too slow. UX designers building AI-powered interfaces need to account for non-linear task execution in feedback and progress UI patterns.",
-      "tags": [
-        "AI Agents",
-        "ChatGPT",
-        "Product Development"
-      ],
-      "featured": true,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnBPYXp3Z1lKdkcxWGF2ZmFpUnNPeGlRcDlwN0FNR0Y1TE9Rc1o1MzZ4YlQyeXJPbVhIdW55ZUU4N1RoOWZZQ25nQ01yamxabFBsd0RCcExHLUJXNjM0VVkzcW43SmF2U3ZKdWJmQnhJSVFWZ1JLZ2xpb1FITlN0THh5aVJHa1U0YWs0Tg?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 11:35:27 GMT"
-    },
-    {
-      "headline": "Bungie Shifts Job Listing from Destiny 2 to Marathon",
-      "background": "Bungie's Marathon reboot has been in development alongside Destiny 2, but the balance of internal resources has been unclear. Job listing changes are a common indirect signal of studio prioritization shifts.",
-      "keyFindings": [
-        "A Bungie job listing previously associated with Destiny 2 has been relabeled for Marathon, suggesting resource reallocation",
-        "The shift dampens community speculation about significant new Destiny 2 content or systems development",
-        "No official Bungie statement has confirmed a broader strategic pivot away from Destiny 2"
-      ],
-      "implications": "Minimal direct relevance for UX or product practitioners. Of interest only to those following live-service game design or Bungie's product strategy.",
-      "tags": [
+        "Hardware",
         "Gaming",
-        "Studio Strategy"
+        "Product launch"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "GameRiv",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM041b2xTOEpveUo5UjFLQ09iMndLVV94UG16VFdWRnY5ZFVfUkpNQUdvdkkyaTh2ZzAzZFFUNUM2OG4tcmRaZHkzUGcxV3VGYzd1Y2MtT2J0WWJaYk56TWt4c2UyU1NlMm9nbDdINjVPdU1EeG9Cb1dYc1pjWEx2YWpqVXRCdGtmSWtMWnlqSk56dk0?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 10:52:22 GMT"
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN1RlMGcwSWFQVXg5azBBdTZsTXJaRDhDaDAxazYzam5lQmNhYzZ0a2lfVms5YnJCeTgyZ2VTNWRWLVFYMWdHbmEyWnRGdVN0LVh0SXVHMnh5SW56b01KaW4zdmtIb0dfSksxemdLeXVPZ1BTTi1sYkJUOFNCcWxycTJKQ3ZWZGc?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 14:08:03 GMT"
     },
     {
-      "headline": "HHV-2 Peptide Pool Market Forecast Irrelevant to This Audience",
-      "background": "This is a biomedical market research report focused on herpes vaccine antigen research supply chains.",
+      "headline": "Vodafone trials 10 Gbps fiber in Spain",
+      "background": "European telecom operators have been rolling out next-generation fiber infrastructure at uneven pace; Vodafone Spain was the last major operator to begin 10 Gbps trials.",
       "keyFindings": [
-        "No UX, product, or technology findings present",
-        "Content is a niche biomedical market sizing report"
+        "Vodafone Spain is the final large operator in the market to initiate 10 Gbps fiber trials",
+        "Trial status means consumer availability remains undefined"
       ],
-      "implications": "No actionable content for UX, product, or tech practitioners. Not relevant to this digest.",
+      "implications": "Limited direct UX/product relevance. Background context for designers or PMs working on latency-sensitive web or streaming products in the Spanish market.",
       "tags": [
-        "Off-Topic"
+        "Infrastructure",
+        "Connectivity",
+        "Europe"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbGd5M0NKeGxFQjBDU2xzZjRETTBjbngteE5USXFjNDBhbHRwcTJubEJMa0Z3LWh3MFlTeTJtdVJaOUdYVmhjM2kxUVlIY0dDeHhmTHRQNUxVaUszdHRtVlRVR1FyNEdNcDhmLTZURWtMTnhkZWo0ekktT2RBVjRVU2UzSUhxVWxScnlCTVN3?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 13:47:58 GMT"
+    },
+    {
+      "headline": "A running list of decompiled and recompiled PC games",
+      "background": "Game preservation and modding communities have been reverse-engineering classic PC titles to enable compatibility with modern systems, community patches, and source-level modding.",
+      "keyFindings": [
+        "allrecomps.com catalogs PC games that have been decompiled and successfully recompiled from source",
+        "Resource serves game preservation, modding, and research communities"
+      ],
+      "implications": "Niche but useful reference for developers or designers involved in game preservation, legacy software UX, or mod tooling projects.",
+      "tags": [
+        "Game preservation",
+        "Developer tools",
+        "Reverse engineering"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbTV2YzY5XzlEM2pPbEgzRVp4SE5ERnNqWko2cmJKZUtVTTV0TV85U0YwVk5VYlJXMENhTWN4emhsSFA4elhEVXBmSlFuWkhXNGhJcEkyMjVYNWYyUE1odlpNWnZDZUxkR1BhNjk0c3J4c25oQi0zOGlsbUVoQ01vZlljdlFZa0pSamdTWDBn?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 13:47:58 GMT"
+    },
+    {
+      "headline": "Engineering and tech career paths in New Zealand",
+      "background": "Talent mobility in the Asia-Pacific region has increased post-pandemic, with New Zealand positioning itself as a destination for engineering and technology professionals.",
+      "keyFindings": [
+        "Piece outlines diverse engineering and innovation career tracks available in New Zealand",
+        "Targeted at Vietnamese professionals considering international migration into tech roles"
+      ],
+      "implications": "Narrow geographic and audience relevance. Not directly actionable for most UX/product practitioners unless evaluating relocation or international hiring.",
+      "tags": [
+        "Careers",
+        "Tech industry",
+        "Asia-Pacific"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmp0SW1pZDBxaGNXUHQyaHpTd2IwYS13aEREeGd4djE1cFMtamQ3QkdEd2pja1lVMVNweERYRThQc0c5Ti1nSnl6cTU3a0F5b3VZUWZYcDBBYWRaTmpfNV9hNG9oMW5kcmlNaHZYcGVVbmxvUXZGSENvWkNzc25YXzJBcUZzWFhwd2xkLXNUQkRMMzFyOUxVR013bmpLS3JXNzRGV3Vna0E?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 13:04:45 GMT"
+    },
+    {
+      "headline": "Restriction endonuclease market forecast through 2035",
+      "background": "Gene editing and genomic research have driven sustained demand for molecular biology reagents, with restriction enzymes remaining a foundational tool despite newer CRISPR-based approaches.",
+      "keyFindings": [
+        "Market projected to grow through 2035 driven by genomic research and gene editing demand",
+        "Report from IndexBox signals continued commercial investment in classical molecular biology tooling alongside newer gene-editing platforms"
+      ],
+      "implications": "No meaningful relevance to UX, product, or tech practice. Excluded from recommended reading for this audience.",
+      "tags": [
+        "Biotech",
+        "Market research",
+        "Genomics"
       ],
       "featured": false,
       "type": "research",
@@ -217,8 +197,30 @@
       "publishedWindow": "today",
       "image": null,
       "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcVJaRFpRdXgtZGNPM1FnSW5NYVg3aTVkVmozX2lnM1lwX3JPN3VHdU9zdS1EdlJ5Y0t6NWRxcFNJQXVxaEVETzFibWlxWmw5bVIyaUFFNW9FN2ZHYTJ0bUlOZU81WVBTSkZFSWlyUC1LX3huNXJ5ZTMxVlZuaHloMi1WUHd1bjJkeGJtMjV5NE9nU09sMWR0WnlhRUlLQktUaU1tQWVybGxPeGNpYWRibmhSV3E3SUREWHg4X0FQdklGQkFtUEZR?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 10:16:05 GMT"
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZnpwS2kzMDBsTUkwRy1vU29yck1IZDBWbVVUTGt3TzZfX1JUX1doQ1hOeWxXT1BMTFZzaXNNbV9VTmNvSml2UjIzS2x0bFpfR2ZOaDhnai1uTFF3SWZsWlA3UW9FbGlGUmxXY3pJcE1hZ24tdFNoYXQ4UnRrUVdGeERzcEo2ZkVwWVp3bUhUSEVFbkYtT1JIeGMzd2lNRTdIN0dJQmZiTnRldDFqbnJpcUpQMG05OHNxTTVwbkx5U0RDb1JrdUZrSkt0MFA?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 05:26:04 GMT"
+    },
+    {
+      "headline": "Aon appoints regional marketing head for GCC",
+      "background": "Professional services firms have been expanding their Gulf Cooperation Council presence as the region increases investment in insurance, risk, and financial services.",
+      "keyFindings": [
+        "Amit B. named Head of Regional Marketing and Events at Aon for the GCC region",
+        "Appointment reflects continued growth focus by Aon in the Middle East market"
+      ],
+      "implications": "No relevance to UX, product, or technology practice. Personnel announcement only.",
+      "tags": [
+        "Personnel",
+        "Marketing",
+        "Middle East"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "https://hrtoday.in/",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTWdKYVZCdDdPSjJHNXFyZzhES0ljcFdxci1TTExiRW9aU0RnVHZ4QXRhNmUwNzl1MUt4US1paDNjaG1ibl9LYXU3a3FIQ0ZnZFNGS1FvRkZwbnhYVWNKSEZpSFRLbGxxWGc5cV8zQmJiT3YyMVhNSXFSNUVuYTVyOGlSckowdXll?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 03:33:45 GMT"
     }
   ]
 }
