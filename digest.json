@@ -1,107 +1,226 @@
 {
-  "generatedAt": "2026-10-18T15:28:46.390Z",
+  "generatedAt": "2026-10-19T18:25:34.781Z",
   "items": [
     {
-      "headline": "HCI origins are more human than you'd expect",
-      "background": "HCI is often taught as a technical discipline, but its foundations are deeply rooted in cognitive psychology, ergonomics, and human factors research that predate the personal computer.",
+      "headline": "RAM requirements for Liquid AI's LFM2.5-24B-A2B local deployment",
+      "background": "Liquid AI's LFM2.5 model family uses a non-transformer architecture designed to be more efficient than comparable parameter-count models, raising questions about whether its memory footprint actually differs meaningfully for local inference.",
       "keyFindings": [
-        "Student reflection notes that HCI origins center on human behavior, not just interface mechanics",
-        "Early HCI drew from disciplines outside computer science, which shaped its empathy-first framing"
+        "The LFM2.5-24B-A2B model uses a mixture-of-experts design with only 2B active parameters per forward pass",
+        "Despite a 24B total parameter count, active-parameter efficiency may allow it to run on consumer hardware with less RAM than a dense 24B model would require",
+        "Exact RAM figures depend on quantization level used at runtime"
       ],
-      "implications": "Useful framing for onboarding junior designers or structuring HCI curriculum — grounding the field in its human origins can shift how practitioners approach problem definition. Limited depth given this is a student log entry.",
+      "implications": "Relevant for product teams or solo practitioners evaluating whether they can run capable models locally without cloud API costs. Check quantization options before assuming the headline parameter count reflects actual hardware requirements.",
       "tags": [
-        "HCI history",
-        "Design education",
-        "Foundations"
+        "Local AI",
+        "Model Efficiency",
+        "On-device Inference"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNemRTd2Fkc2ZrbDJtcHdRc25teVdLdUs5WURNcmdRTm84UWRVaWhoTkh6Q2lQOHlzRXdQUi1NTFJqQ0RNdktnaGl3a1U5dHYxU2x0d1Q2a3hTZVRIQzN2VVJXNjR2Tkl4X1F3TnZHRC1HdF9odTZYRFlFNTJHdWFtalkzTlVTdkNoODc5Zmo3MUY3SXNHc3BR?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 18:19:11 GMT"
+    },
+    {
+      "headline": "China's Neo1 humanoid robot stands 4 meters, lifts 500 kg",
+      "background": "The global humanoid robot race has focused heavily on human-scale robots for warehouse and logistics use, but Neo1 represents a deliberate move toward industrial-scale machines designed for heavy load environments.",
+      "keyFindings": [
+        "Neo1 stands 4 meters tall, far larger than human-scale competitors like Figure or Tesla Optimus",
+        "It is rated to lift 500 kg, targeting industrial and construction applications rather than service roles",
+        "The robot is developed in China, adding to a growing list of Chinese entrants competing directly with US robotics firms"
+      ],
+      "implications": "For product and UX teams working on industrial interfaces or human-robot interaction, this signals that humanoid robot form factors are diverging significantly — design assumptions built around human-scale robots won't transfer to heavy industrial variants.",
+      "tags": [
+        "Robotics",
+        "Physical AI",
+        "Industrial Tech"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0RINDB1VFZ2ZGFqUkExbUZqeVlPUjFDOW5kTUlSRzNTQjM4dEN4SlNFZnhla29jUm9HMnduQnNWQms5WFNDT3lBcmNBSmpRR1F3V1VFOFhnTktZQUJJMXFtSUl1R3hQMU53NFE5Nzh0R1owUmdQdWtGd3JEUnBWX19zOFJ4LVFEZ3I2Rg?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 17:31:07 GMT"
+    },
+    {
+      "headline": "Reclaiming creative joy amid tech industry burnout",
+      "background": "Burnout has become endemic in tech, with many practitioners reporting a loss of intrinsic motivation tied to the accelerating pace of AI tooling, layoffs, and productivity pressure. This piece is a first-person account of one person's recovery of creative engagement.",
+      "keyFindings": [
+        "The author identifies widespread burnout among tech workers as a structural pattern, not individual failure",
+        "Reconnecting with making things for personal reasons — outside of work deliverables — is framed as the key recovery mechanism",
+        "The piece does not prescribe a universal fix but documents a personal process of reorientation"
+      ],
+      "implications": "Useful context for team leads and managers recognizing burnout signals in their teams, and for individual contributors trying to name what they're experiencing. No single tactic is presented as a solution, so treat it as a reflective prompt rather than a how-to.",
+      "tags": [
+        "Burnout",
+        "Creative Practice",
+        "Career"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@mhirano1205/my-journey-of-finding-joy-in-creating-again-b96fec7aa4e9?source=rss------product_design-5",
+      "pubDate": "Mon, 19 Oct 2026 17:19:24 GMT"
+    },
+    {
+      "headline": "Service design conference takeaway: judgment beats tools",
+      "background": "As AI tools proliferate in UX and service design workflows, there is ongoing tension in the field about whether practitioners are developing critical judgment or outsourcing it. This piece reflects on that debate as surfaced at the Service Design Disrupted 2026 conference.",
+      "keyFindings": [
+        "The central conference theme was practicing craft with intention rather than defaulting to whatever tools are available",
+        "The author argues that tool fluency without judgment leads to superficial design outputs",
+        "Emphasis was placed on the researcher's and designer's role in interpreting and deciding, not just facilitating or generating"
+      ],
+      "implications": "Directly relevant to UX researchers and service designers navigating AI-assisted work. The practical implication is to audit your current workflow: are you exercising judgment at each step or deferring it to the tool? This applies especially when using generative AI for synthesis or ideation.",
+      "tags": [
+        "Service Design",
+        "AI tools",
+        "Research Practice"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*zVQLcaH59Cr4sT9_-Gd0Ng.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*4LOlTd765MTFaVTxWL9bpg.jpeg",
       "source": "UX on Medium",
-      "link": "https://savi07.medium.com/reflective-log-entry-1-ac9a48d7032d?source=rss------ux-5",
-      "pubDate": "Sun, 18 Oct 2026 15:10:07 GMT"
+      "link": "https://medium.com/@lvilasoles/judgment-over-tools-reflections-from-service-design-disrupted-2026-bbd13449c7b0?source=rss------ux-5",
+      "pubDate": "Mon, 19 Oct 2026 17:18:09 GMT"
     },
     {
-      "headline": "Physical prototyping makes better digital designers",
-      "background": "There's a longstanding debate about whether digital-only designers miss tactile and spatial intuitions that come from building physical objects — skills relevant to hardware UX, wearables, and embodied interaction.",
+      "headline": "How the NCAA rebuilt its website as a brand touchpoint, not an archive",
+      "background": "Large sports organizations have historically treated their websites as content repositories rather than brand experiences, resulting in cluttered, navigation-heavy sites that serve no audience well. The NCAA undertook a redesign to shift this dynamic.",
       "keyFindings": [
-        "Argument made that handling physical materials builds spatial and ergonomic intuition absent from screen-only workflows",
-        "Physical prototyping forces constraints that software tools abstract away, sharpening design judgment"
+        "The redesign explicitly repositioned the NCAA site from an information dump to a brand marketing vehicle",
+        "The effort involved rethinking content hierarchy and visual language to prioritize brand storytelling over exhaustive content coverage",
+        "The case is positioned as a model for how governing bodies and institutional organizations can modernize digital presence"
       ],
-      "implications": "Relevant for product designers working on hardware, wearables, or any device-adjacent product — consider low-fi physical prototyping as a deliberate skill-building practice, not just a novelty.",
+      "implications": "Useful reference for UX and content strategists working with large institutions or membership organizations where historical content accumulation has made the site structurally incoherent. The key lever was editorial prioritization, not just visual redesign.",
       "tags": [
-        "Prototyping",
-        "Product design",
-        "Physical UX"
+        "Content Strategy",
+        "Information Architecture",
+        "Brand Experience"
+      ],
+      "featured": true,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Campaign US",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnBpSk5IdUx6UEl1a3J0TFRzYnZFZF93T3NDYjBGWkNxUXpMbjdMMDJzN2l5WWExbGhCN1UzQlE4X2RTakVUOERCVjFPcUE1c3dRLW9wYWVlOGtDZ2tQdEpMT1gyMlpUSFFWUXhFVXlGM0phYm1iODhtbW1DVlJZdk9IdE1GZEZDeFB6OWJvN2FZOG5xT1ZZbEpkTFZteE5QeHgzdnRMekdvU2ZCenp6c3RHMS1ic1lRQXhMUA?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 16:31:14 GMT"
+    },
+    {
+      "headline": "What physical AI is and how it actually works",
+      "background": "Physical AI — AI systems that perceive and act in the physical world — is being used increasingly loosely as a marketing term, leading to confusion about what technical components actually define it versus conventional robotics or computer vision.",
+      "keyFindings": [
+        "Physical AI is defined by three core components: real-world data pipelines, world models that simulate physical environments, and actuated robotic systems",
+        "World models are the key differentiator — they allow AI to predict physical consequences of actions before executing them",
+        "The piece distinguishes physical AI from narrow automation by its capacity for generalization across unstructured environments"
+      ],
+      "implications": "Product and UX teams being asked to design interfaces or workflows around physical AI systems need to understand what these systems can and cannot generalize to. World model quality is a key constraint — physical AI still fails in environments that differ significantly from its training distribution.",
+      "tags": [
+        "Physical AI",
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSGNjeFBFeDhMZTNlVkFhbnFwMHRTa0tvT2hTalJpZjZqaVhFd1NaU1VJY3NBOGdLU3VCZ1RjTTNwaHRtY3FjRllpaWZCTU5LS09oYWFKc0JQRU51YlY4Z21FR2p0aWxoeHR4dU5XWDItNlN2bENjSDFsQ3dwWjA1OGxR?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 16:22:50 GMT"
+    },
+    {
+      "headline": "Intel's GPU D-series targets AI inference with 160 GB memory",
+      "background": "High-memory GPU hardware has been dominated by NVIDIA for AI inference workloads, with alternatives from AMD and others gaining limited traction. Intel's D-series is a direct bid to compete in the data center inference market.",
+      "keyFindings": [
+        "The D-series GPU offers 160 GB of memory, directly targeting large model inference where VRAM is the primary bottleneck",
+        "Intel is positioning this against NVIDIA H100/H200 class hardware for inference rather than training workloads",
+        "The announcement is hardware-only; software ecosystem maturity for Intel GPUs remains a known gap"
+      ],
+      "implications": "For teams evaluating inference infrastructure for large models, Intel's D-series is worth tracking as a potential cost or availability alternative to NVIDIA. However, software stack maturity — particularly driver and framework support — should be validated before any procurement decision.",
+      "tags": [
+        "AI Infrastructure",
+        "GPU Hardware",
+        "Model Inference"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbHhVaXpDRF9ra01oMnU5NGx0eWliQnI4cGthUFJyMmZxOUhOZGYycXhRLXlCWGQzbW5oZWhFNVVfekQxOVA5bnk0YzB4NGtSaWhiVlBRVENhWTYwMEc2RWltUU1pVm1yVUMyZjFWVm51TGtyX0QzWUdYcm1XdWJUQ21CMmhhR2cxWGpMZ2F3?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 16:06:51 GMT"
+    },
+    {
+      "headline": "Knot Shadow Table: numbered edition side table with concealed light",
+      "background": "A designer object announcement — a limited-edition side table by Hamid Motahari combining bronze, honey onyx, and integrated concealed lighting.",
+      "keyFindings": [
+        "Materials are bronze and honey onyx with a concealed light source integrated into the design",
+        "Produced as a numbered limited edition",
+        "Designed by Hamid Motahari"
+      ],
+      "implications": "Not directly applicable to UX or product work. Of interest only to practitioners following material design or luxury product aesthetics.",
+      "tags": [
+        "Product Design",
+        "Furniture",
+        "Limited Edition"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*RjAL3B8L7yuVdAnYMRt-Jw.png",
+      "image": "https://cdn-images-1.medium.com/max/1600/0*2sk-8fv7G31QogcI.jpg",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@uiyazir/why-you-should-design-products-you-can-actually-hold-b19e524af1a7?source=rss------product_design-5",
-      "pubDate": "Sun, 18 Oct 2026 15:03:33 GMT"
+      "link": "https://medium.com/@hamidmotahari/knot-shadow-table-side-table-by-hamid-motahari-designer-7aa91f090d46?source=rss------product_design-5",
+      "pubDate": "Mon, 19 Oct 2026 16:01:03 GMT"
     },
     {
-      "headline": "7 interview questions that expose real design thinking",
-      "background": "As AI tools get better at generating polished portfolio commentary and rehearsed answers, hiring teams are struggling to distinguish genuine design judgment from AI-assisted prep.",
+      "headline": "Three AI labs cut prices simultaneously — what it means for 2026 planning",
+      "background": "In a short window, multiple leading AI labs dropped their API and model pricing significantly, disrupting cost assumptions that teams had used to plan AI product roadmaps. The author argues this was not coincidence but a structural market shift.",
       "keyFindings": [
-        "Questions focus on specific past decisions — rationale, tradeoffs, and outcomes — rather than process descriptions",
-        "AI tools can simulate design vocabulary but cannot fabricate authentic decision histories with real organizational context",
-        "Interviewers are advised to probe the 'why you chose X over Y' layer, not the 'what did you do' layer"
+        "Three major AI labs reduced pricing for frontier model access in close succession, compressing the cost of intelligence substantially",
+        "The author frames this as a deflationary trend that invalidates cost-based arguments against building AI-native features",
+        "The 2026 implication is that teams still treating AI capability as cost-prohibitive are working from outdated assumptions"
       ],
-      "implications": "If you're hiring product designers, restructure interviews around decision archaeology — ask candidates to reconstruct a specific call they made and what they sacrificed. If you're a candidate, prepare real decision stories, not process summaries.",
+      "implications": "Product and engineering teams should revisit AI feature feasibility assessments made in 2024 or early 2025 — the cost floor has shifted. This also intensifies competitive pressure, since the pricing barrier to entry for AI-powered products has dropped for everyone.",
       "tags": [
-        "Hiring",
-        "Design interviews",
-        "AI tools"
+        "AI Economics",
+        "Product Strategy",
+        "API Pricing"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*F4Sx28jfPKPaqo8SbP3owg.png",
+      "image": "https://cdn-images-1.medium.com/max/1594/1*Soy4JbjKSs3ySz7Vp0XfDQ.png",
       "source": "Product Design on Medium",
-      "link": "https://nurxmedov.medium.com/7-product-designer-interview-questions-chatgpt-cant-answer-653ba35933fb?source=rss------product_design-5",
-      "pubDate": "Sun, 18 Oct 2026 14:31:01 GMT"
+      "link": "https://medium.com/@yangxu_16238/the-night-three-ai-labs-crashed-the-price-of-intelligence-and-what-it-means-for-your-2026-ai-3131b72db920?source=rss------product_design-5",
+      "pubDate": "Mon, 19 Oct 2026 15:51:01 GMT"
     },
     {
-      "headline": "Stakeholder feedback is inevitable — here's the real problem",
-      "background": "Designers frequently experience the tension between craft investment and stakeholder revision cycles, which can erode both design quality and team morale when not managed structurally.",
+      "headline": "Japan's My Number digital ID launches on Android",
+      "background": "Japan's My Number card is a national identity system that has faced slow adoption due to its reliance on physical cards. The Android rollout is part of a broader government push to digitize national ID and reduce friction in accessing public services.",
       "keyFindings": [
-        "Piece frames unsolicited stakeholder opinions as a structural problem, not a personal one",
-        "Suggests the issue is insufficient alignment earlier in the process, not the feedback itself"
+        "The My Number card is now available on Android, with a specific list of supported devices published",
+        "The move follows an iOS rollout and is part of Japan's Digital Agency modernization push",
+        "Not all Android devices are supported — compatibility is tied to hardware-level NFC and security chip specifications"
       ],
-      "implications": "A reminder that feedback overload late in a project is usually a symptom of under-involvement early. Useful for practitioners rethinking when and how stakeholders are brought in — though the piece appears to be personal reflection rather than a research-based guide.",
+      "implications": "Relevant for product teams building services that interact with Japanese government ID verification. Device fragmentation on Android means you cannot assume all users can use the digital card — fallback flows for physical card users remain necessary.",
       "tags": [
-        "Stakeholder management",
-        "Design process",
-        "Collaboration"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*4J-SwLWfwiCADs6yikPixw.png",
-      "source": "Product Design on Medium",
-      "link": "https://sowmyagupta.medium.com/your-design-was-beautiful-then-everyone-had-an-opinion-c96d2b0f6661?source=rss------product_design-5",
-      "pubDate": "Sun, 18 Oct 2026 14:25:29 GMT"
-    },
-    {
-      "headline": "ROG Xbox Ally X20 launches in Italy at €2,599",
-      "background": "The handheld gaming PC market is growing competitive, with ASUS ROG and Xbox collaborating on devices targeting premium portable gaming segments.",
-      "keyFindings": [
-        "Device launches in Italy at €2,599, bundle-only — no standalone unit pricing",
-        "Positioning suggests premium tier targeting enthusiast buyers rather than mainstream handheld market"
-      ],
-      "implications": "Minimal direct relevance to UX/product practitioners. Marginally relevant to designers working on gaming peripherals or handheld device interfaces.",
-      "tags": [
-        "Hardware",
-        "Gaming",
-        "Product launch"
+        "Digital Identity",
+        "Government Tech",
+        "Android"
       ],
       "featured": false,
       "type": "research",
@@ -109,118 +228,8 @@
       "publishedWindow": "today",
       "image": null,
       "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN1RlMGcwSWFQVXg5azBBdTZsTXJaRDhDaDAxazYzam5lQmNhYzZ0a2lfVms5YnJCeTgyZ2VTNWRWLVFYMWdHbmEyWnRGdVN0LVh0SXVHMnh5SW56b01KaW4zdmtIb0dfSksxemdLeXVPZ1BTTi1sYkJUOFNCcWxycTJKQ3ZWZGc?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 14:08:03 GMT"
-    },
-    {
-      "headline": "Vodafone trials 10 Gbps fiber in Spain",
-      "background": "European telecom operators have been rolling out next-generation fiber infrastructure at uneven pace; Vodafone Spain was the last major operator to begin 10 Gbps trials.",
-      "keyFindings": [
-        "Vodafone Spain is the final large operator in the market to initiate 10 Gbps fiber trials",
-        "Trial status means consumer availability remains undefined"
-      ],
-      "implications": "Limited direct UX/product relevance. Background context for designers or PMs working on latency-sensitive web or streaming products in the Spanish market.",
-      "tags": [
-        "Infrastructure",
-        "Connectivity",
-        "Europe"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbGd5M0NKeGxFQjBDU2xzZjRETTBjbngteE5USXFjNDBhbHRwcTJubEJMa0Z3LWh3MFlTeTJtdVJaOUdYVmhjM2kxUVlIY0dDeHhmTHRQNUxVaUszdHRtVlRVR1FyNEdNcDhmLTZURWtMTnhkZWo0ekktT2RBVjRVU2UzSUhxVWxScnlCTVN3?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 13:47:58 GMT"
-    },
-    {
-      "headline": "A running list of decompiled and recompiled PC games",
-      "background": "Game preservation and modding communities have been reverse-engineering classic PC titles to enable compatibility with modern systems, community patches, and source-level modding.",
-      "keyFindings": [
-        "allrecomps.com catalogs PC games that have been decompiled and successfully recompiled from source",
-        "Resource serves game preservation, modding, and research communities"
-      ],
-      "implications": "Niche but useful reference for developers or designers involved in game preservation, legacy software UX, or mod tooling projects.",
-      "tags": [
-        "Game preservation",
-        "Developer tools",
-        "Reverse engineering"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbTV2YzY5XzlEM2pPbEgzRVp4SE5ERnNqWko2cmJKZUtVTTV0TV85U0YwVk5VYlJXMENhTWN4emhsSFA4elhEVXBmSlFuWkhXNGhJcEkyMjVYNWYyUE1odlpNWnZDZUxkR1BhNjk0c3J4c25oQi0zOGlsbUVoQ01vZlljdlFZa0pSamdTWDBn?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 13:47:58 GMT"
-    },
-    {
-      "headline": "Engineering and tech career paths in New Zealand",
-      "background": "Talent mobility in the Asia-Pacific region has increased post-pandemic, with New Zealand positioning itself as a destination for engineering and technology professionals.",
-      "keyFindings": [
-        "Piece outlines diverse engineering and innovation career tracks available in New Zealand",
-        "Targeted at Vietnamese professionals considering international migration into tech roles"
-      ],
-      "implications": "Narrow geographic and audience relevance. Not directly actionable for most UX/product practitioners unless evaluating relocation or international hiring.",
-      "tags": [
-        "Careers",
-        "Tech industry",
-        "Asia-Pacific"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmp0SW1pZDBxaGNXUHQyaHpTd2IwYS13aEREeGd4djE1cFMtamQ3QkdEd2pja1lVMVNweERYRThQc0c5Ti1nSnl6cTU3a0F5b3VZUWZYcDBBYWRaTmpfNV9hNG9oMW5kcmlNaHZYcGVVbmxvUXZGSENvWkNzc25YXzJBcUZzWFhwd2xkLXNUQkRMMzFyOUxVR013bmpLS3JXNzRGV3Vna0E?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 13:04:45 GMT"
-    },
-    {
-      "headline": "Restriction endonuclease market forecast through 2035",
-      "background": "Gene editing and genomic research have driven sustained demand for molecular biology reagents, with restriction enzymes remaining a foundational tool despite newer CRISPR-based approaches.",
-      "keyFindings": [
-        "Market projected to grow through 2035 driven by genomic research and gene editing demand",
-        "Report from IndexBox signals continued commercial investment in classical molecular biology tooling alongside newer gene-editing platforms"
-      ],
-      "implications": "No meaningful relevance to UX, product, or tech practice. Excluded from recommended reading for this audience.",
-      "tags": [
-        "Biotech",
-        "Market research",
-        "Genomics"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZnpwS2kzMDBsTUkwRy1vU29yck1IZDBWbVVUTGt3TzZfX1JUX1doQ1hOeWxXT1BMTFZzaXNNbV9VTmNvSml2UjIzS2x0bFpfR2ZOaDhnai1uTFF3SWZsWlA3UW9FbGlGUmxXY3pJcE1hZ24tdFNoYXQ4UnRrUVdGeERzcEo2ZkVwWVp3bUhUSEVFbkYtT1JIeGMzd2lNRTdIN0dJQmZiTnRldDFqbnJpcUpQMG05OHNxTTVwbkx5U0RDb1JrdUZrSkt0MFA?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 05:26:04 GMT"
-    },
-    {
-      "headline": "Aon appoints regional marketing head for GCC",
-      "background": "Professional services firms have been expanding their Gulf Cooperation Council presence as the region increases investment in insurance, risk, and financial services.",
-      "keyFindings": [
-        "Amit B. named Head of Regional Marketing and Events at Aon for the GCC region",
-        "Appointment reflects continued growth focus by Aon in the Middle East market"
-      ],
-      "implications": "No relevance to UX, product, or technology practice. Personnel announcement only.",
-      "tags": [
-        "Personnel",
-        "Marketing",
-        "Middle East"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "https://hrtoday.in/",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTWdKYVZCdDdPSjJHNXFyZzhES0ljcFdxci1TTExiRW9aU0RnVHZ4QXRhNmUwNzl1MUt4US1paDNjaG1ibl9LYXU3a3FIQ0ZnZFNGS1FvRkZwbnhYVWNKSEZpSFRLbGxxWGc5cV8zQmJiT3YyMVhNSXFSNUVuYTVyOGlSckowdXll?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 03:33:45 GMT"
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU3NjcmpIMGd3N3A0QmpZdWpJZmpFMmJ6c1VqbmxHZEJfOUlhbUxGYTU3VmpuaVAwN2RhaUY3RlJNLUJMTkkxUDhSaHNXaUM1a0RRek1McEhlYUVISkhwNnNlbFpvaENidldPSEQ3TFFhMi1pV2U5bjZHZWxJbVZGQ2VNYmk2d3B6RjlCck5JNDV1TEVEem9uaXpoZEtOallyOFYxWjFn?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 15:24:39 GMT"
     }
   ]
 }
