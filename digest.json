@@ -1,226 +1,152 @@
 {
-  "generatedAt": "2026-10-19T18:25:34.781Z",
+  "generatedAt": "2026-10-20T16:27:14.529Z",
   "items": [
     {
-      "headline": "RAM requirements for Liquid AI's LFM2.5-24B-A2B local deployment",
-      "background": "Liquid AI's LFM2.5 model family uses a non-transformer architecture designed to be more efficient than comparable parameter-count models, raising questions about whether its memory footprint actually differs meaningfully for local inference.",
+      "headline": "Numbered aluminum and glass objects by Hamid Motahari",
+      "background": "Designer Hamid Motahari released a small numbered edition of objects combining anodised aluminium, smoked optical glass, hand-knotted carpet fragments, and brass under the name 'Clutch'.",
       "keyFindings": [
-        "The LFM2.5-24B-A2B model uses a mixture-of-experts design with only 2B active parameters per forward pass",
-        "Despite a 24B total parameter count, active-parameter efficiency may allow it to run on consumer hardware with less RAM than a dense 24B model would require",
-        "Exact RAM figures depend on quantization level used at runtime"
+        "Edition uses anodised aluminium, smoked optical glass, hand-knotted carpet fragment, and brass",
+        "Released as a small numbered edition, signaling limited collectible positioning"
       ],
-      "implications": "Relevant for product teams or solo practitioners evaluating whether they can run capable models locally without cloud API costs. Check quantization options before assuming the headline parameter count reflects actual hardware requirements.",
-      "tags": [
-        "Local AI",
-        "Model Efficiency",
-        "On-device Inference"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNemRTd2Fkc2ZrbDJtcHdRc25teVdLdUs5WURNcmdRTm84UWRVaWhoTkh6Q2lQOHlzRXdQUi1NTFJqQ0RNdktnaGl3a1U5dHYxU2x0d1Q2a3hTZVRIQzN2VVJXNjR2Tkl4X1F3TnZHRC1HdF9odTZYRFlFNTJHdWFtalkzTlVTdkNoODc5Zmo3MUY3SXNHc3BR?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 18:19:11 GMT"
-    },
-    {
-      "headline": "China's Neo1 humanoid robot stands 4 meters, lifts 500 kg",
-      "background": "The global humanoid robot race has focused heavily on human-scale robots for warehouse and logistics use, but Neo1 represents a deliberate move toward industrial-scale machines designed for heavy load environments.",
-      "keyFindings": [
-        "Neo1 stands 4 meters tall, far larger than human-scale competitors like Figure or Tesla Optimus",
-        "It is rated to lift 500 kg, targeting industrial and construction applications rather than service roles",
-        "The robot is developed in China, adding to a growing list of Chinese entrants competing directly with US robotics firms"
-      ],
-      "implications": "For product and UX teams working on industrial interfaces or human-robot interaction, this signals that humanoid robot form factors are diverging significantly — design assumptions built around human-scale robots won't transfer to heavy industrial variants.",
-      "tags": [
-        "Robotics",
-        "Physical AI",
-        "Industrial Tech"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0RINDB1VFZ2ZGFqUkExbUZqeVlPUjFDOW5kTUlSRzNTQjM4dEN4SlNFZnhla29jUm9HMnduQnNWQms5WFNDT3lBcmNBSmpRR1F3V1VFOFhnTktZQUJJMXFtSUl1R3hQMU53NFE5Nzh0R1owUmdQdWtGd3JEUnBWX19zOFJ4LVFEZ3I2Rg?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 17:31:07 GMT"
-    },
-    {
-      "headline": "Reclaiming creative joy amid tech industry burnout",
-      "background": "Burnout has become endemic in tech, with many practitioners reporting a loss of intrinsic motivation tied to the accelerating pace of AI tooling, layoffs, and productivity pressure. This piece is a first-person account of one person's recovery of creative engagement.",
-      "keyFindings": [
-        "The author identifies widespread burnout among tech workers as a structural pattern, not individual failure",
-        "Reconnecting with making things for personal reasons — outside of work deliverables — is framed as the key recovery mechanism",
-        "The piece does not prescribe a universal fix but documents a personal process of reorientation"
-      ],
-      "implications": "Useful context for team leads and managers recognizing burnout signals in their teams, and for individual contributors trying to name what they're experiencing. No single tactic is presented as a solution, so treat it as a reflective prompt rather than a how-to.",
-      "tags": [
-        "Burnout",
-        "Creative Practice",
-        "Career"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@mhirano1205/my-journey-of-finding-joy-in-creating-again-b96fec7aa4e9?source=rss------product_design-5",
-      "pubDate": "Mon, 19 Oct 2026 17:19:24 GMT"
-    },
-    {
-      "headline": "Service design conference takeaway: judgment beats tools",
-      "background": "As AI tools proliferate in UX and service design workflows, there is ongoing tension in the field about whether practitioners are developing critical judgment or outsourcing it. This piece reflects on that debate as surfaced at the Service Design Disrupted 2026 conference.",
-      "keyFindings": [
-        "The central conference theme was practicing craft with intention rather than defaulting to whatever tools are available",
-        "The author argues that tool fluency without judgment leads to superficial design outputs",
-        "Emphasis was placed on the researcher's and designer's role in interpreting and deciding, not just facilitating or generating"
-      ],
-      "implications": "Directly relevant to UX researchers and service designers navigating AI-assisted work. The practical implication is to audit your current workflow: are you exercising judgment at each step or deferring it to the tool? This applies especially when using generative AI for synthesis or ideation.",
-      "tags": [
-        "Service Design",
-        "AI tools",
-        "Research Practice"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*4LOlTd765MTFaVTxWL9bpg.jpeg",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@lvilasoles/judgment-over-tools-reflections-from-service-design-disrupted-2026-bbd13449c7b0?source=rss------ux-5",
-      "pubDate": "Mon, 19 Oct 2026 17:18:09 GMT"
-    },
-    {
-      "headline": "How the NCAA rebuilt its website as a brand touchpoint, not an archive",
-      "background": "Large sports organizations have historically treated their websites as content repositories rather than brand experiences, resulting in cluttered, navigation-heavy sites that serve no audience well. The NCAA undertook a redesign to shift this dynamic.",
-      "keyFindings": [
-        "The redesign explicitly repositioned the NCAA site from an information dump to a brand marketing vehicle",
-        "The effort involved rethinking content hierarchy and visual language to prioritize brand storytelling over exhaustive content coverage",
-        "The case is positioned as a model for how governing bodies and institutional organizations can modernize digital presence"
-      ],
-      "implications": "Useful reference for UX and content strategists working with large institutions or membership organizations where historical content accumulation has made the site structurally incoherent. The key lever was editorial prioritization, not just visual redesign.",
-      "tags": [
-        "Content Strategy",
-        "Information Architecture",
-        "Brand Experience"
-      ],
-      "featured": true,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Campaign US",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnBpSk5IdUx6UEl1a3J0TFRzYnZFZF93T3NDYjBGWkNxUXpMbjdMMDJzN2l5WWExbGhCN1UzQlE4X2RTakVUOERCVjFPcUE1c3dRLW9wYWVlOGtDZ2tQdEpMT1gyMlpUSFFWUXhFVXlGM0phYm1iODhtbW1DVlJZdk9IdE1GZEZDeFB6OWJvN2FZOG5xT1ZZbEpkTFZteE5QeHgzdnRMekdvU2ZCenp6c3RHMS1ic1lRQXhMUA?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 16:31:14 GMT"
-    },
-    {
-      "headline": "What physical AI is and how it actually works",
-      "background": "Physical AI — AI systems that perceive and act in the physical world — is being used increasingly loosely as a marketing term, leading to confusion about what technical components actually define it versus conventional robotics or computer vision.",
-      "keyFindings": [
-        "Physical AI is defined by three core components: real-world data pipelines, world models that simulate physical environments, and actuated robotic systems",
-        "World models are the key differentiator — they allow AI to predict physical consequences of actions before executing them",
-        "The piece distinguishes physical AI from narrow automation by its capacity for generalization across unstructured environments"
-      ],
-      "implications": "Product and UX teams being asked to design interfaces or workflows around physical AI systems need to understand what these systems can and cannot generalize to. World model quality is a key constraint — physical AI still fails in environments that differ significantly from its training distribution.",
-      "tags": [
-        "Physical AI",
-        "Robotics",
-        "AI Infrastructure"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSGNjeFBFeDhMZTNlVkFhbnFwMHRTa0tvT2hTalJpZjZqaVhFd1NaU1VJY3NBOGdLU3VCZ1RjTTNwaHRtY3FjRllpaWZCTU5LS09oYWFKc0JQRU51YlY4Z21FR2p0aWxoeHR4dU5XWDItNlN2bENjSDFsQ3dwWjA1OGxR?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 16:22:50 GMT"
-    },
-    {
-      "headline": "Intel's GPU D-series targets AI inference with 160 GB memory",
-      "background": "High-memory GPU hardware has been dominated by NVIDIA for AI inference workloads, with alternatives from AMD and others gaining limited traction. Intel's D-series is a direct bid to compete in the data center inference market.",
-      "keyFindings": [
-        "The D-series GPU offers 160 GB of memory, directly targeting large model inference where VRAM is the primary bottleneck",
-        "Intel is positioning this against NVIDIA H100/H200 class hardware for inference rather than training workloads",
-        "The announcement is hardware-only; software ecosystem maturity for Intel GPUs remains a known gap"
-      ],
-      "implications": "For teams evaluating inference infrastructure for large models, Intel's D-series is worth tracking as a potential cost or availability alternative to NVIDIA. However, software stack maturity — particularly driver and framework support — should be validated before any procurement decision.",
-      "tags": [
-        "AI Infrastructure",
-        "GPU Hardware",
-        "Model Inference"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbHhVaXpDRF9ra01oMnU5NGx0eWliQnI4cGthUFJyMmZxOUhOZGYycXhRLXlCWGQzbW5oZWhFNVVfekQxOVA5bnk0YzB4NGtSaWhiVlBRVENhWTYwMEc2RWltUU1pVm1yVUMyZjFWVm51TGtyX0QzWUdYcm1XdWJUQ21CMmhhR2cxWGpMZ2F3?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 16:06:51 GMT"
-    },
-    {
-      "headline": "Knot Shadow Table: numbered edition side table with concealed light",
-      "background": "A designer object announcement — a limited-edition side table by Hamid Motahari combining bronze, honey onyx, and integrated concealed lighting.",
-      "keyFindings": [
-        "Materials are bronze and honey onyx with a concealed light source integrated into the design",
-        "Produced as a numbered limited edition",
-        "Designed by Hamid Motahari"
-      ],
-      "implications": "Not directly applicable to UX or product work. Of interest only to practitioners following material design or luxury product aesthetics.",
+      "implications": "Minimal relevance to UX or product practice. Of interest only to those following designer-maker crossover or material culture.",
       "tags": [
         "Product Design",
-        "Furniture",
+        "Material Culture",
         "Limited Edition"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/0*2sk-8fv7G31QogcI.jpg",
+      "image": "https://cdn-images-1.medium.com/max/1600/0*IKjbkPT3DsXksw0X.jpg",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@hamidmotahari/knot-shadow-table-side-table-by-hamid-motahari-designer-7aa91f090d46?source=rss------product_design-5",
-      "pubDate": "Mon, 19 Oct 2026 16:01:03 GMT"
+      "link": "https://medium.com/@hamidmotahari/folded-field-clutch-by-hamid-motahari-designer-b9f60824deaa?source=rss------product_design-5",
+      "pubDate": "Tue, 20 Oct 2026 16:06:01 GMT"
     },
     {
-      "headline": "Three AI labs cut prices simultaneously — what it means for 2026 planning",
-      "background": "In a short window, multiple leading AI labs dropped their API and model pricing significantly, disrupting cost assumptions that teams had used to plan AI product roadmaps. The author argues this was not coincidence but a structural market shift.",
+      "headline": "Teaching design system AI agents to fix their own mistakes",
+      "background": "Teams are increasingly embedding AI agents into design system workflows, but a persistent problem is that agents with full component context still produce incorrect outputs — often repeating the same errors.",
       "keyFindings": [
-        "Three major AI labs reduced pricing for frontier model access in close succession, compressing the cost of intelligence substantially",
-        "The author frames this as a deflationary trend that invalidates cost-based arguments against building AI-native features",
-        "The 2026 implication is that teams still treating AI capability as cost-prohibitive are working from outdated assumptions"
+        "Design system agents fail even when given correct context, suggesting the problem is in how feedback loops are structured, not just context availability",
+        "The piece documents a method for agents to learn from their mistakes iteratively rather than relying solely on prompt engineering",
+        "Structured error correction cycles were used to improve agent output quality over time"
       ],
-      "implications": "Product and engineering teams should revisit AI feature feasibility assessments made in 2024 or early 2025 — the cost floor has shifted. This also intensifies competitive pressure, since the pricing barrier to entry for AI-powered products has dropped for everyone.",
+      "implications": "If you're building or evaluating AI tooling for design systems, error feedback architecture matters as much as the initial prompt or context window. Don't assume more context alone solves accuracy problems.",
       "tags": [
-        "AI Economics",
-        "Product Strategy",
-        "API Pricing"
+        "Design Systems",
+        "AI tools",
+        "Automation"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1594/1*Soy4JbjKSs3ySz7Vp0XfDQ.png",
+      "image": "https://cdn-images-1.medium.com/max/1440/1*ajH60KFl5DWWHm_eQbbvbA.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@yangxu_16238/the-night-three-ai-labs-crashed-the-price-of-intelligence-and-what-it-means-for-your-2026-ai-3131b72db920?source=rss------product_design-5",
-      "pubDate": "Mon, 19 Oct 2026 15:51:01 GMT"
+      "link": "https://www.designsystemscollective.com/teaching-ai-agents-design-system-judgment-aa9f56a32a53?source=rss------product_design-5",
+      "pubDate": "Tue, 20 Oct 2026 16:01:52 GMT"
     },
     {
-      "headline": "Japan's My Number digital ID launches on Android",
-      "background": "Japan's My Number card is a national identity system that has faced slow adoption due to its reliance on physical cards. The Android rollout is part of a broader government push to digitize national ID and reduce friction in accessing public services.",
+      "headline": "Health data authorization is a UX problem, not just a legal one",
+      "background": "As health apps integrate with third-party data sources under regulations like FHIR and HIPAA authorization frameworks, teams often treat authorization flows as compliance checkboxes rather than user experience touchpoints.",
       "keyFindings": [
-        "The My Number card is now available on Android, with a specific list of supported devices published",
-        "The move follows an iOS rollout and is part of Japan's Digital Agency modernization push",
-        "Not all Android devices are supported — compatibility is tied to hardware-level NFC and security chip specifications"
+        "A technically correct integration can still leave users feeling something is broken, because the authorization experience itself creates confusion or distrust",
+        "The gap between system behavior and user perception is the core problem — the system works, but the user model doesn't match it",
+        "Authorization UI is identified as a critical moment where product teams must close the mental model gap"
       ],
-      "implications": "Relevant for product teams building services that interact with Japanese government ID verification. Device fragmentation on Android means you cannot assume all users can use the digital card — fallback flows for physical card users remain necessary.",
+      "implications": "Health product teams should audit authorization flows not just for legal compliance but for user comprehension — especially around what data is being shared, with whom, and what changes after authorization.",
       "tags": [
-        "Digital Identity",
-        "Government Tech",
-        "Android"
+        "Health Tech",
+        "Authorization",
+        "Mental Models"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/600/1*oZEG-h7LzXhV66WXogW8GQ.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@gaby96.flores/why-health-data-authorization-is-part-of-the-product-experience-7701f1c7f4c5?source=rss------product_design-5",
+      "pubDate": "Tue, 20 Oct 2026 15:57:06 GMT"
+    },
+    {
+      "headline": "How AI agents are actually changing UX research workflows",
+      "background": "AI agents are being adopted across UX research practices, but there's little consensus on where they genuinely improve work versus where they introduce new risks or gaps.",
+      "keyFindings": [
+        "AI agents are being applied to synthesis, participant recruiting, and pattern identification in UX research",
+        "The piece distinguishes between tasks agents handle well versus where human judgment remains essential",
+        "Workflow integration requires deliberate redesign, not just tool addition"
+      ],
+      "implications": "UX researchers should map which phases of their workflow involve high interpretive judgment before adopting agents — automation fits better at data processing stages than at insight generation or stakeholder communication.",
+      "tags": [
+        "UX Research",
+        "AI tools",
+        "Workflow"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2560/1*dYtWqQ37VoMpc6A2onY5-g.jpeg",
+      "source": "UX on Medium",
+      "link": "https://loop11.medium.com/how-ai-agents-are-reshaping-ux-research-and-design-workflows-ef1206f0bfba?source=rss------ux-5",
+      "pubDate": "Tue, 20 Oct 2026 15:31:01 GMT"
+    },
+    {
+      "headline": "ELISA Pot Assay Kits market forecast to 2035",
+      "background": "This is a biotech market research report on ELISA assay kit demand driven by biologics development.",
+      "keyFindings": [
+        "Report projects forward growth in ELISA Pot Assay Kits market to 2035",
+        "Growth attributed to rising biologics R&D demand"
+      ],
+      "implications": "No relevance to UX, product design, or tech practice. Appears to be a misrouted market research item.",
+      "tags": [
+        "Biotech",
+        "Market Research"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM2FGYVpORVVkMldGSGVKbEFxMlQwNnFSbjdxb3NhVWlfYjhqeUhIM3NlQWNFTkZEaTRXbmhIWWgwdU9GT3F3VWVqUTdLVWZvMFV4SjdXRGRNb0RYZ21Qdm1KYzB6d3BlSk5tRlh1S0xOTDYyQ1BfR0VLTnRiNEhGNzRjSnA2dGMyY2pvS0x4N1NIb0psRnN5aG81VVU3b3FjQmdhNzJTME1KeE1LUjNNUTVHZFUyTTVIUlQ0LQ?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 14:36:03 GMT"
+    },
+    {
+      "headline": "Apoptosis assay kits market forecast driven by oncology R&D",
+      "background": "This is a biotech market research report on apoptosis assay reagent demand tied to oncology drug development.",
+      "keyFindings": [
+        "Report projects market growth to 2035",
+        "Oncology R&D pipeline cited as primary demand driver"
+      ],
+      "implications": "No relevance to UX, product design, or tech practice. Appears to be a misrouted market research item.",
+      "tags": [
+        "Biotech",
+        "Market Research"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZktxZXBQckhTYWtjcTRFckNEUkNEMDk2XzU3ZlJXcUpHOGxESV9tTmVRMld0TkJWM1RIcEFQWURCb09fU3FSWXIzb0hRR2FwTW5qdU9kNUNYSTh1VEN3RDI3QXZVUjNROEdqT3pkOExwX3dGVjU2OEdzdUZkdnJXdjVSNXpuOHZzdnA3NEhkNmQxOUlRMEJMLWpXYnNjblJEbVRiSTlwdzFEeGdVNWozQU5aY3hPV1RoeExsNk91VlVES21YeFpENXplR0pWQlBWZks5TF90OVV4MVU?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 13:36:04 GMT"
+    },
+    {
+      "headline": "WhatsApp deleted GDPR-avoidance instructions from its AI chatbot",
+      "background": "Hidden system prompt instructions in AI-powered products have become a growing transparency concern, particularly under GDPR where users have rights around automated processing of personal data.",
+      "keyFindings": [
+        "WhatsApp's AI chatbot contained hidden system instructions directing it to avoid discussing GDPR-related topics",
+        "The instructions were pulled after they were surfaced publicly",
+        "The incident raises questions about how AI chatbot system prompts are governed and audited inside large platforms"
+      ],
+      "implications": "Product and legal teams shipping AI chatbots in EU-regulated contexts should treat system prompts as documents with compliance exposure — not just engineering artifacts. Hidden instructions that suppress regulatory topics are a liability.",
+      "tags": [
+        "AI Policy",
+        "GDPR",
+        "Chatbots"
       ],
       "featured": false,
       "type": "research",
@@ -228,8 +154,77 @@
       "publishedWindow": "today",
       "image": null,
       "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU3NjcmpIMGd3N3A0QmpZdWpJZmpFMmJ6c1VqbmxHZEJfOUlhbUxGYTU3VmpuaVAwN2RhaUY3RlJNLUJMTkkxUDhSaHNXaUM1a0RRek1McEhlYUVISkhwNnNlbFpvaENidldPSEQ3TFFhMi1pV2U5bjZHZWxJbVZGQ2VNYmk2d3B6RjlCck5JNDV1TEVEem9uaXpoZEtOallyOFYxWjFn?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 15:24:39 GMT"
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMWdhU1FVS0Y1U1B5YkQ0bEZkb2NMSXZoSkxxVGdzSlZkRUZzT1JjNWp5cTlveUF2V2tFZFYzRTRNejUwVGlKdXRKV2Jad2dndVJXLXlLYzRIMU43clhlWlZoQ2JyeVZ3bUxVRktWWVZqMTFIcEQ1Q2FncU50dFQtU0x5WldrYzJHUkYteXdWcXR3VWg4SlE?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 12:59:46 GMT"
+    },
+    {
+      "headline": "Did Xbox Kinect actually end up in CT scanners?",
+      "background": "A long-running claim in tech and medical device circles holds that Microsoft's Xbox Kinect depth sensor was repurposed for use in CT scanning equipment, cited as a case study in unexpected platform reuse.",
+      "keyFindings": [
+        "The piece examines published studies to assess whether Kinect use in CT scanners is documented or apocryphal",
+        "Some research prototypes did use Kinect for patient positioning and motion tracking, but clinical adoption was limited",
+        "The claim has been overstated in tech storytelling relative to what the evidence supports"
+      ],
+      "implications": "Worth referencing if you use the Kinect-in-CT-scanners story as an innovation or platform-reuse example — the evidence base is thinner than commonly cited.",
+      "tags": [
+        "Medical Devices",
+        "Hardware Reuse",
+        "Fact-Check"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR21hWGNqRVk2WnhKOTUzQ2YxWVk4MG1JTDc3WEk2MzU2LUxqWU1CUUNpM2ZpU3hKWk1Hc1AyMWFObTlIVFVlc18wRGJiRTY3enZnVlVMQ09rZGtRYktGZVRjRGNjNTBiMnZXcUtfWTBHWW94YTFucUltRURSeXdqNDh4QQ?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 11:53:35 GMT"
+    },
+    {
+      "headline": "CISA was asked to secretly hack a voting machine",
+      "background": "ProPublica's investigation touches on the intersection of federal cybersecurity agencies, election infrastructure, and politically sensitive security testing requests.",
+      "keyFindings": [
+        "CISA received a request to covertly compromise a voting machine, according to ProPublica's reporting",
+        "The request raises questions about the appropriate scope of federal cybersecurity agency activities around election systems",
+        "The story has implications for public trust in both election infrastructure and federal security bodies"
+      ],
+      "implications": "Relevant background for anyone working on civic tech, election systems, or government digital infrastructure — understanding CISA's role and its political pressures matters when evaluating security claims.",
+      "tags": [
+        "Election Security",
+        "Cybersecurity",
+        "Civic Tech"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZmc5WVF3UGYwWDZyMEVOczd5Z0Y4c2REN2ZJQmEwUXdqUzQ1a0tUTDI2Vk5lOFBjSHNfdWZ0bHp5RHhXU2RmYkV1NHlpak1zOW9tZXBIVW5WZWhGNWVadVRzUEtjbDBta2tpYTNJcWhlbnJBSk5kbmZ4TUM5UWZCYTZYb3BrcFU5TGc?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 11:19:21 GMT"
+    },
+    {
+      "headline": "Banks are finally competing on design and UX",
+      "background": "Financial services have historically lagged in UX investment, treating digital products as functional infrastructure rather than competitive differentiators. Fintech challengers have shifted that calculus.",
+      "keyFindings": [
+        "Banks and fintechs in competitive markets are increasing UX investment as a direct response to customer retention pressure",
+        "Design quality is being framed as a measurable business advantage, not just a polish layer",
+        "The piece points to specific areas including onboarding, data visualization, and customer support flows as high-impact targets"
+      ],
+      "implications": "Financial product teams making the case for UX investment internally now have clearer business framing to use — retention and differentiation are stronger arguments than usability alone in banking contexts.",
+      "tags": [
+        "Fintech",
+        "Banking",
+        "Product Strategy"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Consultancy-me.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTkxWUs5cHlTdWZwemhOUVZHeC1MbFpLS1Q2el9sZHIyZHctemp5eVJ6RFJzSkg3UlpDVWd4Sy1CN1E2S0hUcWJuQXNFckVicTJQSTFQQm1ob2VEODlKTUxBWnVrV28wWm5tVktEWGlpeldNR0tRRl9jclNKWHZOOHc3cXZLRTF2VnlETUMwNkJpejdHOHhvRDFhNmY2N21Zd3FrOG9EaFpwaVJobWdnNUtjcXJDYXBQZFZURDhB0gHDAUFVX3lxTE1FU3NHbWZqUm9IYnI5NXdoaXlSWmdzYVV3Y0FycWprTUZNT3lzbzU3T2hCSU1vdE9NVXpsNXJoOXNFTDd0OHdBSUM0YXpNYk8yWnRheFMwcm1WRjd1dG0weVJ6VlNTcjBqbHRuNEhxTVVTb1d4bk5oQ0VFOC1mLVhsbFNUX19TSmNaUWR6RXYzUWR5Wkd4NmNDUFRzRjRJUl9jOGxLVnlUcHVCMVFzaEFwYmJSX1A0ZjdCajhMWUJCWkdjRQ?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 10:31:57 GMT"
     }
   ]
 }
