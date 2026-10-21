@@ -1,230 +1,229 @@
 {
-  "generatedAt": "2026-10-20T16:27:14.529Z",
+  "generatedAt": "2026-10-21T16:44:09.164Z",
   "items": [
     {
-      "headline": "Numbered aluminum and glass objects by Hamid Motahari",
-      "background": "Designer Hamid Motahari released a small numbered edition of objects combining anodised aluminium, smoked optical glass, hand-knotted carpet fragments, and brass under the name 'Clutch'.",
+      "headline": "A Product Designer Shipped a Chrome Extension Using AI",
+      "background": "Designers increasingly have access to AI coding tools that theoretically let them build and ship software without a traditional engineering background. There's little honest documentation of what that process actually looks like end-to-end, including the failures.",
       "keyFindings": [
-        "Edition uses anodised aluminium, smoked optical glass, hand-knotted carpet fragment, and brass",
-        "Released as a small numbered edition, signaling limited collectible positioning"
+        "The author, a product designer with no prior extension development experience, shipped a working Chrome extension using AI assistance.",
+        "The tool earned $11 in initial revenue, suggesting real but modest early market validation.",
+        "The piece documents specific mistakes made during development, offering a realistic counter to idealized 'designer who codes' narratives."
       ],
-      "implications": "Minimal relevance to UX or product practice. Of interest only to those following designer-maker crossover or material culture.",
+      "implications": "Useful for designers evaluating whether to invest time in AI-assisted development for side tools or internal products. Temper expectations: the path involves real trial and error, and commercial traction from niche tools is typically very slow.",
+      "tags": [
+        "Design Engineering",
+        "AI Tools",
+        "Side Projects"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*sze8OKwXXXejZHpJojJhUA.jpeg",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@himido551/how-i-a-product-designer-became-a-design-engineer-and-shipped-a-chrome-extension-with-ai-e26e5427dc3e?source=rss------product_design-5",
+      "pubDate": "Wed, 21 Oct 2026 16:26:11 GMT"
+    },
+    {
+      "headline": "Heriz Interval Clock Is a Numbered Luxury Design Object",
+      "background": "This is a product showcase for a limited-edition clock by designer Hamid Motahari, combining high-end materials and craft.",
+      "keyFindings": [
+        "Materials include Black Marquina marble, brass, and smoked sapphire crystal.",
+        "The piece incorporates hand-knotted textile elements and is produced as a numbered edition."
+      ],
+      "implications": "This is a design object showcase with no actionable UX or product insight. Relevant only as visual reference for material-led luxury product design.",
       "tags": [
         "Product Design",
-        "Material Culture",
-        "Limited Edition"
+        "Luxury Objects"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/0*IKjbkPT3DsXksw0X.jpg",
+      "image": "https://cdn-images-1.medium.com/max/1600/0*gOn6_D6tx7nC_W7q.jpg",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@hamidmotahari/folded-field-clutch-by-hamid-motahari-designer-b9f60824deaa?source=rss------product_design-5",
-      "pubDate": "Tue, 20 Oct 2026 16:06:01 GMT"
+      "link": "https://medium.com/@hamidmotahari/heriz-interval-clock-by-hamid-motahari-designer-a2c742640d13?source=rss------product_design-5",
+      "pubDate": "Wed, 21 Oct 2026 16:11:01 GMT"
     },
     {
-      "headline": "Teaching design system AI agents to fix their own mistakes",
-      "background": "Teams are increasingly embedding AI agents into design system workflows, but a persistent problem is that agents with full component context still produce incorrect outputs — often repeating the same errors.",
+      "headline": "How Pre-Seed Founders Should Hire Their First Designer",
+      "background": "Early-stage founders frequently mistime or misframe the founding designer hire — either bringing someone in too early without enough product direction, or too late when design debt has accumulated. There's limited practical guidance tailored specifically to the pre-seed stage.",
       "keyFindings": [
-        "Design system agents fail even when given correct context, suggesting the problem is in how feedback loops are structured, not just context availability",
-        "The piece documents a method for agents to learn from their mistakes iteratively rather than relying solely on prompt engineering",
-        "Structured error correction cycles were used to improve agent output quality over time"
+        "The piece proposes a structured 90-day onboarding plan specific to founding designer hires at pre-seed companies.",
+        "It frames design as core to value proposition — distinguishing this hire from a generalist or production designer role.",
+        "The guidance is aimed at founders, not designers, focusing on what to expect and how to set up the hire for success."
       ],
-      "implications": "If you're building or evaluating AI tooling for design systems, error feedback architecture matters as much as the initial prompt or context window. Don't assume more context alone solves accuracy problems.",
+      "implications": "Directly applicable if you're a founder hiring your first designer or a designer evaluating a founding role. The 90-day frame is a useful forcing function for defining early milestones and scope boundaries before signing an offer.",
       "tags": [
-        "Design Systems",
-        "AI tools",
-        "Automation"
+        "Hiring",
+        "Founding Designer",
+        "Startups"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1440/1*ajH60KFl5DWWHm_eQbbvbA.png",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*H6Y2smoa0faNjqu1TJrckA.png",
       "source": "Product Design on Medium",
-      "link": "https://www.designsystemscollective.com/teaching-ai-agents-design-system-judgment-aa9f56a32a53?source=rss------product_design-5",
-      "pubDate": "Tue, 20 Oct 2026 16:01:52 GMT"
+      "link": "https://carlwheatley.medium.com/hiring-a-founding-designer-a-practical-90-day-plan-for-pre-seed-founders-27010ba1227c?source=rss------product_design-5",
+      "pubDate": "Wed, 21 Oct 2026 16:05:27 GMT"
     },
     {
-      "headline": "Health data authorization is a UX problem, not just a legal one",
-      "background": "As health apps integrate with third-party data sources under regulations like FHIR and HIPAA authorization frameworks, teams often treat authorization flows as compliance checkboxes rather than user experience touchpoints.",
+      "headline": "What Dutch Hiring Panels Actually Look for in Design Interviews",
+      "background": "Job search advice for product designers tends to be generic. First-person accounts from specific regional markets — with detail on what interviewers actually pressed on — are rare and more useful.",
       "keyFindings": [
-        "A technically correct integration can still leave users feeling something is broken, because the authorization experience itself creates confusion or distrust",
-        "The gap between system behavior and user perception is the core problem — the system works, but the user model doesn't match it",
-        "Authorization UI is identified as a critical moment where product teams must close the mental model gap"
+        "Interviewers in the Netherlands focused heavily on process articulation, not just portfolio output.",
+        "Multiple interview rounds were standard, with different stakeholders evaluating different competencies across rounds.",
+        "The author identified specific gaps between what candidates prepare and what panels probe."
       ],
-      "implications": "Health product teams should audit authorization flows not just for legal compliance but for user comprehension — especially around what data is being shared, with whom, and what changes after authorization.",
+      "implications": "Useful for designers currently job-searching in the Netherlands or broader European market. The emphasis on process over output reinforces the need to structure case study walkthroughs around decision-making, not visual results.",
       "tags": [
-        "Health Tech",
-        "Authorization",
-        "Mental Models"
+        "Job Search",
+        "Interviews",
+        "European Market"
       ],
-      "featured": true,
+      "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/600/1*oZEG-h7LzXhV66WXogW8GQ.png",
+      "image": "https://cdn-images-1.medium.com/max/2400/1*4V-g93mH9zgKDcIhDnnxAg.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@gaby96.flores/why-health-data-authorization-is-part-of-the-product-experience-7701f1c7f4c5?source=rss------product_design-5",
-      "pubDate": "Tue, 20 Oct 2026 15:57:06 GMT"
+      "link": "https://medium.com/design-bootcamp/reflections-on-a-recent-product-design-job-search-in-the-netherlands-09109cf26cfb?source=rss------product_design-5",
+      "pubDate": "Wed, 21 Oct 2026 15:42:42 GMT"
     },
     {
-      "headline": "How AI agents are actually changing UX research workflows",
-      "background": "AI agents are being adopted across UX research practices, but there's little consensus on where they genuinely improve work versus where they introduce new risks or gaps.",
+      "headline": "Norway Is Piloting Scaled Content Credentials Across News Publishers",
+      "background": "Content Credentials — a technical standard from the Content Authenticity Initiative that cryptographically attaches provenance metadata to media — have been slow to achieve real-world adoption beyond individual tool integrations. Norway is attempting something more systemic.",
       "keyFindings": [
-        "AI agents are being applied to synthesis, participant recruiting, and pattern identification in UX research",
-        "The piece distinguishes between tasks agents handle well versus where human judgment remains essential",
-        "Workflow integration requires deliberate redesign, not just tool addition"
+        "Norway is working to become the first country to implement Content Credentials at scale across its national news ecosystem.",
+        "The effort is coordinated through the Content Authenticity Initiative, which has backing from Adobe, news organizations, and camera manufacturers.",
+        "The initiative is a direct response to concerns about AI-generated and manipulated media eroding public trust in news imagery."
       ],
-      "implications": "UX researchers should map which phases of their workflow involve high interpretive judgment before adopting agents — automation fits better at data processing stages than at insight generation or stakeholder communication.",
+      "implications": "For product and UX teams building media tools, publishing platforms, or content management systems, this signals that Content Credentials support may shift from optional to expected — particularly for clients in regulated or news-adjacent sectors. Worth monitoring the CAI spec now.",
       "tags": [
-        "UX Research",
-        "AI tools",
-        "Workflow"
+        "Content Authenticity",
+        "Media Trust",
+        "Publishing"
       ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
+      "featured": true,
+      "type": "research",
+      "category": "Industry news",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2560/1*dYtWqQ37VoMpc6A2onY5-g.jpeg",
-      "source": "UX on Medium",
-      "link": "https://loop11.medium.com/how-ai-agents-are-reshaping-ux-research-and-design-workflows-ef1206f0bfba?source=rss------ux-5",
-      "pubDate": "Tue, 20 Oct 2026 15:31:01 GMT"
+      "image": null,
+      "source": "Content Authenticity Initiative",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZVZKdUhGM2NpdGlVMDZ5bW1YZklfb0FfODJHZ2ZkWEEwbnBxRmV4dnctTXZBYThNRENtTkFjU3VsT0dWSHBBaGNHMS1yOFZtSXlsaVlwbGxwUTBWT0NrWkNQY2tuRUpIOFJhdGxuZHNpV3lqVU5DdDMxZWNaUEFjR2wySHVnd2NERHNoWURhNkp2RG44VjgwNmUySUZsYkw1QmUzT1d6LWFvZ3JUYUN4MHNRXzVYTGdReUktY1lScU0?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 15:17:59 GMT"
     },
     {
-      "headline": "ELISA Pot Assay Kits market forecast to 2035",
-      "background": "This is a biotech market research report on ELISA assay kit demand driven by biologics development.",
+      "headline": "Generic Advice on UX Design for London Startups",
+      "background": "This appears to be a general-audience business press article covering UX design basics reframed for London startup founders.",
       "keyFindings": [
-        "Report projects forward growth in ELISA Pot Assay Kits market to 2035",
-        "Growth attributed to rising biologics R&D demand"
+        "No specific findings, data, or original research are evident from the snippet.",
+        "Content appears to be surface-level guidance rather than original reporting or analysis."
       ],
-      "implications": "No relevance to UX, product design, or tech practice. Appears to be a misrouted market research item.",
+      "implications": "No actionable insight for experienced UX or product practitioners. Skip.",
       "tags": [
-        "Biotech",
-        "Market Research"
+        "Startups",
+        "General UX"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM2FGYVpORVVkMldGSGVKbEFxMlQwNnFSbjdxb3NhVWlfYjhqeUhIM3NlQWNFTkZEaTRXbmhIWWgwdU9GT3F3VWVqUTdLVWZvMFV4SjdXRGRNb0RYZ21Qdm1KYzB6d3BlSk5tRlh1S0xOTDYyQ1BfR0VLTnRiNEhGNzRjSnA2dGMyY2pvS0x4N1NIb0psRnN5aG81VVU3b3FjQmdhNzJTME1KeE1LUjNNUTVHZFUyTTVIUlQ0LQ?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 14:36:03 GMT"
+      "source": "London Business News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQUVpOUNaelVWNXg0QWR4ZzdweWxaMkFTZDNoMWZQb3h3VVJWeFM0U3pVY0hTSGZxcXAxcHg3NVJrTkdRMzRMcVh5M0dqQ2xkUFBHdTU4VTBmTWx3ckdwckg0cDYxZWhTdjIzWGRUQmpVcmgtTkRIYXZPZEJFVDNiWnBsSzRRbkJGVTF1NV8yTWJveGZHSUc1Y3FZekt1c3lPQl84RG1B?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 14:22:26 GMT"
     },
     {
-      "headline": "Apoptosis assay kits market forecast driven by oncology R&D",
-      "background": "This is a biotech market research report on apoptosis assay reagent demand tied to oncology drug development.",
+      "headline": "Jakob Nielsen Applies Csikszentmihalyi's Flow Theory to UX",
+      "background": "Flow — the psychological state of deep focus and effortless engagement — is a concept frequently referenced in UX but rarely operationalized with precision. Nielsen's piece attempts to translate it into concrete design terms.",
       "keyFindings": [
-        "Report projects market growth to 2035",
-        "Oncology R&D pipeline cited as primary demand driver"
+        "Nielsen maps Csikszentmihalyi's flow conditions — skill-challenge balance, clear goals, immediate feedback — directly onto interface design decisions.",
+        "The piece argues that most UX friction interrupts flow not through difficulty but through mismatch between user skill level and task demand.",
+        "Design patterns that eliminate unnecessary micro-decisions are identified as key to sustaining flow states."
       ],
-      "implications": "No relevance to UX, product design, or tech practice. Appears to be a misrouted market research item.",
+      "implications": "Applicable when designing task-heavy or productivity-oriented interfaces where sustained attention matters. Less relevant for exploratory or browse-first experiences. Use the skill-challenge balance framework as an audit lens on onboarding and core task flows.",
       "tags": [
-        "Biotech",
-        "Market Research"
+        "Cognitive Load",
+        "Interaction Design",
+        "Engagement"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZktxZXBQckhTYWtjcTRFckNEUkNEMDk2XzU3ZlJXcUpHOGxESV9tTmVRMld0TkJWM1RIcEFQWURCb09fU3FSWXIzb0hRR2FwTW5qdU9kNUNYSTh1VEN3RDI3QXZVUjNROEdqT3pkOExwX3dGVjU2OEdzdUZkdnJXdjVSNXpuOHZzdnA3NEhkNmQxOUlRMEJMLWpXYnNjblJEbVRiSTlwdzFEeGdVNWozQU5aY3hPV1RoeExsNk91VlVES21YeFpENXplR0pWQlBWZks5TF90OVV4MVU?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 13:36:04 GMT"
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kS3lSX3hMOHlPQmFuTEE2UmNQSmtfTXJDS3BCU2VjT3RtU1o3VVZVSFJ0LU13VEJIOFFpZWFrUGZCYWpWLWJLajIwdzZLTGFURDJYOGtn?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 11:21:34 GMT"
     },
     {
-      "headline": "WhatsApp deleted GDPR-avoidance instructions from its AI chatbot",
-      "background": "Hidden system prompt instructions in AI-powered products have become a growing transparency concern, particularly under GDPR where users have rights around automated processing of personal data.",
+      "headline": "Student Usability Audit Finds Real Friction in Mexican Digital Library",
+      "background": "Digital public services in Latin America are underresearched in mainstream UX literature. Student-led evaluations occasionally surface actionable usability data that institutions wouldn't commission formally.",
       "keyFindings": [
-        "WhatsApp's AI chatbot contained hidden system instructions directing it to avoid discussing GDPR-related topics",
-        "The instructions were pulled after they were surfaced publicly",
-        "The incident raises questions about how AI chatbot system prompts are governed and audited inside large platforms"
+        "A student team conducted a usability evaluation of the Guadalajara Digital Library's interface and identified specific friction points in the user journey.",
+        "The evaluation methodology was student-led, which may limit generalizability but adds to the limited body of UX research on Latin American public digital infrastructure.",
+        "Specific friction areas are not detailed in the snippet, limiting the ability to cite concrete findings without reading the full piece."
       ],
-      "implications": "Product and legal teams shipping AI chatbots in EU-regulated contexts should treat system prompts as documents with compliance exposure — not just engineering artifacts. Hidden instructions that suppress regulatory topics are a liability.",
+      "implications": "Relevant for UX researchers interested in public sector digital services or academic UX methodologies. Useful as a case study reference for student or guerrilla usability evaluation approaches.",
       "tags": [
-        "AI Policy",
-        "GDPR",
-        "Chatbots"
+        "Usability Testing",
+        "Public Sector",
+        "Latin America"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMWdhU1FVS0Y1U1B5YkQ0bEZkb2NMSXZoSkxxVGdzSlZkRUZzT1JjNWp5cTlveUF2V2tFZFYzRTRNejUwVGlKdXRKV2Jad2dndVJXLXlLYzRIMU43clhlWlZoQ2JyeVZ3bUxVRktWWVZqMTFIcEQ1Q2FncU50dFQtU0x5WldrYzJHUkYteXdWcXR3VWg4SlE?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 12:59:46 GMT"
+      "source": "Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS19md0tnWlZtS2ExSDZsOEtCU1dZMGkxekxvaS1MdnJROUNLTFVnc0ZlRXlma3l2aUlGZXNlbUk4dGVjVjVSU3ZGUDhDMHhmUGlORTNNNG9rb2drQjRvSnNKOVdpa2M0akVQbDFGaklHUl9fQ2R6aENINmxkd3NQQ2xVcGJuV1hIOXRRYmlQSGlrUU0xbmMzNGEzNzNnVjA?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 08:38:15 GMT"
     },
     {
-      "headline": "Did Xbox Kinect actually end up in CT scanners?",
-      "background": "A long-running claim in tech and medical device circles holds that Microsoft's Xbox Kinect depth sensor was repurposed for use in CT scanning equipment, cited as a case study in unexpected platform reuse.",
+      "headline": "Listicle: Top Mobile App Dev Companies in Dubai 2026",
+      "background": "This is a vendor directory or sponsored listicle targeting businesses seeking app development services in the UAE.",
       "keyFindings": [
-        "The piece examines published studies to assess whether Kinect use in CT scanners is documented or apocryphal",
-        "Some research prototypes did use Kinect for patient positioning and motion tracking, but clinical adoption was limited",
-        "The claim has been overstated in tech storytelling relative to what the evidence supports"
+        "No original research, findings, or UX insight are present in the snippet.",
+        "Content is a commercial directory format with no editorial evaluation criteria disclosed."
       ],
-      "implications": "Worth referencing if you use the Kinect-in-CT-scanners story as an innovation or platform-reuse example — the evidence base is thinner than commonly cited.",
+      "implications": "No relevance to UX research, design practice, or product strategy. Skip.",
       "tags": [
-        "Medical Devices",
-        "Hardware Reuse",
-        "Fact-Check"
+        "Vendor Lists",
+        "Mobile Development"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR21hWGNqRVk2WnhKOTUzQ2YxWVk4MG1JTDc3WEk2MzU2LUxqWU1CUUNpM2ZpU3hKWk1Hc1AyMWFObTlIVFVlc18wRGJiRTY3enZnVlVMQ09rZGtRYktGZVRjRGNjNTBiMnZXcUtfWTBHWW94YTFucUltRURSeXdqNDh4QQ?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 11:53:35 GMT"
+      "source": "Big News Network.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT1ZpOW9lMWNmb3gxS1VhSkkyMWhXMExUcVI4OGJvck82Wk9vX2ZoQ2hGZ3NIM09SRy1SeERsWXlSckVmN2FfTHVfbElFSjZSbzhGWG9FdndMRTI2NHpxZlk0MldrNEtDNEQ0Um9aVEgtLXJMM3B2THN2ZS1ncTVjRU83S2VCOWxheXp1TXpyX1ZseEdxa2RkY3FNTVBCSzJwRmkyNnhKbVBXUQ?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 08:17:00 GMT"
     },
     {
-      "headline": "CISA was asked to secretly hack a voting machine",
-      "background": "ProPublica's investigation touches on the intersection of federal cybersecurity agencies, election infrastructure, and politically sensitive security testing requests.",
+      "headline": "NID Graduate Wins Shark Tank USA Funding for Foldable Spoon",
+      "background": "Indian design school graduates are increasingly competing in international entrepreneurship contexts. This is a human interest story about a product design innovation reaching a US investment audience.",
       "keyFindings": [
-        "CISA received a request to covertly compromise a voting machine, according to ProPublica's reporting",
-        "The request raises questions about the appropriate scope of federal cybersecurity agency activities around election systems",
-        "The story has implications for public trust in both election infrastructure and federal security bodies"
+        "Rahul Agarwal, a graduate of NID Ahmedabad, secured approximately Rs 3.3 crore (roughly $400K USD) on Shark Tank USA for a foldable spoon product.",
+        "The product represents a physical product design innovation rather than a digital or service design story.",
+        "NID Ahmedabad is India's most prominent design institution, and this outcome may reflect increasing international visibility of Indian design talent."
       ],
-      "implications": "Relevant background for anyone working on civic tech, election systems, or government digital infrastructure — understanding CISA's role and its political pressures matters when evaluating security claims.",
+      "implications": "Minimal direct relevance for digital UX or product practitioners. Of interest as a signal of Indian design education producing commercially viable physical product innovators on an international stage.",
       "tags": [
-        "Election Security",
-        "Cybersecurity",
-        "Civic Tech"
+        "Product Innovation",
+        "Design Education",
+        "Entrepreneurship"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZmc5WVF3UGYwWDZyMEVOczd5Z0Y4c2REN2ZJQmEwUXdqUzQ1a0tUTDI2Vk5lOFBjSHNfdWZ0bHp5RHhXU2RmYkV1NHlpak1zOW9tZXBIVW5WZWhGNWVadVRzUEtjbDBta2tpYTNJcWhlbnJBSk5kbmZ4TUM5UWZCYTZYb3BrcFU5TGc?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 11:19:21 GMT"
-    },
-    {
-      "headline": "Banks are finally competing on design and UX",
-      "background": "Financial services have historically lagged in UX investment, treating digital products as functional infrastructure rather than competitive differentiators. Fintech challengers have shifted that calculus.",
-      "keyFindings": [
-        "Banks and fintechs in competitive markets are increasing UX investment as a direct response to customer retention pressure",
-        "Design quality is being framed as a measurable business advantage, not just a polish layer",
-        "The piece points to specific areas including onboarding, data visualization, and customer support flows as high-impact targets"
-      ],
-      "implications": "Financial product teams making the case for UX investment internally now have clearer business framing to use — retention and differentiation are stronger arguments than usability alone in banking contexts.",
-      "tags": [
-        "Fintech",
-        "Banking",
-        "Product Strategy"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Consultancy-me.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTkxWUs5cHlTdWZwemhOUVZHeC1MbFpLS1Q2el9sZHIyZHctemp5eVJ6RFJzSkg3UlpDVWd4Sy1CN1E2S0hUcWJuQXNFckVicTJQSTFQQm1ob2VEODlKTUxBWnVrV28wWm5tVktEWGlpeldNR0tRRl9jclNKWHZOOHc3cXZLRTF2VnlETUMwNkJpejdHOHhvRDFhNmY2N21Zd3FrOG9EaFpwaVJobWdnNUtjcXJDYXBQZFZURDhB0gHDAUFVX3lxTE1FU3NHbWZqUm9IYnI5NXdoaXlSWmdzYVV3Y0FycWprTUZNT3lzbzU3T2hCSU1vdE9NVXpsNXJoOXNFTDd0OHdBSUM0YXpNYk8yWnRheFMwcm1WRjd1dG0weVJ6VlNTcjBqbHRuNEhxTVVTb1d4bk5oQ0VFOC1mLVhsbFNUX19TSmNaUWR6RXYzUWR5Wkd4NmNDUFRzRjRJUl9jOGxLVnlUcHVCMVFzaEFwYmJSX1A0ZjdCajhMWUJCWkdjRQ?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 10:31:57 GMT"
+      "source": "The Live Nagpur",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZjg5c0UwR0NNRUh3Z3BWTTRWSzROQ3ZSUzYtOS1QS2xQMjd1ZkNpZXZuRGhWVEZmeGxvc3JxbW1Md3hqc1dtV1lmeDVJcThwLWRWWXNhRWxUV1paVVBCRFY1R3RSTVNTbERHeXo3c1RfbV9iM183RkxuRlBTT0FsdUVJX0I5el9Zdzl0eDFyRXk4NmxKTWM0YmduRk90dUlYUmdMdndRRDcyMlR5UlZkZFhPLXQzcE1nQVdkTEl6S1AwME9uTUNwN0k0akc0a2FOMXc?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 07:34:17 GMT"
     }
   ]
 }
