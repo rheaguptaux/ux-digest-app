@@ -1,229 +1,229 @@
 {
-  "generatedAt": "2026-10-21T16:44:09.164Z",
+  "generatedAt": "2026-10-22T16:44:39.010Z",
   "items": [
     {
-      "headline": "A Product Designer Shipped a Chrome Extension Using AI",
-      "background": "Designers increasingly have access to AI coding tools that theoretically let them build and ship software without a traditional engineering background. There's little honest documentation of what that process actually looks like end-to-end, including the failures.",
+      "headline": "How to Keep a Research Panel Healthy Long-Term",
+      "background": "Research panels degrade over time through participant fatigue, dropout, and demographic drift. This is the final installment of a four-part series on panel management, focusing on the maintenance phase that teams often neglect after initial setup.",
       "keyFindings": [
-        "The author, a product designer with no prior extension development experience, shipped a working Chrome extension using AI assistance.",
-        "The tool earned $11 in initial revenue, suggesting real but modest early market validation.",
-        "The piece documents specific mistakes made during development, offering a realistic counter to idealized 'designer who codes' narratives."
+        "Panels require ongoing quality checks to prevent over-surveying the same participants",
+        "Recruitment pipelines must run continuously, not just at panel launch",
+        "Panel health metrics — response rates, demographic balance, engagement — need regular auditing"
       ],
-      "implications": "Useful for designers evaluating whether to invest time in AI-assisted development for side tools or internal products. Temper expectations: the path involves real trial and error, and commercial traction from niche tools is typically very slow.",
+      "implications": "If your team has built a panel but lacks a maintenance protocol, this piece provides a practical framework. Most relevant to in-house research teams managing panels over 6+ months.",
       "tags": [
-        "Design Engineering",
-        "AI Tools",
-        "Side Projects"
+        "Research Ops",
+        "Participant Recruitment",
+        "Panel Management"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "Product design",
+      "category": "Research",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*sze8OKwXXXejZHpJojJhUA.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@himido551/how-i-a-product-designer-became-a-design-engineer-and-shipped-a-chrome-extension-with-ai-e26e5427dc3e?source=rss------product_design-5",
-      "pubDate": "Wed, 21 Oct 2026 16:26:11 GMT"
+      "image": "https://cdn-images-1.medium.com/max/2600/1*Yy_qSRumcE4tPoOkX_frqg.jpeg",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@thomas.n.anne/managing-and-maintaining-a-healthy-research-panel-cc63af0b2a1f?source=rss------ux_research-5",
+      "pubDate": "Thu, 22 Oct 2026 16:25:20 GMT"
     },
     {
-      "headline": "Heriz Interval Clock Is a Numbered Luxury Design Object",
-      "background": "This is a product showcase for a limited-edition clock by designer Hamid Motahari, combining high-end materials and craft.",
+      "headline": "Step-by-Step Guide to Building a Research Panel",
+      "background": "Many research teams want to move away from on-demand recruitment services but lack a repeatable setup process. This is part three of the series, covering the operational steps between deciding to build a panel and having one that's ready to use.",
       "keyFindings": [
-        "Materials include Black Marquina marble, brass, and smoked sapphire crystal.",
-        "The piece incorporates hand-knotted textile elements and is produced as a numbered edition."
+        "Panel setup requires defining screening criteria before recruitment begins, not after",
+        "Tooling decisions — CRM, survey platform, incentive management — should be made during setup, not retrofitted",
+        "Consent and data handling infrastructure must be established before any participants are onboarded"
       ],
-      "implications": "This is a design object showcase with no actionable UX or product insight. Relevant only as visual reference for material-led luxury product design.",
+      "implications": "Useful as a checklist for teams starting from scratch. Less relevant if you're inheriting an existing panel — see part four for that scenario.",
       "tags": [
-        "Product Design",
-        "Luxury Objects"
+        "Research Ops",
+        "Panel Management",
+        "Participant Recruitment"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "Product design",
+      "category": "Research",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/0*gOn6_D6tx7nC_W7q.jpg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@hamidmotahari/heriz-interval-clock-by-hamid-motahari-designer-a2c742640d13?source=rss------product_design-5",
-      "pubDate": "Wed, 21 Oct 2026 16:11:01 GMT"
+      "image": "https://cdn-images-1.medium.com/max/2600/1*0S1xyxfRXxv2OM0cC_4HiA.jpeg",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@thomas.n.anne/setting-up-your-research-panel-2d0d2425a390?source=rss------ux_research-5",
+      "pubDate": "Thu, 22 Oct 2026 16:24:37 GMT"
     },
     {
-      "headline": "How Pre-Seed Founders Should Hire Their First Designer",
-      "background": "Early-stage founders frequently mistime or misframe the founding designer hire — either bringing someone in too early without enough product direction, or too late when design debt has accumulated. There's limited practical guidance tailored specifically to the pre-seed stage.",
+      "headline": "Build vs. Buy: When a Research Panel Makes Sense",
+      "background": "Research teams frequently debate whether to recruit participants on-demand through vendors or invest in building their own panel. This is part two of the series, drawing on 25 industry interviews to map out the real trade-offs.",
       "keyFindings": [
-        "The piece proposes a structured 90-day onboarding plan specific to founding designer hires at pre-seed companies.",
-        "It frames design as core to value proposition — distinguishing this hire from a generalist or production designer role.",
-        "The guidance is aimed at founders, not designers, focusing on what to expect and how to set up the hire for success."
+        "Owned panels reduce per-study recruitment costs significantly at scale, but carry high upfront operational overhead",
+        "Vendor panels are faster for niche or one-off studies but introduce participant quality risks",
+        "The build case strengthens when research cadence exceeds roughly one study per month"
       ],
-      "implications": "Directly applicable if you're a founder hiring your first designer or a designer evaluating a founding role. The 90-day frame is a useful forcing function for defining early milestones and scope boundaries before signing an offer.",
+      "implications": "The decision hinges more on research frequency and team capacity than budget alone. Teams running fewer than 6 studies a year are unlikely to see ROI from building their own panel.",
       "tags": [
-        "Hiring",
-        "Founding Designer",
-        "Startups"
+        "Research Ops",
+        "Panel Management",
+        "Research Strategy"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*G3b9SdOcd36HExWx69TRcg.jpeg",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@thomas.n.anne/participant-panels-why-research-teams-build-them-and-when-they-should-buy-instead-157b1b8e4060?source=rss------ux_research-5",
+      "pubDate": "Thu, 22 Oct 2026 16:23:15 GMT"
+    },
+    {
+      "headline": "25 Interviews Reveal the Real Work Behind Research Panels",
+      "background": "Participant recruitment is a persistent operational bottleneck for UX research teams, yet there's little consolidated industry guidance on building and sustaining panels. This introductory piece sets up a four-part series grounded in 25 practitioner interviews.",
+      "keyFindings": [
+        "Most research teams lack formal panel infrastructure and rely on ad hoc recruitment per study",
+        "Practitioners interviewed cited participant quality and recruitment speed as their top two pain points",
+        "The series covers the full lifecycle: the case for panels, setup, and long-term maintenance"
+      ],
+      "implications": "A useful starting point for any research lead evaluating whether to formalize their recruitment process. The interview-based foundation makes it more credible than typical how-to content.",
+      "tags": [
+        "Research Ops",
+        "Participant Recruitment",
+        "Research Strategy"
       ],
       "featured": true,
       "type": "opinion",
-      "category": "Product design",
+      "category": "Research",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*H6Y2smoa0faNjqu1TJrckA.png",
-      "source": "Product Design on Medium",
-      "link": "https://carlwheatley.medium.com/hiring-a-founding-designer-a-practical-90-day-plan-for-pre-seed-founders-27010ba1227c?source=rss------product_design-5",
-      "pubDate": "Wed, 21 Oct 2026 16:05:27 GMT"
+      "image": "https://cdn-images-1.medium.com/max/2600/1*WJcFy9MNV-u9kDJz5ocXig.jpeg",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@thomas.n.anne/the-realities-of-participant-panels-c41463fc9a14?source=rss------ux_research-5",
+      "pubDate": "Thu, 22 Oct 2026 16:19:14 GMT"
     },
     {
-      "headline": "What Dutch Hiring Panels Actually Look for in Design Interviews",
-      "background": "Job search advice for product designers tends to be generic. First-person accounts from specific regional markets — with detail on what interviewers actually pressed on — are rare and more useful.",
+      "headline": "Quantum Metric Adds Experience Data to Enterprise AI Agents",
+      "background": "Enterprise AI agents increasingly need behavioral and experience-layer context to take meaningful product actions, not just backend data. Quantum Metric is positioning its MCP (Model Context Protocol) integration as a way to feed session and experience signals into those agents.",
       "keyFindings": [
-        "Interviewers in the Netherlands focused heavily on process articulation, not just portfolio output.",
-        "Multiple interview rounds were standard, with different stakeholders evaluating different competencies across rounds.",
-        "The author identified specific gaps between what candidates prepare and what panels probe."
+        "The integration surfaces experience data — friction points, rage clicks, session context — directly to AI agents via MCP",
+        "Targets enterprise teams using AI agents for product operations or customer experience workflows",
+        "Positions real-user behavioral data as a missing layer in most current AI agent implementations"
       ],
-      "implications": "Useful for designers currently job-searching in the Netherlands or broader European market. The emphasis on process over output reinforces the need to structure case study walkthroughs around decision-making, not visual results.",
+      "implications": "Worth watching if your organization is building AI agents for product or CX use cases. The value depends heavily on whether Quantum Metric's data quality and MCP implementation hold up in practice — vendor claims here should be verified independently.",
       "tags": [
-        "Job Search",
-        "Interviews",
-        "European Market"
+        "AI Agents",
+        "Analytics",
+        "Enterprise Tools"
       ],
       "featured": false,
-      "type": "opinion",
-      "category": "Product design",
+      "type": "research",
+      "category": "Industry news",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2400/1*4V-g93mH9zgKDcIhDnnxAg.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/design-bootcamp/reflections-on-a-recent-product-design-job-search-in-the-netherlands-09109cf26cfb?source=rss------product_design-5",
-      "pubDate": "Wed, 21 Oct 2026 15:42:42 GMT"
+      "image": null,
+      "source": "The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOd0dmWUpaaVk4VVVoMjV5bXNfYVFXejhqaU5xc0hFek4zWnNndkh4UmNhbzVaZHplMVN2dGN0STdyaUNlcnNLYWUwRW10OWFqSV9DRWhKYmxyMHRpUXpPR2pXeGNONHFpeXpXYXBNT3R3UldpRm9PekNOZGRnOXBCNHpCNEIxUDhDTXdQREtjZE5PTE5NY3ZWNjluNFpFNEVzX1kwNU5zdEUyWEYzRldBTWZHdWM0VFJ4ajFVZkNhVlJHSlE5dFZIbVpJeExWWHQzcUxiLTlUZHU4SjZmWEZEV0FFNXZxWlF3QUJXbjhrellicld0T0tVQ2hqRmpIY0EzTnJlT9IBhAJBVV95cUxOd0dmWUpaaVk4VVVoMjV5bXNfYVFXejhqaU5xc0hFek4zWnNndkh4UmNhbzVaZHplMVN2dGN0STdyaUNlcnNLYWUwRW10OWFqSV9DRWhKYmxyMHRpUXpPR2pXeGNONHFpeXpXYXBNT3R3UldpRm9PekNOZGRnOXBCNHpCNEIxUDhDTXdQREtjZE5PTE5NY3ZWNjluNFpFNEVzX1kwNU5zdEUyWEYzRldBTWZHdWM0VFJ4ajFVZkNhVlJHSlE5dFZIbVpJeExWWHQzcUxiLTlUZHU4SjZmWEZEV0FFNXZxWlF3QUJXbjhrellicld0T0tVQ2hqRmpIY0EzTnJlTw?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 13:19:59 GMT"
     },
     {
-      "headline": "Norway Is Piloting Scaled Content Credentials Across News Publishers",
-      "background": "Content Credentials — a technical standard from the Content Authenticity Initiative that cryptographically attaches provenance metadata to media — have been slow to achieve real-world adoption beyond individual tool integrations. Norway is attempting something more systemic.",
+      "headline": "Why Conversion Problems in UX Keep Repeating",
+      "background": "Despite decades of conversion rate optimization practice, many digital products — particularly in regulated or competitive sectors like iGaming — still see UX friction directly costing revenue. This piece examines why the problem persists.",
       "keyFindings": [
-        "Norway is working to become the first country to implement Content Credentials at scale across its national news ecosystem.",
-        "The effort is coordinated through the Content Authenticity Initiative, which has backing from Adobe, news organizations, and camera manufacturers.",
-        "The initiative is a direct response to concerns about AI-generated and manipulated media eroding public trust in news imagery."
+        "Conversion failures are frequently traced to onboarding friction and form complexity, not visual design",
+        "Teams often optimize for acquisition metrics while neglecting post-click experience quality",
+        "Inconsistent mobile experience is cited as a recurring, underaddressed conversion barrier"
       ],
-      "implications": "For product and UX teams building media tools, publishing platforms, or content management systems, this signals that Content Credentials support may shift from optional to expected — particularly for clients in regulated or news-adjacent sectors. Worth monitoring the CAI spec now.",
+      "implications": "The iGaming framing is specific, but the failure patterns — prioritizing top-of-funnel over experience quality, siloed metrics — apply broadly. Relevant for any product team where conversion is a primary KPI.",
       "tags": [
-        "Content Authenticity",
-        "Media Trust",
-        "Publishing"
+        "Conversion Optimization",
+        "Onboarding",
+        "Mobile"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "iGaming Business",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZVW9peE50cWN6MTdCR0JPdFBBNkJvRFF2cnFTRlA4aHBMaG9GS0FBNU5lUTdWY2duc0IyRTFhM2hoeHU0a2lTOGhoUVFyWlZFRUJhMHNVeXZiTHdTV2NlUUp1ckRxMWwzZ2FGUFdn?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 09:54:44 GMT"
+    },
+    {
+      "headline": "DXB APPS Mobile Development Profile Piece: Skip It",
+      "background": "This is a vendor self-promotion article from a Dubai-based app development agency.",
+      "keyFindings": [
+        "No independent findings or research cited",
+        "Content is a commercial pitch, not editorial or analytical",
+        "Not relevant to UX, product, or tech practice"
+      ],
+      "implications": "No actionable content for UX or product practitioners. This is an advertisement.",
+      "tags": [
+        "Vendor Marketing"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "GIS user",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkxFbkJzVjE5c1ZJZjlxazMwV3l3a0I0eUFSQm9IUkVBdnNHcXExS1ZqcHh3MlhYdS0zVk1OMlY3bHBFZi1XaHhIVDhLWTZjaWVqYmotZTQtMkZtclVFMUFaNl9zbTRtNVhhamNKV0dycjBQajRxUGJyU21jYlN3X0h3T2hod3hVWGdDczJJTlhKVTQyN1pSblBIMUxfbXhTRnF1MDFJeFI?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 22:44:44 GMT"
+    },
+    {
+      "headline": "Fulbright Scholar Studies UX in the Basque Country",
+      "background": "This is a human interest story from Boise State University about an alumnus receiving a Fulbright Scholarship.",
+      "keyFindings": [
+        "Story covers a personal academic achievement, not research findings",
+        "No UX methodology, tools, or product insights are presented",
+        "Regional and institutional interest only"
+      ],
+      "implications": "No direct relevance to UX, product, or tech practice in a professional context.",
+      "tags": [
+        "Academia"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Boise State University",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeThxcHRXLS1YM2lYcHlHSlZDa29GRUFoXzczeUtHZmVjTW1lY1Q0dnFsVVUtLVlEVHpnbWo3QmlMWEMyRVMxbnJYYl81Uy1SZ3RXZzVUdDJvQjNNTHZDby02M2xSeVpzVmtXTm5ncUU0b3NYSm5JTTBZNnZ2WTBYd2FmX0RCY1puRHBDMHBoLTMxZ08xbXQyeWVFSGdmRUVodl90TjNR?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 20:52:56 GMT"
+    },
+    {
+      "headline": "What a Personal Health AI Agent Actually Needs to Work",
+      "background": "Personal health AI agents are being proposed as tools for managing chronic conditions, medication, and wellness — but their architectural and ethical requirements are poorly defined. Nature published a framework piece examining what these agents must include to be safe and useful.",
+      "keyFindings": [
+        "Effective personal health agents require longitudinal personal data integration, not just episodic queries",
+        "The piece identifies five functional components: sensing, reasoning, memory, action, and communication layers",
+        "Autonomy boundaries — what an agent can act on vs. must escalate — are identified as the least resolved design challenge"
+      ],
+      "implications": "Directly relevant for anyone designing health-adjacent AI products. The autonomy boundary problem in particular has immediate UX and product implications — how and when the system defers to the user is a design decision, not just an engineering one.",
+      "tags": [
+        "AI Agents",
+        "Health Tech",
+        "Product Design"
       ],
       "featured": true,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Content Authenticity Initiative",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZVZKdUhGM2NpdGlVMDZ5bW1YZklfb0FfODJHZ2ZkWEEwbnBxRmV4dnctTXZBYThNRENtTkFjU3VsT0dWSHBBaGNHMS1yOFZtSXlsaVlwbGxwUTBWT0NrWkNQY2tuRUpIOFJhdGxuZHNpV3lqVU5DdDMxZWNaUEFjR2wySHVnd2NERHNoWURhNkp2RG44VjgwNmUySUZsYkw1QmUzT1d6LWFvZ3JUYUN4MHNRXzVYTGdReUktY1lScU0?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 15:17:59 GMT"
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pZWg3TXpFVG1HcU5NRURyN2tYM2dtTmZBd3VPV2hKc2tobnFLTGZaYUFmeU1JUUZWMXJXcndfNjFjWENkeWVSdzZickFzeDlTS1k4WHl2U2FyR1lwX1Vn?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 16:37:29 GMT"
     },
     {
-      "headline": "Generic Advice on UX Design for London Startups",
-      "background": "This appears to be a general-audience business press article covering UX design basics reframed for London startup founders.",
+      "headline": "Marketing Agency Lists Website UX Trends: Skip It",
+      "background": "This is a press release from RunLocal Marketing summarizing generic website design trends.",
       "keyFindings": [
-        "No specific findings, data, or original research are evident from the snippet.",
-        "Content appears to be surface-level guidance rather than original reporting or analysis."
+        "No original research or data cited",
+        "Content is a promotional piece from a marketing agency",
+        "Trend claims are unattributed and not independently verified"
       ],
-      "implications": "No actionable insight for experienced UX or product practitioners. Skip.",
+      "implications": "No substantive findings for UX or product practitioners. Trend listicles from agencies without cited research methodology are not reliable reference material.",
       "tags": [
-        "Startups",
-        "General UX"
+        "Vendor Marketing"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "London Business News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQUVpOUNaelVWNXg0QWR4ZzdweWxaMkFTZDNoMWZQb3h3VVJWeFM0U3pVY0hTSGZxcXAxcHg3NVJrTkdRMzRMcVh5M0dqQ2xkUFBHdTU4VTBmTWx3ckdwckg0cDYxZWhTdjIzWGRUQmpVcmgtTkRIYXZPZEJFVDNiWnBsSzRRbkJGVTF1NV8yTWJveGZHSUc1Y3FZekt1c3lPQl84RG1B?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 14:22:26 GMT"
-    },
-    {
-      "headline": "Jakob Nielsen Applies Csikszentmihalyi's Flow Theory to UX",
-      "background": "Flow — the psychological state of deep focus and effortless engagement — is a concept frequently referenced in UX but rarely operationalized with precision. Nielsen's piece attempts to translate it into concrete design terms.",
-      "keyFindings": [
-        "Nielsen maps Csikszentmihalyi's flow conditions — skill-challenge balance, clear goals, immediate feedback — directly onto interface design decisions.",
-        "The piece argues that most UX friction interrupts flow not through difficulty but through mismatch between user skill level and task demand.",
-        "Design patterns that eliminate unnecessary micro-decisions are identified as key to sustaining flow states."
-      ],
-      "implications": "Applicable when designing task-heavy or productivity-oriented interfaces where sustained attention matters. Less relevant for exploratory or browse-first experiences. Use the skill-challenge balance framework as an audit lens on onboarding and core task flows.",
-      "tags": [
-        "Cognitive Load",
-        "Interaction Design",
-        "Engagement"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kS3lSX3hMOHlPQmFuTEE2UmNQSmtfTXJDS3BCU2VjT3RtU1o3VVZVSFJ0LU13VEJIOFFpZWFrUGZCYWpWLWJLajIwdzZLTGFURDJYOGtn?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 11:21:34 GMT"
-    },
-    {
-      "headline": "Student Usability Audit Finds Real Friction in Mexican Digital Library",
-      "background": "Digital public services in Latin America are underresearched in mainstream UX literature. Student-led evaluations occasionally surface actionable usability data that institutions wouldn't commission formally.",
-      "keyFindings": [
-        "A student team conducted a usability evaluation of the Guadalajara Digital Library's interface and identified specific friction points in the user journey.",
-        "The evaluation methodology was student-led, which may limit generalizability but adds to the limited body of UX research on Latin American public digital infrastructure.",
-        "Specific friction areas are not detailed in the snippet, limiting the ability to cite concrete findings without reading the full piece."
-      ],
-      "implications": "Relevant for UX researchers interested in public sector digital services or academic UX methodologies. Useful as a case study reference for student or guerrilla usability evaluation approaches.",
-      "tags": [
-        "Usability Testing",
-        "Public Sector",
-        "Latin America"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Bioengineer.org",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS19md0tnWlZtS2ExSDZsOEtCU1dZMGkxekxvaS1MdnJROUNLTFVnc0ZlRXlma3l2aUlGZXNlbUk4dGVjVjVSU3ZGUDhDMHhmUGlORTNNNG9rb2drQjRvSnNKOVdpa2M0akVQbDFGaklHUl9fQ2R6aENINmxkd3NQQ2xVcGJuV1hIOXRRYmlQSGlrUU0xbmMzNGEzNzNnVjA?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 08:38:15 GMT"
-    },
-    {
-      "headline": "Listicle: Top Mobile App Dev Companies in Dubai 2026",
-      "background": "This is a vendor directory or sponsored listicle targeting businesses seeking app development services in the UAE.",
-      "keyFindings": [
-        "No original research, findings, or UX insight are present in the snippet.",
-        "Content is a commercial directory format with no editorial evaluation criteria disclosed."
-      ],
-      "implications": "No relevance to UX research, design practice, or product strategy. Skip.",
-      "tags": [
-        "Vendor Lists",
-        "Mobile Development"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Big News Network.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT1ZpOW9lMWNmb3gxS1VhSkkyMWhXMExUcVI4OGJvck82Wk9vX2ZoQ2hGZ3NIM09SRy1SeERsWXlSckVmN2FfTHVfbElFSjZSbzhGWG9FdndMRTI2NHpxZlk0MldrNEtDNEQ0Um9aVEgtLXJMM3B2THN2ZS1ncTVjRU83S2VCOWxheXp1TXpyX1ZseEdxa2RkY3FNTVBCSzJwRmkyNnhKbVBXUQ?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 08:17:00 GMT"
-    },
-    {
-      "headline": "NID Graduate Wins Shark Tank USA Funding for Foldable Spoon",
-      "background": "Indian design school graduates are increasingly competing in international entrepreneurship contexts. This is a human interest story about a product design innovation reaching a US investment audience.",
-      "keyFindings": [
-        "Rahul Agarwal, a graduate of NID Ahmedabad, secured approximately Rs 3.3 crore (roughly $400K USD) on Shark Tank USA for a foldable spoon product.",
-        "The product represents a physical product design innovation rather than a digital or service design story.",
-        "NID Ahmedabad is India's most prominent design institution, and this outcome may reflect increasing international visibility of Indian design talent."
-      ],
-      "implications": "Minimal direct relevance for digital UX or product practitioners. Of interest as a signal of Indian design education producing commercially viable physical product innovators on an international stage.",
-      "tags": [
-        "Product Innovation",
-        "Design Education",
-        "Entrepreneurship"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "The Live Nagpur",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZjg5c0UwR0NNRUh3Z3BWTTRWSzROQ3ZSUzYtOS1QS2xQMjd1ZkNpZXZuRGhWVEZmeGxvc3JxbW1Md3hqc1dtV1lmeDVJcThwLWRWWXNhRWxUV1paVVBCRFY1R3RSTVNTbERHeXo3c1RfbV9iM183RkxuRlBTT0FsdUVJX0I5el9Zdzl0eDFyRXk4NmxKTWM0YmduRk90dUlYUmdMdndRRDcyMlR5UlZkZFhPLXQzcE1nQVdkTEl6S1AwME9uTUNwN0k0akc0a2FOMXc?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 07:34:17 GMT"
+      "source": "FinancialContent",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdHpvODFWN1pFX1liZ0JKQkZ4Z0hKeVA1eFMwaTRfZENIMXhLYXIyZjU0cXl0elVpZ2NYc2FJekhZRW15WHBwTDdjVzQyckhDSHJWOUxocWpwY3pCaGNIdXFVdHpNWUpFcnVjaW1mWERMVE1na0pxTzZWT0hVRUVoNHlfTnltWjRDd3lGaEN5X3FHTHNQMHVmVkZJMWdGZnVKSnk4bWRCUXFETFRkNUVVc19pdzNtY2sxeVgxcjB0cFp2TmpPZEVjdDVWUE1zcmpwSFl0Z0hPaGw1TTRaRGt5VUtnSkVfNkJRME1SMEp1ZldsODM5UFRkNnJXVlQ?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 16:10:00 GMT"
     }
   ]
 }
