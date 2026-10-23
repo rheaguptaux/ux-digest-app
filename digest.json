@@ -1,229 +1,233 @@
 {
-  "generatedAt": "2026-10-22T16:44:39.010Z",
+  "generatedAt": "2026-10-23T16:35:39.736Z",
   "items": [
     {
-      "headline": "How to Keep a Research Panel Healthy Long-Term",
-      "background": "Research panels degrade over time through participant fatigue, dropout, and demographic drift. This is the final installment of a four-part series on panel management, focusing on the maintenance phase that teams often neglect after initial setup.",
+      "headline": "Sketching helps designers think, not just communicate",
+      "background": "Digital tools dominate design workflows, but there's ongoing debate about whether screen-based work crowds out the kind of spatial, analogical thinking that leads to better system understanding. This piece argues for drawing as a cognitive tool, not just an output method.",
       "keyFindings": [
-        "Panels require ongoing quality checks to prevent over-surveying the same participants",
-        "Recruitment pipelines must run continuously, not just at panel launch",
-        "Panel health metrics — response rates, demographic balance, engagement — need regular auditing"
+        "Drawing forces designers to externalize mental models, revealing gaps in system understanding before wireframes begin",
+        "Cross-disciplinary connections emerge more readily through sketching because it strips away tool-specific constraints",
+        "Hand-drawn artifacts create shared reference points that reduce misalignment between disciplines early in a project"
       ],
-      "implications": "If your team has built a panel but lacks a maintenance protocol, this piece provides a practical framework. Most relevant to in-house research teams managing panels over 6+ months.",
+      "implications": "Worth considering as a structured practice before opening Figma — particularly useful in discovery phases or when aligning with engineering and product on complex systems. Less about artistic skill, more about thinking speed and flexibility.",
       "tags": [
-        "Research Ops",
-        "Participant Recruitment",
-        "Panel Management"
+        "Design Process",
+        "Sketching",
+        "Systems Thinking"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "Research",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*Yy_qSRumcE4tPoOkX_frqg.jpeg",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@thomas.n.anne/managing-and-maintaining-a-healthy-research-panel-cc63af0b2a1f?source=rss------ux_research-5",
-      "pubDate": "Thu, 22 Oct 2026 16:25:20 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1600/1*xyt_To4u5LwGfTKGb8MYvA.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@jmcorada/thinking-with-your-hands-30aa5193f5e1?source=rss------product_design-5",
+      "pubDate": "Fri, 23 Oct 2026 16:18:14 GMT"
     },
     {
-      "headline": "Step-by-Step Guide to Building a Research Panel",
-      "background": "Many research teams want to move away from on-demand recruitment services but lack a repeatable setup process. This is part three of the series, covering the operational steps between deciding to build a panel and having one that's ready to use.",
+      "headline": "Luxury titanium cuff by designer Hamid Motahari",
+      "background": "This is a product listing for a limited-edition wearable object combining industrial and craft materials. It is not an article relevant to UX, product design practice, or technology.",
       "keyFindings": [
-        "Panel setup requires defining screening criteria before recruitment begins, not after",
-        "Tooling decisions — CRM, survey platform, incentive management — should be made during setup, not retrofitted",
-        "Consent and data handling infrastructure must be established before any participants are onboarded"
+        "Limited-edition wearable combining charcoal titanium, sapphire, and hand-knotted carpet fragment",
+        "Produced in small numbered edition by designer Hamid Motahari"
       ],
-      "implications": "Useful as a checklist for teams starting from scratch. Less relevant if you're inheriting an existing panel — see part four for that scenario.",
+      "implications": "No applicable UX, product, or tech implications. This appears to have been included in the feed in error.",
       "tags": [
-        "Research Ops",
-        "Panel Management",
-        "Participant Recruitment"
+        "Jewelry",
+        "Craft",
+        "Off-topic"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "Research",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*0S1xyxfRXxv2OM0cC_4HiA.jpeg",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@thomas.n.anne/setting-up-your-research-panel-2d0d2425a390?source=rss------ux_research-5",
-      "pubDate": "Thu, 22 Oct 2026 16:24:37 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1600/0*RaObGt8YQd37G-7v.jpg",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@hamidmotahari/selvedge-cuff-cuff-by-hamid-motahari-designer-eaddd4d3da01?source=rss------product_design-5",
+      "pubDate": "Fri, 23 Oct 2026 16:16:02 GMT"
     },
     {
-      "headline": "Build vs. Buy: When a Research Panel Makes Sense",
-      "background": "Research teams frequently debate whether to recruit participants on-demand through vendors or invest in building their own panel. This is part two of the series, drawing on 25 industry interviews to map out the real trade-offs.",
+      "headline": "Two UI tweaks to increase basket size on a grocery app",
+      "background": "E-commerce product detail pages (PDPs) are a well-studied conversion bottleneck, but grocery apps face a specific challenge: getting users who came for one item to add complementary items without friction. This is a speculative redesign case study for Basil, a grocery delivery app.",
       "keyFindings": [
-        "Owned panels reduce per-study recruitment costs significantly at scale, but carry high upfront operational overhead",
-        "Vendor panels are faster for niche or one-off studies but introduce participant quality risks",
-        "The build case strengthens when research cadence exceeds roughly one study per month"
+        "The author identifies two distinct 'levers' on the PDP for increasing multi-item add-to-cart rates",
+        "The redesign focuses on contextual product suggestions and reduced interaction cost at the point of item selection",
+        "Case study is speculative/unsolicited, so findings reflect design rationale rather than live A/B test data"
       ],
-      "implications": "The decision hinges more on research frequency and team capacity than budget alone. Teams running fewer than 6 studies a year are unlikely to see ROI from building their own panel.",
+      "implications": "Useful as a pattern reference for anyone working on grocery or FMCG e-commerce PDPs, but treat recommendations as hypotheses — no conversion data is attached. The framing around 'levers' is a practical way to scope PDP experiments.",
       "tags": [
-        "Research Ops",
-        "Panel Management",
-        "Research Strategy"
+        "E-commerce",
+        "Product Detail Page",
+        "Conversion"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "Research",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*G3b9SdOcd36HExWx69TRcg.jpeg",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@thomas.n.anne/participant-panels-why-research-teams-build-them-and-when-they-should-buy-instead-157b1b8e4060?source=rss------ux_research-5",
-      "pubDate": "Thu, 22 Oct 2026 16:23:15 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1078/1*RMQQf7Ej0Tz_H5ESi06Hvg.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@utkarshkane43/two-levers-one-pdp-a7fa2e773776?source=rss------product_design-5",
+      "pubDate": "Fri, 23 Oct 2026 16:10:58 GMT"
     },
     {
-      "headline": "25 Interviews Reveal the Real Work Behind Research Panels",
-      "background": "Participant recruitment is a persistent operational bottleneck for UX research teams, yet there's little consolidated industry guidance on building and sustaining panels. This introductory piece sets up a four-part series grounded in 25 practitioner interviews.",
+      "headline": "Build a personal design foundation before adopting any process",
+      "background": "Designers are frequently told to follow established processes — Double Diamond, design sprints, jobs-to-be-done — but there's less guidance on what personal scaffolding a designer needs before a formal process adds value. This piece argues the starting point matters more than the process itself.",
       "keyFindings": [
-        "Most research teams lack formal panel infrastructure and rely on ad hoc recruitment per study",
-        "Practitioners interviewed cited participant quality and recruitment speed as their top two pain points",
-        "The series covers the full lifecycle: the case for panels, setup, and long-term maintenance"
+        "The author distinguishes between a 'design process' (method) and a 'starting point' (personal principles, defaults, and decision heuristics)",
+        "Without a repeatable personal foundation, designers tend to restart from zero on each project, increasing inconsistency",
+        "The piece positions the foundation as something built deliberately over time, not inherited from a methodology"
       ],
-      "implications": "A useful starting point for any research lead evaluating whether to formalize their recruitment process. The interview-based foundation makes it more credible than typical how-to content.",
+      "implications": "Relevant for mid-career designers who feel their work is inconsistent across projects or contexts. Less immediately applicable to juniors still learning established methods, but worth returning to once base competencies are in place.",
       "tags": [
-        "Research Ops",
-        "Participant Recruitment",
-        "Research Strategy"
+        "Design Process",
+        "Career Development",
+        "Design Thinking"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2400/1*QO7rrJNJHxfw0yxpcccqZg.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@uiux.angel/before-the-design-process-build-your-starting-point-a6d2666947ed?source=rss------ux-5",
+      "pubDate": "Fri, 23 Oct 2026 16:01:30 GMT"
+    },
+    {
+      "headline": "Carets beat chevrons and arrows in accordion components",
+      "background": "Accordion UI components are ubiquitous in navigation and content-heavy interfaces, but icon choice and interaction behavior vary widely across implementations. This Smashing Magazine piece systematically reviews which icon conventions cause confusion and which perform most reliably.",
+      "keyFindings": [
+        "Caret icons outperform arrows, plus/minus, and chevrons for communicating expand/collapse behavior in user testing",
+        "Split menus — where an icon and a text label trigger different actions — consistently cause errors and should be avoided",
+        "Linking icons and labels to separate actions violates users' expectations of unified interactive targets"
+      ],
+      "implications": "If you're building or auditing navigation components, this gives clear, evidence-backed icon guidance: use carets, keep icon and label as a single target, and avoid split-action menus entirely. Applicable to both mobile and desktop accordion patterns.",
+      "tags": [
+        "Navigation",
+        "UI Components",
+        "Interaction Design"
       ],
       "featured": true,
-      "type": "opinion",
-      "category": "Research",
+      "type": "research",
+      "category": "Design & dev",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*WJcFy9MNV-u9kDJz5ocXig.jpeg",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@thomas.n.anne/the-realities-of-participant-panels-c41463fc9a14?source=rss------ux_research-5",
-      "pubDate": "Thu, 22 Oct 2026 16:19:14 GMT"
+      "image": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
+      "source": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
+      "pubDate": "Fri, 23 Oct 2026 13:00:00 GMT"
     },
     {
-      "headline": "Quantum Metric Adds Experience Data to Enterprise AI Agents",
-      "background": "Enterprise AI agents increasingly need behavioral and experience-layer context to take meaningful product actions, not just backend data. Quantum Metric is positioning its MCP (Model Context Protocol) integration as a way to feed session and experience signals into those agents.",
+      "headline": "Ladakh government runs UX4G workshop for digital governance",
+      "background": "India's UX4G (User Experience for Governance) initiative is a national program aimed at improving the usability of government digital services. This news item covers a workshop run by Ladakh's IT Department to apply these standards locally.",
       "keyFindings": [
-        "The integration surfaces experience data — friction points, rage clicks, session context — directly to AI agents via MCP",
-        "Targets enterprise teams using AI agents for product operations or customer experience workflows",
-        "Positions real-user behavioral data as a missing layer in most current AI agent implementations"
+        "The Union Territory of Ladakh's IT Department organized formal UX training under the central government's UX4G framework",
+        "The initiative targets improved citizen-facing digital service design, not just internal IT systems",
+        "This represents a regional rollout of a national UX standardization effort for public-sector digital products"
       ],
-      "implications": "Worth watching if your organization is building AI agents for product or CX use cases. The value depends heavily on whether Quantum Metric's data quality and MCP implementation hold up in practice — vendor claims here should be verified independently.",
+      "implications": "Relevant for designers or consultants working in civic tech or government digital services in India. UX4G is worth understanding as a compliance and design standard framework if you're building products for or with Indian government bodies.",
       "tags": [
-        "AI Agents",
-        "Analytics",
-        "Enterprise Tools"
+        "Civic Tech",
+        "Government Digital Services",
+        "UX4G"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "The Manila Times",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOd0dmWUpaaVk4VVVoMjV5bXNfYVFXejhqaU5xc0hFek4zWnNndkh4UmNhbzVaZHplMVN2dGN0STdyaUNlcnNLYWUwRW10OWFqSV9DRWhKYmxyMHRpUXpPR2pXeGNONHFpeXpXYXBNT3R3UldpRm9PekNOZGRnOXBCNHpCNEIxUDhDTXdQREtjZE5PTE5NY3ZWNjluNFpFNEVzX1kwNU5zdEUyWEYzRldBTWZHdWM0VFJ4ajFVZkNhVlJHSlE5dFZIbVpJeExWWHQzcUxiLTlUZHU4SjZmWEZEV0FFNXZxWlF3QUJXbjhrellicld0T0tVQ2hqRmpIY0EzTnJlT9IBhAJBVV95cUxOd0dmWUpaaVk4VVVoMjV5bXNfYVFXejhqaU5xc0hFek4zWnNndkh4UmNhbzVaZHplMVN2dGN0STdyaUNlcnNLYWUwRW10OWFqSV9DRWhKYmxyMHRpUXpPR2pXeGNONHFpeXpXYXBNT3R3UldpRm9PekNOZGRnOXBCNHpCNEIxUDhDTXdQREtjZE5PTE5NY3ZWNjluNFpFNEVzX1kwNU5zdEUyWEYzRldBTWZHdWM0VFJ4ajFVZkNhVlJHSlE5dFZIbVpJeExWWHQzcUxiLTlUZHU4SjZmWEZEV0FFNXZxWlF3QUJXbjhrellicld0T0tVQ2hqRmpIY0EzTnJlTw?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 13:19:59 GMT"
+      "source": "Administration of Union Territory of Ladakh",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdC1Tb0RuZ0lLdGhuZkJaaWI5NERzWUxfTDI2cXpDVVU1dEx1NjNDdEhidWFWdjdENmNMaGd3QkxucG9kSUNNWlYzRGZIaHFaTHNST21TTHk5eTlTVUVjRnRGV18yZlM4WnNubU5CYXBlQ3Y2dG9hZ08xcnk1Zzc2cWtHWlRzTHlIUERMcVcyRHJNM0R3dE9LNV9WSEN4Nkl4cEJ0WjQzXzVON09WRDY3UFNNZ1JmTFE4andfMFdvWG81bTB6?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 11:46:40 GMT"
     },
     {
-      "headline": "Why Conversion Problems in UX Keep Repeating",
-      "background": "Despite decades of conversion rate optimization practice, many digital products — particularly in regulated or competitive sectors like iGaming — still see UX friction directly costing revenue. This piece examines why the problem persists.",
+      "headline": "Product design jobs still exist — but not as advertised",
+      "background": "Hiring slowdowns and role consolidation in tech have fueled anxiety about whether product design as a distinct discipline is contracting. Job postings increasingly describe hybrid or ambiguous roles, making it hard to assess the market accurately.",
       "keyFindings": [
-        "Conversion failures are frequently traced to onboarding friction and form complexity, not visual design",
-        "Teams often optimize for acquisition metrics while neglecting post-click experience quality",
-        "Inconsistent mobile experience is cited as a recurring, underaddressed conversion barrier"
+        "The author argues product design roles persist but have shifted in scope and expectation since 2022",
+        "Job postings frequently mislabel roles, combining design, research, and strategy in ways that obscure what's actually needed",
+        "The gap between posted job descriptions and actual day-to-day work is widening, requiring candidates to read between the lines"
       ],
-      "implications": "The iGaming framing is specific, but the failure patterns — prioritizing top-of-funnel over experience quality, siloed metrics — apply broadly. Relevant for any product team where conversion is a primary KPI.",
+      "implications": "Useful framing for designers currently job hunting or evaluating offers — take job titles and descriptions as rough signals, not specifications. Worth auditing your portfolio and skills against what companies actually need post-hire, not what they post.",
       "tags": [
-        "Conversion Optimization",
-        "Onboarding",
-        "Mobile"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "iGaming Business",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZVW9peE50cWN6MTdCR0JPdFBBNkJvRFF2cnFTRlA4aHBMaG9GS0FBNU5lUTdWY2duc0IyRTFhM2hoeHU0a2lTOGhoUVFyWlZFRUJhMHNVeXZiTHdTV2NlUUp1ckRxMWwzZ2FGUFdn?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 09:54:44 GMT"
-    },
-    {
-      "headline": "DXB APPS Mobile Development Profile Piece: Skip It",
-      "background": "This is a vendor self-promotion article from a Dubai-based app development agency.",
-      "keyFindings": [
-        "No independent findings or research cited",
-        "Content is a commercial pitch, not editorial or analytical",
-        "Not relevant to UX, product, or tech practice"
-      ],
-      "implications": "No actionable content for UX or product practitioners. This is an advertisement.",
-      "tags": [
-        "Vendor Marketing"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "GIS user",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkxFbkJzVjE5c1ZJZjlxazMwV3l3a0I0eUFSQm9IUkVBdnNHcXExS1ZqcHh3MlhYdS0zVk1OMlY3bHBFZi1XaHhIVDhLWTZjaWVqYmotZTQtMkZtclVFMUFaNl9zbTRtNVhhamNKV0dycjBQajRxUGJyU21jYlN3X0h3T2hod3hVWGdDczJJTlhKVTQyN1pSblBIMUxfbXhTRnF1MDFJeFI?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 22:44:44 GMT"
-    },
-    {
-      "headline": "Fulbright Scholar Studies UX in the Basque Country",
-      "background": "This is a human interest story from Boise State University about an alumnus receiving a Fulbright Scholarship.",
-      "keyFindings": [
-        "Story covers a personal academic achievement, not research findings",
-        "No UX methodology, tools, or product insights are presented",
-        "Regional and institutional interest only"
-      ],
-      "implications": "No direct relevance to UX, product, or tech practice in a professional context.",
-      "tags": [
-        "Academia"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Boise State University",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeThxcHRXLS1YM2lYcHlHSlZDa29GRUFoXzczeUtHZmVjTW1lY1Q0dnFsVVUtLVlEVHpnbWo3QmlMWEMyRVMxbnJYYl81Uy1SZ3RXZzVUdDJvQjNNTHZDby02M2xSeVpzVmtXTm5ncUU0b3NYSm5JTTBZNnZ2WTBYd2FmX0RCY1puRHBDMHBoLTMxZ08xbXQyeWVFSGdmRUVodl90TjNR?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 20:52:56 GMT"
-    },
-    {
-      "headline": "What a Personal Health AI Agent Actually Needs to Work",
-      "background": "Personal health AI agents are being proposed as tools for managing chronic conditions, medication, and wellness — but their architectural and ethical requirements are poorly defined. Nature published a framework piece examining what these agents must include to be safe and useful.",
-      "keyFindings": [
-        "Effective personal health agents require longitudinal personal data integration, not just episodic queries",
-        "The piece identifies five functional components: sensing, reasoning, memory, action, and communication layers",
-        "Autonomy boundaries — what an agent can act on vs. must escalate — are identified as the least resolved design challenge"
-      ],
-      "implications": "Directly relevant for anyone designing health-adjacent AI products. The autonomy boundary problem in particular has immediate UX and product implications — how and when the system defers to the user is a design decision, not just an engineering one.",
-      "tags": [
-        "AI Agents",
-        "Health Tech",
-        "Product Design"
+        "Product Design",
+        "Hiring",
+        "Career Development"
       ],
       "featured": true,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pZWg3TXpFVG1HcU5NRURyN2tYM2dtTmZBd3VPV2hKc2tobnFLTGZaYUFmeU1JUUZWMXJXcndfNjFjWENkeWVSdzZickFzeDlTS1k4WHl2U2FyR1lwX1Vn?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 16:37:29 GMT"
+      "source": "Medium",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTHZ4czJKOFlJclY1UEExMUp2WGU3d2FTSlhLMnpIMXJwRm1vcE9xVjZCLXJudGJaNnVRY3FNQ2NDZzRldEliX0U5X0hWUXZzUEdBS2ZzZzB4eTNJVi04SjBlM2MtaDV1R0JLUV91OE03LU5KZW9DdGNBUEl4NzJFUllpVlA2bHRncVBFOWxNdHBhZHZ2c2J6UUJnNVc2VHZuQ3VlRDhHdjFNcFpud0tWQVVtMVl5dw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 11:14:39 GMT"
     },
     {
-      "headline": "Marketing Agency Lists Website UX Trends: Skip It",
-      "background": "This is a press release from RunLocal Marketing summarizing generic website design trends.",
+      "headline": "Getty Images survives bankruptcy via Koch-backed deal",
+      "background": "Getty Images, one of the dominant stock photography and visual content licensing platforms used widely in digital product and media work, filed for bankruptcy after struggling with debt from its earlier merger with Shutterstock's competitor iStock and broader market pressure.",
       "keyFindings": [
-        "No original research or data cited",
-        "Content is a promotional piece from a marketing agency",
-        "Trend claims are unattributed and not independently verified"
+        "Getty Images has filed for bankruptcy but continues operating under a financial restructuring deal backed by Koch Industries",
+        "The deal keeps the platform and its licensing catalog operational, avoiding disruption to existing customers",
+        "Bankruptcy was driven by debt load rather than revenue collapse — the business itself remains active"
       ],
-      "implications": "No substantive findings for UX or product practitioners. Trend listicles from agencies without cited research methodology are not reliable reference material.",
+      "implications": "No immediate disruption expected for teams using Getty licensing for product or marketing assets, but it's worth monitoring the restructuring terms. Long-term licensing agreements or bulk contracts may be worth reviewing given ownership changes.",
       "tags": [
-        "Vendor Marketing"
+        "Stock Photography",
+        "Media Industry",
+        "Licensing"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "FinancialContent",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdHpvODFWN1pFX1liZ0JKQkZ4Z0hKeVA1eFMwaTRfZENIMXhLYXIyZjU0cXl0elVpZ2NYc2FJekhZRW15WHBwTDdjVzQyckhDSHJWOUxocWpwY3pCaGNIdXFVdHpNWUpFcnVjaW1mWERMVE1na0pxTzZWT0hVRUVoNHlfTnltWjRDd3lGaEN5X3FHTHNQMHVmVkZJMWdGZnVKSnk4bWRCUXFETFRkNUVVc19pdzNtY2sxeVgxcjB0cFp2TmpPZEVjdDVWUE1zcmpwSFl0Z0hPaGw1TTRaRGt5VUtnSkVfNkJRME1SMEp1ZldsODM5UFRkNnJXVlQ?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 16:10:00 GMT"
+      "source": "Design Week",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVXB3bVB0ZTVvSVZGRVJuclJQYzdMT29fYnZPYWZBRFN6QldRMWtka29KNW1lN2hXVDhaOFJEQTBiRDQtbTVqUG9TNmt0SjlNVjFRZDZDd0ZrQzBMVEhsTk5taGYzbFFSWGsySUFjWklpQkh5NU5rbjc0Z3J0MFNON2NrdjRuWTBMdVpYblduVi1TaW5PQmNMelVmNnVFcjVMMnRJNF81VQ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 11:00:10 GMT"
+    },
+    {
+      "headline": "BITS Design School opens 2027 applications",
+      "background": "BITS (Birla Institute of Technology and Science) is expanding its design education offering. This is an admissions announcement for its design school's 2027 intake.",
+      "keyFindings": [
+        "BITS Design School is accepting applications for the 2027 cohort",
+        "No specific program details, curriculum changes, or scholarship information are included in the available snippet"
+      ],
+      "implications": "Relevant only if you're actively tracking design education options in India or considering graduate programs. Insufficient detail in this item to evaluate program quality or focus.",
+      "tags": [
+        "Design Education",
+        "India",
+        "Admissions"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Passionate In Marketing",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmhqVEY0WnZLNnNZX1JLWTZWcjdkenFMamZiTktIMTZFRkt4eVBrQkNJZ1l1SXZaVlNrUEVQTkYwSnVaYXNmS1c2UFRubGlBSnMtZWRDRV8teGJKVWxCUUxVVDVwX0o5SEluNGV1UVlkNmFvQ1JvRnp2eUlFLWJpRExGaVRJcWZyYUUzV053?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 10:46:11 GMT"
+    },
+    {
+      "headline": "Sports betting apps are engineered to exploit cognitive biases",
+      "background": "Behavioral design techniques developed for engagement — variable rewards, loss framing, social proof — have been adapted aggressively by the gambling industry. This piece examines the specific psychological mechanisms embedded in sports betting app UX.",
+      "keyFindings": [
+        "Sports betting apps use variable ratio reinforcement schedules, the same mechanism behind slot machines, to sustain engagement",
+        "Near-miss design and pre-loaded bet suggestions are used to reduce friction at the point of wagering",
+        "Push notifications are timed to coincide with emotional peaks — post-win or during live events — to maximize impulsive action"
+      ],
+      "implications": "Directly relevant to anyone working on persuasive design or engagement mechanics — this is a clear case study in where dark patterns cause measurable harm. Useful reference for ethics discussions, pattern audits, or arguing against specific engagement design choices internally.",
+      "tags": [
+        "Dark Patterns",
+        "Persuasive Design",
+        "Ethics"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Columbia Daily Tribune",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYlo0OVoxNE5aQjFNMUJJUVhiQllSbkt4U3ZpR2RENm10bGhSenRrUVZXTXE5cFlMR3ZlcHNDbXlQNzdmU0JINktZQmVLdkh3Rm5FbTBFVDZJZm40TTRnb1dQM3ZBdFI2SVdHMjlDVnctSS10RzlFX3lfV013RW9HTERwaS1GVndBdVdYY0dKQnFVeE44aXQ3TUYyN0NoOU16VDNHWXR0ZGRKZzh0TDBySDBR?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 08:48:00 GMT"
     }
   ]
 }
