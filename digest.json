@@ -1,132 +1,179 @@
 {
-  "generatedAt": "2026-10-23T16:35:39.736Z",
+  "generatedAt": "2026-10-24T15:30:02.176Z",
   "items": [
     {
-      "headline": "Sketching helps designers think, not just communicate",
-      "background": "Digital tools dominate design workflows, but there's ongoing debate about whether screen-based work crowds out the kind of spatial, analogical thinking that leads to better system understanding. This piece argues for drawing as a cognitive tool, not just an output method.",
+      "headline": "Exit buttons deserve as much design care as start buttons.",
+      "background": "Digital product design has long optimized for engagement and retention, with onboarding flows and calls-to-action receiving heavy investment. The question of how — and whether — to help users stop, quit, or disengage is rarely treated with equal seriousness.",
       "keyFindings": [
-        "Drawing forces designers to externalize mental models, revealing gaps in system understanding before wireframes begin",
-        "Cross-disciplinary connections emerge more readily through sketching because it strips away tool-specific constraints",
-        "Hand-drawn artifacts create shared reference points that reduce misalignment between disciplines early in a project"
+        "Digital entertainment products routinely deprioritize exit paths, making it harder for users to stop consuming than to start.",
+        "Human attention is finite, and designs that obscure exit options exploit cognitive load rather than serve users.",
+        "Giving users clear freedom to stop is framed as a trust-building and ethical design obligation, not a conversion risk."
       ],
-      "implications": "Worth considering as a structured practice before opening Figma — particularly useful in discovery phases or when aligning with engineering and product on complex systems. Less about artistic skill, more about thinking speed and flexibility.",
+      "implications": "If you're designing any high-engagement product — streaming, gaming, social — audit your exit and session-end flows with the same rigor you apply to onboarding. Friction on the way out is a red flag for manipulative design patterns.",
       "tags": [
-        "Design Process",
-        "Sketching",
-        "Systems Thinking"
+        "Ethical Design",
+        "Engagement Patterns",
+        "Digital Wellbeing"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*xyt_To4u5LwGfTKGb8MYvA.png",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*WqHtkq9SiRIzsPYwc1D4dw.jpeg",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@jmcorada/thinking-with-your-hands-30aa5193f5e1?source=rss------product_design-5",
-      "pubDate": "Fri, 23 Oct 2026 16:18:14 GMT"
+      "link": "https://medium.com/patihtoto/mengapa-tombol-keluar-sama-pentingnya-dengan-tombol-mulai-a176fa694b5f?source=rss------product_design-5",
+      "pubDate": "Sat, 24 Oct 2026 14:38:58 GMT"
     },
     {
-      "headline": "Luxury titanium cuff by designer Hamid Motahari",
-      "background": "This is a product listing for a limited-edition wearable object combining industrial and craft materials. It is not an article relevant to UX, product design practice, or technology.",
+      "headline": "What your grocery cart reveals about UX decision architecture.",
+      "background": "Shopping cart design — physical and digital — is often used as a lens for understanding how environments shape user choices without explicit instruction. This piece uses the grocery cart as a case study in environmental UX and embedded decision prompts.",
       "keyFindings": [
-        "Limited-edition wearable combining charcoal titanium, sapphire, and hand-knotted carpet fragment",
-        "Produced in small numbered edition by designer Hamid Motahari"
+        "Physical grocery store layouts encode deliberate choice architecture that steers purchasing behavior before a conscious decision is made.",
+        "The shopping cart itself functions as a UX artifact — its size, placement, and defaults influence how much people buy.",
+        "Digital cart design inherits many of these same behavioral dynamics, including defaults, anchoring, and friction placement."
       ],
-      "implications": "No applicable UX, product, or tech implications. This appears to have been included in the feed in error.",
+      "implications": "Product designers can use the grocery cart framing to pressure-test their own checkout or cart flows: where are defaults doing the deciding for users, and is that intentional and transparent? Useful for e-commerce and any multi-step selection flow.",
       "tags": [
-        "Jewelry",
-        "Craft",
-        "Off-topic"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/0*RaObGt8YQd37G-7v.jpg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@hamidmotahari/selvedge-cuff-cuff-by-hamid-motahari-designer-eaddd4d3da01?source=rss------product_design-5",
-      "pubDate": "Fri, 23 Oct 2026 16:16:02 GMT"
-    },
-    {
-      "headline": "Two UI tweaks to increase basket size on a grocery app",
-      "background": "E-commerce product detail pages (PDPs) are a well-studied conversion bottleneck, but grocery apps face a specific challenge: getting users who came for one item to add complementary items without friction. This is a speculative redesign case study for Basil, a grocery delivery app.",
-      "keyFindings": [
-        "The author identifies two distinct 'levers' on the PDP for increasing multi-item add-to-cart rates",
-        "The redesign focuses on contextual product suggestions and reduced interaction cost at the point of item selection",
-        "Case study is speculative/unsolicited, so findings reflect design rationale rather than live A/B test data"
-      ],
-      "implications": "Useful as a pattern reference for anyone working on grocery or FMCG e-commerce PDPs, but treat recommendations as hypotheses — no conversion data is attached. The framing around 'levers' is a practical way to scope PDP experiments.",
-      "tags": [
+        "Choice Architecture",
         "E-commerce",
-        "Product Detail Page",
-        "Conversion"
+        "Behavioral Design"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1078/1*RMQQf7Ej0Tz_H5ESi06Hvg.png",
+      "image": "https://cdn-images-1.medium.com/max/1671/1*8idpQoCmbw57yjUM4B080g.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@utkarshkane43/two-levers-one-pdp-a7fa2e773776?source=rss------product_design-5",
-      "pubDate": "Fri, 23 Oct 2026 16:10:58 GMT"
+      "link": "https://medium.com/@aayshaagrawal5/everything-has-a-ux-journey-03-the-shopping-cart-knows-more-than-you-think-ffed64b2b09d?source=rss------product_design-5",
+      "pubDate": "Sat, 24 Oct 2026 14:31:01 GMT"
     },
     {
-      "headline": "Build a personal design foundation before adopting any process",
-      "background": "Designers are frequently told to follow established processes — Double Diamond, design sprints, jobs-to-be-done — but there's less guidance on what personal scaffolding a designer needs before a formal process adds value. This piece argues the starting point matters more than the process itself.",
+      "headline": "A CLAUDE.md file gives AI persistent memory of your preferences.",
+      "background": "Claude and similar LLMs reset context between sessions, meaning users must repeatedly re-explain their preferences, role, or working style. A workaround using a plain-text file called CLAUDE.md has emerged in developer and power-user communities but remains little known outside them.",
       "keyFindings": [
-        "The author distinguishes between a 'design process' (method) and a 'starting point' (personal principles, defaults, and decision heuristics)",
-        "Without a repeatable personal foundation, designers tend to restart from zero on each project, increasing inconsistency",
-        "The piece positions the foundation as something built deliberately over time, not inherited from a methodology"
+        "CLAUDE.md is a plain-text file that Claude reads at the start of sessions to load persistent user context, preferences, and instructions.",
+        "The file lives in a designated local directory and can be written in plain English — no coding required.",
+        "The author claims a useful CLAUDE.md can be drafted in under ten minutes and meaningfully reduces repetitive re-prompting."
       ],
-      "implications": "Relevant for mid-career designers who feel their work is inconsistent across projects or contexts. Less immediately applicable to juniors still learning established methods, but worth returning to once base competencies are in place.",
+      "implications": "If you use Claude regularly for design, writing, or research work, setting up a CLAUDE.md file is a low-effort way to recover continuity across sessions. Note this is Part 1 of 2 — implementation specifics may follow in the next installment.",
       "tags": [
-        "Design Process",
-        "Career Development",
-        "Design Thinking"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2400/1*QO7rrJNJHxfw0yxpcccqZg.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@uiux.angel/before-the-design-process-build-your-starting-point-a6d2666947ed?source=rss------ux-5",
-      "pubDate": "Fri, 23 Oct 2026 16:01:30 GMT"
-    },
-    {
-      "headline": "Carets beat chevrons and arrows in accordion components",
-      "background": "Accordion UI components are ubiquitous in navigation and content-heavy interfaces, but icon choice and interaction behavior vary widely across implementations. This Smashing Magazine piece systematically reviews which icon conventions cause confusion and which perform most reliably.",
-      "keyFindings": [
-        "Caret icons outperform arrows, plus/minus, and chevrons for communicating expand/collapse behavior in user testing",
-        "Split menus — where an icon and a text label trigger different actions — consistently cause errors and should be avoided",
-        "Linking icons and labels to separate actions violates users' expectations of unified interactive targets"
-      ],
-      "implications": "If you're building or auditing navigation components, this gives clear, evidence-backed icon guidance: use carets, keep icon and label as a single target, and avoid split-action menus entirely. Applicable to both mobile and desktop accordion patterns.",
-      "tags": [
-        "Navigation",
-        "UI Components",
-        "Interaction Design"
+        "AI tools",
+        "Productivity",
+        "Prompt Engineering"
       ],
       "featured": true,
-      "type": "research",
-      "category": "Design & dev",
+      "type": "opinion",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
-      "source": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
-      "pubDate": "Fri, 23 Oct 2026 13:00:00 GMT"
+      "image": "https://cdn-images-1.medium.com/max/2000/1*xo3kSbrXkS_FGjqsE3T4hw.png",
+      "source": "Product Design on Medium",
+      "link": "https://uxplanet.org/why-claude-keeps-forgetting-you-and-the-simple-note-that-fixes-it-5e4eb463fb3c?source=rss------product_design-5",
+      "pubDate": "Sat, 24 Oct 2026 14:04:36 GMT"
     },
     {
-      "headline": "Ladakh government runs UX4G workshop for digital governance",
-      "background": "India's UX4G (User Experience for Governance) initiative is a national program aimed at improving the usability of government digital services. This news item covers a workshop run by Ladakh's IT Department to apply these standards locally.",
+      "headline": "AI agent hijacked Mac windows mid-session — a real workspace hazard.",
+      "background": "AI agents that can control a desktop environment are moving from demos to real workflows, but their interaction with the host OS remains poorly defined. This firsthand account documents a concrete failure mode: an agent taking over window management in ways that disrupted the human user's active work.",
       "keyFindings": [
-        "The Union Territory of Ladakh's IT Department organized formal UX training under the central government's UX4G framework",
-        "The initiative targets improved citizen-facing digital service design, not just internal IT systems",
-        "This represents a regional rollout of a national UX standardization effort for public-sector digital products"
+        "An AI agent autonomously opened Safari and repositioned windows on the author's Mac without warning during an active session.",
+        "The disruption showed that AI agents operating in a shared desktop environment lack clear spatial boundaries separating their workspace from the user's.",
+        "The author argues AI agents need isolated or sandboxed desktop contexts to prevent collisions with human-controlled UI state."
       ],
-      "implications": "Relevant for designers or consultants working in civic tech or government digital services in India. UX4G is worth understanding as a compliance and design standard framework if you're building products for or with Indian government bodies.",
+      "implications": "For teams evaluating or building AI agent tooling that interacts with desktop environments, this is a concrete UX safety failure to design against — not a hypothetical. Sandboxing agent workspaces from user workspaces should be a baseline requirement, not an afterthought.",
+      "tags": [
+        "AI Agents",
+        "Desktop UX",
+        "Human-AI Interaction"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*N3A22a-4SXFCcLfj",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/design-bootcamp/my-ai-agent-opened-safari-on-its-own-desktop-my-windows-moved-with-it-87ae8320244d?source=rss------product_design-5",
+      "pubDate": "Sat, 24 Oct 2026 13:22:21 GMT"
+    },
+    {
+      "headline": "Top 10 Shopify agencies for e-commerce scaling in 2027.",
+      "background": "Listicle-style agency roundups are a common content marketing format with limited editorial independence. This piece ranks Shopify development agencies by claimed capability to help brands scale.",
+      "keyFindings": [
+        "The piece identifies ten Shopify development agencies positioned for e-commerce scaling work in 2027.",
+        "No methodology for ranking or selection criteria is visible in the snippet.",
+        "Publication source is India CSR, suggesting a PR or sponsored content context."
+      ],
+      "implications": "Treat this as a starting point for vendor discovery, not an independent assessment. Verify agency credentials and past work independently before engagement.",
+      "tags": [
+        "E-commerce",
+        "Agency Selection",
+        "Shopify"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "India CSR",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jRTdwdEZsTERNNGhqMmtrcjJTSkp3SzNwTzRiZWJIdlMxNkRIblRwRTlHMzFqWkV4Q1BLblNnQmNsZnZoTmZMVmRDTkJZOXZIY2lsWFEzblM3ZHZsU2kwek9IdmY4Uk80czM1T0FqWVFWdWZpYUE?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 13:14:42 GMT"
+    },
+    {
+      "headline": "BITS Design School opens 2027 B.Des Honours applications.",
+      "background": "Design education in India is expanding, with BITS Pilani's design school representing one of the more engineering-integrated design programs in the country.",
+      "keyFindings": [
+        "BITS Design School is accepting applications for its 2027 Bachelor of Design Honours programme.",
+        "No application deadline or programme structure details are included in the available snippet.",
+        "The announcement appears via College Mentor, an education listings platform."
+      ],
+      "implications": "Relevant mainly for those recruiting entry-level designers from Indian institutions or advising students on design education pathways. Limited detail available without clicking through.",
+      "tags": [
+        "Design Education",
+        "India",
+        "Recruitment Pipeline"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "College Mentor",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQjNzR3pyakYzRTU4eFZMWEJJYU9qQ2pXOTVjNndqMTFZbFJ3TGRzWklnQkQ5UDJOZVJMaWJTa0dzSk1CZ1M2VHktdnVkbmdtZXpENklvaHQ3alZZQmF4azAwVUlTM2F2c01oNG4wSkwtUTg1QVJSSTcyVUZfOTBTdDd2a2wzWlZRSXpRaFd6MnF4LWpYZkNialpHT1lmVmRUNWc5aWdDOA?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 06:16:17 GMT"
+    },
+    {
+      "headline": "Indian platform tackles deaf communication beyond sign language.",
+      "background": "Sign language tools and translation technology represent one strand of accessibility work for Deaf communities, but they don't address all communication scenarios — particularly for people who are deaf and don't use sign language fluently, or who communicate with hearing people who don't sign.",
+      "keyFindings": [
+        "An Indian online platform is developing communication tools for Deaf users that go beyond sign language as the primary modality.",
+        "The platform appears to target broader communication accessibility gaps within India's Deaf community.",
+        "Specific technology methods are not detailed in the snippet — text, visual, or hybrid approaches are possible."
+      ],
+      "implications": "For accessibility practitioners, this is a reminder that Deaf accessibility is not monolithic — solutions designed around sign language alone exclude significant portions of the community. Worth tracking for methodology details.",
+      "tags": [
+        "Accessibility",
+        "Inclusive Design",
+        "India"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "ThePrint",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY21zcUZ4Y2c1U1MtWWJMeDJFQ2dvU1BMVWJVSEM2WEN5Vjk0R1d4MVVERjcxZmY5bDJsS2VQZmVGLU9FMXh5eFpCa0o5RFdyMUFmRFFKeEgwdUxTWnI3WUpPNTgwWHhjTjhNbkRuckhTRkh6dVNIVVIzQmtuTlVLR2xsblJCUWt4Tzg0cTdLekRkSURIanF6RTFHYVR3Sl9x0gGmAUFVX3lxTE1Ga2pEaGFnTnNNNXRkOU1sNFFVaXZqY2RTZ3lmbVhWRGhab3VsNk1kbWhEbVJOcGh2VEJqcUlkZ3FLSHdwWldRbjJtSUJCV1BaWm9XRi1lSzVfUm1QSlVOYTgzQklsRTYtMDdLemlETUNJMzlMX3ZZOHhYRmpkMmJ5Rks5WW13Q0xRempXQmlJTV95c01VN3VKaUdvSmthaEQ5WFNMNkE?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 05:10:09 GMT"
+    },
+    {
+      "headline": "Ladakh IT workshop pushes UX standards into local government services.",
+      "background": "India's UX4G (User Experience for Governance) initiative is a central government framework aimed at improving the design quality of citizen-facing digital services. Adoption at the regional level has been uneven.",
+      "keyFindings": [
+        "Ladakh's IT Department ran a workshop specifically focused on UX4G to improve digital governance and citizen-facing services.",
+        "UX4G is a Government of India design framework — its extension to Ladakh represents regional rollout of a national standard.",
+        "The workshop format suggests training and awareness-building rather than product delivery."
+      ],
+      "implications": "For civic tech and govtech practitioners in India, UX4G adoption at the union territory level signals growing institutional appetite for design standards in public services. Worth understanding the UX4G framework if you work on government digital products.",
       "tags": [
         "Civic Tech",
-        "Government Digital Services",
+        "Government UX",
         "UX4G"
       ],
       "featured": false,
@@ -134,100 +181,55 @@
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Administration of Union Territory of Ladakh",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdC1Tb0RuZ0lLdGhuZkJaaWI5NERzWUxfTDI2cXpDVVU1dEx1NjNDdEhidWFWdjdENmNMaGd3QkxucG9kSUNNWlYzRGZIaHFaTHNST21TTHk5eTlTVUVjRnRGV18yZlM4WnNubU5CYXBlQ3Y2dG9hZ08xcnk1Zzc2cWtHWlRzTHlIUERMcVcyRHJNM0R3dE9LNV9WSEN4Nkl4cEJ0WjQzXzVON09WRDY3UFNNZ1JmTFE4andfMFdvWG81bTB6?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 11:46:40 GMT"
+      "source": "Daily Excelsior",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNWFyMEMxUEtsRkVGaDNwSWlZUnpCZmFEOXhMdmxQSkRMUWNDU1BOemFGVUNzUXhwbmp3OTZhSDZTcGV6eVZ0RjE3U21VSkFnX2ltQ3hhOFpzaWEyOXp0cFJFR2lkamxiUko5NDYxMGJFZEduMnVaaXlsUmpMei1GeFU1U0VUSjNWSndGbVJQVGMzVzVGSjVfSWk0NDZXME51Ynp5a3RMWlp0UzJOWlVKQVpKVk95dVJ0cmhJcGNUaENVbUgzWURWeUpn0gHOAUFVX3lxTE1fYy1FVHQxVWR3S0duWkZRcTZNYl9yVjZqTlptWkdWTElsNEhrNzVWVVhEaVpwNkdNUFc1Q1ljSVFOZkt4TVZydmZWcnh2VE1Pal9vUlcxQ0JzZThQNEpvampqYWQ2cGp6OUNfaE5CTm1PdnFqZGpyVUU5MTBvQlZtZlg3RVpRVUNzRW1YZWlQNUZZZTdCa1FmaEpQcGdDODVIZkRWSkxmaEJiZDVZZm04REV4NzB1djltcEY3QzNYUG1XLXp5aFJ2V21WelFB?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 23:19:45 GMT"
     },
     {
-      "headline": "Product design jobs still exist — but not as advertised",
-      "background": "Hiring slowdowns and role consolidation in tech have fueled anxiety about whether product design as a distinct discipline is contracting. Job postings increasingly describe hybrid or ambiguous roles, making it hard to assess the market accurately.",
+      "headline": "App development costs in 2026–27: $5K to $110K range explained.",
+      "background": "App development cost estimates vary wildly across vendors, regions, and complexity levels, making it difficult for product teams and founders to budget accurately. Pricing guides attempt to establish reference ranges but vary in transparency of methodology.",
       "keyFindings": [
-        "The author argues product design roles persist but have shifted in scope and expectation since 2022",
-        "Job postings frequently mislabel roles, combining design, research, and strategy in ways that obscure what's actually needed",
-        "The gap between posted job descriptions and actual day-to-day work is widening, requiring candidates to read between the lines"
+        "The guide prices app development across a range from $5,000 to $110,000 depending on scope and complexity.",
+        "No regional breakdown or team composition detail is visible in the snippet to explain the spread.",
+        "Source is WhaTech, a tech news aggregator — likely vendor-influenced content."
       ],
-      "implications": "Useful framing for designers currently job hunting or evaluating offers — take job titles and descriptions as rough signals, not specifications. Worth auditing your portfolio and skills against what companies actually need post-hire, not what they post.",
+      "implications": "Useful as a rough sanity-check range for scoping conversations with stakeholders, but not a substitute for detailed vendor quotes. The low end of this range typically reflects MVP scope with offshore teams; treat top-line numbers with caution.",
       "tags": [
-        "Product Design",
-        "Hiring",
-        "Career Development"
-      ],
-      "featured": true,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Medium",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTHZ4czJKOFlJclY1UEExMUp2WGU3d2FTSlhLMnpIMXJwRm1vcE9xVjZCLXJudGJaNnVRY3FNQ2NDZzRldEliX0U5X0hWUXZzUEdBS2ZzZzB4eTNJVi04SjBlM2MtaDV1R0JLUV91OE03LU5KZW9DdGNBUEl4NzJFUllpVlA2bHRncVBFOWxNdHBhZHZ2c2J6UUJnNVc2VHZuQ3VlRDhHdjFNcFpud0tWQVVtMVl5dw?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 11:14:39 GMT"
-    },
-    {
-      "headline": "Getty Images survives bankruptcy via Koch-backed deal",
-      "background": "Getty Images, one of the dominant stock photography and visual content licensing platforms used widely in digital product and media work, filed for bankruptcy after struggling with debt from its earlier merger with Shutterstock's competitor iStock and broader market pressure.",
-      "keyFindings": [
-        "Getty Images has filed for bankruptcy but continues operating under a financial restructuring deal backed by Koch Industries",
-        "The deal keeps the platform and its licensing catalog operational, avoiding disruption to existing customers",
-        "Bankruptcy was driven by debt load rather than revenue collapse — the business itself remains active"
-      ],
-      "implications": "No immediate disruption expected for teams using Getty licensing for product or marketing assets, but it's worth monitoring the restructuring terms. Long-term licensing agreements or bulk contracts may be worth reviewing given ownership changes.",
-      "tags": [
-        "Stock Photography",
-        "Media Industry",
-        "Licensing"
+        "Product Planning",
+        "App Development",
+        "Budgeting"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Design Week",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVXB3bVB0ZTVvSVZGRVJuclJQYzdMT29fYnZPYWZBRFN6QldRMWtka29KNW1lN2hXVDhaOFJEQTBiRDQtbTVqUG9TNmt0SjlNVjFRZDZDd0ZrQzBMVEhsTk5taGYzbFFSWGsySUFjWklpQkh5NU5rbjc0Z3J0MFNON2NrdjRuWTBMdVpYblduVi1TaW5PQmNMelVmNnVFcjVMMnRJNF81VQ?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 11:00:10 GMT"
+      "source": "WhaTech",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZnZ0azdISGRJaDJ5NVZ6WE1NNVZNTUQxZDZqT1JpeGZKT1JRaVI4VVZCTFZCMWhuY3d5a2U4OTdpSE5zTTdzNzV4WDJaajVSX3pNSVFGZGYzR3d1Qm9kZkJ6Y1dEUFdHY2cta3Nua2tFQWtoaVR2QnhoUmJPOVVycW5pQWYxVWVRT1NfdEktSjBXWFJwQnZpYTZvZlBkR2pFOVVyTVpXakJnOW9DNVBzSm1HNUhjcWJMWDc4OHppQ2ZvM3lrZFBhakZEWmpJVlNMUFo5atIB1AFBVV95cUxQZnZ0azdISGRJaDJ5NVZ6WE1NNVZNTUQxZDZqT1JpeGZKT1JRaVI4VVZCTFZCMWhuY3d5a2U4OTdpSE5zTTdzNzV4WDJaajVSX3pNSVFGZGYzR3d1Qm9kZkJ6Y1dEUFdHY2cta3Nua2tFQWtoaVR2QnhoUmJPOVVycW5pQWYxVWVRT1NfdEktSjBXWFJwQnZpYTZvZlBkR2pFOVVyTVpXakJnOW9DNVBzSm1HNUhjcWJMWDc4OHppQ2ZvM3lrZFBhakZEWmpJVlNMUFo5ag?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 20:32:29 GMT"
     },
     {
-      "headline": "BITS Design School opens 2027 applications",
-      "background": "BITS (Birla Institute of Technology and Science) is expanding its design education offering. This is an admissions announcement for its design school's 2027 intake.",
+      "headline": "Medicine delivery app costs in the USA: 2026–27 pricing guide.",
+      "background": "Healthcare app development carries additional compliance costs — HIPAA, pharmacy regulations, and integration with prescription systems — that generic app pricing guides don't capture. Specialized guides for vertical markets attempt to address this gap.",
       "keyFindings": [
-        "BITS Design School is accepting applications for the 2027 cohort",
-        "No specific program details, curriculum changes, or scholarship information are included in the available snippet"
+        "The guide focuses specifically on medicine delivery app development costs in the US market for 2026–2027.",
+        "Pricing range and breakdown methodology are not visible in the snippet.",
+        "Source is WhaTech — likely commercial or vendor-adjacent content."
       ],
-      "implications": "Relevant only if you're actively tracking design education options in India or considering graduate programs. Insufficient detail in this item to evaluate program quality or focus.",
+      "implications": "If you're scoping a health or pharmacy delivery product, use this as a starting reference but validate against compliance and integration costs separately — regulatory requirements like HIPAA significantly affect both timeline and budget in ways generic guides undercount.",
       "tags": [
-        "Design Education",
-        "India",
-        "Admissions"
+        "Healthcare Tech",
+        "App Development",
+        "Budgeting"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Passionate In Marketing",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmhqVEY0WnZLNnNZX1JLWTZWcjdkenFMamZiTktIMTZFRkt4eVBrQkNJZ1l1SXZaVlNrUEVQTkYwSnVaYXNmS1c2UFRubGlBSnMtZWRDRV8teGJKVWxCUUxVVDVwX0o5SEluNGV1UVlkNmFvQ1JvRnp2eUlFLWJpRExGaVRJcWZyYUUzV053?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 10:46:11 GMT"
-    },
-    {
-      "headline": "Sports betting apps are engineered to exploit cognitive biases",
-      "background": "Behavioral design techniques developed for engagement — variable rewards, loss framing, social proof — have been adapted aggressively by the gambling industry. This piece examines the specific psychological mechanisms embedded in sports betting app UX.",
-      "keyFindings": [
-        "Sports betting apps use variable ratio reinforcement schedules, the same mechanism behind slot machines, to sustain engagement",
-        "Near-miss design and pre-loaded bet suggestions are used to reduce friction at the point of wagering",
-        "Push notifications are timed to coincide with emotional peaks — post-win or during live events — to maximize impulsive action"
-      ],
-      "implications": "Directly relevant to anyone working on persuasive design or engagement mechanics — this is a clear case study in where dark patterns cause measurable harm. Useful reference for ethics discussions, pattern audits, or arguing against specific engagement design choices internally.",
-      "tags": [
-        "Dark Patterns",
-        "Persuasive Design",
-        "Ethics"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Columbia Daily Tribune",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYlo0OVoxNE5aQjFNMUJJUVhiQllSbkt4U3ZpR2RENm10bGhSenRrUVZXTXE5cFlMR3ZlcHNDbXlQNzdmU0JINktZQmVLdkh3Rm5FbTBFVDZJZm40TTRnb1dQM3ZBdFI2SVdHMjlDVnctSS10RzlFX3lfV013RW9HTERwaS1GVndBdVdYY0dKQnFVeE44aXQ3TUYyN0NoOU16VDNHWXR0ZGRKZzh0TDBySDBR?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 08:48:00 GMT"
+      "source": "WhaTech",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSVFQcFdWSVk4dFc5eVRzaU9BRjlGSW9LNm9uZWhnSThnRloyQ0ZxQ0x0bnZ1ZFJwakxLdzE5bmtGdHlndV9LN2szM0IycDBNRXYtWEswNEFxUzZDVjZXXzhlSi0wSDE4dnU1Ung5T2lrUjNjM1NBdHFJaGJzSWU2b1M0WkFtVXE0cUdOaTlPVEZoQzZFX1JGSXlEbko2MVZ1Wnh6SktkekpUeWNGdlRYX1lkbTUtaXR0NVZYYnhCV1puNXI1SWk3Y3RpU1FNNkdYVmJlNlJRaDZmMEZ4SU1n0gHfAUFVX3lxTE9JUVBwV1ZJWTh0Vzl5VHNpT0FGOUZJb0s2b25laGdJOGdGWjJDRnFDTHRudnVkUnBqTEt3MTlua0Z0eWd1X0s3azMzQjJwME1Fdi1YSzA0QXFTNkNWNldfOGVKLTBIMTh2dTVSeDlPaWtSM2MzU0F0cUloYnNJZTZvUzRaQW1VcTRxR05pOU9URmhDNkVfUkZJeURuSjYxVnVaeHpKS2R6SlR5Y0Z2VFhfWWRtNS1pdHQ1VlhieEJXWm41cjVJaTdjdGlTUU02R1hWYmU2UlFoNmYwRnhJTWc?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 20:32:29 GMT"
     }
   ]
 }
