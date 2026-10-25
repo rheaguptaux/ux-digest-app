@@ -1,235 +1,207 @@
 {
-  "generatedAt": "2026-10-24T15:30:02.176Z",
+  "generatedAt": "2026-10-25T15:39:32.600Z",
   "items": [
     {
-      "headline": "Exit buttons deserve as much design care as start buttons.",
-      "background": "Digital product design has long optimized for engagement and retention, with onboarding flows and calls-to-action receiving heavy investment. The question of how — and whether — to help users stop, quit, or disengage is rarely treated with equal seriousness.",
+      "headline": "Test landing pages by asking readers to explain them back",
+      "background": "Landing page copy is notoriously hard to evaluate internally because authors are too close to the product to judge clarity. Most feedback methods ask for opinions rather than testing actual comprehension.",
       "keyFindings": [
-        "Digital entertainment products routinely deprioritize exit paths, making it harder for users to stop consuming than to start.",
-        "Human attention is finite, and designs that obscure exit options exploit cognitive load rather than serve users.",
-        "Giving users clear freedom to stop is framed as a trust-building and ethical design obligation, not a conversion risk."
+        "Ask new readers to describe what the product does, who it's for, and what happens after the CTA — before asking for opinions",
+        "Mismatches between intended and perceived purpose reveal messaging failures that aesthetic feedback misses",
+        "This method surfaces ambiguity in value propositions that founders and designers routinely overlook"
       ],
-      "implications": "If you're designing any high-engagement product — streaming, gaming, social — audit your exit and session-end flows with the same rigor you apply to onboarding. Friction on the way out is a red flag for manipulative design patterns.",
+      "implications": "This technique is low-cost and applicable before any formal usability testing — useful for early-stage products or redesigns. If readers can't accurately describe the product unprompted, the copy needs work regardless of how good it looks.",
       "tags": [
-        "Ethical Design",
-        "Engagement Patterns",
-        "Digital Wellbeing"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*WqHtkq9SiRIzsPYwc1D4dw.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/patihtoto/mengapa-tombol-keluar-sama-pentingnya-dengan-tombol-mulai-a176fa694b5f?source=rss------product_design-5",
-      "pubDate": "Sat, 24 Oct 2026 14:38:58 GMT"
-    },
-    {
-      "headline": "What your grocery cart reveals about UX decision architecture.",
-      "background": "Shopping cart design — physical and digital — is often used as a lens for understanding how environments shape user choices without explicit instruction. This piece uses the grocery cart as a case study in environmental UX and embedded decision prompts.",
-      "keyFindings": [
-        "Physical grocery store layouts encode deliberate choice architecture that steers purchasing behavior before a conscious decision is made.",
-        "The shopping cart itself functions as a UX artifact — its size, placement, and defaults influence how much people buy.",
-        "Digital cart design inherits many of these same behavioral dynamics, including defaults, anchoring, and friction placement."
-      ],
-      "implications": "Product designers can use the grocery cart framing to pressure-test their own checkout or cart flows: where are defaults doing the deciding for users, and is that intentional and transparent? Useful for e-commerce and any multi-step selection flow.",
-      "tags": [
-        "Choice Architecture",
-        "E-commerce",
-        "Behavioral Design"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1671/1*8idpQoCmbw57yjUM4B080g.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@aayshaagrawal5/everything-has-a-ux-journey-03-the-shopping-cart-knows-more-than-you-think-ffed64b2b09d?source=rss------product_design-5",
-      "pubDate": "Sat, 24 Oct 2026 14:31:01 GMT"
-    },
-    {
-      "headline": "A CLAUDE.md file gives AI persistent memory of your preferences.",
-      "background": "Claude and similar LLMs reset context between sessions, meaning users must repeatedly re-explain their preferences, role, or working style. A workaround using a plain-text file called CLAUDE.md has emerged in developer and power-user communities but remains little known outside them.",
-      "keyFindings": [
-        "CLAUDE.md is a plain-text file that Claude reads at the start of sessions to load persistent user context, preferences, and instructions.",
-        "The file lives in a designated local directory and can be written in plain English — no coding required.",
-        "The author claims a useful CLAUDE.md can be drafted in under ten minutes and meaningfully reduces repetitive re-prompting."
-      ],
-      "implications": "If you use Claude regularly for design, writing, or research work, setting up a CLAUDE.md file is a low-effort way to recover continuity across sessions. Note this is Part 1 of 2 — implementation specifics may follow in the next installment.",
-      "tags": [
-        "AI tools",
-        "Productivity",
-        "Prompt Engineering"
+        "Landing Pages",
+        "Copy Testing",
+        "Conversion"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2000/1*xo3kSbrXkS_FGjqsE3T4hw.png",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*-WvjnD2nPy0q01B9G9kUAA.png",
       "source": "Product Design on Medium",
-      "link": "https://uxplanet.org/why-claude-keeps-forgetting-you-and-the-simple-note-that-fixes-it-5e4eb463fb3c?source=rss------product_design-5",
-      "pubDate": "Sat, 24 Oct 2026 14:04:36 GMT"
+      "link": "https://medium.com/@atomicsdigital/landing-page-feedback-ask-readers-to-explain-the-product-back-to-you-0f89f6b73169?source=rss------product_design-5",
+      "pubDate": "Sun, 25 Oct 2026 14:59:55 GMT"
     },
     {
-      "headline": "AI agent hijacked Mac windows mid-session — a real workspace hazard.",
-      "background": "AI agents that can control a desktop environment are moving from demos to real workflows, but their interaction with the host OS remains poorly defined. This firsthand account documents a concrete failure mode: an agent taking over window management in ways that disrupted the human user's active work.",
+      "headline": "Off-topic: DIY baby playpen build guide",
+      "background": "No relevance to UX, product, or tech work.",
       "keyFindings": [
-        "An AI agent autonomously opened Safari and repositioned windows on the author's Mac without warning during an active session.",
-        "The disruption showed that AI agents operating in a shared desktop environment lack clear spatial boundaries separating their workspace from the user's.",
-        "The author argues AI agents need isolated or sandboxed desktop contexts to prevent collisions with human-controlled UI state."
+        "Not applicable"
       ],
-      "implications": "For teams evaluating or building AI agent tooling that interacts with desktop environments, this is a concrete UX safety failure to design against — not a hypothetical. Sandboxing agent workspaces from user workspaces should be a baseline requirement, not an afterthought.",
+      "implications": "Not applicable to this digest's scope.",
       "tags": [
-        "AI Agents",
-        "Desktop UX",
-        "Human-AI Interaction"
+        "Off-topic"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1868/1*djT5q1Qu8cxdIlE-jzGE-w.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@pandulago/how-i-built-a-custom-diy-playpen-for-my-baby-and-solved-a-local-sourcing-problem-fef940917072?source=rss------product_design-5",
+      "pubDate": "Sun, 25 Oct 2026 14:46:35 GMT"
+    },
+    {
+      "headline": "Utility-first features are the hardest to design well",
+      "background": "Product teams often prioritize flashy, shareable features over the unglamorous functional ones users depend on daily. This piece uses a meal planning app's ingredient list as a case study in designing for silent, high-stakes utility.",
+      "keyFindings": [
+        "Users never talk about functional features like grocery lists — but abandonment spikes when they fail",
+        "Precise formatting details like units, quantities, and ingredient grouping carry disproportionate usability weight",
+        "The absence of complaints about utility features is not evidence they're working — it's a measurement gap"
+      ],
+      "implications": "If you're building productivity or planning tools, invest QA and design attention in the mundane data-entry and output features, not just the ones that demo well. Silence from users about a feature is not the same as satisfaction.",
+      "tags": [
+        "Product Design",
+        "Utility Features",
+        "Meal Planning"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/0*N3A22a-4SXFCcLfj",
+      "image": null,
       "source": "Product Design on Medium",
-      "link": "https://medium.com/design-bootcamp/my-ai-agent-opened-safari-on-its-own-desktop-my-windows-moved-with-it-87ae8320244d?source=rss------product_design-5",
-      "pubDate": "Sat, 24 Oct 2026 13:22:21 GMT"
+      "link": "https://medium.com/@joshua_cohen_72053/nobody-brags-about-a-grocery-list-thats-why-it-s-the-hardest-thing-i-build-d6278499b7a8?source=rss------product_design-5",
+      "pubDate": "Sun, 25 Oct 2026 14:08:06 GMT"
     },
     {
-      "headline": "Top 10 Shopify agencies for e-commerce scaling in 2027.",
-      "background": "Listicle-style agency roundups are a common content marketing format with limited editorial independence. This piece ranks Shopify development agencies by claimed capability to help brands scale.",
+      "headline": "Off-topic: weekly reading list roundup",
+      "background": "A personal reading digest with no direct UX or product relevance in the snippet.",
       "keyFindings": [
-        "The piece identifies ten Shopify development agencies positioned for e-commerce scaling work in 2027.",
-        "No methodology for ranking or selection criteria is visible in the snippet.",
-        "Publication source is India CSR, suggesting a PR or sponsored content context."
+        "Not applicable"
       ],
-      "implications": "Treat this as a starting point for vendor discovery, not an independent assessment. Verify agency credentials and past work independently before engagement.",
+      "implications": "Not applicable to this digest's scope.",
       "tags": [
-        "E-commerce",
-        "Agency Selection",
-        "Shopify"
+        "Off-topic"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "UX on Medium",
+      "link": "https://jchyip.medium.com/what-ive-been-reading-week-ending-25-october-2026-36ce0606db0a?source=rss------ux-5",
+      "pubDate": "Sun, 25 Oct 2026 13:33:11 GMT"
+    },
+    {
+      "headline": "Nigerian VC pushes for mandatory AI literacy in schools",
+      "background": "Debates over how early and formally AI and digital skills should be taught are intensifying globally, with industry voices increasingly pressuring governments to embed them in national curricula.",
+      "keyFindings": [
+        "A Nigerian venture capitalist has formally urged the federal government to make AI and digital literacy compulsory subjects in schools",
+        "The call reflects growing concern that Nigeria's workforce pipeline is underprepared for AI-integrated industries",
+        "No specific curriculum framework or timeline was outlined in the reported recommendation"
+      ],
+      "implications": "Relevant for those working on edtech products or designing onboarding for non-technical users in emerging markets — baseline digital literacy cannot be assumed and is a live policy issue, not a solved one.",
+      "tags": [
+        "AI Literacy",
+        "Edtech",
+        "Policy"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "India CSR",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jRTdwdEZsTERNNGhqMmtrcjJTSkp3SzNwTzRiZWJIdlMxNkRIblRwRTlHMzFqWkV4Q1BLblNnQmNsZnZoTmZMVmRDTkJZOXZIY2lsWFEzblM3ZHZsU2kwek9IdmY4Uk80czM1T0FqWVFWdWZpYUE?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 13:14:42 GMT"
+      "source": "The Guardian Nigeria News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQREY3bUctaHB0S3NWTkktXzRCU1pwVTlMak9ua0dZUzdrbWE3OXBKNjRpLWdESVVJSElEbHpYQVJWdFdaSW5SZ2lMUjFzWm1zaEtrRXBhLXV2Si00M1hCd0VERFRlaE95MjN5dHB5cUdxd0dPblJkbVdoa014NnhKSlNteVdUYzdtTUtwclZkM24zUU0?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 12:47:34 GMT"
     },
     {
-      "headline": "BITS Design School opens 2027 B.Des Honours applications.",
-      "background": "Design education in India is expanding, with BITS Pilani's design school representing one of the more engineering-integrated design programs in the country.",
+      "headline": "Off-topic: vivo V80 product launch announcement",
+      "background": "A press release for a smartphone launch in Egypt with no substantive UX or product design findings.",
       "keyFindings": [
-        "BITS Design School is accepting applications for its 2027 Bachelor of Design Honours programme.",
-        "No application deadline or programme structure details are included in the available snippet.",
-        "The announcement appears via College Mentor, an education listings platform."
+        "Not applicable"
       ],
-      "implications": "Relevant mainly for those recruiting entry-level designers from Indian institutions or advising students on design education pathways. Limited detail available without clicking through.",
+      "implications": "Not applicable to this digest's scope.",
       "tags": [
-        "Design Education",
-        "India",
-        "Recruitment Pipeline"
+        "Off-topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "College Mentor",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQjNzR3pyakYzRTU4eFZMWEJJYU9qQ2pXOTVjNndqMTFZbFJ3TGRzWklnQkQ5UDJOZVJMaWJTa0dzSk1CZ1M2VHktdnVkbmdtZXpENklvaHQ3alZZQmF4azAwVUlTM2F2c01oNG4wSkwtUTg1QVJSSTcyVUZfOTBTdDd2a2wzWlZRSXpRaFd6MnF4LWpYZkNialpHT1lmVmRUNWc5aWdDOA?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 06:16:17 GMT"
+      "source": "almotawwer.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UY1FPMXFaYWNRSmdWVG40dUZFdEdGUEMtMEMwYXpBUHI1Y3ljMWltdWluRzh5ekhWNVFqMUZKNGtrM2U3S3BNSDItdE12X00?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 12:18:23 GMT"
     },
     {
-      "headline": "Indian platform tackles deaf communication beyond sign language.",
-      "background": "Sign language tools and translation technology represent one strand of accessibility work for Deaf communities, but they don't address all communication scenarios — particularly for people who are deaf and don't use sign language fluently, or who communicate with hearing people who don't sign.",
+      "headline": "Off-topic: medical recovery video log",
+      "background": "Unrelated to UX, product, or technology topics.",
       "keyFindings": [
-        "An Indian online platform is developing communication tools for Deaf users that go beyond sign language as the primary modality.",
-        "The platform appears to target broader communication accessibility gaps within India's Deaf community.",
-        "Specific technology methods are not detailed in the snippet — text, visual, or hybrid approaches are possible."
+        "Not applicable"
       ],
-      "implications": "For accessibility practitioners, this is a reminder that Deaf accessibility is not monolithic — solutions designed around sign language alone exclude significant portions of the community. Worth tracking for methodology details.",
+      "implications": "Not applicable to this digest's scope.",
       "tags": [
-        "Accessibility",
-        "Inclusive Design",
-        "India"
+        "Off-topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "ThePrint",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY21zcUZ4Y2c1U1MtWWJMeDJFQ2dvU1BMVWJVSEM2WEN5Vjk0R1d4MVVERjcxZmY5bDJsS2VQZmVGLU9FMXh5eFpCa0o5RFdyMUFmRFFKeEgwdUxTWnI3WUpPNTgwWHhjTjhNbkRuckhTRkh6dVNIVVIzQmtuTlVLR2xsblJCUWt4Tzg0cTdLekRkSURIanF6RTFHYVR3Sl9x0gGmAUFVX3lxTE1Ga2pEaGFnTnNNNXRkOU1sNFFVaXZqY2RTZ3lmbVhWRGhab3VsNk1kbWhEbVJOcGh2VEJqcUlkZ3FLSHdwWldRbjJtSUJCV1BaWm9XRi1lSzVfUm1QSlVOYTgzQklsRTYtMDdLemlETUNJMzlMX3ZZOHhYRmpkMmJ5Rks5WW13Q0xRempXQmlJTV95c01VN3VKaUdvSmthaEQ5WFNMNkE?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 05:10:09 GMT"
+      "source": "Unisba Media",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrdHRBVjk0dFl6c0JWdU9LbVpzQ200MzBYb3d1b1ZJcmwydnBFUWZnaFVoS1FWdnZZOHZKUVAyRWpCLV9wVTlGWk5FcjBvemFMbnlfODIxYnA0Y0FtN1VPamgxUTFqZzhCcy1r?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 00:12:51 GMT"
     },
     {
-      "headline": "Ladakh IT workshop pushes UX standards into local government services.",
-      "background": "India's UX4G (User Experience for Governance) initiative is a central government framework aimed at improving the design quality of citizen-facing digital services. Adoption at the regional level has been uneven.",
+      "headline": "Off-topic: local Arkansas news briefs",
+      "background": "Regional news items with no relevance to UX, product, or tech.",
       "keyFindings": [
-        "Ladakh's IT Department ran a workshop specifically focused on UX4G to improve digital governance and citizen-facing services.",
-        "UX4G is a Government of India design framework — its extension to Ladakh represents regional rollout of a national standard.",
-        "The workshop format suggests training and awareness-building rather than product delivery."
+        "Not applicable"
       ],
-      "implications": "For civic tech and govtech practitioners in India, UX4G adoption at the union territory level signals growing institutional appetite for design standards in public services. Worth understanding the UX4G framework if you work on government digital products.",
+      "implications": "Not applicable to this digest's scope.",
       "tags": [
-        "Civic Tech",
-        "Government UX",
-        "UX4G"
+        "Off-topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Daily Excelsior",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNWFyMEMxUEtsRkVGaDNwSWlZUnpCZmFEOXhMdmxQSkRMUWNDU1BOemFGVUNzUXhwbmp3OTZhSDZTcGV6eVZ0RjE3U21VSkFnX2ltQ3hhOFpzaWEyOXp0cFJFR2lkamxiUko5NDYxMGJFZEduMnVaaXlsUmpMei1GeFU1U0VUSjNWSndGbVJQVGMzVzVGSjVfSWk0NDZXME51Ynp5a3RMWlp0UzJOWlVKQVpKVk95dVJ0cmhJcGNUaENVbUgzWURWeUpn0gHOAUFVX3lxTE1fYy1FVHQxVWR3S0duWkZRcTZNYl9yVjZqTlptWkdWTElsNEhrNzVWVVhEaVpwNkdNUFc1Q1ljSVFOZkt4TVZydmZWcnh2VE1Pal9vUlcxQ0JzZThQNEpvampqYWQ2cGp6OUNfaE5CTm1PdnFqZGpyVUU5MTBvQlZtZlg3RVpRVUNzRW1YZWlQNUZZZTdCa1FmaEpQcGdDODVIZkRWSkxmaEJiZDVZZm04REV4NzB1djltcEY3QzNYUG1XLXp5aFJ2V21WelFB?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 23:19:45 GMT"
+      "source": "Talk Business & Politics",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQazVOZDg5dTVRcXZJLTRuQkZRNVBwY2ZTeHFrX0JJdUNyVmJ6eTFVLVQ5ZlZMS0czekFUMDhrcEpVWE5STVk1aGo0cGc3OGk1VEhSSmxCWjZRQW1xUFRlaGxNOFRDRWNmdXRTRkpXaEItYnVWczlFYXNxU20tV3dUQmpXa1psSzROVWNJYnRJOGRjUlpVek5tSEhyckR6UnpHSEswYUwxNk1mN0tqU1pKWUtuUHdJZVhlektCUDhVdy0tZw?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 15:55:27 GMT"
     },
     {
-      "headline": "App development costs in 2026–27: $5K to $110K range explained.",
-      "background": "App development cost estimates vary wildly across vendors, regions, and complexity levels, making it difficult for product teams and founders to budget accurately. Pricing guides attempt to establish reference ranges but vary in transparency of methodology.",
+      "headline": "Off-topic: Ipsos research event listing",
+      "background": "An event announcement with insufficient detail to extract substantive findings.",
       "keyFindings": [
-        "The guide prices app development across a range from $5,000 to $110,000 depending on scope and complexity.",
-        "No regional breakdown or team composition detail is visible in the snippet to explain the spread.",
-        "Source is WhaTech, a tech news aggregator — likely vendor-influenced content."
+        "Not applicable"
       ],
-      "implications": "Useful as a rough sanity-check range for scoping conversations with stakeholders, but not a substitute for detailed vendor quotes. The low end of this range typically reflects MVP scope with offshore teams; treat top-line numbers with caution.",
+      "implications": "Not applicable to this digest's scope.",
       "tags": [
-        "Product Planning",
-        "App Development",
-        "Budgeting"
+        "Off-topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
-      "publishedWindow": "today",
+      "publishedWindow": "week",
       "image": null,
-      "source": "WhaTech",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZnZ0azdISGRJaDJ5NVZ6WE1NNVZNTUQxZDZqT1JpeGZKT1JRaVI4VVZCTFZCMWhuY3d5a2U4OTdpSE5zTTdzNzV4WDJaajVSX3pNSVFGZGYzR3d1Qm9kZkJ6Y1dEUFdHY2cta3Nua2tFQWtoaVR2QnhoUmJPOVVycW5pQWYxVWVRT1NfdEktSjBXWFJwQnZpYTZvZlBkR2pFOVVyTVpXakJnOW9DNVBzSm1HNUhjcWJMWDc4OHppQ2ZvM3lrZFBhakZEWmpJVlNMUFo5atIB1AFBVV95cUxQZnZ0azdISGRJaDJ5NVZ6WE1NNVZNTUQxZDZqT1JpeGZKT1JRaVI4VVZCTFZCMWhuY3d5a2U4OTdpSE5zTTdzNzV4WDJaajVSX3pNSVFGZGYzR3d1Qm9kZkJ6Y1dEUFdHY2cta3Nua2tFQWtoaVR2QnhoUmJPOVVycW5pQWYxVWVRT1NfdEktSjBXWFJwQnZpYTZvZlBkR2pFOVVyTVpXakJnOW9DNVBzSm1HNUhjcWJMWDc4OHppQ2ZvM3lrZFBhakZEWmpJVlNMUFo5ag?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 20:32:29 GMT"
+      "source": "Ipsos",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CVHZDT0p5RFVPcHpVMzN1QVkxYjgwb0RiQkRrTUhEb2dvazhvZVhwb0pWMVBpUEZRZS1Zd1lKWEgtT1plY0ZieWxEMmZCbjlFSHc5WElycWV1VTVycmpRX09DeGJ5OTBrOExjbUI2MEhMdw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 18:48:41 GMT"
     },
     {
-      "headline": "Medicine delivery app costs in the USA: 2026–27 pricing guide.",
-      "background": "Healthcare app development carries additional compliance costs — HIPAA, pharmacy regulations, and integration with prescription systems — that generic app pricing guides don't capture. Specialized guides for vertical markets attempt to address this gap.",
+      "headline": "Off-topic: biopharma drug development process critique",
+      "background": "An industry-specific argument about linear versus parallel workflows in biopharma DMTA cycles — outside this digest's scope.",
       "keyFindings": [
-        "The guide focuses specifically on medicine delivery app development costs in the US market for 2026–2027.",
-        "Pricing range and breakdown methodology are not visible in the snippet.",
-        "Source is WhaTech — likely commercial or vendor-adjacent content."
+        "Not applicable"
       ],
-      "implications": "If you're scoping a health or pharmacy delivery product, use this as a starting reference but validate against compliance and integration costs separately — regulatory requirements like HIPAA significantly affect both timeline and budget in ways generic guides undercount.",
+      "implications": "Not applicable to this digest's scope.",
       "tags": [
-        "Healthcare Tech",
-        "App Development",
-        "Budgeting"
+        "Off-topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
-      "publishedWindow": "today",
+      "publishedWindow": "week",
       "image": null,
-      "source": "WhaTech",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSVFQcFdWSVk4dFc5eVRzaU9BRjlGSW9LNm9uZWhnSThnRloyQ0ZxQ0x0bnZ1ZFJwakxLdzE5bmtGdHlndV9LN2szM0IycDBNRXYtWEswNEFxUzZDVjZXXzhlSi0wSDE4dnU1Ung5T2lrUjNjM1NBdHFJaGJzSWU2b1M0WkFtVXE0cUdOaTlPVEZoQzZFX1JGSXlEbko2MVZ1Wnh6SktkekpUeWNGdlRYX1lkbTUtaXR0NVZYYnhCV1puNXI1SWk3Y3RpU1FNNkdYVmJlNlJRaDZmMEZ4SU1n0gHfAUFVX3lxTE9JUVBwV1ZJWTh0Vzl5VHNpT0FGOUZJb0s2b25laGdJOGdGWjJDRnFDTHRudnVkUnBqTEt3MTlua0Z0eWd1X0s3azMzQjJwME1Fdi1YSzA0QXFTNkNWNldfOGVKLTBIMTh2dTVSeDlPaWtSM2MzU0F0cUloYnNJZTZvUzRaQW1VcTRxR05pOU9URmhDNkVfUkZJeURuSjYxVnVaeHpKS2R6SlR5Y0Z2VFhfWWRtNS1pdHQ1VlhieEJXWm41cjVJaTdjdGlTUU02R1hWYmU2UlFoNmYwRnhJTWc?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 20:32:29 GMT"
+      "source": "Fierce Pharma",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYmh3SDA5NHlnbTBrUW1JcUJNUVpraUl0dXVpRkg3MGJscE93LXg4Ql9nN2ZhUWR5MWM4VElNNi0xdEF6RnBoRGpLTkhzdG80N3RnYms4NF80YjktOG9BVWlJT19oQjRXVDFOckU0TENaazQwQm9zd2RBa2dnWDBBX0xtWXRxYklZcE9DQQ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 18:11:03 GMT"
     }
   ]
 }
