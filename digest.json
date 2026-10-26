@@ -1,207 +1,223 @@
 {
-  "generatedAt": "2026-10-25T15:39:32.600Z",
+  "generatedAt": "2026-10-26T18:20:50.600Z",
   "items": [
     {
-      "headline": "Test landing pages by asking readers to explain them back",
-      "background": "Landing page copy is notoriously hard to evaluate internally because authors are too close to the product to judge clarity. Most feedback methods ask for opinions rather than testing actual comprehension.",
+      "headline": "UPI's Split Pay Feature Is Buried and Unusable",
+      "background": "Split payment is one of the most-used everyday features across UPI apps like GPay, PhonePe, and Paytm, yet users routinely struggle to locate it despite it being present in all major apps. This piece is a practitioner's case study in feature discoverability failure.",
       "keyFindings": [
-        "Ask new readers to describe what the product does, who it's for, and what happens after the CTA — before asking for opinions",
-        "Mismatches between intended and perceived purpose reveal messaging failures that aesthetic feedback misses",
-        "This method surfaces ambiguity in value propositions that founders and designers routinely overlook"
+        "Split pay exists in every major UPI app but is consistently hidden behind non-obvious navigation paths",
+        "The feature suffers from inconsistent labeling and entry points across apps, creating relearning friction for users who switch",
+        "A small information architecture change — surfacing split pay closer to the transaction confirmation screen — could significantly reduce drop-off"
       ],
-      "implications": "This technique is low-cost and applicable before any formal usability testing — useful for early-stage products or redesigns. If readers can't accurately describe the product unprompted, the copy needs work regardless of how good it looks.",
+      "implications": "A useful reminder that shipping a feature is not the same as making it usable. If a high-frequency feature requires search or prior knowledge to find, treat it as a discoverability bug, not a user education problem.",
       "tags": [
-        "Landing Pages",
-        "Copy Testing",
-        "Conversion"
+        "Information Architecture",
+        "Mobile UX",
+        "Fintech"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1109/1*2IeocGf3WAxCXK6NjlBj5w.png",
+      "source": "Product Design on Medium",
+      "link": "https://sharma-garima.medium.com/every-upi-app-has-split-pay-why-cant-i-find-it-48bbf04169a6?source=rss------product_design-5",
+      "pubDate": "Mon, 26 Oct 2026 18:19:56 GMT"
+    },
+    {
+      "headline": "Kids Room Jungle Wall Mural Product Listing",
+      "background": "This is a product listing, not an editorial article.",
+      "keyFindings": [
+        "Not a news or research article — no findings applicable"
+      ],
+      "implications": "No relevance to UX, product, or tech practice. Exclude from digest.",
+      "tags": [
+        "Off-topic"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2160/1*c7F4EDsSq9U4uVi3Hp4S6w.jpeg",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@kumarrakesh2108/jungle-safari-adventure-wall-mural-for-kids-room-lion-tiger-elephant-monkeys-dolphins-and-207d571e8d8d?source=rss------product_design-5",
+      "pubDate": "Mon, 26 Oct 2026 17:15:26 GMT"
+    },
+    {
+      "headline": "Built a Component Library With Claude Code in One Day",
+      "background": "AI coding assistants are increasingly being used to accelerate front-end design system work, but there is limited honest documentation of what that process actually looks like end-to-end, including where it breaks down. This is a practitioner's first-person account.",
+      "keyFindings": [
+        "A functional component library was scaffolded in a single day using Claude Code, covering components that would typically take weeks to build manually",
+        "Claude handled repetitive boilerplate and prop structure well but required significant human intervention for edge cases, accessibility attributes, and visual consistency",
+        "The author notes that knowing what to ask — having a clear component spec in advance — was the primary bottleneck, not the AI's output speed"
+      ],
+      "implications": "Relevant for design system teams or solo product designers considering AI-assisted development. The workflow compresses time on structure but still demands strong upfront design thinking; it is not a shortcut around component specification work.",
+      "tags": [
+        "Design Systems",
+        "AI tools",
+        "Component Libraries"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*-WvjnD2nPy0q01B9G9kUAA.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*Sk37P0CAAZh5D11Wh2HeKA.jpeg",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@atomicsdigital/landing-page-feedback-ask-readers-to-explain-the-product-back-to-you-0f89f6b73169?source=rss------product_design-5",
-      "pubDate": "Sun, 25 Oct 2026 14:59:55 GMT"
+      "link": "https://medium.com/@ShriyaParanjpe/how-i-built-a-component-library-from-scratch-in-claude-code-in-a-day-3afe0cd6dbd8?source=rss------product_design-5",
+      "pubDate": "Mon, 26 Oct 2026 17:06:26 GMT"
     },
     {
-      "headline": "Off-topic: DIY baby playpen build guide",
-      "background": "No relevance to UX, product, or tech work.",
+      "headline": "How to Write KRAs That Don't Get Abandoned Mid-Year",
+      "background": "Key Result Areas are a standard performance management tool in many product and design orgs, but they are widely criticized for becoming irrelevant shortly after they are written — especially in fast-moving teams where priorities shift quarterly.",
       "keyFindings": [
-        "Not applicable"
+        "KRAs fail most often because they are written to satisfy an HR process rather than to reflect actual role responsibilities",
+        "The author argues KRAs should be reviewed and adjusted at least quarterly, not treated as annual fixed documents",
+        "Specificity of outcome — not activity — is the distinguishing factor between KRAs that guide work and ones that get ignored"
       ],
-      "implications": "Not applicable to this digest's scope.",
+      "implications": "Useful for UX leads and product managers who own performance frameworks for their teams. If your org uses KRAs, build in a mid-cycle revision checkpoint and anchor each KRA to a measurable outcome, not a deliverable.",
       "tags": [
-        "Off-topic"
+        "Team Management",
+        "Performance Frameworks",
+        "Product Leadership"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1868/1*djT5q1Qu8cxdIlE-jzGE-w.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*zs1p99zBYbKHa58SkGuqag.jpeg",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@pandulago/how-i-built-a-custom-diy-playpen-for-my-baby-and-solved-a-local-sourcing-problem-fef940917072?source=rss------product_design-5",
-      "pubDate": "Sun, 25 Oct 2026 14:46:35 GMT"
+      "link": "https://medium.com/@vidhishah29/how-to-write-kras-that-work-da7629f74777?source=rss------product_design-5",
+      "pubDate": "Mon, 26 Oct 2026 16:53:12 GMT"
     },
     {
-      "headline": "Utility-first features are the hardest to design well",
-      "background": "Product teams often prioritize flashy, shareable features over the unglamorous functional ones users depend on daily. This piece uses a meal planning app's ingredient list as a case study in designing for silent, high-stakes utility.",
+      "headline": "Hillary Omitogun — Computing UK Profile",
+      "background": "This appears to be a brief profile or byline mention in Computing UK, with no article body available in the snippet.",
       "keyFindings": [
-        "Users never talk about functional features like grocery lists — but abandonment spikes when they fail",
-        "Precise formatting details like units, quantities, and ingredient grouping carry disproportionate usability weight",
-        "The absence of complaints about utility features is not evidence they're working — it's a measurement gap"
+        "Insufficient content to extract findings"
       ],
-      "implications": "If you're building productivity or planning tools, invest QA and design attention in the mundane data-entry and output features, not just the ones that demo well. Silence from users about a feature is not the same as satisfaction.",
+      "implications": "No actionable content available. Not suitable for digest inclusion without full article access.",
       "tags": [
-        "Product Design",
-        "Utility Features",
-        "Meal Planning"
+        "Off-topic"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Computing UK",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNzM4ZFRIRHVNNVM2Vms0ZE9IUEtvY3R2YUxneEVsQUJ2TlMzWDFZNURDM1hHY0xoeU1rQWxBUnFCc3JJWHdIdXJoaVlaSEVXZVZkRUFTQ0lPQjdCQUxCeDY0M3llS3ZuUktnR3FqWWc3Mk9hbU9rMVRxTk96eVkzcWJJNFo5aUdGd0FR?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 14:47:39 GMT"
+    },
+    {
+      "headline": "Pakistan's PSEB Launches Free AI Bootcamps for Tech Entrants",
+      "background": "Pakistan's tech sector has been expanding its workforce development initiatives, and the Pakistan Software Export Board has announced a no-cost AI training program targeting students, graduates, and working professionals looking to upskill.",
+      "keyFindings": [
+        "Bootcamps are free and open to students, graduates, and working professionals — not restricted to enrolled students",
+        "The curriculum is AI-focused, positioning the program as a direct response to market demand for AI-literate tech workers in Pakistan",
+        "PSEB is the sponsoring body, suggesting government backing and likely some form of certification or credential on completion"
+      ],
+      "implications": "Of limited direct relevance to most Western UX practitioners, but worth noting for product and tech teams hiring in or expanding to Pakistan, and for educators tracking government-led AI skilling programs globally.",
+      "tags": [
+        "AI Education",
+        "Workforce Development"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "ProPakistani",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUHg1RGwzdGVoTWJGZmhXUlZ4QVpWc1M1VGJiLWJMb0ZfSWx2SlF3UTBJaGl6SE1nNUhtb1pVU3g3bWRoVm4yLUpxTDlqTFZJWm55NVo3REhNQU1HSDhCRGtZXzI1cmgxOENMX0NRcTk0Nzdia2VZQmh3NEExYUFZZnpwd0ZSdl9lbG1IU2tKRVpQREJOM2hhOTluczRpOUVFWTF6ZlBLaHFzWG15MnQxUkMyN20zUXltcHVRczVVWdIBxAFBVV95cUxPc2s5WGZ2ZERBOTNqYTFmYlhrUzZjLVRCamN6R1FYZlpDbUs3djFvZEtqX21wbC1VYXV6VTgybDA5eFdiVV9VTHQxSDF5S1l6Y25aeU5mQ0hFQXRuckZBZEQwMWk5MFZYNzB0YVNreDlQWWRGcktGdnp0NmREd010ZDF1cHVsMFZ3Q21QcU11VFh4bWxXNmxNdDNlNzdmV1l0WTlvWk5XSWFLTEUzc0tCcDFfVnE3STMyS1hpNWYzTWwwOHVR?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 13:32:32 GMT"
+    },
+    {
+      "headline": "Stellantis VP: CMF and UX Will Define Future Car Design",
+      "background": "Color, Material, and Finish (CMF) design has historically been treated separately from UX in automotive design, but there is a growing argument — particularly as interiors become more screen-heavy — that the two disciplines need to be co-designed from the start.",
+      "keyFindings": [
+        "Rossella Guasco, Stellantis VP of CMF, argues that UX and CMF must be integrated earlier in the vehicle design process, not treated as sequential handoffs",
+        "The shift toward digital cockpits and large in-vehicle screens is the primary driver forcing CMF designers to engage directly with UX decisions around hierarchy and interaction",
+        "Guasco frames CMF as an experiential layer, not just a styling layer — materials communicate usability cues as much as aesthetics"
+      ],
+      "implications": "Relevant for UX designers working in or moving into automotive, consumer electronics, or any hardware product space. CMF decisions directly affect perceived affordance and usability, and UX practitioners should be involved in those conversations earlier than is typical.",
+      "tags": [
+        "Automotive UX",
+        "CMF Design",
+        "Hardware Products"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Car Design News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNTlYZndVd3FEYWtlV0N0LW85U2lvSkVBZ2VXQW1VTWhVNlJpaDFfMldZN0M5aGRhbklUQXdlU1BPRGpCMmNqMjJyN1ZnTUxyOThDcElnVlBqN2JzcXYwTlhJRWJTLWU1MkhNZUpLcnhGVEZQVGpqa1ZBdlUyY0NtTmVIaWxBVmFuVXhERVVnbFZ0bnJxTGVOdnF2bG5vYW5vWml2UWpqbE96OGRBaDlTLUtKZ3pFdG5Xa24wUjFKQUtnQjNQczRz?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 12:09:56 GMT"
+    },
+    {
+      "headline": "Mobulous Named AI-Assisted App Dev Company of the Year",
+      "background": "Award announcements from regional or industry bodies for app development companies are common and typically involve self-nomination or sponsored recognition programs.",
+      "keyFindings": [
+        "Mobulous received an AI-Assisted Mobile App Development Company of the Year award for 2026",
+        "No independent methodology or judging criteria are described in the snippet",
+        "The award appears in the Democrat and Chronicle, a regional US outlet, rather than an industry-specialist publication"
+      ],
+      "implications": "No substantive UX or product insight available. Award announcements of this type without transparent judging criteria offer little signal value for practitioners.",
+      "tags": [
+        "Off-topic"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Democrat and Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU1JsUGRRdlNxMUFNQ3B1OU9CZnM2dV9YeVB3UkN6cmFOZlJSM2lUczhxY0tiQmlPS09yRXp2OGo5UXFXeURyNGkwLXRpaFZ6WC14ZkZRSE9LNHNpZlBULU1YTmNIa042VjhxXzloOTRQSVMxdXY5eWtyNWUwNzNhV3NtcUdaUTNfOFRzRkMzUVk4NkxZbDVGN0NHTkVERzRYUWhBWWxwYVRneGFHaFZFTXhPY1luWWNVRFRYYnozUG5GaU9ZTUROM0FrbFN2UTJ4dXZsanRCSklvdGh2VHBVXw?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 11:47:56 GMT"
+    },
+    {
+      "headline": "Girls in Tech Hackathon Targets Young Women Innovators",
+      "background": "Underrepresentation of women in tech remains a documented pipeline problem, and university-level hackathon programs aimed specifically at young women have become one mechanism for early exposure and confidence-building in technical fields.",
+      "keyFindings": [
+        "The program is run through Tshwane University of Technology in South Africa, situating it within the African tech education landscape",
+        "The hackathon format is being used explicitly as an engagement tool, not just a competition — the goal is inspiration and exposure rather than output",
+        "The 2026 cohort suggests the program has been running across multiple years, indicating some institutional continuity"
+      ],
+      "implications": "Limited direct application for most UX practitioners, but relevant for those involved in early-career pipeline programs, DEI initiatives, or university partnerships in the African tech ecosystem.",
+      "tags": [
+        "DEI",
+        "Tech Education"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Tshwane University of Technology",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSGNXN1dJb2dIOEVvMHVLenNyTFZnbnhVSGVNSXpyS1dNZGNURjZTd1RBWFhEZ3pqdTF5R3IxSEJUYVpNSnNTbmx1bWg2STFyZjRtSVJWX1c2VUt5YVEyNE5XR3FqQjg4aFZmaXczZkYzcEFyYmx1Z2RoQ2duWEVmemZjaml0VzhCT3U0NzFCdVBGTFZzMDhpdHl5ZWdWRDlMbDczd193MW5iWndLeWtvSzFjaHgtcU5XSG95MTRjMA?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 11:38:25 GMT"
+    },
+    {
+      "headline": "Nielsen's UX Roundup Covers AI Jobs, Carousels, Proactive AI, and More",
+      "background": "Jakob Nielsen's UX roundup is a recurring digest that synthesizes recent UX research and debate across multiple topics in one post. This edition covers a wide range of issues including the impact of AI on creative employment, UI pattern effectiveness, and emerging human-AI interaction models.",
+      "keyFindings": [
+        "The roundup addresses the ongoing debate about AI's displacement of creative and design jobs, suggesting the picture is more nuanced than either optimistic or alarmist framings",
+        "Carousels and pagination are revisited with evidence that both patterns continue to underperform relative to alternatives in most contexts — consistent with long-standing UX research",
+        "Proactive AI — systems that act or surface information without being asked — is flagged as an emerging design challenge, specifically around user trust, control, and appropriate interruption timing"
+      ],
+      "implications": "High-density reference roundup. The sections on proactive AI interaction models and joint cognitive systems are most directly relevant for product teams currently designing AI features. The carousel and pagination findings reinforce existing guidance but are useful to cite when pushing back on stakeholder pattern requests.",
+      "tags": [
+        "AI Interaction Design",
+        "UI Patterns",
+        "Research Roundup"
       ],
       "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@joshua_cohen_72053/nobody-brags-about-a-grocery-list-thats-why-it-s-the-hardest-thing-i-build-d6278499b7a8?source=rss------product_design-5",
-      "pubDate": "Sun, 25 Oct 2026 14:08:06 GMT"
-    },
-    {
-      "headline": "Off-topic: weekly reading list roundup",
-      "background": "A personal reading digest with no direct UX or product relevance in the snippet.",
-      "keyFindings": [
-        "Not applicable"
-      ],
-      "implications": "Not applicable to this digest's scope.",
-      "tags": [
-        "Off-topic"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "UX on Medium",
-      "link": "https://jchyip.medium.com/what-ive-been-reading-week-ending-25-october-2026-36ce0606db0a?source=rss------ux-5",
-      "pubDate": "Sun, 25 Oct 2026 13:33:11 GMT"
-    },
-    {
-      "headline": "Nigerian VC pushes for mandatory AI literacy in schools",
-      "background": "Debates over how early and formally AI and digital skills should be taught are intensifying globally, with industry voices increasingly pressuring governments to embed them in national curricula.",
-      "keyFindings": [
-        "A Nigerian venture capitalist has formally urged the federal government to make AI and digital literacy compulsory subjects in schools",
-        "The call reflects growing concern that Nigeria's workforce pipeline is underprepared for AI-integrated industries",
-        "No specific curriculum framework or timeline was outlined in the reported recommendation"
-      ],
-      "implications": "Relevant for those working on edtech products or designing onboarding for non-technical users in emerging markets — baseline digital literacy cannot be assumed and is a live policy issue, not a solved one.",
-      "tags": [
-        "AI Literacy",
-        "Edtech",
-        "Policy"
-      ],
-      "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "The Guardian Nigeria News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQREY3bUctaHB0S3NWTkktXzRCU1pwVTlMak9ua0dZUzdrbWE3OXBKNjRpLWdESVVJSElEbHpYQVJWdFdaSW5SZ2lMUjFzWm1zaEtrRXBhLXV2Si00M1hCd0VERFRlaE95MjN5dHB5cUdxd0dPblJkbVdoa014NnhKSlNteVdUYzdtTUtwclZkM24zUU0?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 12:47:34 GMT"
-    },
-    {
-      "headline": "Off-topic: vivo V80 product launch announcement",
-      "background": "A press release for a smartphone launch in Egypt with no substantive UX or product design findings.",
-      "keyFindings": [
-        "Not applicable"
-      ],
-      "implications": "Not applicable to this digest's scope.",
-      "tags": [
-        "Off-topic"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "almotawwer.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UY1FPMXFaYWNRSmdWVG40dUZFdEdGUEMtMEMwYXpBUHI1Y3ljMWltdWluRzh5ekhWNVFqMUZKNGtrM2U3S3BNSDItdE12X00?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 12:18:23 GMT"
-    },
-    {
-      "headline": "Off-topic: medical recovery video log",
-      "background": "Unrelated to UX, product, or technology topics.",
-      "keyFindings": [
-        "Not applicable"
-      ],
-      "implications": "Not applicable to this digest's scope.",
-      "tags": [
-        "Off-topic"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Unisba Media",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrdHRBVjk0dFl6c0JWdU9LbVpzQ200MzBYb3d1b1ZJcmwydnBFUWZnaFVoS1FWdnZZOHZKUVAyRWpCLV9wVTlGWk5FcjBvemFMbnlfODIxYnA0Y0FtN1VPamgxUTFqZzhCcy1r?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 00:12:51 GMT"
-    },
-    {
-      "headline": "Off-topic: local Arkansas news briefs",
-      "background": "Regional news items with no relevance to UX, product, or tech.",
-      "keyFindings": [
-        "Not applicable"
-      ],
-      "implications": "Not applicable to this digest's scope.",
-      "tags": [
-        "Off-topic"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Talk Business & Politics",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQazVOZDg5dTVRcXZJLTRuQkZRNVBwY2ZTeHFrX0JJdUNyVmJ6eTFVLVQ5ZlZMS0czekFUMDhrcEpVWE5STVk1aGo0cGc3OGk1VEhSSmxCWjZRQW1xUFRlaGxNOFRDRWNmdXRTRkpXaEItYnVWczlFYXNxU20tV3dUQmpXa1psSzROVWNJYnRJOGRjUlpVek5tSEhyckR6UnpHSEswYUwxNk1mN0tqU1pKWUtuUHdJZVhlektCUDhVdy0tZw?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 15:55:27 GMT"
-    },
-    {
-      "headline": "Off-topic: Ipsos research event listing",
-      "background": "An event announcement with insufficient detail to extract substantive findings.",
-      "keyFindings": [
-        "Not applicable"
-      ],
-      "implications": "Not applicable to this digest's scope.",
-      "tags": [
-        "Off-topic"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "week",
-      "image": null,
-      "source": "Ipsos",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CVHZDT0p5RFVPcHpVMzN1QVkxYjgwb0RiQkRrTUhEb2dvazhvZVhwb0pWMVBpUEZRZS1Zd1lKWEgtT1plY0ZieWxEMmZCbjlFSHc5WElycWV1VTVycmpRX09DeGJ5OTBrOExjbUI2MEhMdw?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 18:48:41 GMT"
-    },
-    {
-      "headline": "Off-topic: biopharma drug development process critique",
-      "background": "An industry-specific argument about linear versus parallel workflows in biopharma DMTA cycles — outside this digest's scope.",
-      "keyFindings": [
-        "Not applicable"
-      ],
-      "implications": "Not applicable to this digest's scope.",
-      "tags": [
-        "Off-topic"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "week",
-      "image": null,
-      "source": "Fierce Pharma",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYmh3SDA5NHlnbTBrUW1JcUJNUVpraUl0dXVpRkg3MGJscE93LXg4Ql9nN2ZhUWR5MWM4VElNNi0xdEF6RnBoRGpLTkhzdG80N3RnYms4NF80YjktOG9BVWlJT19oQjRXVDFOckU0TENaazQwQm9zd2RBa2dnWDBBX0xtWXRxYklZcE9DQQ?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 18:11:03 GMT"
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfOWRBYWtIV0p0cmlNemxvbDNuN1NHV09MWVV2Q0l1a2pnZlczMUVrOERPSk5GNG43TlB0dzZxVmZmdTZsZ1RDZmJLVUxOTkhBa0tKTUFxVUVNR1F4ZzFrSjc4NmpwVkZSWWc?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 11:21:37 GMT"
     }
   ]
 }
