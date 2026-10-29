@@ -1,235 +1,223 @@
 {
-  "generatedAt": "2026-10-28T17:58:08.052Z",
+  "generatedAt": "2026-10-29T18:07:21.257Z",
   "items": [
     {
-      "headline": "One Designer, Eight Devs: Five Systems for Clean Handoff",
-      "background": "The designer-to-developer ratio problem is endemic in product teams, where a single designer covering multiple engineers often results in implementation drift, inconsistent components, and repeated correction cycles. This piece addresses how to build structural solutions rather than relying on individual vigilance.",
+      "headline": "One dev built a full game engine from a self-portrait.",
+      "background": "Solo developers increasingly use AI-assisted pipelines to compress what once required full studios — art, audio, narrative, and QA — into individual workflows. This piece documents one such end-to-end build.",
       "keyFindings": [
-        "Proposes five specific institutional systems to maintain design fidelity when one designer supports eight or more frontend developers",
-        "Focuses on process infrastructure — not just tooling — to reduce handoff ambiguity at scale",
-        "Addresses the asymmetry of accountability when design errors are caught late in the dev cycle"
+        "A single pixel drawing was used as the source asset for a complete 3D game including character, story, and music",
+        "A bot was built to autonomously playtest every new build of the game",
+        "The same underlying engine was then extended to other projects, suggesting reusable architecture"
       ],
-      "implications": "Relevant for designers embedded in engineering-heavy teams without dedicated design engineering support. The systems approach suggests organizational negotiation, not just better Figma files — worth sharing with PMs and engineering leads.",
+      "implications": "Worth watching as a case study in how generative and procedural tools are changing the floor for what one person can ship. Relevant for product teams rethinking resourcing assumptions for small-scale interactive experiences.",
       "tags": [
-        "Design Handoff",
-        "Design Systems",
-        "Team Structure"
+        "Game Design",
+        "Solo Development",
+        "Generative Tools"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1712/1*AlKb6OvVbPLpyPZHptAtpA.png",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*YPAe8Bh41TXZKk31DRgqbg.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@karenyalin/%E4%B8%80%E4%BD%8D%E8%A8%AD%E8%A8%88%E5%B8%AB%E5%B0%8D%E5%85%AB%E4%BD%8D%E5%89%8D%E7%AB%AF-%E8%AE%93%E4%BA%A4%E4%BB%98%E4%B8%8D%E8%B5%B0%E6%A8%A3%E7%9A%84%E4%BA%94%E5%A5%97%E5%88%B6%E5%BA%A6-e9dd47c10935?source=rss------product_design-5",
-      "pubDate": "Wed, 28 Oct 2026 16:54:59 GMT"
+      "link": "https://aicha-fatrah.medium.com/i-turned-a-drawing-of-myself-into-a-game-then-the-possibilities-were-endless-5e86ac1c0cf8?source=rss------product_design-5",
+      "pubDate": "Thu, 29 Oct 2026 17:31:57 GMT"
     },
     {
-      "headline": "AI Agent Runs Real iPhone Usability Tests — Here's What Happened",
-      "background": "Automated usability testing has historically been limited to click-path analytics or synthetic simulation, not actual device interaction. MobileRun is an AI agent that conducts usability tests on physical iPhones, raising questions about how well it handles real-world input complexity.",
+      "headline": "Designer rebuilds personal site after a decade.",
+      "background": "Personal portfolio sites are a persistent maintenance problem for practitioners who spend their time on client or product work — this is a routine refresh writeup.",
       "keyFindings": [
-        "MobileRun tested continuous typing, Korean keyboard layout switching, and custom keyboard layouts on a physical iPhone — not a simulator",
-        "The tool was evaluated against a real app called 또각 LAB, giving it non-trivial input and layout conditions to navigate",
-        "Results surface specific failure modes in how AI agents handle non-Latin input methods and custom interface components"
+        "The site had gone without meaningful updates for 10 years",
+        "The rebuild was prompted by relocation and a professional relaunch"
       ],
-      "implications": "Teams testing apps with non-English input or custom keyboards should treat AI-automated testing as a complement to human testing, not a replacement — edge cases in input handling remain a significant gap. Worth piloting on narrow, well-defined test scenarios first.",
+      "implications": "Low news value for working practitioners. Useful only as a prompt to audit your own portfolio if it's similarly out of date.",
       "tags": [
-        "Usability Testing",
-        "AI Tools",
-        "Mobile"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*H-e076VQ9I7rDcI2_xweyQ.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@dy_solution/what-happens-when-an-ai-agent-usability-tests-your-app-on-a-real-iphone-d030329f33d8?source=rss------ux-5",
-      "pubDate": "Wed, 28 Oct 2026 16:24:05 GMT"
-    },
-    {
-      "headline": "AI Is Doing for Software What Digital Cameras Did for Film",
-      "background": "The digital camera analogy — cheap iteration unlocking creative risk-taking — is frequently invoked in AI discourse, but rarely examined in terms of what specifically changed in creative production workflows and what actually followed. This piece uses filmmaking history as a structural comparison.",
-      "keyFindings": [
-        "Film stock cost created conservative creative decision-making on set; digital removed that constraint and changed how directors shot",
-        "The argument is that AI similarly removes the cost-of-iteration constraint in software development, not just the cost of labor",
-        "Implication drawn is that the shift is primarily cultural and behavioral, not just economic"
-      ],
-      "implications": "Useful framing for product and design leaders making the case for more experimental, iterative processes. The analogy has limits — film democratization also produced enormous amounts of low-quality output — so treat the optimism selectively.",
-      "tags": [
-        "AI",
-        "Product Strategy",
-        "Software Development"
+        "Portfolio",
+        "Personal Branding"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1200/1*dO7AkztBuAglw4ZtV8Obbg.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/1920/1*a9HVi61iS7H5GIxsHbtWYw.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/@harshiknayak/what-digital-cameras-did-for-filmmaking-ai-is-doing-for-software-f027a907416c?source=rss------ux-5",
-      "pubDate": "Wed, 28 Oct 2026 16:18:05 GMT"
+      "link": "https://chrisoliver.medium.com/relocated-refreshed-relaunched-327a15ca1902?source=rss------ux-5",
+      "pubDate": "Thu, 29 Oct 2026 17:18:32 GMT"
     },
     {
-      "headline": "AI UI Design Tools Ranked After Years of Real Testing",
-      "background": "The market for AI-assisted UI design tools has expanded rapidly, but most comparisons are based on feature lists or sponsored content rather than sustained hands-on use. Practitioners need differentiated, experience-based assessments.",
+      "headline": "PR piece: iQlance pitches itself as a fitness app shop.",
+      "background": "Vendor-originated press releases occasionally surface in UX feeds dressed as editorial content. This is one of them.",
       "keyFindings": [
-        "Evaluates tools based on years of real-world use rather than feature announcements",
-        "Identifies specific tools that stood out for practical UI design work — not just ideation or marketing use cases",
-        "Focuses on tools relevant to working designers rather than developer-facing or generalist AI platforms"
+        "iQlance Solutions is self-identifying as a fitness app development specialist in the US market",
+        "No independent performance data, client outcomes, or methodology is cited"
       ],
-      "implications": "Useful as a starting reference for teams evaluating AI design tooling, though 'favorite' lists reflect individual workflows — cross-check against your team's specific design system maturity and handoff requirements.",
+      "implications": "No actionable insight for practitioners. Skip unless you are actively sourcing fitness app development vendors.",
       "tags": [
-        "AI Tools",
-        "UI Design",
-        "Design Workflow"
+        "Vendor PR",
+        "Fitness Apps"
       ],
       "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "CustomerThink",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQUZsVUlWajRfMC1tb2NYYzEzVnVBVEVobDlVdWh5dnE2UkFGNnppMXV3WTQyN0RVU2tVaUpqZngwRmxaN3phSmR6RnBrd1d6STJDZkpFeDhSQkNQeFVJdXQ2T003UVBGbHlGLVh4YW9vc1JxVXBxdGpWQS10VS1vNFZVQWNKdnBYeXlrY1F6Q1NFR1BPSHgxdmwwWTFCdGhURVdJN0RVc0FRSmVE?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 16:54:17 GMT"
+    },
+    {
+      "headline": "Claude Artifacts create artifact management chaos for product teams.",
+      "background": "Claude's Artifacts feature — which generates standalone interactive outputs like code, documents, and mini-apps — has been widely adopted for rapid prototyping and async communication. As artifact counts grow, finding and managing them is becoming a friction point.",
+      "keyFindings": [
+        "The author describes reaching a breaking point with artifact sprawl across Claude conversations",
+        "Artifacts lack the organizational structure needed for team-scale product workflows",
+        "The piece frames this as a broader problem with AI-generated output management, not just a Claude-specific UI issue"
+      ],
+      "implications": "If your team is using Claude Artifacts for design communication or prototyping, establish naming and storage conventions now before volume makes retrieval impractical. This is a gap the tooling has not yet solved.",
+      "tags": [
+        "AI Tools",
+        "Prototyping",
+        "Workflow"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2400/1*b5m6BR-RPyzJ7nWNAIebDQ.jpeg",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@LinzCDesigns/sifting-through-claude-artifacts-is-my-new-worst-nightmare-693c96d2d5eb?source=rss------product_design-5",
+      "pubDate": "Thu, 29 Oct 2026 16:48:45 GMT"
+    },
+    {
+      "headline": "AI prototyping speeds up delivery but skips real user input.",
+      "background": "There is growing pressure on UX teams to use AI tools to accelerate the full design process, including research and validation. This piece, written in Spanish, argues that AI's role in UX is being overstated in the discovery and testing phases.",
+      "keyFindings": [
+        "AI tools are genuinely useful for rapid UI generation, pattern application, and iteration speed",
+        "AI cannot replace user research — it has no access to real user context, behavior, or unspoken needs",
+        "The author draws a clear line between AI-assisted production tasks and AI as a substitute for human-centered process"
+      ],
+      "implications": "A useful framing for pushing back on stakeholder or leadership pressure to cut research in favor of AI-generated prototypes. The argument applies regardless of which AI design tool is in use.",
+      "tags": [
+        "AI Tools",
+        "User Research",
+        "Prototyping"
+      ],
+      "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*320J_kTHZmoFuJORbUSODw.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*NMJHuQXHtcPwgyV6w1t3Ag.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/write-your-world/my-favorite-ai-ui-design-tools-after-years-of-hands-on-real-testing-55255a7daef3?source=rss------ux-5",
-      "pubDate": "Wed, 28 Oct 2026 16:05:25 GMT"
+      "link": "https://gildder.medium.com/prototipar-con-ia-no-es-dise%C3%B1ar-con-usuarios-4d5c9295aba0?source=rss------ux-5",
+      "pubDate": "Thu, 29 Oct 2026 16:36:01 GMT"
     },
     {
-      "headline": "Widely Cited UX ROI Statistics Are Likely Fabricated",
-      "background": "The UX field has long circulated specific ROI claims — most famously that every $1 invested in UX returns $100 — without traceable primary sources. LITSLINK conducted a study attempting to verify the evidence base for these statistics.",
+      "headline": "PR piece: Designli lists its 2026 awards.",
+      "background": "Awards-based press releases from development shops are routine marketing content with no editorial analysis.",
       "keyFindings": [
-        "LITSLINK found that several widely cited UX-related loss and ROI statistics cannot be traced to verifiable primary research",
-        "Software-breaking updates do have documented billion-dollar cost impacts with traceable sources, unlike many UX-specific claims",
-        "The study distinguishes between claims with evidence and those that appear to have propagated as citation laundering"
+        "Designli received multiple industry recognitions for app and software development in 2026",
+        "No detail on award criteria, categories, or awarding bodies is included in the snippet"
       ],
-      "implications": "Stop using unverified ROI statistics in stakeholder presentations — if challenged, they undermine credibility for the entire business case. Use the LITSLINK study itself as a source when explaining why precise figures aren't available, and cite only traceable research.",
+      "implications": "No actionable value for practitioners. Awards from unspecified bodies carry limited signal about actual quality or methodology.",
       "tags": [
-        "Research Credibility",
-        "UX Business Case",
-        "Evidence-Based Design"
+        "Vendor PR",
+        "App Development"
       ],
-      "featured": true,
+      "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
       "source": "StreetInsider",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOV2FfWFpUUGthVGxVVTV1eVhfdko5bUsxTXM5ek9XYjh5OHN6cVVHNTNyb1FwUXpRMUVVbGVrZzhFTUhFOHdRaXdycXg1Ny1vc0JYWHFHRmMwcFZTS1BvSDJ0dWs1SzhaVFlrMHRURGdJUDg0R2padnRva3hVTjVISnhkZjZFVUhSQ2JLOUtZWG40ZElFSV9JWnlENkVnWnFoUGZ6QVRJeVNIOHNjYUhYOWZmZERnQXlkU0MwRFB3MHIzc0JFV1NzVVRHRWtQeHNReTU0ZEZSODVRT05GN2dvUS1SUXBfOTZwX0RwNDVmSTRSa0RNNlZSVXpPZzhrLXVzbDRSMA?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 14:51:31 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWmVPbUhlS3Rlc2tuMDN2aGRpcG12TUI3UmZqZzl2NENiN0RkU3RGNlJxTVlkVGFhS2JUcDBaMms1b1hsWVc4TGY5bVcxaWRrUDVsY2ZPMVRuaks1d2FDczRDcnhuUW1DOUNESW5PYXp4TlloTExDWndBNDdIazRRS01sNWNuWHVPOVVBMXhralVkNzBfWlBGUExRWHhTWHYwNkN2NjZBTmk3N1NvOEwxYnFyRm5teGM4VmRBYktkTDJRRFI3UmVGZ3paUHZqQThOVmNTVWJn?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 12:49:46 GMT"
     },
     {
-      "headline": "Baunfire Redesigns Karat's Website, Named DesignRush Finalist",
-      "background": "Agency website redesigns occasionally surface as useful case references when they involve notable B2B SaaS clients with complex value proposition communication challenges. Karat is a technical interviewing platform with a nuanced audience.",
+      "headline": "Guide lists Masters in Design programs, fees, and exams.",
+      "background": "Design education content targeting students in India is common on platforms like Shiksha. This is a directory-style listing rather than editorial analysis.",
       "keyFindings": [
-        "Baunfire's redesign for Karat was named a finalist in DesignRush's Best Designs recognition program",
-        "The project involves translating a technical interviewing platform's value proposition into a public-facing web presence",
-        "Recognition is from DesignRush, an agency listing and awards platform — not an independent research body"
+        "The piece lists Masters in Design programs with associated fees and entrance exam requirements",
+        "Content is oriented toward prospective students in the Indian education market"
       ],
-      "implications": "Useful as a portfolio reference for B2B SaaS web design, but DesignRush finalist status reflects a submission-based award program, not independent peer evaluation. Weight accordingly.",
+      "implications": "Relevant only if you are advising someone on postgraduate design education options in India. Not useful for working practitioners.",
       "tags": [
-        "Web Design",
-        "B2B SaaS",
-        "Agency Work"
+        "Design Education"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Digital Journal",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPakl5dEt2S1pwUzkySW1VN3lORHJtR2xBdlJZVU1CMVRRa3JQaDlhNWxtSklycnlLYXFZaGZNYXdaMWxLTGxUR2xjVGl6RFpvSW9kS1Z2cGtydXVxX2w3ejhQQzZlSmhjT0UxN01WNHc3cktMZUNIRHgzazZlZlZBWFpVSE9jY2dvTEZhTmh0ZzdlTUZuRS15UGJLTGhyQzVLekJ6TEd3?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 13:40:56 GMT"
+      "source": "Shiksha.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY2NoUGlJZ05ESWVfbDBDVk1YMHQtaUpoT2tJdEs4YWhkYUNOOTRPQjdjbzVNcE03NXM0U1dXa1FneEk3b1lnelVnRUZzUnVkVDdWQ2lBS2lBMC1famN2NUxtUzdLNTdNQmYwRG1vRnhXM0JDTUNLUW5oREw3S3VYRXhnYkwtZw?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 12:00:21 GMT"
     },
     {
-      "headline": "Qt Group Releases Clate to Address Industrial Interface Usability",
-      "background": "Industrial UX — interfaces for manufacturing, automation, and embedded systems — has historically lagged consumer UX in usability investment, partly because tooling designed for consumer apps doesn't map well to hardware-constrained or safety-critical environments.",
+      "headline": "AR prototype layers historical narrative onto a Korean fortress.",
+      "background": "Cultural heritage institutions are actively experimenting with AR to surface contextual storytelling at physical sites, where conventional signage and audio guides fall short for complex spatial histories.",
       "keyFindings": [
-        "Qt Group launched Clate specifically to address the usability gap in industrial interface design, not consumer or enterprise software",
-        "The tool targets the distinct constraints of industrial UX, including hardware integration and operator environment requirements",
-        "Qt is an established player in embedded and industrial UI development, giving Clate a relevant technical foundation"
+        "A working AR prototype was developed specifically for a Korean fortress site",
+        "The system is designed to surface stories and historical context that are not visible or legible from the physical environment alone",
+        "The project is at prototype stage, not deployed at scale"
       ],
-      "implications": "Relevant for UX practitioners working on HMI, industrial controls, or embedded systems — a space often underserved by mainstream design tooling. Worth evaluating if your team uses Qt's existing framework stack.",
+      "implications": "A practical reference point for UX teams working on location-based AR experiences in heritage, tourism, or civic contexts. Note that prototype-to-deployment gaps in AR remain significant.",
       "tags": [
-        "Industrial UX",
-        "HMI",
-        "Design Tooling"
+        "Augmented Reality",
+        "Location-Based UX",
+        "Cultural Heritage"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "EEJournal",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTFUxSFRmWVZuMWNTS1FrVTNMZ3VHZG16SVNmREtpc1lXRGR1QzBpNzZnV3FyM3Radng1ajdpOHRJeGVLSjJqZ3dQMlJCTXB3Z1piLTJSalZlWWNEQ21IRTZlbkFfaHprWVdUeEdJV1p0cFlUZkhHakZQZFpqUGNCWlM1X1lqMHRibkVmQ2JWd2p2TVJfMTZJbW1YOGR4aUMtOFNxTHBHZDQyUkkzX0FTZXF4ZjJrNEhoSzhkWXcyTFpiNW8?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 13:12:59 GMT"
+      "source": "Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaEphVGtkakF4UnZvc2tOZFg0Ym9kSWFXT3NzQ0NEdzAwMTZhWTdXdG14T0p2WDVKMjNzSEJlVEFHeW5wcG0zMFFybF9nQjB4LVdTRVFvLWtHWDI4UHB5TGZfZ3NuRkRnd016Ym1JMVdqUTIzYTBmTUlGbl9kak1VbWx5ZzNrVVY0Z1RhcC1nZkpSQk1OWWNfV0RfRDNqbFZlYnpn?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 10:47:56 GMT"
     },
     {
-      "headline": "How AI Fluency Shapes UX Researchers' Relationship With AI Tools",
-      "background": "As AI tools become embedded in research workflows, there's a growing question of whether experience level and AI familiarity determine how researchers integrate — or resist — these tools. Microsoft Design conducted internal research on this dynamic.",
+      "headline": "Webinar will cover embedding responsible gambling into product design.",
+      "background": "Regulators and operators in iGaming are under increasing pressure to move responsible gambling features from bolt-on compliance tools to core product design decisions. This webinar addresses that shift.",
       "keyFindings": [
-        "UX researchers at different career stages experience AI tools differently, with fluency (not just seniority) as a key variable",
-        "More experienced researchers show distinct patterns in how they evaluate AI-generated insights versus their own judgment",
-        "The study surfaces tension between AI efficiency gains and researchers' sense of professional identity and interpretive ownership"
+        "The webinar focuses on responsible gambling as a product design problem, not just a compliance checkbox",
+        "The framing is 'responsibility by design' — integrating RG into the product architecture from the start"
       ],
-      "implications": "For research ops and team leads: onboarding researchers to AI tools should account for fluency level independently of experience level — junior researchers aren't necessarily less fluent, and senior researchers may need more support reframing their role.",
+      "implications": "Directly relevant for product and UX practitioners in iGaming. The design-led framing is also applicable to any domain involving addictive mechanics, financial risk, or vulnerable user populations.",
       "tags": [
-        "Research Operations",
-        "AI Tools",
-        "UX Research"
+        "Responsible Design",
+        "iGaming",
+        "Ethics"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "microsoft.design",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iOTd3eFZlUXhRMTNrTW91cGhPekJJVUl4MFlLUVJ6WTZNc0FNdEFHY0x1bnp2X0pSMnZoUkJvaEdfV2xYclpxM2JkRGFUN3V3TE1aZHpic1Q3UFUycWc?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 13:00:00 GMT"
+      "source": "iGaming Business",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTi1ma08wcnhzQlQ4aDl1eXZJUV9TaGtLdEJhd1BuVUdxUXRxTVVyZHNxMFVxRGxSRkVEd1oyYnJnZFpNNHlXa3hjVmh3TDdpeUFoTDlWMGh2THlCUTF3VmVHYWFOZDA1TjdmVFNyV0FiNEEwYkRIdzNaaklmdWY1R3BxNHZjcERjTUtCSFlNa0hkeGV4QjB0V3JXUW5SazlKOGxTdDdPdjgzMFFTdFdwcE5CVkVfQkQ4Z09Ccmp6MjVWNFQzeWVEeHBvQ191a3FSTExBZjFDOHdTMFJ2UzQ0REVTQ1VMWTg?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 10:10:48 GMT"
     },
     {
-      "headline": "Synthetic Users Can't Replace Real Ones — Here's the Evidence",
-      "background": "Synthetic user research — using AI-generated personas or simulated responses as proxies for real participants — is being adopted to reduce recruiting costs and accelerate timelines. Microsoft Design examined where simulation holds up and where it fails.",
+      "headline": "African youth program connects gig skills to paid work.",
+      "background": "Youth unemployment in sub-Saharan Africa is a persistent structural problem. Programs linking digital skill development to immediate income opportunities are emerging as a partial response.",
       "keyFindings": [
-        "Synthetic data performs poorly on tasks requiring cultural context, emotional nuance, or novel behavioral patterns outside training data",
-        "Simulation can be adequate for well-defined usability tasks with clear success criteria and low contextual variability",
-        "The piece identifies specific research question types where synthetic methods introduce systematic bias rather than just noise"
+        "The GATEWAY Program specifically targets skilled young people who lack access to consistent income",
+        "The model connects participants to gig-based work rather than traditional employment pipelines"
       ],
-      "implications": "Use synthetic methods for early-stage directional screening or hypothesis generation, not for evaluative research informing major product decisions. Document which questions were answered with synthetic data and flag them explicitly in research readouts.",
+      "implications": "Minimal direct relevance for UX/product practitioners unless you work on gig platform design or inclusive economic access. Worth noting as context for designing gig economy products for emerging markets.",
       "tags": [
-        "Synthetic Users",
-        "User Research",
-        "AI in Research"
+        "Gig Economy",
+        "Emerging Markets"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "microsoft.design",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LdXhGUjdfNkk1UXRucDk0OGszNzNVcmEyaVRTOUlnOEF4RUZmckZWYjlQaG1SdUF6VmtteGZuOUZzQ2lqZF92VURNd2YwMlF0TlAzbVlBU1FKdUROSktN?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 13:00:00 GMT"
-    },
-    {
-      "headline": "AI Speeds Up Work But Creates New Cognitive Load — Researchers Report",
-      "background": "Early AI productivity research focused on output volume and time savings, but a secondary effect — increased cognitive load from managing AI tools, verifying outputs, and maintaining context — is emerging as a significant concern among knowledge workers.",
-      "keyFindings": [
-        "Workers report feeling faster but not less mentally taxed — a pattern Microsoft researchers are calling 'AI brain fry'",
-        "The cognitive overhead of prompting, evaluating, and correcting AI outputs offsets some of the time savings in knowledge work",
-        "The effect appears particularly pronounced in roles requiring high-judgment work, including design and research"
-      ],
-      "implications": "For team leads assessing AI adoption: productivity metrics alone will miss the fatigue dimension. Consider tracking qualitative signals of cognitive load alongside output measures, and build in unstructured time that doesn't require AI interaction.",
-      "tags": [
-        "AI",
-        "Cognitive Load",
-        "Workplace Wellbeing"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "microsoft.design",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRWVUd2NHOUtxZnZmbU54QjdNUEtid2NETzhyMXFLX1J0MWl5LTF6TTlFN1lUNVJaODZjV1I5QU5qeFJGZmtkb3MzOUdySzNQQlBKVVlXM2IxLVlYVHVlc01TNlhGb2hpTS1RWS1lODRfX19FVjFUeEZjc252Z0JvZ2lRcHQ?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 13:00:00 GMT"
+      "source": "Business Insider Africa",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUpnQ3ByY2dGcFdwaHRNMTc1SXQ2SGtlTUZ0Z3prdGc3bXpDdFY2N2J3TWlmLUx0aDRvbUJOMWREOUJBRXNFc0sxZ2tMeXdWWnhRM1ZSaHB2ZkNyVkpJcnY1d1JKa211ck5kSW5tdXJzOENiRDZsRDVGR1ZaUHROSl80ZzRuTGF0ZENHOUdCcUZtVC1WN0hfbmQ2bWJwR1FsUXRMcjd6NjBSYnRHcnhZRE5odw?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 08:18:56 GMT"
     }
   ]
 }
