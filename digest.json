@@ -1,223 +1,228 @@
 {
-  "generatedAt": "2026-10-29T18:07:21.257Z",
+  "generatedAt": "2026-10-30T17:47:04.010Z",
   "items": [
     {
-      "headline": "One dev built a full game engine from a self-portrait.",
-      "background": "Solo developers increasingly use AI-assisted pipelines to compress what once required full studios — art, audio, narrative, and QA — into individual workflows. This piece documents one such end-to-end build.",
+      "headline": "Convert UI screenshots into editable Figma layers",
+      "background": "Designers frequently receive UI references as static images — from clients, competitors, or legacy products — and manually rebuilding them in Figma is time-consuming. Several plugins and workflows now claim to automate this conversion.",
       "keyFindings": [
-        "A single pixel drawing was used as the source asset for a complete 3D game including character, story, and music",
-        "A bot was built to autonomously playtest every new build of the game",
-        "The same underlying engine was then extended to other projects, suggesting reusable architecture"
+        "Crafttor's workflow uses image-to-layer conversion to make static UI screenshots editable in Figma",
+        "The process targets designers who need to adapt or iterate on existing interfaces without rebuilding from scratch"
       ],
-      "implications": "Worth watching as a case study in how generative and procedural tools are changing the floor for what one person can ship. Relevant for product teams rethinking resourcing assumptions for small-scale interactive experiences.",
+      "implications": "Useful for rapid prototyping from reference screens, but auto-converted layers typically require significant cleanup — especially for complex components. Verify layer naming and grouping before handing off.",
       "tags": [
-        "Game Design",
-        "Solo Development",
-        "Generative Tools"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*YPAe8Bh41TXZKk31DRgqbg.png",
-      "source": "Product Design on Medium",
-      "link": "https://aicha-fatrah.medium.com/i-turned-a-drawing-of-myself-into-a-game-then-the-possibilities-were-endless-5e86ac1c0cf8?source=rss------product_design-5",
-      "pubDate": "Thu, 29 Oct 2026 17:31:57 GMT"
-    },
-    {
-      "headline": "Designer rebuilds personal site after a decade.",
-      "background": "Personal portfolio sites are a persistent maintenance problem for practitioners who spend their time on client or product work — this is a routine refresh writeup.",
-      "keyFindings": [
-        "The site had gone without meaningful updates for 10 years",
-        "The rebuild was prompted by relocation and a professional relaunch"
-      ],
-      "implications": "Low news value for working practitioners. Useful only as a prompt to audit your own portfolio if it's similarly out of date.",
-      "tags": [
-        "Portfolio",
-        "Personal Branding"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1920/1*a9HVi61iS7H5GIxsHbtWYw.png",
-      "source": "UX on Medium",
-      "link": "https://chrisoliver.medium.com/relocated-refreshed-relaunched-327a15ca1902?source=rss------ux-5",
-      "pubDate": "Thu, 29 Oct 2026 17:18:32 GMT"
-    },
-    {
-      "headline": "PR piece: iQlance pitches itself as a fitness app shop.",
-      "background": "Vendor-originated press releases occasionally surface in UX feeds dressed as editorial content. This is one of them.",
-      "keyFindings": [
-        "iQlance Solutions is self-identifying as a fitness app development specialist in the US market",
-        "No independent performance data, client outcomes, or methodology is cited"
-      ],
-      "implications": "No actionable insight for practitioners. Skip unless you are actively sourcing fitness app development vendors.",
-      "tags": [
-        "Vendor PR",
-        "Fitness Apps"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "CustomerThink",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQUZsVUlWajRfMC1tb2NYYzEzVnVBVEVobDlVdWh5dnE2UkFGNnppMXV3WTQyN0RVU2tVaUpqZngwRmxaN3phSmR6RnBrd1d6STJDZkpFeDhSQkNQeFVJdXQ2T003UVBGbHlGLVh4YW9vc1JxVXBxdGpWQS10VS1vNFZVQWNKdnBYeXlrY1F6Q1NFR1BPSHgxdmwwWTFCdGhURVdJN0RVc0FRSmVE?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 16:54:17 GMT"
-    },
-    {
-      "headline": "Claude Artifacts create artifact management chaos for product teams.",
-      "background": "Claude's Artifacts feature — which generates standalone interactive outputs like code, documents, and mini-apps — has been widely adopted for rapid prototyping and async communication. As artifact counts grow, finding and managing them is becoming a friction point.",
-      "keyFindings": [
-        "The author describes reaching a breaking point with artifact sprawl across Claude conversations",
-        "Artifacts lack the organizational structure needed for team-scale product workflows",
-        "The piece frames this as a broader problem with AI-generated output management, not just a Claude-specific UI issue"
-      ],
-      "implications": "If your team is using Claude Artifacts for design communication or prototyping, establish naming and storage conventions now before volume makes retrieval impractical. This is a gap the tooling has not yet solved.",
-      "tags": [
-        "AI Tools",
-        "Prototyping",
-        "Workflow"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2400/1*b5m6BR-RPyzJ7nWNAIebDQ.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@LinzCDesigns/sifting-through-claude-artifacts-is-my-new-worst-nightmare-693c96d2d5eb?source=rss------product_design-5",
-      "pubDate": "Thu, 29 Oct 2026 16:48:45 GMT"
-    },
-    {
-      "headline": "AI prototyping speeds up delivery but skips real user input.",
-      "background": "There is growing pressure on UX teams to use AI tools to accelerate the full design process, including research and validation. This piece, written in Spanish, argues that AI's role in UX is being overstated in the discovery and testing phases.",
-      "keyFindings": [
-        "AI tools are genuinely useful for rapid UI generation, pattern application, and iteration speed",
-        "AI cannot replace user research — it has no access to real user context, behavior, or unspoken needs",
-        "The author draws a clear line between AI-assisted production tasks and AI as a substitute for human-centered process"
-      ],
-      "implications": "A useful framing for pushing back on stakeholder or leadership pressure to cut research in favor of AI-generated prototypes. The argument applies regardless of which AI design tool is in use.",
-      "tags": [
-        "AI Tools",
-        "User Research",
+        "Figma",
+        "Design Tools",
         "Prototyping"
       ],
-      "featured": true,
+      "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*NMJHuQXHtcPwgyV6w1t3Ag.png",
+      "image": null,
       "source": "UX on Medium",
-      "link": "https://gildder.medium.com/prototipar-con-ia-no-es-dise%C3%B1ar-con-usuarios-4d5c9295aba0?source=rss------ux-5",
-      "pubDate": "Thu, 29 Oct 2026 16:36:01 GMT"
+      "link": "https://medium.com/@sandeepvirk87/image-to-figma-how-to-convert-any-ui-image-into-editable-layers-f5cba8a6cd2a?source=rss------ux-5",
+      "pubDate": "Fri, 30 Oct 2026 17:37:45 GMT"
     },
     {
-      "headline": "PR piece: Designli lists its 2026 awards.",
-      "background": "Awards-based press releases from development shops are routine marketing content with no editorial analysis.",
+      "headline": "The IKEA Effect story everyone cites is largely fabricated",
+      "background": "The 'Betty Crocker egg story' — where adding an egg to instant cake mix boosted sales by making customers feel invested — has been repeated for decades as the canonical example of the IKEA Effect and effortful engagement in product design. Its accuracy has rarely been questioned.",
       "keyFindings": [
-        "Designli received multiple industry recognitions for app and software development in 2026",
-        "No detail on award criteria, categories, or awarding bodies is included in the snippet"
+        "The Betty Crocker egg anecdote is not supported by the historical or marketing record and appears to be apocryphal",
+        "The IKEA Effect itself (people value things more when they help create them) is a real, replicated finding — but the egg story misrepresents it",
+        "Using customer effort as a design lever is valid, but the justification commonly cited for it is based on a myth"
       ],
-      "implications": "No actionable value for practitioners. Awards from unspecified bodies carry limited signal about actual quality or methodology.",
+      "implications": "Product teams using the egg story to justify friction-as-investment in onboarding or creation flows should revisit the actual IKEA Effect research. The underlying principle holds, but the anecdotal 'proof' does not.",
       "tags": [
-        "Vendor PR",
-        "App Development"
+        "Behavioral Psychology",
+        "Onboarding",
+        "Design Rationale"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1400/1*_q5i8UdOhGNnz0Ifz0GpLQ.jpeg",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@covalescuandrei433/betty-crockers-egg-debunked-what-the-ikea-effect-really-says-about-making-customers-do-the-work-330e19201945?source=rss------product_design-5",
+      "pubDate": "Fri, 30 Oct 2026 17:23:12 GMT"
+    },
+    {
+      "headline": "Screenshot to editable Figma file: another Crafttor workflow",
+      "background": "This is a second piece from Crafttor covering similar image-to-Figma conversion territory, focusing specifically on capturing live screens rather than importing existing image files.",
+      "keyFindings": [
+        "Targets the workflow of capturing a live screen and converting it directly into an editable Figma file",
+        "Positioned as a faster alternative to manual recreation for screen-based UI references"
+      ],
+      "implications": "Largely overlaps with the image-to-Figma piece from the same publisher. Evaluate both if this workflow is relevant to your team, but expect similar caveats around layer quality.",
+      "tags": [
+        "Figma",
+        "Design Tools",
+        "Workflow"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "UX on Medium",
+      "link": "https://medium.com/@sandeepvirk87/screenshot-to-figma-capture-convert-and-edit-any-screen-7d89c566880a?source=rss------ux-5",
+      "pubDate": "Fri, 30 Oct 2026 17:17:10 GMT"
+    },
+    {
+      "headline": "SEO content writing guide with minimal UX or product relevance",
+      "background": "Content marketing and SEO writing guides are common on Medium, often published to drive traffic to external tools or services. This piece covers blog growth and traffic acquisition.",
+      "keyFindings": [
+        "Covers SEO writing fundamentals for blog content growth",
+        "No product design, UX research, or tech-specific angle identified in available content"
+      ],
+      "implications": "Not directly relevant to UX, product, or tech practice. May be of interest if your role includes content strategy or growth.",
+      "tags": [
+        "Content Strategy",
+        "SEO"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1408/1*um7ZpoUfYPXOOTCUt54cGg.jpeg",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@nomify1100/seo-content-writing-the-complete-guide-to-growing-your-blog-and-getting-more-traffic-de1364cec62e?source=rss------product_design-5",
+      "pubDate": "Fri, 30 Oct 2026 17:13:17 GMT"
+    },
+    {
+      "headline": "Why AI evaluation teams need designers in the room",
+      "background": "AI model evaluation — judging whether outputs are accurate, safe, or useful — has largely been treated as an engineering and data science problem. Designers are rarely included in red-teaming or eval design, despite being trained to assess user-facing quality.",
+      "keyFindings": [
+        "Designers bring structured skills in identifying edge cases, inconsistencies, and usability failures that pure accuracy metrics miss",
+        "AI evals often overlook how outputs will be interpreted and acted on by real users — a gap designers are trained to spot",
+        "Including designers in eval processes can surface issues around tone, clarity, and interaction quality before deployment"
+      ],
+      "implications": "If your org is building or integrating AI products, advocate for design involvement in evaluation — not just UI design at the end, but in defining what 'good output' actually means for users.",
+      "tags": [
+        "AI Evaluation",
+        "Design Practice",
+        "AI Products"
+      ],
+      "featured": true,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Fast Company",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdlk0dV9remg1MkdBN3NpSm9hX3R3S2EwRHFmMWhpNmhpQzdFR3VwRzlucnN4R0N5S3h1UkJlUnNRTkRNUEdlUFEzaUpyWkU5SW1qNGZES0Z6OGxYLUh6d1pvTU9pUElDQkhCQUVIam9NWUJYMFZIMVlCWFdTdXpiNjlnMmRfdXBIY0xsUUNCUjJpSnRtb24yaHlNMTA?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 12:01:07 GMT"
+    },
+    {
+      "headline": "B2B market research tools roundup for 2026",
+      "background": "Enterprise teams running competitive research, customer discovery, or market sizing increasingly rely on specialized tools beyond general survey platforms. Tool landscapes shift quickly and roundup lists are often outdated.",
+      "keyFindings": [
+        "Lists 10 tools positioned for B2B enterprise market research use cases",
+        "Targets enterprise-scale teams rather than startup or SMB researchers",
+        "Published as a forward-looking guide for 2026 planning cycles"
+      ],
+      "implications": "Useful as a starting checklist if you are evaluating research ops tooling for an enterprise team, but verify current pricing and features independently — roundup articles frequently contain outdated specs.",
+      "tags": [
+        "Research Tools",
+        "B2B",
+        "Research Ops"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "StreetInsider",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWmVPbUhlS3Rlc2tuMDN2aGRpcG12TUI3UmZqZzl2NENiN0RkU3RGNlJxTVlkVGFhS2JUcDBaMms1b1hsWVc4TGY5bVcxaWRrUDVsY2ZPMVRuaks1d2FDczRDcnhuUW1DOUNESW5PYXp4TlloTExDWndBNDdIazRRS01sNWNuWHVPOVVBMXhralVkNzBfWlBGUExRWHhTWHYwNkN2NjZBTmk3N1NvOEwxYnFyRm5teGM4VmRBYktkTDJRRFI3UmVGZ3paUHZqQThOVmNTVWJn?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 12:49:46 GMT"
+      "source": "ET CIO",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOHU2SFdrVTROY21YVW54bHc2bWlZX3dPT0s5U2J2c0xQdEFXQ2x2a3d0cV9faC1SbWFNSlZ0a3ZlY2xyYzMxVmZCb0VobWpFS3lxVWQ0azFWaXloQlE1cm5aSUJnRzJKMnlDQW9nYzNCQzRvbFVnM0dMWk5tUEdMNkVxbHlvVlVaSVBnOV9OdDEwbWVKM3ZXdnVrRVlUa1dyX3otbWplMlZBZ9IBrwFBVV95cUxQZWN2ZlZiRFQ3OUxBd0Vwdng4VHFMZkxPQktFLXgyNElnR1hPdmpXVHh2TFNyajdMQVBlSk9RSXNjVVB0YlVzQXlYVzlyV2JXelVJMXBoUlVUQXQ5SHFMaGpRYkJfMjNNY0dBbGF4bkhDd3NSTFVqV3lHY1FOY2djSTFHdlJwRVQ0UmxBOW5EZklYbFZXRU5MQjhrRzRpR1hydVo2Y1FhTDZvakhBOFpv?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 12:00:43 GMT"
     },
     {
-      "headline": "Guide lists Masters in Design programs, fees, and exams.",
-      "background": "Design education content targeting students in India is common on platforms like Shiksha. This is a directory-style listing rather than editorial analysis.",
+      "headline": "Nielsen roundup: AI persuasion, dark summaries, and subscription churn",
+      "background": "Jakob Nielsen's UX roundups synthesize emerging research and observations across multiple UX and AI topics in a single digest, making them useful orientation pieces for practitioners tracking a broad field.",
       "keyFindings": [
-        "The piece lists Masters in Design programs with associated fees and entrance exam requirements",
-        "Content is oriented toward prospective students in the Indian education market"
+        "AI-generated summaries are flagged as a potential dark pattern — condensing content in ways that manipulate rather than inform",
+        "High churn rates for AI subscriptions suggest users are not finding sustained value, which has implications for AI product retention design",
+        "The fake vs. real users debate surfaces questions about the validity of AI-simulated personas in research"
       ],
-      "implications": "Relevant only if you are advising someone on postgraduate design education options in India. Not useful for working practitioners.",
+      "implications": "The dark pattern framing around AI summaries is worth attention for anyone designing content or feed experiences — consider whether summarization serves users or the platform. The churn data is a signal to examine AI feature stickiness in your own product.",
       "tags": [
-        "Design Education"
+        "AI Design",
+        "Dark Patterns",
+        "Product Strategy"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Shiksha.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY2NoUGlJZ05ESWVfbDBDVk1YMHQtaUpoT2tJdEs4YWhkYUNOOTRPQjdjbzVNcE03NXM0U1dXa1FneEk3b1lnelVnRUZzUnVkVDdWQ2lBS2lBMC1famN2NUxtUzdLNTdNQmYwRG1vRnhXM0JDTUNLUW5oREw3S3VYRXhnYkwtZw?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 12:00:21 GMT"
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwcmxLYVlJVm5NdjdsOHVzb1Y4YldNbzVkbXNQNjc5cnkybm1ZQWlhWTB5V210bXN1MUI2OW5KSHNKZ2RsMXEzRTRTVkgtblcyMm1pMzZlVm9ac3NaME1yRUNac0ZyS2FlTkE?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 11:21:40 GMT"
     },
     {
-      "headline": "AR prototype layers historical narrative onto a Korean fortress.",
-      "background": "Cultural heritage institutions are actively experimenting with AR to surface contextual storytelling at physical sites, where conventional signage and audio guides fall short for complex spatial histories.",
+      "headline": "Australian mobile app development company directory for 2025",
+      "background": "Vendor directories and agency lists are common in tech publishing, typically serving procurement or partnership discovery needs rather than practice-oriented readers.",
       "keyFindings": [
-        "A working AR prototype was developed specifically for a Korean fortress site",
-        "The system is designed to surface stories and historical context that are not visible or legible from the physical environment alone",
-        "The project is at prototype stage, not deployed at scale"
+        "Lists 18 Australian mobile app development agencies",
+        "No methodology for ranking or selection criteria disclosed in the snippet"
       ],
-      "implications": "A practical reference point for UX teams working on location-based AR experiences in heritage, tourism, or civic contexts. Note that prototype-to-deployment gaps in AR remain significant.",
+      "implications": "Relevant only if you are sourcing a development partner in Australia. Not actionable for UX or product practitioners outside that specific need.",
       "tags": [
-        "Augmented Reality",
-        "Location-Based UX",
-        "Cultural Heritage"
+        "Agency Directory",
+        "Mobile Development"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Bioengineer.org",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaEphVGtkakF4UnZvc2tOZFg0Ym9kSWFXT3NzQ0NEdzAwMTZhWTdXdG14T0p2WDVKMjNzSEJlVEFHeW5wcG0zMFFybF9nQjB4LVdTRVFvLWtHWDI4UHB5TGZfZ3NuRkRnd016Ym1JMVdqUTIzYTBmTUlGbl9kak1VbWx5ZzNrVVY0Z1RhcC1nZkpSQk1OWWNfV0RfRDNqbFZlYnpn?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 10:47:56 GMT"
+      "source": "WhaTech",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWZBTzlDYU5hTWRwMEdMWk9Jam9qcUhpbWJRcDc2akVjUnpGVDJYdjdtMU93NE9sUDVOWGZ2QVhHQ2RmMFNVZUFxUEFBWXZkS2k4cWRlSUhjQVhzT2xhS3hKd2tzRWw0ZE9GM0pWUHBYTGZKcmtDS2k4T2QyV09laWN2bTNhNzNzdEFIalZyQzkyNGw4WnREc1Vfd08waWlic011a3JzcUpacDFBUE1xa3EzdnM3aXNL0gG4AUFVX3lxTE5NZkFPOUNhTmFNZHAwR0xaT0lqb2pxSGltYlFwNzZqRWNSekZUMlh2N20xT3c0T2xQNU5YZnZBWEdDZGYwU1VlQXFQQUFZdmRLaThxZGVJSGNBWHNPbGFLeEp3a3NFbDRkT0YzSlZQcFhMZkpya0NLaThPZDJXT2VpY3ZtM2E3M3N0QUhqVnJDOTI0bDhadERzVV93TzBpaWJzTXVrcnNxSlpwMUFQTXFrcTN2czdpc0s?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 21:23:05 GMT"
     },
     {
-      "headline": "Webinar will cover embedding responsible gambling into product design.",
-      "background": "Regulators and operators in iGaming are under increasing pressure to move responsible gambling features from bolt-on compliance tools to core product design decisions. This webinar addresses that shift.",
+      "headline": "CD PROJEKT RED creator program gets a purpose-built UX platform",
+      "background": "Gaming companies increasingly run formal creator and ambassador programs, but these often live in generic tools like Discord or basic portals. CD PROJEKT RED commissioned a dedicated platform with custom UX and UI.",
       "keyFindings": [
-        "The webinar focuses on responsible gambling as a product design problem, not just a compliance checkbox",
-        "The framing is 'responsibility by design' — integrating RG into the product architecture from the start"
+        "180heartbeats + Jung von Matt designed the full UX and UI for CD PROJEKT RED's Creators and Ambassadors Program platform",
+        "The platform is purpose-built to manage creator relationships rather than adapted from a generic CMS or community tool",
+        "Represents a trend of gaming studios investing in bespoke creator-facing infrastructure as influencer programs scale"
       ],
-      "implications": "Directly relevant for product and UX practitioners in iGaming. The design-led framing is also applicable to any domain involving addictive mechanics, financial risk, or vulnerable user populations.",
+      "implications": "For product teams managing partner or creator programs at scale, this is a case study in treating creator experience as a first-class product surface rather than an internal ops tool.",
       "tags": [
-        "Responsible Design",
-        "iGaming",
-        "Ethics"
+        "Creator Economy",
+        "Platform Design",
+        "Gaming"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "iGaming Business",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTi1ma08wcnhzQlQ4aDl1eXZJUV9TaGtLdEJhd1BuVUdxUXRxTVVyZHNxMFVxRGxSRkVEd1oyYnJnZFpNNHlXa3hjVmh3TDdpeUFoTDlWMGh2THlCUTF3VmVHYWFOZDA1TjdmVFNyV0FiNEEwYkRIdzNaaklmdWY1R3BxNHZjcERjTUtCSFlNa0hkeGV4QjB0V3JXUW5SazlKOGxTdDdPdjgzMFFTdFdwcE5CVkVfQkQ4Z09Ccmp6MjVWNFQzeWVEeHBvQ191a3FSTExBZjFDOHdTMFJ2UzQ0REVTQ1VMWTg?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 10:10:48 GMT"
+      "source": "Roastbrief US",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPaGxvTVZWWEIxU09tWmlmLW9WYVZaTEx3ZnI2cUNwSHJwenRZOHpHS3VKZ3hYOEY2R1RmZEJHUFpPOENTdF9Za1lpNXhyWll4dG9rOGFSOG00OFVCRzBQa1lKMThVT1B2Um5pSjRuTThqQjlyQ1FKYnlWMk0xWjJ2R2pMTW5aUVczQ2owQlB2QmxweEllSVZMaW9Ib0FtcjNuZXlVOFh1TFZ0d2RMdTFZSUtqQmo3WmJnMjJwemhkb2NDaEZSQWtfUVFZRG5LZ2c3RGlzSlllZnNUblFhdEl0TV9IWk84am11RkR3bF9SVHJWVGMybEg1ZDdGelFmT1R6SF9TWU5ZeXJFckE?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 19:08:29 GMT"
     },
     {
-      "headline": "African youth program connects gig skills to paid work.",
-      "background": "Youth unemployment in sub-Saharan Africa is a persistent structural problem. Programs linking digital skill development to immediate income opportunities are emerging as a partial response.",
+      "headline": "UIDAI opens 28 tech internship spots through April 15",
+      "background": "India's Unique Identification Authority of India (UIDAI), which operates the Aadhaar identity system, periodically opens technical internship positions. The April 15 deadline makes this time-sensitive.",
       "keyFindings": [
-        "The GATEWAY Program specifically targets skilled young people who lack access to consistent income",
-        "The model connects participants to gig-based work rather than traditional employment pipelines"
+        "UIDAI is accepting applications for 28 technology internships with a deadline of April 15",
+        "Positions are within the government body responsible for India's national biometric ID infrastructure"
       ],
-      "implications": "Minimal direct relevance for UX/product practitioners unless you work on gig platform design or inclusive economic access. Worth noting as context for designing gig economy products for emerging markets.",
+      "implications": "Relevant to students or early-career technologists in India interested in identity systems or public sector tech. Not broadly actionable for the general UX/product audience.",
       "tags": [
-        "Gig Economy",
-        "Emerging Markets"
+        "Internships",
+        "GovTech",
+        "India"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Business Insider Africa",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUpnQ3ByY2dGcFdwaHRNMTc1SXQ2SGtlTUZ0Z3prdGc3bXpDdFY2N2J3TWlmLUx0aDRvbUJOMWREOUJBRXNFc0sxZ2tMeXdWWnhRM1ZSaHB2ZkNyVkpJcnY1d1JKa211ck5kSW5tdXJzOENiRDZsRDVGR1ZaUHROSl80ZzRuTGF0ZENHOUdCcUZtVC1WN0hfbmQ2bWJwR1FsUXRMcjd6NjBSYnRHcnhZRE5odw?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 08:18:56 GMT"
+      "source": "DD News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbnIyRjcwNGVUemk1ZkhUY2FkQmhtTm43RnR1OUluMnltamk1SW9Eb2Y3VTAyNUZtckxTSjhyZ1hFVUtpS2xJTjZVZzk1SF9OSUZoTWl2Z0VTaHVScE9VNFVNVHhnd081cjVDeFRXS0JyTklhMEFic09QUTV6cWY1WnVFTHoxX1hTTTh4SzhIak1YcGJB?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 19:03:05 GMT"
     }
   ]
 }
