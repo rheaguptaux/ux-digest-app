@@ -1,230 +1,219 @@
 {
-  "generatedAt": "2026-10-31T16:55:04.837Z",
+  "generatedAt": "2026-11-01T17:42:26.342Z",
   "items": [
     {
-      "headline": "Figma trains its own AI model for micro-edits",
-      "background": "Most generative AI tools in design are optimized for large-scale generation tasks, but the bulk of a designer's day involves small, repetitive changes — resizing, recoloring, adjusting spacing. Figma is building a model specifically tuned to these granular interactions rather than relying on general-purpose LLMs.",
+      "headline": "Apple's iPhone Duo Bets Everything on Thumb-Reachability",
+      "background": "As phones grow larger and one-handed use becomes harder, Apple's dual-iPhone lineup has prompted renewed scrutiny of how iOS structures its interactive zones. The 'thumb rule' — placing primary actions within natural thumb reach — is a longstanding mobile UX principle that many large-screen designs have quietly abandoned.",
       "keyFindings": [
-        "Figma is developing a proprietary model trained on the specific types of small edits designers make repeatedly throughout a workday",
-        "The approach prioritizes precision and reliability on mundane tasks over broad generative capability",
-        "This represents a shift from integrating third-party AI APIs toward owning the model layer for design-specific workflows"
+        "Apple's iOS control layout on the new iPhone models is explicitly organized around thumb travel distance, not screen real estate.",
+        "The piece argues this represents a deliberate architectural choice to prioritize ergonomics over content density.",
+        "Placing actions outside the thumb zone increases error rates and slows task completion, particularly for one-handed users."
       ],
-      "implications": "For product teams evaluating AI-assisted design tools, domain-specific fine-tuning on micro-tasks may outperform general models for day-to-day reliability. Watch whether this narrows the gap between AI suggestions and production-ready output.",
+      "implications": "Designers working on mobile interfaces should audit their primary action placement against actual thumb-reach maps for both small and large device sizes — not just assume bottom-of-screen equals accessible. This is especially relevant for teams designing for aging users or accessibility-sensitive contexts.",
       "tags": [
-        "AI tools",
-        "Design tooling",
-        "Figma"
+        "Mobile UX",
+        "Touch Targets",
+        "iOS Design"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*YeLXtpj__UUlZUv6c3dHLw.png",
+      "image": "https://cdn-images-1.medium.com/max/1491/1*dfnXbcjpM_b9jlLvbfQ6lw@2x.jpeg",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@ganesh_govalkar/figma-is-teaching-its-ai-to-make-small-edits-well-d030b19440cf?source=rss------product_design-5",
-      "pubDate": "Sat, 31 Oct 2026 16:47:35 GMT"
+      "link": "https://medium.com/@sajinp297/the-thumb-rule-goes-sideways-what-iphone-duo-teaches-us-about-mobile-ux-73ff8794c22c?source=rss------product_design-5",
+      "pubDate": "Sun, 01 Nov 2026 17:33:30 GMT"
     },
     {
-      "headline": "UX fundamentals ignored — and now the reckoning",
-      "background": "Written in Spanish, this piece from Santiago Bustelo reflects on a long-predicted crisis in UX practice — the gradual erosion of foundational principles in favor of trends, speed, and superficial adoption of new tools. Bustelo argues the warning signs were visible and largely dismissed.",
+      "headline": "Off-Topic: Children's Thanksgiving Story",
+      "background": "This article is not relevant to UX, product, or technology.",
       "keyFindings": [
-        "The author contends that practitioners who flagged deteriorating UX fundamentals were dismissed or labeled as resistant to change",
-        "The piece frames the current state of UX practice as a predictable outcome of systemic neglect of core methodology",
-        "It positions the crisis as cultural and professional, not just technical"
+        "No UX, product, or tech content present.",
+        "Content is a children's fictional bedtime story."
       ],
-      "implications": "Relevant for UX leads and educators re-evaluating how foundational skills are taught and maintained on teams amid pressure to adopt AI-first workflows. The piece is in Spanish and may have limited reach for English-only readers, but the argument translates broadly.",
+      "implications": "No applicable takeaway for UX or product practitioners.",
       "tags": [
-        "UX practice",
-        "Professional culture",
-        "Methodology"
+        "Off-Topic"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*cvYYoi8EFE_F8k_pNrogTQ.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*23xAJDJxnAoJEdFRNLjWew.jpeg",
       "source": "UX on Medium",
-      "link": "https://medium.com/santiagobustelo/cr%C3%B3nica-de-una-gran-tormenta-ux-anunciada-aa96f99847a2?source=rss------ux-5",
-      "pubDate": "Sat, 31 Oct 2026 16:20:25 GMT"
+      "link": "https://medium.com/@muhammadshoaib119949/the-little-girl-who-saved-thanksgiving-a-magical-story-about-kindness-9353726b795d?source=rss------ux-5",
+      "pubDate": "Sun, 01 Nov 2026 17:15:38 GMT"
     },
     {
-      "headline": "Five Claude Code mods that reshape your dev workflow",
-      "background": "Claude Code — Anthropic's CLI-based coding agent — supports community-built mods that alter its interface and behavior. As agentic coding tools become daily infrastructure for developers, the mod ecosystem is maturing into a meaningful layer of customization.",
+      "headline": "AI-Powered CRM Design That Actually Fixes Data Quality",
+      "background": "CRM data degradation is a persistent problem for high-growth teams — sales reps entering incomplete records, duplicates accumulating, and trust in the system eroding over time. This case study examines a design-led approach to solving data quality at the workflow level rather than through backend cleanup alone.",
       "keyFindings": [
-        "Mods work across both CLI and non-CLI Claude Code environments",
-        "The five highlighted mods change behavioral defaults, not just visual appearance",
-        "This mod system represents a plugin-like extensibility layer built on top of an AI coding agent"
+        "The design used AI to flag and suggest corrections for incomplete or inconsistent CRM entries inline, at the point of input rather than after the fact.",
+        "Simplifying data entry workflows reduced the friction that causes reps to skip fields or enter placeholder data.",
+        "Building visible data quality indicators into the UI helped establish user trust in AI-generated suggestions, which drove adoption."
       ],
-      "implications": "Developers and technical UX researchers integrating Claude Code into their pipelines should audit available mods before building custom tooling — existing mods may already solve workflow friction points. Not relevant for non-technical roles.",
+      "implications": "For teams designing internal tools or SaaS CRMs, this case reinforces that data quality is a UX problem as much as an engineering one — intervention at the moment of entry is more effective than post-hoc correction. AI assistance needs transparent confidence signals to earn user trust, not just silent automation.",
       "tags": [
-        "AI tools",
-        "Developer tools",
-        "Claude"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1796/1*KZh6Nhz_IFzeJwfiFa26iw.png",
-      "source": "UX Planet - Medium",
-      "link": "https://uxplanet.org/5-new-claude-mods-that-will-change-how-you-work-618fa55bc7db?source=rss----819cc2aaeee0---4",
-      "pubDate": "Sat, 31 Oct 2026 15:07:38 GMT"
-    },
-    {
-      "headline": "The Turin Test rewards inhuman performance, not intelligence",
-      "background": "The Turing Test remains a reference point in AI evaluation debates, but critics argue its framing is fundamentally flawed — it measures an AI's ability to imitate human behavior under adversarial conditions, which may select for deceptive or superhuman performance rather than genuine understanding.",
-      "keyFindings": [
-        "The piece argues that accepting a 'machine competition' framing in the Turin/Turing Assessment introduces an unstated requirement for AI to be more performatively human than humans actually are",
-        "This framing may inadvertently reward AI systems optimized for deception over those with more genuine reasoning capability",
-        "The author suggests the evaluation premise itself shapes — and distorts — what AI development optimizes for"
-      ],
-      "implications": "Product teams building AI evaluation frameworks or designing human-AI interaction benchmarks should examine whether their success metrics similarly reward surface-level imitation over functional reliability or honest capability.",
-      "tags": [
-        "AI evaluation",
-        "Human-AI interaction",
-        "Ethics"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "UX on Medium",
-      "link": "https://internetouroboros.medium.com/turin-assessment-leaves-room-for-conflict-c2260fe00570?source=rss------ux-5",
-      "pubDate": "Sat, 31 Oct 2026 14:21:37 GMT"
-    },
-    {
-      "headline": "November 2026 desktop wallpaper collection — free download",
-      "background": "Smashing Magazine runs a monthly wallpaper collection contributed by designers worldwide. This is the November 2026 edition.",
-      "keyFindings": [
-        "Wallpapers are available in multiple screen resolutions",
-        "Designs are contributed by independent creatives globally",
-        "All wallpapers are free to download"
-      ],
-      "implications": "No professional implications. This is a design community resource for personal use.",
-      "tags": [
-        "Design resources",
-        "Community"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Design & dev",
-      "publishedWindow": "today",
-      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
-      "source": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
-      "pubDate": "Sat, 31 Oct 2026 08:00:00 GMT"
-    },
-    {
-      "headline": "Edge AI platforms and agentic engineering apps: what's shipping now",
-      "background": "Edge AI — running inference directly on hardware rather than in the cloud — is moving from research into embedded product development. This roundup from Embedded Week covers the current state of development platforms, agentic capabilities in engineering software, and real-time sensing integrations.",
-      "keyFindings": [
-        "Development platforms for edge AI are now a distinct product category with multiple competing options",
-        "Engineering applications are beginning to integrate agentic AI, raising questions about appropriate autonomy boundaries",
-        "Real-time sensing is converging with AI inference at the edge, enabling new categories of embedded product"
-      ],
-      "implications": "UX and product designers working on hardware-adjacent or industrial products should track edge AI platform maturity — it affects what interactions are feasible without network dependency and changes latency expectations for AI-assisted features.",
-      "tags": [
-        "Edge AI",
-        "Embedded systems",
-        "Agentic AI"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "www.embedded.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUUx6eFk3UGFNZ0RXYjRmZC1tbEQ4dVMxZ0Q2QVNWNGpEaVNsNDlpSFM0ZkFTWVJES29jX1l4UC1jUTR5eHQwb2ZKRF9NQ0U0Sm1oOU41c0YxUE5JRTV2dkhRaThnNXRPQV90a3BrX2RwbUwtT3kyWDVQSUtFRzM3N2tHZGlmeUEzYjlxRmxQbTFLOExpR2V5U29YTzlQT0x1ejAyWDVmQy1qWFFZU1dHV09KZXg5YlRpRlVjeXkxbmlpZTRuMmJ3VlIwb0puVGdLZVFN?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 21:12:49 GMT"
-    },
-    {
-      "headline": "In AI-native dev cycles, UX must fight to stay upstream",
-      "background": "Agentic 'software factory' pipelines — where AI handles large portions of the build process — are compressing or eliminating traditional UX touchpoints. This piece argues that UX risks being reduced to prompt context fed into an AI rather than a shaping force in product development.",
-      "keyFindings": [
-        "AI-native development lifecycles tend to reduce UX input to context strings passed to AI systems rather than active discovery and decision-making",
-        "The author argues UX must own three distinct phases: discovering user needs, shaping what gets built, and evaluating outputs before and after launch",
-        "Without deliberate structural intervention, UX becomes a downstream validator rather than an upstream influence in agentic workflows"
-      ],
-      "implications": "UX leaders need to explicitly negotiate their team's role in AI-assisted development processes before those processes are locked in. Waiting to be included after the pipeline is defined likely means being excluded from consequential decisions.",
-      "tags": [
-        "Agentic AI",
-        "UX practice",
-        "Product process"
+        "AI Tools",
+        "Internal Tools",
+        "CRM Design"
       ],
       "featured": true,
-      "type": "research",
-      "category": "Research",
+      "type": "opinion",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/articles/ux-agentic-software-factories/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 30 Oct 2026 17:00:00 +0000"
+      "image": "https://cdn-images-1.medium.com/max/2600/1*aoiHVQUf0Z5ZLTE5fic2fg.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@ofnav.studio/solving-data-quality-issues-in-crm-for-high-growth-teams-d5ccea7aa785?source=rss------product_design-5",
+      "pubDate": "Sun, 01 Nov 2026 15:38:09 GMT"
     },
     {
-      "headline": "UX needs a new name as AI agents become users too",
-      "background": "The definition of 'user' in UX has historically meant a human. As AI agents increasingly act on behalf of people — navigating interfaces, making requests, completing tasks — the field faces a conceptual gap: existing frameworks don't cleanly account for non-human actors whose actions still ultimately serve human goals.",
+      "headline": "Rethinking Intelligence as Process, Not Knowledge Store",
+      "background": "Debates around AI capability benchmarks and human cognition have renewed interest in what 'intelligence' actually means. This opinion piece pushes back on static, knowledge-based definitions.",
       "keyFindings": [
-        "The author proposes 'Experience Design' as a replacement framing broad enough to cover both human users and AI agents acting on their behalf",
-        "The argument is that centering on people's goals rather than people's direct interactions preserves the humanistic core of UX while accommodating agent-mediated experiences",
-        "This reframing has practical consequences for how designers scope their work, define success, and conduct research"
+        "The author frames intelligence as a developmental process — how thinking evolves — rather than a fixed capacity or volume of retained information.",
+        "No empirical research or UX-specific findings are cited; this is a philosophical opinion piece."
       ],
-      "implications": "Teams designing APIs, voice interfaces, or any surface that AI agents will navigate on behalf of humans should already be thinking about agent experience alongside human experience — accessibility and clarity standards apply to both. The terminology debate is secondary to the practical design gap it surfaces.",
+      "implications": "Marginally relevant as background thinking for teams working on AI product design or cognitive load research, but offers no actionable UX guidance. Low practical priority.",
       "tags": [
-        "Agentic AI",
-        "Experience design",
-        "Human-AI interaction"
+        "Opinion",
+        "Cognition",
+        "AI"
       ],
       "featured": false,
-      "type": "research",
-      "category": "Research",
+      "type": "opinion",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/articles/ux-vs-experience-design/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 30 Oct 2026 17:00:00 +0000"
+      "image": "https://cdn-images-1.medium.com/max/2600/1*jF_sPXAVF39wDaz0odCY7g.jpeg",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@dariavandermay95/what-does-it-actually-mean-to-be-intelligent-a327986715ee?source=rss------ux-5",
+      "pubDate": "Sun, 01 Nov 2026 15:34:42 GMT"
     },
     {
-      "headline": "Best book covers of October 2026",
-      "background": "Monthly roundup from The Rumpus highlighting standout book cover designs.",
+      "headline": "Off-Topic: Single Cell Genome Sequencing Market Report",
+      "background": "This is a biotech market research report unrelated to UX, product design, or technology practice.",
       "keyFindings": [
-        "Twelve covers selected from October 2026 publications",
-        "Curated by The Rumpus editorial team"
+        "No UX, product, or tech content present.",
+        "Content covers oncology research market forecasts to 2035."
       ],
-      "implications": "No direct professional implications for UX or product work. Useful as visual inspiration for designers interested in print and editorial design.",
+      "implications": "No applicable takeaway for UX or product practitioners.",
       "tags": [
-        "Design inspiration",
-        "Editorial design"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "The Rumpus",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOUlCNW9tb0dpaUR6dTdKVTd1UWoxVjBDd0NTVDBQS1RLb1kzVVhwcDNiNXAyT1d6SmxPb0lyWVhVNGhiSjdhU1A1VnRIUWoyN1RiaXNaS200SU0weVd5UkZrcnNXNTVLdzVXYXUtTGo0Y20wUmJ6WWZUQlNtX3NCbVh3?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 13:44:00 GMT"
-    },
-    {
-      "headline": "Nexen launches new UHP and touring tyres in Malaysia",
-      "background": "Tyre manufacturer Nexen has introduced two new product lines in the Malaysian market targeting wet-weather performance.",
-      "keyFindings": [
-        "The N'Fera Primus UX is a ultra-high-performance tyre; the N'Blue S targets the touring segment",
-        "Both lines are marketed primarily on wet traction performance claims",
-        "Launch is specific to the Malaysian market"
-      ],
-      "implications": "Not relevant to UX, product, or tech work. Included in source batch in error.",
-      "tags": [
-        "Off-topic"
+        "Off-Topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "AutoBuzz.my",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOWNDaUhfZHdCWjFoQmJvalpKNnUzbGlPcDJLMWNobHFmdVJOSVZHeG5zLWZOTHRHb2plM3FYMTNRbGxFWmw3UGxiam5kUkM3RFNVZ1htZ05iZ3V3WVhYY2FIOUkwU1c4cDN6TzZrX0d3S1RfbjlUSXEyTHNNRHJpTThhdC00YW5NLW9xUDNjQjdBcG1QMFF4d2ZFby1XdE1vdWthVjRJODF4V3ZYNnpTRVpGSnE5cEpBM2YwUmN0Z0FnQUE4TFhPNlpybEc?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 11:48:29 GMT"
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZTJZaTRrTFlTSjlnTUNmT0VIMTI0VjZ3Y3VNdkZmZC1yVFVfMkJwV0NUMGdja1FfREUwOHBDeC1mNjVfb1YydWw0cnB4UnM5Wmx2dHhHcGI1VDVEUnZYcjBROGFXalJVTkNOa1dXTzVpeVVGTFh2MnBXWGppN0p2VDZBaVVQYjdNRzZ4N1U3S1RQdkFlZDhyWlgwbHdzcnVGWWhySWw1MXpvWFhveEh2dXlqQkRCanQxNUlzRENhQUY?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 13:51:04 GMT"
+    },
+    {
+      "headline": "South Korea's IRIS Research Portal Gets a Major UX Overhaul",
+      "background": "IRIS is South Korea's Ministry of Science and ICT government research information system, used by academics and institutions to register and manage research papers. The interface had been criticized for complexity and limited mobile support.",
+      "keyFindings": [
+        "The overhaul automates paper registration, reducing manual data entry burden for researchers.",
+        "Mobile support has been significantly expanded, making the system functional outside desktop environments for the first time at scale.",
+        "The Ministry of Science and ICT (MSIT) led the redesign, signaling government-level prioritization of digital service usability."
+      ],
+      "implications": "Worth noting for practitioners working on government or institutional platforms: automation of repetitive data entry and mobile parity are consistently high-impact improvements in low-engagement, compliance-driven tools. The IRIS case is a reference point for large-scale legacy interface modernization.",
+      "tags": [
+        "Government UX",
+        "Mobile Support",
+        "Legacy Systems"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVGMxU3FWaDZSdFp0RVg5dm9zQnJOa2pwSHJoUEFWckk0REhIX2VXeVRWQ09jazduX0lDaThXRWlJamthek5UQjQtWnBDNFNiUzVoQTVPY2VxNFRnRzJoN2VCRXFHNXNLdmNveUp1dlVUNS1zUVJLQWliNzdYY2p0TlBiTTdodlhOcHpBUVlya01xR3M4U3lRdS1NUVBpbFhhdEVPQmRBUk5TSUlpdVJWSDRYRHdtZlJqVHpzc1pKVXJCLTl3MGc?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 03:00:00 GMT"
+    },
+    {
+      "headline": "Off-Topic: AML Immunotherapy Market Forecast",
+      "background": "This is a biotech/pharma market research report with no relevance to UX, product design, or technology practice.",
+      "keyFindings": [
+        "No UX, product, or tech content present.",
+        "Content covers antigen peptide market forecasts related to leukemia treatment pipelines."
+      ],
+      "implications": "No applicable takeaway for UX or product practitioners.",
+      "tags": [
+        "Off-Topic"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV1N0T3hfNzZpYUJlZ1BwNm9ZVnI5aXp2VDNlWUladHROYzdaeUFyeXFSd01jY05HU29TY3N6dFNOVkhCT1BRZ2hrekVLTllQYUljdU1mWGMxcE9aN19kWVQ1UWVwdzRfR1E5V041aEl1MkY2eEx2cUV1N0h4YV80eHhZVE1HcGpZNU0xM2tJVTFBVHdRNm1IandZNmF3YmxhdVo3ckZHZi1GTl82QjVtcmtGVUpJd1NKSXN6elV3cjZndWp3MGMzS3RlUQ?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 00:06:04 GMT"
+    },
+    {
+      "headline": "Off-Topic: Pinterest UI Dribbble Concept",
+      "background": "This appears to be a Dribbble design concept shared via a third-party site, with no substantive article content to evaluate.",
+      "keyFindings": [
+        "No written analysis, findings, or UX rationale are present in the snippet.",
+        "Content is a visual design exercise, not an article."
+      ],
+      "implications": "No actionable takeaway without access to accompanying design rationale.",
+      "tags": [
+        "Off-Topic"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "week",
+      "image": null,
+      "source": "auroradesio.it",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81Q2xKbTUyTVZKc2VuM2hLanRQa3FyZWw5WEdmamd2TTV5Qkh3YXRzSmdaSzdvSkMtNU9rRTRvME9DMS0tOExCSUZNam5fVExQUFE?oc=5",
+      "pubDate": "Sat, 31 Oct 2026 01:09:06 GMT"
+    },
+    {
+      "headline": "Off-Topic: Automotive Design Roundup",
+      "background": "This is an industrial/automotive design news roundup covering McLaren, concept vehicles, and Skoda accessories — outside the scope of digital UX or product design.",
+      "keyFindings": [
+        "No digital UX, product, or tech content present.",
+        "Content covers physical product and vehicle design."
+      ],
+      "implications": "No applicable takeaway for UX or product practitioners.",
+      "tags": [
+        "Off-Topic"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "week",
+      "image": null,
+      "source": "Car Design News",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSDFuYW51bTBjbEdscFlSSzM2SjBmRDd4U1I4VjNBbEY0Mkp0U1RrVVhYQ2FpV2NRdUZsMTFnbmNRSVgwN0VLQjN1dlVaajZ0Nmc3QnFIZ2F0RHYtYVFDcDBBZGVoUVVvbUhNUkJIUnVQY2ZJaml6RTBaNkFVR29UZGQ1a2U2VkxkTlA2RUtSQzBZekZsYndMTnljc2pNcUxvQm9xNi04MkFwOGlFd2FzMC0xVHRlLWQwZDN4VTd6TVRpV1hEaTlzLVJHWQ?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 16:48:18 GMT"
+    },
+    {
+      "headline": "NJIT Alum Describes Building Software for Meta Wearables",
+      "background": "Meta's wearables ambitions — spanning AR glasses and smart accessories — require significant software infrastructure work that rarely gets public attention. This alumni profile gives a partial view into what that engineering work involves.",
+      "keyFindings": [
+        "Michael Vaks works on software systems underlying Meta's wearable hardware, though specific technical details are limited in the snippet.",
+        "The piece is primarily a university alumni profile, not a technical deep-dive.",
+        "Meta's wearables software stack is an emerging area with few published practitioner accounts."
+      ],
+      "implications": "Limited actionable detail for practitioners, but useful as a signal of the growing software complexity behind AR/wearable hardware — relevant context for teams thinking about designing for wearable form factors.",
+      "tags": [
+        "Wearables",
+        "AR",
+        "Meta"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "week",
+      "image": null,
+      "source": "NJIT News",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHY3NnFQc0owVFBHbEpOR0hTSHJRSmFkZ1JlVHYyeVA4WUl3MEswVnl6NTR5UWZNMVplN0xHUlZqN29aZXdCWURkcXFkTWRtbHVHY3pBeVR2NFNKOTZxZFhuMHludkdWdGYyajNjeXVEYll3c2dvQkVDYnRkLWsxLWJiYw?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 16:06:51 GMT"
     }
   ]
 }
