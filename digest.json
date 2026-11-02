@@ -1,219 +1,231 @@
 {
-  "generatedAt": "2026-11-01T17:42:26.342Z",
+  "generatedAt": "2026-11-02T21:27:58.135Z",
   "items": [
     {
-      "headline": "Apple's iPhone Duo Bets Everything on Thumb-Reachability",
-      "background": "As phones grow larger and one-handed use becomes harder, Apple's dual-iPhone lineup has prompted renewed scrutiny of how iOS structures its interactive zones. The 'thumb rule' — placing primary actions within natural thumb reach — is a longstanding mobile UX principle that many large-screen designs have quietly abandoned.",
+      "headline": "AI in UX: Wrong question, real problem",
+      "background": "The debate over whether AI will replace UX designers has dominated industry conversation, but critics argue this framing misses deeper structural issues already present in how UX work is commissioned and valued.",
       "keyFindings": [
-        "Apple's iOS control layout on the new iPhone models is explicitly organized around thumb travel distance, not screen real estate.",
-        "The piece argues this represents a deliberate architectural choice to prioritize ergonomics over content density.",
-        "Placing actions outside the thumb zone increases error rates and slows task completion, particularly for one-handed users."
+        "The author reframes the AI-replacement question as a distraction from pre-existing problems in how design work is scoped and measured",
+        "AI may be accelerating commoditization of surface-level design work rather than introducing a new threat",
+        "The risk isn't replacement but further devaluation of research and strategy in favor of faster output"
       ],
-      "implications": "Designers working on mobile interfaces should audit their primary action placement against actual thumb-reach maps for both small and large device sizes — not just assume bottom-of-screen equals accessible. This is especially relevant for teams designing for aging users or accessibility-sensitive contexts.",
+      "implications": "UX practitioners should be cautious about arguments that treat AI as the root cause of role erosion — the more useful audit is whether your current work is differentiated by judgment and research, not just execution speed.",
       "tags": [
-        "Mobile UX",
-        "Touch Targets",
-        "iOS Design"
+        "AI tools",
+        "Design strategy",
+        "Future of design"
       ],
-      "featured": true,
+      "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1491/1*dfnXbcjpM_b9jlLvbfQ6lw@2x.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/1774/1*NxZYfrz8aLvN2VAE-JFQKQ.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@sajinp297/the-thumb-rule-goes-sideways-what-iphone-duo-teaches-us-about-mobile-ux-73ff8794c22c?source=rss------product_design-5",
-      "pubDate": "Sun, 01 Nov 2026 17:33:30 GMT"
+      "link": "https://medium.com/@russpinkston/design-by-numbers-is-ai-ruining-ux-or-just-pouring-gasoline-on-the-fire-24164d49e422?source=rss------product_design-5",
+      "pubDate": "Mon, 02 Nov 2026 21:24:03 GMT"
     },
     {
-      "headline": "Off-Topic: Children's Thanksgiving Story",
-      "background": "This article is not relevant to UX, product, or technology.",
+      "headline": "Conversational tone as a core product design choice",
+      "background": "As productivity apps multiply, some teams are experimenting with informal, personality-driven copy as a differentiator — but the line between engaging voice and unprofessional friction is poorly defined in most design guidelines.",
       "keyFindings": [
-        "No UX, product, or tech content present.",
-        "Content is a children's fictional bedtime story."
+        "The piece uses 'Clock in, stay in, cash out later' as an example of copy that conveys function and attitude simultaneously",
+        "Friendly microcopy can reinforce habitual use by making transactional moments feel lower-stakes",
+        "Tone consistency across an app requires deliberate content design systems, not just copywriter instinct"
       ],
-      "implications": "No applicable takeaway for UX or product practitioners.",
+      "implications": "If you're defining voice and tone for a productivity or utility product, this is a useful case for how colloquial language can serve retention — but it requires audit across all touchpoints to avoid feeling inconsistent or patronizing.",
       "tags": [
-        "Off-Topic"
+        "Content design",
+        "Microcopy",
+        "Productivity apps"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1600/0*2UQNx0iyCFN7IvlJ.jpg",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@graphicsdanielgraphics/why-my-productivity-app-talks-like-a-friend-e43d67f097e2?source=rss------product_design-5",
+      "pubDate": "Mon, 02 Nov 2026 21:16:01 GMT"
+    },
+    {
+      "headline": "Listicle: 11 US on-demand app dev firms",
+      "background": "On-demand app development vendor roundups are a common content marketing format with limited editorial value for practitioners evaluating build partners.",
+      "keyFindings": [
+        "Lists 11 US-based firms positioned for scalable on-demand app development",
+        "No methodology disclosed for inclusion or ranking criteria",
+        "Primarily promotional in framing"
+      ],
+      "implications": "Not a reliable reference for vendor selection without independent verification of claims. Treat as a starting point for a longer list, not a vetted shortlist.",
+      "tags": [
+        "Vendor selection",
+        "App development"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "WhaTech",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZWptRU1LOXBnWUlYaDd2M0RQMHpYRjQzTkI2TUljZ2w3ejZnV01DVk5BanUtcjBIZERWcmlDX05NNlNlMzdLZGc3akJCOG9XaUdpNUdacHVzTFNnZjg1bGJBQXRJcFl5RW5oSXJwWnlYMkhJQ3h3RHZtbWkyOEJyckc2RnIyYm1iU2k3UFhPUDhUcno2U3l5RnZSY2pkY0pRMW5pRzRyMkIwRVlZN2Q3d296TkN0aksyNDU2MkpQLThRUWlpdlREU0Nsb24zMGh5SmhaWl9rQjFxYjJGRFF0a3VfMkjSAeQBQVVfeXFMTmVqbUVNSzlwZ1lJWGg3djNEUDB6WEY0M05CNk1JY2dsN3o2Z1dNQ1ZOQWp1LXIwSGREVnJpQ19OTTZTZTM3S2RnN2pCQjhvV2lHaTVHWnB1c0xTZ2Y4NWxiQUF0SXBZeUVuaElycFp5WDJISUN4d0R2bW1pMjhCcnJHNkZyMmJtYlNpN1BYT1A4VHJ6NlN5eUZ2UmNqZGNKUTFuaUc0cjJCMEVZWTdkN3dvek5DdGpLMjQ1NjJKUC04UVFpaXZURFNDbG9uMzBoeUpoWlpfa0IxcWIyRkRRdGt1XzJI?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 20:18:20 GMT"
+    },
+    {
+      "headline": "Field UX research inside Hindu cremation systems",
+      "background": "UX research methodology is rarely applied to end-of-life services, particularly those operating within cultural and religious frameworks that are underrepresented in design literature.",
+      "keyFindings": [
+        "Research was conducted on-field with practitioners involved in Hindu cremation logistics, not just bereaved families",
+        "The work maps the systems and human roles that comprise the 'last journey' — an infrastructure largely invisible in mainstream service design",
+        "Surfaces how essential services operating in grief contexts have distinct user needs that standard research protocols may not accommodate"
+      ],
+      "implications": "A useful reference for researchers working in sensitive, high-stakes, or culturally specific contexts — particularly for rethinking consent, observation ethics, and how to frame 'users' in service ecosystems not designed with UX in mind.",
+      "tags": [
+        "Field research",
+        "Service design",
+        "Research ethics"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*z4ybw1RfDp0F3uFArW5yiQ.jpeg",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@raodish09/antim-yatra-the-journey-we-rarely-see-16720eb0cd96?source=rss------ux_research-5",
+      "pubDate": "Mon, 02 Nov 2026 19:05:59 GMT"
+    },
+    {
+      "headline": "Anthropic's Claude Skills need structured, precise instructions",
+      "background": "Anthropic has been iterating on how Claude handles 'Skills' — discrete, reusable capabilities that developers configure — and the design requirements for these instructions are becoming more demanding as the system evolves.",
+      "keyFindings": [
+        "Effective Claude Skill instructions must be clear, focused, and well-organized — ambiguous prompts produce significantly degraded outputs",
+        "Anthropic's changes are pushing developers toward treating skill instructions more like formal interface specifications than casual prompts",
+        "The article identifies three specific design principles, emphasizing that scope creep in instructions is a primary failure mode"
+      ],
+      "implications": "If your team is building on Claude's Skills API, treat instruction design as a UX artifact requiring the same rigor as a design spec — vague or multi-purpose instructions will compound in failure as the system scales.",
+      "tags": [
+        "AI tools",
+        "Prompt design",
+        "Developer tools"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1024/1*23xAJDJxnAoJEdFRNLjWew.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*RaxRclO4WqcYi1QRrVPTZQ.jpeg",
       "source": "UX on Medium",
-      "link": "https://medium.com/@muhammadshoaib119949/the-little-girl-who-saved-thanksgiving-a-magical-story-about-kindness-9353726b795d?source=rss------ux-5",
-      "pubDate": "Sun, 01 Nov 2026 17:15:38 GMT"
+      "link": "https://prospectivejournal.medium.com/claude-skills-are-changing-3-design-principles-developers-should-understand-a485b8e2848b?source=rss------ux-5",
+      "pubDate": "Mon, 02 Nov 2026 18:41:25 GMT"
     },
     {
-      "headline": "AI-Powered CRM Design That Actually Fixes Data Quality",
-      "background": "CRM data degradation is a persistent problem for high-growth teams — sales reps entering incomplete records, duplicates accumulating, and trust in the system eroding over time. This case study examines a design-led approach to solving data quality at the workflow level rather than through backend cleanup alone.",
+      "headline": "Profile: One designer's career at a liberal arts college",
+      "background": "College alumni profiles occasionally offer insight into non-traditional career paths in design, though they vary widely in substantive professional detail.",
       "keyFindings": [
-        "The design used AI to flag and suggest corrections for incomplete or inconsistent CRM entries inline, at the point of input rather than after the fact.",
-        "Simplifying data entry workflows reduced the friction that causes reps to skip fields or enter placeholder data.",
-        "Building visible data quality indicators into the UI helped establish user trust in AI-generated suggestions, which drove adoption."
+        "Profile focuses on a web designer who attended Whitman College, a small liberal arts institution",
+        "Framing centers on career narrative and personal values over technical methodology",
+        "No specific design tools, processes, or outcomes are detailed in the snippet"
       ],
-      "implications": "For teams designing internal tools or SaaS CRMs, this case reinforces that data quality is a UX problem as much as an engineering one — intervention at the moment of entry is more effective than post-hoc correction. AI assistance needs transparent confidence signals to earn user trust, not just silent automation.",
+      "implications": "Limited professional utility as a reference. More relevant to those considering design education paths than to practitioners seeking process or craft insight.",
       "tags": [
-        "AI Tools",
-        "Internal Tools",
-        "CRM Design"
+        "Career",
+        "Design education"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Whitman College",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2d4QzRuVFRaeVdmdUNLMTJLMUtOYklPZ3Y4eENZcGpHOVpTUTZNNGswVVVBVHM2OGRKZHhTVGRlSVFpU3IzeC1yaTBXdUltTzdGVjR0czBkSm0tUWVLdmJlaElGOC1BNXp0OXFnVW9aRDhVMldvSGNKb2xqR2xidkhsNlJmRDluOG5HbE9MRGZQT0FEaWI2TGtNQlRmVFdTNWZOMzM4VzZmTnFfa0pmcE8tRTZrQ0l5RWtoVA?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 16:53:54 GMT"
+    },
+    {
+      "headline": "HuBMAP opens multimodal human tissue data portal",
+      "background": "The Human BioMolecular Atlas Program (HuBMAP) is a NIH-funded initiative to map the human body at cellular resolution. Researchers and data product teams building tools in health and bioinformatics need accessible, standardized data infrastructure.",
+      "keyFindings": [
+        "The HuBMAP Data Portal aggregates spatial and single-cell data from healthy human tissues across multiple organ systems",
+        "Data is multimodal — combining imaging, genomics, and spatial transcriptomics — requiring a portal design that handles high-dimensional, heterogeneous datasets",
+        "Published in Nature, indicating peer-reviewed validation of the data architecture and curation approach"
+      ],
+      "implications": "Relevant to product and UX teams building data portals in life sciences or research contexts — HuBMAP's portal represents a real-world example of designing for expert users navigating complex, multi-type scientific datasets.",
+      "tags": [
+        "Data visualization",
+        "Research tools",
+        "Health tech"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyWlRRS29YUl9oSGkxNkFvb1puYkFjX2Q4by04WVNuajF5VUw0NmlGdzdIN0lUVHJDd1doRWZhRDlEbEUwOEVjSlk0blk1ZGFsZWRNUXJpQl9WdDFFay1z?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 14:10:26 GMT"
+    },
+    {
+      "headline": "Nielsen's UX roundup: AI interviews, date pickers, NASA-TLX",
+      "background": "Jakob Nielsen's periodic UX roundups aggregate research findings and tool recommendations across multiple active debates in the field, making them a dense reference for practitioners tracking evidence-based practice.",
+      "keyFindings": [
+        "AI can now be used to practice UX research interviews, offering low-stakes repetition for skill-building",
+        "Date-picking UI patterns and the NASA Task Load Index (a cognitive load measurement tool) are both covered, suggesting renewed attention to measurement rigor in UX",
+        "The roundup also addresses the 'why vs. what' distinction in research questioning — a persistent methodological issue in user interviews"
+      ],
+      "implications": "Worth reading in full for practitioners who run user research or evaluate cognitive load — the NASA-TLX reference in particular is useful for teams that need defensible workload metrics in enterprise or safety-critical product contexts.",
+      "tags": [
+        "User research",
+        "AI tools",
+        "Cognitive load"
       ],
       "featured": true,
-      "type": "opinion",
-      "category": "Product design",
+      "type": "research",
+      "category": "Industry news",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*aoiHVQUf0Z5ZLTE5fic2fg.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@ofnav.studio/solving-data-quality-issues-in-crm-for-high-growth-teams-d5ccea7aa785?source=rss------product_design-5",
-      "pubDate": "Sun, 01 Nov 2026 15:38:09 GMT"
+      "image": null,
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpakJTa20wcEVJcW9BSS1LMk5Pa181bE4xX3RiaEZQYUhoSDlqWktFQWFfMkNqQ282c25qUlF2YTJwX09xU3NIbjZNbkdSakpCeUJ6Zlp1VVVMTmV6b3RkeTk4SkI0SkV2a3c?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 12:21:35 GMT"
     },
     {
-      "headline": "Rethinking Intelligence as Process, Not Knowledge Store",
-      "background": "Debates around AI capability benchmarks and human cognition have renewed interest in what 'intelligence' actually means. This opinion piece pushes back on static, knowledge-based definitions.",
+      "headline": "What Melbourne businesses should expect from web agencies in 2026",
+      "background": "Web agency capability articles aimed at SMBs are a common content marketing format; their value as a professional reference depends heavily on whether claims are grounded in specific trends or remain generic.",
       "keyFindings": [
-        "The author frames intelligence as a developmental process — how thinking evolves — rather than a fixed capacity or volume of retained information.",
-        "No empirical research or UX-specific findings are cited; this is a philosophical opinion piece."
+        "Targets Melbourne-based businesses evaluating agency partnerships for 2026 projects",
+        "No specific methodologies, pricing structures, or capability benchmarks are cited in the snippet",
+        "Primarily advisory in tone without disclosed sourcing"
       ],
-      "implications": "Marginally relevant as background thinking for teams working on AI product design or cognitive load research, but offers no actionable UX guidance. Low practical priority.",
+      "implications": "Not substantive enough for use as a procurement or briefing reference. If you're scoping agency work, look for resources with defined evaluation criteria rather than market-facing advisory content.",
       "tags": [
-        "Opinion",
-        "Cognition",
-        "AI"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*jF_sPXAVF39wDaz0odCY7g.jpeg",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@dariavandermay95/what-does-it-actually-mean-to-be-intelligent-a327986715ee?source=rss------ux-5",
-      "pubDate": "Sun, 01 Nov 2026 15:34:42 GMT"
-    },
-    {
-      "headline": "Off-Topic: Single Cell Genome Sequencing Market Report",
-      "background": "This is a biotech market research report unrelated to UX, product design, or technology practice.",
-      "keyFindings": [
-        "No UX, product, or tech content present.",
-        "Content covers oncology research market forecasts to 2035."
-      ],
-      "implications": "No applicable takeaway for UX or product practitioners.",
-      "tags": [
-        "Off-Topic"
+        "Agency selection",
+        "Web development"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZTJZaTRrTFlTSjlnTUNmT0VIMTI0VjZ3Y3VNdkZmZC1yVFVfMkJwV0NUMGdja1FfREUwOHBDeC1mNjVfb1YydWw0cnB4UnM5Wmx2dHhHcGI1VDVEUnZYcjBROGFXalJVTkNOa1dXTzVpeVVGTFh2MnBXWGppN0p2VDZBaVVQYjdNRzZ4N1U3S1RQdkFlZDhyWlgwbHdzcnVGWWhySWw1MXpvWFhveEh2dXlqQkRCanQxNUlzRENhQUY?oc=5",
-      "pubDate": "Sun, 01 Nov 2026 13:51:04 GMT"
+      "source": "SMBtech",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQVQ3dUFkX21wYWVFY1dIWWNWZmJBaE52VDFWTi1nclpyWmZPczcyVmVXQ0NIWTl0ZEJ4YWtSOGt5TmVTSG95THhLU190VmRkLTZ3QVF0YUs4eEFBT3Z6ZEFIb1dRUFg5b0JzMXN2d1hnUF9sdFF5Rm1yeFBkSE1zYQ?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 08:16:32 GMT"
     },
     {
-      "headline": "South Korea's IRIS Research Portal Gets a Major UX Overhaul",
-      "background": "IRIS is South Korea's Ministry of Science and ICT government research information system, used by academics and institutions to register and manage research papers. The interface had been criticized for complexity and limited mobile support.",
+      "headline": "Huntsville creative sector hiring across multiple roles",
+      "background": "Local creative job market announcements are occasionally useful for tracking where design and media roles are concentrating geographically, though this is a news alert rather than an analytical piece.",
       "keyFindings": [
-        "The overhaul automates paper registration, reducing manual data entry burden for researchers.",
-        "Mobile support has been significantly expanded, making the system functional outside desktop environments for the first time at scale.",
-        "The Ministry of Science and ICT (MSIT) led the redesign, signaling government-level prioritization of digital service usability."
+        "Multiple arts and media roles are open simultaneously in Huntsville, Alabama",
+        "Roles span creative disciplines without specification of UX or product design positions in the snippet",
+        "Sourced from a local news alert aggregator, not an industry publication"
       ],
-      "implications": "Worth noting for practitioners working on government or institutional platforms: automation of repetitive data entry and mobile parity are consistently high-impact improvements in low-engagement, compliance-driven tools. The IRIS case is a reference point for large-scale legacy interface modernization.",
+      "implications": "Minimal professional relevance for most UX and product practitioners unless you are actively job-seeking in the Huntsville market.",
       "tags": [
-        "Government UX",
-        "Mobile Support",
-        "Legacy Systems"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVGMxU3FWaDZSdFp0RVg5dm9zQnJOa2pwSHJoUEFWckk0REhIX2VXeVRWQ09jazduX0lDaThXRWlJamthek5UQjQtWnBDNFNiUzVoQTVPY2VxNFRnRzJoN2VCRXFHNXNLdmNveUp1dlVUNS1zUVJLQWliNzdYY2p0TlBiTTdodlhOcHpBUVlya01xR3M4U3lRdS1NUVBpbFhhdEVPQmRBUk5TSUlpdVJWSDRYRHdtZlJqVHpzc1pKVXJCLTl3MGc?oc=5",
-      "pubDate": "Sun, 01 Nov 2026 03:00:00 GMT"
-    },
-    {
-      "headline": "Off-Topic: AML Immunotherapy Market Forecast",
-      "background": "This is a biotech/pharma market research report with no relevance to UX, product design, or technology practice.",
-      "keyFindings": [
-        "No UX, product, or tech content present.",
-        "Content covers antigen peptide market forecasts related to leukemia treatment pipelines."
-      ],
-      "implications": "No applicable takeaway for UX or product practitioners.",
-      "tags": [
-        "Off-Topic"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV1N0T3hfNzZpYUJlZ1BwNm9ZVnI5aXp2VDNlWUladHROYzdaeUFyeXFSd01jY05HU29TY3N6dFNOVkhCT1BRZ2hrekVLTllQYUljdU1mWGMxcE9aN19kWVQ1UWVwdzRfR1E5V041aEl1MkY2eEx2cUV1N0h4YV80eHhZVE1HcGpZNU0xM2tJVTFBVHdRNm1IandZNmF3YmxhdVo3ckZHZi1GTl82QjVtcmtGVUpJd1NKSXN6elV3cjZndWp3MGMzS3RlUQ?oc=5",
-      "pubDate": "Sun, 01 Nov 2026 00:06:04 GMT"
-    },
-    {
-      "headline": "Off-Topic: Pinterest UI Dribbble Concept",
-      "background": "This appears to be a Dribbble design concept shared via a third-party site, with no substantive article content to evaluate.",
-      "keyFindings": [
-        "No written analysis, findings, or UX rationale are present in the snippet.",
-        "Content is a visual design exercise, not an article."
-      ],
-      "implications": "No actionable takeaway without access to accompanying design rationale.",
-      "tags": [
-        "Off-Topic"
+        "Jobs",
+        "Creative roles"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "week",
       "image": null,
-      "source": "auroradesio.it",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81Q2xKbTUyTVZKc2VuM2hLanRQa3FyZWw5WEdmamd2TTV5Qkh3YXRzSmdaSzdvSkMtNU9rRTRvME9DMS0tOExCSUZNam5fVExQUFE?oc=5",
-      "pubDate": "Sat, 31 Oct 2026 01:09:06 GMT"
-    },
-    {
-      "headline": "Off-Topic: Automotive Design Roundup",
-      "background": "This is an industrial/automotive design news roundup covering McLaren, concept vehicles, and Skoda accessories — outside the scope of digital UX or product design.",
-      "keyFindings": [
-        "No digital UX, product, or tech content present.",
-        "Content covers physical product and vehicle design."
-      ],
-      "implications": "No applicable takeaway for UX or product practitioners.",
-      "tags": [
-        "Off-Topic"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "week",
-      "image": null,
-      "source": "Car Design News",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSDFuYW51bTBjbEdscFlSSzM2SjBmRDd4U1I4VjNBbEY0Mkp0U1RrVVhYQ2FpV2NRdUZsMTFnbmNRSVgwN0VLQjN1dlVaajZ0Nmc3QnFIZ2F0RHYtYVFDcDBBZGVoUVVvbUhNUkJIUnVQY2ZJaml6RTBaNkFVR29UZGQ1a2U2VkxkTlA2RUtSQzBZekZsYndMTnljc2pNcUxvQm9xNi04MkFwOGlFd2FzMC0xVHRlLWQwZDN4VTd6TVRpV1hEaTlzLVJHWQ?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 16:48:18 GMT"
-    },
-    {
-      "headline": "NJIT Alum Describes Building Software for Meta Wearables",
-      "background": "Meta's wearables ambitions — spanning AR glasses and smart accessories — require significant software infrastructure work that rarely gets public attention. This alumni profile gives a partial view into what that engineering work involves.",
-      "keyFindings": [
-        "Michael Vaks works on software systems underlying Meta's wearable hardware, though specific technical details are limited in the snippet.",
-        "The piece is primarily a university alumni profile, not a technical deep-dive.",
-        "Meta's wearables software stack is an emerging area with few published practitioner accounts."
-      ],
-      "implications": "Limited actionable detail for practitioners, but useful as a signal of the growing software complexity behind AR/wearable hardware — relevant context for teams thinking about designing for wearable form factors.",
-      "tags": [
-        "Wearables",
-        "AR",
-        "Meta"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "week",
-      "image": null,
-      "source": "NJIT News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHY3NnFQc0owVFBHbEpOR0hTSHJRSmFkZ1JlVHYyeVA4WUl3MEswVnl6NTR5UWZNMVplN0xHUlZqN29aZXdCWURkcXFkTWRtbHVHY3pBeVR2NFNKOTZxZFhuMHludkdWdGYyajNjeXVEYll3c2dvQkVDYnRkLWsxLWJiYw?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 16:06:51 GMT"
+      "source": "NewsBreak: Local News & Alerts",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLWcwUmxxdnY0OUlXVUZORWVFakd4ZVlXU3d2eDlfWkpFVldEUEFIbVlfN29WaFByb2pHWEJtYTljM0ZsZnZnUnp3eVY4U1ZuU2NEOHpEZmd5QXI3ODRFc3NISjIxXzZ1SU9XeW9xU0x3akxvZ1pYRTFvX2NlM0ZUQTFGZTlmOUZWSTZ5S3ZvVU9IU3dPVjdWM0ozVVRBcmFCSXNUS0VMQXNGUlJHVTNIcDhvMjMxR2VWblRhOWoydklOellrRXB5Q1ZuSlE?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 03:44:45 GMT"
     }
   ]
 }
