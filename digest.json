@@ -1,231 +1,229 @@
 {
-  "generatedAt": "2026-11-02T21:27:58.135Z",
+  "generatedAt": "2026-11-03T19:10:21.846Z",
   "items": [
     {
-      "headline": "AI in UX: Wrong question, real problem",
-      "background": "The debate over whether AI will replace UX designers has dominated industry conversation, but critics argue this framing misses deeper structural issues already present in how UX work is commissioned and valued.",
+      "headline": "OpenAI Targets Physical Engineering Acceleration",
+      "background": "OpenAI has largely focused on software and knowledge work applications, but there is growing interest in applying AI to hardware and physical engineering workflows, which have longer iteration cycles and higher failure costs.",
       "keyFindings": [
-        "The author reframes the AI-replacement question as a distraction from pre-existing problems in how design work is scoped and measured",
-        "AI may be accelerating commoditization of surface-level design work rather than introducing a new threat",
-        "The risk isn't replacement but further devaluation of research and strategy in favor of faster output"
+        "OpenAI is directing effort toward engineering applications in physical domains such as manufacturing or infrastructure",
+        "The snippet provides no specific product, tool, or research finding to evaluate"
       ],
-      "implications": "UX practitioners should be cautious about arguments that treat AI as the root cause of role erosion — the more useful audit is whether your current work is differentiated by judgment and research, not just execution speed.",
+      "implications": "Without access to the full article, the actual scope is unclear. Physical-world engineering AI is a distinct problem from software tooling — verify whether this is a product announcement, research direction, or partnership before acting on it.",
       "tags": [
         "AI tools",
-        "Design strategy",
-        "Future of design"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1774/1*NxZYfrz8aLvN2VAE-JFQKQ.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@russpinkston/design-by-numbers-is-ai-ruining-ux-or-just-pouring-gasoline-on-the-fire-24164d49e422?source=rss------product_design-5",
-      "pubDate": "Mon, 02 Nov 2026 21:24:03 GMT"
-    },
-    {
-      "headline": "Conversational tone as a core product design choice",
-      "background": "As productivity apps multiply, some teams are experimenting with informal, personality-driven copy as a differentiator — but the line between engaging voice and unprofessional friction is poorly defined in most design guidelines.",
-      "keyFindings": [
-        "The piece uses 'Clock in, stay in, cash out later' as an example of copy that conveys function and attitude simultaneously",
-        "Friendly microcopy can reinforce habitual use by making transactional moments feel lower-stakes",
-        "Tone consistency across an app requires deliberate content design systems, not just copywriter instinct"
-      ],
-      "implications": "If you're defining voice and tone for a productivity or utility product, this is a useful case for how colloquial language can serve retention — but it requires audit across all touchpoints to avoid feeling inconsistent or patronizing.",
-      "tags": [
-        "Content design",
-        "Microcopy",
-        "Productivity apps"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/0*2UQNx0iyCFN7IvlJ.jpg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@graphicsdanielgraphics/why-my-productivity-app-talks-like-a-friend-e43d67f097e2?source=rss------product_design-5",
-      "pubDate": "Mon, 02 Nov 2026 21:16:01 GMT"
-    },
-    {
-      "headline": "Listicle: 11 US on-demand app dev firms",
-      "background": "On-demand app development vendor roundups are a common content marketing format with limited editorial value for practitioners evaluating build partners.",
-      "keyFindings": [
-        "Lists 11 US-based firms positioned for scalable on-demand app development",
-        "No methodology disclosed for inclusion or ranking criteria",
-        "Primarily promotional in framing"
-      ],
-      "implications": "Not a reliable reference for vendor selection without independent verification of claims. Treat as a starting point for a longer list, not a vetted shortlist.",
-      "tags": [
-        "Vendor selection",
-        "App development"
+        "Engineering",
+        "Physical systems"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "WhaTech",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZWptRU1LOXBnWUlYaDd2M0RQMHpYRjQzTkI2TUljZ2w3ejZnV01DVk5BanUtcjBIZERWcmlDX05NNlNlMzdLZGc3akJCOG9XaUdpNUdacHVzTFNnZjg1bGJBQXRJcFl5RW5oSXJwWnlYMkhJQ3h3RHZtbWkyOEJyckc2RnIyYm1iU2k3UFhPUDhUcno2U3l5RnZSY2pkY0pRMW5pRzRyMkIwRVlZN2Q3d296TkN0aksyNDU2MkpQLThRUWlpdlREU0Nsb24zMGh5SmhaWl9rQjFxYjJGRFF0a3VfMkjSAeQBQVVfeXFMTmVqbUVNSzlwZ1lJWGg3djNEUDB6WEY0M05CNk1JY2dsN3o2Z1dNQ1ZOQWp1LXIwSGREVnJpQ19OTTZTZTM3S2RnN2pCQjhvV2lHaTVHWnB1c0xTZ2Y4NWxiQUF0SXBZeUVuaElycFp5WDJISUN4d0R2bW1pMjhCcnJHNkZyMmJtYlNpN1BYT1A4VHJ6NlN5eUZ2UmNqZGNKUTFuaUc0cjJCMEVZWTdkN3dvek5DdGpLMjQ1NjJKUC04UVFpaXZURFNDbG9uMzBoeUpoWlpfa0IxcWIyRkRRdGt1XzJI?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 20:18:20 GMT"
+      "source": "OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CS3RYM1JDQWZNbmRHUXB0SEY5ZkxoWGc3ZVZ2Rmw2YzBNeTZEd3RKWEk1NzEwN0l0NG01TzV5SXBGdkQ1emJHdzRWUFdtTUpfdmFXcWFNRVJuVDlhOFhzeHd0TkQ5NXJzeVRUYndHZGtZYkMxZnp3bVdFZzlVdw?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 18:36:33 GMT"
     },
     {
-      "headline": "Field UX research inside Hindu cremation systems",
-      "background": "UX research methodology is rarely applied to end-of-life services, particularly those operating within cultural and religious frameworks that are underrepresented in design literature.",
+      "headline": "21 Professionals Earn UX-PM Level 2 Certification",
+      "background": "The UX-PM certification program is an internationally recognized credentialing track for UX practitioners, structured in levels that progress from awareness to execution to strategy.",
       "keyFindings": [
-        "Research was conducted on-field with practitioners involved in Hindu cremation logistics, not just bereaved families",
-        "The work maps the systems and human roles that comprise the 'last journey' — an infrastructure largely invisible in mainstream service design",
-        "Surfaces how essential services operating in grief contexts have distinct user needs that standard research protocols may not accommodate"
+        "A cohort of 21 professionals completed the UX-PM 2 (Executing UX) certification in a remote October session in Brazil",
+        "UX-PM 2 focuses on operationalizing UX practice within project and product contexts"
       ],
-      "implications": "A useful reference for researchers working in sensitive, high-stakes, or culturally specific contexts — particularly for rethinking consent, observation ethics, and how to frame 'users' in service ecosystems not designed with UX in mind.",
+      "implications": "Relevant mainly as a signal of growing structured UX credentialing demand in Brazil and Latin America. If you manage UX teams in that region, UX-PM is the benchmark certification to reference for hiring or team development.",
       "tags": [
-        "Field research",
-        "Service design",
-        "Research ethics"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*z4ybw1RfDp0F3uFArW5yiQ.jpeg",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@raodish09/antim-yatra-the-journey-we-rarely-see-16720eb0cd96?source=rss------ux_research-5",
-      "pubDate": "Mon, 02 Nov 2026 19:05:59 GMT"
-    },
-    {
-      "headline": "Anthropic's Claude Skills need structured, precise instructions",
-      "background": "Anthropic has been iterating on how Claude handles 'Skills' — discrete, reusable capabilities that developers configure — and the design requirements for these instructions are becoming more demanding as the system evolves.",
-      "keyFindings": [
-        "Effective Claude Skill instructions must be clear, focused, and well-organized — ambiguous prompts produce significantly degraded outputs",
-        "Anthropic's changes are pushing developers toward treating skill instructions more like formal interface specifications than casual prompts",
-        "The article identifies three specific design principles, emphasizing that scope creep in instructions is a primary failure mode"
-      ],
-      "implications": "If your team is building on Claude's Skills API, treat instruction design as a UX artifact requiring the same rigor as a design spec — vague or multi-purpose instructions will compound in failure as the system scales.",
-      "tags": [
-        "AI tools",
-        "Prompt design",
-        "Developer tools"
+        "UX certification",
+        "Professional development",
+        "Latin America"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1376/1*RaxRclO4WqcYi1QRrVPTZQ.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*Jp6Q8JD_5AcP7q8g54LpJg@2x.png",
       "source": "UX on Medium",
-      "link": "https://prospectivejournal.medium.com/claude-skills-are-changing-3-design-principles-developers-should-understand-a485b8e2848b?source=rss------ux-5",
-      "pubDate": "Mon, 02 Nov 2026 18:41:25 GMT"
+      "link": "https://www.uxpmbrasil.com.br/experi%C3%AAncia-muito-enriquecedora-principalmente-por-conectar-a-pr%C3%A1tica-de-ux-com-uma-vis%C3%A3o-mais-709c6470c3e0?source=rss------ux-5",
+      "pubDate": "Tue, 03 Nov 2026 18:13:35 GMT"
     },
     {
-      "headline": "Profile: One designer's career at a liberal arts college",
-      "background": "College alumni profiles occasionally offer insight into non-traditional career paths in design, though they vary widely in substantive professional detail.",
+      "headline": "Loughborough SDCA Opens 2026 Postgraduate Showcase",
+      "background": "Postgraduate design showcases serve as a visibility mechanism for emerging talent and a signal of where academic design programs are directing focus.",
       "keyFindings": [
-        "Profile focuses on a web designer who attended Whitman College, a small liberal arts institution",
-        "Framing centers on career narrative and personal values over technical methodology",
-        "No specific design tools, processes, or outcomes are detailed in the snippet"
+        "Loughborough University's School of Design and Creative Arts is hosting a 2026 postgraduate showcase",
+        "No specific projects, themes, or featured work are described in the snippet"
       ],
-      "implications": "Limited professional utility as a reference. More relevant to those considering design education paths than to practitioners seeking process or craft insight.",
+      "implications": "Of limited immediate use without knowing what work is featured. Worth bookmarking if you recruit from UK design programs or track academic design research directions.",
       "tags": [
-        "Career",
-        "Design education"
+        "Design education",
+        "Graduate showcase",
+        "UK design"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Whitman College",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2d4QzRuVFRaeVdmdUNLMTJLMUtOYklPZ3Y4eENZcGpHOVpTUTZNNGswVVVBVHM2OGRKZHhTVGRlSVFpU3IzeC1yaTBXdUltTzdGVjR0czBkSm0tUWVLdmJlaElGOC1BNXp0OXFnVW9aRDhVMldvSGNKb2xqR2xidkhsNlJmRDluOG5HbE9MRGZQT0FEaWI2TGtNQlRmVFdTNWZOMzM4VzZmTnFfa0pmcE8tRTZrQ0l5RWtoVA?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 16:53:54 GMT"
+      "source": "Loughborough University",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZFFITUVieXZrLWg3VFZfT29adDJvSkIyakdvWVVsZjhTZmN6c0pnWkVCWkJEbUZ6QlR6MFc4T0FXSlI1SWVEZEY5SmFOUTR6WXV0amZhLXhJMEVQQWcxcXZjLVZndzd4WmJ1WlpzTV9nM3JlRnhGWmIxTWllM2pKbzFITHB3dw?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 18:03:58 GMT"
     },
     {
-      "headline": "HuBMAP opens multimodal human tissue data portal",
-      "background": "The Human BioMolecular Atlas Program (HuBMAP) is a NIH-funded initiative to map the human body at cellular resolution. Researchers and data product teams building tools in health and bioinformatics need accessible, standardized data infrastructure.",
+      "headline": "AI-Generated PRDs Are Raising Authenticity Questions",
+      "background": "As AI tools become standard in product management workflows, practitioners are starting to question whether AI-generated artifacts like PRDs reflect genuine strategic thinking or just polished-sounding output.",
       "keyFindings": [
-        "The HuBMAP Data Portal aggregates spatial and single-cell data from healthy human tissues across multiple organ systems",
-        "Data is multimodal — combining imaging, genomics, and spatial transcriptomics — requiring a portal design that handles high-dimensional, heterogeneous datasets",
-        "Published in Nature, indicating peer-reviewed validation of the data architecture and curation approach"
+        "The piece addresses a felt tension among product managers who use AI to generate PRDs but sense something is lost in the process",
+        "Authenticity and authorship are framed as real professional concerns, not just philosophical ones",
+        "No specific research or data is cited in the snippet"
       ],
-      "implications": "Relevant to product and UX teams building data portals in life sciences or research contexts — HuBMAP's portal represents a real-world example of designing for expert users navigating complex, multi-type scientific datasets.",
+      "implications": "If your team is adopting AI for documentation, consider establishing norms around where AI drafts vs. where human judgment must be explicit and visible — especially in PRDs, which are read as expressions of product thinking.",
       "tags": [
-        "Data visualization",
-        "Research tools",
-        "Health tech"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyWlRRS29YUl9oSGkxNkFvb1puYkFjX2Q4by04WVNuajF5VUw0NmlGdzdIN0lUVHJDd1doRWZhRDlEbEUwOEVjSlk0blk1ZGFsZWRNUXJpQl9WdDFFay1z?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 14:10:26 GMT"
-    },
-    {
-      "headline": "Nielsen's UX roundup: AI interviews, date pickers, NASA-TLX",
-      "background": "Jakob Nielsen's periodic UX roundups aggregate research findings and tool recommendations across multiple active debates in the field, making them a dense reference for practitioners tracking evidence-based practice.",
-      "keyFindings": [
-        "AI can now be used to practice UX research interviews, offering low-stakes repetition for skill-building",
-        "Date-picking UI patterns and the NASA Task Load Index (a cognitive load measurement tool) are both covered, suggesting renewed attention to measurement rigor in UX",
-        "The roundup also addresses the 'why vs. what' distinction in research questioning — a persistent methodological issue in user interviews"
-      ],
-      "implications": "Worth reading in full for practitioners who run user research or evaluate cognitive load — the NASA-TLX reference in particular is useful for teams that need defensible workload metrics in enterprise or safety-critical product contexts.",
-      "tags": [
-        "User research",
+        "Product management",
         "AI tools",
-        "Cognitive load"
+        "Documentation"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*muhfXbrWQtILWPqzXfrmJQ.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@lucasvazguim/autenticidade-na-era-da-ia-d65a80c2e0aa?source=rss------product_design-5",
+      "pubDate": "Tue, 03 Nov 2026 17:51:20 GMT"
+    },
+    {
+      "headline": "Ceramic Mug Product Promotion Has No UX Relevance",
+      "background": "This appears to be a personal or commercial blog post promoting handmade ceramic mugs, published on a platform called Triage that aggregates varied content.",
+      "keyFindings": [
+        "Content is a product promotion for ceramic mugs with no UX, product, or tech substance",
+        "Appears to have been included in the feed via a miscategorized or low-quality content source"
+      ],
+      "implications": "This article is not relevant to UX, product, or tech practice. It signals a feed curation or source quality issue worth flagging if this digest relies on automated ingestion.",
+      "tags": [
+        "Off-topic",
+        "Feed quality"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*JSO1wRyWbUcB90SiSefJPg.jpeg",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/triage/cozy-mornings-cute-cats-meet-my-new-ceramic-mugs-2deb5bebb724?source=rss------product_design-5",
+      "pubDate": "Tue, 03 Nov 2026 17:50:20 GMT"
+    },
+    {
+      "headline": "Generative AI Still Requires Human Empathy to Work",
+      "background": "As generative AI is embedded into creative and design workflows, there is an ongoing debate about whether human judgment and empathy are being systematically reduced or can be deliberately preserved.",
+      "keyFindings": [
+        "The piece argues that generative AI outputs require human oversight specifically grounded in empathy, not just technical review",
+        "Leadership and design roles are framed as responsible for maintaining the human layer in AI-assisted creation",
+        "No specific tools, studies, or case data are referenced in the snippet"
+      ],
+      "implications": "A useful framing for teams building AI-assisted design or content processes, but verify whether the full article offers concrete methods or stays at the level of principle — the snippet suggests the latter.",
+      "tags": [
+        "Generative AI",
+        "Design leadership",
+        "Human-centered AI"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*AGKZa_zYSgdAwglMxYPJGQ.jpeg",
+      "source": "Product Design on Medium",
+      "link": "https://aparrales.medium.com/beyond-the-prompt-why-generative-ai-still-needs-the-human-touch-b81b1bc87bc8?source=rss------product_design-5",
+      "pubDate": "Tue, 03 Nov 2026 17:29:39 GMT"
+    },
+    {
+      "headline": "KFC Dubai Flagship Redesigns Physical Retail as Social Feed",
+      "background": "Fast food chains are experimenting with flagship locations that function more as brand experiences than transactional spaces, responding to declining foot traffic and the influence of social media on physical space design.",
+      "keyFindings": [
+        "KFC's Dubai flagship 'Muse' is explicitly designed around the concept of becoming content — mirroring how social feeds work spatially",
+        "The space is positioned as a retail experience reimagining, not just a restaurant redesign",
+        "No specific UX metrics, footfall data, or design methodology details are available in the snippet"
+      ],
+      "implications": "Relevant to service designers and experience strategists working in retail or hospitality. The 'space as feed' concept is a concrete brief worth examining — how do you design physical affordances that invite content creation without feeling cynical?",
+      "tags": [
+        "Retail experience",
+        "Service design",
+        "Brand spaces"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "LBB - Little Black Book",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQanAzV25RQkFCX0pnZi1fOFU2ZzByQUw2RUx4TjRJdnl0Zi1jN3ZYYmNZRlJ3MVNFS3BQYUVJU25abFdLdnFjR0czS3JZdTYwaUE1Uk14V2JPVzhXQUYxRUVZVDk5MHNvQmc2cTktb2t4RF9iOW1vdXFxV0piWnFfeHFYYWh2OE5XdDI5TV9VbU5NRkYtY1lVZA?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 16:15:12 GMT"
+    },
+    {
+      "headline": "IBU Outlines BCOM in International Management and Technology",
+      "background": "Business and technology degree programs are increasingly marketing specific curriculum details as differentiators in a crowded higher education market.",
+      "keyFindings": [
+        "International Business University has published curriculum details for its Bachelor of Commerce in International Management and Technology",
+        "Content appears to be a press release or sponsored placement rather than editorial analysis",
+        "No specific course outcomes, graduate data, or industry partnerships are described in the snippet"
+      ],
+      "implications": "No actionable insight for UX or product practitioners. Relevant only if you are evaluating technology management education programs.",
+      "tags": [
+        "Tech education",
+        "Business curriculum"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "markets.businessinsider.com",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOM2N0OWpjckNydGkyLUJYbkczay12ZFF4S1RiTm9GeXFXY3EwMWVGY1JmZU12RUtuUmx0aHlhd280UXdkVkRzR3NidEREVHZRM29TQWZUTU5EZHlmUnE4Ny1ZUklMSnFUQ1dkZzAxR0JPbDB1TGhCdnE1TnYwZXlOalB1Y1NucUE5TFNBcDAwSDBScF85SmpKN3h2MlR2VkxqRVd5Yl9kcEdYR09rdVJKd3dTVlgtZUpNOVA4cnlmazJqNkF2LXJPZWJkWWlGQ2dNajZvQmlHaXhLYTdaTGlHX19IOE1YVmhrRE5SczJlVjVESUlZRGEzQ291N0NKMUg1WmVSbDdrTQ?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 15:26:37 GMT"
+    },
+    {
+      "headline": "Edge Computing Is Shifting AI Decision-Making Off the Cloud",
+      "background": "Centralized cloud processing has been the default for AI inference, but latency, bandwidth costs, and reliability requirements in industrial and embedded contexts are pushing decision-making closer to the data source.",
+      "keyFindings": [
+        "Edge computing is being positioned as infrastructure for real-time intelligent decision-making, particularly in embedded and industrial systems",
+        "The piece is framed as a November/December 2026 industry eBook, suggesting it surveys current deployments rather than presenting new research",
+        "Specific sectors, performance benchmarks, or architectural patterns are not described in the snippet"
+      ],
+      "implications": "Relevant for product and systems designers working on IoT, industrial UX, or latency-sensitive applications. Edge architectures shift where errors occur and where UX feedback loops need to be designed — worth understanding if your product operates in these contexts.",
+      "tags": [
+        "Edge computing",
+        "Embedded systems",
+        "AI infrastructure"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "www.embedded.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU056cm5ZVjU4ZEFza2dwUXlJMDZ4ZUpRLS1kUzF6Szc2OUtNYktRVlk3ZXgtQUlXQ3dPYUtRMmI5S3BNU2ZZRzBzbWUzZ2dzMk90dGJTeG42UGE5cXAxZHI2b2tjNUNFeWxYMmQ2REtUX3BobEJzbFVGRkpMTmtQM1EzTHJhOVlUNXNTQWlBaVU5UEhqdi1aVEZzZHlla09ERzd0MEVKWWw2ZmM?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 15:08:42 GMT"
+    },
+    {
+      "headline": "Behavioral Design and Tech Combined to Reduce Ticket Fraud",
+      "background": "Online ticket fraud — including fake listings and resale scams — is a persistent consumer harm problem that traditional technical countermeasures alone have not solved, prompting interest in behavioral and design-led interventions.",
+      "keyFindings": [
+        "TicketBewust.nl is a Dutch initiative combining behavioral science insights, technology, and creative communication to reduce online ticket fraud",
+        "Capgemini is involved, suggesting a consulting and implementation angle rather than purely academic research",
+        "The approach treats fraud prevention as a behavior change problem, targeting buyer decision-making rather than only seller detection"
+      ],
+      "implications": "A concrete case study for UX and product teams working on trust, safety, or fraud-adjacent flows. The behavioral-plus-technology framing is directly applicable to onboarding, marketplace, and payment design contexts where user decisions are the vulnerability.",
+      "tags": [
+        "Fraud prevention",
+        "Behavioral design",
+        "Trust and safety"
       ],
       "featured": true,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpakJTa20wcEVJcW9BSS1LMk5Pa181bE4xX3RiaEZQYUhoSDlqWktFQWFfMkNqQ282c25qUlF2YTJwX09xU3NIbjZNbkdSakpCeUJ6Zlp1VVVMTmV6b3RkeTk4SkI0SkV2a3c?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 12:21:35 GMT"
-    },
-    {
-      "headline": "What Melbourne businesses should expect from web agencies in 2026",
-      "background": "Web agency capability articles aimed at SMBs are a common content marketing format; their value as a professional reference depends heavily on whether claims are grounded in specific trends or remain generic.",
-      "keyFindings": [
-        "Targets Melbourne-based businesses evaluating agency partnerships for 2026 projects",
-        "No specific methodologies, pricing structures, or capability benchmarks are cited in the snippet",
-        "Primarily advisory in tone without disclosed sourcing"
-      ],
-      "implications": "Not substantive enough for use as a procurement or briefing reference. If you're scoping agency work, look for resources with defined evaluation criteria rather than market-facing advisory content.",
-      "tags": [
-        "Agency selection",
-        "Web development"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "SMBtech",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQVQ3dUFkX21wYWVFY1dIWWNWZmJBaE52VDFWTi1nclpyWmZPczcyVmVXQ0NIWTl0ZEJ4YWtSOGt5TmVTSG95THhLU190VmRkLTZ3QVF0YUs4eEFBT3Z6ZEFIb1dRUFg5b0JzMXN2d1hnUF9sdFF5Rm1yeFBkSE1zYQ?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 08:16:32 GMT"
-    },
-    {
-      "headline": "Huntsville creative sector hiring across multiple roles",
-      "background": "Local creative job market announcements are occasionally useful for tracking where design and media roles are concentrating geographically, though this is a news alert rather than an analytical piece.",
-      "keyFindings": [
-        "Multiple arts and media roles are open simultaneously in Huntsville, Alabama",
-        "Roles span creative disciplines without specification of UX or product design positions in the snippet",
-        "Sourced from a local news alert aggregator, not an industry publication"
-      ],
-      "implications": "Minimal professional relevance for most UX and product practitioners unless you are actively job-seeking in the Huntsville market.",
-      "tags": [
-        "Jobs",
-        "Creative roles"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "week",
-      "image": null,
-      "source": "NewsBreak: Local News & Alerts",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLWcwUmxxdnY0OUlXVUZORWVFakd4ZVlXU3d2eDlfWkpFVldEUEFIbVlfN29WaFByb2pHWEJtYTljM0ZsZnZnUnp3eVY4U1ZuU2NEOHpEZmd5QXI3ODRFc3NISjIxXzZ1SU9XeW9xU0x3akxvZ1pYRTFvX2NlM0ZUQTFGZTlmOUZWSTZ5S3ZvVU9IU3dPVjdWM0ozVVRBcmFCSXNUS0VMQXNGUlJHVTNIcDhvMjMxR2VWblRhOWoydklOellrRXB5Q1ZuSlE?oc=5",
-      "pubDate": "Sun, 01 Nov 2026 03:44:45 GMT"
+      "source": "Capgemini",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdXlVd2JUcWVMQmI1MkpBTVBBel82cjlyOTQwdWJQZnlHenVVNnNUdl83aTlKUkJ0S1hvVHJRWGlySV9aV1hMeDdaRmplbHNpcmc3LVA0QWd0c3dpYjc0YUE4MlppYm1KXzVNaXgwYnUxNXBUM09md1MwM0xkRW1xVDdZZlU4a180ZS1pY2dMV1FGNXRBTU1wVXRxNTBqdF9ZZ0xWYTBMWVBJVjUxV0diaGpneHk1bmVRbm5Ia1NLNVFqZ2tTcnN2ZXNGN2dYd2taS1EybQ?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 15:05:03 GMT"
     }
   ]
 }
