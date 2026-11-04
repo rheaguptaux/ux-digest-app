@@ -1,152 +1,157 @@
 {
-  "generatedAt": "2026-11-03T19:10:21.846Z",
+  "generatedAt": "2026-11-04T19:27:14.325Z",
   "items": [
     {
-      "headline": "OpenAI Targets Physical Engineering Acceleration",
-      "background": "OpenAI has largely focused on software and knowledge work applications, but there is growing interest in applying AI to hardware and physical engineering workflows, which have longer iteration cycles and higher failure costs.",
+      "headline": "AI tools assist UX work — they don't lead it",
+      "background": "As AI tools become embedded in design workflows, there's ongoing debate about how much creative and strategic authority designers should delegate to them. This piece pushes back against over-reliance.",
       "keyFindings": [
-        "OpenAI is directing effort toward engineering applications in physical domains such as manufacturing or infrastructure",
-        "The snippet provides no specific product, tool, or research finding to evaluate"
+        "AI tools are positioned as executional assistants for UX tasks, not decision-makers for creative direction",
+        "Designers retain responsibility for strategy, user empathy, and design rationale",
+        "Delegating creative leadership to AI risks outputs that optimize for pattern-matching over genuine user needs"
       ],
-      "implications": "Without access to the full article, the actual scope is unclear. Physical-world engineering AI is a distinct problem from software tooling — verify whether this is a product announcement, research direction, or partnership before acting on it.",
+      "implications": "Useful framing for teams setting internal AI usage policies or onboarding designers to AI tools — clarifies where human judgment must stay in the loop, particularly in research synthesis and concept direction.",
       "tags": [
         "AI tools",
-        "Engineering",
-        "Physical systems"
+        "Design workflow",
+        "Creative process"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CS3RYM1JDQWZNbmRHUXB0SEY5ZkxoWGc3ZVZ2Rmw2YzBNeTZEd3RKWEk1NzEwN0l0NG01TzV5SXBGdkQ1emJHdzRWUFdtTUpfdmFXcWFNRVJuVDlhOFhzeHd0TkQ5NXJzeVRUYndHZGtZYkMxZnp3bVdFZzlVdw?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 18:36:33 GMT"
+      "source": "SDxCentral",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZklzWjlXYzNCa0dOZnU3Sy1CQzdUQnFtSS16V3I0M29IOUtIdy1RenRfM2I5VlZ4X181NzNmbDl0aVl2emFlYm9wZF9ESzNaN3FDZGtxdjFmd0R3RTJSNnBuWjF4VUpRZjJSdTVuaUVYMnM0Y1dMZGZCdXE1dlVFLV9KMW1JYVdEbEhYWFlzWQ?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 19:19:49 GMT"
     },
     {
-      "headline": "21 Professionals Earn UX-PM Level 2 Certification",
-      "background": "The UX-PM certification program is an internationally recognized credentialing track for UX practitioners, structured in levels that progress from awareness to execution to strategy.",
+      "headline": "Ergonomics basics: designing physical spaces for real human use",
+      "background": "Physical environment design — classroom layouts, office furniture, workspace configuration — often gets siloed from digital UX practice, despite sharing the same human-factors foundations.",
       "keyFindings": [
-        "A cohort of 21 professionals completed the UX-PM 2 (Executing UX) certification in a remote October session in Brazil",
-        "UX-PM 2 focuses on operationalizing UX practice within project and product contexts"
+        "Physical space design directly affects cognitive performance, comfort, and social interaction",
+        "Ergonomic principles apply across contexts from classrooms to open-plan offices",
+        "Poor spatial design creates compounding friction that users adapt around rather than report"
       ],
-      "implications": "Relevant mainly as a signal of growing structured UX credentialing demand in Brazil and Latin America. If you manage UX teams in that region, UX-PM is the benchmark certification to reference for hiring or team development.",
+      "implications": "Relevant for teams designing hybrid or in-person product experiences, or those involved in design systems that span physical and digital touchpoints. Limited specificity in the source limits direct application.",
       "tags": [
-        "UX certification",
-        "Professional development",
-        "Latin America"
+        "Ergonomics",
+        "Physical space",
+        "Human factors"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "UX",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*Jp6Q8JD_5AcP7q8g54LpJg@2x.png",
-      "source": "UX on Medium",
-      "link": "https://www.uxpmbrasil.com.br/experi%C3%AAncia-muito-enriquecedora-principalmente-por-conectar-a-pr%C3%A1tica-de-ux-com-uma-vis%C3%A3o-mais-709c6470c3e0?source=rss------ux-5",
-      "pubDate": "Tue, 03 Nov 2026 18:13:35 GMT"
+      "image": null,
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@datascientistmahidhoni/ergonomics-designing-spaces-around-human-needs-55d2c5970ea9?source=rss------product_design-5",
+      "pubDate": "Wed, 04 Nov 2026 18:17:46 GMT"
     },
     {
-      "headline": "Loughborough SDCA Opens 2026 Postgraduate Showcase",
-      "background": "Postgraduate design showcases serve as a visibility mechanism for emerging talent and a signal of where academic design programs are directing focus.",
+      "headline": "Google Research: AI can help humans navigate ethical gray areas",
+      "background": "AI deliberation — using AI to structure or mediate complex human decision-making — is an emerging area distinct from task automation. Google Research is exploring its use in surfacing tradeoffs humans struggle to articulate.",
       "keyFindings": [
-        "Loughborough University's School of Design and Creative Arts is hosting a 2026 postgraduate showcase",
-        "No specific projects, themes, or featured work are described in the snippet"
+        "Google Research proposes 'agile deliberation' as a framework for AI-assisted human decision-making in ambiguous or contested domains",
+        "AI is used to map the structure of disagreements rather than resolve them",
+        "The approach is designed to keep human agency central while reducing cognitive load in complex deliberation"
       ],
-      "implications": "Of limited immediate use without knowing what work is featured. Worth bookmarking if you recruit from UK design programs or track academic design research directions.",
+      "implications": "Worth tracking for product teams building AI into governance, moderation, or policy workflows — particularly where decisions involve competing values rather than clear optimization targets.",
       "tags": [
-        "Design education",
-        "Graduate showcase",
-        "UK design"
+        "AI decision-making",
+        "Ethics",
+        "Google Research"
       ],
-      "featured": false,
+      "featured": true,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Loughborough University",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZFFITUVieXZrLWg3VFZfT29adDJvSkIyakdvWVVsZjhTZmN6c0pnWkVCWkJEbUZ6QlR6MFc4T0FXSlI1SWVEZEY5SmFOUTR6WXV0amZhLXhJMEVQQWcxcXZjLVZndzd4WmJ1WlpzTV9nM3JlRnhGWmIxTWllM2pKbzFITHB3dw?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 18:03:58 GMT"
+      "source": "Google Research",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVUMyQktCM0NEc1czYzRMODg4dkdIZW9DZkRURm9ZdmFJUnROY2tPQVlTbDhhdF9LR3otLU1kWV9zbTA2bzNxRVVpUUhfNmdLZzJpNENSZ0NqY0c1em96eTZkT0xobkVXaFljRWphYWtGZDNWNjk0U3ZUaUh4SGgtMXQ2RE51WDNOQzlrcGVJTi1CNklT?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 18:10:58 GMT"
     },
     {
-      "headline": "AI-Generated PRDs Are Raising Authenticity Questions",
-      "background": "As AI tools become standard in product management workflows, practitioners are starting to question whether AI-generated artifacts like PRDs reflect genuine strategic thinking or just polished-sounding output.",
+      "headline": "Re-encoding screenshots: when image optimization isn't worth it",
+      "background": "Image optimization pipelines often apply blanket compression rules across all asset types, but JPEGs re-saved as PNGs behave very differently from native PNGs — a distinction that can backfire at scale.",
       "keyFindings": [
-        "The piece addresses a felt tension among product managers who use AI to generate PRDs but sense something is lost in the process",
-        "Authenticity and authorship are framed as real professional concerns, not just philosophical ones",
-        "No specific research or data is cited in the snippet"
+        "A JPEG saved as PNG can balloon to 4.5x its original file size, making naive re-encoding actively harmful",
+        "Only 195 of 624 screenshots tested were worth shrinking — a 31% hit rate",
+        "An 81% average saving on optimizable images is misleading if applied to the full dataset without filtering"
       ],
-      "implications": "If your team is adopting AI for documentation, consider establishing norms around where AI drafts vs. where human judgment must be explicit and visible — especially in PRDs, which are read as expressions of product thinking.",
+      "implications": "Teams running automated image optimization should audit whether their pipeline distinguishes asset origin and format history — blanket rules on screenshots or user-uploaded content can increase payload rather than reduce it.",
       "tags": [
-        "Product management",
-        "AI tools",
-        "Documentation"
+        "Performance",
+        "Image optimization",
+        "Asset management"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/600/1*aFJk1zF1Z5PFxOXyt_MQWg.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@dev_89017/a-jpeg-saved-as-png-grew-to-4-5-times-its-size-only-195-of-624-screenshots-were-worth-shrinking-b6ca6483c439?source=rss------product_design-5",
+      "pubDate": "Wed, 04 Nov 2026 18:01:02 GMT"
+    },
+    {
+      "headline": "Designing AI products requires rethinking how you model uncertainty",
+      "background": "Designers moving into AI product work from other domains often find that conventional UX mental models — deterministic flows, clear feedback states — break down when outputs are probabilistic and context-dependent.",
+      "keyFindings": [
+        "AI product design demands new approaches to representing uncertainty and system confidence to users",
+        "Trust calibration — helping users neither over- nor under-trust AI outputs — emerges as a core design challenge",
+        "Domain-switching (security, advertising → AI) surfaces assumptions baked into standard UX practice that go unexamined in familiar contexts"
+      ],
+      "implications": "Particularly relevant for mid-career designers transitioning into AI product roles — the framing around uncertainty and trust has direct implications for how you design feedback, error states, and user control in AI-assisted features.",
+      "tags": [
+        "AI products",
+        "Trust",
+        "Designer mindset"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*muhfXbrWQtILWPqzXfrmJQ.png",
+      "image": "https://cdn-images-1.medium.com/max/1774/1*W_xXPuPUONVdFeYBennI5Q.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@lucasvazguim/autenticidade-na-era-da-ia-d65a80c2e0aa?source=rss------product_design-5",
-      "pubDate": "Tue, 03 Nov 2026 17:51:20 GMT"
+      "link": "https://medium.com/@lizhen10/before-i-can-design-it-i-need-a-new-way-to-think-27d31edcee2b?source=rss------product_design-5",
+      "pubDate": "Wed, 04 Nov 2026 17:57:59 GMT"
     },
     {
-      "headline": "Ceramic Mug Product Promotion Has No UX Relevance",
-      "background": "This appears to be a personal or commercial blog post promoting handmade ceramic mugs, published on a platform called Triage that aggregates varied content.",
+      "headline": "Practical rules for designing AI agent interactions",
+      "background": "AI agents — systems that take multi-step actions autonomously on behalf of users — are moving from demos into real products, but design conventions for them are still being established from scratch.",
       "keyFindings": [
-        "Content is a product promotion for ceramic mugs with no UX, product, or tech substance",
-        "Appears to have been included in the feed via a miscategorized or low-quality content source"
+        "Agent design requires explicit handling of ambiguity: agents need rules for when to act, when to pause, and when to ask",
+        "User control and legibility of agent actions are identified as foundational requirements, not features",
+        "Existing UI patterns for single-turn interactions don't map cleanly onto multi-step autonomous agent behavior"
       ],
-      "implications": "This article is not relevant to UX, product, or tech practice. It signals a feed curation or source quality issue worth flagging if this digest relies on automated ingestion.",
+      "implications": "Directly applicable for anyone designing agent-based features in productivity, customer service, or workflow tools — the rules here provide a starting framework where no mature pattern library yet exists.",
       "tags": [
-        "Off-topic",
-        "Feed quality"
+        "AI agents",
+        "Interaction design",
+        "Autonomy"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*JSO1wRyWbUcB90SiSefJPg.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*2RjjlELmHjLfP88M9Cf0tA.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/triage/cozy-mornings-cute-cats-meet-my-new-ceramic-mugs-2deb5bebb724?source=rss------product_design-5",
-      "pubDate": "Tue, 03 Nov 2026 17:50:20 GMT"
+      "link": "https://medium.com/@deepakjatinchaudhary/rules-for-agent-design-a2aa96e1d780?source=rss------product_design-5",
+      "pubDate": "Wed, 04 Nov 2026 17:31:05 GMT"
     },
     {
-      "headline": "Generative AI Still Requires Human Empathy to Work",
-      "background": "As generative AI is embedded into creative and design workflows, there is an ongoing debate about whether human judgment and empathy are being systematically reduced or can be deliberately preserved.",
+      "headline": "What sidewalk design reveals about user-centered thinking",
+      "background": "Urban infrastructure design — particularly pedestrian spaces — offers long-studied, real-world evidence of how people actually move through and use designed environments, with lessons that transfer to digital contexts.",
       "keyFindings": [
-        "The piece argues that generative AI outputs require human oversight specifically grounded in empathy, not just technical review",
-        "Leadership and design roles are framed as responsible for maintaining the human layer in AI-assisted creation",
-        "No specific tools, studies, or case data are referenced in the snippet"
+        "Sidewalk design decisions reveal tension between planner assumptions and actual pedestrian behavior",
+        "Desire paths and informal use patterns in physical spaces mirror how users work around unintuitive digital interfaces",
+        "Public space design failures are often invisible to designers because affected users have no formal feedback channel"
       ],
-      "implications": "A useful framing for teams building AI-assisted design or content processes, but verify whether the full article offers concrete methods or stays at the level of principle — the snippet suggests the latter.",
+      "implications": "Useful conceptual reference for designers thinking about feedback loops and assumption validation — the analogy to digital UX is reasonably strong, though the source lacks specific research citations based on available snippet.",
       "tags": [
-        "Generative AI",
-        "Design leadership",
-        "Human-centered AI"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*AGKZa_zYSgdAwglMxYPJGQ.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://aparrales.medium.com/beyond-the-prompt-why-generative-ai-still-needs-the-human-touch-b81b1bc87bc8?source=rss------product_design-5",
-      "pubDate": "Tue, 03 Nov 2026 17:29:39 GMT"
-    },
-    {
-      "headline": "KFC Dubai Flagship Redesigns Physical Retail as Social Feed",
-      "background": "Fast food chains are experimenting with flagship locations that function more as brand experiences than transactional spaces, responding to declining foot traffic and the influence of social media on physical space design.",
-      "keyFindings": [
-        "KFC's Dubai flagship 'Muse' is explicitly designed around the concept of becoming content — mirroring how social feeds work spatially",
-        "The space is positioned as a retail experience reimagining, not just a restaurant redesign",
-        "No specific UX metrics, footfall data, or design methodology details are available in the snippet"
-      ],
-      "implications": "Relevant to service designers and experience strategists working in retail or hospitality. The 'space as feed' concept is a concrete brief worth examining — how do you design physical affordances that invite content creation without feeling cynical?",
-      "tags": [
-        "Retail experience",
-        "Service design",
-        "Brand spaces"
+        "Design theory",
+        "Public space",
+        "Mental models"
       ],
       "featured": false,
       "type": "research",
@@ -154,76 +159,77 @@
       "publishedWindow": "today",
       "image": null,
       "source": "LBB - Little Black Book",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQanAzV25RQkFCX0pnZi1fOFU2ZzByQUw2RUx4TjRJdnl0Zi1jN3ZYYmNZRlJ3MVNFS3BQYUVJU25abFdLdnFjR0czS3JZdTYwaUE1Uk14V2JPVzhXQUYxRUVZVDk5MHNvQmc2cTktb2t4RF9iOW1vdXFxV0piWnFfeHFYYWh2OE5XdDI5TV9VbU5NRkYtY1lVZA?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 16:15:12 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ROVJXUkpaOTZyeFE3d3gxbW1id3BoQ0RHNTBta0dPc0VSMVhBV1FqT3JIcTBmWXdRTWoxY1BuNWdIVXJkWG02dXJtUFd2eEt1STk4b3BEMkNEN2hzdnR1eGVWRHg?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 16:10:27 GMT"
     },
     {
-      "headline": "IBU Outlines BCOM in International Management and Technology",
-      "background": "Business and technology degree programs are increasingly marketing specific curriculum details as differentiators in a crowded higher education market.",
+      "headline": "Mental models and conventions: how expectations shape UX",
+      "background": "Mental models are foundational to UX theory but are frequently invoked without precision — conflated with habits, conventions, or heuristics in ways that muddy design decisions.",
       "keyFindings": [
-        "International Business University has published curriculum details for its Bachelor of Commerce in International Management and Technology",
-        "Content appears to be a press release or sponsored placement rather than editorial analysis",
-        "No specific course outcomes, graduate data, or industry partnerships are described in the snippet"
+        "Mental models describe what users believe a system does, which often diverges from how it actually works",
+        "Design conventions reduce learning load by aligning interfaces with pre-existing user expectations",
+        "Violating conventions requires significant UX justification — novelty alone is not sufficient reason"
       ],
-      "implications": "No actionable insight for UX or product practitioners. Relevant only if you are evaluating technology management education programs.",
+      "implications": "Useful as a reference or teaching resource for teams doing design critiques or onboarding junior designers — particularly when evaluating whether a non-standard pattern is justified by user research or just preference.",
       "tags": [
-        "Tech education",
-        "Business curriculum"
+        "Mental models",
+        "Conventions",
+        "Design education"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "markets.businessinsider.com",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOM2N0OWpjckNydGkyLUJYbkczay12ZFF4S1RiTm9GeXFXY3EwMWVGY1JmZU12RUtuUmx0aHlhd280UXdkVkRzR3NidEREVHZRM29TQWZUTU5EZHlmUnE4Ny1ZUklMSnFUQ1dkZzAxR0JPbDB1TGhCdnE1TnYwZXlOalB1Y1NucUE5TFNBcDAwSDBScF85SmpKN3h2MlR2VkxqRVd5Yl9kcEdYR09rdVJKd3dTVlgtZUpNOVA4cnlmazJqNkF2LXJPZWJkWWlGQ2dNajZvQmlHaXhLYTdaTGlHX19IOE1YVmhrRE5SczJlVjVESUlZRGEzQ291N0NKMUg1WmVSbDdrTQ?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 15:26:37 GMT"
+      "source": "YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBKdVBnUnJPRGhoU0dmalVzQVhlcGprYkdGR2V3QU1qWVJ0b1l3X2FlQ2d5YW8yQ2lGeEhJbnh6NGV5QQ?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 12:00:35 GMT"
     },
     {
-      "headline": "Edge Computing Is Shifting AI Decision-Making Off the Cloud",
-      "background": "Centralized cloud processing has been the default for AI inference, but latency, bandwidth costs, and reliability requirements in industrial and embedded contexts are pushing decision-making closer to the data source.",
+      "headline": "Travel Saga Tourism relaunches website with UX improvements",
+      "background": "Tourism and travel sites frequently lag on UX quality, relying on legacy booking flows and cluttered information architecture inherited from early web conventions.",
       "keyFindings": [
-        "Edge computing is being positioned as infrastructure for real-time intelligent decision-making, particularly in embedded and industrial systems",
-        "The piece is framed as a November/December 2026 industry eBook, suggesting it surveys current deployments rather than presenting new research",
-        "Specific sectors, performance benchmarks, or architectural patterns are not described in the snippet"
+        "Travel Saga Tourism has relaunched its website citing improved user experience as a primary goal",
+        "No specific UX metrics, testing methodology, or design changes are detailed in available reporting",
+        "The announcement is marketing-led rather than based on disclosed user research or measurable outcomes"
       ],
-      "implications": "Relevant for product and systems designers working on IoT, industrial UX, or latency-sensitive applications. Edge architectures shift where errors occur and where UX feedback loops need to be designed — worth understanding if your product operates in these contexts.",
+      "implications": "No actionable UX or product insight available from this announcement. Skip unless tracking travel sector digital transformation for competitive or market research purposes.",
       "tags": [
-        "Edge computing",
-        "Embedded systems",
-        "AI infrastructure"
+        "Travel",
+        "Website relaunch",
+        "Marketing"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "www.embedded.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU056cm5ZVjU4ZEFza2dwUXlJMDZ4ZUpRLS1kUzF6Szc2OUtNYktRVlk3ZXgtQUlXQ3dPYUtRMmI5S3BNU2ZZRzBzbWUzZ2dzMk90dGJTeG42UGE5cXAxZHI2b2tjNUNFeWxYMmQ2REtUX3BobEJzbFVGRkpMTmtQM1EzTHJhOVlUNXNTQWlBaVU5UEhqdi1aVEZzZHlla09ERzd0MEVKWWw2ZmM?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 15:08:42 GMT"
+      "source": "Daily Excelsior",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX3BjZC1ZTFdkcWFUOXNucFRwTlQwNkxDRTQ4MTdvTFQ2c0w2TElfcS1ONERKSFV4MnpmV1VkT1o0c3Q5aHlVT0ZrNHVXay1seW1hVG1leWlyWEl2S3UxLXlreEpyTFhya2IteE9IeU9rTWlZcUNBTXo1djhIVUpGd1Nob0dILW1ZRzZMei1iZTA2M2wxZ2lKUndYdjNGU0pvMUxlVXhfQkRUc19qMnZtQjFR0gG2AUFVX3lxTE5qR0xUVGR5MHIybnVTaEd0OW14N2phUGptanBYY19uRTZaWWtNcDhnS2lxLUI1OXdNWUdzWC02SjUxcDdCakFfaE9DUXBqU21ySTg3YTJBWjM4OG1iUnlpS05jRmMxamMxWWVoMjYtcXJ6TkM0elhJbV9KZUdoX0RfTHItN2hBeW9kMTQtY3BySzhjRjFLYWFBZ1RHT1BteE1XZ0FLX244UWxLOU9BM0lGT1c1U2RB?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 07:02:48 GMT"
     },
     {
-      "headline": "Behavioral Design and Tech Combined to Reduce Ticket Fraud",
-      "background": "Online ticket fraud — including fake listings and resale scams — is a persistent consumer harm problem that traditional technical countermeasures alone have not solved, prompting interest in behavioral and design-led interventions.",
+      "headline": "Sahmyook University design graduates showcase new work",
+      "background": "Graduate design exhibitions offer a periodic snapshot of emerging design sensibilities and what design education is currently emphasizing as students enter the workforce.",
       "keyFindings": [
-        "TicketBewust.nl is a Dutch initiative combining behavioral science insights, technology, and creative communication to reduce online ticket fraud",
-        "Capgemini is involved, suggesting a consulting and implementation angle rather than purely academic research",
-        "The approach treats fraud prevention as a behavior change problem, targeting buyer decision-making rather than only seller detection"
+        "Sahmyook University's Art and Design department held its graduation exhibition under the theme 'The Start of a New Story'",
+        "No specific projects, themes, or standout work are described in available reporting",
+        "The exhibition represents graduating cohort output but provides no extractable design or research insight from this snippet"
       ],
-      "implications": "A concrete case study for UX and product teams working on trust, safety, or fraud-adjacent flows. The behavioral-plus-technology framing is directly applicable to onboarding, marketplace, and payment design contexts where user decisions are the vulnerability.",
+      "implications": "No actionable content for UX or product practitioners based on available information. Of interest only if tracking Korean design education or talent pipelines.",
       "tags": [
-        "Fraud prevention",
-        "Behavioral design",
-        "Trust and safety"
+        "Design education",
+        "Graduate work",
+        "South Korea"
       ],
-      "featured": true,
+      "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Capgemini",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdXlVd2JUcWVMQmI1MkpBTVBBel82cjlyOTQwdWJQZnlHenVVNnNUdl83aTlKUkJ0S1hvVHJRWGlySV9aV1hMeDdaRmplbHNpcmc3LVA0QWd0c3dpYjc0YUE4MlppYm1KXzVNaXgwYnUxNXBUM09md1MwM0xkRW1xVDdZZlU4a180ZS1pY2dMV1FGNXRBTU1wVXRxNTBqdF9ZZ0xWYTBMWVBJVjUxV0diaGpneHk1bmVRbm5Ia1NLNVFqZ2tTcnN2ZXNGN2dYd2taS1EybQ?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 15:05:03 GMT"
+      "source": "아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aN09ZcGV2OGFBbjk1aFAtNEhWX1NLNHBob29kUUxIYXBQUnQyVU52OHlWVW9GRU1GWlI5OV9HOUoteVZvTUoxdi1nYmFsVHpNTVpsYzN1M1FTUkhETFJPQmhwa0JDWmFuekxYVDh5QUpYdw?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 06:06:06 GMT"
     }
   ]
 }
