@@ -1,235 +1,231 @@
 {
-  "generatedAt": "2026-11-04T19:27:14.325Z",
+  "generatedAt": "2026-11-05T19:36:20.106Z",
   "items": [
     {
-      "headline": "AI tools assist UX work — they don't lead it",
-      "background": "As AI tools become embedded in design workflows, there's ongoing debate about how much creative and strategic authority designers should delegate to them. This piece pushes back against over-reliance.",
+      "headline": "Solo dev built and sold a desktop app using Claude Code",
+      "background": "AI coding assistants are increasingly being used by non-engineers to ship real products, but concrete examples with actual revenue data are rare. This piece documents one person's end-to-end experience using Claude Code as a primary development tool.",
       "keyFindings": [
-        "AI tools are positioned as executional assistants for UX tasks, not decision-makers for creative direction",
-        "Designers retain responsibility for strategy, user empathy, and design rationale",
-        "Delegating creative leadership to AI risks outputs that optimize for pattern-matching over genuine user needs"
+        "The app was built to solve a personal problem — custom video backgrounds — without prior app development experience",
+        "The product made 60 sales, providing a small but real signal of market validation",
+        "Claude Code was used to write functional desktop app code, not just snippets or boilerplate"
       ],
-      "implications": "Useful framing for teams setting internal AI usage policies or onboarding designers to AI tools — clarifies where human judgment must stay in the loop, particularly in research synthesis and concept direction.",
+      "implications": "Useful proof-of-concept for UX practitioners considering building side tools or prototypes without a dedicated engineer. The low sales volume also serves as a realistic ceiling-check on 'build it and they will come' assumptions.",
       "tags": [
         "AI tools",
-        "Design workflow",
-        "Creative process"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "SDxCentral",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZklzWjlXYzNCa0dOZnU3Sy1CQzdUQnFtSS16V3I0M29IOUtIdy1RenRfM2I5VlZ4X181NzNmbDl0aVl2emFlYm9wZF9ESzNaN3FDZGtxdjFmd0R3RTJSNnBuWjF4VUpRZjJSdTVuaUVYMnM0Y1dMZGZCdXE1dlVFLV9KMW1JYVdEbEhYWFlzWQ?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 19:19:49 GMT"
-    },
-    {
-      "headline": "Ergonomics basics: designing physical spaces for real human use",
-      "background": "Physical environment design — classroom layouts, office furniture, workspace configuration — often gets siloed from digital UX practice, despite sharing the same human-factors foundations.",
-      "keyFindings": [
-        "Physical space design directly affects cognitive performance, comfort, and social interaction",
-        "Ergonomic principles apply across contexts from classrooms to open-plan offices",
-        "Poor spatial design creates compounding friction that users adapt around rather than report"
-      ],
-      "implications": "Relevant for teams designing hybrid or in-person product experiences, or those involved in design systems that span physical and digital touchpoints. Limited specificity in the source limits direct application.",
-      "tags": [
-        "Ergonomics",
-        "Physical space",
-        "Human factors"
+        "Solo founder",
+        "Prototyping"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": null,
+      "image": "https://cdn-images-1.medium.com/max/2600/1*qst_I6pMU2ZTq_M_soFScg.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@datascientistmahidhoni/ergonomics-designing-spaces-around-human-needs-55d2c5970ea9?source=rss------product_design-5",
-      "pubDate": "Wed, 04 Nov 2026 18:17:46 GMT"
+      "link": "https://medium.com/@startkopen/i-built-a-desktop-app-with-claude-code-and-it-made-60-sales-806c701192ff?source=rss------product_design-5",
+      "pubDate": "Thu, 05 Nov 2026 19:22:29 GMT"
     },
     {
-      "headline": "Google Research: AI can help humans navigate ethical gray areas",
-      "background": "AI deliberation — using AI to structure or mediate complex human decision-making — is an emerging area distinct from task automation. Google Research is exploring its use in surfacing tradeoffs humans struggle to articulate.",
+      "headline": "335 hours of job searching: what actually works",
+      "background": "Tech and UX job markets have tightened significantly since 2022, and job seekers are spending more time in search cycles with fewer callbacks. First-person data on search effort and iteration is scarce.",
       "keyFindings": [
-        "Google Research proposes 'agile deliberation' as a framework for AI-assisted human decision-making in ambiguous or contested domains",
-        "AI is used to map the structure of disagreements rather than resolve them",
-        "The approach is designed to keep human agency central while reducing cognitive load in complex deliberation"
+        "The author tracked 335 hours of active job searching, providing a rare quantified look at real search effort",
+        "The piece documents iterative changes to application materials and strategy over months",
+        "Findings emerged from direct experience rather than survey data or recruiter advice"
       ],
-      "implications": "Worth tracking for product teams building AI into governance, moderation, or policy workflows — particularly where decisions involve competing values rather than clear optimization targets.",
+      "implications": "Relevant for UX and product practitioners currently on the market or likely to be soon. The volume of effort documented should recalibrate expectations about timeline and workload for a serious job search.",
       "tags": [
-        "AI decision-making",
-        "Ethics",
-        "Google Research"
+        "Career",
+        "Job search",
+        "Portfolio"
       ],
-      "featured": true,
-      "type": "research",
-      "category": "Industry news",
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": null,
-      "source": "Google Research",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVUMyQktCM0NEc1czYzRMODg4dkdIZW9DZkRURm9ZdmFJUnROY2tPQVlTbDhhdF9LR3otLU1kWV9zbTA2bzNxRVVpUUhfNmdLZzJpNENSZ0NqY0c1em96eTZkT0xobkVXaFljRWphYWtGZDNWNjk0U3ZUaUh4SGgtMXQ2RE51WDNOQzlrcGVJTi1CNklT?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 18:10:58 GMT"
+      "image": "https://cdn-images-1.medium.com/max/2600/1*7O2xssyOiwGphz9RwXVk5g.png",
+      "source": "Product Design on Medium",
+      "link": "https://userbexperiencedesign.medium.com/335-hours-of-job-searching-later-e981b21585c5?source=rss------product_design-5",
+      "pubDate": "Thu, 05 Nov 2026 19:20:39 GMT"
     },
     {
-      "headline": "Re-encoding screenshots: when image optimization isn't worth it",
-      "background": "Image optimization pipelines often apply blanket compression rules across all asset types, but JPEGs re-saved as PNGs behave very differently from native PNGs — a distinction that can backfire at scale.",
+      "headline": "AI-first search backfired — expert users showed us why",
+      "background": "Teams building AI-powered search are under pressure to replace or augment traditional keyword search with conversational interfaces. This piece documents a case where that approach was tested against real user behavior and ran into friction.",
       "keyFindings": [
-        "A JPEG saved as PNG can balloon to 4.5x its original file size, making naive re-encoding actively harmful",
-        "Only 195 of 624 screenshots tested were worth shrinking — a 31% hit rate",
-        "An 81% average saving on optimizable images is misleading if applied to the full dataset without filtering"
+        "Expert users preferred typed keyword queries over conversational AI input in specific search contexts",
+        "The team identified that AI-first design created slower, higher-effort interactions for users who already knew what they wanted",
+        "The finding led to a design reversal — retaining traditional input patterns rather than defaulting to AI"
       ],
-      "implications": "Teams running automated image optimization should audit whether their pipeline distinguishes asset origin and format history — blanket rules on screenshots or user-uploaded content can increase payload rather than reduce it.",
+      "implications": "Before defaulting to conversational AI patterns in search, map your user expertise distribution. Power users and frequent searchers often have established mental models that AI interfaces disrupt rather than improve. Test both modalities explicitly.",
       "tags": [
-        "Performance",
-        "Image optimization",
-        "Asset management"
+        "Search",
+        "AI design patterns",
+        "Expert users"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/600/1*aFJk1zF1Z5PFxOXyt_MQWg.png",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*y1eNgESrCrL8ByeGlSdUBw.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@dev_89017/a-jpeg-saved-as-png-grew-to-4-5-times-its-size-only-195-of-624-screenshots-were-worth-shrinking-b6ca6483c439?source=rss------product_design-5",
-      "pubDate": "Wed, 04 Nov 2026 18:01:02 GMT"
+      "link": "https://medium.com/@shivinmittal/we-almost-made-search-worse-by-making-it-smarter-e28d9c6c85a5?source=rss------product_design-5",
+      "pubDate": "Thu, 05 Nov 2026 19:16:57 GMT"
     },
     {
-      "headline": "Designing AI products requires rethinking how you model uncertainty",
-      "background": "Designers moving into AI product work from other domains often find that conventional UX mental models — deterministic flows, clear feedback states — break down when outputs are probabilistic and context-dependent.",
+      "headline": "Designing a food delivery app for Indian neighbourhood kitchens",
+      "background": "Most food delivery UX is designed around large restaurant aggregators in Western or metro contexts. Neighbourhood kitchen networks in India operate on different trust, discoverability, and payment dynamics that mainstream patterns don't address.",
       "keyFindings": [
-        "AI product design demands new approaches to representing uncertainty and system confidence to users",
-        "Trust calibration — helping users neither over- nor under-trust AI outputs — emerges as a core design challenge",
-        "Domain-switching (security, advertising → AI) surfaces assumptions baked into standard UX practice that go unexamined in familiar contexts"
+        "The design prioritized reducing cognitive load by simplifying menu structures typical of local kitchen operations",
+        "Honesty in delivery timing and food availability was treated as a core design principle, not a secondary concern",
+        "The case study focuses on a calmer, lower-stimulation UI as a deliberate contrast to notification-heavy delivery apps"
       ],
-      "implications": "Particularly relevant for mid-career designers transitioning into AI product roles — the framing around uncertainty and trust has direct implications for how you design feedback, error states, and user control in AI-assisted features.",
+      "implications": "Worth reviewing for anyone designing marketplace or delivery experiences outside dominant Western use cases. The emphasis on trust and information honesty over conversion-driven UI is a useful counterweight to dark-pattern-heavy norms in the category.",
       "tags": [
-        "AI products",
-        "Trust",
-        "Designer mindset"
+        "Marketplace design",
+        "Emerging markets",
+        "Case study"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1774/1*W_xXPuPUONVdFeYBennI5Q.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*18_krprBJ-WiAqlb8Ogg4A.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@lizhen10/before-i-can-design-it-i-need-a-new-way-to-think-27d31edcee2b?source=rss------product_design-5",
-      "pubDate": "Wed, 04 Nov 2026 17:57:59 GMT"
+      "link": "https://medium.com/@sahurohit490/designing-chulha-how-i-designed-a-food-delivery-app-for-indias-neighbourhood-kitchens-9564f132069e?source=rss------product_design-5",
+      "pubDate": "Thu, 05 Nov 2026 19:11:40 GMT"
     },
     {
-      "headline": "Practical rules for designing AI agent interactions",
-      "background": "AI agents — systems that take multi-step actions autonomously on behalf of users — are moving from demos into real products, but design conventions for them are still being established from scratch.",
+      "headline": "Irrelevant market report: whole genome sequencing",
+      "background": "This appears to be an automated or misfiled market research report unrelated to UX, product, or technology practice.",
       "keyFindings": [
-        "Agent design requires explicit handling of ambiguity: agents need rules for when to act, when to pause, and when to ask",
-        "User control and legibility of agent actions are identified as foundational requirements, not features",
-        "Existing UI patterns for single-turn interactions don't map cleanly onto multi-step autonomous agent behavior"
+        "No relevant UX or product findings",
+        "Content covers biotech market sizing and forecasting",
+        "Not applicable to this digest's scope"
       ],
-      "implications": "Directly applicable for anyone designing agent-based features in productivity, customer service, or workflow tools — the rules here provide a starting framework where no mature pattern library yet exists.",
+      "implications": "No actionable implications for UX or product practitioners.",
       "tags": [
-        "AI agents",
-        "Interaction design",
-        "Autonomy"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*2RjjlELmHjLfP88M9Cf0tA.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@deepakjatinchaudhary/rules-for-agent-design-a2aa96e1d780?source=rss------product_design-5",
-      "pubDate": "Wed, 04 Nov 2026 17:31:05 GMT"
-    },
-    {
-      "headline": "What sidewalk design reveals about user-centered thinking",
-      "background": "Urban infrastructure design — particularly pedestrian spaces — offers long-studied, real-world evidence of how people actually move through and use designed environments, with lessons that transfer to digital contexts.",
-      "keyFindings": [
-        "Sidewalk design decisions reveal tension between planner assumptions and actual pedestrian behavior",
-        "Desire paths and informal use patterns in physical spaces mirror how users work around unintuitive digital interfaces",
-        "Public space design failures are often invisible to designers because affected users have no formal feedback channel"
-      ],
-      "implications": "Useful conceptual reference for designers thinking about feedback loops and assumption validation — the analogy to digital UX is reasonably strong, though the source lacks specific research citations based on available snippet.",
-      "tags": [
-        "Design theory",
-        "Public space",
-        "Mental models"
+        "Off-topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "LBB - Little Black Book",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ROVJXUkpaOTZyeFE3d3gxbW1id3BoQ0RHNTBta0dPc0VSMVhBV1FqT3JIcTBmWXdRTWoxY1BuNWdIVXJkWG02dXJtUFd2eEt1STk4b3BEMkNEN2hzdnR1eGVWRHg?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 16:10:27 GMT"
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUGhDNndsQm45YkxSWE9VWGluYzFxYWU0YVpaUWU2VXFPQUswRmIxVmhodTJvSWNmdUwyRDdJaEVqaEc4SWhLTVNsS2JHNlREYzU2YldPWWVncnBvMDFsYlZqRFo5R2l6dnBCazdReU9IUVExVEpLQ0RGSnFlbUU1V2pocjc3YXBvLUxJTnY0M1ZzTERrWEJkYmxSQ0RPVER6YjRja0E4WElQQXQ3Ri02YnFiWGZHV2V0dVp6Ymt3eWxTQQ?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 18:41:03 GMT"
     },
     {
-      "headline": "Mental models and conventions: how expectations shape UX",
-      "background": "Mental models are foundational to UX theory but are frequently invoked without precision — conflated with habits, conventions, or heuristics in ways that muddy design decisions.",
+      "headline": "Figma-to-handoff workflow using AI tools",
+      "background": "Design-to-developer handoff remains a persistent friction point, and AI integrations inside Figma are increasingly being used to close gaps in annotation, spec generation, and documentation.",
       "keyFindings": [
-        "Mental models describe what users believe a system does, which often diverges from how it actually works",
-        "Design conventions reduce learning load by aligning interfaces with pre-existing user expectations",
-        "Violating conventions requires significant UX justification — novelty alone is not sufficient reason"
+        "The workflow covers the full arc from brief to developer handoff using Figma combined with AI tooling",
+        "AI is used to accelerate documentation and design decision capture, not just visual generation",
+        "The piece is authored by a practitioner sharing a working process rather than a vendor pitch"
       ],
-      "implications": "Useful as a reference or teaching resource for teams doing design critiques or onboarding junior designers — particularly when evaluating whether a non-standard pattern is justified by user research or just preference.",
+      "implications": "Useful starting reference for teams trying to reduce handoff rework. Worth comparing against your current annotation and spec process to identify where AI assistance would have the most leverage.",
       "tags": [
-        "Mental models",
-        "Conventions",
-        "Design education"
+        "Design handoff",
+        "Figma",
+        "AI tools"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBKdVBnUnJPRGhoU0dmalVzQVhlcGprYkdGR2V3QU1qWVJ0b1l3X2FlQ2d5YW8yQ2lGeEhJbnh6NGV5QQ?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 12:00:35 GMT"
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnhDT3NaTFhhSXYtV2JjaFV6ZC11YTV4c3htM2JOcG1Yc2NmMC1UTl92OXJjbVljeXF2UzBFTUJqV2YtOFZUSW0yM3V0anB6Z0xjbDlJbTl1aThPYlRtSjdxejkxeGhURGRZV19RLXEtd1pxUFl2LU5peDVuM05LczBDV25qY2FlWHdCVGRzN3ZKWnM?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 18:22:23 GMT"
     },
     {
-      "headline": "Travel Saga Tourism relaunches website with UX improvements",
-      "background": "Tourism and travel sites frequently lag on UX quality, relying on legacy booking flows and cluttered information architecture inherited from early web conventions.",
+      "headline": "Irrelevant market report: cell-culture matrix products",
+      "background": "This appears to be an automated or misfiled biotech market research report with no connection to UX, product, or technology practice.",
       "keyFindings": [
-        "Travel Saga Tourism has relaunched its website citing improved user experience as a primary goal",
-        "No specific UX metrics, testing methodology, or design changes are detailed in available reporting",
-        "The announcement is marketing-led rather than based on disclosed user research or measurable outcomes"
+        "No relevant UX or product findings",
+        "Content covers life sciences market forecasting to 2035",
+        "Not applicable to this digest's scope"
       ],
-      "implications": "No actionable UX or product insight available from this announcement. Skip unless tracking travel sector digital transformation for competitive or market research purposes.",
+      "implications": "No actionable implications for UX or product practitioners.",
       "tags": [
-        "Travel",
-        "Website relaunch",
-        "Marketing"
+        "Off-topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Daily Excelsior",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX3BjZC1ZTFdkcWFUOXNucFRwTlQwNkxDRTQ4MTdvTFQ2c0w2TElfcS1ONERKSFV4MnpmV1VkT1o0c3Q5aHlVT0ZrNHVXay1seW1hVG1leWlyWEl2S3UxLXlreEpyTFhya2IteE9IeU9rTWlZcUNBTXo1djhIVUpGd1Nob0dILW1ZRzZMei1iZTA2M2wxZ2lKUndYdjNGU0pvMUxlVXhfQkRUc19qMnZtQjFR0gG2AUFVX3lxTE5qR0xUVGR5MHIybnVTaEd0OW14N2phUGptanBYY19uRTZaWWtNcDhnS2lxLUI1OXdNWUdzWC02SjUxcDdCakFfaE9DUXBqU21ySTg3YTJBWjM4OG1iUnlpS05jRmMxamMxWWVoMjYtcXJ6TkM0elhJbV9KZUdoX0RfTHItN2hBeW9kMTQtY3BySzhjRjFLYWFBZ1RHT1BteE1XZ0FLX244UWxLOU9BM0lGT1c1U2RB?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 07:02:48 GMT"
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcHBkU3lBb0JZNlJ3M1BGOTlwQmthQ0dGWjJoMFd2bDZqaU5FVVU5WFRaM01MOHhEUTg5cDhNNnNTZHk2U0g1Mkw0YnA1WjFRb1lITkNYMlZQMjFialJ0cXVLSTV3alNLbkhwYUdSaTRob1RkWTRQTUl5WXV0UzVWZHEtSVRhUFFDYmo3N1dDNTBzY3duMERuSjVweF8xRkdrWl8wWEdHVzZuQXN4d2R6T1dyZElXdGNmS0tEWk9ObzBhVU1qb0ktN09SMkQ1ZHhkeUdFbV9tOGhTS28?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 13:36:04 GMT"
     },
     {
-      "headline": "Sahmyook University design graduates showcase new work",
-      "background": "Graduate design exhibitions offer a periodic snapshot of emerging design sensibilities and what design education is currently emphasizing as students enter the workforce.",
+      "headline": "Practical accessibility fixes for LLM chat interfaces",
+      "background": "Chat-based interfaces powered by LLMs have proliferated rapidly, but accessibility considerations — particularly for assistive technology users — have largely been treated as an afterthought. Eric Bailey's work addresses a real and widening gap.",
       "keyFindings": [
-        "Sahmyook University's Art and Design department held its graduation exhibition under the theme 'The Start of a New Story'",
-        "No specific projects, themes, or standout work are described in available reporting",
-        "The exhibition represents graduating cohort output but provides no extractable design or research insight from this snippet"
+        "LLM chat interfaces introduce specific accessibility failures including dynamic content updates that screen readers handle inconsistently",
+        "Bailey identifies concrete patterns such as live region management, focus handling, and streaming response behavior as key problem areas",
+        "The piece draws on direct remediation work on live chat interfaces, not theoretical guidance"
       ],
-      "implications": "No actionable content for UX or product practitioners based on available information. Of interest only if tracking Korean design education or talent pipelines.",
+      "implications": "If your team is shipping or iterating on any chat-based UI, this should be treated as required reading before launch. The patterns described are specific enough to audit against an existing implementation immediately.",
       "tags": [
-        "Design education",
-        "Graduate work",
-        "South Korea"
+        "Accessibility",
+        "Chat interfaces",
+        "Assistive technology"
+      ],
+      "featured": true,
+      "type": "research",
+      "category": "Design & dev",
+      "publishedWindow": "today",
+      "image": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
+      "source": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "pubDate": "Thu, 05 Nov 2026 13:00:00 GMT"
+    },
+    {
+      "headline": "AI moderation tool targets qualitative market research",
+      "background": "Qualitative research at scale is expensive and slow, and AI moderation tools are emerging as a proposed solution — though questions about data quality and participant experience remain active.",
+      "keyFindings": [
+        "Atypica positions its AI as a moderator replacement or supplement for research sessions rather than just an analysis tool",
+        "The product targets market research workflows specifically, not broader UX research",
+        "Coverage comes from a business outlet rather than a research methodology source, limiting technical depth"
+      ],
+      "implications": "Worth monitoring for research ops teams, but scrutinize claims about moderation quality carefully. AI moderation changes participant dynamics in ways that are not yet well-documented in published research.",
+      "tags": [
+        "Research ops",
+        "AI tools",
+        "Qualitative research"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aN09ZcGV2OGFBbjk1aFAtNEhWX1NLNHBob29kUUxIYXBQUnQyVU52OHlWVW9GRU1GWlI5OV9HOUoteVZvTUoxdi1nYmFsVHpNTVpsYzN1M1FTUkhETFJPQmhwa0JDWmFuekxYVDh5QUpYdw?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 06:06:06 GMT"
+      "source": "Dynamic Business",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSEFxTDlQNFVfSmRKbTkzX0ZmM3g3RmV3VjkydXZGem1GQUxLal9XNkgzR1NBRnlXcnVnUnZpdWw1WDFFUGNkaktxakVzN3hFdTBWeEstTWc0SGItR2lZaHlHa0ktVGVXRjNaNXY2bzJFcXRScnVPX2lvSmw1YnA1U2cxZXQzeUFYS3c?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 10:50:33 GMT"
+    },
+    {
+      "headline": "Agency listicle: product design firms for SaaS founders",
+      "background": "Roundup lists of design agencies are a common content format with generally low editorial rigor. This piece targets SaaS founders evaluating design partners, with a 2027 dateline suggesting forward-looking positioning.",
+      "keyFindings": [
+        "Lists six product design agencies with implied relevance to SaaS contexts",
+        "The 2027 framing appears to be positioning rather than forward-looking research",
+        "No methodology for agency selection is stated in the snippet"
+      ],
+      "implications": "Treat with caution as a reference resource — agency lists of this type are frequently influenced by commercial relationships. If evaluating design partners, supplement with direct portfolio review and client references.",
+      "tags": [
+        "Agency selection",
+        "SaaS",
+        "Product design"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "The Future of Things",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPalVtWjNXczlkN2tva1V0UEVyQlEtZkwteU5DOHMzcUxFaEJ5eDZuOGlZZEhMeTcxQmRlMGszSWp4TUwtTVdtWGlsWDYwRzlPbEVCRUNYTVZHRHU0SHJzYlNmUTlEaEZjWi1DUTdvSjg0dEdGMWJuY0l1Q2YzbWNTem5sNGhSOXZaMlJFUFhiMA?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 10:35:02 GMT"
     }
   ]
 }
