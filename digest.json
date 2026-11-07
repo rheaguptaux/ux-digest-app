@@ -1,232 +1,235 @@
 {
-  "generatedAt": "2026-11-06T18:58:06.368Z",
+  "generatedAt": "2026-11-07T17:30:31.663Z",
   "items": [
     {
-      "headline": "AI automation cut lead prospecting time by 98%",
-      "background": "Sales and growth teams are under pressure to qualify leads faster, and AI-assisted workflows are increasingly being tested as a replacement for manual prospecting tasks. This piece documents one team's specific implementation.",
+      "headline": "Designers in 2026 need to read code, not write it.",
+      "background": "As AI code generation matures, the debate about whether designers need to code has shifted. The question is no longer about generating output but about evaluating it.",
       "keyFindings": [
-        "The workflow reduced prospecting time by 98% using a combination of AI and automation tools",
-        "The approach targets the lead qualification stage specifically, not the full sales cycle",
-        "No detail on tooling or error rate is available from the snippet alone"
+        "AI can produce functional code quickly, but it frequently breaks design intent in ways that aren't obvious without reading the output",
+        "The skill gap being identified is not code authorship but code legibility — spotting where implementation diverged from design",
+        "This reframes 'should designers code' away from production ability toward critical review capability"
       ],
-      "implications": "Worth investigating if your team handles growth or acquisition workflows, but treat the 98% figure skeptically without seeing the methodology — automation gains at this scale often trade speed for lead quality.",
+      "implications": "If you're a designer working alongside AI-generated front-end code, being able to read enough to audit the output is now a practical workflow skill, not an optional add-on. This applies especially to teams without a dedicated QA layer between design and shipping.",
       "tags": [
-        "Automation",
+        "Design-dev handoff",
         "AI tools",
-        "Growth"
+        "Designer skills"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1400/1*Sw8Yqqiny4KoZ4vJOVRsOA.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/design-bootcamp/designers-dont-need-to-write-code-in-2026-they-need-to-read-it-25bab0212c2d?source=rss------product_design-5",
+      "pubDate": "Sat, 07 Nov 2026 16:40:58 GMT"
+    },
+    {
+      "headline": "Thai fintech team built four in-house AI assistants for digital experience.",
+      "background": "Large product orgs are increasingly moving from using third-party AI tools to building internal AI agents tuned to their own workflows and domain knowledge. This is a showcase account from Arise by INFINITAS, the digital arm of Kasikorn Bank.",
+      "keyFindings": [
+        "The team built four distinct AI assistants targeting different functions within their Digital Experience division",
+        "The project was showcased at an internal event called DNA-I, framed around integrating design and AI practices",
+        "The effort represents a shift from adopting general AI tools to building proprietary, role-specific agents"
+      ],
+      "implications": "For product and design leaders at large orgs, this is a signal that bespoke internal AI tooling is becoming a competitive differentiator — but it requires significant investment in both AI and design operations capability. Smaller teams without those resources should track what workflows these agents are targeting before attempting to replicate the approach.",
+      "tags": [
+        "AI agents",
+        "Design operations",
+        "Enterprise product"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1800/1*w8xKsgS-tDxW6TO16i_nsw.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*zegJg3n_vne8pW91RzelJw.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@muriloviriato/como-eliminamos-98-do-tempo-de-prospec%C3%A7%C3%A3o-de-leads-com-ia-e-automa%C3%A7%C3%A3o-d85e9db5b1cf?source=rss------product_design-5",
-      "pubDate": "Fri, 06 Nov 2026 18:33:29 GMT"
+      "link": "https://flukelaster.medium.com/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8-%E0%B8%A5%E0%B8%B8%E0%B8%81%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E-ai-%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%AD%E0%B8%87-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B9%83%E0%B8%88%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99-dna-i-e13b7acda44c?source=rss------product_design-5",
+      "pubDate": "Sat, 07 Nov 2026 15:46:45 GMT"
     },
     {
-      "headline": "Immunoassay instruments market forecast — not relevant here",
-      "background": "This is a market research report on medical diagnostics equipment, unrelated to UX, product, or technology practice.",
+      "headline": "Calculator usability broke on real inputs, not wrong math.",
+      "background": "Usability testing on utility tools like calculators often focuses on whether outputs are correct. This piece documents what happens when testing shifts to how real users actually type and enter data.",
       "keyFindings": [
-        "No UX or tech relevance",
-        "Market sizing report for medical instrument sector",
-        "Appears to be an indexing or feed error"
+        "The first usability failures discovered were input handling issues, not computational errors — the math was correct but the interface failed before users reached it",
+        "Testing with realistic user input patterns (not clean, expected inputs) surfaced problems that standard QA would have missed",
+        "The framing distinction is between answering the right question correctly vs. answering the wrong question correctly"
       ],
-      "implications": "No actionable relevance for UX, product, or tech practitioners. Likely a feed ingestion error.",
+      "implications": "For anyone designing or testing data-entry tools, calculators, or form-heavy interfaces: test with messy, real-world input behavior, not sanitized test cases. Edge cases in input format and entry patterns are where utility tools most commonly fail real users.",
       "tags": [
-        "Off-topic"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZDhvNEV4V0ladEVQaHdvT0piTmJLYkpYOS1kZllNbW5ROFJhYjF0VHltUHQ3ZlB1TEtySFZyVzZiWkpXNks3NVRFRlJlb0dsM0V6V1FPYjZ4Q1p0bHBSTzVRdFBwa08xVTlPUEVCazdpQW54RHRGa3RZY2ZLTTdNVnJtdURZWVk2UXBBb2xzRDFMdFhsWVBBeURoaG5SdE1mNDhqcDdEVjd3YmJ2WU9pVVpOWld3Um1ETW5rbVJiX2FxR3RGQ3NBYm9Tc28yUDE3T3JlQg?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 18:31:04 GMT"
-    },
-    {
-      "headline": "OpenJam redesign builds cohesive mobile identity from scratch",
-      "background": "Music discovery apps face a crowded market, and early-stage products often carry inconsistent visual systems built concept by concept. This case study revisits OpenJam's design evolution.",
-      "keyFindings": [
-        "The redesign focused on establishing a cohesive visual identity where none previously existed",
-        "Mobile experience was a primary target of the refinement effort",
-        "Work progressed from early concept stage to a more structured system"
-      ],
-      "implications": "Useful reference for designers working on 0-to-1 mobile products who need to demonstrate how visual systems evolve — particularly relevant for portfolio work or design critiques.",
-      "tags": [
-        "Visual design",
-        "Mobile",
-        "Case study"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1024/1*8nr2rf6El7vt4OkwDlMOCg.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@martaperezmtnez/revisiting-openjam-giving-a-music-discovery-platform-a-new-visual-direction-20f9ced60b71?source=rss------product_design-5",
-      "pubDate": "Fri, 06 Nov 2026 18:24:31 GMT"
-    },
-    {
-      "headline": "Why frontend devs need design systems literacy",
-      "background": "Design systems are increasingly a shared responsibility between design and engineering, but many frontend developers still encounter them only as a consumer of components, without understanding the underlying logic.",
-      "keyFindings": [
-        "The author had worked across Angular, React, backend, and cloud before meaningfully engaging with design systems",
-        "Design system literacy changes how developers interpret and implement component-level decisions",
-        "The piece argues this knowledge gap leads to implementation drift between design intent and shipped product"
-      ],
-      "implications": "If your team has frontend developers who treat design systems as a component library rather than a governance tool, invest in cross-functional onboarding. Misalignment here is a common source of UI inconsistency at scale.",
-      "tags": [
-        "Design systems",
-        "Frontend",
-        "Cross-functional"
+        "Usability testing",
+        "Forms",
+        "Input design"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*c4DMPNTYeBNrIUHnethKsA.png",
+      "image": "https://cdn-images-1.medium.com/max/1200/0*4_A9Q0t-m6y3FOmN.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/@raj.ankur8/why-every-frontend-developer-should-know-about-design-systems-388b86f2b85b?source=rss------ux-5",
-      "pubDate": "Fri, 06 Nov 2026 18:13:03 GMT"
+      "link": "https://medium.com/@raxsoft/my-calculators-gave-correct-answers-to-the-wrong-questions-so-i-started-asking-back-af3e8650309b?source=rss------ux-5",
+      "pubDate": "Sat, 07 Nov 2026 15:45:25 GMT"
     },
     {
-      "headline": "Step-by-step guide for designers making their first pull request",
-      "background": "The boundary between design and engineering is narrowing, and designers who can contribute directly to codebases — rather than handing off tickets — are increasingly valuable on product teams. Many designers lack a concrete starting point.",
+      "headline": "Three iterations to design an AI agent approval screen for finance.",
+      "background": "Human-in-the-loop design for AI automation is an open problem, particularly in high-stakes domains like fund operations where errors have regulatory and financial consequences.",
       "keyFindings": [
-        "The guide frames the first pull request as a professional milestone that shifts a designer's role on a team",
-        "It provides a step-by-step playbook format, lowering the barrier to entry for non-engineering designers",
-        "The piece is targeted at designers working in or moving toward design engineering roles"
+        "The team went through three distinct design iterations for an AI automation status screen before reaching the final version",
+        "The piece documents what specific elements were added, removed, or changed between versions and the rationale behind each decision",
+        "The final design had to communicate AI action status, pending approvals, and intervention points in a single screen"
       ],
-      "implications": "Directly actionable for designers looking to work closer to production code. Most relevant in teams using Git-based workflows where design-to-dev handoff is a bottleneck.",
+      "implications": "For product designers working on AI workflow tools in regulated or high-stakes contexts, this is a practical reference for how approval-step UI evolves through iteration. Pay attention to how the design handles the moment between AI action and human sign-off — that's where most AI agent UX falls apart.",
       "tags": [
-        "Design engineering",
-        "Git",
-        "Workflow"
+        "AI agents",
+        "Human-in-the-loop",
+        "Fintech"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/0*gu-CTEypT9az-bkF",
+      "image": "https://cdn-images-1.medium.com/max/2400/1*XLMI-ajQL5lpk8VFb4anPQ.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/designengineer-pro/your-first-pull-request-as-a-designer-a-step-by-step-playbook-060787a57754?source=rss------product_design-5",
-      "pubDate": "Fri, 06 Nov 2026 17:54:19 GMT"
+      "link": "https://medium.com/@mohdbasit/designing-approval-steps-for-an-ai-agent-in-fund-operations-7cb137592123?source=rss------product_design-5",
+      "pubDate": "Sat, 07 Nov 2026 15:40:18 GMT"
     },
     {
-      "headline": "Nielsen's UX roundup: slow AI, cookie banners, persuasion models",
-      "background": "Jakob Nielsen's periodic UX roundups synthesize multiple threads in the field simultaneously. This edition covers a wide range, from AI pacing and emphasis in UI to behavioral persuasion frameworks.",
+      "headline": "Brenner Base Tunnel infrastructure hit by cyberattack.",
+      "background": "Critical infrastructure projects are increasingly targeted by cyberattacks, and construction megaprojects like the Brenner Base Tunnel — a major Alps rail tunnel connecting Austria and Italy — represent high-value targets given the sensitive contractor and engineering data involved.",
       "keyFindings": [
-        "'Slow AI' is flagged as a UX consideration — deliberate pacing in AI responses may affect perceived quality and trust",
-        "Cookie banner design is revisited as a persistent compliance-vs-usability tension",
-        "The Elaboration Likelihood Model is cited as a framework for understanding how users process persuasive UI"
+        "BBT SE confirmed unauthorized access to data as a result of the cyberattack",
+        "The Brenner Base Tunnel is one of Europe's largest active infrastructure projects, making the breach notable for scope of potential data exposure",
+        "No detail on attack vector or volume of data accessed was provided in the confirmation"
       ],
-      "implications": "The Elaboration Likelihood Model reference is worth pulling for anyone designing onboarding or conversion flows — it distinguishes central (rational) from peripheral (cue-based) persuasion routes, which maps directly to CTA and messaging decisions.",
+      "implications": "Primarily relevant to tech and security practitioners working with infrastructure or construction clients. Confirms that project-scale infrastructure organizations remain active targets regardless of their non-consumer profile.",
       "tags": [
-        "AI design",
-        "Persuasion",
-        "Compliance"
+        "Cybersecurity",
+        "Infrastructure",
+        "Data breach"
       ],
       "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByWlhQN2xPYlk2aHpYT3FYNE5RX2RxcG5XLTlPLXNrVWFXaFpIcWhaRHBuT0hXbFNXS3I0TXJ2LTljRmZMSkdaSG13cHh6N3JMcnF2VUExX3Q1TEI1S0NUTktfUjE2THlCeGc?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 12:21:34 GMT"
-    },
-    {
-      "headline": "DEPT hiring Associate Design Director — UX/UI Engineering",
-      "background": "Job posting for a senior UX/UI design leadership role with an engineering focus at agency DEPT.",
-      "keyFindings": [
-        "Role is Associate Design Director level with UX/UI and engineering scope",
-        "Position is at DEPT, a large digital product agency",
-        "No salary, location, or requirements detail available from snippet"
-      ],
-      "implications": "Relevant only for senior designers actively job searching. No strategic or practice insight.",
-      "tags": [
-        "Jobs",
-        "Design leadership"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "https://marketingreport.one/",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdzBrRl9tRzFVTW15emJpbTVmeWVDOWpRWWNKUTJQRFQwaVBlbWM5Z1hwYnNqZ0xGX01Bb0pKT1dRVzFvbUZLeTlsSGJfM1pidlZ2NjlqQUNtYm5UX19OWGdicXBCNEdQWEJ1enVIcHlPMEFROVN4ZGpDalp2OWVfa0E1NUswQ2dMM0tVWkRwekIxR2VycnZsWUNDZ1YzcEp2SkZ4cVJkLWJoMlVwMlpKNEF6V3FkWlV1MUs2OFVHZkh2TkFOeWUw?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 08:16:49 GMT"
-    },
-    {
-      "headline": "New community launches for in-house UX practitioners",
-      "background": "In-house UX practitioners — those embedded in organizations rather than agencies — often lack peer networks tailored to their specific constraints around stakeholder management, internal politics, and resource justification.",
-      "keyFindings": [
-        "The community is built specifically for UX practitioners working inside organizations, not agencies or freelancers",
-        "It includes weekly calls and a shared library of business cases, templates, and research plans from practitioners",
-        "It is a collaboration between UX Insiders and Boagworld"
-      ],
-      "implications": "Potentially high-value for solo or small in-house UX teams who need ready-made business case templates and peer support — particularly useful for justifying research spend to non-design stakeholders.",
-      "tags": [
-        "In-house UX",
-        "Community",
-        "Research"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Design & dev",
-      "publishedWindow": "today",
-      "image": "http://files.smashing.media/articles/ux-insiders-community-in-house-ux-people/ux-insiders-community-in-house-ux-people.jpg",
-      "source": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "link": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
-      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "headline": "How AI is reshaping mobile app development costs in 2026",
-      "background": "AI-assisted development tools are compressing timelines and changing cost structures for mobile app builds, raising questions about where budgets should shift and what businesses should expect from vendors.",
-      "keyFindings": [
-        "The piece examines cost impact of AI tooling on mobile development as of 2026 projections",
-        "AI is positioned as affecting both build time and ongoing maintenance cost structures",
-        "No specific figures or methodology are available from the snippet"
-      ],
-      "implications": "Relevant for product managers and decision-makers scoping mobile builds — but verify any cost figures against actual vendor quotes, as AI productivity gains vary significantly by team and stack.",
-      "tags": [
-        "Mobile development",
-        "AI tools",
-        "Cost"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Big News Network.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaE9idzd4Z2owZVZicnA0OHJVOVlfakZDRVV1V1VudTZhTE1tamtCTWhCYklCbjhzQm96cDQ1cUU4bWplTWhBaW82SkRUTFFIdUhxNDZWVDBmaXplNEVRN2JjNDU2aVRpZFZpQ1Y3OVE0SEtFTHY3ZWdHNGtVcEt6emhLUGx5SzRvYmp0YmhHLUNWc0VKdUR0RXZqcERKeXVvTTktVTRNajBtTWozSkpUdHh5XzNqeC0ybkxtVXFGeXJObDBmdjM0LQ?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 07:33:00 GMT"
-    },
-    {
-      "headline": "One-character exploit bypassed Hugging Face Chat admin API",
-      "background": "Hugging Face has become core infrastructure for AI teams building and hosting models, making security vulnerabilities in its platform directly relevant to product and ML engineering teams depending on it.",
-      "keyFindings": [
-        "A single-character input was sufficient to bypass the admin API in Hugging Face Chat",
-        "The vulnerability allowed unauthorized access at the admin level, not just user level",
-        "The issue was identified and reported by security researcher Pasquale Pillitteri"
-      ],
-      "implications": "Any team using Hugging Face Chat or its API in a production or sensitive context should audit their current access controls and check for patched versions. Admin-level API exposure is high severity regardless of exploit simplicity.",
-      "tags": [
-        "Security",
-        "AI infrastructure",
-        "API"
-      ],
-      "featured": true,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
       "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYTlXUEV0R3p3WERHQkNnLTV5UkJVR0R3a096QlluNGJPc19FamJJaWNscTJEdFFsMzFkdXdtTUtTNkxjb3lFVHk1RVRVSjQyRDNPWllremFKZHV1UnZCTWlYREI0V2gtcGV5S09QcW9FVjFfdXk3anNkS3dudW5wa3hMRGx0M05SbDRsSE1ycUZkUF9BLW0w?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 07:14:26 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXNST2JnQW1oeWJudTByaW15Z2hmd2kwaWJkRzB3X3ZqT1hjMGVld050ejBVSUluNW52SU9QTlZ5OFV1dFJiMUZRQjFvTlA5Sl9RdnRKQTlQSUdNN1RRVFJ3VlcxQi1CTzJXUUhlLTd6Y0ZCdkxnQlhxRUhHV3FPc09KSG8wamRWT05oWjZXVzNZMllaT1pqR1FSTmlUSi1lNHc?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 13:07:53 GMT"
+    },
+    {
+      "headline": "Agency list for B2B and AI startup UX in 2026–2027.",
+      "background": "B2B and AI-focused startups often struggle to find design agencies with relevant domain experience, as most agency portfolios skew toward consumer products.",
+      "keyFindings": [
+        "The piece identifies three agencies specifically positioned for B2B and AI startup engagements",
+        "The selection is framed around 2026–2027 relevance, implying criteria tied to current AI product design demands",
+        "No methodology for the selection criteria is detailed in the snippet"
+      ],
+      "implications": "Treat this as a starting-point shortlist rather than a vetted ranking — no evaluation methodology is disclosed. Useful only as an initial reference if you're actively sourcing agency partners for B2B or AI product work.",
+      "tags": [
+        "Design agencies",
+        "B2B",
+        "AI products"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "TechBullion",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQWpRSUN6TERjekszN3dsX2JZekw3dmJvdWpuTXY2WnZPb1JoRVlKbXc4UF9wS3k2c1M4MEFmeHFWOVh3MXp2NjIwc2pib0ZoaE43dVVvQmlCOHVtMFdPcFdsS3RLYUlNd1JlYUJ3VXN4Z3NNV1NLenJDamRYMTlNVGhFWFlRRzg1bl80MW5pMW0tb1B2ZkxBT3hLQ1NFdDczRGRZdUU2SQ?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 10:10:59 GMT"
+    },
+    {
+      "headline": "Paul Boag is building a UX community for in-house practitioners.",
+      "background": "In-house UX practitioners consistently report feeling isolated from peers, lacking the professional community that agency or consultancy roles provide. Paul Boag, a long-running voice in UX, is responding to this with a dedicated community.",
+      "keyFindings": [
+        "The community is called UX Insiders and is specifically scoped to in-house UX practitioners, not freelancers or agency designers",
+        "Boag has been a prominent UX educator and consultant, giving the initiative some existing audience and credibility",
+        "No launch date or pricing details were included in available reporting"
+      ],
+      "implications": "Worth watching for in-house UX leads and senior practitioners who lack access to peer networks. The in-house-specific framing is a meaningful differentiator from generalist UX communities if it holds in practice.",
+      "tags": [
+        "UX community",
+        "In-house UX",
+        "Professional development"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "news.lavx.hu",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLWNfUVYtbFBDanpZNXUwTHl1SmU0OTJnQWFySkIwQVZfZjR6R2ZrZ3laRDQzZDdJR0pJRzh4TW5kMFk5NG5yaTVlSlhPXzNDR29mZGZHM2U0UDlLUm9jajhpR1lvaGRGQkdUdGFMd21GdG5SaDV2S2JVM3pOVi0tMjA1R1N5bEFFcDlhYU1BbjNmVnhEcF9IOQ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 20:42:44 GMT"
+    },
+    {
+      "headline": "What an agent harness is and why it shapes user capability.",
+      "background": "As AI agents become more embedded in products, the infrastructure managing how those agents operate — their context, tool access, and limits — is becoming a critical design and architecture concern that lacks common vocabulary.",
+      "keyFindings": [
+        "An agent harness is defined as the software loop managing interaction between an AI model and its tools",
+        "The context, permissions, and constraints set within the harness directly determine what actions users and the agent can take",
+        "This makes the harness a consequential design surface, not just an engineering implementation detail"
+      ],
+      "implications": "Product designers and PMs working on AI-powered features need to understand what the agent harness governing their system allows and restricts — because those constraints will surface as UX behavior. If users can't do something, the reason may be a harness-level permission, not a UI problem.",
+      "tags": [
+        "AI agents",
+        "AI infrastructure",
+        "Product design"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 06 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "headline": "Nielsen's usability 101 framework, restated plainly.",
+      "background": "Jakob Nielsen's foundational usability definition remains widely cited but frequently misapplied, particularly as the term gets stretched to cover accessibility, aesthetics, and satisfaction interchangeably.",
+      "keyFindings": [
+        "Usability is defined specifically as how easily people can complete tasks — not how much they enjoy the product or how it looks",
+        "The core method recommended is watching representative users perform realistic tasks, starting early in development and repeating throughout",
+        "The piece is a restatement of established NNG principles, not new research"
+      ],
+      "implications": "Useful as a reference for teams that have drifted toward treating usability testing as a final-stage validation step rather than an ongoing design input. No new findings here — the value is in the precision of the definition against common misuse.",
+      "tags": [
+        "Usability testing",
+        "Research methods",
+        "Foundations"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/usability-101-introduction-to-usability/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 06 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "headline": "How to design maps that work for users with disabilities.",
+      "background": "Maps are one of the most accessibility-challenged UI components, relying heavily on visual encoding, color, and spatial reasoning in ways that exclude users with visual impairments, color blindness, or cognitive differences. Esri, a major GIS platform provider, has published guidance on the problem.",
+      "keyFindings": [
+        "The piece addresses multiple disability types — not just visual impairment but also cognitive and motor accessibility considerations for map interfaces",
+        "Esri's guidance is grounded in their GIS platform context, making it most directly applicable to data visualization and mapping tool designers",
+        "Specific techniques are likely to include alternative text strategies, color contrast requirements, and non-visual navigation patterns for map content"
+      ],
+      "implications": "If you're designing any product that includes maps — from route planning to data dashboards — this is a practical reference, particularly given how few teams apply WCAG principles specifically to map components. Most accessibility guidance doesn't address maps explicitly, so domain-specific resources like this are worth bookmarking.",
+      "tags": [
+        "Accessibility",
+        "Maps",
+        "Data visualization"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Esri",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeHFibi00czZEcEZiYjZEaUVQc1c5dy1iU1ZLYnlHSGh0TERPQ0hsYkpTYXJRQVppWFZydHVCOHl3aTJTYXFhZlNEUExkelpEVFVLX2FEdnBCam9jNU5ZRDRKbk43MkxiUXZzbkhqUXE3ejNZZFVrdzJhb2l2UTU2cW1LT3JmZTE3QjZxSzdLNA?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 17:32:55 GMT"
     }
   ]
 }
