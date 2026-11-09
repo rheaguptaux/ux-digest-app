@@ -1,131 +1,172 @@
 {
-  "generatedAt": "2026-11-08T17:41:50.746Z",
+  "generatedAt": "2026-11-09T21:59:24.783Z",
   "items": [
     {
-      "headline": "What a design engineer actually does day-to-day",
-      "background": "The 'design engineer' title has proliferated without consensus on what the role owns versus what designers or frontend engineers own. Teams are hiring for it without a clear job definition.",
+      "headline": "UX-PM Brasil Opens Extra November 2026 Cohort",
+      "background": "UX-PM certification training in Brazil runs in cohorts with limited seats, and extra sessions are occasionally added when demand exceeds capacity.",
       "keyFindings": [
-        "Design engineers prototype directly in code rather than handing off static mockups",
-        "They deliver finished components to engineers, collapsing the design-to-dev gap",
-        "The role sits at the intersection of visual decision-making and production-ready implementation"
+        "Extra cohort runs November 30 to December 4, 2026",
+        "Offered through UX-PM Brasil"
       ],
-      "implications": "If you're structuring a product team, this role can eliminate a full handoff stage — but it requires hiring someone with both interaction design judgment and real frontend proficiency, not just one or the other.",
+      "implications": "Relevant only if you're based in Brazil and tracking UX-PM certification timelines. Worth noting the date if planning professional development for late 2026.",
+      "tags": [
+        "Training",
+        "Certification",
+        "Brazil"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1080/1*XDseBneyBysoIBSxfYExMA.png",
+      "source": "UX on Medium",
+      "link": "https://www.uxpmbrasil.com.br/turma-extra-de-ux-pm-1-21ff3f6627ca?source=rss------ux-5",
+      "pubDate": "Mon, 09 Nov 2026 21:43:27 GMT"
+    },
+    {
+      "headline": "The Four Steps of UX Research, Briefly Outlined",
+      "background": "UX research process documentation remains highly fragmented across the field, with practitioners at different levels often lacking a shared framework for sequencing research activities.",
+      "keyFindings": [
+        "Frames UX research as a four-step process",
+        "Published on Medium with no indication of original empirical data or novel framework"
+      ],
+      "implications": "Likely introductory-level content. Useful for onboarding junior researchers or setting shared vocabulary on a team, but unlikely to offer new insight for experienced practitioners.",
+      "tags": [
+        "Research methods",
+        "Foundational skills"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*GO4k8jScjDtfX72O",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@nicole-hunt/the-ux-research-process-595bb6dd03b0?source=rss------ux_research-5",
+      "pubDate": "Mon, 09 Nov 2026 20:59:09 GMT"
+    },
+    {
+      "headline": "Design Systems Are Decision Systems, Not Component Libraries",
+      "background": "Many teams treat design systems primarily as UI kit repositories, leading to inconsistency and high maintenance costs when product needs evolve beyond what the library anticipated.",
+      "keyFindings": [
+        "Argues design systems should encode shared decisions and rationale, not just reusable components",
+        "Positions inconsistency as a cost that scales with team size when decision logic isn't codified",
+        "Frames the system's value as enabling evolution, not just enforcing visual consistency"
+      ],
+      "implications": "Teams building or auditing a design system should ask whether documented decisions and reasoning are captured alongside components — not just the artifacts. This reframe has practical consequences for governance and contribution models.",
       "tags": [
         "Design systems",
-        "Team structure",
-        "Design engineering"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*9XTxtK_zcZ0iY5bLajrTKQ.png",
-      "source": "Product Design on Medium",
-      "link": "https://nurxmedov.medium.com/what-does-a-design-engineer-do-348b506e851c?source=rss------product_design-5",
-      "pubDate": "Sun, 08 Nov 2026 17:36:04 GMT"
-    },
-    {
-      "headline": "Demo data should stress-test your product, not showcase it",
-      "background": "SaaS products typically populate public demos with best-case, clean data that makes the product look polished but tells visitors nothing about how it handles real complexity or edge cases.",
-      "keyFindings": [
-        "Demo datasets should be designed around the specific workflow you want users to attempt",
-        "Fictional cases should be chosen to make difficult scenarios possible, not just easy wins",
-        "The goal is feedback quality, not conversion optics during the demo session"
-      ],
-      "implications": "Product and growth teams building demo environments should audit whether the sample data actually exposes the product's core value under realistic conditions — especially for B2B tools where edge cases are the norm.",
-      "tags": [
-        "SaaS",
-        "Product demos",
-        "Onboarding"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*wlScZQTobwnavnsfDZcXOg.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@atomicsdigital/public-saas-demo-data-should-make-the-hard-case-possible-bd0a77c828dc?source=rss------product_design-5",
-      "pubDate": "Sun, 08 Nov 2026 17:04:45 GMT"
-    },
-    {
-      "headline": "Airbnb's data showed fewer results increased bookings",
-      "background": "Data analysis in product work often surfaces counterintuitive findings that teams are tempted to either dismiss or over-interpret. Airbnb's experience with search result volume is a widely cited example of misleading metric readings.",
-      "keyFindings": [
-        "Reducing search results on Airbnb correlated with higher booking rates, contradicting the intuitive 'more choice is better' assumption",
-        "The author applies six distinct analytical lenses to show how the same data supports different conclusions depending on framing",
-        "The puzzle illustrates how confirmation bias and single-metric thinking lead teams to wrong product decisions"
-      ],
-      "implications": "Before acting on a surprising data finding, explicitly interrogate it through multiple causal frameworks — volume effects, selection bias, and user intent all need to be ruled out before drawing conclusions.",
-      "tags": [
-        "Data analysis",
-        "Product decisions",
-        "Research"
+        "Governance",
+        "Consistency"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2200/1*VNgODFJqHsTGZVB1vf8wkQ.png",
+      "image": "https://cdn-images-1.medium.com/max/1670/1*Q8ulgb3GwjB0kR8MN9Hm1Q.png",
       "source": "Product Design on Medium",
-      "link": "https://do7166247.medium.com/airbnbs-data-was-right-the-obvious-conclusion-wasn-t-7fc64f7f9400?source=rss------product_design-5",
-      "pubDate": "Sun, 08 Nov 2026 16:36:41 GMT"
+      "link": "https://medium.com/@arthuraef/design-systems-n%C3%A3o-s%C3%A3o-bibliotecas-de-componentes-s%C3%A3o-sistemas-de-decis%C3%A3o-65949bae7a35?source=rss------product_design-5",
+      "pubDate": "Mon, 09 Nov 2026 20:42:44 GMT"
     },
     {
-      "headline": "AI speed is hiding design decisions from stakeholders",
-      "background": "As AI tools compress the time between brief and deliverable, there's growing concern that the reasoning behind design choices — iterations, rejected directions, decision rationale — is becoming invisible to teams and stakeholders.",
+      "headline": "8 Standard Python Modules That Kill Package Bloat",
+      "background": "Python projects frequently accumulate small third-party helper packages for tasks the standard library already handles, adding dependency overhead and maintenance risk unnecessarily.",
       "keyFindings": [
-        "AI-accelerated workflows reduce visible iteration, making it harder to audit or explain why a design direction was chosen",
-        "Process documentation across tools and versions requires deliberate effort now that it no longer happens as a byproduct of slower work",
-        "Loss of visible process weakens stakeholder trust and makes design rationale harder to defend"
+        "Identifies 8 standard library modules that replace commonly added small packages",
+        "Uses file-matching and copying as a concrete example where developers default to external packages",
+        "Focuses on reducing dependency count without sacrificing functionality"
       ],
-      "implications": "Teams using AI tools should build explicit documentation habits — decision logs, annotated version histories — to preserve the reasoning that used to be visible through natural iteration trails.",
+      "implications": "Relevant for product engineers and technical PMs auditing project dependencies. Leaning on the standard library reduces supply chain risk and simplifies onboarding for new contributors.",
+      "tags": [
+        "Python",
+        "Developer tooling",
+        "Dependencies"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/607/1*rgLu050FpVXREO8VEwj8Ng.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@mrinzmam8/8-python-standard-library-modules-that-replace-small-helper-packages-9a3f8e7dc7c4?source=rss------ux-5",
+      "pubDate": "Mon, 09 Nov 2026 20:38:06 GMT"
+    },
+    {
+      "headline": "Nielsen Roundup: Taste, Pale Text, Back Button, AI Agents",
+      "background": "Jakob Nielsen's periodic UX roundups synthesize recent research and commentary across multiple UX topics, often touching on both foundational principles and emerging AI-related interaction patterns.",
+      "keyFindings": [
+        "Covers research suggesting human aesthetic 'taste' is less individually unique than assumed",
+        "Addresses pale/low-contrast text as a persistent usability problem",
+        "Discusses AI agent wait states and proximity compatibility principle as interaction design considerations"
+      ],
+      "implications": "The pale text and back button items are immediately actionable for anyone doing interface audits. The AI agent wait-state discussion is worth attention for teams building agentic UX flows — managing user expectation during async agent tasks is an underspecified design problem.",
+      "tags": [
+        "AI agents",
+        "Accessibility",
+        "Interaction design"
+      ],
+      "featured": true,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YaVNWcnJ6dEpVZFZSWDZKamRBTUk1aG1kaFhOU29lcHE3alNSQVMyRGt2a2pkZkd5alo5ZUs4X1ZyV2U1VEU0N0VySjBUN2pUY3RRZlJSRkNZSk42RzJoQmtWS2NTMUhvVEE?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 12:21:33 GMT"
+    },
+    {
+      "headline": "5 AI UI Design Tools Benchmarked Against the Same Brief",
+      "background": "The AI UI design tool market has grown rapidly but comparative, task-based evaluations are rare — most coverage is based on feature lists rather than real output quality.",
+      "keyFindings": [
+        "Tests five AI UI design tools against an identical design brief",
+        "Published in 2026, reflecting the current generation of tools",
+        "Fello AI is the publisher, which introduces potential bias toward their own positioning"
+      ],
+      "implications": "Treat findings with caution given the publisher's commercial interest. Still useful as a structured starting point for teams evaluating AI design tooling — cross-reference with independent sources before making tooling decisions.",
       "tags": [
         "AI tools",
-        "Design process",
-        "Collaboration"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*PIxCsJZ7fMVk8D9vvca9Iw@2x.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@ozgedemirbas/how-do-we-keep-the-design-process-visible-as-ai-speeds-it-up-d262a1f18cc5?source=rss------product_design-5",
-      "pubDate": "Sun, 08 Nov 2026 15:40:33 GMT"
-    },
-    {
-      "headline": "Nous Research cuts Qwen model propaganda rate from 22% to 1%",
-      "background": "Open-weight models from Chinese labs like Qwen have faced scrutiny for producing politically biased or propaganda-aligned outputs, limiting their use in products that require neutral, reliable text generation.",
-      "keyFindings": [
-        "Nous Research's Arete-27B fine-tune reduces Qwen's measured propaganda output rate from 22% to 1%",
-        "The 27B parameter scale keeps the model accessible for teams without large inference budgets",
-        "This is a fine-tuning intervention on an existing open-weight model, not a new base model from scratch"
-      ],
-      "implications": "Teams evaluating open-weight models for content generation or assistant features should factor in political bias benchmarks alongside standard capability evals — especially for products with international or sensitive-topic scope.",
-      "tags": [
-        "AI models",
-        "Open-weight LLMs",
-        "Content safety"
+        "UI design",
+        "Tool evaluation"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcW1LLXlBZHhtcXJpN0pjeVhNVERLcjhTeThZLXZKM3ZZaVNVdkhTbmt0VE1waE1PU1E5RVFzS04wbVRJZDNOWWx2MG1TdnItbVE4UFlkSDRpZTN3U2p4em1RbFZveHZ4dEhoMU1iLUppNERlZEROdFl2VXNjQXBxUFR0OFFGMmdMZ1NBNHJuaS0?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 09:11:50 GMT"
+      "source": "Fello AI",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4UWEtUFMya0MtNWt5eVdVUkIxclB1OGhpd1EzRVlPX0VscVdzSE1QVW5FRnZQYndST0JiQXZuTjZETFhqZmJTaTdULU5yWDdhMDhfVg?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 06:06:39 GMT"
     },
     {
-      "headline": "This article is not relevant to this digest",
-      "background": "The snippet references UX as a 'liquidity pulse for institutional tactics' in a stock trading context, using UX as a loose metaphor rather than addressing the discipline itself.",
+      "headline": "Resume Builders Pitched as Journalist Career Pivot Tool",
+      "background": "Ongoing newsroom layoffs have pushed many journalists to seek adjacent careers, creating demand for tools that help translate journalism skills into formats legible to other industries.",
       "keyFindings": [
-        "No UX, product, or tech practice findings present in this piece",
-        "Content appears to be financial trading analysis using UX terminology loosely",
-        "Not actionable for UX, product, or tech practitioners"
+        "Positions AI resume builders as a viable tool for journalists pivoting out of media",
+        "No specific tool performance data or pivot success rates cited in the snippet"
       ],
-      "implications": "No applicable takeaway for this audience.",
+      "implications": "Not directly relevant to UX or product work. Only peripherally interesting if your team is hiring from journalism backgrounds and thinking about how candidates present transferable skills.",
       "tags": [
+        "Career transitions",
+        "Hiring"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "BNO News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOalJpeW55dXhINmNyenBaeTI0M2tDZXJ4NWZzaWdGMTR3NTdHV3JsUGRvV21leHhoUXVzWUlFV0sweTVmMnZZRUFHZV9IZVdMZEwxMkUxLVdVZmdUc3ptalBKUXg5SW5CcWlwOVRicG41LURTazZXd0VMOXNOTThkNl9fMmNOWjA5RjdPdEFBSkwyenJRU0FELWhOWXlCcnFYYnFUY195czdIU3dBQmdtZnRwQWJPTmc3dEV1ZnpwZUJlQXd3?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 05:22:59 GMT"
+    },
+    {
+      "headline": "Crypto Exploit Story Mislabeled as UX Content — Skip",
+      "background": "A DeFi exploit story involving a large ETH position on Hyperliquid was indexed under 'UX' due to the protocol name, not user experience relevance.",
+      "keyFindings": [
+        "No UX relevance — 'UX' refers to a DeFi protocol, not user experience",
+        "Article concerns a $42.65M ETH long position held by an identified exploiter address"
+      ],
+      "implications": "No relevance to UX, product, or mainstream tech work. Included here only to flag the false positive.",
+      "tags": [
+        "Crypto",
         "Off-topic"
       ],
       "featured": false,
@@ -133,89 +174,41 @@
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNWk2aVhaWXZtLWVKbVJEb053N1dXdzNhalRkd1ZSbmZfaXl0R19zYXlSYnpocVBSRmJzX1NVM1Q4UVUwYnlBalVqaG90QUMtUHJXaEw3WEg0S3NPanlXVE5kc3RJWFc5cWZIUTBGUVZHcFNuTUdKVF9KMk12aVYwNnNwNVpmeExuQmY2ZG5ZNzQ0bnpxMzBNSjhtNFFUb2dYeS1GM19DV3pnTUpaOFB0TTFhMEhzcWlaQ3BVWURheGlHZFBZTG9uaEFR?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 04:50:02 GMT"
+      "source": "Blockchain News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTC0xSG9QQzQ1bGxRN3lwUmVvcnhxNEkzT0dZejFiZEhMZWI2RVd6TlUwUFhMNGFiU19ubnZudHVFY1E1TlBZLTFkRERIdUtaQUJieWJUQTJoX1pld3pSeEVFRmMyY0lxNUdMc0hRNzdSc0pDRTA3V09QME1vMTRhRS1IOVdXMUcyMnpwM2dB?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 02:57:00 GMT"
     },
     {
-      "headline": "Subscription design studio targets agency overflow work",
-      "background": "The 'unlimited design subscription' model pioneered by agencies like Design Pickle has expanded, with new entrants positioning against both full-time hires and traditional agencies for ongoing creative output.",
+      "headline": "Crypto Forum Mislabeled as UX Content — Skip",
+      "background": "Yahoo Finance's UX Chain USD forum was surfaced by a UX keyword match, with no connection to user experience practice.",
       "keyFindings": [
-        "Creative Pass Studio offers a flat-monthly model aimed at agencies and growing businesses needing senior-level output without headcount",
-        "The pitch targets situations where hiring a full-time senior designer isn't justified but freelance coordination is too slow",
-        "No pricing or scope details are provided in the available snippet"
+        "'UX' refers to UX Chain, a cryptocurrency, not user experience",
+        "No relevance to design, product, or technology practice"
       ],
-      "implications": "Worth evaluating against alternatives if your team has inconsistent design volume — but vet the actual senior-to-junior work ratio and revision terms before committing, as these vary widely across subscription design services.",
+      "implications": "No relevance to UX, product, or mainstream tech work. Flagged as a false positive from keyword matching.",
       "tags": [
-        "Design operations",
-        "Outsourcing",
-        "Agency models"
+        "Crypto",
+        "Off-topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "TMX Newsfile",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPY01JS18zSmVQdDlkZl9MMkVUWlRZVFc3cnR0eFFKZ3lMQ1BkelpFRmN5OXJYS2RyTVBieHFqUmR0YVdwXzhRbDl0S0N4TWNqdUhGdnNyb0UwSUZtblRyRXdIWi1CUzJrQXVSY3lVNDNwT2VlOUQtM2thMHg4QnFhM01MV2tERnZyZkZYUnQwSjhXR2RkR1FXWUFkM0F5OE42bXJSVE54X2M0TXYxLURLN2VpOWtWYlhsLXJxZS1HSENUcnJVUTdLRDFVM19kSFpRSTdHa3NsODY2VFFLQXRuMGI1ckRIVlVZTjBpMG8wTzMwRFpvUlhjdWdwZkdOQWNFV0JjZkI4UTNJVkh5N2gyWE1MN2Z4WC1tQXc?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 02:10:00 GMT"
+      "source": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5bWR5S2w2Q0dnXzRzeUVGSzZ0Q3dwUU0tazRYTy0wemFneWRuMElrVnE5XzQtUFdvZlB6akQ1Y1Z2T01WWExVeDZZZDFQS3Z1WnROSHRqQ3ZkM3hWVkJ4aUV3?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 00:29:16 GMT"
     },
     {
-      "headline": "The pull request replaced Figma handoff as the design boundary",
-      "background": "Figma was widely credited with killing the formal design handoff by giving developers direct spec access. This piece argues the real shift in design-to-dev workflow happened at the code review stage, not the design tool.",
+      "headline": "Financial Fund Chart Mislabeled as UX Content — Skip",
+      "background": "A UBS bond fund with 'U-X' in its ticker code was surfaced by a UX keyword match, with no connection to user experience practice.",
       "keyFindings": [
-        "The pull request — not Figma's inspect panel — is now the practical boundary where design intent is accepted or rejected",
-        "Design decisions get relitigated during code review when designers aren't part of that process",
-        "Figma inspect access didn't change who has final say over what ships"
+        "'U-X' is part of a fund share class naming convention, not a UX reference",
+        "No relevance to design, product, or technology practice"
       ],
-      "implications": "Designers who aren't involved in or aware of PR review cycles are losing influence at the actual point of implementation — consider whether your team's process includes design review at the PR stage, not just at handoff.",
+      "implications": "No relevance to UX, product, or mainstream tech work. Flagged as a false positive from keyword matching.",
       "tags": [
-        "Design-dev collaboration",
-        "Handoff",
-        "Frontend"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Medium",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQWFRUnNwVG1tQVg0WHBQNFA3ckFESnhuSXZ5Y2dQeWc5akkwZHNZenlvZXVKOU1ObXh5c1hXcFMyWE1mdmlVZThHNlBSTXVwYkVyNlphRkZZY2hSSUo5UUh0TmFJODhWcGJmbElla1YwTElwSGtYb3VhVDNkZEdFakI3WmhodzdzXzNjeWxyZ3l0SWFac2p4cmViX3Jydw?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 20:12:15 GMT"
-    },
-    {
-      "headline": "AI design certification program targets 2027 readiness",
-      "background": "As AI tools reshape design workflows, a wave of certification programs has emerged claiming to validate AI-specific design skills, though the field lacks standardized competency definitions.",
-      "keyFindings": [
-        "AICERTs is positioning a design-focused AI certification toward a 2027 skills horizon",
-        "No specific curriculum details or accreditation body are referenced in the available snippet",
-        "The program appears to be vendor-driven rather than tied to an established industry or academic standard"
-      ],
-      "implications": "Treat AI design certifications with skepticism until the field develops recognized competency frameworks — employer recognition and curriculum rigor vary enormously across current offerings.",
-      "tags": [
-        "AI tools",
-        "Design education",
-        "Certification"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "AICERTs",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iT29YZlBRa2JOc2trV3BpZkN5VFZGNUg1SzI3YW1aNENDVlJzajQzQ2MzSGF1dVZaY3RVbXpZQnRmSld0Yk9iRzV6aUo4TFRxM0tNMTBKQ3hSSG5KYmkyRXhxZk9fdmRHQi1lSUxtRnBwMC1fbGVkYw?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 17:39:17 GMT"
-    },
-    {
-      "headline": "This article is not relevant to this digest",
-      "background": "The piece addresses GPS signal disruption risks from ionospheric interference during the Artemis II mission — a aerospace and navigation engineering topic.",
-      "keyFindings": [
-        "No UX, product, or tech practice content present",
-        "Subject matter is space mission navigation and signal physics",
-        "Not actionable for UX, product, or tech practitioners"
-      ],
-      "implications": "No applicable takeaway for this audience.",
-      "tags": [
+        "Finance",
         "Off-topic"
       ],
       "featured": false,
@@ -223,9 +216,9 @@
       "category": "Industry news",
       "publishedWindow": "week",
       "image": null,
-      "source": "shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ0VjYnFxNW9jNjBRclJNaWR2UXVDNlFfakVUWUhmaGZiSjl1TEYxM1ZlRUZVdG9uWnFxdHNDYU5iQkhwM0RJcVVROVh2WFdIaDB0djhLY3lzRzBJYXZVMUxnWWEyOHRCZE82S3Bwb0gwNkN6ZmVVN2Vjamd0SndxTnBtZXYzOHJCTVE?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 10:23:33 GMT"
+      "source": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44ODJQX0g3RkdCVW5ZT0lLd1pzNDNzNFNSYmdjbUdJZm9DM2JSVDN3MHJDQjhqeHJZLV9tTXdpbDBXbXVIX3dYQ28zUGVqV0xYOEFQSl8tMnpZT21IRmRWTm5pOWY1NjdXYWc?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 12:28:25 GMT"
     }
   ]
 }
