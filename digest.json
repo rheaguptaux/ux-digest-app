@@ -1,215 +1,178 @@
 {
-  "generatedAt": "2026-11-09T21:59:24.783Z",
+  "generatedAt": "2026-11-10T19:24:33.146Z",
   "items": [
     {
-      "headline": "UX-PM Brasil Opens Extra November 2026 Cohort",
-      "background": "UX-PM certification training in Brazil runs in cohorts with limited seats, and extra sessions are occasionally added when demand exceeds capacity.",
+      "headline": "Trivia app design reveals how 'correct' answers create conflict",
+      "background": "Building consumer quiz products surfaces edge cases around spelling variants, regional knowledge, and disputed facts that most game designers underestimate. This piece reflects on the design and adjudication decisions behind a real trivia game.",
       "keyFindings": [
-        "Extra cohort runs November 30 to December 4, 2026",
-        "Offered through UX-PM Brasil"
+        "Spelling variants and regional name differences cause the most post-round disputes in quiz apps",
+        "Defining a single 'correct' answer for rare or contested trivia forces explicit editorial policy decisions",
+        "Answer validation logic needs to account for user expectations of fairness, not just factual accuracy"
       ],
-      "implications": "Relevant only if you're based in Brazil and tracking UX-PM certification timelines. Worth noting the date if planning professional development for late 2026.",
+      "implications": "If you're designing any input-validation or answer-matching system, this is a reminder that edge cases aren't just technical — they're perceived fairness problems. Document your adjudication rules and surface them to users proactively.",
       "tags": [
-        "Training",
-        "Certification",
-        "Brazil"
+        "Game Design",
+        "Input Validation",
+        "Edge Cases"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "UX",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1080/1*XDseBneyBysoIBSxfYExMA.png",
-      "source": "UX on Medium",
-      "link": "https://www.uxpmbrasil.com.br/turma-extra-de-ux-pm-1-21ff3f6627ca?source=rss------ux-5",
-      "pubDate": "Mon, 09 Nov 2026 21:43:27 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1500/1*GKDfPo08SrbiAGFRLsdBLA.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@aashtrek.studios/why-every-trivia-night-ends-in-an-argument-3b531e73df7b?source=rss------product_design-5",
+      "pubDate": "Tue, 10 Nov 2026 18:36:45 GMT"
     },
     {
-      "headline": "The Four Steps of UX Research, Briefly Outlined",
-      "background": "UX research process documentation remains highly fragmented across the field, with practitioners at different levels often lacking a shared framework for sequencing research activities.",
+      "headline": "Resume Forge Pro: a career-document tool launches",
+      "background": "The market for AI-assisted CV and resume tools is crowded. This is a product announcement for a structured career-document service positioning itself on clarity and relevance rather than automation.",
       "keyFindings": [
-        "Frames UX research as a four-step process",
-        "Published on Medium with no indication of original empirical data or novel framework"
+        "The product emphasizes structure and relevance-to-role over credential listing",
+        "Positioned as a practical tool rather than an AI content generator",
+        "No specific feature differentiators or pricing are detailed in the snippet"
       ],
-      "implications": "Likely introductory-level content. Useful for onboarding junior researchers or setting shared vocabulary on a team, but unlikely to offer new insight for experienced practitioners.",
+      "implications": "Thin on specifics — not enough detail to evaluate against competitors. Worth watching only if you're tracking the resume-tool space for competitive or design research purposes.",
       "tags": [
-        "Research methods",
-        "Foundational skills"
+        "Career Tools",
+        "Product Launch"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "Research",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/0*GO4k8jScjDtfX72O",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@nicole-hunt/the-ux-research-process-595bb6dd03b0?source=rss------ux_research-5",
-      "pubDate": "Mon, 09 Nov 2026 20:59:09 GMT"
+      "image": null,
+      "source": "Product Design on Medium",
+      "link": "https://mrjayvirtual.medium.com/introducing-resume-forge-pro-a-practical-career-document-product-from-mrjayvirtual-d5040ee79bdd?source=rss------product_design-5",
+      "pubDate": "Tue, 10 Nov 2026 18:22:49 GMT"
     },
     {
-      "headline": "Design Systems Are Decision Systems, Not Component Libraries",
-      "background": "Many teams treat design systems primarily as UI kit repositories, leading to inconsistency and high maintenance costs when product needs evolve beyond what the library anticipated.",
+      "headline": "NYC's click-to-cancel law is live — here's what SaaS must do",
+      "background": "Regulatory pressure on dark patterns in subscription cancellation has been building for years. New York City's click-to-cancel rule, effective October 1 2026, now legally requires that any service you can sign up for online must be cancellable online with equivalent ease.",
       "keyFindings": [
-        "Argues design systems should encode shared decisions and rationale, not just reusable components",
-        "Positions inconsistency as a cost that scales with team size when decision logic isn't codified",
-        "Frames the system's value as enabling evolution, not just enforcing visual consistency"
+        "NYC's rule mandates that online sign-up products must offer a comparably simple online cancellation path — no phone-only or email-only exits",
+        "This applies directly to SaaS products with any NYC-based customers, which in practice means most B2C and many B2B products",
+        "Non-compliant cancellation flows — multi-step retention sequences that obstruct exit — are now legally exposed, not just ethically questionable"
       ],
-      "implications": "Teams building or auditing a design system should ask whether documented decisions and reasoning are captured alongside components — not just the artifacts. This reframe has practical consequences for governance and contribution models.",
+      "implications": "If your cancellation flow includes mandatory retention calls, hidden links, or multi-page 'save' sequences, you need a redesign now — this is a legal liability, not just a UX improvement. Audit your offboarding flow against the one-click standard and document the change.",
       "tags": [
-        "Design systems",
-        "Governance",
-        "Consistency"
+        "Dark Patterns",
+        "Compliance",
+        "Subscription UX"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1670/1*Q8ulgb3GwjB0kR8MN9Hm1Q.png",
+      "image": "https://cdn-images-1.medium.com/max/1600/0*9pY8utLV_5f-zCJ1",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@arthuraef/design-systems-n%C3%A3o-s%C3%A3o-bibliotecas-de-componentes-s%C3%A3o-sistemas-de-decis%C3%A3o-65949bae7a35?source=rss------product_design-5",
-      "pubDate": "Mon, 09 Nov 2026 20:42:44 GMT"
+      "link": "https://medium.com/@artem_19387/click-to-cancel-for-saas-redesign-your-cancellation-flow-209b4763d400?source=rss------product_design-5",
+      "pubDate": "Tue, 10 Nov 2026 18:09:05 GMT"
     },
     {
-      "headline": "8 Standard Python Modules That Kill Package Bloat",
-      "background": "Python projects frequently accumulate small third-party helper packages for tasks the standard library already handles, adding dependency overhead and maintenance risk unnecessarily.",
+      "headline": "How Faire integrated Apple's Liquid Glass without losing its brand",
+      "background": "Apple's Liquid Glass design language, introduced in 2025, creates pressure on app developers to adopt new visual conventions that may conflict with established brand identities. Faire's design team ran a month-long sprint to reconcile the two.",
       "keyFindings": [
-        "Identifies 8 standard library modules that replace commonly added small packages",
-        "Uses file-matching and copying as a concrete example where developers default to external packages",
-        "Focuses on reducing dependency count without sacrificing functionality"
+        "The integration was led and implemented entirely by designers, not handed off to engineering first",
+        "The team developed explicit rules for where Liquid Glass applied and where Faire's brand language took precedence",
+        "The sprint model — time-boxed, designer-led — is presented as key to avoiding scope creep during platform-driven redesigns"
       ],
-      "implications": "Relevant for product engineers and technical PMs auditing project dependencies. Leaning on the standard library reduces supply chain risk and simplifies onboarding for new contributors.",
+      "implications": "For teams navigating mandatory platform UI updates, this is a concrete case study in protecting brand equity without forking your design system entirely. The designer-led sprint structure is replicable and worth considering before your next OS-level UI shift.",
       "tags": [
-        "Python",
-        "Developer tooling",
-        "Dependencies"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/607/1*rgLu050FpVXREO8VEwj8Ng.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@mrinzmam8/8-python-standard-library-modules-that-replace-small-helper-packages-9a3f8e7dc7c4?source=rss------ux-5",
-      "pubDate": "Mon, 09 Nov 2026 20:38:06 GMT"
-    },
-    {
-      "headline": "Nielsen Roundup: Taste, Pale Text, Back Button, AI Agents",
-      "background": "Jakob Nielsen's periodic UX roundups synthesize recent research and commentary across multiple UX topics, often touching on both foundational principles and emerging AI-related interaction patterns.",
-      "keyFindings": [
-        "Covers research suggesting human aesthetic 'taste' is less individually unique than assumed",
-        "Addresses pale/low-contrast text as a persistent usability problem",
-        "Discusses AI agent wait states and proximity compatibility principle as interaction design considerations"
-      ],
-      "implications": "The pale text and back button items are immediately actionable for anyone doing interface audits. The AI agent wait-state discussion is worth attention for teams building agentic UX flows — managing user expectation during async agent tasks is an underspecified design problem.",
-      "tags": [
-        "AI agents",
-        "Accessibility",
-        "Interaction design"
+        "Design Systems",
+        "Apple Platform",
+        "Brand Identity"
       ],
       "featured": true,
-      "type": "research",
-      "category": "Industry news",
+      "type": "opinion",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YaVNWcnJ6dEpVZFZSWDZKamRBTUk1aG1kaFhOU29lcHE3alNSQVMyRGt2a2pkZkd5alo5ZUs4X1ZyV2U1VEU0N0VySjBUN2pUY3RRZlJSRkNZSk42RzJoQmtWS2NTMUhvVEE?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 12:21:33 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1405/1*As5FD6RkvnA7Cl0QKr-IEA.png",
+      "source": "Product Design on Medium",
+      "link": "https://craft.faire.com/how-we-integrated-liquid-glass-without-sacrificing-faires-brand-9bff93143c97?source=rss------product_design-5",
+      "pubDate": "Tue, 10 Nov 2026 17:56:35 GMT"
     },
     {
-      "headline": "5 AI UI Design Tools Benchmarked Against the Same Brief",
-      "background": "The AI UI design tool market has grown rapidly but comparative, task-based evaluations are rare — most coverage is based on feature lists rather than real output quality.",
+      "headline": "Volvo's in-cab Co-Pilot interface wins Red Dot Award",
+      "background": "In-cab digital interfaces for heavy construction equipment are a niche but high-stakes design domain — errors carry physical safety consequences, and operators range widely in digital literacy.",
       "keyFindings": [
-        "Tests five AI UI design tools against an identical design brief",
-        "Published in 2026, reflecting the current generation of tools",
-        "Fello AI is the publisher, which introduces potential bias toward their own positioning"
+        "Volvo Construction Equipment's integrated Co-Pilot system won a 2026 Red Dot Design Award",
+        "The award criteria cited seamlessness of the digital experience within the cab environment",
+        "No detailed interaction or usability specifics are available from the snippet alone"
       ],
-      "implications": "Treat findings with caution given the publisher's commercial interest. Still useful as a structured starting point for teams evaluating AI design tooling — cross-reference with independent sources before making tooling decisions.",
+      "implications": "Relevant for designers working on industrial, automotive, or safety-critical interfaces — Red Dot recognition signals industry-level validation, but the snippet lacks enough detail to extract design lessons without reading the full case study.",
       "tags": [
-        "AI tools",
-        "UI design",
-        "Tool evaluation"
+        "Industrial Design",
+        "Automotive UX",
+        "Safety-Critical Systems"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Fello AI",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4UWEtUFMya0MtNWt5eVdVUkIxclB1OGhpd1EzRVlPX0VscVdzSE1QVW5FRnZQYndST0JiQXZuTjZETFhqZmJTaTdULU5yWDdhMDhfVg?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 06:06:39 GMT"
+      "source": "Volvo Construction Equipment",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZjc3R0ZISUpmdktrcHJiRGtpcHdkWUoweWJwMEJrZ3V1ZDBPMkVaR3ZxZ3padnRnODF2MXlxZVEySVdZWmpsZ3ZOWktzUWxjTjlsZDNfdnQ4Z1VlTWwtbkRxLTM5Q19ZanhQVU01bXRrQ203QUcxUWtBeUpaQ2hUS09sbVVxUlkzdzVTaUZFd1M3eGRfRUJYWkRNTEdIeXJ2MGRsMjR1cGg1RDhnNWdhTFZBODNXZExNWkswYm9BS3FRaTJsQW9rYVhPOWR3X1hKczlvTThJREtjZ1J4azhqS2dXN1lKQ2pwaXNMMg?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 08:54:16 GMT"
     },
     {
-      "headline": "Resume Builders Pitched as Journalist Career Pivot Tool",
-      "background": "Ongoing newsroom layoffs have pushed many journalists to seek adjacent careers, creating demand for tools that help translate journalism skills into formats legible to other industries.",
+      "headline": "Designing for multigenerational digital users in India",
+      "background": "India's digital economy is expanding rapidly across age groups with vastly different levels of digital literacy, device access, and language contexts. Designing for this range requires explicit strategy rather than a single 'default' user model.",
       "keyFindings": [
-        "Positions AI resume builders as a viable tool for journalists pivoting out of media",
-        "No specific tool performance data or pivot success rates cited in the snippet"
+        "The piece addresses the gap between younger urban digital natives and older or rural first-time internet users in India",
+        "Multigenerational design in this context requires handling multiple scripts, low-bandwidth conditions, and varied input methods simultaneously",
+        "No specific frameworks or data points are surfaced in the available snippet"
       ],
-      "implications": "Not directly relevant to UX or product work. Only peripherally interesting if your team is hiring from journalism backgrounds and thinking about how candidates present transferable skills.",
+      "implications": "If your product has or is targeting emerging market audiences — particularly in South or Southeast Asia — this is a prompt to audit your user research for generational and literacy-range gaps. Thin on specifics from the snippet alone.",
       "tags": [
-        "Career transitions",
-        "Hiring"
+        "Inclusive Design",
+        "Emerging Markets",
+        "Accessibility"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "BNO News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOalJpeW55dXhINmNyenBaeTI0M2tDZXJ4NWZzaWdGMTR3NTdHV3JsUGRvV21leHhoUXVzWUlFV0sweTVmMnZZRUFHZV9IZVdMZEwxMkUxLVdVZmdUc3ptalBKUXg5SW5CcWlwOVRicG41LURTazZXd0VMOXNOTThkNl9fMmNOWjA5RjdPdEFBSkwyenJRU0FELWhOWXlCcnFYYnFUY195czdIU3dBQmdtZnRwQWJPTmc3dEV1ZnpwZUJlQXd3?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 05:22:59 GMT"
+      "source": "Adgully",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNREFTbnZZSEJZTXJEY3ZjV0MyTVZjc0FhcGd6Z0UxT0dZVjU5aTduN2hCVS1DYVhCT3N0MnlabUZoaW9YYnQzOURUOVNwTmZBZWdWTlNmaHYtcVR4UDZLZ2lsdzg5WWRIeEZLXzA1T3ZBellQTEZWTENCd2JrbDFxSGVDcnBHaVNuRlBFVGwxTGVlZkJXMmdxTHR1T0ExbGdjM1RzVDdLSXBoU1U?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 03:56:00 GMT"
     },
     {
-      "headline": "Crypto Exploit Story Mislabeled as UX Content — Skip",
-      "background": "A DeFi exploit story involving a large ETH position on Hyperliquid was indexed under 'UX' due to the protocol name, not user experience relevance.",
+      "headline": "Ten months solo: SEO collapsing under AI-generated content",
+      "background": "Independent creators and solopreneurs are increasingly reporting that Google search visibility has degraded as AI-generated content floods the same keyword spaces. This is a first-person account of competing in that environment.",
       "keyFindings": [
-        "No UX relevance — 'UX' refers to a DeFi protocol, not user experience",
-        "Article concerns a $42.65M ETH long position held by an identified exploiter address"
+        "The author reports sustained SEO decline over 10 months despite original content production",
+        "AI-generated content at scale is displacing human-authored work in search rankings for common topics",
+        "The piece suggests niche specificity and demonstrable expertise may be the remaining differentiators"
       ],
-      "implications": "No relevance to UX, product, or mainstream tech work. Included here only to flag the false positive.",
+      "implications": "For product and content teams relying on organic search as a growth channel, this is a ground-level signal that generic SEO content strategies are eroding. Specificity, first-hand data, and clear authorship signals are increasingly necessary — not optional.",
       "tags": [
-        "Crypto",
-        "Off-topic"
+        "SEO",
+        "Content Strategy",
+        "AI Impact"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Blockchain News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTC0xSG9QQzQ1bGxRN3lwUmVvcnhxNEkzT0dZejFiZEhMZWI2RVd6TlUwUFhMNGFiU19ubnZudHVFY1E1TlBZLTFkRERIdUtaQUJieWJUQTJoX1pld3pSeEVFRmMyY0lxNUdMc0hRNzdSc0pDRTA3V09QME1vMTRhRS1IOVdXMUcyMnpwM2dB?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 02:57:00 GMT"
+      "source": "HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOGJLREpkVGZXXzFBWlItbzhXTURITUY1SE1XQ1lTTzBNNXdPOXhZU1BpanFlQ1FhQVY4Q0xaRTVkdU54NzNfQVc5M0sxc1Rwd1Q2bU5RTF9xcXBVbnR2eU8wWnp2VjZnd2VTVlM4Tlo1RjlvZ3lVMWt2WUFGXzhpdmtQRDJoQnN3UzZSMkt1YjJ2a0I5NjVscHZTbGFmZw?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 01:49:10 GMT"
     },
     {
-      "headline": "Crypto Forum Mislabeled as UX Content — Skip",
-      "background": "Yahoo Finance's UX Chain USD forum was surfaced by a UX keyword match, with no connection to user experience practice.",
+      "headline": "This is a mislabeled finance chart, not a UX article",
+      "background": "A Yahoo Finance seasonal returns chart for a UBS fund was incorrectly tagged or surfaced in this content batch. It contains no UX, product, or design content.",
       "keyFindings": [
-        "'UX' refers to UX Chain, a cryptocurrency, not user experience",
-        "No relevance to design, product, or technology practice"
+        "This item is a financial data chart for a UBS fund ticker",
+        "It has no relevance to UX, product design, or technology practice",
+        "Likely a metadata or feed-tagging error"
       ],
-      "implications": "No relevance to UX, product, or mainstream tech work. Flagged as a false positive from keyword matching.",
+      "implications": "No implications for UX or product work. Flag for feed-curation review — the tagging pipeline that surfaced this needs attention.",
       "tags": [
-        "Crypto",
-        "Off-topic"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5bWR5S2w2Q0dnXzRzeUVGSzZ0Q3dwUU0tazRYTy0wemFneWRuMElrVnE5XzQtUFdvZlB6akQ1Y1Z2T01WWExVeDZZZDFQS3Z1WnROSHRqQ3ZkM3hWVkJ4aUV3?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 00:29:16 GMT"
-    },
-    {
-      "headline": "Financial Fund Chart Mislabeled as UX Content — Skip",
-      "background": "A UBS bond fund with 'U-X' in its ticker code was surfaced by a UX keyword match, with no connection to user experience practice.",
-      "keyFindings": [
-        "'U-X' is part of a fund share class naming convention, not a UX reference",
-        "No relevance to design, product, or technology practice"
-      ],
-      "implications": "No relevance to UX, product, or mainstream tech work. Flagged as a false positive from keyword matching.",
-      "tags": [
-        "Finance",
-        "Off-topic"
+        "Feed Error",
+        "Miscategorized"
       ],
       "featured": false,
       "type": "research",
@@ -217,8 +180,54 @@
       "publishedWindow": "week",
       "image": null,
       "source": "Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44ODJQX0g3RkdCVW5ZT0lLd1pzNDNzNFNSYmdjbUdJZm9DM2JSVDN3MHJDQjhqeHJZLV9tTXdpbDBXbXVIX3dYQ28zUGVqV0xYOEFQSl8tMnpZT21IRmRWTm5pOWY1NjdXYWc?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 12:28:25 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TWjBXeG1WeEhTSWFNd2FXZGlhNUJRTnpUSEhJdzl2c2s3V1ZfV3lDNk8xOFpwUExsR2lvYkFpQjFDbDJDZFhlX0czSlZvcjRGb21zS281d1R1NzZ1WE0xTlZMYURKeWxvdUE?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 09:46:21 GMT"
+    },
+    {
+      "headline": "2026 load time data: what web performance benchmarks look like now",
+      "background": "Web performance expectations and measurement standards shift as devices, networks, and frameworks evolve. Shopify's 2026 load time statistics provide updated benchmarks that teams can use to calibrate their own performance targets.",
+      "keyFindings": [
+        "The report contains current load time statistics and benchmarks for 2026, though specific numbers aren't available in the snippet",
+        "Published by Shopify, so findings likely skew toward e-commerce contexts and may not generalize to all web products",
+        "Load time remains a primary factor in conversion and retention — the report appears to quantify current user tolerance thresholds"
+      ],
+      "implications": "Useful as a benchmarking reference if you're setting or reviewing performance SLAs — especially for e-commerce or high-traffic consumer products. Treat Shopify-sourced data as commerce-skewed and cross-reference against your own analytics.",
+      "tags": [
+        "Web Performance",
+        "E-commerce",
+        "Benchmarking"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "week",
+      "image": null,
+      "source": "Shopify",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CSG9jRGNlOE9HWXpRY1RVRzJnTU5OU3FidkNXYTh4X1hybzFpanc0R0dHUEVmblNQOFF1c05xQ19CUlU0azNJMWUxLW1YY1JwMWxJRE9zYTVqUmFJZ3VuMlZ0d1pBRUZ1?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "headline": "How cross-team UCD collaboration handles complex government digital delivery",
+      "background": "Large public sector digital projects often involve multiple user-centred design teams working in parallel, creating coordination and consistency challenges that private sector product teams rarely face at the same scale.",
+      "keyFindings": [
+        "The piece examines structural approaches to aligning multiple UCD teams on shared complex delivery programmes",
+        "Government digital delivery context means design decisions intersect with policy, procurement, and legacy systems",
+        "No specific frameworks or outcomes are detailed in the available snippet"
+      ],
+      "implications": "Relevant for design leads or heads of UX working in or alongside government or large enterprise programmes. The coordination patterns discussed may transfer to any organisation running multiple product squads with shared user research needs.",
+      "tags": [
+        "Design Operations",
+        "Government Digital",
+        "Team Structure"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "week",
+      "image": null,
+      "source": "Wired Gov",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRWxaYjdtd0gyanNlOUJTXzMxbjVyYW5wb05aYUVXNkRIY3JEVXdnWGg3RHM3OEptV1hCTDVfVEdJTVFsM2RTQ2R6SkNRZDZrblk5RXZaeTJ4MHlUcGl4Sk54bEZXbnp2RUVxS2tnM0JKZll1RGp1cHV6WVhZdmg2cEhyQWpqdFJaMDdmRHRETDROME5rYlRhTkMzamFDMEwyRFRiUVFkNmFXUTRjcU9oSWhfWmg1ZnNsVi1haXk3MDhNSEdTeWdYWUtoU1lNZmFvcVBZTzl1QmdhWVhtaTdxR2h5QXlRS19S?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT"
     }
   ]
 }
