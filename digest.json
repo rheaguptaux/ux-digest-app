@@ -1,41 +1,65 @@
 {
-  "generatedAt": "2026-11-10T19:24:33.146Z",
+  "generatedAt": "2026-11-11T19:18:43.280Z",
   "items": [
     {
-      "headline": "Trivia app design reveals how 'correct' answers create conflict",
-      "background": "Building consumer quiz products surfaces edge cases around spelling variants, regional knowledge, and disputed facts that most game designers underestimate. This piece reflects on the design and adjudication decisions behind a real trivia game.",
+      "headline": "Web3 UX Is Still Broken — Here's Why",
+      "background": "Despite years of development and billions in investment, Web3 adoption remains limited. A persistent complaint from both users and designers is that blockchain-based products impose unnecessary complexity that has nothing to do with the underlying technology's actual constraints.",
       "keyFindings": [
-        "Spelling variants and regional name differences cause the most post-round disputes in quiz apps",
-        "Defining a single 'correct' answer for rare or contested trivia forces explicit editorial policy decisions",
-        "Answer validation logic needs to account for user expectations of fairness, not just factual accuracy"
+        "Wallet management, seed phrases, and gas fees represent UX friction points that have no equivalent in Web2 products but remain standard in Web3",
+        "Many Web3 products expose implementation details — like transaction confirmation steps — that could be abstracted away without sacrificing decentralization",
+        "Onboarding drop-off in Web3 apps is disproportionately tied to the wallet connection step, before users even reach core functionality"
       ],
-      "implications": "If you're designing any input-validation or answer-matching system, this is a reminder that edge cases aren't just technical — they're perceived fairness problems. Document your adjudication rules and surface them to users proactively.",
+      "implications": "If you're designing Web3 products, the article reinforces that abstracting blockchain complexity — through smart account wallets, fiat on-ramps, or progressive disclosure of technical steps — is a design problem, not just an engineering one. Worth reading alongside EIP-4337 account abstraction developments.",
       "tags": [
-        "Game Design",
-        "Input Validation",
-        "Edge Cases"
+        "Web3",
+        "Onboarding",
+        "Friction"
       ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
+      "featured": true,
+      "type": "research",
+      "category": "Industry news",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1500/1*GKDfPo08SrbiAGFRLsdBLA.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@aashtrek.studios/why-every-trivia-night-ends-in-an-argument-3b531e73df7b?source=rss------product_design-5",
-      "pubDate": "Tue, 10 Nov 2026 18:36:45 GMT"
+      "image": null,
+      "source": "DAILY TIMES Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX19WVWdDcXQxNi1uWDYtbDFab293SGZKQ1MzRnh0T1J1RURVMy03UlJuVzY2Ny1kcWs2UUZCWk5zR0VTc2ZFdlNfb0V4MkZNZFdsN0JGaHhWS3NQUkRMbVNFc0g0Q1p6b0hUd2tvVVc4elAtb0h4d3VBcFdKNFAzQ09qNjVFSnVsWURDZWNIdUdOTF84WlRWdER1V3U0OElyM0pHQQ?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 19:10:53 GMT"
     },
     {
-      "headline": "Resume Forge Pro: a career-document tool launches",
-      "background": "The market for AI-assisted CV and resume tools is crowded. This is a product announcement for a structured career-document service positioning itself on clarity and relevance rather than automation.",
+      "headline": "A Perfectly Prioritized Roadmap Can Still Fail",
+      "background": "Product teams invest heavily in prioritization frameworks — RICE, MoSCoW, weighted scoring — to build defensible roadmaps. This piece challenges the assumption that rigorous prioritization is sufficient, arguing that the direction of the roadmap matters more than the internal ordering of items on it.",
       "keyFindings": [
-        "The product emphasizes structure and relevance-to-role over credential listing",
-        "Positioned as a practical tool rather than an AI content generator",
-        "No specific feature differentiators or pricing are detailed in the snippet"
+        "A roadmap optimized against the wrong success metric can systematically move a product away from actual user or business needs",
+        "Prioritization frameworks evaluate relative value among known options but don't surface whether those options are the right ones to consider at all",
+        "Discovery debt — skipping upstream problem validation — often shows up downstream as a roadmap that's efficient but misaligned"
       ],
-      "implications": "Thin on specifics — not enough detail to evaluate against competitors. Worth watching only if you're tracking the resume-tool space for competitive or design research purposes.",
+      "implications": "For product managers and UX leads, this is a case for coupling prioritization work with ongoing discovery. A well-scored backlog is not a substitute for validating that the problem space itself is correct.",
       "tags": [
-        "Career Tools",
-        "Product Launch"
+        "Product Strategy",
+        "Roadmapping",
+        "Discovery"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*3D92vNQhScT1MSbVooqaQQ.png",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@ivanbartman/citymapper-how-to-buy-tickets-33f8d652444e?source=rss------ux_research-5",
+      "pubDate": "Wed, 11 Nov 2026 19:08:22 GMT"
+    },
+    {
+      "headline": "Closed vs. Open Questions: What Research Method to Use",
+      "background": "User research practitioners frequently debate when to use surveys with fixed-choice responses versus open-ended interview questions. The choice directly affects what kind of data you get and how actionable it is.",
+      "keyFindings": [
+        "Closed questions produce quantifiable, comparable data suited to validating hypotheses but can't surface unexpected user mental models",
+        "Open questions generate richer qualitative insight but require more analysis time and are harder to act on at scale",
+        "Mixing both question types in a single study requires careful sequencing to avoid priming bias"
+      ],
+      "implications": "Researchers designing studies should match question type to research goal: closed for benchmarking or measuring attitudes at scale, open for generative or exploratory phases. Using closed questions during discovery is a common and costly mistake.",
+      "tags": [
+        "User Research",
+        "Survey Design",
+        "Research Methods"
       ],
       "featured": false,
       "type": "opinion",
@@ -43,191 +67,162 @@
       "publishedWindow": "today",
       "image": null,
       "source": "Product Design on Medium",
-      "link": "https://mrjayvirtual.medium.com/introducing-resume-forge-pro-a-practical-career-document-product-from-mrjayvirtual-d5040ee79bdd?source=rss------product_design-5",
-      "pubDate": "Tue, 10 Nov 2026 18:22:49 GMT"
+      "link": "https://medium.com/@webixle/why-web3-products-still-struggle-with-user-experience-c61199dfc19f?source=rss------product_design-5",
+      "pubDate": "Wed, 11 Nov 2026 18:49:36 GMT"
     },
     {
-      "headline": "NYC's click-to-cancel law is live — here's what SaaS must do",
-      "background": "Regulatory pressure on dark patterns in subscription cancellation has been building for years. New York City's click-to-cancel rule, effective October 1 2026, now legally requires that any service you can sign up for online must be cancellable online with equivalent ease.",
+      "headline": "Citymapper Ticket Buying: A Bootcamp UX Case Study",
+      "background": "Student UX case studies analyzing existing transit apps are common bootcamp outputs. This one focuses on the ticket purchasing flow in Citymapper, an app known for routing but with less scrutiny on its transactional features.",
       "keyFindings": [
-        "NYC's rule mandates that online sign-up products must offer a comparably simple online cancellation path — no phone-only or email-only exits",
-        "This applies directly to SaaS products with any NYC-based customers, which in practice means most B2C and many B2B products",
-        "Non-compliant cancellation flows — multi-step retention sequences that obstruct exit — are now legally exposed, not just ethically questionable"
+        "The case study identifies friction in Citymapper's ticket purchasing flow as a prework exercise for the Ironhack UX/UI bootcamp",
+        "Analysis appears to focus on task flow and interface structure rather than original user research data"
       ],
-      "implications": "If your cancellation flow includes mandatory retention calls, hidden links, or multi-page 'save' sequences, you need a redesign now — this is a legal liability, not just a UX improvement. Audit your offboarding flow against the one-click standard and document the change.",
+      "implications": "Useful only as a beginner reference or teaching example. Findings are not based on external user research, so treat conclusions as hypotheses rather than validated insights.",
       "tags": [
-        "Dark Patterns",
-        "Compliance",
-        "Subscription UX"
+        "Transit Apps",
+        "Student Work",
+        "Task Flows"
       ],
-      "featured": true,
+      "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/0*9pY8utLV_5f-zCJ1",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*fximMzVYnowCmrabhmBMbw.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@artem_19387/click-to-cancel-for-saas-redesign-your-cancellation-flow-209b4763d400?source=rss------product_design-5",
-      "pubDate": "Tue, 10 Nov 2026 18:09:05 GMT"
+      "link": "https://medium.com/@uebermodean/stay-curious-stay-foolish-ff43d1903146?source=rss------product_design-5",
+      "pubDate": "Wed, 11 Nov 2026 18:37:28 GMT"
     },
     {
-      "headline": "How Faire integrated Apple's Liquid Glass without losing its brand",
-      "background": "Apple's Liquid Glass design language, introduced in 2025, creates pressure on app developers to adopt new visual conventions that may conflict with established brand identities. Faire's design team ran a month-long sprint to reconcile the two.",
+      "headline": "Human-Centered Design Explained in Plain Terms",
+      "background": "HCD is a term used widely across product, design, and policy fields, often inconsistently. Introductory explainers remain in demand as the field expands beyond traditional UX into areas like AI design and public sector services.",
       "keyFindings": [
-        "The integration was led and implemented entirely by designers, not handed off to engineering first",
-        "The team developed explicit rules for where Liquid Glass applied and where Faire's brand language took precedence",
-        "The sprint model — time-boxed, designer-led — is presented as key to avoiding scope creep during platform-driven redesigns"
+        "HCD is framed as an iterative process centering empathy, problem definition, ideation, prototyping, and testing — closely aligned with design thinking frameworks",
+        "The piece distinguishes HCD from user-centered design by emphasizing systemic and stakeholder context, not just end-user needs"
       ],
-      "implications": "For teams navigating mandatory platform UI updates, this is a concrete case study in protecting brand equity without forking your design system entirely. The designer-led sprint structure is replicable and worth considering before your next OS-level UI shift.",
+      "implications": "Primarily useful as a reference for onboarding non-design stakeholders or explaining process to clients. Experienced practitioners will find little new here.",
       "tags": [
-        "Design Systems",
-        "Apple Platform",
-        "Brand Identity"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1405/1*As5FD6RkvnA7Cl0QKr-IEA.png",
-      "source": "Product Design on Medium",
-      "link": "https://craft.faire.com/how-we-integrated-liquid-glass-without-sacrificing-faires-brand-9bff93143c97?source=rss------product_design-5",
-      "pubDate": "Tue, 10 Nov 2026 17:56:35 GMT"
-    },
-    {
-      "headline": "Volvo's in-cab Co-Pilot interface wins Red Dot Award",
-      "background": "In-cab digital interfaces for heavy construction equipment are a niche but high-stakes design domain — errors carry physical safety consequences, and operators range widely in digital literacy.",
-      "keyFindings": [
-        "Volvo Construction Equipment's integrated Co-Pilot system won a 2026 Red Dot Design Award",
-        "The award criteria cited seamlessness of the digital experience within the cab environment",
-        "No detailed interaction or usability specifics are available from the snippet alone"
-      ],
-      "implications": "Relevant for designers working on industrial, automotive, or safety-critical interfaces — Red Dot recognition signals industry-level validation, but the snippet lacks enough detail to extract design lessons without reading the full case study.",
-      "tags": [
-        "Industrial Design",
-        "Automotive UX",
-        "Safety-Critical Systems"
+        "Design Thinking",
+        "Foundational Concepts",
+        "Stakeholder Education"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Volvo Construction Equipment",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZjc3R0ZISUpmdktrcHJiRGtpcHdkWUoweWJwMEJrZ3V1ZDBPMkVaR3ZxZ3padnRnODF2MXlxZVEySVdZWmpsZ3ZOWktzUWxjTjlsZDNfdnQ4Z1VlTWwtbkRxLTM5Q19ZanhQVU01bXRrQ203QUcxUWtBeUpaQ2hUS09sbVVxUlkzdzVTaUZFd1M3eGRfRUJYWkRNTEdIeXJ2MGRsMjR1cGg1RDhnNWdhTFZBODNXZExNWkswYm9BS3FRaTJsQW9rYVhPOWR3X1hKczlvTThJREtjZ1J4azhqS2dXN1lKQ2pwaXNMMg?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 08:54:16 GMT"
+      "source": "wlrfm.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OSXdNS0NZbkJUUktnak94Uy1YYjhFRVRVRjVoNkdDcVdwcGFrZ0pvS3F5V0s2NVAtMHBXSVVEa3NuSkZ0UmtRc3J2ektob2x3VHNXSzJQVmp6d19xTEJieTZ5Tl8zTUl5UWlmTFpYNFRpUQ?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 18:18:09 GMT"
     },
     {
-      "headline": "Designing for multigenerational digital users in India",
-      "background": "India's digital economy is expanding rapidly across age groups with vastly different levels of digital literacy, device access, and language contexts. Designing for this range requires explicit strategy rather than a single 'default' user model.",
+      "headline": "SOS Villages Funds Skills Training for 206 Lagos Youths",
+      "background": "Youth unemployment and skills gaps in sub-Saharan Africa have prompted NGO-led vocational programs alongside government initiatives. SOS Children's Villages is deploying a €300,000 project targeting Lagos youth.",
       "keyFindings": [
-        "The piece addresses the gap between younger urban digital natives and older or rural first-time internet users in India",
-        "Multigenerational design in this context requires handling multiple scripts, low-bandwidth conditions, and varied input methods simultaneously",
-        "No specific frameworks or data points are surfaced in the available snippet"
+        "The project targets 206 young people in Lagos with vocational and employability skills training",
+        "Funding is set at €300,000, suggesting a per-participant cost of approximately €1,456"
       ],
-      "implications": "If your product has or is targeting emerging market audiences — particularly in South or Southeast Asia — this is a prompt to audit your user research for generational and literacy-range gaps. Thin on specifics from the snippet alone.",
+      "implications": "Not directly relevant to UX or product work. No actionable takeaway for practitioners in this field.",
       "tags": [
-        "Inclusive Design",
+        "Social Impact",
+        "Education",
+        "Nigeria"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*wod-rQ8-gNqHwsxHuM8zHg.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@melissaleide/a-roadmap-can-be-perfectly-prioritized-and-still-be-wrong-b67080c43cd5?source=rss------ux-5",
+      "pubDate": "Wed, 11 Nov 2026 18:11:01 GMT"
+    },
+    {
+      "headline": "SETU Names 9 Researchers Among World's Top 2% Scientists",
+      "background": "Stanford University's annual citation-based ranking identifies the top 2% of scientists globally by field. South East Technological University in Ireland received recognition for nine of its researchers.",
+      "keyFindings": [
+        "Nine SETU researchers were included in Stanford's top 2% scientist list",
+        "No specific research fields or names are detailed in the snippet"
+      ],
+      "implications": "Not relevant to UX, product, or tech practice. No actionable takeaway for practitioners in this field.",
+      "tags": [
+        "Academia",
+        "Research Rankings",
+        "Ireland"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "FourWeekMBA",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pOVhqUlRlWkdpak54Q3lzRWxlMGVYZkRCWE5Oa2VwZ3QxTWEzc2hLaHBWSS1MQmNUWWVTcDdLTXAta25tNV94V3BnNGNrVEk1RmxVdHdiRzNWUQ?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 14:08:25 GMT"
+    },
+    {
+      "headline": "Kazakhstan Fintech Landscape: Banking, Microfinance, and EWA",
+      "background": "Emerging market fintech ecosystems are growing rapidly in Central Asia, but receive limited coverage in Western tech media. Kazakhstan has developed a distinct fintech sector shaped by its regulatory sandbox and high mobile penetration.",
+      "keyFindings": [
+        "The guide covers digital banking, microfinance, and earned wage access — three distinct product categories with different regulatory and UX considerations",
+        "Kazakhstan's fintech sector is highlighted as a structured market with identifiable leading players across categories"
+      ],
+      "implications": "Relevant for product or UX practitioners entering Central Asian markets or benchmarking EWA product design. Earned wage access in particular has distinct onboarding and trust-building UX challenges worth researching.",
+      "tags": [
+        "Fintech",
         "Emerging Markets",
-        "Accessibility"
+        "Earned Wage Access"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Adgully",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNREFTbnZZSEJZTXJEY3ZjV0MyTVZjc0FhcGd6Z0UxT0dZVjU5aTduN2hCVS1DYVhCT3N0MnlabUZoaW9YYnQzOURUOVNwTmZBZWdWTlNmaHYtcVR4UDZLZ2lsdzg5WWRIeEZLXzA1T3ZBellQTEZWTENCd2JrbDFxSGVDcnBHaVNuRlBFVGwxTGVlZkJXMmdxTHR1T0ExbGdjM1RzVDdLSXBoU1U?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 03:56:00 GMT"
+      "source": "YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE02QnB3TzJjUkVnWnJwc3R5LVZ0d0cySGI3aHJDYldFNW5xTUNwblh2VXZBRHdNcG0zQm9LRlVkRklvQQ?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 12:00:39 GMT"
     },
     {
-      "headline": "Ten months solo: SEO collapsing under AI-generated content",
-      "background": "Independent creators and solopreneurs are increasingly reporting that Google search visibility has degraded as AI-generated content floods the same keyword spaces. This is a first-person account of competing in that environment.",
+      "headline": "Nous Research Overhauls Its Web UX",
+      "background": "Nous Research is an AI research organization known for open-weight models. Web presence and documentation UX for AI labs has become a differentiator as developers choose tools partly based on how accessible and navigable the supporting resources are.",
       "keyFindings": [
-        "The author reports sustained SEO decline over 10 months despite original content production",
-        "AI-generated content at scale is displacing human-authored work in search rankings for common topics",
-        "The piece suggests niche specificity and demonstrable expertise may be the remaining differentiators"
+        "The update is attributed to Teknium, a key Nous Research contributor, and described as a major redesign of the organization's web presence",
+        "Coverage comes from a crypto-focused outlet, suggesting the update may be more relevant to Web3 or AI-crypto crossover audiences than mainstream UX practitioners"
       ],
-      "implications": "For product and content teams relying on organic search as a growth channel, this is a ground-level signal that generic SEO content strategies are eroding. Specificity, first-hand data, and clear authorship signals are increasingly necessary — not optional.",
+      "implications": "Limited practical takeaway for most UX practitioners. Worth monitoring if you work on developer-facing documentation or AI lab web products, where this could serve as a live example of a redesign to critique or reference.",
       "tags": [
-        "SEO",
-        "Content Strategy",
-        "AI Impact"
+        "AI Tools",
+        "Developer Experience",
+        "Website Redesign"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "HackerNoon",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOGJLREpkVGZXXzFBWlItbzhXTURITUY1SE1XQ1lTTzBNNXdPOXhZU1BpanFlQ1FhQVY4Q0xaRTVkdU54NzNfQVc5M0sxc1Rwd1Q2bU5RTF9xcXBVbnR2eU8wWnp2VjZnd2VTVlM4Tlo1RjlvZ3lVMWt2WUFGXzhpdmtQRDJoQnN3UzZSMkt1YjJ2a0I5NjVscHZTbGFmZw?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 01:49:10 GMT"
+      "source": "Business News This Week",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaTNsV09PMGlWWTR0bXh1UDExd2hUM3ViM1BtanltSHJ4WU1NYW9SOXRGOWF5RkM5QTk1clIxdUVRZzNXRktLSzJJTFhDeWlNQUN1dWxLczZxUnBQWWZsaVExZkQyOWIxQXZlUDBxa2M4TF9sLUxfcEk1ZWtLclU4c3FWZHVBNk9DWm1zd0VVTjJJNzVRaVRNdDdMOEFJTEdGeHRjU24wb0VXMmdGTTliQkZvSHFtWjdqV1VqOWZaY2hqY3FZU19mMkNaTTUyN1Z5Ui04TEVsZWs?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 04:28:48 GMT"
     },
     {
-      "headline": "This is a mislabeled finance chart, not a UX article",
-      "background": "A Yahoo Finance seasonal returns chart for a UBS fund was incorrectly tagged or surfaced in this content batch. It contains no UX, product, or design content.",
+      "headline": "Intellectual Conformity Is Not the Same as Common Sense",
+      "background": "Reflective essays on intellectual independence and design thinking circulate regularly in the design and product community. This piece takes a philosophical stance on the difference between conventional wisdom and genuine reasoning.",
       "keyFindings": [
-        "This item is a financial data chart for a UBS fund ticker",
-        "It has no relevance to UX, product design, or technology practice",
-        "Likely a metadata or feed-tagging error"
+        "The piece argues that conformity is frequently rationalized as common sense, suppressing creative or contrarian thinking",
+        "The title references the Steve Jobs 'Stay Hungry, Stay Foolish' framing, positioning curiosity as a professional and intellectual value"
       ],
-      "implications": "No implications for UX or product work. Flag for feed-curation review — the tagging pipeline that surfaced this needs attention.",
+      "implications": "No specific methodology or research is cited. More of a mindset provocation than actionable guidance — useful only as reflective reading, not a practice reference.",
       "tags": [
-        "Feed Error",
-        "Miscategorized"
+        "Design Culture",
+        "Critical Thinking",
+        "Opinion"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
-      "publishedWindow": "week",
+      "publishedWindow": "today",
       "image": null,
-      "source": "Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TWjBXeG1WeEhTSWFNd2FXZGlhNUJRTnpUSEhJdzl2c2s3V1ZfV3lDNk8xOFpwUExsR2lvYkFpQjFDbDJDZFhlX0czSlZvcjRGb21zS281d1R1NzZ1WE0xTlZMYURKeWxvdUE?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 09:46:21 GMT"
-    },
-    {
-      "headline": "2026 load time data: what web performance benchmarks look like now",
-      "background": "Web performance expectations and measurement standards shift as devices, networks, and frameworks evolve. Shopify's 2026 load time statistics provide updated benchmarks that teams can use to calibrate their own performance targets.",
-      "keyFindings": [
-        "The report contains current load time statistics and benchmarks for 2026, though specific numbers aren't available in the snippet",
-        "Published by Shopify, so findings likely skew toward e-commerce contexts and may not generalize to all web products",
-        "Load time remains a primary factor in conversion and retention — the report appears to quantify current user tolerance thresholds"
-      ],
-      "implications": "Useful as a benchmarking reference if you're setting or reviewing performance SLAs — especially for e-commerce or high-traffic consumer products. Treat Shopify-sourced data as commerce-skewed and cross-reference against your own analytics.",
-      "tags": [
-        "Web Performance",
-        "E-commerce",
-        "Benchmarking"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "week",
-      "image": null,
-      "source": "Shopify",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CSG9jRGNlOE9HWXpRY1RVRzJnTU5OU3FidkNXYTh4X1hybzFpanc0R0dHUEVmblNQOFF1c05xQ19CUlU0azNJMWUxLW1YY1JwMWxJRE9zYTVqUmFJZ3VuMlZ0d1pBRUZ1?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "headline": "How cross-team UCD collaboration handles complex government digital delivery",
-      "background": "Large public sector digital projects often involve multiple user-centred design teams working in parallel, creating coordination and consistency challenges that private sector product teams rarely face at the same scale.",
-      "keyFindings": [
-        "The piece examines structural approaches to aligning multiple UCD teams on shared complex delivery programmes",
-        "Government digital delivery context means design decisions intersect with policy, procurement, and legacy systems",
-        "No specific frameworks or outcomes are detailed in the available snippet"
-      ],
-      "implications": "Relevant for design leads or heads of UX working in or alongside government or large enterprise programmes. The coordination patterns discussed may transfer to any organisation running multiple product squads with shared user research needs.",
-      "tags": [
-        "Design Operations",
-        "Government Digital",
-        "Team Structure"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "week",
-      "image": null,
-      "source": "Wired Gov",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRWxaYjdtd0gyanNlOUJTXzMxbjVyYW5wb05aYUVXNkRIY3JEVXdnWGg3RHM3OEptV1hCTDVfVEdJTVFsM2RTQ2R6SkNRZDZrblk5RXZaeTJ4MHlUcGl4Sk54bEZXbnp2RUVxS2tnM0JKZll1RGp1cHV6WVhZdmg2cEhyQWpqdFJaMDdmRHRETDROME5rYlRhTkMzamFDMEwyRFRiUVFkNmFXUTRjcU9oSWhfWmg1ZnNsVi1haXk3MDhNSEdTeWdYWUtoU1lNZmFvcVBZTzl1QmdhWVhtaTdxR2h5QXlRS19S?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT"
+      "source": "Coinfomania",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdHB0SjhlVlE2bzVyektfT014V2Nxc19SMmlCbGVqN0UydWlFUXlWMHpISXlOZnFHTzBzaFVwbmRDanZINmNwOGVubHBxb2FKTmRORUxxbWtxTWlOZXJvaWFCbzBUbFJ4SlNqMWJSOUFYQnNCczBGMGlaN0tNaGt2U1RzLWRsM3RMdVJj?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 01:40:11 GMT"
     }
   ]
 }
