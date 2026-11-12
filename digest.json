@@ -1,228 +1,233 @@
 {
-  "generatedAt": "2026-11-11T19:18:43.280Z",
+  "generatedAt": "2026-11-12T19:37:27.613Z",
   "items": [
     {
-      "headline": "Web3 UX Is Still Broken — Here's Why",
-      "background": "Despite years of development and billions in investment, Web3 adoption remains limited. A persistent complaint from both users and designers is that blockchain-based products impose unnecessary complexity that has nothing to do with the underlying technology's actual constraints.",
+      "headline": "The quiet discipline behind good product design",
+      "background": "Personal essays from practitioners are rare in a field dominated by case studies and frameworks. This piece offers a ground-level view of what sustained, careful product design work actually looks like day-to-day.",
       "keyFindings": [
-        "Wallet management, seed phrases, and gas fees represent UX friction points that have no equivalent in Web2 products but remain standard in Web3",
-        "Many Web3 products expose implementation details — like transaction confirmation steps — that could be abstracted away without sacrificing decentralization",
-        "Onboarding drop-off in Web3 apps is disproportionately tied to the wallet connection step, before users even reach core functionality"
+        "The author frames quality as a deliberate daily practice rather than an outcome of process or tooling",
+        "Craft in product design requires resisting shortcuts even when timelines and stakeholder pressure push against it"
       ],
-      "implications": "If you're designing Web3 products, the article reinforces that abstracting blockchain complexity — through smart account wallets, fiat on-ramps, or progressive disclosure of technical steps — is a design problem, not just an engineering one. Worth reading alongside EIP-4337 account abstraction developments.",
+      "implications": "Useful as a grounding read for designers experiencing burnout or scope creep — but limited in actionable frameworks. More reflective than instructional.",
       "tags": [
-        "Web3",
-        "Onboarding",
-        "Friction"
-      ],
-      "featured": true,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "DAILY TIMES Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX19WVWdDcXQxNi1uWDYtbDFab293SGZKQ1MzRnh0T1J1RURVMy03UlJuVzY2Ny1kcWs2UUZCWk5zR0VTc2ZFdlNfb0V4MkZNZFdsN0JGaHhWS3NQUkRMbVNFc0g0Q1p6b0hUd2tvVVc4elAtb0h4d3VBcFdKNFAzQ09qNjVFSnVsWURDZWNIdUdOTF84WlRWdER1V3U0OElyM0pHQQ?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 19:10:53 GMT"
-    },
-    {
-      "headline": "A Perfectly Prioritized Roadmap Can Still Fail",
-      "background": "Product teams invest heavily in prioritization frameworks — RICE, MoSCoW, weighted scoring — to build defensible roadmaps. This piece challenges the assumption that rigorous prioritization is sufficient, arguing that the direction of the roadmap matters more than the internal ordering of items on it.",
-      "keyFindings": [
-        "A roadmap optimized against the wrong success metric can systematically move a product away from actual user or business needs",
-        "Prioritization frameworks evaluate relative value among known options but don't surface whether those options are the right ones to consider at all",
-        "Discovery debt — skipping upstream problem validation — often shows up downstream as a roadmap that's efficient but misaligned"
-      ],
-      "implications": "For product managers and UX leads, this is a case for coupling prioritization work with ongoing discovery. A well-scored backlog is not a substitute for validating that the problem space itself is correct.",
-      "tags": [
-        "Product Strategy",
-        "Roadmapping",
-        "Discovery"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*3D92vNQhScT1MSbVooqaQQ.png",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@ivanbartman/citymapper-how-to-buy-tickets-33f8d652444e?source=rss------ux_research-5",
-      "pubDate": "Wed, 11 Nov 2026 19:08:22 GMT"
-    },
-    {
-      "headline": "Closed vs. Open Questions: What Research Method to Use",
-      "background": "User research practitioners frequently debate when to use surveys with fixed-choice responses versus open-ended interview questions. The choice directly affects what kind of data you get and how actionable it is.",
-      "keyFindings": [
-        "Closed questions produce quantifiable, comparable data suited to validating hypotheses but can't surface unexpected user mental models",
-        "Open questions generate richer qualitative insight but require more analysis time and are harder to act on at scale",
-        "Mixing both question types in a single study requires careful sequencing to avoid priming bias"
-      ],
-      "implications": "Researchers designing studies should match question type to research goal: closed for benchmarking or measuring attitudes at scale, open for generative or exploratory phases. Using closed questions during discovery is a common and costly mistake.",
-      "tags": [
-        "User Research",
-        "Survey Design",
-        "Research Methods"
+        "Design practice",
+        "Product design",
+        "Craft"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": null,
+      "image": "https://cdn-images-1.medium.com/max/1400/1*A_Xbkf7ErFhqJZdz7w3NwQ.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@webixle/why-web3-products-still-struggle-with-user-experience-c61199dfc19f?source=rss------product_design-5",
-      "pubDate": "Wed, 11 Nov 2026 18:49:36 GMT"
+      "link": "https://rcastillobedoya.medium.com/el-placer-de-hacer-las-cosas-bien-e6a17debfca6?source=rss------product_design-5",
+      "pubDate": "Thu, 12 Nov 2026 19:25:57 GMT"
     },
     {
-      "headline": "Citymapper Ticket Buying: A Bootcamp UX Case Study",
-      "background": "Student UX case studies analyzing existing transit apps are common bootcamp outputs. This one focuses on the ticket purchasing flow in Citymapper, an app known for routing but with less scrutiny on its transactional features.",
+      "headline": "Designing for ADHD: how to help users resume interrupted tasks",
+      "background": "Most UX design assumes users complete flows in a single session with sustained attention. This piece directly challenges that assumption, focusing on the specific cognitive patterns of users with ADHD.",
       "keyFindings": [
-        "The case study identifies friction in Citymapper's ticket purchasing flow as a prework exercise for the Ironhack UX/UI bootcamp",
-        "Analysis appears to focus on task flow and interface structure rather than original user research data"
+        "Resumption cues — visible indicators of where a user left off — significantly reduce re-entry friction for users with ADHD",
+        "Breaking tasks into smaller, explicitly labeled steps helps users re-engage without having to reconstruct context",
+        "Progress persistence across sessions is identified as a core accessibility feature, not an edge-case enhancement"
       ],
-      "implications": "Useful only as a beginner reference or teaching example. Findings are not based on external user research, so treat conclusions as hypotheses rather than validated insights.",
+      "implications": "Designers working on onboarding, multi-step forms, or any task-heavy flow should audit whether their product supports interrupted use. These patterns also benefit neurotypical users under cognitive load.",
       "tags": [
-        "Transit Apps",
-        "Student Work",
-        "Task Flows"
+        "Accessibility",
+        "ADHD",
+        "Onboarding"
       ],
-      "featured": false,
+      "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1024/1*fximMzVYnowCmrabhmBMbw.png",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*bGXMb7xPUM-sc0DikuJ_dg.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@uebermodean/stay-curious-stay-foolish-ff43d1903146?source=rss------product_design-5",
-      "pubDate": "Wed, 11 Nov 2026 18:37:28 GMT"
+      "link": "https://matthewlarn.medium.com/designing-for-adhd-the-ux-of-picking-up-where-you-left-off-7e3aa4d4cd85?source=rss------product_design-5",
+      "pubDate": "Thu, 12 Nov 2026 19:23:21 GMT"
     },
     {
-      "headline": "Human-Centered Design Explained in Plain Terms",
-      "background": "HCD is a term used widely across product, design, and policy fields, often inconsistently. Introductory explainers remain in demand as the field expands beyond traditional UX into areas like AI design and public sector services.",
+      "headline": "AI is a design material — learn it by using it",
+      "background": "Designers have debated whether AI is a tool, a collaborator, or a threat. This piece reframes the question by placing AI in a historical lineage of materials that practitioners had to learn by working with directly.",
       "keyFindings": [
-        "HCD is framed as an iterative process centering empathy, problem definition, ideation, prototyping, and testing — closely aligned with design thinking frameworks",
-        "The piece distinguishes HCD from user-centered design by emphasizing systemic and stakeholder context, not just end-user needs"
+        "The author draws a direct line from physical craft materials to code to AI models as successive design media each requiring hands-on fluency",
+        "Conceptual understanding of AI is insufficient — practitioners need material familiarity gained through direct experimentation",
+        "The piece argues that designers who avoid working with models directly will lose the ability to shape what AI-driven products actually do"
       ],
-      "implications": "Primarily useful as a reference for onboarding non-design stakeholders or explaining process to clients. Experienced practitioners will find little new here.",
+      "implications": "For product and UX teams, this is an argument for embedding AI prototyping into design workflows rather than treating AI as an engineering handoff. Applies most urgently to teams building AI-native products.",
       "tags": [
-        "Design Thinking",
-        "Foundational Concepts",
-        "Stakeholder Education"
+        "AI tools",
+        "Design practice",
+        "Prototyping"
       ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "wlrfm.com",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OSXdNS0NZbkJUUktnak94Uy1YYjhFRVRVRjVoNkdDcVdwcGFrZ0pvS3F5V0s2NVAtMHBXSVVEa3NuSkZ0UmtRc3J2ektob2x3VHNXSzJQVmp6d19xTEJieTZ5Tl8zTUl5UWlmTFpYNFRpUQ?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 18:18:09 GMT"
-    },
-    {
-      "headline": "SOS Villages Funds Skills Training for 206 Lagos Youths",
-      "background": "Youth unemployment and skills gaps in sub-Saharan Africa have prompted NGO-led vocational programs alongside government initiatives. SOS Children's Villages is deploying a €300,000 project targeting Lagos youth.",
-      "keyFindings": [
-        "The project targets 206 young people in Lagos with vocational and employability skills training",
-        "Funding is set at €300,000, suggesting a per-participant cost of approximately €1,456"
-      ],
-      "implications": "Not directly relevant to UX or product work. No actionable takeaway for practitioners in this field.",
-      "tags": [
-        "Social Impact",
-        "Education",
-        "Nigeria"
-      ],
-      "featured": false,
+      "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*wod-rQ8-gNqHwsxHuM8zHg.png",
+      "image": "https://cdn-images-1.medium.com/max/1160/0*OERRmi7XUFc8JjRS",
       "source": "UX on Medium",
-      "link": "https://medium.com/@melissaleide/a-roadmap-can-be-perfectly-prioritized-and-still-be-wrong-b67080c43cd5?source=rss------ux-5",
-      "pubDate": "Wed, 11 Nov 2026 18:11:01 GMT"
+      "link": "https://medium.com/@usabilitycounts/ai-is-the-new-old-design-material-0e7f83540c9a?source=rss------ux-5",
+      "pubDate": "Thu, 12 Nov 2026 19:06:01 GMT"
     },
     {
-      "headline": "SETU Names 9 Researchers Among World's Top 2% Scientists",
-      "background": "Stanford University's annual citation-based ranking identifies the top 2% of scientists globally by field. South East Technological University in Ireland received recognition for nine of its researchers.",
+      "headline": "Dating app UX case study: designing safety into warmth",
+      "background": "Dating apps routinely face criticism for prioritizing engagement metrics over user safety, particularly for women and marginalized users. This case study documents deliberate safety-first design decisions across a full app.",
       "keyFindings": [
-        "Nine SETU researchers were included in Stanford's top 2% scientist list",
-        "No specific research fields or names are detailed in the snippet"
+        "The design team built safety affordances into onboarding, matching, and chat flows rather than treating them as a separate safety layer",
+        "Warm visual language and playful tone were maintained alongside safety features, challenging the assumption that safe design must feel clinical",
+        "VIP features were scoped to avoid creating power imbalances between free and paid users during matching"
       ],
-      "implications": "Not relevant to UX, product, or tech practice. No actionable takeaway for practitioners in this field.",
+      "implications": "Useful reference for teams designing social or matching products. The integration of safety into tone — not just features — is a replicable approach worth examining, though this is a student or independent case study without user research validation noted.",
       "tags": [
-        "Academia",
-        "Research Rankings",
-        "Ireland"
+        "Dating apps",
+        "Safety design",
+        "Social products"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*NVKi73PjGJqKZ3m7MCcmDg.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@mohdbasit/designing-huddle-hearts-a-dating-app-where-safety-comes-first-1b0f83bb8c87?source=rss------product_design-5",
+      "pubDate": "Thu, 12 Nov 2026 18:42:12 GMT"
+    },
+    {
+      "headline": "AlphaGenome, Evo 2, Borzoi: DNA-reading AI models compared",
+      "background": "Several AI models capable of interpreting genomic sequences have launched in close succession, creating confusion about their distinct capabilities and appropriate use cases.",
+      "keyFindings": [
+        "The three models differ significantly in what genomic signals they prioritize and what prediction tasks they are optimized for",
+        "AlphaGenome is positioned toward regulatory genomics, while Evo 2 targets broader evolutionary sequence modeling",
+        "Borzoi focuses specifically on RNA-level predictions from DNA sequence input"
+      ],
+      "implications": "Primarily relevant to teams building in biotech or genomics. For product and tech practitioners in adjacent spaces, this is useful orientation on a fast-moving tooling landscape.",
+      "tags": [
+        "AI models",
+        "Genomics",
+        "Biotech"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "FourWeekMBA",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pOVhqUlRlWkdpak54Q3lzRWxlMGVYZkRCWE5Oa2VwZ3QxTWEzc2hLaHBWSS1MQmNUWWVTcDdLTXAta25tNV94V3BnNGNrVEk1RmxVdHdiRzNWUQ?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 14:08:25 GMT"
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSVpqUlRXVVpaODM5TmZDc1NhTVVhY1NZYzBZQnUwVF9YSXcxT1pNdEx2VS16LUdGSjF4T3FlN1NrNVZ2VzVRU0xodGhGOVp3ZmV0U20zbjF2Skw0cmh2LTRLdjBXeXRqSVZBUGFJTzFaei1zT0xYSm9qVGFUSjk4akZBbDF3RXQ5QUdfN3B2ZGtlSlJyN0Y4SQ?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 16:58:44 GMT"
     },
     {
-      "headline": "Kazakhstan Fintech Landscape: Banking, Microfinance, and EWA",
-      "background": "Emerging market fintech ecosystems are growing rapidly in Central Asia, but receive limited coverage in Western tech media. Kazakhstan has developed a distinct fintech sector shaped by its regulatory sandbox and high mobile penetration.",
+      "headline": "Google's Gemini smart glasses launch December 10 from $395",
+      "background": "Smart glasses have repeatedly failed to reach mainstream adoption since Google Glass. Google is re-entering the category with AI integration as the central value proposition.",
       "keyFindings": [
-        "The guide covers digital banking, microfinance, and earned wage access — three distinct product categories with different regulatory and UX considerations",
-        "Kazakhstan's fintech sector is highlighted as a structured market with identifiable leading players across categories"
+        "Preorder price starts at $395, positioning the product below Meta Ray-Bans at launch",
+        "Glasses ship with Gemini AI integration, targeting ambient AI assistance as primary use case",
+        "Launch date is December 10, with preorders open now"
       ],
-      "implications": "Relevant for product or UX practitioners entering Central Asian markets or benchmarking EWA product design. Earned wage access in particular has distinct onboarding and trust-building UX challenges worth researching.",
+      "implications": "UX teams working on wearable or ambient computing interfaces should monitor early user feedback closely. The price point and AI-first framing mark a meaningful shift in how Google is positioning this category versus its first attempt.",
       "tags": [
-        "Fintech",
-        "Emerging Markets",
-        "Earned Wage Access"
+        "Wearables",
+        "AI hardware",
+        "Ambient computing"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE02QnB3TzJjUkVnWnJwc3R5LVZ0d0cySGI3aHJDYldFNW5xTUNwblh2VXZBRHdNcG0zQm9LRlVkRklvQQ?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 12:00:39 GMT"
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa0FXc21JMlZjOVd1QjkyWFI4VFB3RDhYdHZhZ1gxVlA5RmtmN3g1b1NHMWdPTXdpQnp3d3dySmNKM2V0bUVMTE0zRnlPZmd1N2k5bTNjLXlRa2FpYUlZdUlheTlfUkxIdUItbmNTeEZJQU8yTTFCMmpSdlF4WVNnemd4RnNQWWFUT05zR2cydmhRQmZU?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 16:36:31 GMT"
     },
     {
-      "headline": "Nous Research Overhauls Its Web UX",
-      "background": "Nous Research is an AI research organization known for open-weight models. Web presence and documentation UX for AI labs has become a differentiator as developers choose tools partly based on how accessible and navigable the supporting resources are.",
+      "headline": "Streaming viewers want one unified TV guide",
+      "background": "As streaming services have proliferated, content discovery has fragmented across dozens of apps and interfaces. Research is now documenting the user frustration this creates.",
       "keyFindings": [
-        "The update is attributed to Teknium, a key Nous Research contributor, and described as a major redesign of the organization's web presence",
-        "Coverage comes from a crypto-focused outlet, suggesting the update may be more relevant to Web3 or AI-crypto crossover audiences than mainstream UX practitioners"
+        "Survey data shows streaming viewers consistently express preference for a single aggregated content guide across services",
+        "Fragmentation is driving decision fatigue and causing some users to default to rewatching known content rather than discovering new titles",
+        "No major platform currently offers cross-service search and scheduling that satisfies this demand"
       ],
-      "implications": "Limited practical takeaway for most UX practitioners. Worth monitoring if you work on developer-facing documentation or AI lab web products, where this could serve as a live example of a redesign to critique or reference.",
+      "implications": "For product teams at streaming platforms or device OS level, this is direct evidence that aggregated discovery is a user priority, not just an industry talking point. The pattern also applies to any product category where users manage multiple fragmented subscriptions.",
       "tags": [
-        "AI Tools",
-        "Developer Experience",
-        "Website Redesign"
+        "Content discovery",
+        "Streaming",
+        "Information architecture"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Business News This Week",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaTNsV09PMGlWWTR0bXh1UDExd2hUM3ViM1BtanltSHJ4WU1NYW9SOXRGOWF5RkM5QTk1clIxdUVRZzNXRktLSzJJTFhDeWlNQUN1dWxLczZxUnBQWWZsaVExZkQyOWIxQXZlUDBxa2M4TF9sLUxfcEk1ZWtLclU4c3FWZHVBNk9DWm1zd0VVTjJJNzVRaVRNdDdMOEFJTEdGeHRjU24wb0VXMmdGTTliQkZvSHFtWjdqV1VqOWZaY2hqY3FZU19mMkNaTTUyN1Z5Ui04TEVsZWs?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 04:28:48 GMT"
+      "source": "StreamTV Insider",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWl5TGJOdkRxSUJ3QVJYMUM3Q1VnaFBTSUFmWmZ3eVlWRHo2d2F2QTZWd0owUTBBWDFzSEZ2SW1HemlkYU5RQW4tVjJTWU42WUp5bkZuWFVEOTRpNjNBYTBSMXpsRUYtWkJuWTNIMEQ0X3dXSUtnc0VkWHNaMWJRSlc0UXo0TVdveEh1dEJSQzg0OVV4U1I5bjctVncxcmNrT1czUlRB?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 16:10:27 GMT"
     },
     {
-      "headline": "Intellectual Conformity Is Not the Same as Common Sense",
-      "background": "Reflective essays on intellectual independence and design thinking circulate regularly in the design and product community. This piece takes a philosophical stance on the difference between conventional wisdom and genuine reasoning.",
+      "headline": "DeepMind's AlphaGenome 2 predicts gene activity by cell type",
+      "background": "Earlier genomic AI models predicted gene expression at a general level. AlphaGenome 2 advances the field by modeling how the same DNA sequence behaves differently across distinct cell types.",
       "keyFindings": [
-        "The piece argues that conformity is frequently rationalized as common sense, suppressing creative or contrarian thinking",
-        "The title references the Steve Jobs 'Stay Hungry, Stay Foolish' framing, positioning curiosity as a professional and intellectual value"
+        "AlphaGenome 2 can predict cell-type-specific regulatory activity from raw DNA sequence, a significant technical step beyond prior models",
+        "The model was developed by DeepMind and follows the AlphaFold lineage of applying deep learning to biological structure and function",
+        "Cell-type specificity matters clinically because many diseases are driven by gene expression differences in particular tissues"
       ],
-      "implications": "No specific methodology or research is cited. More of a mindset provocation than actionable guidance — useful only as reflective reading, not a practice reference.",
+      "implications": "Primarily significant for teams in health tech, drug discovery tooling, or biotech infrastructure. For general tech practitioners, it signals continued acceleration in AI-driven biological modeling.",
       "tags": [
-        "Design Culture",
-        "Critical Thinking",
-        "Opinion"
+        "AI models",
+        "Genomics",
+        "DeepMind"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Coinfomania",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdHB0SjhlVlE2bzVyektfT014V2Nxc19SMmlCbGVqN0UydWlFUXlWMHpISXlOZnFHTzBzaFVwbmRDanZINmNwOGVubHBxb2FKTmRORUxxbWtxTWlOZXJvaWFCbzBUbFJ4SlNqMWJSOUFYQnNCczBGMGlaN0tNaGt2U1RzLWRsM3RMdVJj?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 01:40:11 GMT"
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUVZoT0xFdEZBU3htS2M2ZTZ6MG4yMV9Nb2dKMGI3d0RFdkRhNTJSYWo3cUZZdjFPblVEcURsbUZQTmI0NEJRV0lubzVFV3ZWZUp4SFpqNTUzODdzSE0zaWl4WmdiSVNVWC14VVpOMTl5clowSHJGdXNwejRxQWNtY2NtVFY4RjQ?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 15:58:58 GMT"
+    },
+    {
+      "headline": "Forbes tests the top dating apps heading into 2026",
+      "background": "Dating app market share has shifted as new entrants and redesigned incumbents compete for users. Consumer-facing roundups now serve as informal benchmarks that influence both user behavior and product team roadmaps.",
+      "keyFindings": [
+        "The Forbes team evaluated apps on matching quality, safety features, and interface usability across a multi-week test",
+        "Established platforms retain user base advantages but newer apps scored higher on onboarding clarity and safety communication",
+        "No single app was rated highest across all evaluated dimensions"
+      ],
+      "implications": "Useful competitive intelligence for product teams building in the dating or social matching space. Take methodology with caution — consumer review formats rarely control for demographic or use-case variation.",
+      "tags": [
+        "Dating apps",
+        "Competitive analysis",
+        "Product benchmarking"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Forbes",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53S1hsRnh3XzQ4bTZBSnd4WGhGMk85TlBtaENjcXlKcjRMMHBERkYxN3JVTVBBX2xuREZaTm5Oai03QnlSXzVEZ0ZvNDNRNEpPVnpWQ3ltbVZWd2oyS0dZajVHQnhRWnhBcHJWekNpSU1FMGc?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 15:27:00 GMT"
+    },
+    {
+      "headline": "New studio wins two national gold awards in its first five months",
+      "background": "Industry award recognition for new studios is unusual and can signal emerging talent or distinctive work worth tracking in the design and advertising landscape.",
+      "keyFindings": [
+        "Burgundy Studio won two national Gold awards at the afaqs! Foxglove Awards 2026 within five months of founding",
+        "The wins were in categories related to design and creative work, per the award body's scope"
+      ],
+      "implications": "Limited direct implications for UX or product practitioners. May be of interest to those tracking the Indian design and advertising industry or evaluating studios for collaboration.",
+      "tags": [
+        "Design industry",
+        "Awards",
+        "Agency"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcUxDVUx6Um1EenRJeFNqSFVyUUJtaWFVQnA2YWFYYXBVNzhGTDZZeC1HWEtucXlxc2NnWHlvUWVTYllSN0o5Q2VrM1J5R21QVlFsTnZPQTd0SDdYT1VSVFJTNFVIUG8tYU8tcWhUOUY2Njl1TkdWUHpBcXJWQVdxaEc3SWRZYjVWVWtfUTVEbkstbG5QWEdUal9sbUdCNzZmQ1lkZ1hyNkF0QWI1ak5CT0VKclRaUDA2QnhMYlZuR0dobWJuUnNtczVTWnRIaW1scU00RENwWm5QNXhyVVZJLTQ2aFVtZU1EdXZvMWsya21sWUNvdVVzaXdoeG9jZXdySWEwbmpuR2RkWUnSAYsCQVVfeXFMTXFMQ1VMelJtRHp0SXhTakhVclFCbWlhVUJwNmFhWGFwVTc4Rkw2WXgtR1hLbnF5cXNjZ1h5b1FlU2JZUjdKOUNlazNSeUdtUFZRbE52T0E3dEg3WE9VUlRSUzRVSFBvLWFPLXFoVDlGNjY5dU5HVlB6QXFyVkFXcWhHN0lkWWI1VlVrX1E1RG5LLWxuUFhHVGpfbG1HQjc2ZkNZZGdYcjZBdEFiNWpOQk9FSnJUWlAwNkJ4TGJWbkdHaG1iblJzbXM1U1p0SGltbHFNNERDcFpuUDV4clVWSS00NmhVbWVNRHV2bzFrMmttbFlDb3VVc2l3aHhvY2V3cklhMG5qbkdkZFlJ?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 13:10:19 GMT"
     }
   ]
 }
