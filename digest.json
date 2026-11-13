@@ -1,233 +1,233 @@
 {
-  "generatedAt": "2026-11-12T19:37:27.613Z",
+  "generatedAt": "2026-11-13T19:17:39.921Z",
   "items": [
     {
-      "headline": "The quiet discipline behind good product design",
-      "background": "Personal essays from practitioners are rare in a field dominated by case studies and frameworks. This piece offers a ground-level view of what sustained, careful product design work actually looks like day-to-day.",
+      "headline": "Product success requires sustainability, not just growth.",
+      "background": "Most product frameworks focus on acquisition, retention, and UX polish — but fewer address what it takes to keep a product viable long-term after initial traction.",
       "keyFindings": [
-        "The author frames quality as a deliberate daily practice rather than an outcome of process or tooling",
-        "Craft in product design requires resisting shortcuts even when timelines and stakeholder pressure push against it"
+        "Product success is defined as the ability of a business to remain viable beyond early growth metrics",
+        "Improving UX and growing users are necessary but insufficient conditions for sustained success",
+        "Structural and organizational factors play a role alongside product quality"
       ],
-      "implications": "Useful as a grounding read for designers experiencing burnout or scope creep — but limited in actionable frameworks. More reflective than instructional.",
+      "implications": "Product managers and designers should pressure-test whether their current metrics actually reflect long-term viability or just short-term momentum. Worth reading if your product is past launch but growth is plateauing.",
       "tags": [
-        "Design practice",
-        "Product design",
-        "Craft"
+        "Product Strategy",
+        "Growth",
+        "Sustainability"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1400/1*A_Xbkf7ErFhqJZdz7w3NwQ.png",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*wHiYEhUB8HxF-Iw8k0n9zg.jpeg",
       "source": "Product Design on Medium",
-      "link": "https://rcastillobedoya.medium.com/el-placer-de-hacer-las-cosas-bien-e6a17debfca6?source=rss------product_design-5",
-      "pubDate": "Thu, 12 Nov 2026 19:25:57 GMT"
+      "link": "https://medium.com/@m.r.afchangi.p/building-a-product-is-easy-sustaining-its-success-is-not-ab5d4c37d443?source=rss------product_design-5",
+      "pubDate": "Fri, 13 Nov 2026 19:04:28 GMT"
     },
     {
-      "headline": "Designing for ADHD: how to help users resume interrupted tasks",
-      "background": "Most UX design assumes users complete flows in a single session with sustained attention. This piece directly challenges that assumption, focusing on the specific cognitive patterns of users with ADHD.",
+      "headline": "AI tokens spent on scrolling can eliminate navigation clicks.",
+      "background": "Scrolling UX degrades when destinations are distant or uncertain — a known problem in long-form interfaces and document tools. This piece proposes using AI token budgets to rebuild that interaction layer.",
       "keyFindings": [
-        "Resumption cues — visible indicators of where a user left off — significantly reduce re-entry friction for users with ADHD",
-        "Breaking tasks into smaller, explicitly labeled steps helps users re-engage without having to reconstruct context",
-        "Progress persistence across sessions is identified as a core accessibility feature, not an edge-case enhancement"
+        "Standard scrolling breaks down when the target location is far away or only vaguely known by the user",
+        "The author proposes allocating AI inference tokens specifically to predict and optimize scroll destinations",
+        "The approach aims to reduce clicks by replacing manual navigation with model-assisted positioning"
       ],
-      "implications": "Designers working on onboarding, multi-step forms, or any task-heavy flow should audit whether their product supports interrupted use. These patterns also benefit neurotypical users under cognitive load.",
+      "implications": "Relevant to teams building AI-native document, feed, or content interfaces — particularly where search and scroll are currently the only navigation options. Token cost trade-offs need evaluation before adopting this pattern.",
       "tags": [
-        "Accessibility",
-        "ADHD",
-        "Onboarding"
+        "AI Interaction",
+        "Navigation",
+        "Scrolling"
       ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*bGXMb7xPUM-sc0DikuJ_dg.png",
-      "source": "Product Design on Medium",
-      "link": "https://matthewlarn.medium.com/designing-for-adhd-the-ux-of-picking-up-where-you-left-off-7e3aa4d4cd85?source=rss------product_design-5",
-      "pubDate": "Thu, 12 Nov 2026 19:23:21 GMT"
-    },
-    {
-      "headline": "AI is a design material — learn it by using it",
-      "background": "Designers have debated whether AI is a tool, a collaborator, or a threat. This piece reframes the question by placing AI in a historical lineage of materials that practitioners had to learn by working with directly.",
-      "keyFindings": [
-        "The author draws a direct line from physical craft materials to code to AI models as successive design media each requiring hands-on fluency",
-        "Conceptual understanding of AI is insufficient — practitioners need material familiarity gained through direct experimentation",
-        "The piece argues that designers who avoid working with models directly will lose the ability to shape what AI-driven products actually do"
-      ],
-      "implications": "For product and UX teams, this is an argument for embedding AI prototyping into design workflows rather than treating AI as an engineering handoff. Applies most urgently to teams building AI-native products.",
-      "tags": [
-        "AI tools",
-        "Design practice",
-        "Prototyping"
-      ],
-      "featured": true,
+      "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1160/0*OERRmi7XUFc8JjRS",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*ZJkQnqZbuFh325sAYNz6ug.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/@usabilitycounts/ai-is-the-new-old-design-material-0e7f83540c9a?source=rss------ux-5",
-      "pubDate": "Thu, 12 Nov 2026 19:06:01 GMT"
+      "link": "https://medium.com/ai-widgets/spending-tokens-where-they-save-clicks-rebuilding-intelligent-scrolling-2ad5d9700e62?source=rss------ux-5",
+      "pubDate": "Fri, 13 Nov 2026 18:58:38 GMT"
     },
     {
-      "headline": "Dating app UX case study: designing safety into warmth",
-      "background": "Dating apps routinely face criticism for prioritizing engagement metrics over user safety, particularly for women and marginalized users. This case study documents deliberate safety-first design decisions across a full app.",
+      "headline": "Claude synced Figma to a code-first design system.",
+      "background": "Design system teams frequently face a painful gap: code becomes the source of truth while Figma drifts out of sync. This is part two of a series on solving that with AI assistance.",
       "keyFindings": [
-        "The design team built safety affordances into onboarding, matching, and chat flows rather than treating them as a separate safety layer",
-        "Warm visual language and playful tone were maintained alongside safety features, challenging the assumption that safe design must feel clinical",
-        "VIP features were scoped to avoid creating power imbalances between free and paid users during matching"
+        "The team built their design system in code first, then used Claude to handle Figma updates bidirectionally",
+        "Claude was used to both read from and write to Figma based on the coded system",
+        "The workflow attempts to eliminate manual Figma maintenance after the system is established in code"
       ],
-      "implications": "Useful reference for teams designing social or matching products. The integration of safety into tone — not just features — is a replicable approach worth examining, though this is a student or independent case study without user research validation noted.",
+      "implications": "Teams maintaining parallel design systems in code and Figma should watch this approach closely — it directly targets one of the most time-consuming maintenance burdens. Requires evaluating Claude's accuracy and error rate on component fidelity.",
       "tags": [
-        "Dating apps",
-        "Safety design",
-        "Social products"
+        "Design Systems",
+        "AI Tools",
+        "Figma"
       ],
-      "featured": false,
+      "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*NVKi73PjGJqKZ3m7MCcmDg.png",
+      "image": "https://cdn-images-1.medium.com/max/1671/1*s9zRmntyLoHFYw0nRKhQpQ.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@mohdbasit/designing-huddle-hearts-a-dating-app-where-safety-comes-first-1b0f83bb8c87?source=rss------product_design-5",
-      "pubDate": "Thu, 12 Nov 2026 18:42:12 GMT"
+      "link": "https://medium.com/@yugandharbhamare/code-decides-figma-documents-claude-drives-both-ways-650068e09568?source=rss------product_design-5",
+      "pubDate": "Fri, 13 Nov 2026 18:42:17 GMT"
     },
     {
-      "headline": "AlphaGenome, Evo 2, Borzoi: DNA-reading AI models compared",
-      "background": "Several AI models capable of interpreting genomic sequences have launched in close succession, creating confusion about their distinct capabilities and appropriate use cases.",
+      "headline": "Old tools don't mean old thinking — stop conflating them.",
+      "background": "As AI and new design tools proliferate, there's growing pressure on practitioners to adopt the latest software as a signal of relevance. This piece pushes back on that conflation.",
       "keyFindings": [
-        "The three models differ significantly in what genomic signals they prioritize and what prediction tasks they are optimized for",
-        "AlphaGenome is positioned toward regulatory genomics, while Evo 2 targets broader evolutionary sequence modeling",
-        "Borzoi focuses specifically on RNA-level predictions from DNA sequence input"
+        "Using legacy or older software is not evidence of outdated methodology or thinking",
+        "The argument distinguishes between instrumental change and genuine conceptual evolution",
+        "Conflating tool choice with capability risks misevaluating experienced practitioners"
       ],
-      "implications": "Primarily relevant to teams building in biotech or genomics. For product and tech practitioners in adjacent spaces, this is useful orientation on a fast-moving tooling landscape.",
+      "implications": "Hiring managers and team leads should audit whether their evaluation criteria inadvertently penalize tool familiarity over demonstrated thinking and craft. Relevant to portfolio reviews and job specs.",
       "tags": [
-        "AI models",
-        "Genomics",
-        "Biotech"
+        "Design Culture",
+        "Tool Bias",
+        "Career"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*l1ZAuyEdAwRdsG1RbumZbg.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/design-bootcamp/everything-i-have-done-is-prehistory-a454e3724cfa?source=rss------ux-5",
+      "pubDate": "Fri, 13 Nov 2026 18:30:40 GMT"
+    },
+    {
+      "headline": "Game design education landscape in India: a factual overview.",
+      "background": "Game design as a formal discipline is expanding in India, but prospective students often lack consolidated information on programs, costs, and career outcomes.",
+      "keyFindings": [
+        "The piece aggregates college options, fee structures, and eligibility criteria for game design programs in India",
+        "Career scope for game design graduates in India is addressed, though specifics depend on the source data",
+        "Content is produced by Jaro Education, an edtech provider, which may shape framing"
+      ],
+      "implications": "Useful only for readers actively researching Indian game design education. The commercial origin of the content warrants independent verification of claims.",
+      "tags": [
+        "Education",
+        "Game Design",
+        "India"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSVpqUlRXVVpaODM5TmZDc1NhTVVhY1NZYzBZQnUwVF9YSXcxT1pNdEx2VS16LUdGSjF4T3FlN1NrNVZ2VzVRU0xodGhGOVp3ZmV0U20zbjF2Skw0cmh2LTRLdjBXeXRqSVZBUGFJTzFaei1zT0xYSm9qVGFUSjk4akZBbDF3RXQ5QUdfN3B2ZGtlSlJyN0Y4SQ?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 16:58:44 GMT"
+      "source": "Jaro Education",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpMW1zbUFTeDJvenI5S0xFZFlkV3lWUHVmanZHVzRMX29RclRpS1FLX3BGNVlfcHRVTnB5NTBKWjM0YWJFNExnQk1JSUNWb0poTkd0akFZMFl2SzB5VEc3bU44OE4?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 17:03:17 GMT"
     },
     {
-      "headline": "Google's Gemini smart glasses launch December 10 from $395",
-      "background": "Smart glasses have repeatedly failed to reach mainstream adoption since Google Glass. Google is re-entering the category with AI integration as the central value proposition.",
+      "headline": "Nielsen's UX roundup covers agents, synthetic users, and AI restraint.",
+      "background": "Jakob Nielsen's periodic roundups synthesize emerging UX topics across multiple fronts. This edition covers a notably wide range including agentic AI, onboarding, unused research, and auto-logout behavior.",
       "keyFindings": [
-        "Preorder price starts at $395, positioning the product below Meta Ray-Bans at launch",
-        "Glasses ship with Gemini AI integration, targeting ambient AI assistance as primary use case",
-        "Launch date is December 10, with preorders open now"
+        "Synthetic users are included as a topic, reflecting ongoing industry debate about their validity as research proxies",
+        "AI restraint is flagged as a design concern — suggesting the roundup addresses when AI should do less, not more",
+        "Unused research is cited as a persistent problem worth revisiting alongside newer AI-driven methods"
       ],
-      "implications": "UX teams working on wearable or ambient computing interfaces should monitor early user feedback closely. The price point and AI-first framing mark a meaningful shift in how Google is positioning this category versus its first attempt.",
+      "implications": "Worth scanning for practitioners wanting a structured view across several active UX debates at once. Nielsen's framing on AI restraint in particular is worth noting given current industry pressure to add AI everywhere.",
       "tags": [
-        "Wearables",
-        "AI hardware",
-        "Ambient computing"
+        "AI Agents",
+        "Research Methods",
+        "Onboarding"
+      ],
+      "featured": true,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yQU9SbDcxb0UzNjZzOFdNVTRDVFNJbC1RQlFoNHFuS3V4bFFUVnNXSXRDLU5fWk9PSDNBX1BsOGdUU1F2RVVidEVsb25iT095U0pPVmhQUjhpU1F5U1RjZnkxZHZMcS1XbWc?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 12:21:28 GMT"
+    },
+    {
+      "headline": "BCA specialization guide for Indian tech career paths.",
+      "background": "Bachelor of Computer Applications programs in India now offer multiple specialization tracks, but students often lack clear guidance on which path aligns with specific career outcomes.",
+      "keyFindings": [
+        "The piece outlines specialization options within BCA programs and their career implications",
+        "Content is produced by Shoolini University, a direct institutional stakeholder",
+        "Targeted specifically at Indian higher education context"
+      ],
+      "implications": "Limited relevance for most UX and product practitioners. Useful only if advising students or early-career candidates in the Indian tech education system. Verify claims given institutional authorship.",
+      "tags": [
+        "Education",
+        "Career",
+        "India"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa0FXc21JMlZjOVd1QjkyWFI4VFB3RDhYdHZhZ1gxVlA5RmtmN3g1b1NHMWdPTXdpQnp3d3dySmNKM2V0bUVMTE0zRnlPZmd1N2k5bTNjLXlRa2FpYUlZdUlheTlfUkxIdUItbmNTeEZJQU8yTTFCMmpSdlF4WVNnemd4RnNQWWFUT05zR2cydmhRQmZU?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 16:36:31 GMT"
+      "source": "Shoolini University",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVNUSm9ieW5hQmdRT21QZzFOSWtuNmtFNy1YYW1rS3lhTVFUQ3RYc3BxUFYwdl9SNzNhaWl5SXVwTVFoZ05lWGFOZXl4OWNadVI5cHcyVzR6ZENKa1dNd1Y3MXJjTHhEWjlMNWtnLUJKRGNwY1o0Z3BRQmhDZE1pdEYwS05mejVucGljVmJld1E3dFlJUkU0ZFZVemxKSmFUb2l3ZHpOU1FGNlp3NHZr0gG4AUFVX3lxTE81VWxrZ25mZVQwLTlYQXd0WjdZQ1JQa3FQMkE0M3V1cjJhbXN5SFRHUTg3UnVNVDEwcHBXcEJsRkdXQ09NQ1VwOGkySVNuMmFpWmw4TEVOVTVMNWFwVXViWjFOTG1xa29iekpScDZ0SEdvTnUtOGxoOEJGeGFxeXl1TThmS0ZuRG16RGtWM0pweFRORHJ5RU5CYmd5Y29KVHJYMC1KbUJkd1cxanFBRGhvZk5TVEpubDQ?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 10:41:37 GMT"
     },
     {
-      "headline": "Streaming viewers want one unified TV guide",
-      "background": "As streaming services have proliferated, content discovery has fragmented across dozens of apps and interfaces. Research is now documenting the user frustration this creates.",
+      "headline": "Tech adoption fails because habits beat features.",
+      "background": "Organizations consistently struggle to get employees to adopt new tools even when those tools are demonstrably better — a problem that undermines both product ROI and UX design assumptions.",
       "keyFindings": [
-        "Survey data shows streaming viewers consistently express preference for a single aggregated content guide across services",
-        "Fragmentation is driving decision fatigue and causing some users to default to rewatching known content rather than discovering new titles",
-        "No major platform currently offers cross-service search and scheduling that satisfies this demand"
+        "The core argument is that tech adoption is a cultural and behavioral problem, not a product quality problem",
+        "Existing UX habits are more powerful predictors of adoption than feature superiority or innovation",
+        "Implications are that designing for behavior change requires different strategies than designing for usability"
       ],
-      "implications": "For product teams at streaming platforms or device OS level, this is direct evidence that aggregated discovery is a user priority, not just an industry talking point. The pattern also applies to any product category where users manage multiple fragmented subscriptions.",
+      "implications": "Product and enterprise UX teams should factor habit entrenchment explicitly into adoption plans — particularly for internal tools or B2B products where switching costs are high and mandated rollouts are common.",
       "tags": [
-        "Content discovery",
-        "Streaming",
-        "Information architecture"
+        "Tech Adoption",
+        "Behavior Change",
+        "Enterprise UX"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "StreamTV Insider",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWl5TGJOdkRxSUJ3QVJYMUM3Q1VnaFBTSUFmWmZ3eVlWRHo2d2F2QTZWd0owUTBBWDFzSEZ2SW1HemlkYU5RQW4tVjJTWU42WUp5bkZuWFVEOTRpNjNBYTBSMXpsRUYtWkJuWTNIMEQ0X3dXSUtnc0VkWHNaMWJRSlc0UXo0TVdveEh1dEJSQzg0OVV4U1I5bjctVncxcmNrT1czUlRB?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 16:10:27 GMT"
+      "source": "HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcWI2YmxPX2JWMUJNYkNZYTlfQ3pJVGVLZm0tREFYUzFqOEJTbU1EcHpQbnZuX3JDdFFjMGJ3YmR3QV9SQlVTUUp6X0FEMzlzak10aFBibk5mZXZkbTVsOTd5a2hOd0FsNVY0UjRlcmM5UFlyNDg2dEd3UDhLZzFUMG5BODNCYlBpMXhNb29FTkpIdw?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 08:20:15 GMT"
     },
     {
-      "headline": "DeepMind's AlphaGenome 2 predicts gene activity by cell type",
-      "background": "Earlier genomic AI models predicted gene expression at a general level. AlphaGenome 2 advances the field by modeling how the same DNA sequence behaves differently across distinct cell types.",
+      "headline": "siRNA transfection reagents market forecast through 2035.",
+      "background": "This is a biotech market research report on RNA interference laboratory reagents — unrelated to UX, product design, or technology practice.",
       "keyFindings": [
-        "AlphaGenome 2 can predict cell-type-specific regulatory activity from raw DNA sequence, a significant technical step beyond prior models",
-        "The model was developed by DeepMind and follows the AlphaFold lineage of applying deep learning to biological structure and function",
-        "Cell-type specificity matters clinically because many diseases are driven by gene expression differences in particular tissues"
+        "Market forecast covers siRNA transfection reagents through 2035",
+        "Growth is attributed to RNAi discovery demand",
+        "Content is from IndexBox, a market statistics provider"
       ],
-      "implications": "Primarily significant for teams in health tech, drug discovery tooling, or biotech infrastructure. For general tech practitioners, it signals continued acceleration in AI-driven biological modeling.",
+      "implications": "No relevance to UX, product, or tech practice. Included in source batch but should not be surfaced in this digest.",
       "tags": [
-        "AI models",
-        "Genomics",
-        "DeepMind"
+        "Out of Scope"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUVZoT0xFdEZBU3htS2M2ZTZ6MG4yMV9Nb2dKMGI3d0RFdkRhNTJSYWo3cUZZdjFPblVEcURsbUZQTmI0NEJRV0lubzVFV3ZWZUp4SFpqNTUzODdzSE0zaWl4WmdiSVNVWC14VVpOMTl5clowSHJGdXNwejRxQWNtY2NtVFY4RjQ?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 15:58:58 GMT"
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVWR6eFFtWlZ1MkhSMjVsX3BCRnJvVHN2TkhNcVpkSElCVHhZbm5zdkhTRzhucGgzNUVHeGF2SlVJbXhWeXVMc3FmM1RGNXJXWElLY1pYZ0dtZmtCS0MyZUVIaUg5TElKSm1IOXlyQXhqdzhSXzZqY0VfQ2I4RGc1QWxaZ24xYmZ5Wmhkd09MMjdqV2NiclBBX1BSbHFDWW5RODhPT1RON21vWXVHU1RkT0FUSHJheWF5anpfR2ZsMldjUEIzYk1PaHJLOUxFYnZYTWdnZHZMNkRmTlVGbHRFSDBVc1k?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 05:16:04 GMT"
     },
     {
-      "headline": "Forbes tests the top dating apps heading into 2026",
-      "background": "Dating app market share has shifted as new entrants and redesigned incumbents compete for users. Consumer-facing roundups now serve as informal benchmarks that influence both user behavior and product team roadmaps.",
+      "headline": "Kaspa Network launches a pixel pet experiment on mainnet.",
+      "background": "Kaspa is a blockchain network that has begun hosting a Pixel Pet application on its mainnet — a move aimed at demonstrating consumer app use cases on the network.",
       "keyFindings": [
-        "The Forbes team evaluated apps on matching quality, safety features, and interface usability across a multi-week test",
-        "Established platforms retain user base advantages but newer apps scored higher on onboarding clarity and safety communication",
-        "No single app was rated highest across all evaluated dimensions"
+        "Pixel Pet is a consumer-facing application running on Kaspa's live mainnet environment",
+        "The experiment is positioned as a test of Kaspa's capability for interactive, user-facing applications",
+        "Coverage comes from Coin Gabbar, a crypto-focused publication"
       ],
-      "implications": "Useful competitive intelligence for product teams building in the dating or social matching space. Take methodology with caution — consumer review formats rarely control for demographic or use-case variation.",
+      "implications": "Peripheral relevance at best for UX practitioners working on Web3 or blockchain product interfaces. Not actionable for most readers of this digest.",
       "tags": [
-        "Dating apps",
-        "Competitive analysis",
-        "Product benchmarking"
+        "Blockchain",
+        "Web3",
+        "Out of Scope"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Forbes",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53S1hsRnh3XzQ4bTZBSnd4WGhGMk85TlBtaENjcXlKcjRMMHBERkYxN3JVTVBBX2xuREZaTm5Oai03QnlSXzVEZ0ZvNDNRNEpPVnpWQ3ltbVZWd2oyS0dZajVHQnhRWnhBcHJWekNpSU1FMGc?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 15:27:00 GMT"
-    },
-    {
-      "headline": "New studio wins two national gold awards in its first five months",
-      "background": "Industry award recognition for new studios is unusual and can signal emerging talent or distinctive work worth tracking in the design and advertising landscape.",
-      "keyFindings": [
-        "Burgundy Studio won two national Gold awards at the afaqs! Foxglove Awards 2026 within five months of founding",
-        "The wins were in categories related to design and creative work, per the award body's scope"
-      ],
-      "implications": "Limited direct implications for UX or product practitioners. May be of interest to those tracking the Indian design and advertising industry or evaluating studios for collaboration.",
-      "tags": [
-        "Design industry",
-        "Awards",
-        "Agency"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcUxDVUx6Um1EenRJeFNqSFVyUUJtaWFVQnA2YWFYYXBVNzhGTDZZeC1HWEtucXlxc2NnWHlvUWVTYllSN0o5Q2VrM1J5R21QVlFsTnZPQTd0SDdYT1VSVFJTNFVIUG8tYU8tcWhUOUY2Njl1TkdWUHpBcXJWQVdxaEc3SWRZYjVWVWtfUTVEbkstbG5QWEdUal9sbUdCNzZmQ1lkZ1hyNkF0QWI1ak5CT0VKclRaUDA2QnhMYlZuR0dobWJuUnNtczVTWnRIaW1scU00RENwWm5QNXhyVVZJLTQ2aFVtZU1EdXZvMWsya21sWUNvdVVzaXdoeG9jZXdySWEwbmpuR2RkWUnSAYsCQVVfeXFMTXFMQ1VMelJtRHp0SXhTakhVclFCbWlhVUJwNmFhWGFwVTc4Rkw2WXgtR1hLbnF5cXNjZ1h5b1FlU2JZUjdKOUNlazNSeUdtUFZRbE52T0E3dEg3WE9VUlRSUzRVSFBvLWFPLXFoVDlGNjY5dU5HVlB6QXFyVkFXcWhHN0lkWWI1VlVrX1E1RG5LLWxuUFhHVGpfbG1HQjc2ZkNZZGdYcjZBdEFiNWpOQk9FSnJUWlAwNkJ4TGJWbkdHaG1iblJzbXM1U1p0SGltbHFNNERDcFpuUDV4clVWSS00NmhVbWVNRHV2bzFrMmttbFlDb3VVc2l3aHhvY2V3cklhMG5qbkdkZFlJ?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 13:10:19 GMT"
+      "source": "Coin Gabbar",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVkx1NHVES0RnSXp2b0JFNW80SnBDV1ZoZFRLVEl4cVBsM3M4cVFMbmlXQWVoSzdZTlEyaHplemtISFNPSFZ3WVBfTjNVYWlUaHhJZUREZGVlcUtaaVZGZVVpbkFtZlhhOGlwX3ZObDNVVnh3SzhVMWptaF9UX1N1Zm40RU9LNGlRdU4xTw?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 05:00:00 GMT"
     }
   ]
 }
