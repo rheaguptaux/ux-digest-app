@@ -1,233 +1,233 @@
 {
-  "generatedAt": "2026-11-13T19:17:39.921Z",
+  "generatedAt": "2026-11-14T17:43:44.057Z",
   "items": [
     {
-      "headline": "Product success requires sustainability, not just growth.",
-      "background": "Most product frameworks focus on acquisition, retention, and UX polish — but fewer address what it takes to keep a product viable long-term after initial traction.",
+      "headline": "Designers and developers should borrow each other's logic",
+      "background": "The boundary between design tools and programming environments has historically been sharp — designers work visually, developers work in code. This piece argues that boundary is both artificial and limiting.",
       "keyFindings": [
-        "Product success is defined as the ability of a business to remain viable beyond early growth metrics",
-        "Improving UX and growing users are necessary but insufficient conditions for sustained success",
-        "Structural and organizational factors play a role alongside product quality"
+        "The author built a design tool that uses loops, conditions, and formulas as first-class design primitives — not just developer handoff artifacts",
+        "Designers who understand programmatic logic can produce designs that scale and adapt, rather than requiring manual duplication for each variant",
+        "Developers who understand design constraints can write code that better reflects intentional visual systems rather than approximating them"
       ],
-      "implications": "Product managers and designers should pressure-test whether their current metrics actually reflect long-term viability or just short-term momentum. Worth reading if your product is past launch but growth is plateauing.",
-      "tags": [
-        "Product Strategy",
-        "Growth",
-        "Sustainability"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1376/1*wHiYEhUB8HxF-Iw8k0n9zg.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@m.r.afchangi.p/building-a-product-is-easy-sustaining-its-success-is-not-ab5d4c37d443?source=rss------product_design-5",
-      "pubDate": "Fri, 13 Nov 2026 19:04:28 GMT"
-    },
-    {
-      "headline": "AI tokens spent on scrolling can eliminate navigation clicks.",
-      "background": "Scrolling UX degrades when destinations are distant or uncertain — a known problem in long-form interfaces and document tools. This piece proposes using AI token budgets to rebuild that interaction layer.",
-      "keyFindings": [
-        "Standard scrolling breaks down when the target location is far away or only vaguely known by the user",
-        "The author proposes allocating AI inference tokens specifically to predict and optimize scroll destinations",
-        "The approach aims to reduce clicks by replacing manual navigation with model-assisted positioning"
-      ],
-      "implications": "Relevant to teams building AI-native document, feed, or content interfaces — particularly where search and scroll are currently the only navigation options. Token cost trade-offs need evaluation before adopting this pattern.",
-      "tags": [
-        "AI Interaction",
-        "Navigation",
-        "Scrolling"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*ZJkQnqZbuFh325sAYNz6ug.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/ai-widgets/spending-tokens-where-they-save-clicks-rebuilding-intelligent-scrolling-2ad5d9700e62?source=rss------ux-5",
-      "pubDate": "Fri, 13 Nov 2026 18:58:38 GMT"
-    },
-    {
-      "headline": "Claude synced Figma to a code-first design system.",
-      "background": "Design system teams frequently face a painful gap: code becomes the source of truth while Figma drifts out of sync. This is part two of a series on solving that with AI assistance.",
-      "keyFindings": [
-        "The team built their design system in code first, then used Claude to handle Figma updates bidirectionally",
-        "Claude was used to both read from and write to Figma based on the coded system",
-        "The workflow attempts to eliminate manual Figma maintenance after the system is established in code"
-      ],
-      "implications": "Teams maintaining parallel design systems in code and Figma should watch this approach closely — it directly targets one of the most time-consuming maintenance burdens. Requires evaluating Claude's accuracy and error rate on component fidelity.",
+      "implications": "Worth reading if you work in design systems or tooling — the specific argument that design tools should expose programmatic constructs has direct implications for how you structure components and document logic for handoff.",
       "tags": [
         "Design Systems",
-        "AI Tools",
-        "Figma"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1671/1*s9zRmntyLoHFYw0nRKhQpQ.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@yugandharbhamare/code-decides-figma-documents-claude-drives-both-ways-650068e09568?source=rss------product_design-5",
-      "pubDate": "Fri, 13 Nov 2026 18:42:17 GMT"
-    },
-    {
-      "headline": "Old tools don't mean old thinking — stop conflating them.",
-      "background": "As AI and new design tools proliferate, there's growing pressure on practitioners to adopt the latest software as a signal of relevance. This piece pushes back on that conflation.",
-      "keyFindings": [
-        "Using legacy or older software is not evidence of outdated methodology or thinking",
-        "The argument distinguishes between instrumental change and genuine conceptual evolution",
-        "Conflating tool choice with capability risks misevaluating experienced practitioners"
-      ],
-      "implications": "Hiring managers and team leads should audit whether their evaluation criteria inadvertently penalize tool familiarity over demonstrated thinking and craft. Relevant to portfolio reviews and job specs.",
-      "tags": [
-        "Design Culture",
-        "Tool Bias",
-        "Career"
+        "Design Tools",
+        "Design-Dev Collaboration"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*l1ZAuyEdAwRdsG1RbumZbg.png",
+      "image": "https://cdn-images-1.medium.com/max/2000/0*D7S8CPEXB3j9I_HQ.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/design-bootcamp/everything-i-have-done-is-prehistory-a454e3724cfa?source=rss------ux-5",
-      "pubDate": "Fri, 13 Nov 2026 18:30:40 GMT"
+      "link": "https://dubem-design.medium.com/design-is-a-program-you-can-see-501fc0ec7b82?source=rss------ux-5",
+      "pubDate": "Sat, 14 Nov 2026 17:23:48 GMT"
     },
     {
-      "headline": "Game design education landscape in India: a factual overview.",
-      "background": "Game design as a formal discipline is expanding in India, but prospective students often lack consolidated information on programs, costs, and career outcomes.",
+      "headline": "Three UX problems AI agents are making urgent now",
+      "background": "AI agents that act autonomously on behalf of users — booking, shopping, browsing — are moving from demos to real deployments, and UX practice has not caught up with the edge cases they create.",
       "keyFindings": [
-        "The piece aggregates college options, fee structures, and eligibility criteria for game design programs in India",
-        "Career scope for game design graduates in India is addressed, though specifics depend on the source data",
-        "Content is produced by Jaro Education, an edtech provider, which may shape framing"
+        "Shopping agents are being actively blocked by retailers, creating broken experiences users don't see or understand",
+        "When AI acts for a user and fails silently, users have no feedback loop to know the task wasn't completed",
+        "System outages now have compounding effects when agents are in the chain — a single point of failure can cascade across automated user journeys"
       ],
-      "implications": "Useful only for readers actively researching Indian game design education. The commercial origin of the content warrants independent verification of claims.",
-      "tags": [
-        "Education",
-        "Game Design",
-        "India"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Jaro Education",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpMW1zbUFTeDJvenI5S0xFZFlkV3lWUHVmanZHVzRMX29RclRpS1FLX3BGNVlfcHRVTnB5NTBKWjM0YWJFNExnQk1JSUNWb0poTkd0akFZMFl2SzB5VEc3bU44OE4?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 17:03:17 GMT"
-    },
-    {
-      "headline": "Nielsen's UX roundup covers agents, synthetic users, and AI restraint.",
-      "background": "Jakob Nielsen's periodic roundups synthesize emerging UX topics across multiple fronts. This edition covers a notably wide range including agentic AI, onboarding, unused research, and auto-logout behavior.",
-      "keyFindings": [
-        "Synthetic users are included as a topic, reflecting ongoing industry debate about their validity as research proxies",
-        "AI restraint is flagged as a design concern — suggesting the roundup addresses when AI should do less, not more",
-        "Unused research is cited as a persistent problem worth revisiting alongside newer AI-driven methods"
-      ],
-      "implications": "Worth scanning for practitioners wanting a structured view across several active UX debates at once. Nielsen's framing on AI restraint in particular is worth noting given current industry pressure to add AI everywhere.",
+      "implications": "If you're designing flows that an AI agent might execute on a user's behalf, you need explicit failure states and agent-legible error handling — patterns built only for human users will break invisibly.",
       "tags": [
         "AI Agents",
-        "Research Methods",
-        "Onboarding"
+        "Error States",
+        "Emerging Patterns"
       ],
       "featured": true,
-      "type": "research",
-      "category": "Industry news",
+      "type": "opinion",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yQU9SbDcxb0UzNjZzOFdNVTRDVFNJbC1RQlFoNHFuS3V4bFFUVnNXSXRDLU5fWk9PSDNBX1BsOGdUU1F2RVVidEVsb25iT095U0pPVmhQUjhpU1F5U1RjZnkxZHZMcS1XbWc?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 12:21:28 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1672/1*2MKapyMREN6trzo72mX5Jw.png",
+      "source": "Product Design on Medium",
+      "link": "https://sajinprakash.medium.com/three-user-problems-designers-cant-ignore-right-now-741f8b6b589d?source=rss------product_design-5",
+      "pubDate": "Sat, 14 Nov 2026 17:01:02 GMT"
     },
     {
-      "headline": "BCA specialization guide for Indian tech career paths.",
-      "background": "Bachelor of Computer Applications programs in India now offer multiple specialization tracks, but students often lack clear guidance on which path aligns with specific career outcomes.",
+      "headline": "What earning $1 on Medium teaches about UX writing audiences",
+      "background": "Content about AI and design is saturating Medium, making it harder for new writers to find readers even when the work is substantive.",
       "keyFindings": [
-        "The piece outlines specialization options within BCA programs and their career implications",
-        "Content is produced by Shoolini University, a direct institutional stakeholder",
-        "Targeted specifically at Indian higher education context"
+        "The author found that niche specificity — not broad AI or UX topics — drove the most engagement",
+        "Early monetization on Medium is more a signal of audience fit than content quality",
+        "Writing for practitioners versus enthusiasts requires a different framing of the same underlying knowledge"
       ],
-      "implications": "Limited relevance for most UX and product practitioners. Useful only if advising students or early-career candidates in the Indian tech education system. Verify claims given institutional authorship.",
+      "implications": "Low practical value for UX/product work directly — this is a personal reflection on content strategy, not a research or design finding. Skip if your time is limited.",
+      "tags": [
+        "Content Strategy",
+        "Writing"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1152/1*Kxikn05d63H7Whkb_9kpcQ.gif",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@parthvipatel66/my-first-dollar-on-medium-heres-what-i-m-learning-863bd01da974?source=rss------ux-5",
+      "pubDate": "Sat, 14 Nov 2026 16:22:01 GMT"
+    },
+    {
+      "headline": "Seven formulas that auto-generate every layout variant",
+      "background": "Manually maintaining multiple versions of a layout for different content lengths, breakpoints, or states is a common source of design debt. Formula-based approaches in tools like Figma are underused.",
+      "keyFindings": [
+        "The author uses seven specific variable-based expressions to derive spacing, sizing, and layout values rather than hardcoding them",
+        "A single base layout plus formulas produces all required variants without duplicate frames",
+        "The approach reduces inconsistency that typically appears when designs are manually adapted for edge cases"
+      ],
+      "implications": "Directly applicable if you're maintaining a design system or complex component library — the formula approach reduces manual rework and keeps variants in sync when base values change.",
+      "tags": [
+        "Design Systems",
+        "Design Tools",
+        "Variables"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2000/0*IVZTZCbMJw1gD7uQ.png",
+      "source": "UX on Medium",
+      "link": "https://dubem-design.medium.com/the-7-formulas-i-put-in-every-design-b2f69940a710?source=rss------ux-5",
+      "pubDate": "Sat, 14 Nov 2026 15:36:19 GMT"
+    },
+    {
+      "headline": "Fashion Design vs Fashion Communication: career and salary compared",
+      "background": "Fashion education programs have diversified beyond making garments into roles focused on marketing, branding, and media — but the distinction between these tracks is often unclear to prospective students.",
+      "keyFindings": [
+        "Fashion Communication covers styling, brand management, and media rather than garment construction",
+        "Career scopes and salary ranges differ substantially between the two tracks depending on market and specialization",
+        "Course structures vary by institution but Communication programs typically require less technical production training"
+      ],
+      "implications": "Minimal relevance for UX, product, or tech practitioners. This is vocational guidance for fashion education decisions.",
       "tags": [
         "Education",
-        "Career",
-        "India"
+        "Career Paths"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Shoolini University",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVNUSm9ieW5hQmdRT21QZzFOSWtuNmtFNy1YYW1rS3lhTVFUQ3RYc3BxUFYwdl9SNzNhaWl5SXVwTVFoZ05lWGFOZXl4OWNadVI5cHcyVzR6ZENKa1dNd1Y3MXJjTHhEWjlMNWtnLUJKRGNwY1o0Z3BRQmhDZE1pdEYwS05mejVucGljVmJld1E3dFlJUkU0ZFZVemxKSmFUb2l3ZHpOU1FGNlp3NHZr0gG4AUFVX3lxTE81VWxrZ25mZVQwLTlYQXd0WjdZQ1JQa3FQMkE0M3V1cjJhbXN5SFRHUTg3UnVNVDEwcHBXcEJsRkdXQ09NQ1VwOGkySVNuMmFpWmw4TEVOVTVMNWFwVXViWjFOTG1xa29iekpScDZ0SEdvTnUtOGxoOEJGeGFxeXl1TThmS0ZuRG16RGtWM0pweFRORHJ5RU5CYmd5Y29KVHJYMC1KbUJkd1cxanFBRGhvZk5TVEpubDQ?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 10:41:37 GMT"
+      "source": "PW",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVTVHU2kwdmtLek1MQVNBRXhfRDV0cldnNDNaWnhkRXBzMEtiWDV2NnVCbkxGWHZqd1FiMWFhZHdvVklvRFNpUTdpR2g1cHFxMFk0WFJtVHlrbzVEYkZFUzFYcDJlZUhoNzB5eUVlS1dLcHJEM2J2SkozRE9UQU1KTzAtTjZkV2I2X296NEZ3?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 11:32:20 GMT"
     },
     {
-      "headline": "Tech adoption fails because habits beat features.",
-      "background": "Organizations consistently struggle to get employees to adopt new tools even when those tools are demonstrably better — a problem that undermines both product ROI and UX design assumptions.",
+      "headline": "Dark patterns behind America's 6-hour daily screen time",
+      "background": "Average American screen time has reached roughly six hours per day, and there is ongoing debate about how much of that is driven by deliberate product design choices versus user preference.",
       "keyFindings": [
-        "The core argument is that tech adoption is a cultural and behavioral problem, not a product quality problem",
-        "Existing UX habits are more powerful predictors of adoption than feature superiority or innovation",
-        "Implications are that designing for behavior change requires different strategies than designing for usability"
+        "Experts cite infinite scroll and notification design specifically — not content quality — as the primary behavioral drivers of extended screen time",
+        "Six hours per day is the cited average across American adults, not just heavy users",
+        "The pattern is framed as an engineered outcome, not an organic one — implicating product design decisions directly"
       ],
-      "implications": "Product and enterprise UX teams should factor habit entrenchment explicitly into adoption plans — particularly for internal tools or B2B products where switching costs are high and mandated rollouts are common.",
+      "implications": "Relevant context for anyone designing engagement features — the expert framing reinforces that notification frequency and scroll mechanics are not neutral choices and carry documented behavioral consequences.",
       "tags": [
-        "Tech Adoption",
-        "Behavior Change",
-        "Enterprise UX"
+        "Dark Patterns",
+        "Engagement Design",
+        "Ethics"
       ],
       "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Imperial Valley Press Online",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVTNDcjBXeDlJaEVXMFVGWFJxcnM1cHd5aEJ0dXNpZ1UzSzFPTnM0NnI0UWJRUWRRRnJfU0tRcWVCdFZkby1YQ0F5NjhWOHlMOGVTSHBHRzhmRWtBOEVPY0MtMEhYVVFvTjV2NVZpbnN4ZlR2ZzY4X0FISzktNDFNRU1jM1MtellvaE9IczlUaHRIMzRLNmxLTFp6QUJONlNNZzltY0U4cHFpSVl0RUt2ZkJiVEtMYnFsNUFOc0lBbWdoSUNQMnRrZDFKaDVIU25oTE85cEdKSDVwVkE5cGZ6RE1mNXJ3X0o2VjdXZ25JanNaRHphU253aHpraVN6d3drdUxNak95ZjlEZw?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "headline": "Top Shopify design agencies ranked for 2025",
+      "background": "Businesses launching or redesigning Shopify storefronts often struggle to evaluate agencies, since portfolio quality and specialization vary widely across a crowded vendor landscape.",
+      "keyFindings": [
+        "The list targets 2027 planning horizons, suggesting forward-looking evaluation criteria around AI-assisted commerce features",
+        "Agency selection criteria include Shopify-specific technical expertise, not just general design capability",
+        "The piece is vendor-comparative rather than methodology-based"
+      ],
+      "implications": "Useful as a starting reference if you're vetting Shopify agencies, but treat rankings as a starting point — verify credentials and review actual case studies before shortlisting.",
+      "tags": [
+        "E-commerce",
+        "Agency Selection",
+        "Shopify"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "PC Tech Magazine",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2bnB4VGs4VkVwZndiUFR5bW9SelpSZ3Z6cnEzQTRUdDZKMmFRQWZUSjhYWm0weWRmVDZXaXNQTWR2RXZnVEoyaTk5T295bm16blFrcWo1RnBzVnJhVDl4eGVrQnlHZU93TnNkVm0tMW5zWXo2alFR?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 06:39:22 GMT"
+    },
+    {
+      "headline": "42 specialist AI design personas built into one coding agent",
+      "background": "Coding agents like Cursor and GitHub Copilot are increasingly being extended with custom instructions and personas to shape output quality — this piece documents one practitioner's structured approach.",
+      "keyFindings": [
+        "The author configured 42 distinct design role personas — including typographer, accessibility reviewer, motion designer — as instruction sets within a single coding agent",
+        "Each persona applies domain-specific constraints when generating or reviewing code, rather than relying on generic prompts",
+        "The system functions as a lightweight design review layer embedded in the development workflow"
+      ],
+      "implications": "High practical value for teams using AI coding tools — this is a concrete pattern for embedding design quality gates into AI-assisted development without requiring a separate review cycle.",
+      "tags": [
+        "AI Tools",
+        "Design-Dev Collaboration",
+        "Prompt Engineering"
+      ],
+      "featured": true,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
       "source": "HackerNoon",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcWI2YmxPX2JWMUJNYkNZYTlfQ3pJVGVLZm0tREFYUzFqOEJTbU1EcHpQbnZuX3JDdFFjMGJ3YmR3QV9SQlVTUUp6X0FEMzlzak10aFBibk5mZXZkbTVsOTd5a2hOd0FsNVY0UjRlcmM5UFlyNDg2dEd3UDhLZzFUMG5BODNCYlBpMXhNb29FTkpIdw?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 08:20:15 GMT"
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUlrdXJMdFh2V3JyMEF4UjJDVEJCV2tOem41V2hoNkczaVVqYlFFcUp0UkctQWdMY01sRXh5V3otd0hPQXduNnJpU1pWNU14eEstV3VBb2V3bjFhWXVkQkg2QzlraVhFLTcwV2VxRUJteDAySEk3UnNXd0lyWXBfUQ?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 04:50:23 GMT"
     },
     {
-      "headline": "siRNA transfection reagents market forecast through 2035.",
-      "background": "This is a biotech market research report on RNA interference laboratory reagents — unrelated to UX, product design, or technology practice.",
+      "headline": "How UX research keeps pace with AI-accelerated development",
+      "background": "AI tooling has dramatically shortened development cycles, but UX research processes — recruitment, synthesis, reporting — have not scaled at the same rate, creating a gap where products ship before insights land.",
       "keyFindings": [
-        "Market forecast covers siRNA transfection reagents through 2035",
-        "Growth is attributed to RNAi discovery demand",
-        "Content is from IndexBox, a market statistics provider"
+        "The piece proposes 'Research-in-the-Loop' as a model where each release has predefined measurable outcomes research is responsible for tracking",
+        "Research shifts from project-based to continuous, with defined discovery and measurement roles per sprint or release",
+        "The model requires research to define what must be known before release, not after"
       ],
-      "implications": "No relevance to UX, product, or tech practice. Included in source batch but should not be surfaced in this digest.",
+      "implications": "Directly actionable for UX researchers embedded in agile or AI-accelerated teams — the pre-defining of per-release measurement criteria is a concrete process change that reduces the lag between shipping and learning.",
       "tags": [
-        "Out of Scope"
+        "UX Research",
+        "Agile",
+        "Research Ops"
       ],
       "featured": false,
       "type": "research",
-      "category": "Industry news",
+      "category": "Research",
       "publishedWindow": "today",
       "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVWR6eFFtWlZ1MkhSMjVsX3BCRnJvVHN2TkhNcVpkSElCVHhZbm5zdkhTRzhucGgzNUVHeGF2SlVJbXhWeXVMc3FmM1RGNXJXWElLY1pYZ0dtZmtCS0MyZUVIaUg5TElKSm1IOXlyQXhqdzhSXzZqY0VfQ2I4RGc1QWxaZ24xYmZ5Wmhkd09MMjdqV2NiclBBX1BSbHFDWW5RODhPT1RON21vWXVHU1RkT0FUSHJheWF5anpfR2ZsMldjUEIzYk1PaHJLOUxFYnZYTWdnZHZMNkRmTlVGbHRFSDBVc1k?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 05:16:04 GMT"
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/research-in-the-loop/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 13 Nov 2026 18:00:00 +0000"
     },
     {
-      "headline": "Kaspa Network launches a pixel pet experiment on mainnet.",
-      "background": "Kaspa is a blockchain network that has begun hosting a Pixel Pet application on its mainnet — a move aimed at demonstrating consumer app use cases on the network.",
+      "headline": "Journey mapping fundamentals: what it is and how to use it",
+      "background": "Journey mapping is widely referenced in UX practice but applied inconsistently — often confused with service blueprints, used too late in the process, or built without real user data.",
       "keyFindings": [
-        "Pixel Pet is a consumer-facing application running on Kaspa's live mainnet environment",
-        "The experiment is positioned as a test of Kaspa's capability for interactive, user-facing applications",
-        "Coverage comes from Coin Gabbar, a crypto-focused publication"
+        "A journey map specifically visualizes a person's process toward a goal — it is user-perspective-first, not system- or org-perspective-first",
+        "The format is distinct from service blueprints, which include backstage processes journey maps omit",
+        "The piece is framed as foundational reference material, not a novel methodology"
       ],
-      "implications": "Peripheral relevance at best for UX practitioners working on Web3 or blockchain product interfaces. Not actionable for most readers of this digest.",
+      "implications": "Useful as a reference link for teams new to the method or for standardizing terminology across a mixed-experience team — not new information for practitioners already using journey mapping regularly.",
       "tags": [
-        "Blockchain",
-        "Web3",
-        "Out of Scope"
+        "Journey Mapping",
+        "Research Methods",
+        "Foundations"
       ],
       "featured": false,
       "type": "research",
-      "category": "Industry news",
+      "category": "Research",
       "publishedWindow": "today",
       "image": null,
-      "source": "Coin Gabbar",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVkx1NHVES0RnSXp2b0JFNW80SnBDV1ZoZFRLVEl4cVBsM3M4cVFMbmlXQWVoSzdZTlEyaHplemtISFNPSFZ3WVBfTjNVYWlUaHhJZUREZGVlcUtaaVZGZVVpbkFtZlhhOGlwX3ZObDNVVnh3SzhVMWptaF9UX1N1Zm40RU9LNGlRdU4xTw?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 05:00:00 GMT"
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/journey-mapping-101/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 13 Nov 2026 18:00:00 +0000"
     }
   ]
 }
