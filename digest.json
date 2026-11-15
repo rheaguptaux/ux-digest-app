@@ -1,233 +1,230 @@
 {
-  "generatedAt": "2026-11-14T17:43:44.057Z",
+  "generatedAt": "2026-11-15T18:32:53.837Z",
   "items": [
     {
-      "headline": "Designers and developers should borrow each other's logic",
-      "background": "The boundary between design tools and programming environments has historically been sharp — designers work visually, developers work in code. This piece argues that boundary is both artificial and limiting.",
+      "headline": "Rust-powered browser design editor launches free public beta",
+      "background": "Browser-based design tools are dominated by Figma, with few serious challengers able to match its performance. A solo or small-team builder is entering this space with a tool built on a Rust rendering engine, which promises better performance characteristics than JavaScript-based alternatives.",
       "keyFindings": [
-        "The author built a design tool that uses loops, conditions, and formulas as first-class design primitives — not just developer handoff artifacts",
-        "Designers who understand programmatic logic can produce designs that scale and adapt, rather than requiring manual duplication for each variant",
-        "Developers who understand design constraints can write code that better reflects intentional visual systems rather than approximating them"
+        "The tool is called Pxl Prfct and runs in both browser and desktop environments",
+        "Its rendering engine is written in Rust, distinguishing it architecturally from Figma and Penpot",
+        "It is currently free to use"
       ],
-      "implications": "Worth reading if you work in design systems or tooling — the specific argument that design tools should expose programmatic constructs has direct implications for how you structure components and document logic for handoff.",
+      "implications": "Worth monitoring if you're evaluating Figma alternatives, especially for teams with performance or cost constraints. Too early to assess production readiness — treat as early-stage and watch for feature parity updates.",
       "tags": [
-        "Design Systems",
         "Design Tools",
-        "Design-Dev Collaboration"
+        "Browser Apps",
+        "Figma Alternatives"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "UX",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2000/0*D7S8CPEXB3j9I_HQ.png",
-      "source": "UX on Medium",
-      "link": "https://dubem-design.medium.com/design-is-a-program-you-can-see-501fc0ec7b82?source=rss------ux-5",
-      "pubDate": "Sat, 14 Nov 2026 17:23:48 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1734/1*VNUvKTI_iZ7fXqKef16EUg.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@james.gibbens/ive-been-building-a-design-tool-here-s-what-it-can-do-82ce81662413?source=rss------product_design-5",
+      "pubDate": "Sun, 15 Nov 2026 17:45:27 GMT"
     },
     {
-      "headline": "Three UX problems AI agents are making urgent now",
-      "background": "AI agents that act autonomously on behalf of users — booking, shopping, browsing — are moving from demos to real deployments, and UX practice has not caught up with the edge cases they create.",
+      "headline": "Design in real CSS Grid to close the handoff gap",
+      "background": "Designer-to-developer handoff has long involved lossy translation: designers define layout visually, developers reconstruct it in code, and discrepancies accumulate. This piece argues the root cause is that designers work in a grid abstraction that doesn't map to actual CSS Grid.",
       "keyFindings": [
-        "Shopping agents are being actively blocked by retailers, creating broken experiences users don't see or understand",
-        "When AI acts for a user and fails silently, users have no feedback loop to know the task wasn't completed",
-        "System outages now have compounding effects when agents are in the chain — a single point of failure can cascade across automated user journeys"
+        "Designers drawing grids in tools like Figma produce specifications that developers must reinterpret, not directly implement",
+        "Designing directly in CSS Grid syntax — using real column, row, and gap values — eliminates the reconstruction step",
+        "The piece frames most handoff errors as structural mismatches, not communication failures"
       ],
-      "implications": "If you're designing flows that an AI agent might execute on a user's behalf, you need explicit failure states and agent-legible error handling — patterns built only for human users will break invisibly.",
+      "implications": "Practical for product teams using component libraries or working closely with engineers. Requires designers to have working knowledge of CSS Grid properties; may not be viable without at least some cross-functional alignment on tooling.",
       "tags": [
-        "AI Agents",
-        "Error States",
-        "Emerging Patterns"
+        "Design Handoff",
+        "CSS Grid",
+        "Design Systems"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*2MKapyMREN6trzo72mX5Jw.png",
+      "image": "https://cdn-images-1.medium.com/max/1734/1*H_eLtJLbFooKBjSRQECTvw.png",
       "source": "Product Design on Medium",
-      "link": "https://sajinprakash.medium.com/three-user-problems-designers-cant-ignore-right-now-741f8b6b589d?source=rss------product_design-5",
-      "pubDate": "Sat, 14 Nov 2026 17:01:02 GMT"
+      "link": "https://medium.com/@james.gibbens/stop-redrawing-the-grid-design-in-real-css-grid-60fd9bcfc7f9?source=rss------product_design-5",
+      "pubDate": "Sun, 15 Nov 2026 17:44:53 GMT"
     },
     {
-      "headline": "What earning $1 on Medium teaches about UX writing audiences",
-      "background": "Content about AI and design is saturating Medium, making it harder for new writers to find readers even when the work is substantive.",
+      "headline": "A team's step-by-step workflow for UI design with Claude Code",
+      "background": "AI coding assistants are increasingly being used not just for logic and backend work but for UI generation, though practical team workflows are rarely documented in detail. This piece offers a concrete process from ticket to prototype using Claude Code specifically.",
       "keyFindings": [
-        "The author found that niche specificity — not broad AI or UX topics — drove the most engagement",
-        "Early monetization on Medium is more a signal of audience fit than content quality",
-        "Writing for practitioners versus enthusiasts requires a different framing of the same underlying knowledge"
+        "The workflow moves from a written ticket through Claude Code prompts to a usable prototype without a separate design tool step",
+        "The piece is team-tested, not theoretical — it reflects an actual production process as of 2026",
+        "Claude Code is being used here as a UI design tool, not just a code assistant"
       ],
-      "implications": "Low practical value for UX/product work directly — this is a personal reflection on content strategy, not a research or design finding. Skip if your time is limited.",
-      "tags": [
-        "Content Strategy",
-        "Writing"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1152/1*Kxikn05d63H7Whkb_9kpcQ.gif",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@parthvipatel66/my-first-dollar-on-medium-heres-what-i-m-learning-863bd01da974?source=rss------ux-5",
-      "pubDate": "Sat, 14 Nov 2026 16:22:01 GMT"
-    },
-    {
-      "headline": "Seven formulas that auto-generate every layout variant",
-      "background": "Manually maintaining multiple versions of a layout for different content lengths, breakpoints, or states is a common source of design debt. Formula-based approaches in tools like Figma are underused.",
-      "keyFindings": [
-        "The author uses seven specific variable-based expressions to derive spacing, sizing, and layout values rather than hardcoding them",
-        "A single base layout plus formulas produces all required variants without duplicate frames",
-        "The approach reduces inconsistency that typically appears when designs are manually adapted for edge cases"
-      ],
-      "implications": "Directly applicable if you're maintaining a design system or complex component library — the formula approach reduces manual rework and keeps variants in sync when base values change.",
-      "tags": [
-        "Design Systems",
-        "Design Tools",
-        "Variables"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2000/0*IVZTZCbMJw1gD7uQ.png",
-      "source": "UX on Medium",
-      "link": "https://dubem-design.medium.com/the-7-formulas-i-put-in-every-design-b2f69940a710?source=rss------ux-5",
-      "pubDate": "Sat, 14 Nov 2026 15:36:19 GMT"
-    },
-    {
-      "headline": "Fashion Design vs Fashion Communication: career and salary compared",
-      "background": "Fashion education programs have diversified beyond making garments into roles focused on marketing, branding, and media — but the distinction between these tracks is often unclear to prospective students.",
-      "keyFindings": [
-        "Fashion Communication covers styling, brand management, and media rather than garment construction",
-        "Career scopes and salary ranges differ substantially between the two tracks depending on market and specialization",
-        "Course structures vary by institution but Communication programs typically require less technical production training"
-      ],
-      "implications": "Minimal relevance for UX, product, or tech practitioners. This is vocational guidance for fashion education decisions.",
-      "tags": [
-        "Education",
-        "Career Paths"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "PW",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVTVHU2kwdmtLek1MQVNBRXhfRDV0cldnNDNaWnhkRXBzMEtiWDV2NnVCbkxGWHZqd1FiMWFhZHdvVklvRFNpUTdpR2g1cHFxMFk0WFJtVHlrbzVEYkZFUzFYcDJlZUhoNzB5eUVlS1dLcHJEM2J2SkozRE9UQU1KTzAtTjZkV2I2X296NEZ3?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 11:32:20 GMT"
-    },
-    {
-      "headline": "Dark patterns behind America's 6-hour daily screen time",
-      "background": "Average American screen time has reached roughly six hours per day, and there is ongoing debate about how much of that is driven by deliberate product design choices versus user preference.",
-      "keyFindings": [
-        "Experts cite infinite scroll and notification design specifically — not content quality — as the primary behavioral drivers of extended screen time",
-        "Six hours per day is the cited average across American adults, not just heavy users",
-        "The pattern is framed as an engineered outcome, not an organic one — implicating product design decisions directly"
-      ],
-      "implications": "Relevant context for anyone designing engagement features — the expert framing reinforces that notification frequency and scroll mechanics are not neutral choices and carry documented behavioral consequences.",
-      "tags": [
-        "Dark Patterns",
-        "Engagement Design",
-        "Ethics"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Imperial Valley Press Online",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVTNDcjBXeDlJaEVXMFVGWFJxcnM1cHd5aEJ0dXNpZ1UzSzFPTnM0NnI0UWJRUWRRRnJfU0tRcWVCdFZkby1YQ0F5NjhWOHlMOGVTSHBHRzhmRWtBOEVPY0MtMEhYVVFvTjV2NVZpbnN4ZlR2ZzY4X0FISzktNDFNRU1jM1MtellvaE9IczlUaHRIMzRLNmxLTFp6QUJONlNNZzltY0U4cHFpSVl0RUt2ZkJiVEtMYnFsNUFOc0lBbWdoSUNQMnRrZDFKaDVIU25oTE85cEdKSDVwVkE5cGZ6RE1mNXJ3X0o2VjdXZ25JanNaRHphU253aHpraVN6d3drdUxNak95ZjlEZw?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "headline": "Top Shopify design agencies ranked for 2025",
-      "background": "Businesses launching or redesigning Shopify storefronts often struggle to evaluate agencies, since portfolio quality and specialization vary widely across a crowded vendor landscape.",
-      "keyFindings": [
-        "The list targets 2027 planning horizons, suggesting forward-looking evaluation criteria around AI-assisted commerce features",
-        "Agency selection criteria include Shopify-specific technical expertise, not just general design capability",
-        "The piece is vendor-comparative rather than methodology-based"
-      ],
-      "implications": "Useful as a starting reference if you're vetting Shopify agencies, but treat rankings as a starting point — verify credentials and review actual case studies before shortlisting.",
-      "tags": [
-        "E-commerce",
-        "Agency Selection",
-        "Shopify"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "PC Tech Magazine",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2bnB4VGs4VkVwZndiUFR5bW9SelpSZ3Z6cnEzQTRUdDZKMmFRQWZUSjhYWm0weWRmVDZXaXNQTWR2RXZnVEoyaTk5T295bm16blFrcWo1RnBzVnJhVDl4eGVrQnlHZU93TnNkVm0tMW5zWXo2alFR?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 06:39:22 GMT"
-    },
-    {
-      "headline": "42 specialist AI design personas built into one coding agent",
-      "background": "Coding agents like Cursor and GitHub Copilot are increasingly being extended with custom instructions and personas to shape output quality — this piece documents one practitioner's structured approach.",
-      "keyFindings": [
-        "The author configured 42 distinct design role personas — including typographer, accessibility reviewer, motion designer — as instruction sets within a single coding agent",
-        "Each persona applies domain-specific constraints when generating or reviewing code, rather than relying on generic prompts",
-        "The system functions as a lightweight design review layer embedded in the development workflow"
-      ],
-      "implications": "High practical value for teams using AI coding tools — this is a concrete pattern for embedding design quality gates into AI-assisted development without requiring a separate review cycle.",
+      "implications": "Useful for product teams exploring AI-assisted design-to-code pipelines, particularly those without dedicated designers on every sprint. Workflow specifics may be tightly coupled to Claude Code's current capabilities and could shift with model updates.",
       "tags": [
         "AI Tools",
-        "Design-Dev Collaboration",
-        "Prompt Engineering"
+        "Prototyping",
+        "Design-to-Code"
       ],
       "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2400/1*jacSdJxpNL3jlDnozUWqtQ.png",
+      "source": "Product Design on Medium",
+      "link": "https://nurxmedov.medium.com/how-to-use-claude-code-for-ui-design-in-2026-the-steps-my-team-uses-57e934ed6fc4?source=rss------product_design-5",
+      "pubDate": "Sun, 15 Nov 2026 17:36:44 GMT"
+    },
+    {
+      "headline": "Startup design mistakes are timing mistakes, not taste mistakes",
+      "background": "Startups frequently debate how much design investment is appropriate at each funding stage, often defaulting to either under-investing early or over-engineering design systems before achieving product-market fit. This piece reframes those missteps as timing errors rather than quality failures.",
+      "keyFindings": [
+        "Building a full brand system before validating a product is identified as a common and costly mistake",
+        "Design scope and investment should be calibrated to company stage — pre-seed, seed, Series A, and Series B each warrant different approaches",
+        "The piece maps specific design activities to funding stages rather than offering generic advice"
+      ],
+      "implications": "Directly applicable to founders, early design hires, and product leads deciding where to allocate design resources. The stage-specific framing makes it more actionable than typical 'design at startups' content.",
+      "tags": [
+        "Startup Design",
+        "Product Strategy",
+        "Design Maturity"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/600/1*wKP9E6kTJ4NAI2fl9oNaXg.jpeg",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@wolfpixel/from-first-screen-to-series-b-what-design-looks-like-at-every-stage-43a976a7194f?source=rss------product_design-5",
+      "pubDate": "Sun, 15 Nov 2026 17:01:01 GMT"
+    },
+    {
+      "headline": "General Assembly Bahrain and Pay10 partner on local talent",
+      "background": "Regional tech education and fintech partnerships in the Gulf are expanding, with training providers increasingly linking directly to employers to improve hiring outcomes.",
+      "keyFindings": [
+        "General Assembly's Bahrain branch and Pay10 Bahrain have announced a formal collaboration",
+        "The stated goal is connecting locally trained talent to employment opportunities"
+      ],
+      "implications": "Primarily relevant to practitioners or hiring managers operating in the Bahrain or broader GCC market. Limited detail available from the snippet to assess program specifics.",
+      "tags": [
+        "Tech Education",
+        "Gulf Region",
+        "Talent Pipeline"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "News of Bahrain",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZkJOdzI5UjRUcUNxNGtQblYzMW5mUzg1T25YYzhLcl9XNDhvQlV6dkhMWWRhSXpTRXUxRkNhRWVPYzRaWkJRU2h3NmtNbVF0OFlFeG81cE1BNmlhZ09KbEZwUnV2eVBxS3ljQUJJYVdmNXBlMy11bUJ4dmpvVWUzYUROeFhGbTVfdHR4bUJmRks3RmQ4VHlTbHYxcmIxMUg0TW81em45TnVlY0xRcGVJT3V4aUtwRllJWjI4?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 14:03:45 GMT"
+    },
+    {
+      "headline": "Samsung's One UI 9.5 design gets first public preview",
+      "background": "Samsung iterates its Android skin, One UI, on a regular cycle, and design changes in each version affect hundreds of millions of users. A first look at 9.5 is circulating ahead of any official announcement.",
+      "keyFindings": [
+        "Visual design changes in One UI 9.5 are visible in leaked or early preview materials",
+        "No feature or interaction details are available from the snippet alone"
+      ],
+      "implications": "Relevant for Android app designers and developers who need to stay ahead of platform UI shifts. Treat as preliminary — visual language may change before final release.",
+      "tags": [
+        "Mobile OS",
+        "Android",
+        "Platform Design"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "SamMobile",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSZkZpQ3hITDdVYjlrcEdhSVZxdllQaXU2UGlpNFpBMXFDTFA0dEllWnlMYk4xYU5VUFVTTUJZWV9NSGc0WXhqazZWOGdSVHRNR3NSeTFTa2ppbkNZZkRuMEY2c1daaU9QakVGMDYyek9vb21kM1E?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 10:32:00 GMT"
+    },
+    {
+      "headline": "Sterling Bank and Google offer career certification program",
+      "background": "Google's career certificate programs have expanded through banking and corporate partnerships in African markets as a route to tech employment for people without traditional degrees.",
+      "keyFindings": [
+        "Sterling Bank and Google are jointly offering a career certification program open for applications",
+        "The program targets the Nigerian market based on the MSME Africa source"
+      ],
+      "implications": "Relevant for practitioners or organizations working in Nigerian tech education or workforce development. Limited program detail available from the snippet.",
+      "tags": [
+        "Tech Education",
+        "Africa",
+        "Career Development"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "MSME Africa",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbE1JZDhPazZmZ3didzF4anRRWU1WSDN0UDl5VlNpcnlpS3NqTGkxdXRZZmFsdFh3T3N4LWNYM0pHT1VGUWdRWFdPZzNaNGxDUmpxMGdVeExLaXU3Vm0yQ0k2cllRaUZyWlFZcTFrOGRQdTZTTHJ3ZnVpS00wbThWX3FzUEE5UFRVMGJhbnFkR0w5MXl1OEdtU29wSTF0N2dPVTZKMXVmLU52VDlWbHVIVVRtR2ZFY241NEFadzczWTF5ZmVQbVFnT05LUE5PS21TTTBtWUFrUGZseXp6akRud040ZUNIdU82QldhSG9R?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 06:20:29 GMT"
+    },
+    {
+      "headline": "Financial fund data mistakenly included in this batch",
+      "background": "A UBS bond fund seasonal returns chart from Yahoo Finance was included in this article set, unrelated to UX, product, or technology topics.",
+      "keyFindings": [
+        "This article is a financial data chart with no UX or product relevance",
+        "Likely included due to a feed or tagging error"
+      ],
+      "implications": "No actionable content for UX or product practitioners. Flagged for feed curation review.",
+      "tags": [
+        "Off-Topic",
+        "Feed Error"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyaVZ3dG9VaGFFQlVRY3Y2dHMwWlVzeHNEWG5jaUZDVEE1Qk5mYlVBeG40aDNEbloyLUtJVjFZYjFCZWllLWpZS1FBR3E0c2txQzFxN2lxR1pIMGlGdVF0bEV0aGpCVGJzZ3c?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 06:07:41 GMT"
+    },
+    {
+      "headline": "42-persona design studio prompt inside a coding agent",
+      "background": "Practitioners are experimenting with structured multi-role prompting inside AI coding agents to simulate design critique and review without a full team. This HackerNoon piece documents one such experiment at an unusual scale.",
+      "keyFindings": [
+        "The author constructed a prompt system representing 42 distinct design studio roles inside a single coding agent",
+        "The approach attempts to replicate multi-stakeholder design feedback using AI personas",
+        "The piece is from November 2026, suggesting this is a current practitioner experiment, not a product announcement"
+      ],
+      "implications": "Interesting as a prompt engineering experiment for solo designers or small teams lacking design review resources. Methodology and output quality are unverified — treat as an experiment to test rather than a proven workflow.",
+      "tags": [
+        "AI Tools",
+        "Prompt Engineering",
+        "Design Process"
+      ],
+      "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
       "source": "HackerNoon",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUlrdXJMdFh2V3JyMEF4UjJDVEJCV2tOem41V2hoNkczaVVqYlFFcUp0UkctQWdMY01sRXh5V3otd0hPQXduNnJpU1pWNU14eEstV3VBb2V3bjFhWXVkQkg2QzlraVhFLTcwV2VxRUJteDAySEk3UnNXd0lyWXBfUQ?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 04:50:23 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zNXhsSXJIT1FoQkVkWF9xcjlXdFpXQ093R2Q4LUkzTTdFWkpUVlNWek1QbWRDLU5pdTJnSkFsVHlGVkZsd1ZPYTd4bG9wWHR3MmFlY1ltOA?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 16:05:24 GMT"
     },
     {
-      "headline": "How UX research keeps pace with AI-accelerated development",
-      "background": "AI tooling has dramatically shortened development cycles, but UX research processes — recruitment, synthesis, reporting — have not scaled at the same rate, creating a gap where products ship before insights land.",
+      "headline": "What the evidence actually shows on design's business value",
+      "background": "Claims about the ROI of design investment — such as the widely cited McKinsey Design Index — are frequently repeated but rarely examined critically. Netguru's piece looks at the evidence base and flags where it holds up and where it doesn't.",
       "keyFindings": [
-        "The piece proposes 'Research-in-the-Loop' as a model where each release has predefined measurable outcomes research is responsible for tracking",
-        "Research shifts from project-based to continuous, with defined discovery and measurement roles per sprint or release",
-        "The model requires research to define what must be known before release, not after"
+        "The piece distinguishes between evidence that is methodologically sound and claims that are overstated or poorly sourced",
+        "Business value of design is real but context-dependent — the evidence does not support universal ROI claims",
+        "Limits of existing research are explicitly addressed, which is unusual in design advocacy content"
       ],
-      "implications": "Directly actionable for UX researchers embedded in agile or AI-accelerated teams — the pre-defining of per-release measurement criteria is a concrete process change that reduces the lag between shipping and learning.",
+      "implications": "Useful for design leaders making the case for investment internally, particularly for avoiding overclaiming that undermines credibility. Also helpful for anyone evaluating vendor or consulting claims about design ROI.",
       "tags": [
-        "UX Research",
-        "Agile",
-        "Research Ops"
+        "Design ROI",
+        "Design Leadership",
+        "Research"
       ],
       "featured": false,
       "type": "research",
-      "category": "Research",
-      "publishedWindow": "today",
+      "category": "Industry news",
+      "publishedWindow": "week",
       "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/articles/research-in-the-loop/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 13 Nov 2026 18:00:00 +0000"
-    },
-    {
-      "headline": "Journey mapping fundamentals: what it is and how to use it",
-      "background": "Journey mapping is widely referenced in UX practice but applied inconsistently — often confused with service blueprints, used too late in the process, or built without real user data.",
-      "keyFindings": [
-        "A journey map specifically visualizes a person's process toward a goal — it is user-perspective-first, not system- or org-perspective-first",
-        "The format is distinct from service blueprints, which include backstage processes journey maps omit",
-        "The piece is framed as foundational reference material, not a novel methodology"
-      ],
-      "implications": "Useful as a reference link for teams new to the method or for standardizing terminology across a mixed-experience team — not new information for practitioners already using journey mapping regularly.",
-      "tags": [
-        "Journey Mapping",
-        "Research Methods",
-        "Foundations"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/articles/journey-mapping-101/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 13 Nov 2026 18:00:00 +0000"
+      "source": "Netguru",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MMTNMNU5iRUc4RU50RFdkZXN4Q0E5VDZBSXdiNHVUQXZMYXNXUF8tazBWdGdPZjhlcUhfaUJseFc3akFWTTZFaF9KRjJYYmpJNmtCYlFwYi1DMnp1Zm4xNmFUSQ?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 08:25:24 GMT"
     }
   ]
 }
