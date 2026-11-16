@@ -1,198 +1,111 @@
 {
-  "generatedAt": "2026-11-15T18:32:53.837Z",
+  "generatedAt": "2026-11-16T21:42:20.693Z",
   "items": [
     {
-      "headline": "Rust-powered browser design editor launches free public beta",
-      "background": "Browser-based design tools are dominated by Figma, with few serious challengers able to match its performance. A solo or small-team builder is entering this space with a tool built on a Rust rendering engine, which promises better performance characteristics than JavaScript-based alternatives.",
+      "headline": "AI commoditizes software — design becomes the differentiator",
+      "background": "As AI lowers the cost of building functional software to near zero, the traditional value proposition of paid tools is eroding. This piece argues that the design and experience layer is what will separate surviving products from free alternatives.",
       "keyFindings": [
-        "The tool is called Pxl Prfct and runs in both browser and desktop environments",
-        "Its rendering engine is written in Rust, distinguishing it architecturally from Figma and Penpot",
-        "It is currently free to use"
+        "When AI can replicate core functionality cheaply, polish, trust, and usability become the primary reasons users pay",
+        "Generic AI-generated interfaces lack the opinionated design decisions that make tools feel purposeful and reliable",
+        "Design is reframed not as aesthetics but as the product's core defensible value"
       ],
-      "implications": "Worth monitoring if you're evaluating Figma alternatives, especially for teams with performance or cost constraints. Too early to assess production readiness — treat as early-stage and watch for feature parity updates.",
+      "implications": "Product and UX teams need to articulate — and double down on — the specific experience qualities that justify a price tag. If your product's value is purely functional, it's increasingly vulnerable to free AI alternatives.",
       "tags": [
-        "Design Tools",
-        "Browser Apps",
-        "Figma Alternatives"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1734/1*VNUvKTI_iZ7fXqKef16EUg.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@james.gibbens/ive-been-building-a-design-tool-here-s-what-it-can-do-82ce81662413?source=rss------product_design-5",
-      "pubDate": "Sun, 15 Nov 2026 17:45:27 GMT"
-    },
-    {
-      "headline": "Design in real CSS Grid to close the handoff gap",
-      "background": "Designer-to-developer handoff has long involved lossy translation: designers define layout visually, developers reconstruct it in code, and discrepancies accumulate. This piece argues the root cause is that designers work in a grid abstraction that doesn't map to actual CSS Grid.",
-      "keyFindings": [
-        "Designers drawing grids in tools like Figma produce specifications that developers must reinterpret, not directly implement",
-        "Designing directly in CSS Grid syntax — using real column, row, and gap values — eliminates the reconstruction step",
-        "The piece frames most handoff errors as structural mismatches, not communication failures"
-      ],
-      "implications": "Practical for product teams using component libraries or working closely with engineers. Requires designers to have working knowledge of CSS Grid properties; may not be viable without at least some cross-functional alignment on tooling.",
-      "tags": [
-        "Design Handoff",
-        "CSS Grid",
-        "Design Systems"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1734/1*H_eLtJLbFooKBjSRQECTvw.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@james.gibbens/stop-redrawing-the-grid-design-in-real-css-grid-60fd9bcfc7f9?source=rss------product_design-5",
-      "pubDate": "Sun, 15 Nov 2026 17:44:53 GMT"
-    },
-    {
-      "headline": "A team's step-by-step workflow for UI design with Claude Code",
-      "background": "AI coding assistants are increasingly being used not just for logic and backend work but for UI generation, though practical team workflows are rarely documented in detail. This piece offers a concrete process from ticket to prototype using Claude Code specifically.",
-      "keyFindings": [
-        "The workflow moves from a written ticket through Claude Code prompts to a usable prototype without a separate design tool step",
-        "The piece is team-tested, not theoretical — it reflects an actual production process as of 2026",
-        "Claude Code is being used here as a UI design tool, not just a code assistant"
-      ],
-      "implications": "Useful for product teams exploring AI-assisted design-to-code pipelines, particularly those without dedicated designers on every sprint. Workflow specifics may be tightly coupled to Claude Code's current capabilities and could shift with model updates.",
-      "tags": [
-        "AI Tools",
-        "Prototyping",
-        "Design-to-Code"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2400/1*jacSdJxpNL3jlDnozUWqtQ.png",
-      "source": "Product Design on Medium",
-      "link": "https://nurxmedov.medium.com/how-to-use-claude-code-for-ui-design-in-2026-the-steps-my-team-uses-57e934ed6fc4?source=rss------product_design-5",
-      "pubDate": "Sun, 15 Nov 2026 17:36:44 GMT"
-    },
-    {
-      "headline": "Startup design mistakes are timing mistakes, not taste mistakes",
-      "background": "Startups frequently debate how much design investment is appropriate at each funding stage, often defaulting to either under-investing early or over-engineering design systems before achieving product-market fit. This piece reframes those missteps as timing errors rather than quality failures.",
-      "keyFindings": [
-        "Building a full brand system before validating a product is identified as a common and costly mistake",
-        "Design scope and investment should be calibrated to company stage — pre-seed, seed, Series A, and Series B each warrant different approaches",
-        "The piece maps specific design activities to funding stages rather than offering generic advice"
-      ],
-      "implications": "Directly applicable to founders, early design hires, and product leads deciding where to allocate design resources. The stage-specific framing makes it more actionable than typical 'design at startups' content.",
-      "tags": [
-        "Startup Design",
         "Product Strategy",
-        "Design Maturity"
+        "AI tools",
+        "Design Value"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*TV7xQSMxyAg-Mgkm4Fat5g.png",
+      "source": "UX on Medium",
+      "link": "https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss------ux-5",
+      "pubDate": "Mon, 16 Nov 2026 21:27:13 GMT"
+    },
+    {
+      "headline": "A categorized field guide to UI edge cases",
+      "background": "Edge cases are a persistent source of shipped bugs and broken experiences, but most teams lack a systematic way to anticipate them during design or QA. This reference guide attempts to fill that gap with organized, actionable coverage.",
+      "keyFindings": [
+        "Organizes edge cases by category rather than product type, making it broadly applicable across interfaces",
+        "Includes specific test methods for each category, not just descriptions of what can go wrong",
+        "Covers detection approaches for identifying edge cases already present in live products"
+      ],
+      "implications": "Useful as a checklist during design review or QA handoff — particularly valuable for smaller teams without dedicated QA resources. Worth bookmarking as a living reference rather than a one-time read.",
+      "tags": [
+        "QA",
+        "Design Systems",
+        "Edge Cases"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2400/1*R_ZHpYkP3hc4ER5e4KuPsA.png",
+      "source": "UX on Medium",
+      "link": "https://uxdesign.cc/ui-edge-cases-a-reference-guide-e778061588ef?source=rss------ux-5",
+      "pubDate": "Mon, 16 Nov 2026 21:20:23 GMT"
+    },
+    {
+      "headline": "'Next' buttons are a usability red flag",
+      "background": "Generic button labels like 'Next' are common in multi-step flows, but they tell users nothing about what pressing them will trigger. This piece examines the gap between what a button says and what actually happens after it's activated.",
+      "keyFindings": [
+        "'Next' provides no information about consequence, destination, or reversibility — all critical for user confidence",
+        "Button labels should reflect the action's outcome, not just the step sequence",
+        "The problem compounds in forms and checkout flows where the cost of an unexpected action is high"
+      ],
+      "implications": "Audit button labels in any multi-step flow — especially checkout, onboarding, and settings changes — and replace positional labels with action-specific ones that describe what happens next.",
+      "tags": [
+        "Microcopy",
+        "Forms",
+        "Navigation"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1669/1*5P2jTsCOoOgvTJi05ET3HA.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/design-bootcamp/the-problem-with-buttons-that-says-next-160a4465369e?source=rss------ux-5",
+      "pubDate": "Mon, 16 Nov 2026 21:12:47 GMT"
+    },
+    {
+      "headline": "Fewer clicks matters less when AI acts for users",
+      "background": "Reducing clicks has been a core UX efficiency metric for decades, but AI agents that take actions on behalf of users are disrupting the assumption that users need to do the clicking at all.",
+      "keyFindings": [
+        "When AI handles task execution, traditional click-count metrics lose their meaning as proxies for ease-of-use",
+        "The design challenge shifts from reducing user steps to ensuring users maintain appropriate oversight and trust in automated actions",
+        "New UX primitives are needed for reviewing, confirming, and reversing AI-initiated actions"
+      ],
+      "implications": "Teams designing AI-assisted workflows should reconsider their success metrics — fewer interactions isn't inherently better if it comes at the cost of user understanding or control. Focus on legibility of AI actions, not just friction reduction.",
+      "tags": [
+        "AI tools",
+        "Interaction Design",
+        "Automation"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/600/1*wKP9E6kTJ4NAI2fl9oNaXg.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*CJeuFylv1nYNFhpvL6EFrw.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@wolfpixel/from-first-screen-to-series-b-what-design-looks-like-at-every-stage-43a976a7194f?source=rss------product_design-5",
-      "pubDate": "Sun, 15 Nov 2026 17:01:01 GMT"
+      "link": "https://medium.com/@ghenaat/the-best-click-is-the-one-users-never-make-c39c81a623c6?source=rss------product_design-5",
+      "pubDate": "Mon, 16 Nov 2026 20:58:23 GMT"
     },
     {
-      "headline": "General Assembly Bahrain and Pay10 partner on local talent",
-      "background": "Regional tech education and fintech partnerships in the Gulf are expanding, with training providers increasingly linking directly to employers to improve hiring outcomes.",
+      "headline": "Fintech app UX failures create real financial risk",
+      "background": "Fintech apps now handle savings, investments, and lending for millions of users, but their UX quality varies widely. This piece examines whether poor design choices in these apps translate into measurable financial harm for users.",
       "keyFindings": [
-        "General Assembly's Bahrain branch and Pay10 Bahrain have announced a formal collaboration",
-        "The stated goal is connecting locally trained talent to employment opportunities"
+        "Unclear confirmation flows and ambiguous action labels can result in unintended transactions users don't catch until damage is done",
+        "Notification design in fintech apps often fails to distinguish urgent alerts from marketing, reducing user responsiveness to critical events",
+        "Regulatory disclosures are frequently buried in ways that meet legal requirements but fail comprehension tests"
       ],
-      "implications": "Primarily relevant to practitioners or hiring managers operating in the Bahrain or broader GCC market. Limited detail available from the snippet to assess program specifics.",
+      "implications": "Fintech designers carry an elevated duty-of-care obligation — patterns acceptable in low-stakes apps (e.g., auto-advancing steps, dismissible alerts) can directly cause financial harm here. Treat error prevention as a safety requirement, not just a usability improvement.",
       "tags": [
-        "Tech Education",
-        "Gulf Region",
-        "Talent Pipeline"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "News of Bahrain",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZkJOdzI5UjRUcUNxNGtQblYzMW5mUzg1T25YYzhLcl9XNDhvQlV6dkhMWWRhSXpTRXUxRkNhRWVPYzRaWkJRU2h3NmtNbVF0OFlFeG81cE1BNmlhZ09KbEZwUnV2eVBxS3ljQUJJYVdmNXBlMy11bUJ4dmpvVWUzYUROeFhGbTVfdHR4bUJmRks3RmQ4VHlTbHYxcmIxMUg0TW81em45TnVlY0xRcGVJT3V4aUtwRllJWjI4?oc=5",
-      "pubDate": "Sun, 15 Nov 2026 14:03:45 GMT"
-    },
-    {
-      "headline": "Samsung's One UI 9.5 design gets first public preview",
-      "background": "Samsung iterates its Android skin, One UI, on a regular cycle, and design changes in each version affect hundreds of millions of users. A first look at 9.5 is circulating ahead of any official announcement.",
-      "keyFindings": [
-        "Visual design changes in One UI 9.5 are visible in leaked or early preview materials",
-        "No feature or interaction details are available from the snippet alone"
-      ],
-      "implications": "Relevant for Android app designers and developers who need to stay ahead of platform UI shifts. Treat as preliminary — visual language may change before final release.",
-      "tags": [
-        "Mobile OS",
-        "Android",
-        "Platform Design"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "SamMobile",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSZkZpQ3hITDdVYjlrcEdhSVZxdllQaXU2UGlpNFpBMXFDTFA0dEllWnlMYk4xYU5VUFVTTUJZWV9NSGc0WXhqazZWOGdSVHRNR3NSeTFTa2ppbkNZZkRuMEY2c1daaU9QakVGMDYyek9vb21kM1E?oc=5",
-      "pubDate": "Sun, 15 Nov 2026 10:32:00 GMT"
-    },
-    {
-      "headline": "Sterling Bank and Google offer career certification program",
-      "background": "Google's career certificate programs have expanded through banking and corporate partnerships in African markets as a route to tech employment for people without traditional degrees.",
-      "keyFindings": [
-        "Sterling Bank and Google are jointly offering a career certification program open for applications",
-        "The program targets the Nigerian market based on the MSME Africa source"
-      ],
-      "implications": "Relevant for practitioners or organizations working in Nigerian tech education or workforce development. Limited program detail available from the snippet.",
-      "tags": [
-        "Tech Education",
-        "Africa",
-        "Career Development"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "MSME Africa",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbE1JZDhPazZmZ3didzF4anRRWU1WSDN0UDl5VlNpcnlpS3NqTGkxdXRZZmFsdFh3T3N4LWNYM0pHT1VGUWdRWFdPZzNaNGxDUmpxMGdVeExLaXU3Vm0yQ0k2cllRaUZyWlFZcTFrOGRQdTZTTHJ3ZnVpS00wbThWX3FzUEE5UFRVMGJhbnFkR0w5MXl1OEdtU29wSTF0N2dPVTZKMXVmLU52VDlWbHVIVVRtR2ZFY241NEFadzczWTF5ZmVQbVFnT05LUE5PS21TTTBtWUFrUGZseXp6akRud040ZUNIdU82QldhSG9R?oc=5",
-      "pubDate": "Sun, 15 Nov 2026 06:20:29 GMT"
-    },
-    {
-      "headline": "Financial fund data mistakenly included in this batch",
-      "background": "A UBS bond fund seasonal returns chart from Yahoo Finance was included in this article set, unrelated to UX, product, or technology topics.",
-      "keyFindings": [
-        "This article is a financial data chart with no UX or product relevance",
-        "Likely included due to a feed or tagging error"
-      ],
-      "implications": "No actionable content for UX or product practitioners. Flagged for feed curation review.",
-      "tags": [
-        "Off-Topic",
-        "Feed Error"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyaVZ3dG9VaGFFQlVRY3Y2dHMwWlVzeHNEWG5jaUZDVEE1Qk5mYlVBeG40aDNEbloyLUtJVjFZYjFCZWllLWpZS1FBR3E0c2txQzFxN2lxR1pIMGlGdVF0bEV0aGpCVGJzZ3c?oc=5",
-      "pubDate": "Sun, 15 Nov 2026 06:07:41 GMT"
-    },
-    {
-      "headline": "42-persona design studio prompt inside a coding agent",
-      "background": "Practitioners are experimenting with structured multi-role prompting inside AI coding agents to simulate design critique and review without a full team. This HackerNoon piece documents one such experiment at an unusual scale.",
-      "keyFindings": [
-        "The author constructed a prompt system representing 42 distinct design studio roles inside a single coding agent",
-        "The approach attempts to replicate multi-stakeholder design feedback using AI personas",
-        "The piece is from November 2026, suggesting this is a current practitioner experiment, not a product announcement"
-      ],
-      "implications": "Interesting as a prompt engineering experiment for solo designers or small teams lacking design review resources. Methodology and output quality are unverified — treat as an experiment to test rather than a proven workflow.",
-      "tags": [
-        "AI Tools",
-        "Prompt Engineering",
-        "Design Process"
+        "Fintech",
+        "Error Prevention",
+        "Trust"
       ],
       "featured": false,
       "type": "research",
@@ -200,31 +113,120 @@
       "publishedWindow": "today",
       "image": null,
       "source": "HackerNoon",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zNXhsSXJIT1FoQkVkWF9xcjlXdFpXQ093R2Q4LUkzTTdFWkpUVlNWek1QbWRDLU5pdTJnSkFsVHlGVkZsd1ZPYTd4bG9wWHR3MmFlY1ltOA?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 16:05:24 GMT"
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1M0thUVZGM1FPOW1obXQ3OWQ5NkRzNHNvd01PeDRoMEFQSUVjWXl6TmNIR2l6V25Bb1JpR2QzUlhid1pyNE5jckJqUXdHWUlMcDNrYml3REV4X0ZxWGJKQl9VY1htaU5kMGFIaWp3LWJ5R082Q0ZvT29WVHJqdw?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 15:34:58 GMT"
     },
     {
-      "headline": "What the evidence actually shows on design's business value",
-      "background": "Claims about the ROI of design investment — such as the widely cited McKinsey Design Index — are frequently repeated but rarely examined critically. Netguru's piece looks at the evidence base and flags where it holds up and where it doesn't.",
+      "headline": "Symlink flaw lets Claude Code access files outside sandboxed workspaces",
+      "background": "AI coding agents like Claude Code operate with file system access, which raises security questions about whether they can be manipulated into reading files outside their intended scope. A newly identified vulnerability demonstrates this risk is real.",
       "keyFindings": [
-        "The piece distinguishes between evidence that is methodologically sound and claims that are overstated or poorly sourced",
-        "Business value of design is real but context-dependent — the evidence does not support universal ROI claims",
-        "Limits of existing research are explicitly addressed, which is unusual in design advocacy content"
+        "Claude Code's VS Code extension can be exploited via symlinks to access files outside the designated trusted workspace boundary",
+        "The attack vector doesn't require elevated permissions — it leverages how the extension resolves file paths",
+        "Anthropic has been notified; no patch status was confirmed at time of publication"
       ],
-      "implications": "Useful for design leaders making the case for investment internally, particularly for avoiding overclaiming that undermines credibility. Also helpful for anyone evaluating vendor or consulting claims about design ROI.",
+      "implications": "Teams using Claude Code or similar AI coding extensions on machines with sensitive files outside the project directory should audit their workspace configurations. Treat AI coding tools as having broad implicit file access until sandboxing is verified.",
       "tags": [
-        "Design ROI",
-        "Design Leadership",
+        "AI tools",
+        "Security",
+        "Developer Tools"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0Q1NDS3NESXBFM19CMmZKa2R4WUdLYjA1S0dvbUdLQmFweGlKUkg5OVlWaTJvWWJKY041ZmdLUmx0bW9Hdlh1SExiSVJUT2lvRWpXeU5ORdIBXEFVX3lxTE92bEo0STRFWmY5c1NiVGIzdktKVXRQQ19GS1hRQXJfQ1Y4dFJZRUpWOHpiX21wTnMtUHBWLXNEOXZEWUVoa29SeW5rZDdST3JrVVhmUUxCQWxnT3ZS?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 14:21:14 GMT"
+    },
+    {
+      "headline": "Interaction and narrative design drive VR museum experience quality",
+      "background": "VR museums are growing as cultural institutions experiment with immersive formats, but there's limited empirical research on which design factors actually drive positive user experience in these environments versus traditional digital interfaces.",
+      "keyFindings": [
+        "User interaction quality, perceived narrative coherence, and spatiotemporal organization each independently predicted positive UX outcomes in VR museum settings",
+        "Narrative quality had the strongest association with overall satisfaction, outweighing visual fidelity factors",
+        "Spatiotemporal organization — how space and time are structured in the virtual environment — is an underexamined but significant UX variable"
+      ],
+      "implications": "For teams designing VR or immersive experiences, investing in narrative structure and wayfinding logic may yield higher UX returns than pushing graphical quality. The findings are from museum contexts specifically and may not generalize directly to task-oriented VR applications.",
+      "tags": [
+        "VR/XR",
+        "Spatial Design",
         "Research"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83eEVqSG8xTXlicjlHX0dvN2NSSjdLaVRjNm1KQlpLUkw1VUZWY0wxc1pzNnUxVV9qLWhfcnBjbC1rVGFXN0lKNWR2Z0V6YV9YYWs2STNGQVllbDhKdHZB?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 13:08:35 GMT"
+    },
+    {
+      "headline": "Nielsen's UX roundup: seamful design and AI design briefs",
+      "background": "Jakob Nielsen's periodic roundups synthesize multiple UX debates at once. This edition touches on AI's role in answering design briefs, the concept of seamful design (intentionally exposing system seams), and practical UI patterns like toggle groups.",
+      "keyFindings": [
+        "Nielsen signals concern about 'AI-human synergy' narratives, suggesting the framing may obscure where AI actually underperforms versus human designers",
+        "Seamful design — making system constraints visible rather than hiding them — is presented as a viable alternative to seamless UX in certain contexts",
+        "Input format flexibility (e.g., accepting multiple date or phone number formats) is highlighted as an overlooked usability win"
+      ],
+      "implications": "The input format flexibility point is immediately actionable: audit form fields that enforce strict formatting and consider whether validation can accommodate common variants instead of rejecting them. The seamful design framing is worth tracking as AI systems make more internal logic visible to users.",
+      "tags": [
+        "Forms",
+        "AI tools",
+        "Design Patterns"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Jakob Nielsen on UX",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44cHV0UVl3Z3llU1VkSWZfRzNDMjZiWjBtVk9McDg0OXRVbHUwWFJaLW5sQWVhbmZFWlJaWUdUcU94UFpCcVl0MG9Wdzh4OEdTc0NCZFUtNUQyRlpENVVLeGtLWVM3WmtFVVE?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 12:21:32 GMT"
+    },
+    {
+      "headline": "DNA sequencing market forecast: not relevant to this digest",
+      "background": "This article covers the targeted DNA/RNA sequencing industry forecast through 2035, focused on oncology and liquid biopsy market growth.",
+      "keyFindings": [
+        "No UX, product, or technology findings applicable to this digest's scope",
+        "Content is a market research report for life sciences investors and industry analysts",
+        "Included in input but outside editorial remit"
+      ],
+      "implications": "No actionable implications for UX, product, or tech practitioners.",
+      "tags": [
+        "Out of Scope"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT0RSeTMxT1ItMm5HbVl1N0JHU0lUbm1ZeTQ3bDVqMHJiR1ppRDNSN044ajUtU2NJel9OcTFaRlNVSTFnSzNDeG5TeVNHc3RKUVg4UDJxdy1FUV9EUzg0SjI3M3NzNFI3Z1lhQTlTRGw5Z3ZFT2Q3TTJTbWdpLW5tUFBrQmpWQl84a3BlNVd2UmdPXzZKRE1KYXFFWmMzZmtqM0lqaEVtT01MMHZ1c0JrZHUwU3hRcXhhRzZMcmxNbEFERm1XS0pLbndXb200dDhnYkNF?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 05:31:08 GMT"
+    },
+    {
+      "headline": "11 UX certifications and bootcamps compared by skill level",
+      "background": "The UX education market is crowded and inconsistently credentialed, making it hard for practitioners or career-switchers to evaluate which programs offer genuine skill development versus credential signaling.",
+      "keyFindings": [
+        "The list spans self-paced online certifications to intensive bootcamps, covering entry-level through mid-career practitioners",
+        "Coursera's own programs are included alongside third-party options, which introduces potential editorial bias in how programs are ranked or described",
+        "No independent outcome data (employment rates, salary changes) is cited to support recommendations"
+      ],
+      "implications": "Useful as a starting map of options, but verify any program's outcomes independently before enrolling. The absence of post-program outcome data is a significant gap — prioritize programs with verifiable alumni track records over those with strong marketing.",
+      "tags": [
+        "UX Education",
+        "Career Development"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "week",
       "image": null,
-      "source": "Netguru",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MMTNMNU5iRUc4RU50RFdkZXN4Q0E5VDZBSXdiNHVUQXZMYXNXUF8tazBWdGdPZjhlcUhfaUJseFc3akFWTTZFaF9KRjJYYmpJNmtCYlFwYi1DMnp1Zm4xNmFUSQ?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 08:25:24 GMT"
+      "source": "Coursera",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3lub1ZyYjJoTEswV3VZV3Z4MGdtVTRoTXVNcms0Qk1LVWUyZ0tzSUIxcFMxeEtmYTJvVDVCV05jMTI1TnVQSTJkYW41VWt3anRuNU1SdlNNaVlFZU1JYkZWXzRJLTVsRDNaVGtNaXdseXhYMlVyZ2p6TmhCM3FZalhR?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT"
     }
   ]
 }
