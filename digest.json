@@ -1,232 +1,235 @@
 {
-  "generatedAt": "2026-11-16T21:42:20.693Z",
+  "generatedAt": "2026-11-17T20:32:14.381Z",
   "items": [
     {
-      "headline": "AI commoditizes software — design becomes the differentiator",
-      "background": "As AI lowers the cost of building functional software to near zero, the traditional value proposition of paid tools is eroding. This piece argues that the design and experience layer is what will separate surviving products from free alternatives.",
+      "headline": "Student test scores rise when phones are locked away.",
+      "background": "Debate over phone bans in schools has intensified as districts weigh academic performance against student autonomy and safety concerns. Researchers have been trying to quantify the actual cognitive impact of phone access during school hours.",
       "keyFindings": [
-        "When AI can replicate core functionality cheaply, polish, trust, and usability become the primary reasons users pay",
-        "Generic AI-generated interfaces lack the opinionated design decisions that make tools feel purposeful and reliable",
-        "Design is reframed not as aesthetics but as the product's core defensible value"
+        "A new study finds a measurable positive correlation between phone lockup policies and improved student test scores.",
+        "The effect suggests passive phone presence — not just active use — may be enough to impair academic performance.",
+        "Results add empirical weight to phone restriction policies already adopted by some school districts."
       ],
-      "implications": "Product and UX teams need to articulate — and double down on — the specific experience qualities that justify a price tag. If your product's value is purely functional, it's increasingly vulnerable to free AI alternatives.",
+      "implications": "Relevant for edtech and learning-focused product teams: if ambient device availability reduces cognitive performance, UX that minimizes interruption or enforces focus modes may have real measurable value beyond user preference.",
       "tags": [
-        "Product Strategy",
-        "AI tools",
-        "Design Value"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*TV7xQSMxyAg-Mgkm4Fat5g.png",
-      "source": "UX on Medium",
-      "link": "https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss------ux-5",
-      "pubDate": "Mon, 16 Nov 2026 21:27:13 GMT"
-    },
-    {
-      "headline": "A categorized field guide to UI edge cases",
-      "background": "Edge cases are a persistent source of shipped bugs and broken experiences, but most teams lack a systematic way to anticipate them during design or QA. This reference guide attempts to fill that gap with organized, actionable coverage.",
-      "keyFindings": [
-        "Organizes edge cases by category rather than product type, making it broadly applicable across interfaces",
-        "Includes specific test methods for each category, not just descriptions of what can go wrong",
-        "Covers detection approaches for identifying edge cases already present in live products"
-      ],
-      "implications": "Useful as a checklist during design review or QA handoff — particularly valuable for smaller teams without dedicated QA resources. Worth bookmarking as a living reference rather than a one-time read.",
-      "tags": [
-        "QA",
-        "Design Systems",
-        "Edge Cases"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2400/1*R_ZHpYkP3hc4ER5e4KuPsA.png",
-      "source": "UX on Medium",
-      "link": "https://uxdesign.cc/ui-edge-cases-a-reference-guide-e778061588ef?source=rss------ux-5",
-      "pubDate": "Mon, 16 Nov 2026 21:20:23 GMT"
-    },
-    {
-      "headline": "'Next' buttons are a usability red flag",
-      "background": "Generic button labels like 'Next' are common in multi-step flows, but they tell users nothing about what pressing them will trigger. This piece examines the gap between what a button says and what actually happens after it's activated.",
-      "keyFindings": [
-        "'Next' provides no information about consequence, destination, or reversibility — all critical for user confidence",
-        "Button labels should reflect the action's outcome, not just the step sequence",
-        "The problem compounds in forms and checkout flows where the cost of an unexpected action is high"
-      ],
-      "implications": "Audit button labels in any multi-step flow — especially checkout, onboarding, and settings changes — and replace positional labels with action-specific ones that describe what happens next.",
-      "tags": [
-        "Microcopy",
-        "Forms",
-        "Navigation"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1669/1*5P2jTsCOoOgvTJi05ET3HA.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/design-bootcamp/the-problem-with-buttons-that-says-next-160a4465369e?source=rss------ux-5",
-      "pubDate": "Mon, 16 Nov 2026 21:12:47 GMT"
-    },
-    {
-      "headline": "Fewer clicks matters less when AI acts for users",
-      "background": "Reducing clicks has been a core UX efficiency metric for decades, but AI agents that take actions on behalf of users are disrupting the assumption that users need to do the clicking at all.",
-      "keyFindings": [
-        "When AI handles task execution, traditional click-count metrics lose their meaning as proxies for ease-of-use",
-        "The design challenge shifts from reducing user steps to ensuring users maintain appropriate oversight and trust in automated actions",
-        "New UX primitives are needed for reviewing, confirming, and reversing AI-initiated actions"
-      ],
-      "implications": "Teams designing AI-assisted workflows should reconsider their success metrics — fewer interactions isn't inherently better if it comes at the cost of user understanding or control. Focus on legibility of AI actions, not just friction reduction.",
-      "tags": [
-        "AI tools",
-        "Interaction Design",
-        "Automation"
+        "EdTech",
+        "Attention",
+        "Research"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*CJeuFylv1nYNFhpvL6EFrw.png",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*i3gk-DbnaqoKSTXdOkuRPw.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@ghenaat/the-best-click-is-the-one-users-never-make-c39c81a623c6?source=rss------product_design-5",
-      "pubDate": "Mon, 16 Nov 2026 20:58:23 GMT"
+      "link": "https://medium.com/@ajuonumagodswill20/from-mvp-preparation-to-the-judges-table-our-team-came-second-a0f00fc3e995?source=rss------product_design-5",
+      "pubDate": "Tue, 17 Nov 2026 20:19:44 GMT"
     },
     {
-      "headline": "Fintech app UX failures create real financial risk",
-      "background": "Fintech apps now handle savings, investments, and lending for millions of users, but their UX quality varies widely. This piece examines whether poor design choices in these apps translate into measurable financial harm for users.",
+      "headline": "18 new vulnerabilities found for every one that gets patched.",
+      "background": "Security teams have long struggled to keep pace with vulnerability disclosure rates, but quantifying the gap has been difficult. Black Duck's new research puts a specific ratio on the remediation deficit for the first time.",
       "keyFindings": [
-        "Unclear confirmation flows and ambiguous action labels can result in unintended transactions users don't catch until damage is done",
-        "Notification design in fintech apps often fails to distinguish urgent alerts from marketing, reducing user responsiveness to critical events",
-        "Regulatory disclosures are frequently buried in ways that meet legal requirements but fail comprehension tests"
+        "Black Duck research shows newly discovered vulnerabilities outpace fixes at an 18-to-1 ratio.",
+        "Exploit windows — the time between vulnerability disclosure and active exploitation — are shrinking, compressing response time for security teams.",
+        "The data implies that prioritization, not just speed, is now the critical variable in vulnerability management."
       ],
-      "implications": "Fintech designers carry an elevated duty-of-care obligation — patterns acceptable in low-stakes apps (e.g., auto-advancing steps, dismissible alerts) can directly cause financial harm here. Treat error prevention as a safety requirement, not just a usability improvement.",
+      "implications": "For product and engineering teams, this ratio makes a strong case for threat modeling and security prioritization frameworks earlier in development rather than relying on patch cycles. Backlog-based remediation strategies are mathematically losing ground.",
       "tags": [
-        "Fintech",
-        "Error Prevention",
-        "Trust"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "HackerNoon",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1M0thUVZGM1FPOW1obXQ3OWQ5NkRzNHNvd01PeDRoMEFQSUVjWXl6TmNIR2l6V25Bb1JpR2QzUlhid1pyNE5jckJqUXdHWUlMcDNrYml3REV4X0ZxWGJKQl9VY1htaU5kMGFIaWp3LWJ5R082Q0ZvT29WVHJqdw?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 15:34:58 GMT"
-    },
-    {
-      "headline": "Symlink flaw lets Claude Code access files outside sandboxed workspaces",
-      "background": "AI coding agents like Claude Code operate with file system access, which raises security questions about whether they can be manipulated into reading files outside their intended scope. A newly identified vulnerability demonstrates this risk is real.",
-      "keyFindings": [
-        "Claude Code's VS Code extension can be exploited via symlinks to access files outside the designated trusted workspace boundary",
-        "The attack vector doesn't require elevated permissions — it leverages how the extension resolves file paths",
-        "Anthropic has been notified; no patch status was confirmed at time of publication"
-      ],
-      "implications": "Teams using Claude Code or similar AI coding extensions on machines with sensitive files outside the project directory should audit their workspace configurations. Treat AI coding tools as having broad implicit file access until sandboxing is verified.",
-      "tags": [
-        "AI tools",
         "Security",
-        "Developer Tools"
+        "Vulnerability Management",
+        "Engineering"
       ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": null,
-      "source": "GBHackers News",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0Q1NDS3NESXBFM19CMmZKa2R4WUdLYjA1S0dvbUdLQmFweGlKUkg5OVlWaTJvWWJKY041ZmdLUmx0bW9Hdlh1SExiSVJUT2lvRWpXeU5ORdIBXEFVX3lxTE92bEo0STRFWmY5c1NiVGIzdktKVXRQQ19GS1hRQXJfQ1Y4dFJZRUpWOHpiX21wTnMtUHBWLXNEOXZEWUVoa29SeW5rZDdST3JrVVhmUUxCQWxnT3ZS?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 14:21:14 GMT"
+      "image": "https://cdn-images-1.medium.com/max/2600/0*dIM76WMoWk7nJ1qz",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@admin_59371/your-ai-product-photos-look-fake-here-are-5-things-to-check-1bd56e1d84c1?source=rss------product_design-5",
+      "pubDate": "Tue, 17 Nov 2026 20:12:02 GMT"
     },
     {
-      "headline": "Interaction and narrative design drive VR museum experience quality",
-      "background": "VR museums are growing as cultural institutions experiment with immersive formats, but there's limited empirical research on which design factors actually drive positive user experience in these environments versus traditional digital interfaces.",
+      "headline": "AI accelerates builds, but accessibility testing hasn't caught up.",
+      "background": "AI-assisted development tools have meaningfully compressed build timelines, but accessibility QA practices have not evolved at the same pace. New research is surfacing a widening gap between delivery speed and accessibility compliance.",
       "keyFindings": [
-        "User interaction quality, perceived narrative coherence, and spatiotemporal organization each independently predicted positive UX outcomes in VR museum settings",
-        "Narrative quality had the strongest association with overall satisfaction, outweighing visual fidelity factors",
-        "Spatiotemporal organization — how space and time are structured in the virtual environment — is an underexamined but significant UX variable"
+        "Teams using AI-accelerated workflows are shipping faster, but accessibility defects are increasing as QA processes lag behind.",
+        "Research identifies a distinction between teams whose accessibility efforts keep pace and those that don't, centered on embedding human judgment at key workflow checkpoints.",
+        "Automated accessibility tools alone are insufficient to catch the range of issues introduced by AI-generated code and components."
       ],
-      "implications": "For teams designing VR or immersive experiences, investing in narrative structure and wayfinding logic may yield higher UX returns than pushing graphical quality. The findings are from museum contexts specifically and may not generalize directly to task-oriented VR applications.",
+      "implications": "If your team has adopted AI coding or design tools, your accessibility QA process likely needs a parallel update. The fix isn't slowing delivery — it's restructuring where human review sits in the pipeline, particularly around component generation and automated output.",
       "tags": [
-        "VR/XR",
-        "Spatial Design",
-        "Research"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83eEVqSG8xTXlicjlHX0dvN2NSSjdLaVRjNm1KQlpLUkw1VUZWY0wxc1pzNnUxVV9qLWhfcnBjbC1rVGFXN0lKNWR2Z0V6YV9YYWs2STNGQVllbDhKdHZB?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 13:08:35 GMT"
-    },
-    {
-      "headline": "Nielsen's UX roundup: seamful design and AI design briefs",
-      "background": "Jakob Nielsen's periodic roundups synthesize multiple UX debates at once. This edition touches on AI's role in answering design briefs, the concept of seamful design (intentionally exposing system seams), and practical UI patterns like toggle groups.",
-      "keyFindings": [
-        "Nielsen signals concern about 'AI-human synergy' narratives, suggesting the framing may obscure where AI actually underperforms versus human designers",
-        "Seamful design — making system constraints visible rather than hiding them — is presented as a viable alternative to seamless UX in certain contexts",
-        "Input format flexibility (e.g., accepting multiple date or phone number formats) is highlighted as an overlooked usability win"
-      ],
-      "implications": "The input format flexibility point is immediately actionable: audit form fields that enforce strict formatting and consider whether validation can accommodate common variants instead of rejecting them. The seamful design framing is worth tracking as AI systems make more internal logic visible to users.",
-      "tags": [
-        "Forms",
+        "Accessibility",
         "AI tools",
-        "Design Patterns"
+        "QA"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*tJq_s3hZKEzKeTcVkcsDtQ.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@hello_99719/beyond-figma-how-learning-css-changed-the-way-i-design-26edcb71f858?source=rss------product_design-5",
+      "pubDate": "Tue, 17 Nov 2026 20:08:34 GMT"
+    },
+    {
+      "headline": "Users know what AI costs them and use it anyway.",
+      "background": "There's growing tension between reported user satisfaction with AI tools and behavioral evidence of over-reliance, skill erosion, and time loss. AnswerLab's research probes whether users have genuine awareness of these tradeoffs.",
+      "keyFindings": [
+        "Users in AnswerLab's research could articulate specific costs of AI use — including time wasted, errors introduced, and skill atrophy — yet continued using AI tools regardless.",
+        "The pattern suggests awareness of harm does not function as a corrective in AI tool adoption, unlike in many other product categories.",
+        "This behavioral gap has implications for how AI products should be designed around transparency and correction rather than assuming informed user agency."
+      ],
+      "implications": "For AI product designers, this finding undercuts the assumption that surfacing costs or risks will drive better usage behavior. Design interventions may need to be structural — defaults, friction, or guardrails — rather than informational.",
+      "tags": [
+        "AI tools",
+        "User Behavior",
+        "Product Design"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Jakob Nielsen on UX",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44cHV0UVl3Z3llU1VkSWZfRzNDMjZiWjBtVk9McDg0OXRVbHUwWFJaLW5sQWVhbmZFWlJaWUdUcU94UFpCcVl0MG9Wdzh4OEdTc0NCZFUtNUQyRlpENVVLeGtLWVM3WmtFVVE?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 12:21:32 GMT"
+      "source": "VMblog",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTmtmeFY3Mm9zNVNfZHhXQmVJaHBuR2xtYkNvYUZ4OUlhLVNMRVRTRk8wN1M0aXBDUDJPWXZKU2g1N0ZWZkN4cngzdDh5ODZkM3BFNUZRYjVNRTVBZ1lsZUtYUjNNTExnRHlvSERDZnVhd3V0RWVHZnRmQlBUM2NiWDZkd2xmbmV3T3luTDhjOVhXOWo0WFBKc1Y4QmlkYjM1bHUxMm9qMW9uVVV6bklIdU0xRk84LW1BS2U0ZGlXc1RwYlNGdW5HSUY2ZTRHUGhJY3VOTFhHVDB6cFV0?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 20:00:47 GMT"
     },
     {
-      "headline": "DNA sequencing market forecast: not relevant to this digest",
-      "background": "This article covers the targeted DNA/RNA sequencing industry forecast through 2035, focused on oncology and liquid biopsy market growth.",
+      "headline": "Prototypes are now the spec, not a step before it.",
+      "background": "The traditional product workflow separates specification documents from prototypes, treating specs as prerequisites to building. As AI tools reduce the cost of producing working versions, that sequencing is breaking down.",
       "keyFindings": [
-        "No UX, product, or technology findings applicable to this digest's scope",
-        "Content is a market research report for life sciences investors and industry analysts",
-        "Included in input but outside editorial remit"
+        "When a working prototype costs an afternoon to produce, it functionally replaces written specs as the most accurate artifact of intended behavior.",
+        "The piece argues that prototypes have always been more effective specifications than documents, and low-cost tooling has simply made this structural advantage visible.",
+        "Teams that still require formal spec documents before prototyping are adding process overhead that no longer reflects actual information value."
       ],
-      "implications": "No actionable implications for UX, product, or tech practitioners.",
+      "implications": "Product and design teams should audit whether their current spec-first workflows are habit rather than necessity. For many teams, moving to prototype-first with lightweight annotations will reduce handoff friction without sacrificing clarity.",
       "tags": [
-        "Out of Scope"
+        "Prototyping",
+        "Product Workflow",
+        "Design Process"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2000/1*0-aD1rfjLM1wz_vxAi4mcg.png",
+      "source": "UX on Medium",
+      "link": "https://uxdesign.cc/prototypes-have-always-been-the-most-effective-specification-10162107b2ee?source=rss------ux-5",
+      "pubDate": "Tue, 17 Nov 2026 19:51:09 GMT"
+    },
+    {
+      "headline": "Learning CSS made this designer rethink how they design.",
+      "background": "The 'design-to-dev handoff' model has been criticized for creating communication gaps, rework, and designs that don't account for how browsers actually render layouts. Some designers are responding by learning front-end code directly.",
+      "keyFindings": [
+        "The author found that understanding CSS constraints changed design decisions at the wireframe stage, not just during handoff.",
+        "Specific CSS concepts — like the box model, flex behavior, and cascade — reshaped how the designer approached spacing, alignment, and component structure.",
+        "The shift reduced back-and-forth with developers by making designs inherently more implementable."
+      ],
+      "implications": "For UX designers who've avoided code, this is a case for targeted CSS literacy rather than full front-end development skills. Even a working knowledge of layout properties can improve design decisions and reduce implementation friction.",
+      "tags": [
+        "Design-Dev Handoff",
+        "CSS",
+        "Designer Skills"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT0RSeTMxT1ItMm5HbVl1N0JHU0lUbm1ZeTQ3bDVqMHJiR1ppRDNSN044ajUtU2NJel9OcTFaRlNVSTFnSzNDeG5TeVNHc3RKUVg4UDJxdy1FUV9EUzg0SjI3M3NzNFI3Z1lhQTlTRGw5Z3ZFT2Q3TTJTbWdpLW5tUFBrQmpWQl84a3BlNVd2UmdPXzZKRE1KYXFFWmMzZmtqM0lqaEVtT01MMHZ1c0JrZHUwU3hRcXhhRzZMcmxNbEFERm1XS0pLbndXb200dDhnYkNF?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 05:31:08 GMT"
+      "source": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTXV3Z1ZOOUhjQUJoMnh5SzlRUldEckFFeDVsUUYtRTFBUVc0ZkItdjEwVDhUa1d5dEtyY2VJMVAzSEZxSkZ2b0lSYU9xbjRtelZyR3pfUENkV2JXb09nQ0c5WHQ5aU94OWRsSGx3MmJkVks3aEw4cS1BUWZZbVZqVDFNMUUtU29zLUg4OFp3azY2YjRSSnFjZmVqZF9taDAwOFpjS0FIV0FkRl9NT0hBRVFiTVhuTnlFZ0p2cnFwaHV5bFFjNVJPM2JBZUlnNVRVcjFqWG1YOWNtc3BjVkxjaWpNTUxEUV91Q1E?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 14:00:00 GMT"
     },
     {
-      "headline": "11 UX certifications and bootcamps compared by skill level",
-      "background": "The UX education market is crowded and inconsistently credentialed, making it hard for practitioners or career-switchers to evaluate which programs offer genuine skill development versus credential signaling.",
+      "headline": "Five reasons your AI product photos still look fake.",
+      "background": "AI-generated product photography has become a cost-effective alternative to studio shoots, but adoption has exposed a gap between technically plausible images and ones that actually read as credible to consumers.",
       "keyFindings": [
-        "The list spans self-paced online certifications to intensive bootcamps, covering entry-level through mid-career practitioners",
-        "Coursera's own programs are included alongside third-party options, which introduces potential editorial bias in how programs are ranked or described",
-        "No independent outcome data (employment rates, salary changes) is cited to support recommendations"
+        "Common tells include inconsistent shadow direction, unnatural surface reflections, and object edges that don't integrate with backgrounds.",
+        "Even high-resolution AI outputs fail when lighting context between product and background doesn't match the same implied light source.",
+        "Small details — label text rendering, material texture at edges, and depth-of-field inconsistency — are frequently cited failure points."
       ],
-      "implications": "Useful as a starting map of options, but verify any program's outcomes independently before enrolling. The absence of post-program outcome data is a significant gap — prioritize programs with verifiable alumni track records over those with strong marketing.",
+      "implications": "For ecommerce and product teams using AI image generation, a structured QA checklist focused on lighting consistency, edge integration, and material realism will catch most credibility failures before publish. These are learnable review criteria, not subjective judgment calls.",
       "tags": [
-        "UX Education",
-        "Career Development"
+        "AI-generated Images",
+        "Ecommerce",
+        "Visual Design"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Design & dev",
+      "publishedWindow": "today",
+      "image": "http://files.smashing.media/articles/ai-conf/ai-conf-powered-by.png",
+      "source": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "link": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+      "pubDate": "Tue, 17 Nov 2026 12:00:00 GMT"
+    },
+    {
+      "headline": "Generalist roles are losing out to specialist demand.",
+      "background": "The tech hiring market has seen prolonged debate over whether T-shaped generalists or deep specialists are better positioned for employment stability. Recent economic pressures and AI tool adoption are shifting that balance.",
+      "keyFindings": [
+        "The piece argues that AI is absorbing generalist-level tasks, reducing the market value of broad but shallow skill sets.",
+        "Specialist roles in areas like security, ML infrastructure, and accessibility are showing stronger demand signals than cross-functional generalist positions.",
+        "The 'jack of all trades' archetype is described as increasingly vulnerable in a market where AI can replicate generalist output at lower cost."
+      ],
+      "implications": "For people managing career development or hiring in tech, the signal here is to identify which specialist depth your team or personal skill set lacks — rather than optimizing further for breadth. Generalist coverage is increasingly a baseline, not a differentiator.",
+      "tags": [
+        "Tech Careers",
+        "Hiring",
+        "AI Impact"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
-      "publishedWindow": "week",
+      "publishedWindow": "today",
       "image": null,
-      "source": "Coursera",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3lub1ZyYjJoTEswV3VZV3Z4MGdtVTRoTXVNcms0Qk1LVWUyZ0tzSUIxcFMxeEtmYTJvVDVCV05jMTI1TnVQSTJkYW41VWt3anRuNU1SdlNNaVlFZU1JYkZWXzRJLTVsRDNaVGtNaXdseXhYMlVyZ2p6TmhCM3FZalhR?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT"
+      "source": "KVPR",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSGExalM2OGFQUnNyRmdtaTNVaWFIWFBrTTdYVGYtSElwNjNGX19hZkpVRkFfZDJkd1ZNSU1KajJPcUpHMEg3V2FqN2c1d3JLWEZybE81NEpSZkUwdmh0LXdOWXNjQzE4c3ZOM3lJaGhta1NHbnNDV3UwbFlnb2dPSUpZSTM4a01xd3lIdDlPUW5BMmliYkpIejhDNkthTHFJM2dqdFh2N3pkLXI3MThxb3VWZVVNb2xPSlo4V0liOA?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 10:00:00 GMT"
+    },
+    {
+      "headline": "Student team wins second place at MVP competition.",
+      "background": "A student or early-stage team documented their process building toward an MVP presentation for a judged competition. The post is a retrospective on the final preparation week and outcome.",
+      "keyFindings": [
+        "The team focused week 10 on making MVP work concrete and presentable for judges rather than continuing to build features.",
+        "They placed second in the competition, suggesting the MVP met a credible standard of completeness and viability.",
+        "The retrospective format implies lessons about scoping and prioritization under time pressure."
+      ],
+      "implications": "Limited direct applicability for professional practitioners. The post may be useful context for educators or mentors running similar programs, but offers no novel methodology or research.",
+      "tags": [
+        "MVP",
+        "Student Project",
+        "Competition"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Techeconomy",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNjRTdTJPbHQzOTRTRFR1YldmMEQyRG8xMU5EWTZGUHphMC1pb3dtYkk5b1Q0QUdrLVB2dEQxVms0SEVPVkN6am1PejljRUdyeUFkeDNNVVlSV1ZYLTZGMVV2RTdyUGpZaU9zVlJZOVlUM2JQU3NQOE5oS0VXZWpDTUZFa2thcWsxWmdWNFM3bGV5Zw?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 09:47:45 GMT"
+    },
+    {
+      "headline": "Smashing Conference adds AI design systems event for December.",
+      "background": "Conference organizers are responding to demand for structured learning around AI integration in design workflows. Smashing Conference is adding a dedicated online event focused on AI-ready design systems and AI-Figma tooling.",
+      "keyFindings": [
+        "The AI 2027 Conference is scheduled for December 1 and is fully online.",
+        "Topics include AI-ready design systems, AI integration with Figma, and emerging AI design patterns.",
+        "The event is positioned around near-future workflow changes rather than current tooling tutorials."
+      ],
+      "implications": "Worth bookmarking for design system leads and tool-focused designers. The forward-looking framing around 2027 suggests the content will address strategic positioning rather than immediate how-to guidance.",
+      "tags": [
+        "Design Systems",
+        "AI tools",
+        "Conference"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Design & dev",
+      "publishedWindow": "today",
+      "image": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg",
+      "source": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "link": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+      "pubDate": "Tue, 17 Nov 2026 08:00:00 GMT"
     }
   ]
 }
