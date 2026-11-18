@@ -1,235 +1,226 @@
 {
-  "generatedAt": "2026-11-17T20:32:14.381Z",
+  "generatedAt": "2026-11-18T20:03:59.595Z",
   "items": [
     {
-      "headline": "Student test scores rise when phones are locked away.",
-      "background": "Debate over phone bans in schools has intensified as districts weigh academic performance against student autonomy and safety concerns. Researchers have been trying to quantify the actual cognitive impact of phone access during school hours.",
+      "headline": "Draw shirt backs before filming to fix flat-photo gaps.",
+      "background": "E-commerce and tutorial creators often work with product photography that only captures one angle, leaving gaps when demonstrating features that reference physical or spatial attributes of an item. This post describes a practical pre-production workaround developed during tutorial recording.",
       "keyFindings": [
-        "A new study finds a measurable positive correlation between phone lockup policies and improved student test scores.",
-        "The effect suggests passive phone presence — not just active use — may be enough to impair academic performance.",
-        "Results add empirical weight to phone restriction policies already adopted by some school districts."
+        "Flat lay T-shirt photos lack back and side views, creating continuity problems in video tutorials",
+        "The author's solution is to sketch or illustrate missing angles before recording begins, not during editing",
+        "This pre-production step prevents mid-recording interruptions caused by missing visual assets"
       ],
-      "implications": "Relevant for edtech and learning-focused product teams: if ambient device availability reduces cognitive performance, UX that minimizes interruption or enforces focus modes may have real measurable value beyond user preference.",
+      "implications": "Relevant for anyone producing instructional content around physical products with incomplete photography. Building a visual asset checklist before recording — not after — saves significant rework time.",
       "tags": [
-        "EdTech",
-        "Attention",
-        "Research"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*i3gk-DbnaqoKSTXdOkuRPw.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@ajuonumagodswill20/from-mvp-preparation-to-the-judges-table-our-team-came-second-a0f00fc3e995?source=rss------product_design-5",
-      "pubDate": "Tue, 17 Nov 2026 20:19:44 GMT"
-    },
-    {
-      "headline": "18 new vulnerabilities found for every one that gets patched.",
-      "background": "Security teams have long struggled to keep pace with vulnerability disclosure rates, but quantifying the gap has been difficult. Black Duck's new research puts a specific ratio on the remediation deficit for the first time.",
-      "keyFindings": [
-        "Black Duck research shows newly discovered vulnerabilities outpace fixes at an 18-to-1 ratio.",
-        "Exploit windows — the time between vulnerability disclosure and active exploitation — are shrinking, compressing response time for security teams.",
-        "The data implies that prioritization, not just speed, is now the critical variable in vulnerability management."
-      ],
-      "implications": "For product and engineering teams, this ratio makes a strong case for threat modeling and security prioritization frameworks earlier in development rather than relying on patch cycles. Backlog-based remediation strategies are mathematically losing ground.",
-      "tags": [
-        "Security",
-        "Vulnerability Management",
-        "Engineering"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/0*dIM76WMoWk7nJ1qz",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@admin_59371/your-ai-product-photos-look-fake-here-are-5-things-to-check-1bd56e1d84c1?source=rss------product_design-5",
-      "pubDate": "Tue, 17 Nov 2026 20:12:02 GMT"
-    },
-    {
-      "headline": "AI accelerates builds, but accessibility testing hasn't caught up.",
-      "background": "AI-assisted development tools have meaningfully compressed build timelines, but accessibility QA practices have not evolved at the same pace. New research is surfacing a widening gap between delivery speed and accessibility compliance.",
-      "keyFindings": [
-        "Teams using AI-accelerated workflows are shipping faster, but accessibility defects are increasing as QA processes lag behind.",
-        "Research identifies a distinction between teams whose accessibility efforts keep pace and those that don't, centered on embedding human judgment at key workflow checkpoints.",
-        "Automated accessibility tools alone are insufficient to catch the range of issues introduced by AI-generated code and components."
-      ],
-      "implications": "If your team has adopted AI coding or design tools, your accessibility QA process likely needs a parallel update. The fix isn't slowing delivery — it's restructuring where human review sits in the pipeline, particularly around component generation and automated output.",
-      "tags": [
-        "Accessibility",
-        "AI tools",
-        "QA"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*tJq_s3hZKEzKeTcVkcsDtQ.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@hello_99719/beyond-figma-how-learning-css-changed-the-way-i-design-26edcb71f858?source=rss------product_design-5",
-      "pubDate": "Tue, 17 Nov 2026 20:08:34 GMT"
-    },
-    {
-      "headline": "Users know what AI costs them and use it anyway.",
-      "background": "There's growing tension between reported user satisfaction with AI tools and behavioral evidence of over-reliance, skill erosion, and time loss. AnswerLab's research probes whether users have genuine awareness of these tradeoffs.",
-      "keyFindings": [
-        "Users in AnswerLab's research could articulate specific costs of AI use — including time wasted, errors introduced, and skill atrophy — yet continued using AI tools regardless.",
-        "The pattern suggests awareness of harm does not function as a corrective in AI tool adoption, unlike in many other product categories.",
-        "This behavioral gap has implications for how AI products should be designed around transparency and correction rather than assuming informed user agency."
-      ],
-      "implications": "For AI product designers, this finding undercuts the assumption that surfacing costs or risks will drive better usage behavior. Design interventions may need to be structural — defaults, friction, or guardrails — rather than informational.",
-      "tags": [
-        "AI tools",
-        "User Behavior",
-        "Product Design"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "VMblog",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTmtmeFY3Mm9zNVNfZHhXQmVJaHBuR2xtYkNvYUZ4OUlhLVNMRVRTRk8wN1M0aXBDUDJPWXZKU2g1N0ZWZkN4cngzdDh5ODZkM3BFNUZRYjVNRTVBZ1lsZUtYUjNNTExnRHlvSERDZnVhd3V0RWVHZnRmQlBUM2NiWDZkd2xmbmV3T3luTDhjOVhXOWo0WFBKc1Y4QmlkYjM1bHUxMm9qMW9uVVV6bklIdU0xRk84LW1BS2U0ZGlXc1RwYlNGdW5HSUY2ZTRHUGhJY3VOTFhHVDB6cFV0?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 20:00:47 GMT"
-    },
-    {
-      "headline": "Prototypes are now the spec, not a step before it.",
-      "background": "The traditional product workflow separates specification documents from prototypes, treating specs as prerequisites to building. As AI tools reduce the cost of producing working versions, that sequencing is breaking down.",
-      "keyFindings": [
-        "When a working prototype costs an afternoon to produce, it functionally replaces written specs as the most accurate artifact of intended behavior.",
-        "The piece argues that prototypes have always been more effective specifications than documents, and low-cost tooling has simply made this structural advantage visible.",
-        "Teams that still require formal spec documents before prototyping are adding process overhead that no longer reflects actual information value."
-      ],
-      "implications": "Product and design teams should audit whether their current spec-first workflows are habit rather than necessity. For many teams, moving to prototype-first with lightweight annotations will reduce handoff friction without sacrificing clarity.",
-      "tags": [
-        "Prototyping",
-        "Product Workflow",
-        "Design Process"
+        "Content Production",
+        "E-commerce",
+        "Instructional Design"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2000/1*0-aD1rfjLM1wz_vxAi4mcg.png",
+      "image": "https://cdn-images-1.medium.com/max/1440/0*yI6xWZwo22-ip4NX.jpg",
       "source": "UX on Medium",
-      "link": "https://uxdesign.cc/prototypes-have-always-been-the-most-effective-specification-10162107b2ee?source=rss------ux-5",
-      "pubDate": "Tue, 17 Nov 2026 19:51:09 GMT"
+      "link": "https://medium.com/@ref_vid/a-flat-t-shirt-photo-has-no-back-or-sides-so-we-draw-them-before-the-video-starts-a459b13742c1?source=rss------ux-5",
+      "pubDate": "Wed, 18 Nov 2026 19:43:55 GMT"
     },
     {
-      "headline": "Learning CSS made this designer rethink how they design.",
-      "background": "The 'design-to-dev handoff' model has been criticized for creating communication gaps, rework, and designs that don't account for how browsers actually render layouts. Some designers are responding by learning front-end code directly.",
+      "headline": "How parenthood drove one designer to rethink voice UI.",
+      "background": "Voice interfaces have existed for years on mobile, but desktop app voice mode remains underdesigned and underexplored. Most design guidance assumes a touch or keyboard context, leaving voice interaction patterns for desktop largely undocumented.",
       "keyFindings": [
-        "The author found that understanding CSS constraints changed design decisions at the wireframe stage, not just during handoff.",
-        "Specific CSS concepts — like the box model, flex behavior, and cascade — reshaped how the designer approached spacing, alignment, and component structure.",
-        "The shift reduced back-and-forth with developers by making designs inherently more implementable."
+        "The author began using voice mode out of necessity as a parent with limited hands-free time, not by choice",
+        "Desktop voice UI requires different affordances than mobile — persistent visibility of activation state matters more on larger screens",
+        "Key design challenges include discoverability of voice mode and managing interruption states in multi-window environments"
       ],
-      "implications": "For UX designers who've avoided code, this is a case for targeted CSS literacy rather than full front-end development skills. Even a working knowledge of layout properties can improve design decisions and reduce implementation friction.",
+      "implications": "If you're designing desktop productivity tools, voice interaction is no longer a fringe case — caregivers, accessibility users, and power users are reaching for it. Consider persistent status indicators and graceful interruption handling as baseline requirements.",
       "tags": [
-        "Design-Dev Handoff",
-        "CSS",
-        "Designer Skills"
+        "Voice UI",
+        "Desktop Design",
+        "Accessibility"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1512/1*BslNPWaR5dDDCtl9u-M-WA.jpeg",
+      "source": "UX on Medium",
+      "link": "https://briefs.aiadvances.org/designing-voice-mode-for-desktop-apps-bd890d3dc3d5?source=rss------ux-5",
+      "pubDate": "Wed, 18 Nov 2026 19:17:17 GMT"
+    },
+    {
+      "headline": "Build search demand before your product launches, not after.",
+      "background": "Most marketing and SEO efforts begin at or after product launch, meaning brands spend the early weeks of a release with no existing search visibility or indexed content. This piece argues that search demand can and should be seeded during pre-launch.",
+      "keyFindings": [
+        "Waiting until launch day to start SEO means Google has no indexed content to surface when demand spikes",
+        "Pre-launch content strategies — including problem-focused landing pages and informational blog content — can begin building domain authority months earlier",
+        "Search interest can be stimulated before a product exists by targeting adjacent problem queries rather than product-name queries"
+      ],
+      "implications": "For product and growth teams: coordinate with SEO and content earlier in the roadmap, not at the go-to-market phase. Pre-launch landing pages targeting problem-space queries are a low-cost way to validate interest and build indexing simultaneously.",
+      "tags": [
+        "SEO",
+        "Product Launch",
+        "Growth"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*gmT1ND0bOGdZU_VJ2kNpkg.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@osamaarshadppvtltd/search-demand-before-the-launch-how-brands-can-build-interest-before-a-product-exists-54dea9bce4cc?source=rss------product_design-5",
+      "pubDate": "Wed, 18 Nov 2026 17:58:23 GMT"
+    },
+    {
+      "headline": "63 clicks, zero conversions: what a failed landing page taught about validation.",
+      "background": "Fake door and landing page tests are a common lean validation method, but many practitioners treat ad click-through as sufficient proof of demand. This post is a first-person account of a 2020 test that exposed a gap between traffic and actual intent.",
+      "keyFindings": [
+        "63 paid ad clicks to a landing page produced zero conversions, despite the ads themselves performing well by standard metrics",
+        "The disconnect was between the ad promise and the landing page's ability to communicate the product's value clearly enough to prompt action",
+        "The author concludes that click-through rate alone is not a reliable signal of product-market fit — conversion on the page is the real test"
+      ],
+      "implications": "When running pre-build validation tests, clicks are a weak signal. Design your landing page to require a meaningful commitment — email signup, waitlist join, or simulated purchase — before treating the data as validation. Optimize both the ad and the page as a system.",
+      "tags": [
+        "Validation",
+        "Landing Pages",
+        "Lean UX"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1280/1*P1rcx2tU8M5HSrpAZn8Kpw.jpeg",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@sebastianbalderas/zero-conversions-on-63-clicks-f1be35bc1077?source=rss------ux-5",
+      "pubDate": "Wed, 18 Nov 2026 17:49:00 GMT"
+    },
+    {
+      "headline": "NOKADY IT Academy opens new design course enrollment.",
+      "background": "A training academy announcement with no substantive detail about curriculum, methodology, or outcomes.",
+      "keyFindings": [
+        "NOKADY IT Academy is opening enrollment for design courses",
+        "No curriculum details or course structure are provided in the available snippet"
+      ],
+      "implications": "No actionable information for UX or product practitioners. Not enough detail to evaluate relevance.",
+      "tags": [
+        "Design Education",
+        "Training"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTXV3Z1ZOOUhjQUJoMnh5SzlRUldEckFFeDVsUUYtRTFBUVc0ZkItdjEwVDhUa1d5dEtyY2VJMVAzSEZxSkZ2b0lSYU9xbjRtelZyR3pfUENkV2JXb09nQ0c5WHQ5aU94OWRsSGx3MmJkVks3aEw4cS1BUWZZbVZqVDFNMUUtU29zLUg4OFp3azY2YjRSSnFjZmVqZF9taDAwOFpjS0FIV0FkRl9NT0hBRVFiTVhuTnlFZ0p2cnFwaHV5bFFjNVJPM2JBZUlnNVRVcjFqWG1YOWNtc3BjVkxjaWpNTUxEUV91Q1E?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 14:00:00 GMT"
+      "source": "Turkmenportal.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVl0OHN5WkpWRThvZXBpQmtUMVJMNUlwY2daUG1nc3o0QU05RWgtWE9kZGhnbmhXYk1zLWEtTW5RQlpIZVlTQ2duQVlZR2xORkVfczEyTGdPenI5d1lrekVRMW5NZEgtUWROT1AyVFYxU2JVaGdIbGZUZTgzWFhXbHhpR2wzR0Z3eElGVWpodDlDNkRLV2pnaExoSmlaWVBEV211S2dzcw?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 12:26:56 GMT"
     },
     {
-      "headline": "Five reasons your AI product photos still look fake.",
-      "background": "AI-generated product photography has become a cost-effective alternative to studio shoots, but adoption has exposed a gap between technically plausible images and ones that actually read as credible to consumers.",
+      "headline": "Fraser Insights launches as Canadian research and strategy firm.",
+      "background": "A new research and strategic advisory business has launched in Canada, targeting presumably enterprise or brand research clients.",
       "keyFindings": [
-        "Common tells include inconsistent shadow direction, unnatural surface reflections, and object edges that don't integrate with backgrounds.",
-        "Even high-resolution AI outputs fail when lighting context between product and background doesn't match the same implied light source.",
-        "Small details — label text rendering, material texture at edges, and depth-of-field inconsistency — are frequently cited failure points."
+        "Fraser Insights is a newly launched Canadian research and strategic advisory firm",
+        "No detail on specialization, methodology, or target sectors is available from the snippet"
       ],
-      "implications": "For ecommerce and product teams using AI image generation, a structured QA checklist focused on lighting consistency, edge integration, and material realism will catch most credibility failures before publish. These are learnable review criteria, not subjective judgment calls.",
+      "implications": "Worth monitoring if you work in Canadian market research or need a new advisory vendor, but no actionable detail is currently available.",
       "tags": [
-        "AI-generated Images",
-        "Ecommerce",
-        "Visual Design"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Design & dev",
-      "publishedWindow": "today",
-      "image": "http://files.smashing.media/articles/ai-conf/ai-conf-powered-by.png",
-      "source": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "link": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
-      "pubDate": "Tue, 17 Nov 2026 12:00:00 GMT"
-    },
-    {
-      "headline": "Generalist roles are losing out to specialist demand.",
-      "background": "The tech hiring market has seen prolonged debate over whether T-shaped generalists or deep specialists are better positioned for employment stability. Recent economic pressures and AI tool adoption are shifting that balance.",
-      "keyFindings": [
-        "The piece argues that AI is absorbing generalist-level tasks, reducing the market value of broad but shallow skill sets.",
-        "Specialist roles in areas like security, ML infrastructure, and accessibility are showing stronger demand signals than cross-functional generalist positions.",
-        "The 'jack of all trades' archetype is described as increasingly vulnerable in a market where AI can replicate generalist output at lower cost."
-      ],
-      "implications": "For people managing career development or hiring in tech, the signal here is to identify which specialist depth your team or personal skill set lacks — rather than optimizing further for breadth. Generalist coverage is increasingly a baseline, not a differentiator.",
-      "tags": [
-        "Tech Careers",
-        "Hiring",
-        "AI Impact"
+        "Market Research",
+        "Strategic Advisory"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "KVPR",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSGExalM2OGFQUnNyRmdtaTNVaWFIWFBrTTdYVGYtSElwNjNGX19hZkpVRkFfZDJkd1ZNSU1KajJPcUpHMEg3V2FqN2c1d3JLWEZybE81NEpSZkUwdmh0LXdOWXNjQzE4c3ZOM3lJaGhta1NHbnNDV3UwbFlnb2dPSUpZSTM4a01xd3lIdDlPUW5BMmliYkpIejhDNkthTHFJM2dqdFh2N3pkLXI3MThxb3VWZVVNb2xPSlo4V0liOA?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 10:00:00 GMT"
+      "source": "Research Live",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU0RjMldlcEtvWFRpUnZ2LUdyYWVaTk5ReWxEQzhFZDgwdE9LekZrWnBiZ1hlV1ExaWcwUjVoOFV4QjFIT0htTEt5NjFyZFM5MllUQmlIdEVPdjIxSm5sWGc2eHZBRzFfM1JuX3pWZVBpQkVsbU1STzZVVFI0TU9QaU5EdlBOWlo0RUhkWU9RUXVwOFkxZTZ6dS1rMGNfTDFuSHRPbjRsLTVFT2FZMFFmS2d6bXdrYkVnY2pRdnhWZmF3YVp3b0Rj?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 10:38:34 GMT"
     },
     {
-      "headline": "Student team wins second place at MVP competition.",
-      "background": "A student or early-stage team documented their process building toward an MVP presentation for a judged competition. The post is a retrospective on the final preparation week and outcome.",
+      "headline": "Junkies Coder expands mobile dev services to Saudi Arabia and UAE.",
+      "background": "A press release announcing geographic expansion of a mobile app development services company into the Gulf region.",
       "keyFindings": [
-        "The team focused week 10 on making MVP work concrete and presentable for judges rather than continuing to build features.",
-        "They placed second in the competition, suggesting the MVP met a credible standard of completeness and viability.",
-        "The retrospective format implies lessons about scoping and prioritization under time pressure."
+        "Junkies Coder is extending mobile app development services to Saudi Arabia and the UAE",
+        "No technical specializations, platform focus, or project types are specified in the available snippet"
       ],
-      "implications": "Limited direct applicability for professional practitioners. The post may be useful context for educators or mentors running similar programs, but offers no novel methodology or research.",
+      "implications": "Of potential relevance only if you're sourcing mobile development partners in the Gulf region. No design or UX methodology detail available.",
       "tags": [
-        "MVP",
-        "Student Project",
-        "Competition"
+        "Mobile Development",
+        "MENA Tech"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Techeconomy",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNjRTdTJPbHQzOTRTRFR1YldmMEQyRG8xMU5EWTZGUHphMC1pb3dtYkk5b1Q0QUdrLVB2dEQxVms0SEVPVkN6am1PejljRUdyeUFkeDNNVVlSV1ZYLTZGMVV2RTdyUGpZaU9zVlJZOVlUM2JQU3NQOE5oS0VXZWpDTUZFa2thcWsxWmdWNFM3bGV5Zw?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 09:47:45 GMT"
+      "source": "openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMlBJN0lmY1NCRVV4bW1qTngtYUtFeXVCREZfNG5QWWxTNW9yOHNCY281SnVTd1I2d2pFR0xSeW1uQ3U3YWMya3gzMjhZVnZtcjZFNWp4dmk5UURnYTlRejFZcjdRMDFTR1BDcHNVbWVZMzN0WVY5M1JRbUlQbXVCZFNDN2ttVnk1YmtNcWtlb1RKa0Qwd2JDWktGSng?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 09:12:01 GMT"
     },
     {
-      "headline": "Smashing Conference adds AI design systems event for December.",
-      "background": "Conference organizers are responding to demand for structured learning around AI integration in design workflows. Smashing Conference is adding a dedicated online event focused on AI-ready design systems and AI-Figma tooling.",
+      "headline": "Sterling Bank and Google offer fully funded tech certifications for women.",
+      "background": "Access to formal tech credentials remains uneven across gender and geography, particularly in emerging markets. Fully funded programs targeting underrepresented groups are a recurring mechanism to address this gap.",
       "keyFindings": [
-        "The AI 2027 Conference is scheduled for December 1 and is fully online.",
-        "Topics include AI-ready design systems, AI integration with Figma, and emerging AI design patterns.",
-        "The event is positioned around near-future workflow changes rather than current tooling tutorials."
+        "The program is 100% fully funded for women applicants",
+        "It is associated with Google Career Certificates, which cover job-ready skills in IT, UX, data, and project management",
+        "The program targets applicants in the Global South with a 2027 enrollment cycle"
       ],
-      "implications": "Worth bookmarking for design system leads and tool-focused designers. The forward-looking framing around 2027 suggests the content will address strategic positioning rather than immediate how-to guidance.",
+      "implications": "If you mentor early-career women in tech or UX in eligible regions, this is a concrete resource to share. Google Career Certificates have documented employer recognition and are a legitimate pathway into UX research and product roles.",
       "tags": [
-        "Design Systems",
-        "AI tools",
-        "Conference"
+        "Design Education",
+        "Diversity in Tech",
+        "Career Development"
       ],
       "featured": false,
       "type": "research",
-      "category": "Design & dev",
+      "category": "Industry news",
       "publishedWindow": "today",
-      "image": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg",
-      "source": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "link": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
-      "pubDate": "Tue, 17 Nov 2026 08:00:00 GMT"
+      "image": null,
+      "source": "Global South Opportunities",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlZVpJSVhEazlIX0lvTFRwaVZMTEZBazVaTUpCRWppak1sSXhzdG9BWEhYNm4wUmJIcEUxQk9mc0JKaWZNQTNGeFhfNmtsNExwUXdTNzZsakItS09zYjVSMUlaM2tpZUlPYndhNFVn?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 08:41:04 GMT"
+    },
+    {
+      "headline": "Article title is garbled — content appears unrelated to UX practice.",
+      "background": "The title 'UX Movement Within Algorithmic Entry Frameworks' appears on a stock trading publication, suggesting either a misclassification or deliberate use of UX terminology in a financial context.",
+      "keyFindings": [
+        "The source is Stock Traders Daily, not a UX or tech publication",
+        "The snippet provides no UX-relevant content",
+        "The title appears to use 'UX' as financial jargon unrelated to user experience design"
+      ],
+      "implications": "Not relevant to UX, product, or tech practice. Likely a miscategorized or mislabeled article from financial media.",
+      "tags": [
+        "Miscategorized Content"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRzltaFJuUTFGbDJpaU4xb29iYU1HZU5rclhUU3RtV0VMQzFBNUFfRlVSY1YxX2ZMY3NYZllCQXpmNlYycW45dGliczUxd0htZElJVVNOd0VsUFN6ajBZZEhDa295ZXdVMXppS3l4R0ZtdWZDMEZfemtrcGVSM2lBdU9Ka1R6cFJJeU9abE9tVjZkTUdQd3hHVVNMdXlWQVZMdzZVYkdtMkJ3TnBYZENET01rbTBZejJOUHFacHJCTmdfWlNlQmc?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 03:22:02 GMT"
+    },
+    {
+      "headline": "IIT Delhi vs IIT Bombay design programs compared.",
+      "background": "India's IIT institutions offer design programs that are increasingly competitive, but prospective students often lack a clear side-by-side comparison of curriculum focus, entry requirements, and career outcomes between campuses.",
+      "keyFindings": [
+        "IIT Delhi and IIT Bombay both offer design programs but differ in curriculum structure and specialization tracks",
+        "The comparison is published by an education marketing platform, so editorial independence should be considered",
+        "No specific outcome data — placement rates, alumni roles — is cited in the available snippet"
+      ],
+      "implications": "Useful context if you're advising students on design education pathways in India, but verify details directly with institutions given the source's commercial nature.",
+      "tags": [
+        "Design Education",
+        "India Tech"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Jaro Education",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NeHducnM4czA5WlNPM1A2aS1kTHZsZ1MtVWZhTWw1d01GWmlfQ3gzRDluZGFhdkhmYU5QVWs4Q21tT1gyR3AtSDBDODAzQ0RZcFA0UzlMOHQ0b3l6THFNU3JrVGcyVEg4ZHNqdHZGTXdZdw?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 17:22:38 GMT"
     }
   ]
 }
