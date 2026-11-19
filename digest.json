@@ -1,226 +1,229 @@
 {
-  "generatedAt": "2026-11-18T20:03:59.595Z",
+  "generatedAt": "2026-11-19T20:02:24.110Z",
   "items": [
     {
-      "headline": "Draw shirt backs before filming to fix flat-photo gaps.",
-      "background": "E-commerce and tutorial creators often work with product photography that only captures one angle, leaving gaps when demonstrating features that reference physical or spatial attributes of an item. This post describes a practical pre-production workaround developed during tutorial recording.",
+      "headline": "CRM dashboard design: projects, tasks, revenue unified",
+      "background": "CRM tools often fragment project tracking, task management, and revenue visibility across separate views, forcing context-switching. This piece presents a design case study attempting to consolidate those into a single interface.",
       "keyFindings": [
-        "Flat lay T-shirt photos lack back and side views, creating continuity problems in video tutorials",
-        "The author's solution is to sketch or illustrate missing angles before recording begins, not during editing",
-        "This pre-production step prevents mid-recording interruptions caused by missing visual assets"
+        "Combines project tracking, task management, and revenue data in one dashboard view",
+        "Targets productivity workflows where switching between tools creates friction"
       ],
-      "implications": "Relevant for anyone producing instructional content around physical products with incomplete photography. Building a visual asset checklist before recording — not after — saves significant rework time.",
+      "implications": "Useful as a reference for designers tackling information-dense B2B dashboards, though the snippet offers little methodological detail — treat as a visual inspiration source rather than a research-backed framework.",
       "tags": [
-        "Content Production",
-        "E-commerce",
-        "Instructional Design"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1440/0*yI6xWZwo22-ip4NX.jpg",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@ref_vid/a-flat-t-shirt-photo-has-no-back-or-sides-so-we-draw-them-before-the-video-starts-a459b13742c1?source=rss------ux-5",
-      "pubDate": "Wed, 18 Nov 2026 19:43:55 GMT"
-    },
-    {
-      "headline": "How parenthood drove one designer to rethink voice UI.",
-      "background": "Voice interfaces have existed for years on mobile, but desktop app voice mode remains underdesigned and underexplored. Most design guidance assumes a touch or keyboard context, leaving voice interaction patterns for desktop largely undocumented.",
-      "keyFindings": [
-        "The author began using voice mode out of necessity as a parent with limited hands-free time, not by choice",
-        "Desktop voice UI requires different affordances than mobile — persistent visibility of activation state matters more on larger screens",
-        "Key design challenges include discoverability of voice mode and managing interruption states in multi-window environments"
-      ],
-      "implications": "If you're designing desktop productivity tools, voice interaction is no longer a fringe case — caregivers, accessibility users, and power users are reaching for it. Consider persistent status indicators and graceful interruption handling as baseline requirements.",
-      "tags": [
-        "Voice UI",
-        "Desktop Design",
-        "Accessibility"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1512/1*BslNPWaR5dDDCtl9u-M-WA.jpeg",
-      "source": "UX on Medium",
-      "link": "https://briefs.aiadvances.org/designing-voice-mode-for-desktop-apps-bd890d3dc3d5?source=rss------ux-5",
-      "pubDate": "Wed, 18 Nov 2026 19:17:17 GMT"
-    },
-    {
-      "headline": "Build search demand before your product launches, not after.",
-      "background": "Most marketing and SEO efforts begin at or after product launch, meaning brands spend the early weeks of a release with no existing search visibility or indexed content. This piece argues that search demand can and should be seeded during pre-launch.",
-      "keyFindings": [
-        "Waiting until launch day to start SEO means Google has no indexed content to surface when demand spikes",
-        "Pre-launch content strategies — including problem-focused landing pages and informational blog content — can begin building domain authority months earlier",
-        "Search interest can be stimulated before a product exists by targeting adjacent problem queries rather than product-name queries"
-      ],
-      "implications": "For product and growth teams: coordinate with SEO and content earlier in the roadmap, not at the go-to-market phase. Pre-launch landing pages targeting problem-space queries are a low-cost way to validate interest and build indexing simultaneously.",
-      "tags": [
-        "SEO",
-        "Product Launch",
-        "Growth"
+        "CRM design",
+        "Dashboard",
+        "B2B"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*gmT1ND0bOGdZU_VJ2kNpkg.png",
+      "image": "https://cdn-images-1.medium.com/max/1080/1*5AnlQHh9mjj8hxWQkPy5Ag.jpeg",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@osamaarshadppvtltd/search-demand-before-the-launch-how-brands-can-build-interest-before-a-product-exists-54dea9bce4cc?source=rss------product_design-5",
-      "pubDate": "Wed, 18 Nov 2026 17:58:23 GMT"
+      "link": "https://medium.com/@mon14yee/menkir-1173676042d8?source=rss------product_design-5",
+      "pubDate": "Thu, 19 Nov 2026 18:54:47 GMT"
     },
     {
-      "headline": "63 clicks, zero conversions: what a failed landing page taught about validation.",
-      "background": "Fake door and landing page tests are a common lean validation method, but many practitioners treat ad click-through as sufficient proof of demand. This post is a first-person account of a 2020 test that exposed a gap between traffic and actual intent.",
+      "headline": "Four micro-decisions that improve payment approval UX",
+      "background": "Business banking portals often inherit approval flows designed for internal ops teams, not the end users who actually process payments daily. Small interaction choices in these flows have outsized effects on error rates and trust.",
       "keyFindings": [
-        "63 paid ad clicks to a landing page produced zero conversions, despite the ads themselves performing well by standard metrics",
-        "The disconnect was between the ad promise and the landing page's ability to communicate the product's value clearly enough to prompt action",
-        "The author concludes that click-through rate alone is not a reliable signal of product-market fit — conversion on the page is the real test"
+        "Identifies four specific design decisions that reduce friction in a payment approval flow",
+        "Focuses on business banking context where approval errors carry real financial consequence",
+        "Demonstrates that incremental, deliberate choices matter more than wholesale redesigns in regulated interfaces"
       ],
-      "implications": "When running pre-build validation tests, clicks are a weak signal. Design your landing page to require a meaningful commitment — email signup, waitlist join, or simulated purchase — before treating the data as validation. Optimize both the ad and the page as a system.",
+      "implications": "Directly applicable for anyone designing transactional or approval-based flows in fintech or enterprise tools — worth reading for the specificity of its decision breakdowns rather than broad principles.",
       "tags": [
-        "Validation",
-        "Landing Pages",
-        "Lean UX"
+        "Fintech",
+        "Interaction design",
+        "Enterprise UX"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*01-A4AkmkhHz2DSSi2u1ow.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@ahmed.sayed.ux.ui/the-design-work-behind-a-simple-payment-approval-d6cec5c59856?source=rss------product_design-5",
+      "pubDate": "Thu, 19 Nov 2026 18:51:16 GMT"
+    },
+    {
+      "headline": "UX for AI agents means designing beyond the human interface",
+      "background": "Most UX practice assumes a human is the direct consumer of an interface. AI agents that act autonomously on behalf of users — booking, purchasing, communicating — break that assumption entirely, raising questions about what 'usability' even means.",
+      "keyFindings": [
+        "Argues that digital services must now be legible and usable by AI agents, not just human users",
+        "Suggests the field needs new design primitives for machine-readable affordances and permissions",
+        "Frames agent-readiness as an emerging layer of service design separate from traditional UX"
+      ],
+      "implications": "Product and service designers working in any domain where AI assistants may act as proxies — travel, finance, e-commerce — should start thinking about API-layer and permissions design as a UX concern, not just an engineering one.",
+      "tags": [
+        "AI agents",
+        "Service design",
+        "Emerging tech"
       ],
       "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1280/1*P1rcx2tU8M5HSrpAZn8Kpw.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/875/0*ipseiXPD3NmIOI0V",
       "source": "UX on Medium",
-      "link": "https://medium.com/@sebastianbalderas/zero-conversions-on-63-clicks-f1be35bc1077?source=rss------ux-5",
-      "pubDate": "Wed, 18 Nov 2026 17:49:00 GMT"
+      "link": "https://medium.com/@dragonhansara/ux-was-designed-for-people-what-about-ai-agents-3bf90c649374?source=rss------ux-5",
+      "pubDate": "Thu, 19 Nov 2026 18:45:38 GMT"
     },
     {
-      "headline": "NOKADY IT Academy opens new design course enrollment.",
-      "background": "A training academy announcement with no substantive detail about curriculum, methodology, or outcomes.",
+      "headline": "Open banking nav breaks when feature count explodes",
+      "background": "Open banking platforms that expose APIs to third-party apps often start with simple navigation designed for a handful of integrations. As connected app ecosystems grow, the original IA collapses and users lose basic control over their own connections.",
       "keyFindings": [
-        "NOKADY IT Academy is opening enrollment for design courses",
-        "No curriculum details or course structure are provided in the available snippet"
+        "Identifies a specific failure mode: navigation designed for early-stage feature sets doesn't scale to mature open API platforms",
+        "Highlights that critical user actions like disconnecting a third-party app become buried as feature count grows",
+        "Proposes a rethinking of IA based on user control and visibility rather than feature grouping"
       ],
-      "implications": "No actionable information for UX or product practitioners. Not enough detail to evaluate relevance.",
+      "implications": "Relevant for any product team managing a platform with third-party integrations or permissions — the ability for users to audit and revoke access is a trust and compliance issue, not just a convenience one.",
       "tags": [
-        "Design Education",
-        "Training"
+        "Information architecture",
+        "Open banking",
+        "Platform design"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*9FL-_e6FHkvvkK8mk4h2sw.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@ahmed.sayed.ux.ui/you-added-20-open-banking-features-can-customers-still-disconnect-an-app-e1589383c468?source=rss------product_design-5",
+      "pubDate": "Thu, 19 Nov 2026 18:43:34 GMT"
+    },
+    {
+      "headline": "Directory: elder care app development firms in the US",
+      "background": "The elder care technology market has grown with demand for remote monitoring, medication management, and caregiver coordination apps. Buyers evaluating development partners have limited structured resources for comparing vendors.",
+      "keyFindings": [
+        "Lists nine US-based companies specializing in elder care app development",
+        "Sourced from WhaTech, a vendor directory — selection methodology is not editorially independent"
+      ],
+      "implications": "Useful as a starting-point vendor list, but treat rankings with caution — directory listings of this type are frequently paid placements. Independent vetting is essential before engaging any firm.",
+      "tags": [
+        "Elder care",
+        "App development",
+        "Vendor directory"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Turkmenportal.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVl0OHN5WkpWRThvZXBpQmtUMVJMNUlwY2daUG1nc3o0QU05RWgtWE9kZGhnbmhXYk1zLWEtTW5RQlpIZVlTQ2duQVlZR2xORkVfczEyTGdPenI5d1lrekVRMW5NZEgtUWROT1AyVFYxU2JVaGdIbGZUZTgzWFhXbHhpR2wzR0Z3eElGVWpodDlDNkRLV2pnaExoSmlaWVBEV211S2dzcw?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 12:26:56 GMT"
+      "source": "WhaTech",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcHIyMkhUVGtCSndYbEZGQ01CS05acmcxUDlwV3hQR2RBQ3RDNWg1TE5wblA5OGk0dGxNaEFMYXZFbGloT3dJMjFWUi0tZzF5MjJVZlQ0Ri1kZkxWVFNURElSQmZoanloWU5CRXU4VFM5NGhZeFVQYXh0dTNWYi1BWGc3eU56cmQyVy0yT1dtMWhwaHpWZlZwNUxLeTcwZy1yQjI2ZnkwZEhIQdIBqgFBVV95cUxOcHIyMkhUVGtCSndYbEZGQ01CS05acmcxUDlwV3hQR2RBQ3RDNWg1TE5wblA5OGk0dGxNaEFMYXZFbGloT3dJMjFWUi0tZzF5MjJVZlQ0Ri1kZkxWVFNURElSQmZoanloWU5CRXU4VFM5NGhZeFVQYXh0dTNWYi1BWGc3eU56cmQyVy0yT1dtMWhwaHpWZlZwNUxLeTcwZy1yQjI2ZnkwZEhIQQ?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 14:13:48 GMT"
     },
     {
-      "headline": "Fraser Insights launches as Canadian research and strategy firm.",
-      "background": "A new research and strategic advisory business has launched in Canada, targeting presumably enterprise or brand research clients.",
+      "headline": "Directory: salon app development companies in the US",
+      "background": "Salon and beauty booking apps represent a crowded, commoditized vertical, with many development shops offering templated solutions. Buyers often struggle to distinguish specialists from generalists.",
       "keyFindings": [
-        "Fraser Insights is a newly launched Canadian research and strategic advisory firm",
-        "No detail on specialization, methodology, or target sectors is available from the snippet"
+        "Lists ten US-based companies offering salon app development services",
+        "Published by WhaTech, a vendor directory with no disclosed editorial selection criteria"
       ],
-      "implications": "Worth monitoring if you work in Canadian market research or need a new advisory vendor, but no actionable detail is currently available.",
+      "implications": "Same caveats as similar WhaTech listings — useful for initial discovery only. Verify independently whether listed companies have genuine domain experience or are generalist shops.",
       "tags": [
-        "Market Research",
-        "Strategic Advisory"
+        "App development",
+        "Booking systems",
+        "Vendor directory"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Research Live",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU0RjMldlcEtvWFRpUnZ2LUdyYWVaTk5ReWxEQzhFZDgwdE9LekZrWnBiZ1hlV1ExaWcwUjVoOFV4QjFIT0htTEt5NjFyZFM5MllUQmlIdEVPdjIxSm5sWGc2eHZBRzFfM1JuX3pWZVBpQkVsbU1STzZVVFI0TU9QaU5EdlBOWlo0RUhkWU9RUXVwOFkxZTZ6dS1rMGNfTDFuSHRPbjRsLTVFT2FZMFFmS2d6bXdrYkVnY2pRdnhWZmF3YVp3b0Rj?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 10:38:34 GMT"
+      "source": "WhaTech",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYV9hQlJ6bkhSa2NvSlBqSXU5UURpdjhmZmJIRlItQ2NqcFI2STJReVFNcG1IOTNlUlpyaTZFaVcxMUR6QkRvSTRTSXFiT3VESGI5QjJGVkthYlBXTi1qT2ZfYTd6dEc5VFJrMGNyQ215Y29sSUtWblRuRHpQaDRScHJRS2c2MmRrYWM5cUF4aGpQZEZ2OXZRNTNkei1UUWRUUWlPYdIBpAFBVV95cUxPYV9hQlJ6bkhSa2NvSlBqSXU5UURpdjhmZmJIRlItQ2NqcFI2STJReVFNcG1IOTNlUlpyaTZFaVcxMUR6QkRvSTRTSXFiT3VESGI5QjJGVkthYlBXTi1qT2ZfYTd6dEc5VFJrMGNyQ215Y29sSUtWblRuRHpQaDRScHJRS2c2MmRrYWM5cUF4aGpQZEZ2OXZRNTNkei1UUWRUUWlPYQ?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 09:21:28 GMT"
     },
     {
-      "headline": "Junkies Coder expands mobile dev services to Saudi Arabia and UAE.",
-      "background": "A press release announcing geographic expansion of a mobile app development services company into the Gulf region.",
+      "headline": "AI makes features cheap to build. Findability still isn't free.",
+      "background": "AI-assisted development tools have dramatically reduced the cost and time to ship new features, leading many teams to ship more of them. This has intensified an older problem: feature bloat and discoverability failure.",
       "keyFindings": [
-        "Junkies Coder is extending mobile app development services to Saudi Arabia and the UAE",
-        "No technical specializations, platform focus, or project types are specified in the available snippet"
+        "Argues that lower build cost from AI tooling is accelerating feature accumulation without equivalent investment in IA or onboarding",
+        "Points out that discoverability problems scale with feature count regardless of how features were built",
+        "Frames this as a product strategy issue, not just a UI problem — adding features is now easier than helping users find them"
       ],
-      "implications": "Of potential relevance only if you're sourcing mobile development partners in the Gulf region. No design or UX methodology detail available.",
+      "implications": "Product teams using AI-assisted development should treat IA, progressive disclosure, and onboarding as non-negotiable counterweights to increased shipping velocity — faster output without navigation investment actively harms usability.",
       "tags": [
-        "Mobile Development",
-        "MENA Tech"
+        "Feature design",
+        "Information architecture",
+        "AI tools"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "openPR.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMlBJN0lmY1NCRVV4bW1qTngtYUtFeXVCREZfNG5QWWxTNW9yOHNCY281SnVTd1I2d2pFR0xSeW1uQ3U3YWMya3gzMjhZVnZtcjZFNWp4dmk5UURnYTlRejFZcjdRMDFTR1BDcHNVbWVZMzN0WVY5M1JRbUlQbXVCZFNDN2ttVnk1YmtNcWtlb1RKa0Qwd2JDWktGSng?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 09:12:01 GMT"
+      "source": "HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTlWb0ZRLXROV3NrbHFyTXlaMHZua1hPTXhFQWJyaVBWTW9rQkg3OFJxVVgtLUxDYU1jaF9oWWctUk5aTW5CZEpqV3cxYmlXMmpIMWpaYU5JbDUyUjhyNGYxWjYtZHJ4NEk5bnZEd1Rsc0tpZnVlR3ZtQzM2QU42bUhPZ2xWVVFvNFIyMjdvRDRKZUp1RlZCeQ?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 09:21:20 GMT"
     },
     {
-      "headline": "Sterling Bank and Google offer fully funded tech certifications for women.",
-      "background": "Access to formal tech credentials remains uneven across gender and geography, particularly in emerging markets. Fully funded programs targeting underrepresented groups are a recurring mechanism to address this gap.",
+      "headline": "2026 auto design: heritage revivals and new directions",
+      "background": "Automotive design in 2026 is navigating tension between nostalgia-driven revivals of classic models and pressure to establish new visual languages for EVs and next-gen vehicles.",
       "keyFindings": [
-        "The program is 100% fully funded for women applicants",
-        "It is associated with Google Career Certificates, which cover job-ready skills in IT, UX, data, and project management",
-        "The program targets applicants in the Global South with a 2027 enrollment cycle"
+        "Identifies a trend of 'spiritual successor' designs referencing heritage models",
+        "Signals that automakers are pursuing distinct EV design languages rather than simply electrifying existing forms"
       ],
-      "implications": "If you mentor early-career women in tech or UX in eligible regions, this is a concrete resource to share. Google Career Certificates have documented employer recognition and are a legitimate pathway into UX research and product roles.",
+      "implications": "Primarily relevant for automotive or transportation designers; broader UX takeaway is limited, though the tension between legacy brand equity and new platform constraints mirrors challenges in digital product redesigns.",
       "tags": [
-        "Design Education",
-        "Diversity in Tech",
-        "Career Development"
+        "Automotive design",
+        "Design trends",
+        "Brand identity"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Global South Opportunities",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlZVpJSVhEazlIX0lvTFRwaVZMTEZBazVaTUpCRWppak1sSXhzdG9BWEhYNm4wUmJIcEUxQk9mc0JKaWZNQTNGeFhfNmtsNExwUXdTNzZsakItS09zYjVSMUlaM2tpZUlPYndhNFVn?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 08:41:04 GMT"
+      "source": "Design Week",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWUZDU3FvbkFFbHV5ZFVGSlhiajNjQ09pNTdaWmRGVFpCWkZNeE9MVHo1TVdyZWEtQUxpUDVjcERsOHlYWUotWEhDMEl3OGtBbDBER3N5NE5EUVQzZFVBVkR0ejlQYXo2MDJScjFMMElDUXRWVXFneGtrMVlaYUhZZGdBdDJKcGM5YWppWU1pUTd4LXJDN2Fhd19MRQ?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 06:30:59 GMT"
     },
     {
-      "headline": "Article title is garbled — content appears unrelated to UX practice.",
-      "background": "The title 'UX Movement Within Algorithmic Entry Frameworks' appears on a stock trading publication, suggesting either a misclassification or deliberate use of UX terminology in a financial context.",
+      "headline": "Apple names 45 finalists for 2026 App Store Awards",
+      "background": "Apple's App Store Awards annually highlight apps and games judged on design, innovation, and cultural impact. Finalists often signal what Apple considers exemplary in interaction design and platform capability use.",
       "keyFindings": [
-        "The source is Stock Traders Daily, not a UX or tech publication",
-        "The snippet provides no UX-relevant content",
-        "The title appears to use 'UX' as financial jargon unrelated to user experience design"
+        "45 apps and games named as finalists across categories for the 2026 awards",
+        "Selection reflects Apple's editorial priorities, which tend to favor apps that use platform-native features deeply"
       ],
-      "implications": "Not relevant to UX, product, or tech practice. Likely a miscategorized or mislabeled article from financial media.",
+      "implications": "Worth reviewing the finalists list for benchmarking — apps recognized here often demonstrate strong use of platform conventions, accessibility features, and interaction patterns that align with App Review guidelines.",
       "tags": [
-        "Miscategorized Content"
+        "App Store",
+        "iOS design",
+        "Design benchmarking"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRzltaFJuUTFGbDJpaU4xb29iYU1HZU5rclhUU3RtV0VMQzFBNUFfRlVSY1YxX2ZMY3NYZllCQXpmNlYycW45dGliczUxd0htZElJVVNOd0VsUFN6ajBZZEhDa295ZXdVMXppS3l4R0ZtdWZDMEZfemtrcGVSM2lBdU9Ka1R6cFJJeU9abE9tVjZkTUdQd3hHVVNMdXlWQVZMdzZVYkdtMkJ3TnBYZENET01rbTBZejJOUHFacHJCTmdfWlNlQmc?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 03:22:02 GMT"
+      "source": "디자인 나침반",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2dScjhKd0hVbnhfNm10eGZXb0xSRkMwYnd0a1RNYjJDOG0waGsyWC0xcDNsWFVNNjUzYUxDY1RXUjNTZ1ZERVFqY1pkcUJnNmt0TUh6Tk5lTzVYeDRqZ1RXeEszUC1ZeG40WlhRNUc3Y2dxcW9mUXpJTXExN2pkSHFQXzM?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 05:38:17 GMT"
     },
     {
-      "headline": "IIT Delhi vs IIT Bombay design programs compared.",
-      "background": "India's IIT institutions offer design programs that are increasingly competitive, but prospective students often lack a clear side-by-side comparison of curriculum focus, entry requirements, and career outcomes between campuses.",
+      "headline": "Auckland agency misterwolf adds Tina Brooke to team",
+      "background": "Misterwolf is a New Zealand-based creative agency. This is a staffing announcement with no broader industry implications.",
       "keyFindings": [
-        "IIT Delhi and IIT Bombay both offer design programs but differ in curriculum structure and specialization tracks",
-        "The comparison is published by an education marketing platform, so editorial independence should be considered",
-        "No specific outcome data — placement rates, alumni roles — is cited in the available snippet"
+        "Tina Brooke appointed at Auckland creative agency misterwolf",
+        "No detail provided on role scope or strategic significance"
       ],
-      "implications": "Useful context if you're advising students on design education pathways in India, but verify details directly with institutions given the source's commercial nature.",
+      "implications": "No direct implications for UX, product, or tech practitioners. Regional industry news only.",
       "tags": [
-        "Design Education",
-        "India Tech"
+        "Agency news",
+        "New Zealand",
+        "Appointments"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Jaro Education",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NeHducnM4czA5WlNPM1A2aS1kTHZsZ1MtVWZhTWw1d01GWmlfQ3gzRDluZGFhdkhmYU5QVWs4Q21tT1gyR3AtSDBDODAzQ0RZcFA0UzlMOHQ0b3l6THFNU3JrVGcyVEg4ZHNqdHZGTXdZdw?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 17:22:38 GMT"
+      "source": "stoppress.co.nz",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MeXJrblpMTjNaU0VfQ1pNQ3k2b0VFRUZwRm5pQUdaNVRXb2lEbXhmclJ1MUZJZTF3aHhTVXFya19OaElqc0I3dlpzWXgyMEY3MGpaRG1PSmZmN29Ud1BIZTl2NmFXRjF3YlhpSm5IODg2TkJ6LUxnUEtOVjYwQQ?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 02:08:44 GMT"
     }
   ]
 }
