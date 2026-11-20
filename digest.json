@@ -1,109 +1,156 @@
 {
-  "generatedAt": "2026-11-19T20:02:24.110Z",
+  "generatedAt": "2026-11-20T19:40:38.435Z",
   "items": [
     {
-      "headline": "CRM dashboard design: projects, tasks, revenue unified",
-      "background": "CRM tools often fragment project tracking, task management, and revenue visibility across separate views, forcing context-switching. This piece presents a design case study attempting to consolidate those into a single interface.",
+      "headline": "SLC Faculty Union Flags Layoffs and Program Cuts",
+      "background": "Sarah Lawrence College is reportedly cutting arts and business programs alongside faculty layoffs, prompting pushback from its faculty union. Higher education institutions have faced mounting financial pressure post-pandemic, with program elimination becoming a common cost-cutting measure.",
       "keyFindings": [
-        "Combines project tracking, task management, and revenue data in one dashboard view",
-        "Targets productivity workflows where switching between tools creates friction"
+        "SLC faculty union has raised formal concerns over new layoffs",
+        "Arts and business programs are among those being eliminated",
+        "Union opposition signals organized resistance to the restructuring"
       ],
-      "implications": "Useful as a reference for designers tackling information-dense B2B dashboards, though the snippet offers little methodological detail — treat as a visual inspiration source rather than a research-backed framework.",
+      "implications": "Minimal direct relevance to UX/product practitioners. Worth noting only if you work in EdTech or design education pipelines that intersect with liberal arts institutions facing structural cuts.",
       "tags": [
-        "CRM design",
-        "Dashboard",
-        "B2B"
+        "Design Education",
+        "Higher Education",
+        "Institutional Change"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "The Seeker",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3ZveUNiT09ybi1CenRTQnY1d0w4YUxVSVB3YlliTTNmdi1nd0luZmxvTWFGcnZReVJFUkVtSzEtem1KMjJmb21ZVy03ZEp5a2xONjZrNDVwXzJ3SVpCZTY0cGJ5THN2MHQ2Q2RQMjhlLUF1U09hVU40V0FpQ0hxRGloUUltT25HWkNYMlBKYm1SNjh2YWhxX1YxZUE1SDQ2bm45d0Rqa2pkVGF5Yy1kQzdSQQ?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 19:14:03 GMT"
+    },
+    {
+      "headline": "RTL Navigation Study Still Has Lessons for Usability Research Design",
+      "background": "Right-to-left (RTL) interfaces for Arabic, Hebrew, and Persian users remain underfunded areas of usability research. A 2019 study on navigation placement in RTL web layouts has resurfaced with renewed attention on what its methodology got right and wrong.",
+      "keyFindings": [
+        "The 2019 study examined where navigation should be placed on RTL web pages",
+        "Its value now lies as much in research design methodology as in its findings on RTL layout",
+        "RTL usability remains a gap in mainstream UX research literature"
+      ],
+      "implications": "If you're designing for RTL audiences or planning usability studies, this is worth reading for how to structure research rather than just what it concluded. RTL navigation placement still lacks strong consensus in the field.",
+      "tags": [
+        "RTL Design",
+        "Usability Research",
+        "Internationalization"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "Product design",
+      "category": "Research",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1080/1*5AnlQHh9mjj8hxWQkPy5Ag.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@mon14yee/menkir-1173676042d8?source=rss------product_design-5",
-      "pubDate": "Thu, 19 Nov 2026 18:54:47 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1864/1*E4FMwuJcPPt7qvzZ6rWHzg.png",
+      "source": "UX Research on Medium",
+      "link": "https://kadivar.medium.com/navigation-placement-rtl-usability-study-2325a6ffba29?source=rss------ux_research-5",
+      "pubDate": "Fri, 20 Nov 2026 18:43:43 GMT"
     },
     {
-      "headline": "Four micro-decisions that improve payment approval UX",
-      "background": "Business banking portals often inherit approval flows designed for internal ops teams, not the end users who actually process payments daily. Small interaction choices in these flows have outsized effects on error rates and trust.",
+      "headline": "Four Critical Thresholds Reshaping Mobile Architecture in 2025",
+      "background": "Mobile app development has moved beyond screen design and API calls into more complex terrain involving on-device AI, invisible UX patterns, scalability demands, and QA complexity. This Turkish-language piece outlines a framework for thinking about these shifts.",
       "keyFindings": [
-        "Identifies four specific design decisions that reduce friction in a payment approval flow",
-        "Focuses on business banking context where approval errors carry real financial consequence",
-        "Demonstrates that incremental, deliberate choices matter more than wholesale redesigns in regulated interfaces"
+        "On-device AI is identified as a core architectural threshold, not just a feature addition",
+        "Invisible UX — interactions users don't consciously notice — is framed as a distinct design challenge",
+        "Scalability and QA are treated as inseparable concerns at the architecture level, not afterthoughts"
       ],
-      "implications": "Directly applicable for anyone designing transactional or approval-based flows in fintech or enterprise tools — worth reading for the specificity of its decision breakdowns rather than broad principles.",
+      "implications": "Useful framing for mobile product teams deciding where to invest engineering and design resources. The on-device AI point is particularly relevant as more teams consider privacy-preserving inference without server round-trips.",
       "tags": [
-        "Fintech",
-        "Interaction design",
-        "Enterprise UX"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*01-A4AkmkhHz2DSSi2u1ow.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@ahmed.sayed.ux.ui/the-design-work-behind-a-simple-payment-approval-d6cec5c59856?source=rss------product_design-5",
-      "pubDate": "Thu, 19 Nov 2026 18:51:16 GMT"
-    },
-    {
-      "headline": "UX for AI agents means designing beyond the human interface",
-      "background": "Most UX practice assumes a human is the direct consumer of an interface. AI agents that act autonomously on behalf of users — booking, purchasing, communicating — break that assumption entirely, raising questions about what 'usability' even means.",
-      "keyFindings": [
-        "Argues that digital services must now be legible and usable by AI agents, not just human users",
-        "Suggests the field needs new design primitives for machine-readable affordances and permissions",
-        "Frames agent-readiness as an emerging layer of service design separate from traditional UX"
-      ],
-      "implications": "Product and service designers working in any domain where AI assistants may act as proxies — travel, finance, e-commerce — should start thinking about API-layer and permissions design as a UX concern, not just an engineering one.",
-      "tags": [
-        "AI agents",
-        "Service design",
-        "Emerging tech"
+        "Mobile Architecture",
+        "On-Device AI",
+        "Mobile UX"
       ],
       "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/875/0*ipseiXPD3NmIOI0V",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*d--aiTcmCCVv9NJSOjZdng.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/@dragonhansara/ux-was-designed-for-people-what-about-ai-agents-3bf90c649374?source=rss------ux-5",
-      "pubDate": "Thu, 19 Nov 2026 18:45:38 GMT"
+      "link": "https://medium.com/@iremsuupalaa/modern-mobil-mimaride-d%C3%B6rt-kritik-e%C5%9Fik-on-device-ai-g%C3%B6r%C3%BCnmez-ux-%C3%B6l%C3%A7eklenebilirlik-ve-qa-bb29a2cbc15e?source=rss------ux-5",
+      "pubDate": "Fri, 20 Nov 2026 18:24:10 GMT"
     },
     {
-      "headline": "Open banking nav breaks when feature count explodes",
-      "background": "Open banking platforms that expose APIs to third-party apps often start with simple navigation designed for a handful of integrations. As connected app ecosystems grow, the original IA collapses and users lose basic control over their own connections.",
+      "headline": "How UX Built Desire for a Coffee Brand That Didn't Exist Yet",
+      "background": "Pre-launch landing pages must create demand for products users can't yet try — a classic UX and brand challenge. This Portuguese-language case study covers the full UX/UI and brand build for Buzato Coffee from scratch.",
       "keyFindings": [
-        "Identifies a specific failure mode: navigation designed for early-stage feature sets doesn't scale to mature open API platforms",
-        "Highlights that critical user actions like disconnecting a third-party app become buried as feature count grows",
-        "Proposes a rethinking of IA based on user control and visibility rather than feature grouping"
+        "The project involved building brand identity and landing page UX simultaneously from zero",
+        "The design work had to generate perceived desirability without an existing product to reference",
+        "The case study covers decision-making at both brand and interface levels"
       ],
-      "implications": "Relevant for any product team managing a platform with third-party integrations or permissions — the ability for users to audit and revoke access is a trust and compliance issue, not just a convenience one.",
+      "implications": "Relevant for UX and product designers working on 0-to-1 products or pre-launch campaigns where there's no existing user mental model to design against. Shows how brand and UX decisions are interdependent at this stage.",
       "tags": [
-        "Information architecture",
-        "Open banking",
-        "Platform design"
+        "Brand Design",
+        "Landing Pages",
+        "0-to-1 Product"
       ],
-      "featured": true,
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*Ta5KMb-cY_i5Q-8Xj-XQow.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@gabriel.tolentino.oliveira/como-fazer-algu%C3%A9m-desejar-um-caf%C3%A9-que-ainda-n%C3%A3o-existe-e0169cbb6226?source=rss------ux-5",
+      "pubDate": "Fri, 20 Nov 2026 17:54:24 GMT"
+    },
+    {
+      "headline": "From PageMaker to AI: How Tools Reshaped the Design Profession",
+      "background": "The design profession has undergone several tool-driven transformations — from desktop publishing in the 1980s through web design to current AI-assisted workflows. This piece traces that arc to examine what has actually changed in the role itself.",
+      "keyFindings": [
+        "The piece frames tool shifts from PageMaker onward as a sequence of professional redefinitions, not just workflow changes",
+        "AI is positioned as the latest in a recurring pattern of technology forcing designers to renegotiate their value",
+        "Historical framing suggests current AI disruption is structurally similar to past transitions, not categorically different"
+      ],
+      "implications": "Worth reading as a reframe for designers anxious about AI displacement — the historical lens suggests adaptation, not obsolescence, has been the consistent pattern. Useful context for conversations about hiring, roles, and skill development.",
+      "tags": [
+        "AI Tools",
+        "Design History",
+        "Professional Identity"
+      ],
+      "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*9FL-_e6FHkvvkK8mk4h2sw.png",
+      "image": "https://cdn-images-1.medium.com/max/667/1*0kTdJNKsP24IrGVJ5nPu3Q.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@ahmed.sayed.ux.ui/you-added-20-open-banking-features-can-customers-still-disconnect-an-app-e1589383c468?source=rss------product_design-5",
-      "pubDate": "Thu, 19 Nov 2026 18:43:34 GMT"
+      "link": "https://medium.com/@kamillycost/do-pagemaker-%C3%A0-ia-como-a-tecnologia-redesenhou-a-profiss%C3%A3o-de-designer-783aa46f385f?source=rss------product_design-5",
+      "pubDate": "Fri, 20 Nov 2026 17:38:06 GMT"
     },
     {
-      "headline": "Directory: elder care app development firms in the US",
-      "background": "The elder care technology market has grown with demand for remote monitoring, medication management, and caregiver coordination apps. Buyers evaluating development partners have limited structured resources for comparing vendors.",
+      "headline": "Magic Logix Rebrands Around AI Search and Digital Growth",
+      "background": "Digital agencies are under pressure to reposition as AI reshapes search and content discovery. Magic Logix has launched a named strategy — 'Digital Beyond Tomorrow' — centered on AI search optimization and growth services.",
       "keyFindings": [
-        "Lists nine US-based companies specializing in elder care app development",
-        "Sourced from WhaTech, a vendor directory — selection methodology is not editorially independent"
+        "The strategy explicitly targets AI-driven search as a core service area, reflecting shifts in how content is surfaced",
+        "The announcement is a positioning move as much as a product launch",
+        "No independent data on outcomes or methodology is included in available coverage"
       ],
-      "implications": "Useful as a starting-point vendor list, but treat rankings with caution — directory listings of this type are frequently paid placements. Independent vetting is essential before engaging any firm.",
+      "implications": "Low immediate relevance for UX practitioners. Signals that agencies are actively packaging AI search as a sellable service, which may affect how clients brief UX and content teams on discoverability requirements.",
       "tags": [
-        "Elder care",
-        "App development",
-        "Vendor directory"
+        "AI Search",
+        "Agency Positioning",
+        "Digital Strategy"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Cincinnati Enquirer",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU3E3VnN2T1h5TVJRMThVemdPUkg0X1ZpeVh0YUNqcHNadUx6enBnMnJEcGZraUVSSWpNOG1GNFdtRl8zaGpEVWNjN19FeWY2UEtiUkdLdWdFOUgzczBKdVRDbm9LU0FXRW1acV8wbDhpa08zOVJKcFNNc3BSNElZQTBzMVV2bC13Qk5FelZ6MGJNS0dzcTNvZ2RwMjRoWmkxTW1JYy1wUy1CVWhBWW5qcHdDRWZVbzlNaHpnTEUybUN2ak9vVWYzd1pYTGNRdjZ5ZUdaRkdPN2NCN3lkaFY2a1FR?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 13:43:37 GMT"
+    },
+    {
+      "headline": "Listicle of US Car Cleaning App Dev Firms Adds Little Value",
+      "background": "On-demand service apps remain a common development brief, and vendor selection listicles proliferate to capture that search traffic. This piece lists 12 US companies offering car cleaning app development.",
+      "keyFindings": [
+        "Lists 12 companies positioning themselves for on-demand vehicle care app development in the US",
+        "No evaluation criteria or comparative data are provided",
+        "Content is promotional in nature with no independent vetting"
+      ],
+      "implications": "Not a useful reference for UX or product decision-making. If you're evaluating development partners, primary research with defined criteria will be more reliable than listicle sources.",
+      "tags": [
+        "On-Demand Apps",
+        "Vendor Selection"
       ],
       "featured": false,
       "type": "research",
@@ -111,119 +158,77 @@
       "publishedWindow": "today",
       "image": null,
       "source": "WhaTech",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcHIyMkhUVGtCSndYbEZGQ01CS05acmcxUDlwV3hQR2RBQ3RDNWg1TE5wblA5OGk0dGxNaEFMYXZFbGloT3dJMjFWUi0tZzF5MjJVZlQ0Ri1kZkxWVFNURElSQmZoanloWU5CRXU4VFM5NGhZeFVQYXh0dTNWYi1BWGc3eU56cmQyVy0yT1dtMWhwaHpWZlZwNUxLeTcwZy1yQjI2ZnkwZEhIQdIBqgFBVV95cUxOcHIyMkhUVGtCSndYbEZGQ01CS05acmcxUDlwV3hQR2RBQ3RDNWg1TE5wblA5OGk0dGxNaEFMYXZFbGloT3dJMjFWUi0tZzF5MjJVZlQ0Ri1kZkxWVFNURElSQmZoanloWU5CRXU4VFM5NGhZeFVQYXh0dTNWYi1BWGc3eU56cmQyVy0yT1dtMWhwaHpWZlZwNUxLeTcwZy1yQjI2ZnkwZEhIQQ?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 14:13:48 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOWhGdFNrUUs1QmVnVk5DQzlfak8xSTFNaDFDR2NkeG4yWktaMnZwbDZtLXMtN1ZZVVdaTldpYjFpaXBpZG96NE1INGhOMU0yOV9DbVU3QUxSZkFIdmhiLVpwd0QxMnlwRFEwckwtRlVLVDFNM0VobXlhRF90b095eS1BYmFEVVZSM3hCZnJsRldIM3k3eFlWZjhjUlpYM2RwTy1mV3plRDhJOHJJbzhkUktXQTg2UmI4aWZubWRjdm5xQ0hyU0lELTRPUVhTWXpJelNnTE01eUtVMmNSRXdB0gHfAUFVX3lxTE45aEZ0U2tRSzVCZWdWTkNDOV9qTzFJMU1oMUNHY2R4bjJaS1oydnBsNm0tcy03VllVV1pOV2liMWlpcGlkb3o0TUg0aE4xTTI5X0NtVTdBTFJmQUh2aGItWnB3RDEyeXBEUTByTC1GVUtUMU0zRWhteWFEX3RvT3l5LUFiYURVVlIzeEJmcmxGV0gzeTd4WVZmOGNSWlgzZHBPLWZXemVEOEk4cklvOGRSS1dBODZSYjhpZm5tZGN2bnFDSHJTSUQtNE9RWFNZekl6U2dMTTV5S1UyY1JFd0E?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 09:17:12 GMT"
     },
     {
-      "headline": "Directory: salon app development companies in the US",
-      "background": "Salon and beauty booking apps represent a crowded, commoditized vertical, with many development shops offering templated solutions. Buyers often struggle to distinguish specialists from generalists.",
+      "headline": "Nielsen Norman UX Conference Set for March 1–4, 2027",
+      "background": "The Nielsen Norman Group runs recurring live online UX training conferences aimed at practicing UX professionals. The March 2027 Americas session has been announced with a multi-course format.",
       "keyFindings": [
-        "Lists ten US-based companies offering salon app development services",
-        "Published by WhaTech, a vendor directory with no disclosed editorial selection criteria"
+        "Americas session runs March 1–4, 2027; Asia/Australia session follows March 2–5",
+        "Attendees can take up to 2 in-depth training courses per registration",
+        "Format is live online, focused on applied skills rather than keynote-style content"
       ],
-      "implications": "Same caveats as similar WhaTech listings — useful for initial discovery only. Verify independently whether listed companies have genuine domain experience or are generalist shops.",
+      "implications": "Relevant if you're planning professional development budgets for Q1 2027. The 2-course cap per registration is a practical constraint to factor into team training plans.",
       "tags": [
-        "App development",
-        "Booking systems",
-        "Vendor directory"
+        "Professional Development",
+        "UX Training",
+        "Conferences"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 20 Nov 2026 03:44:24 +0000"
+    },
+    {
+      "headline": "Desizner Agency Claims Environmental Mission Alongside Digital Work",
+      "background": "Sustainability positioning has become increasingly common among digital agencies as clients factor ESG criteria into vendor selection. Desizner is marketing itself as combining digital innovation with environmental impact commitments.",
+      "keyFindings": [
+        "Agency explicitly frames environmental impact as a core part of its identity, not a side initiative",
+        "No specific metrics, certifications, or project outcomes are cited in available coverage",
+        "Coverage comes from a local TV news outlet, suggesting a regional PR push"
+      ],
+      "implications": "Thin on specifics. Relevant only if you're evaluating agency partners with sustainability mandates. Treat the environmental claims as unverified without independent evidence.",
+      "tags": [
+        "Agency Positioning",
+        "Sustainability",
+        "Digital Services"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "WhaTech",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYV9hQlJ6bkhSa2NvSlBqSXU5UURpdjhmZmJIRlItQ2NqcFI2STJReVFNcG1IOTNlUlpyaTZFaVcxMUR6QkRvSTRTSXFiT3VESGI5QjJGVkthYlBXTi1qT2ZfYTd6dEc5VFJrMGNyQ215Y29sSUtWblRuRHpQaDRScHJRS2c2MmRrYWM5cUF4aGpQZEZ2OXZRNTNkei1UUWRUUWlPYdIBpAFBVV95cUxPYV9hQlJ6bkhSa2NvSlBqSXU5UURpdjhmZmJIRlItQ2NqcFI2STJReVFNcG1IOTNlUlpyaTZFaVcxMUR6QkRvSTRTSXFiT3VESGI5QjJGVkthYlBXTi1qT2ZfYTd6dEc5VFJrMGNyQ215Y29sSUtWblRuRHpQaDRScHJRS2c2MmRrYWM5cUF4aGpQZEZ2OXZRNTNkei1UUWRUUWlPYQ?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 09:21:28 GMT"
+      "source": "WBOC TV",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPWTg5N0hMZ0hrY0lkMzhkbmVTdVdhVTRuZkhfQTFwNW5UUHJ1WUExVDdzZzNWeVM3bTAzMlp4UHpjalJWZ1k3R1AwMVl0cVRwQ0hYQzVscVJVS2czYUo2clBBUzBwclByVGU1Xzc2RVdBcndFdnZtMGNxN1V0WC1jUkZWUWptVFd1b0ozWHdkM0RmczZSYmlnTG9fVlhFRnFVUGlPam1PQzRoR3E1SWxUT2ViWHh4TnRJV21SSTFpM3lHZjRuWXRUZlRraC1mQ0NmZ08xOUhWc2xNTklSQnE1bTNnRkpQRE5JRUp5SHhqZk9ITkpYbTBpWGN3NTlmOGhVM2RBR3ZUUDNKTmN5SVFaZVd4WG43R01PaDJDNWV2ZlJPdlZTdkV6OEVuNDR6N2owbHFfMmdB?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 03:35:03 GMT"
     },
     {
-      "headline": "AI makes features cheap to build. Findability still isn't free.",
-      "background": "AI-assisted development tools have dramatically reduced the cost and time to ship new features, leading many teams to ship more of them. This has intensified an older problem: feature bloat and discoverability failure.",
+      "headline": "Nielsen Norman UX Conference Set for February 22–26, 2027",
+      "background": "The Nielsen Norman Group's February 2027 live online conference has been announced, offering a larger course load than the March session. These conferences are a primary continuing education channel for mid-to-senior UX practitioners.",
       "keyFindings": [
-        "Argues that lower build cost from AI tooling is accelerating feature accumulation without equivalent investment in IA or onboarding",
-        "Points out that discoverability problems scale with feature count regardless of how features were built",
-        "Frames this as a product strategy issue, not just a UI problem — adding features is now easier than helping users find them"
+        "Runs February 22–26, 2027 as a live online event",
+        "Attendees can take up to 5 in-depth training courses, more than the March session's 2-course limit",
+        "Positioned around durable, applied UX skills rather than trend coverage"
       ],
-      "implications": "Product teams using AI-assisted development should treat IA, progressive disclosure, and onboarding as non-negotiable counterweights to increased shipping velocity — faster output without navigation investment actively harms usability.",
+      "implications": "If professional development budget allows only one NNG conference window, the February session's 5-course capacity offers substantially more training density than the March option. Plan registration and budget allocation accordingly.",
       "tags": [
-        "Feature design",
-        "Information architecture",
-        "AI tools"
+        "Professional Development",
+        "UX Training",
+        "Conferences"
       ],
       "featured": false,
       "type": "research",
-      "category": "Industry news",
+      "category": "Research",
       "publishedWindow": "today",
       "image": null,
-      "source": "HackerNoon",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTlWb0ZRLXROV3NrbHFyTXlaMHZua1hPTXhFQWJyaVBWTW9rQkg3OFJxVVgtLUxDYU1jaF9oWWctUk5aTW5CZEpqV3cxYmlXMmpIMWpaYU5JbDUyUjhyNGYxWjYtZHJ4NEk5bnZEd1Rsc0tpZnVlR3ZtQzM2QU42bUhPZ2xWVVFvNFIyMjdvRDRKZUp1RlZCeQ?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 09:21:20 GMT"
-    },
-    {
-      "headline": "2026 auto design: heritage revivals and new directions",
-      "background": "Automotive design in 2026 is navigating tension between nostalgia-driven revivals of classic models and pressure to establish new visual languages for EVs and next-gen vehicles.",
-      "keyFindings": [
-        "Identifies a trend of 'spiritual successor' designs referencing heritage models",
-        "Signals that automakers are pursuing distinct EV design languages rather than simply electrifying existing forms"
-      ],
-      "implications": "Primarily relevant for automotive or transportation designers; broader UX takeaway is limited, though the tension between legacy brand equity and new platform constraints mirrors challenges in digital product redesigns.",
-      "tags": [
-        "Automotive design",
-        "Design trends",
-        "Brand identity"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Design Week",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWUZDU3FvbkFFbHV5ZFVGSlhiajNjQ09pNTdaWmRGVFpCWkZNeE9MVHo1TVdyZWEtQUxpUDVjcERsOHlYWUotWEhDMEl3OGtBbDBER3N5NE5EUVQzZFVBVkR0ejlQYXo2MDJScjFMMElDUXRWVXFneGtrMVlaYUhZZGdBdDJKcGM5YWppWU1pUTd4LXJDN2Fhd19MRQ?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 06:30:59 GMT"
-    },
-    {
-      "headline": "Apple names 45 finalists for 2026 App Store Awards",
-      "background": "Apple's App Store Awards annually highlight apps and games judged on design, innovation, and cultural impact. Finalists often signal what Apple considers exemplary in interaction design and platform capability use.",
-      "keyFindings": [
-        "45 apps and games named as finalists across categories for the 2026 awards",
-        "Selection reflects Apple's editorial priorities, which tend to favor apps that use platform-native features deeply"
-      ],
-      "implications": "Worth reviewing the finalists list for benchmarking — apps recognized here often demonstrate strong use of platform conventions, accessibility features, and interaction patterns that align with App Review guidelines.",
-      "tags": [
-        "App Store",
-        "iOS design",
-        "Design benchmarking"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "디자인 나침반",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2dScjhKd0hVbnhfNm10eGZXb0xSRkMwYnd0a1RNYjJDOG0waGsyWC0xcDNsWFVNNjUzYUxDY1RXUjNTZ1ZERVFqY1pkcUJnNmt0TUh6Tk5lTzVYeDRqZ1RXeEszUC1ZeG40WlhRNUc3Y2dxcW9mUXpJTXExN2pkSHFQXzM?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 05:38:17 GMT"
-    },
-    {
-      "headline": "Auckland agency misterwolf adds Tina Brooke to team",
-      "background": "Misterwolf is a New Zealand-based creative agency. This is a staffing announcement with no broader industry implications.",
-      "keyFindings": [
-        "Tina Brooke appointed at Auckland creative agency misterwolf",
-        "No detail provided on role scope or strategic significance"
-      ],
-      "implications": "No direct implications for UX, product, or tech practitioners. Regional industry news only.",
-      "tags": [
-        "Agency news",
-        "New Zealand",
-        "Appointments"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "stoppress.co.nz",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MeXJrblpMTjNaU0VfQ1pNQ3k2b0VFRUZwRm5pQUdaNVRXb2lEbXhmclJ1MUZJZTF3aHhTVXFya19OaElqc0I3dlpzWXgyMEY3MGpaRG1PSmZmN29Ud1BIZTl2NmFXRjF3YlhpSm5IODg2TkJ6LUxnUEtOVjYwQQ?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 02:08:44 GMT"
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/training/february/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 20 Nov 2026 03:16:44 +0000"
     }
   ]
 }
