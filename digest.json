@@ -1,156 +1,127 @@
 {
-  "generatedAt": "2026-11-20T19:40:38.435Z",
+  "generatedAt": "2026-11-21T18:46:16.932Z",
   "items": [
     {
-      "headline": "SLC Faculty Union Flags Layoffs and Program Cuts",
-      "background": "Sarah Lawrence College is reportedly cutting arts and business programs alongside faculty layoffs, prompting pushback from its faculty union. Higher education institutions have faced mounting financial pressure post-pandemic, with program elimination becoming a common cost-cutting measure.",
+      "headline": "Slow AI features are a design problem, not a model problem",
+      "background": "As AI-powered features proliferate in products, teams often treat latency as a purely technical constraint — something to hand off to engineers or accept as a model limitation. This piece challenges that assumption.",
       "keyFindings": [
-        "SLC faculty union has raised formal concerns over new layoffs",
-        "Arts and business programs are among those being eliminated",
-        "Union opposition signals organized resistance to the restructuring"
+        "Perceived latency is shaped by design choices like loading states, progressive disclosure, and feedback timing — not just raw response time.",
+        "Streaming outputs and skeleton screens can make a 4-second response feel faster than a 1-second response with no feedback.",
+        "Teams that treat latency as a product and design decision — not just an infrastructure one — ship AI features with higher perceived performance."
       ],
-      "implications": "Minimal direct relevance to UX/product practitioners. Worth noting only if you work in EdTech or design education pipelines that intersect with liberal arts institutions facing structural cuts.",
+      "implications": "If your AI feature feels slow, audit the interaction design before escalating to the model team. Streaming, optimistic UI, and staged loading are levers within a designer or PM's control. Applies especially to teams building LLM-powered features on top of third-party APIs where model latency is fixed.",
       "tags": [
-        "Design Education",
-        "Higher Education",
-        "Institutional Change"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "The Seeker",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3ZveUNiT09ybi1CenRTQnY1d0w4YUxVSVB3YlliTTNmdi1nd0luZmxvTWFGcnZReVJFUkVtSzEtem1KMjJmb21ZVy03ZEp5a2xONjZrNDVwXzJ3SVpCZTY0cGJ5THN2MHQ2Q2RQMjhlLUF1U09hVU40V0FpQ0hxRGloUUltT25HWkNYMlBKYm1SNjh2YWhxX1YxZUE1SDQ2bm45d0Rqa2pkVGF5Yy1kQzdSQQ?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 19:14:03 GMT"
-    },
-    {
-      "headline": "RTL Navigation Study Still Has Lessons for Usability Research Design",
-      "background": "Right-to-left (RTL) interfaces for Arabic, Hebrew, and Persian users remain underfunded areas of usability research. A 2019 study on navigation placement in RTL web layouts has resurfaced with renewed attention on what its methodology got right and wrong.",
-      "keyFindings": [
-        "The 2019 study examined where navigation should be placed on RTL web pages",
-        "Its value now lies as much in research design methodology as in its findings on RTL layout",
-        "RTL usability remains a gap in mainstream UX research literature"
-      ],
-      "implications": "If you're designing for RTL audiences or planning usability studies, this is worth reading for how to structure research rather than just what it concluded. RTL navigation placement still lacks strong consensus in the field.",
-      "tags": [
-        "RTL Design",
-        "Usability Research",
-        "Internationalization"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1864/1*E4FMwuJcPPt7qvzZ6rWHzg.png",
-      "source": "UX Research on Medium",
-      "link": "https://kadivar.medium.com/navigation-placement-rtl-usability-study-2325a6ffba29?source=rss------ux_research-5",
-      "pubDate": "Fri, 20 Nov 2026 18:43:43 GMT"
-    },
-    {
-      "headline": "Four Critical Thresholds Reshaping Mobile Architecture in 2025",
-      "background": "Mobile app development has moved beyond screen design and API calls into more complex terrain involving on-device AI, invisible UX patterns, scalability demands, and QA complexity. This Turkish-language piece outlines a framework for thinking about these shifts.",
-      "keyFindings": [
-        "On-device AI is identified as a core architectural threshold, not just a feature addition",
-        "Invisible UX — interactions users don't consciously notice — is framed as a distinct design challenge",
-        "Scalability and QA are treated as inseparable concerns at the architecture level, not afterthoughts"
-      ],
-      "implications": "Useful framing for mobile product teams deciding where to invest engineering and design resources. The on-device AI point is particularly relevant as more teams consider privacy-preserving inference without server round-trips.",
-      "tags": [
-        "Mobile Architecture",
-        "On-Device AI",
-        "Mobile UX"
+        "AI features",
+        "Performance",
+        "Interaction design"
       ],
       "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*d--aiTcmCCVv9NJSOjZdng.png",
+      "image": "https://cdn-images-1.medium.com/max/1671/1*5PSVp_Ec3mo1eko23E7ZBQ.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/@iremsuupalaa/modern-mobil-mimaride-d%C3%B6rt-kritik-e%C5%9Fik-on-device-ai-g%C3%B6r%C3%BCnmez-ux-%C3%B6l%C3%A7eklenebilirlik-ve-qa-bb29a2cbc15e?source=rss------ux-5",
-      "pubDate": "Fri, 20 Nov 2026 18:24:10 GMT"
+      "link": "https://medium.com/@ikilic/latency-is-a-product-decision-9840e52e89f0?source=rss------ux-5",
+      "pubDate": "Sat, 21 Nov 2026 18:07:14 GMT"
     },
     {
-      "headline": "How UX Built Desire for a Coffee Brand That Didn't Exist Yet",
-      "background": "Pre-launch landing pages must create demand for products users can't yet try — a classic UX and brand challenge. This Portuguese-language case study covers the full UX/UI and brand build for Buzato Coffee from scratch.",
+      "headline": "CRO audit vs. UX audit: same tools, different questions",
+      "background": "CRO and UX audits are frequently conflated or used interchangeably by clients and practitioners, leading to mismatched deliverables and unmet expectations. The distinction matters for scoping work and setting the right success metrics.",
       "keyFindings": [
-        "The project involved building brand identity and landing page UX simultaneously from zero",
-        "The design work had to generate perceived desirability without an existing product to reference",
-        "The case study covers decision-making at both brand and interface levels"
+        "A CRO audit is built around a conversion question — why aren't users completing a specific action — while a UX audit is built around an experience question about usability and flow.",
+        "Both use tools like heatmaps, session recordings, and analytics, but interpret the data through different lenses and produce different recommendations.",
+        "Conflating the two often results in UX fixes that don't move conversion metrics, or CRO tweaks that create broader usability regressions."
       ],
-      "implications": "Relevant for UX and product designers working on 0-to-1 products or pre-launch campaigns where there's no existing user mental model to design against. Shows how brand and UX decisions are interdependent at this stage.",
+      "implications": "Before scoping an audit, align with stakeholders on the core question being asked. If the client wants revenue impact, frame and deliver a CRO audit. If the goal is broader usability improvement, a UX audit is the right fit — but be explicit that conversion lift is a secondary outcome, not the primary measure.",
       "tags": [
-        "Brand Design",
-        "Landing Pages",
-        "0-to-1 Product"
+        "CRO",
+        "UX audits",
+        "Research methods"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*4_xp7rAk11MWg-wjsQeI-w.png",
+      "source": "UX Research on Medium",
+      "link": "https://medium.com/@olgakalinina.me/cro-audit-vs-ux-audit-whats-the-difference-4e9e8c7d5a69?source=rss------ux_research-5",
+      "pubDate": "Sat, 21 Nov 2026 17:55:10 GMT"
+    },
+    {
+      "headline": "7 questions to ask before building a small business website",
+      "background": "Many small business websites are built to look credible rather than to perform a business function. This piece addresses the gap between aesthetically acceptable sites and ones that actually generate leads, calls, or sales.",
+      "keyFindings": [
+        "A common failure mode is building a site around what the business wants to say rather than what a visitor needs to do or decide.",
+        "The piece frames website goals around seven diagnostic questions, pushing owners to define the specific action they want visitors to take.",
+        "Sites that list contact information without a clear call-to-action or value proposition consistently underperform even when technically well-built."
+      ],
+      "implications": "Useful framing for UX practitioners working with SMB clients who come in asking for a redesign when the real problem is strategic ambiguity about what the site is for. Use these questions in a discovery session before touching wireframes or content.",
+      "tags": [
+        "Content strategy",
+        "Small business",
+        "Information architecture"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*Ta5KMb-cY_i5Q-8Xj-XQow.png",
+      "image": "https://cdn-images-1.medium.com/max/2000/1*QCCF0VpjrlfFguAvgr4iKQ@2x.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/@gabriel.tolentino.oliveira/como-fazer-algu%C3%A9m-desejar-um-caf%C3%A9-que-ainda-n%C3%A3o-existe-e0169cbb6226?source=rss------ux-5",
-      "pubDate": "Fri, 20 Nov 2026 17:54:24 GMT"
+      "link": "https://medium.com/@vanborn-labs/what-your-website-should-do-for-your-business-7-questions-to-ask-before-you-build-6a5228a01232?source=rss------ux-5",
+      "pubDate": "Sat, 21 Nov 2026 17:38:27 GMT"
     },
     {
-      "headline": "From PageMaker to AI: How Tools Reshaped the Design Profession",
-      "background": "The design profession has undergone several tool-driven transformations — from desktop publishing in the 1980s through web design to current AI-assisted workflows. This piece traces that arc to examine what has actually changed in the role itself.",
+      "headline": "YouTube Partner Program changes prompt creator monetization concerns",
+      "background": "YouTube has been adjusting the terms and structure of its Partner Program, affecting how creators qualify for and retain monetization. This piece reflects creator-side frustration with the shifting rules.",
       "keyFindings": [
-        "The piece frames tool shifts from PageMaker onward as a sequence of professional redefinitions, not just workflow changes",
-        "AI is positioned as the latest in a recurring pattern of technology forcing designers to renegotiate their value",
-        "Historical framing suggests current AI disruption is structurally similar to past transitions, not categorically different"
+        "The author is explicitly asking readers not to subscribe, suggesting dissatisfaction with how subscription metrics interact with current monetization structures.",
+        "YouTube Partner Program rule changes have created uncertainty for mid-tier creators about revenue stability."
       ],
-      "implications": "Worth reading as a reframe for designers anxious about AI displacement — the historical lens suggests adaptation, not obsolescence, has been the consistent pattern. Useful context for conversations about hiring, roles, and skill development.",
+      "implications": "Limited direct relevance for UX/product practitioners unless working on creator-facing platforms or monetization features. Worth noting as a signal that creator trust in platform monetization systems is fragile and sensitive to opaque rule changes.",
       "tags": [
-        "AI Tools",
-        "Design History",
-        "Professional Identity"
+        "Creator economy",
+        "Platform policy"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "Product design",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/667/1*0kTdJNKsP24IrGVJ5nPu3Q.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@kamillycost/do-pagemaker-%C3%A0-ia-como-a-tecnologia-redesenhou-a-profiss%C3%A3o-de-designer-783aa46f385f?source=rss------product_design-5",
-      "pubDate": "Fri, 20 Nov 2026 17:38:06 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1672/1*An3bRjHTYRm2X6xo7CjTgA.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/youtube-handbook/please-dont-subscribe-i-need-something-else-1f308e775fd5?source=rss------ux-5",
+      "pubDate": "Sat, 21 Nov 2026 17:33:22 GMT"
     },
     {
-      "headline": "Magic Logix Rebrands Around AI Search and Digital Growth",
-      "background": "Digital agencies are under pressure to reposition as AI reshapes search and content discovery. Magic Logix has launched a named strategy — 'Digital Beyond Tomorrow' — centered on AI search optimization and growth services.",
+      "headline": "Philosophy piece on self-dialogue — not relevant to this digest",
+      "background": "This article appears to be a philosophical or self-help piece on internal dialogue and self-knowledge, published in a New Zealand news outlet. It has no apparent connection to UX, product, or technology.",
       "keyFindings": [
-        "The strategy explicitly targets AI-driven search as a core service area, reflecting shifts in how content is surfaced",
-        "The announcement is a positioning move as much as a product launch",
-        "No independent data on outcomes or methodology is included in available coverage"
+        "No UX, product, or tech content identified in this article.",
+        "Appears to be a general interest or philosophy piece misfiled in this batch."
       ],
-      "implications": "Low immediate relevance for UX practitioners. Signals that agencies are actively packaging AI search as a sellable service, which may affect how clients brief UX and content teams on discoverability requirements.",
+      "implications": "Not applicable to UX, product, or tech practice. Recommend excluding from the digest.",
       "tags": [
-        "AI Search",
-        "Agency Positioning",
-        "Digital Strategy"
+        "Off-topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Cincinnati Enquirer",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU3E3VnN2T1h5TVJRMThVemdPUkg0X1ZpeVh0YUNqcHNadUx6enBnMnJEcGZraUVSSWpNOG1GNFdtRl8zaGpEVWNjN19FeWY2UEtiUkdLdWdFOUgzczBKdVRDbm9LU0FXRW1acV8wbDhpa08zOVJKcFNNc3BSNElZQTBzMVV2bC13Qk5FelZ6MGJNS0dzcTNvZ2RwMjRoWmkxTW1JYy1wUy1CVWhBWW5qcHdDRWZVbzlNaHpnTEUybUN2ak9vVWYzd1pYTGNRdjZ5ZUdaRkdPN2NCN3lkaFY2a1FR?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 13:43:37 GMT"
+      "source": "Scoop - New Zealand News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYjU2VmVRbEdnWXRGLVc3c3B5VVJIbHoxYTc2djk2SW1QRTBzTFZrTmFDX3NOZW1aTXpKS3Z3OHcxTTZkODR2VDR2Yi1IVkp5VEIxOFZpREx3a3M3Si1LTmFQQkRwREdqTGJjdjRWb1A3N01pXzJ4Z213djZvTnh5Z1VmSWVDRWhWb1JhMW81MkpZQi15MkZyYkliTktDWldSRGRJc2FfYUllZjRj?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 03:08:00 GMT"
     },
     {
-      "headline": "Listicle of US Car Cleaning App Dev Firms Adds Little Value",
-      "background": "On-demand service apps remain a common development brief, and vendor selection listicles proliferate to capture that search traffic. This piece lists 12 US companies offering car cleaning app development.",
+      "headline": "Directory list of Flutter dev agencies in Dubai — not editorial",
+      "background": "This is a vendor directory or sponsored listing of Flutter app development companies in the UAE, published on a technology listings site. It is not an editorial or analytical piece.",
       "keyFindings": [
-        "Lists 12 companies positioning themselves for on-demand vehicle care app development in the US",
-        "No evaluation criteria or comparative data are provided",
-        "Content is promotional in nature with no independent vetting"
+        "No original research, findings, or analysis present — purely a ranked vendor list.",
+        "Flutter is a cross-platform mobile development framework maintained by Google."
       ],
-      "implications": "Not a useful reference for UX or product decision-making. If you're evaluating development partners, primary research with defined criteria will be more reliable than listicle sources.",
+      "implications": "Not suitable for the digest in its current form. Could be referenced only if the digest covers vendor sourcing, which is outside its stated scope.",
       "tags": [
-        "On-Demand Apps",
-        "Vendor Selection"
+        "Off-topic",
+        "Flutter"
       ],
       "featured": false,
       "type": "research",
@@ -158,77 +129,95 @@
       "publishedWindow": "today",
       "image": null,
       "source": "WhaTech",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOWhGdFNrUUs1QmVnVk5DQzlfak8xSTFNaDFDR2NkeG4yWktaMnZwbDZtLXMtN1ZZVVdaTldpYjFpaXBpZG96NE1INGhOMU0yOV9DbVU3QUxSZkFIdmhiLVpwd0QxMnlwRFEwckwtRlVLVDFNM0VobXlhRF90b095eS1BYmFEVVZSM3hCZnJsRldIM3k3eFlWZjhjUlpYM2RwTy1mV3plRDhJOHJJbzhkUktXQTg2UmI4aWZubWRjdm5xQ0hyU0lELTRPUVhTWXpJelNnTE01eUtVMmNSRXdB0gHfAUFVX3lxTE45aEZ0U2tRSzVCZWdWTkNDOV9qTzFJMU1oMUNHY2R4bjJaS1oydnBsNm0tcy03VllVV1pOV2liMWlpcGlkb3o0TUg0aE4xTTI5X0NtVTdBTFJmQUh2aGItWnB3RDEyeXBEUTByTC1GVUtUMU0zRWhteWFEX3RvT3l5LUFiYURVVlIzeEJmcmxGV0gzeTd4WVZmOGNSWlgzZHBPLWZXemVEOEk4cklvOGRSS1dBODZSYjhpZm5tZGN2bnFDSHJTSUQtNE9RWFNZekl6U2dMTTV5S1UyY1JFd0E?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 09:17:12 GMT"
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd2JEQVJDb19yUlFqQWhrbFlBQUlhOW5lcjhYNTZUVXZsOUEzUEJwM3hyZko1d19Ud0tqcFhHWkJRUnNQQkloeEdfVnUxUmVpYUJVNnZmRGJucm54LUcxWnlKM3BZd1J6Y2ZnSUIxYkRxMkJMWE5SczJuN0tqYmJEUkIxaEFqZDlOY3VFeDVna2ItanFmMDJSdTZYVmpUWkZ0TjRDbWU3OTlpN1RtTHpJRVdMdHRlVVFaZmVnV9IBvAFBVV95cUxQd2JEQVJDb19yUlFqQWhrbFlBQUlhOW5lcjhYNTZUVXZsOUEzUEJwM3hyZko1d19Ud0tqcFhHWkJRUnNQQkloeEdfVnUxUmVpYUJVNnZmRGJucm54LUcxWnlKM3BZd1J6Y2ZnSUIxYkRxMkJMWE5SczJuN0tqYmJEUkIxaEFqZDlOY3VFeDVna2ItanFmMDJSdTZYVmpUWkZ0TjRDbWU3OTlpN1RtTHpJRVdMdHRlVVFaZmVnVw?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 02:47:24 GMT"
     },
     {
-      "headline": "Nielsen Norman UX Conference Set for March 1–4, 2027",
-      "background": "The Nielsen Norman Group runs recurring live online UX training conferences aimed at practicing UX professionals. The March 2027 Americas session has been announced with a multi-course format.",
+      "headline": "TheySaid 4.0 embeds user reaction testing directly in the build environment",
+      "background": "User testing tools have traditionally sat outside the design and development workflow, requiring context-switching to gather feedback. TheySaid is positioning version 4.0 as an integrated solution that surfaces reactions during the build process.",
       "keyFindings": [
-        "Americas session runs March 1–4, 2027; Asia/Australia session follows March 2–5",
-        "Attendees can take up to 2 in-depth training courses per registration",
-        "Format is live online, focused on applied skills rather than keynote-style content"
+        "TheySaid 4.0 claims to show how users will react to features at the point of creation, rather than in a separate testing phase.",
+        "The product appears to target designers and PMs who want faster feedback loops without leaving their build environment.",
+        "The launch is covered via a press release wire, meaning claims are vendor-originated and not independently verified."
       ],
-      "implications": "Relevant if you're planning professional development budgets for Q1 2027. The 2-course cap per registration is a practical constraint to factor into team training plans.",
+      "implications": "Treat with appropriate skepticism — this is a product launch announcement, not an independent review. Worth evaluating if your team loses time context-switching to run user tests, but validate the 'predict reactions' claim carefully before relying on it for consequential design decisions.",
       "tags": [
-        "Professional Development",
-        "UX Training",
-        "Conferences"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 20 Nov 2026 03:44:24 +0000"
-    },
-    {
-      "headline": "Desizner Agency Claims Environmental Mission Alongside Digital Work",
-      "background": "Sustainability positioning has become increasingly common among digital agencies as clients factor ESG criteria into vendor selection. Desizner is marketing itself as combining digital innovation with environmental impact commitments.",
-      "keyFindings": [
-        "Agency explicitly frames environmental impact as a core part of its identity, not a side initiative",
-        "No specific metrics, certifications, or project outcomes are cited in available coverage",
-        "Coverage comes from a local TV news outlet, suggesting a regional PR push"
-      ],
-      "implications": "Thin on specifics. Relevant only if you're evaluating agency partners with sustainability mandates. Treat the environmental claims as unverified without independent evidence.",
-      "tags": [
-        "Agency Positioning",
-        "Sustainability",
-        "Digital Services"
+        "User testing tools",
+        "Product launch",
+        "Design workflow"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "WBOC TV",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPWTg5N0hMZ0hrY0lkMzhkbmVTdVdhVTRuZkhfQTFwNW5UUHJ1WUExVDdzZzNWeVM3bTAzMlp4UHpjalJWZ1k3R1AwMVl0cVRwQ0hYQzVscVJVS2czYUo2clBBUzBwclByVGU1Xzc2RVdBcndFdnZtMGNxN1V0WC1jUkZWUWptVFd1b0ozWHdkM0RmczZSYmlnTG9fVlhFRnFVUGlPam1PQzRoR3E1SWxUT2ViWHh4TnRJV21SSTFpM3lHZjRuWXRUZlRraC1mQ0NmZ08xOUhWc2xNTklSQnE1bTNnRkpQRE5JRUp5SHhqZk9ITkpYbTBpWGN3NTlmOGhVM2RBR3ZUUDNKTmN5SVFaZVd4WG43R01PaDJDNWV2ZlJPdlZTdkV6OEVuNDR6N2owbHFfMmdB?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 03:35:03 GMT"
+      "source": "Issuewire",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNmVHX3EwekFMSkVmdTJnVm1GN0YzX1R5bU9hdjQ5eXJKNi1QMUVPS0NXaXpHNlpZMmJOV1lYSEVzQkNKS2JINmJXX0o5VkppUC0wLWxwUm5sVWJTOWMtUEg0TE5fWHR0ZWpJQTR5enhEaXNDWkRTMnNPOUhKc0dHWUtQNlBPSlA1WUU1TFAzR2pRdzUtMGdtZjJCczRMeUFWVGlEcXctTzZGNUJYVXlB?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 23:57:25 GMT"
     },
     {
-      "headline": "Nielsen Norman UX Conference Set for February 22–26, 2027",
-      "background": "The Nielsen Norman Group's February 2027 live online conference has been announced, offering a larger course load than the March session. These conferences are a primary continuing education channel for mid-to-senior UX practitioners.",
+      "headline": "Samsung may copy Apple's Dynamic Island for One UI live notifications",
+      "background": "Apple's Dynamic Island, introduced with the iPhone 14 Pro, repurposed the pill-shaped camera cutout as an interactive notification surface. Samsung has not had an equivalent feature, and reports suggest One UI 9.5 may introduce something similar.",
       "keyFindings": [
-        "Runs February 22–26, 2027 as a live online event",
-        "Attendees can take up to 5 in-depth training courses, more than the March session's 2-course limit",
-        "Positioned around durable, applied UX skills rather than trend coverage"
+        "One UI 9.5 may introduce persistent live notification indicators in the status bar area, functionally similar to Dynamic Island's Live Activities.",
+        "The feature is still reportedly in development and unconfirmed by Samsung officially.",
+        "If shipped, this would bring Android's most-used UI skin closer to parity with iOS on ambient, glanceable notification design."
       ],
-      "implications": "If professional development budget allows only one NNG conference window, the February session's 5-course capacity offers substantially more training density than the March option. Plan registration and budget allocation accordingly.",
+      "implications": "Android designers should monitor this closely — if Samsung ships a Live Activities equivalent, it will rapidly become a baseline user expectation on Android, requiring consideration in notification and status design for apps targeting Samsung devices.",
       "tags": [
-        "Professional Development",
-        "UX Training",
-        "Conferences"
+        "Android",
+        "Notification design",
+        "Mobile OS"
       ],
       "featured": false,
       "type": "research",
-      "category": "Research",
+      "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "NN/g latest articles and announcements",
-      "link": "https://www.nngroup.com/training/february/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 20 Nov 2026 03:16:44 +0000"
+      "source": "SammyGuru",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVmVjQkFPc3ZtRXVXdGg5NnFuT01pZmhzd19TM3NhaGM2NENERWswcFVBaE9sbi1nM2ZvWnd2WF9EVXRfODBxbGxQcm5uQkFiTG5DMDRMVHlXRnNyV21rQU1rLWhqWUZFY1B0dWZoZ3BzRGdxYjM5VGxfWkFPMzhseg?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 22:49:32 GMT"
+    },
+    {
+      "headline": "College faculty union responds to staff layoffs — not relevant",
+      "background": "This is a local news article about labor concerns at St. Lawrence College in Kingston, Ontario, related to faculty layoffs and staffing changes.",
+      "keyFindings": [
+        "No UX, product, or technology content in this article.",
+        "Covers institutional labor relations at a Canadian college."
+      ],
+      "implications": "Not applicable to this digest's audience or scope. Recommend excluding.",
+      "tags": [
+        "Off-topic"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Kingstonist News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzdZc1RDbUVxUGlrVV9NcG5OckNDV2tVMkN3VkVkeXlOU05lTEh6YWlWWVpjRk9aYWJ4LUFfRHpqV3R5dm9uVnpoQThmUFM2OHZDRHVnT2xrT1BNbEsxRXhta0ZuVXhSTEFSV2JZS0xZM2ZyRjloaWVHQW1PR1dIanZBSm1qSVZBUU5hT01QQ1ZiVzYycVVySnhGT2M?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 22:01:37 GMT"
+    },
+    {
+      "headline": "Google offering 1,000 digital skills scholarships in Fiji",
+      "background": "Google has periodically run scholarship and digital skills programs in developing markets. This article covers a specific initiative targeting Fiji.",
+      "keyFindings": [
+        "Google is offering 1,000 scholarships to Fijians, though the specific programs or certifications covered are not detailed in the snippet.",
+        "Initiative appears to be part of Google's broader regional digital inclusion efforts in the Pacific."
+      ],
+      "implications": "Peripheral relevance for practitioners interested in digital equity or workforce development in the Pacific region. Not directly actionable for UX/product work, but worth noting for anyone tracking Google's international skills initiatives.",
+      "tags": [
+        "Digital inclusion",
+        "Education"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "FBC News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSTdLaHhZQ1VMaEp3bllMaHpmSHMwRUFYY2hxMGxaM19LcWl6TjdxaDJtMnNlNXZiV0xkaGVWZ3pMdzlOSEFaZXp5ZWVfbHRYZjcyQkU5T3ptOC1iYVFmY1hYU18yUmtQYkRlWklNTFFDQTBjWUpySjQxMXB1TUoyRUpB?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 21:36:42 GMT"
     }
   ]
 }
