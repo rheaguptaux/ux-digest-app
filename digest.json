@@ -1,223 +1,226 @@
 {
-  "generatedAt": "2026-11-21T18:46:16.932Z",
+  "generatedAt": "2026-11-22T19:08:12.764Z",
   "items": [
     {
-      "headline": "Slow AI features are a design problem, not a model problem",
-      "background": "As AI-powered features proliferate in products, teams often treat latency as a purely technical constraint — something to hand off to engineers or accept as a model limitation. This piece challenges that assumption.",
+      "headline": "Generic design choices are eroding client trust in 2026.",
+      "background": "As AI-generated and template-driven design has flooded the web, clients and users are increasingly able to recognize low-effort visual patterns. This piece argues that certain overused design conventions — including ubiquitous typeface choices like Inter — are now actively signaling inauthenticity.",
       "keyFindings": [
-        "Perceived latency is shaped by design choices like loading states, progressive disclosure, and feedback timing — not just raw response time.",
-        "Streaming outputs and skeleton screens can make a 4-second response feel faster than a 1-second response with no feedback.",
-        "Teams that treat latency as a product and design decision — not just an infrastructure one — ship AI features with higher perceived performance."
+        "Over-reliance on default typefaces like Inter is now legible to clients as a signal of generic, low-effort work.",
+        "The piece frames these patterns as 'slop' — a term gaining traction for AI-default or template-default output that lacks intentional craft.",
+        "Trust erosion is positioned as a business risk, not just an aesthetic one, affecting client retention and perceived expertise."
       ],
-      "implications": "If your AI feature feels slow, audit the interaction design before escalating to the model team. Streaming, optimistic UI, and staged loading are levers within a designer or PM's control. Applies especially to teams building LLM-powered features on top of third-party APIs where model latency is fixed.",
+      "implications": "Designers presenting work to clients in 2026 should audit their default toolkit — if your typography, layout patterns, and component choices are indistinguishable from AI output, that may be costing you credibility. Differentiation now requires visible intentionality, not just technical correctness.",
       "tags": [
-        "AI features",
-        "Performance",
-        "Interaction design"
+        "Visual Design",
+        "Client Relations",
+        "Design Trends"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2593/1*2J_5BKnRkgrrcdZl1Rflog.png",
+      "source": "UX on Medium",
+      "link": "https://michalmalewicz.medium.com/these-slop-patterns-kill-your-client-trust-online-in-2026-2027-77afac23fe8a?source=rss------ux-5",
+      "pubDate": "Sun, 22 Nov 2026 18:47:14 GMT"
+    },
+    {
+      "headline": "How to pick a compact USB-C charger: a checklist.",
+      "background": "With USB-C now the universal standard across laptops, phones, and peripherals, the charger market has become crowded and confusing, with wide variation in wattage, size, safety certifications, and multi-port capability.",
+      "keyFindings": [
+        "The checklist framework prioritizes wattage compatibility with specific device classes rather than buying maximum wattage by default.",
+        "GaN (Gallium Nitride) technology is highlighted as the key factor enabling high wattage in compact form factors.",
+        "Safety certifications (UL, CE) are flagged as non-negotiable criteria often skipped by budget buyers."
+      ],
+      "implications": "Primarily useful for individuals or IT/ops teams standardizing on travel or desk accessories. Not UX/product-specific content — limited relevance to this audience unless sourcing hardware for research or remote work setups.",
+      "tags": [
+        "Hardware",
+        "Productivity",
+        "Consumer Tech"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1122/1*Yf0T3_3FP0kWGAtF2LCaTA.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@jahiraaa049/a-practical-checklist-for-choosing-a-compact-usb-c-charger-aa88dffb64ab?source=rss------product_design-5",
+      "pubDate": "Sun, 22 Nov 2026 18:46:08 GMT"
+    },
+    {
+      "headline": "Anthropic IPO, Gemini Tasks, AI agents: what it means for product teams.",
+      "background": "The week of November 15–22, 2026 saw several significant AI industry developments, including signals around Anthropic's public market ambitions and Google's expansion of autonomous agent capabilities in Gemini. This digest translates those developments into product and design implications.",
+      "keyFindings": [
+        "Gemini Tasks introduces persistent, scheduled AI agent behavior — users can set instructions that execute autonomously over time, raising new UX questions around oversight and trust.",
+        "AI agents capable of completing e-commerce purchases on behalf of users are moving from demos to real deployments, compressing the timeline for designers to solve agent-mediated transaction UX.",
+        "Anthropic's IPO trajectory signals institutional confidence in Claude as an enterprise platform, likely accelerating its adoption in B2B product stacks."
+      ],
+      "implications": "Product and UX teams building on or alongside AI platforms need to start designing for agentic workflows now — specifically, how users monitor, correct, and trust actions they didn't directly initiate. The Gemini Tasks pattern in particular sets a precedent for how 'set and forget' AI interactions will be framed to users.",
+      "tags": [
+        "AI Agents",
+        "Product Strategy",
+        "AI Tools"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1920/0*3y1AUv3ZK6CM8mol",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@shreyaskalyanpad25/anthropics-ipo-gemini-tasks-and-ai-agents-that-shop-nov-22-b389e6356423?source=rss------product_design-5",
+      "pubDate": "Sun, 22 Nov 2026 18:33:36 GMT"
+    },
+    {
+      "headline": "SaaS backlash isn't about taste — it's about broken purpose.",
+      "background": "Criticism of SaaS products has intensified as subscription fatigue, feature bloat, and declining customer satisfaction scores have become recurring complaints. This piece argues the problem is structural, not stylistic.",
+      "keyFindings": [
+        "The core argument is that SaaS products have drifted from solving user problems toward optimizing for retention metrics, creating a misalignment between product purpose and user value.",
+        "Feature accumulation is identified as a primary driver — products add capabilities to justify pricing tiers rather than in response to genuine user need.",
+        "The piece positions the backlash as a market correction signal, suggesting leaner, more focused tools are gaining ground against established bloated platforms."
+      ],
+      "implications": "Product teams operating under growth-at-all-costs mandates should treat this backlash as a leading indicator. Auditing feature usage data to identify low-adoption surface area — and actually removing or hiding it — may now be a competitive differentiator, not just a UX nicety.",
+      "tags": [
+        "SaaS",
+        "Product Strategy",
+        "Feature Prioritization"
       ],
       "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1671/1*5PSVp_Ec3mo1eko23E7ZBQ.png",
+      "image": "https://cdn-images-1.medium.com/max/2048/1*rf6piEoekNfinGw29n8VRA.jpeg",
       "source": "UX on Medium",
-      "link": "https://medium.com/@ikilic/latency-is-a-product-decision-9840e52e89f0?source=rss------ux-5",
-      "pubDate": "Sat, 21 Nov 2026 18:07:14 GMT"
+      "link": "https://medium.com/@ritheshkumar226/why-everyone-is-hating-saas-da5433406444?source=rss------ux-5",
+      "pubDate": "Sun, 22 Nov 2026 17:45:21 GMT"
     },
     {
-      "headline": "CRO audit vs. UX audit: same tools, different questions",
-      "background": "CRO and UX audits are frequently conflated or used interchangeably by clients and practitioners, leading to mismatched deliverables and unmet expectations. The distinction matters for scoping work and setting the right success metrics.",
+      "headline": "AX Design: AI experience design is a distinct, emerging role.",
+      "background": "As AI becomes a core product layer rather than a feature, there is growing recognition that designing for AI systems requires skills and methods that differ substantially from traditional interface design. 'AX Design' (AI Experience Design) is being proposed as a formal discipline.",
       "keyFindings": [
-        "A CRO audit is built around a conversion question — why aren't users completing a specific action — while a UX audit is built around an experience question about usability and flow.",
-        "Both use tools like heatmaps, session recordings, and analytics, but interpret the data through different lenses and produce different recommendations.",
-        "Conflating the two often results in UX fixes that don't move conversion metrics, or CRO tweaks that create broader usability regressions."
+        "AX Design is characterized as working primarily with model behavior, prompt architecture, and output quality rather than visual interfaces — Figma is largely irrelevant to the core work.",
+        "Key AX competencies cited include evaluation design, failure mode mapping, and setting user expectations around probabilistic outputs.",
+        "The role is positioned as closer to conversation design and systems thinking than to visual or interaction design."
       ],
-      "implications": "Before scoping an audit, align with stakeholders on the core question being asked. If the client wants revenue impact, frame and deliver a CRO audit. If the goal is broader usability improvement, a UX audit is the right fit — but be explicit that conversion lift is a secondary outcome, not the primary measure.",
+      "implications": "UX practitioners looking to stay relevant in AI-heavy product orgs should assess whether their skills extend beyond interface work into output evaluation and behavioral design. This role is likely to be hired from diverse backgrounds — linguistics, QA, research — not exclusively design.",
       "tags": [
-        "CRO",
-        "UX audits",
-        "Research methods"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*4_xp7rAk11MWg-wjsQeI-w.png",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@olgakalinina.me/cro-audit-vs-ux-audit-whats-the-difference-4e9e8c7d5a69?source=rss------ux_research-5",
-      "pubDate": "Sat, 21 Nov 2026 17:55:10 GMT"
-    },
-    {
-      "headline": "7 questions to ask before building a small business website",
-      "background": "Many small business websites are built to look credible rather than to perform a business function. This piece addresses the gap between aesthetically acceptable sites and ones that actually generate leads, calls, or sales.",
-      "keyFindings": [
-        "A common failure mode is building a site around what the business wants to say rather than what a visitor needs to do or decide.",
-        "The piece frames website goals around seven diagnostic questions, pushing owners to define the specific action they want visitors to take.",
-        "Sites that list contact information without a clear call-to-action or value proposition consistently underperform even when technically well-built."
-      ],
-      "implications": "Useful framing for UX practitioners working with SMB clients who come in asking for a redesign when the real problem is strategic ambiguity about what the site is for. Use these questions in a discovery session before touching wireframes or content.",
-      "tags": [
-        "Content strategy",
-        "Small business",
-        "Information architecture"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2000/1*QCCF0VpjrlfFguAvgr4iKQ@2x.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@vanborn-labs/what-your-website-should-do-for-your-business-7-questions-to-ask-before-you-build-6a5228a01232?source=rss------ux-5",
-      "pubDate": "Sat, 21 Nov 2026 17:38:27 GMT"
-    },
-    {
-      "headline": "YouTube Partner Program changes prompt creator monetization concerns",
-      "background": "YouTube has been adjusting the terms and structure of its Partner Program, affecting how creators qualify for and retain monetization. This piece reflects creator-side frustration with the shifting rules.",
-      "keyFindings": [
-        "The author is explicitly asking readers not to subscribe, suggesting dissatisfaction with how subscription metrics interact with current monetization structures.",
-        "YouTube Partner Program rule changes have created uncertainty for mid-tier creators about revenue stability."
-      ],
-      "implications": "Limited direct relevance for UX/product practitioners unless working on creator-facing platforms or monetization features. Worth noting as a signal that creator trust in platform monetization systems is fragile and sensitive to opaque rule changes.",
-      "tags": [
-        "Creator economy",
-        "Platform policy"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/1*An3bRjHTYRm2X6xo7CjTgA.png",
-      "source": "UX on Medium",
-      "link": "https://medium.com/youtube-handbook/please-dont-subscribe-i-need-something-else-1f308e775fd5?source=rss------ux-5",
-      "pubDate": "Sat, 21 Nov 2026 17:33:22 GMT"
-    },
-    {
-      "headline": "Philosophy piece on self-dialogue — not relevant to this digest",
-      "background": "This article appears to be a philosophical or self-help piece on internal dialogue and self-knowledge, published in a New Zealand news outlet. It has no apparent connection to UX, product, or technology.",
-      "keyFindings": [
-        "No UX, product, or tech content identified in this article.",
-        "Appears to be a general interest or philosophy piece misfiled in this batch."
-      ],
-      "implications": "Not applicable to UX, product, or tech practice. Recommend excluding from the digest.",
-      "tags": [
-        "Off-topic"
+        "AI Tools",
+        "Design Roles",
+        "Emerging Practice"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Scoop - New Zealand News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYjU2VmVRbEdnWXRGLVc3c3B5VVJIbHoxYTc2djk2SW1QRTBzTFZrTmFDX3NOZW1aTXpKS3Z3OHcxTTZkODR2VDR2Yi1IVkp5VEIxOFZpREx3a3M3Si1LTmFQQkRwREdqTGJjdjRWb1A3N01pXzJ4Z213djZvTnh5Z1VmSWVDRWhWb1JhMW81MkpZQi15MkZyYkliTktDWldSRGRJc2FfYUllZjRj?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 03:08:00 GMT"
+      "source": "Medium",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRlpnUTI3UXZGWUtXSV9CZ1Yzc2dsVWxxR0FDaF9BTExYYUVORHpFOWxXZVZsRGpBVkZyN2dVUTJuOHdYMFhTRm9DZDg5bFpPU0I0Zlo1OEY2S25ab1p4MlFyYTd4YWdTMERvaXYwclBNZzRMaDZHeE9LM2tYeHZndmppc3AyaS1ITGhENUE3ZXc4TmJIcGRyZXlsWi1DdEtVaGMyYw?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 13:37:23 GMT"
     },
     {
-      "headline": "Directory list of Flutter dev agencies in Dubai — not editorial",
-      "background": "This is a vendor directory or sponsored listing of Flutter app development companies in the UAE, published on a technology listings site. It is not an editorial or analytical piece.",
+      "headline": "Irrelevant to this audience: biomedical market forecast.",
+      "background": "This article covers market projections for MBP isoform antigen peptide pools in neuroimmunology research — a pharmaceutical and life sciences topic with no connection to UX, product design, or technology.",
       "keyFindings": [
-        "No original research, findings, or analysis present — purely a ranked vendor list.",
-        "Flutter is a cross-platform mobile development framework maintained by Google."
+        "Content is entirely outside the scope of UX, product, or tech practice.",
+        "Likely included in feed due to tagging or aggregation error."
       ],
-      "implications": "Not suitable for the digest in its current form. Could be referenced only if the digest covers vendor sourcing, which is outside its stated scope.",
+      "implications": "No actionable relevance for UX, product, or tech practitioners. Skip.",
       "tags": [
-        "Off-topic",
-        "Flutter"
+        "Off-Topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "WhaTech",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd2JEQVJDb19yUlFqQWhrbFlBQUlhOW5lcjhYNTZUVXZsOUEzUEJwM3hyZko1d19Ud0tqcFhHWkJRUnNQQkloeEdfVnUxUmVpYUJVNnZmRGJucm54LUcxWnlKM3BZd1J6Y2ZnSUIxYkRxMkJMWE5SczJuN0tqYmJEUkIxaEFqZDlOY3VFeDVna2ItanFmMDJSdTZYVmpUWkZ0TjRDbWU3OTlpN1RtTHpJRVdMdHRlVVFaZmVnV9IBvAFBVV95cUxQd2JEQVJDb19yUlFqQWhrbFlBQUlhOW5lcjhYNTZUVXZsOUEzUEJwM3hyZko1d19Ud0tqcFhHWkJRUnNQQkloeEdfVnUxUmVpYUJVNnZmRGJucm54LUcxWnlKM3BZd1J6Y2ZnSUIxYkRxMkJMWE5SczJuN0tqYmJEUkIxaEFqZDlOY3VFeDVna2ItanFmMDJSdTZYVmpUWkZ0TjRDbWU3OTlpN1RtTHpJRVdMdHRlVVFaZmVnVw?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 02:47:24 GMT"
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb01PVVhnaUxMQXZ5YjlVSXpaWTFHZWxJamY1YVE0NE5DNTdJZ2hEOE5nYWt3Zkc4WGdrWGRTZzgwM1U0ZWFkQ0tUWFVIcnBLdEIxaW9lTnZ6eklkMVd1SWstai0xU0hlT1NxZWNIV2N4THowb3dnZWpDeE9TSjdpUnlLUERxSE5GMzF2MVEzaGoyMmVqTlgxYzBtbm0tNTRoWWVNdEV5aXRnd2M0dFF6VHlhRDJwTTB6STR4TDhKUUlobmJYVHFyVFNyNDk?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 13:26:04 GMT"
     },
     {
-      "headline": "TheySaid 4.0 embeds user reaction testing directly in the build environment",
-      "background": "User testing tools have traditionally sat outside the design and development workflow, requiring context-switching to gather feedback. TheySaid is positioning version 4.0 as an integrated solution that surfaces reactions during the build process.",
+      "headline": "How to register UI design protection in Germany in 2026.",
+      "background": "IP protection for digital interfaces remains poorly understood among designers and product teams. Germany's design registration system offers a formal legal mechanism to protect UI designs, but the process and eligibility criteria are not widely known.",
       "keyFindings": [
-        "TheySaid 4.0 claims to show how users will react to features at the point of creation, rather than in a separate testing phase.",
-        "The product appears to target designers and PMs who want faster feedback loops without leaving their build environment.",
-        "The launch is covered via a press release wire, meaning claims are vendor-originated and not independently verified."
+        "UI designs can be registered as 'Geschmacksmuster' (registered designs) in Germany, providing up to 25 years of protection if renewed.",
+        "Registration requires the design to be novel and have individual character — purely functional UI elements are not protectable.",
+        "The guide covers the German Patent and Trade Mark Office (DPMA) filing process, including required visual documentation standards for screen-based designs."
       ],
-      "implications": "Treat with appropriate skepticism — this is a product launch announcement, not an independent review. Worth evaluating if your team loses time context-switching to run user tests, but validate the 'predict reactions' claim carefully before relying on it for consequential design decisions.",
+      "implications": "Relevant for product and design teams at companies with European market presence, particularly those launching proprietary interfaces or design systems they want to protect from copying. Legal counsel familiar with EU design law should be involved — this guide provides orientation, not a substitute for professional advice.",
       "tags": [
-        "User testing tools",
-        "Product launch",
-        "Design workflow"
+        "IP Law",
+        "Design Systems",
+        "Legal"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Issuewire",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNmVHX3EwekFMSkVmdTJnVm1GN0YzX1R5bU9hdjQ5eXJKNi1QMUVPS0NXaXpHNlpZMmJOV1lYSEVzQkNKS2JINmJXX0o5VkppUC0wLWxwUm5sVWJTOWMtUEg0TE5fWHR0ZWpJQTR5enhEaXNDWkRTMnNPOUhKc0dHWUtQNlBPSlA1WUU1TFAzR2pRdzUtMGdtZjJCczRMeUFWVGlEcXctTzZGNUJYVXlB?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 23:57:25 GMT"
+      "source": "Global Advisory Experts",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaFhYWnJzd0tiX1Vhc1VxOEM2cGM0V0JkTlhYZHN5dkFJSHp0VUdJWHQ3dnAxYmdJTXBLSzZ4c1h3OVRvWFBkQnd5REl0czR3RHVEckNEa2RQSWYyR0tKaTYwdjVxWEhVQTFWNFlfZU9yd09OWjZPY3A4UFJwckxWa0hzYnFkTmZYOFBHRmczSEd3QQ?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 06:47:33 GMT"
     },
     {
-      "headline": "Samsung may copy Apple's Dynamic Island for One UI live notifications",
-      "background": "Apple's Dynamic Island, introduced with the iPhone 14 Pro, repurposed the pill-shaped camera cutout as an interactive notification surface. Samsung has not had an equivalent feature, and reports suggest One UI 9.5 may introduce something similar.",
+      "headline": "Neuroscientist Anil Seth argues conscious AI is a myth.",
+      "background": "Claims about AI consciousness and sentience have escalated alongside advances in large language models, with some researchers and commentators arguing current systems may have subjective experience. Neuroscientist Anil Seth offers a systematic rebuttal.",
       "keyFindings": [
-        "One UI 9.5 may introduce persistent live notification indicators in the status bar area, functionally similar to Dynamic Island's Live Activities.",
-        "The feature is still reportedly in development and unconfirmed by Samsung officially.",
-        "If shipped, this would bring Android's most-used UI skin closer to parity with iOS on ambient, glanceable notification design."
+        "Seth argues that consciousness requires specific biological processes tied to bodily self-regulation, which AI systems categorically lack — making current 'conscious AI' claims category errors.",
+        "The essay distinguishes between behavioral mimicry of consciousness (which LLMs do) and actual phenomenal experience (which requires mechanisms not present in statistical models).",
+        "Seth warns that overclaiming AI consciousness has real ethical and policy consequences, potentially diverting attention from actual harms."
       ],
-      "implications": "Android designers should monitor this closely — if Samsung ships a Live Activities equivalent, it will rapidly become a baseline user expectation on Android, requiring consideration in notification and status design for apps targeting Samsung devices.",
+      "implications": "For product teams writing AI personas, documentation, or marketing copy: Seth's framework is a useful corrective against language that anthropomorphizes AI in ways that mislead users. Accuracy in how products describe AI capability and 'understanding' is both an ethical and a trust issue.",
       "tags": [
-        "Android",
-        "Notification design",
-        "Mobile OS"
+        "AI Ethics",
+        "AI Literacy",
+        "Research"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "SammyGuru",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVmVjQkFPc3ZtRXVXdGg5NnFuT01pZmhzd19TM3NhaGM2NENERWswcFVBaE9sbi1nM2ZvWnd2WF9EVXRfODBxbGxQcm5uQkFiTG5DMDRMVHlXRnNyV21rQU1rLWhqWUZFY1B0dWZoZ3BzRGdxYjM5VGxfWkFPMzhseg?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 22:49:32 GMT"
+      "source": "explainx.ai",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc1ppcDFRQ3FvaHFOTm5hOGdKZ3dRMmVwYlc5b1ZOakZfeElZYVE2c0ZoSkExekdtTnpuaUY4bjEtbC1GUFh4dDF4TW5zTS0yRTJwbVNSZzJ3MUJNZV9FU2taT3BiTWpKUFhWdVZDUXI2TmFSNkU2XzhPaWo3bzJqUkctYWlMZWRkMldR?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 00:00:00 GMT"
     },
     {
-      "headline": "College faculty union responds to staff layoffs — not relevant",
-      "background": "This is a local news article about labor concerns at St. Lawrence College in Kingston, Ontario, related to faculty layoffs and staffing changes.",
+      "headline": "Irrelevant to this audience: protein crystallography market report.",
+      "background": "This article covers automation trends and membrane protein demand in the protein crystallization and crystallography market — a life sciences and pharmaceutical research topic with no connection to UX, product design, or technology.",
       "keyFindings": [
-        "No UX, product, or technology content in this article.",
-        "Covers institutional labor relations at a Canadian college."
+        "Content is entirely outside the scope of UX, product, or tech practice.",
+        "Likely included in feed due to aggregation or tagging error."
       ],
-      "implications": "Not applicable to this digest's audience or scope. Recommend excluding.",
+      "implications": "No actionable relevance for UX, product, or tech practitioners. Skip.",
       "tags": [
-        "Off-topic"
+        "Off-Topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Kingstonist News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzdZc1RDbUVxUGlrVV9NcG5OckNDV2tVMkN3VkVkeXlOU05lTEh6YWlWWVpjRk9aYWJ4LUFfRHpqV3R5dm9uVnpoQThmUFM2OHZDRHVnT2xrT1BNbEsxRXhta0ZuVXhSTEFSV2JZS0xZM2ZyRjloaWVHQW1PR1dIanZBSm1qSVZBUU5hT01QQ1ZiVzYycVVySnhGT2M?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 22:01:37 GMT"
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcXZkZ2c1M2o5VUNYRXlraTZDWmRHQlZ0a0t2YmZGV09uNnpDMmhzR182WFBmbDNnWHJvVEVIZUZoUlQxLTdpczFhSVZwS3Yya2ZrU0lMWllkY0QxalRWRF9RWWNEcjhBR0NiV0NSeVBYWkZfOUdGV3hTYVZoZ3RjWWJmX1IydlNuUlMzUUhVcjBhZ0ltMHVxNldYSGxnaS1IdWYxcEd6QzBoZGRmT2MtOGRqbVVuWWVibS03OEN4UFdseUkwXzZSUnZHQWxUSkRqZll0cEdlY2gtcU5oZEwyc2ZIemE?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 23:16:04 GMT"
     },
     {
-      "headline": "Google offering 1,000 digital skills scholarships in Fiji",
-      "background": "Google has periodically run scholarship and digital skills programs in developing markets. This article covers a specific initiative targeting Fiji.",
+      "headline": "Irrelevant to this audience: post-MA career guide in Hindi.",
+      "background": "This article addresses career and higher education options for Indian students who have completed a Master of Arts degree — an academic and career guidance topic unrelated to UX, product design, or technology practice.",
       "keyFindings": [
-        "Google is offering 1,000 scholarships to Fijians, though the specific programs or certifications covered are not detailed in the snippet.",
-        "Initiative appears to be part of Google's broader regional digital inclusion efforts in the Pacific."
+        "Content is entirely outside the scope of UX, product, or tech practice.",
+        "Likely included in feed due to aggregation or tagging error."
       ],
-      "implications": "Peripheral relevance for practitioners interested in digital equity or workforce development in the Pacific region. Not directly actionable for UX/product work, but worth noting for anyone tracking Google's international skills initiatives.",
+      "implications": "No actionable relevance for UX, product, or tech practitioners. Skip.",
       "tags": [
-        "Digital inclusion",
-        "Education"
+        "Off-Topic"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "FBC News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSTdLaHhZQ1VMaEp3bllMaHpmSHMwRUFYY2hxMGxaM19LcWl6TjdxaDJtMnNlNXZiV0xkaGVWZ3pMdzlOSEFaZXp5ZWVfbHRYZjcyQkU5T3ptOC1iYVFmY1hYU18yUmtQYkRlWklNTFFDQTBjWUpySjQxMXB1TUoyRUpB?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 21:36:42 GMT"
+      "source": "PW",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGd0a2UtTVRXbUZIUXlKWEhhWndsYnJsYzRITEx6S2dWU3B3Mi1Kdk9JLU5XYjU0dTAxRVNYcWpqb0VUT1lXSGRSWGNZb0c0MjNiTjhMTE54SzVDbEtzeGFKc2hpTXBDSXdwWFU4MkVzVzIxbWo2b0l4ck8yT1Z4eENPOWluc3JZVmFHSXUwUl83OVFHd0NpdXhYYw?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 19:35:54 GMT"
     }
   ]
 }
