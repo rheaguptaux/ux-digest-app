@@ -1,226 +1,219 @@
 {
-  "generatedAt": "2026-11-22T19:08:12.764Z",
+  "generatedAt": "2026-11-23T23:28:30.545Z",
   "items": [
     {
-      "headline": "Generic design choices are eroding client trust in 2026.",
-      "background": "As AI-generated and template-driven design has flooded the web, clients and users are increasingly able to recognize low-effort visual patterns. This piece argues that certain overused design conventions — including ubiquitous typeface choices like Inter — are now actively signaling inauthenticity.",
+      "headline": "Forest monitoring UX: from satellite alert to field action",
+      "background": "Climate-tech tools often fail at the last mile — translating remote-sensing data into actionable steps for people working on the ground in real environments with limited connectivity and high stakes.",
       "keyFindings": [
-        "Over-reliance on default typefaces like Inter is now legible to clients as a signal of generic, low-effort work.",
-        "The piece frames these patterns as 'slop' — a term gaining traction for AI-default or template-default output that lacks intentional craft.",
-        "Trust erosion is positioned as a business risk, not just an aesthetic one, affecting client retention and perceived expertise."
+        "The design process had to bridge the gap between satellite-generated deforestation alerts and the workflows of field rangers or local responders",
+        "Key UX challenges included designing for low-literacy users, offline-first conditions, and time-critical decision-making",
+        "The case study documents how information hierarchy was restructured so urgency and location data surfaced before technical detail"
       ],
-      "implications": "Designers presenting work to clients in 2026 should audit their default toolkit — if your typography, layout patterns, and component choices are indistinguishable from AI output, that may be costing you credibility. Differentiation now requires visible intentionality, not just technical correctness.",
+      "implications": "Useful reference for anyone designing data-heavy tools for non-desk, high-stakes, or low-connectivity contexts. The tradeoffs made here — simplicity vs. data richness — are directly applicable to civic tech, disaster response, and environmental monitoring products.",
       "tags": [
-        "Visual Design",
-        "Client Relations",
-        "Design Trends"
+        "Climate tech",
+        "Field UX",
+        "Offline-first"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*Z9lDCifJLtomAtC_eXJ8sQ.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@lew.cooperpro/designing-for-forests-under-pressure-cf6b60aa0300?source=rss------product_design-5",
+      "pubDate": "Mon, 23 Nov 2026 23:19:25 GMT"
+    },
+    {
+      "headline": "Filler article — no usable content",
+      "background": "This entry appears to be a bibliographic acknowledgments section from a Pew Research Center publication, not an article.",
+      "keyFindings": [
+        "No findings available — this is not a substantive article"
+      ],
+      "implications": "Nothing actionable for UX or product practitioners.",
+      "tags": [
+        "Non-article"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Pew Research Center",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdjZpeXJKZDBjajVZYUNQdU9MU0tsbnlLajNKX0RMMUF5TlZxZ2ZUTXVwYkotcXlTajVDYWhObXpVS1Z6Wk1OalJ2RjE4bl9jb216d24xN0RLeWEzUFAySzFVWWtEWmh4SVpEQ3laZzVBNUpFeDJGeG9WWlhmX0FYN1ZscXJnZUxUdEd1aG1nX2hzMmRuU2ZXVXJIdDRjR3hfcGxXR1ZPeG5xVmx0bnNoSVlFRFNHZFE?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 22:47:49 GMT"
+    },
+    {
+      "headline": "Product design is people work. Layoffs reveal who believes that.",
+      "background": "As tech hiring has contracted, design teams have been cut disproportionately, reigniting a debate about whether product design is fundamentally a human-centered discipline or a technical craft — and which framing determines job security.",
+      "keyFindings": [
+        "The piece argues a structural contradiction exists: design orgs hire for tools and prototyping speed but justify their existence through empathy and user advocacy",
+        "When budgets are cut, the 'soft' people-skills side of design is treated as dispensable while engineering-adjacent output is retained",
+        "The framing of design as either 'people industry' or 'tech industry' has real consequences for how designers position themselves in hiring and org design"
+      ],
+      "implications": "Designers and hiring managers should examine how roles are scoped and justified internally — teams that can only articulate their value in human terms without tying to measurable outcomes are more vulnerable. This is a career and org-structure concern, not just a philosophical one.",
+      "tags": [
+        "Design careers",
+        "Org structure",
+        "Hiring"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1512/1*lss2kKfB5qTh4cToUtGOyQ.png",
+      "source": "UX on Medium",
+      "link": "https://uxdesign.cc/is-product-design-a-people-industry-or-a-tech-industry-b8f9acc8cb6d?source=rss------ux-5",
+      "pubDate": "Mon, 23 Nov 2026 22:40:32 GMT"
+    },
+    {
+      "headline": "Updated reading research: people still don't read online",
+      "background": "Decades of eye-tracking and behavioral research have shown users scan rather than read web content, but new findings continue to refine the picture — with direct implications for how UX writers and content designers structure information.",
+      "keyFindings": [
+        "Users skip large blocks of text in favor of scannable entry points like headers, bullets, and bolded terms",
+        "The research reinforces that the first two words of a headline or label carry disproportionate weight in whether content gets engaged with at all",
+        "Long-form content is not exempt — even motivated readers drop off sharply when visual hierarchy is weak"
+      ],
+      "implications": "Content designers and UX writers should audit whether key information survives a 3-second scan of any given screen or page. Front-loading meaning in labels, CTAs, and headings is not a style preference — it's the baseline for usability.",
+      "tags": [
+        "Content design",
+        "Readability",
+        "Information architecture"
       ],
       "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2593/1*2J_5BKnRkgrrcdZl1Rflog.png",
+      "image": "https://cdn-images-1.medium.com/max/1280/0*AHUGuYftuptovWsy",
       "source": "UX on Medium",
-      "link": "https://michalmalewicz.medium.com/these-slop-patterns-kill-your-client-trust-online-in-2026-2027-77afac23fe8a?source=rss------ux-5",
-      "pubDate": "Sun, 22 Nov 2026 18:47:14 GMT"
+      "link": "https://uxdesign.cc/dont-make-me-read-a6821e418bb1?source=rss------ux-5",
+      "pubDate": "Mon, 23 Nov 2026 22:40:00 GMT"
     },
     {
-      "headline": "How to pick a compact USB-C charger: a checklist.",
-      "background": "With USB-C now the universal standard across laptops, phones, and peripherals, the charger market has become crowded and confusing, with wide variation in wattage, size, safety certifications, and multi-port capability.",
+      "headline": "Using AI in redesigns: when deviation from the brief is acceptable",
+      "background": "Designers using AI tools for prototyping often face a tension between directing the output tightly and allowing the model to generate unexpected directions — with unclear norms around when AI-driven deviation adds value versus introduces risk.",
       "keyFindings": [
-        "The checklist framework prioritizes wattage compatibility with specific device classes rather than buying maximum wattage by default.",
-        "GaN (Gallium Nitride) technology is highlighted as the key factor enabling high wattage in compact form factors.",
-        "Safety certifications (UL, CE) are flagged as non-negotiable criteria often skipped by budget buyers."
+        "The author found that AI-generated prototypes diverged from their initial brief in ways that were sometimes more effective than the planned approach",
+        "The key condition they identified: deviation is acceptable when the AI makes the divergence explicit and legible, not when it silently substitutes assumptions",
+        "The piece documents a specific feature redesign workflow where AI output was used as a starting point for iteration rather than a deliverable"
       ],
-      "implications": "Primarily useful for individuals or IT/ops teams standardizing on travel or desk accessories. Not UX/product-specific content — limited relevance to this audience unless sourcing hardware for research or remote work setups.",
+      "implications": "For practitioners using AI in design workflows, the practical takeaway is to treat transparency of AI reasoning as a quality signal — outputs that surface their own assumptions are more useful for iteration than polished but opaque results.",
       "tags": [
+        "AI tools",
+        "Prototyping",
+        "Design process"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Product design",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2400/1*_4sGsQLakraPPYtoL9qyGw.png",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/design-bootcamp/the-prototype-i-didnt-draw-047f4dcadce6?source=rss------product_design-5",
+      "pubDate": "Mon, 23 Nov 2026 22:35:44 GMT"
+    },
+    {
+      "headline": "Filler article — no usable content",
+      "background": "This is a career guidance listicle from an Indian education platform targeting post-secondary students, unrelated to UX, product, or tech practice.",
+      "keyFindings": [
+        "No findings applicable to this digest's audience"
+      ],
+      "implications": "Nothing actionable for UX or product practitioners.",
+      "tags": [
+        "Non-article"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Shiksha.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZFZBSmRrNkFuRjVLNUNMWmlhYlVxdlBBQndhdjV1WEN5OFBKWVJNMWpzeVowOWZOck9fNTc4T2JIX2lTSTBQbmxFSjJqM2VCendQQ1dIN1J6ZjJhQWhOSl9qRExXOEwtOVhrSldZN1NJVXZUT09GdFJJMjktVUpEVjR6R2xEZ3diVE1neU9obzA2dW5HeTNtcWp4NGR6LWIzd2k2Sg?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 20:31:43 GMT"
+    },
+    {
+      "headline": "STM32H5 adds GPU accelerator for embedded UI performance",
+      "background": "Single-chip embedded UI design has long required tradeoffs between graphical richness and power efficiency, with developers often needing external graphics chips to achieve smooth rendering on microcontroller-based devices.",
+      "keyFindings": [
+        "The STM32H5Ex/Fx is the first STM32H5 series chip to include STMicroelectronics' Chrom-ART2 graphics accelerator on-die, eliminating the need for a separate GPU in many UI-heavy embedded designs",
+        "Chrom-ART2 offloads 2D rendering tasks from the main CPU, reducing power consumption and freeing processing headroom for application logic",
+        "The chip is positioned for industrial panels, home automation displays, and medical device interfaces where single-board simplicity matters"
+      ],
+      "implications": "Relevant for UX practitioners working on embedded or IoT device interfaces — hardware constraints that previously forced visual simplicity may ease on new STM32H5-based platforms. Worth flagging to hardware partners early in design scoping.",
+      "tags": [
+        "Embedded UI",
         "Hardware",
-        "Productivity",
-        "Consumer Tech"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1122/1*Yf0T3_3FP0kWGAtF2LCaTA.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@jahiraaa049/a-practical-checklist-for-choosing-a-compact-usb-c-charger-aa88dffb64ab?source=rss------product_design-5",
-      "pubDate": "Sun, 22 Nov 2026 18:46:08 GMT"
-    },
-    {
-      "headline": "Anthropic IPO, Gemini Tasks, AI agents: what it means for product teams.",
-      "background": "The week of November 15–22, 2026 saw several significant AI industry developments, including signals around Anthropic's public market ambitions and Google's expansion of autonomous agent capabilities in Gemini. This digest translates those developments into product and design implications.",
-      "keyFindings": [
-        "Gemini Tasks introduces persistent, scheduled AI agent behavior — users can set instructions that execute autonomously over time, raising new UX questions around oversight and trust.",
-        "AI agents capable of completing e-commerce purchases on behalf of users are moving from demos to real deployments, compressing the timeline for designers to solve agent-mediated transaction UX.",
-        "Anthropic's IPO trajectory signals institutional confidence in Claude as an enterprise platform, likely accelerating its adoption in B2B product stacks."
-      ],
-      "implications": "Product and UX teams building on or alongside AI platforms need to start designing for agentic workflows now — specifically, how users monitor, correct, and trust actions they didn't directly initiate. The Gemini Tasks pattern in particular sets a precedent for how 'set and forget' AI interactions will be framed to users.",
-      "tags": [
-        "AI Agents",
-        "Product Strategy",
-        "AI Tools"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1920/0*3y1AUv3ZK6CM8mol",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/@shreyaskalyanpad25/anthropics-ipo-gemini-tasks-and-ai-agents-that-shop-nov-22-b389e6356423?source=rss------product_design-5",
-      "pubDate": "Sun, 22 Nov 2026 18:33:36 GMT"
-    },
-    {
-      "headline": "SaaS backlash isn't about taste — it's about broken purpose.",
-      "background": "Criticism of SaaS products has intensified as subscription fatigue, feature bloat, and declining customer satisfaction scores have become recurring complaints. This piece argues the problem is structural, not stylistic.",
-      "keyFindings": [
-        "The core argument is that SaaS products have drifted from solving user problems toward optimizing for retention metrics, creating a misalignment between product purpose and user value.",
-        "Feature accumulation is identified as a primary driver — products add capabilities to justify pricing tiers rather than in response to genuine user need.",
-        "The piece positions the backlash as a market correction signal, suggesting leaner, more focused tools are gaining ground against established bloated platforms."
-      ],
-      "implications": "Product teams operating under growth-at-all-costs mandates should treat this backlash as a leading indicator. Auditing feature usage data to identify low-adoption surface area — and actually removing or hiding it — may now be a competitive differentiator, not just a UX nicety.",
-      "tags": [
-        "SaaS",
-        "Product Strategy",
-        "Feature Prioritization"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2048/1*rf6piEoekNfinGw29n8VRA.jpeg",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@ritheshkumar226/why-everyone-is-hating-saas-da5433406444?source=rss------ux-5",
-      "pubDate": "Sun, 22 Nov 2026 17:45:21 GMT"
-    },
-    {
-      "headline": "AX Design: AI experience design is a distinct, emerging role.",
-      "background": "As AI becomes a core product layer rather than a feature, there is growing recognition that designing for AI systems requires skills and methods that differ substantially from traditional interface design. 'AX Design' (AI Experience Design) is being proposed as a formal discipline.",
-      "keyFindings": [
-        "AX Design is characterized as working primarily with model behavior, prompt architecture, and output quality rather than visual interfaces — Figma is largely irrelevant to the core work.",
-        "Key AX competencies cited include evaluation design, failure mode mapping, and setting user expectations around probabilistic outputs.",
-        "The role is positioned as closer to conversation design and systems thinking than to visual or interaction design."
-      ],
-      "implications": "UX practitioners looking to stay relevant in AI-heavy product orgs should assess whether their skills extend beyond interface work into output evaluation and behavioral design. This role is likely to be hired from diverse backgrounds — linguistics, QA, research — not exclusively design.",
-      "tags": [
-        "AI Tools",
-        "Design Roles",
-        "Emerging Practice"
+        "IoT"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Medium",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRlpnUTI3UXZGWUtXSV9CZ1Yzc2dsVWxxR0FDaF9BTExYYUVORHpFOWxXZVZsRGpBVkZyN2dVUTJuOHdYMFhTRm9DZDg5bFpPU0I0Zlo1OEY2S25ab1p4MlFyYTd4YWdTMERvaXYwclBNZzRMaDZHeE9LM2tYeHZndmppc3AyaS1ITGhENUE3ZXc4TmJIcGRyZXlsWi1DdEtVaGMyYw?oc=5",
-      "pubDate": "Sun, 22 Nov 2026 13:37:23 GMT"
+      "source": "STMicroelectronics",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE90ck1OTnFsdFRiWjVSdnFqa2RuazFtcFJMODZZZzM5VG1iX2kwQlFHWVpXVnNnd0wyN2hoVktBb2RYZw?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 20:08:03 GMT"
     },
     {
-      "headline": "Irrelevant to this audience: biomedical market forecast.",
-      "background": "This article covers market projections for MBP isoform antigen peptide pools in neuroimmunology research — a pharmaceutical and life sciences topic with no connection to UX, product design, or technology.",
+      "headline": "Filler article — no usable content",
+      "background": "This is a brief news announcement about a Nigerian tech training academy's expansion plans, with no substantive detail relevant to UX, product, or tech practice at a professional level.",
       "keyFindings": [
-        "Content is entirely outside the scope of UX, product, or tech practice.",
-        "Likely included in feed due to tagging or aggregation error."
+        "No findings applicable to this digest's audience"
       ],
-      "implications": "No actionable relevance for UX, product, or tech practitioners. Skip.",
+      "implications": "Nothing actionable for UX or product practitioners.",
       "tags": [
-        "Off-Topic"
+        "Non-article"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb01PVVhnaUxMQXZ5YjlVSXpaWTFHZWxJamY1YVE0NE5DNTdJZ2hEOE5nYWt3Zkc4WGdrWGRTZzgwM1U0ZWFkQ0tUWFVIcnBLdEIxaW9lTnZ6eklkMVd1SWstai0xU0hlT1NxZWNIV2N4THowb3dnZWpDeE9TSjdpUnlLUERxSE5GMzF2MVEzaGoyMmVqTlgxYzBtbm0tNTRoWWVNdEV5aXRnd2M0dFF6VHlhRDJwTTB6STR4TDhKUUlobmJYVHFyVFNyNDk?oc=5",
-      "pubDate": "Sun, 22 Nov 2026 13:26:04 GMT"
+      "source": "Blueprint Newspapers",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmZGZTV4RmxQVUpyeTljb2d4WlExY29TSVlvMng1T1NQV29zZFRCZnViVEFTR3RQUkdPcDNkcW1OR1hZRV9EX1BfVm1WdV9xb3BWSWg3alFKVXc4SmZNbm53VUt3NVRxRzB0Yk5UY3ZGMFQ2bVFaNFRJOG5MVEpVc0R6RHhDS0dzY2ViWktXSQ?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 18:53:41 GMT"
     },
     {
-      "headline": "How to register UI design protection in Germany in 2026.",
-      "background": "IP protection for digital interfaces remains poorly understood among designers and product teams. Germany's design registration system offers a formal legal mechanism to protect UI designs, but the process and eligibility criteria are not widely known.",
+      "headline": "Mitchell 1 automotive platform gets a UX refresh",
+      "background": "Mitchell 1 provides software and information tools to automotive repair professionals — a domain where dense technical content and workflow efficiency matter more than visual polish, making UX redesigns particularly consequential.",
       "keyFindings": [
-        "UI designs can be registered as 'Geschmacksmuster' (registered designs) in Germany, providing up to 25 years of protection if renewed.",
-        "Registration requires the design to be novel and have individual character — purely functional UI elements are not protectable.",
-        "The guide covers the German Patent and Trade Mark Office (DPMA) filing process, including required visual documentation standards for screen-based designs."
+        "The redesigned site emphasizes reorganized content architecture alongside visual updates, suggesting the project wasn't purely cosmetic",
+        "Mitchell 1 cited improved navigation and content discoverability as primary goals, targeting repair technicians who need fast access to technical specs",
+        "No independent usability data or methodology was disclosed — this is a vendor announcement, not a case study"
       ],
-      "implications": "Relevant for product and design teams at companies with European market presence, particularly those launching proprietary interfaces or design systems they want to protect from copying. Legal counsel familiar with EU design law should be involved — this guide provides orientation, not a substitute for professional advice.",
+      "implications": "Worth watching as an example of UX work in a high-information-density, task-focused professional tool context. Treat the announced outcomes skeptically without independent evaluation — the press release framing should not be mistaken for validated results.",
       "tags": [
-        "IP Law",
-        "Design Systems",
-        "Legal"
+        "Enterprise UX",
+        "Content architecture",
+        "Automotive tech"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Global Advisory Experts",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaFhYWnJzd0tiX1Vhc1VxOEM2cGM0V0JkTlhYZHN5dkFJSHp0VUdJWHQ3dnAxYmdJTXBLSzZ4c1h3OVRvWFBkQnd5REl0czR3RHVEckNEa2RQSWYyR0tKaTYwdjVxWEhVQTFWNFlfZU9yd09OWjZPY3A4UFJwckxWa0hzYnFkTmZYOFBHRmczSEd3QQ?oc=5",
-      "pubDate": "Sun, 22 Nov 2026 06:47:33 GMT"
+      "source": "Ratchet and Wrench",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSXA1M0M2bUR2N3plOVg5N3JaWDVENkRDV1llbFpMMFRMMWJFUUs5VVg0VVlLNGttR1djaUgtYnRiWGNkUzJ3UURjQUV5RGtLbGh0djBmMlMzNUxTcEJUX2dwLWN1a2k4Tms5Uy1saUc4XzhLckg4bER0NlBLMDFvSDJCb2txbkR5cjI4cGR1UzNZVkt4SmZtOTFsOXNjM2ZycXQxRTZjc0JzS21qM0c3b3JNSlg0dW9CZTk2dm5kU2MyQm1RclRWT0tGX3Q2cWs1NjZaRmExOE1WbXNpeGZuM1VuamVEdkdD?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 15:16:20 GMT"
     },
     {
-      "headline": "Neuroscientist Anil Seth argues conscious AI is a myth.",
-      "background": "Claims about AI consciousness and sentience have escalated alongside advances in large language models, with some researchers and commentators arguing current systems may have subjective experience. Neuroscientist Anil Seth offers a systematic rebuttal.",
+      "headline": "Filler article — no usable content",
+      "background": "This is a fashion and travel lifestyle article with no relevance to UX, product, or technology practice.",
       "keyFindings": [
-        "Seth argues that consciousness requires specific biological processes tied to bodily self-regulation, which AI systems categorically lack — making current 'conscious AI' claims category errors.",
-        "The essay distinguishes between behavioral mimicry of consciousness (which LLMs do) and actual phenomenal experience (which requires mechanisms not present in statistical models).",
-        "Seth warns that overclaiming AI consciousness has real ethical and policy consequences, potentially diverting attention from actual harms."
+        "No findings applicable to this digest's audience"
       ],
-      "implications": "For product teams writing AI personas, documentation, or marketing copy: Seth's framework is a useful corrective against language that anthropomorphizes AI in ways that mislead users. Accuracy in how products describe AI capability and 'understanding' is both an ethical and a trust issue.",
+      "implications": "Nothing actionable for UX or product practitioners.",
       "tags": [
-        "AI Ethics",
-        "AI Literacy",
-        "Research"
+        "Non-article"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "explainx.ai",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc1ppcDFRQ3FvaHFOTm5hOGdKZ3dRMmVwYlc5b1ZOakZfeElZYVE2c0ZoSkExekdtTnpuaUY4bjEtbC1GUFh4dDF4TW5zTS0yRTJwbVNSZzJ3MUJNZV9FU2taT3BiTWpKUFhWdVZDUXI2TmFSNkU2XzhPaWo3bzJqUkctYWlMZWRkMldR?oc=5",
-      "pubDate": "Sun, 22 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "headline": "Irrelevant to this audience: protein crystallography market report.",
-      "background": "This article covers automation trends and membrane protein demand in the protein crystallization and crystallography market — a life sciences and pharmaceutical research topic with no connection to UX, product design, or technology.",
-      "keyFindings": [
-        "Content is entirely outside the scope of UX, product, or tech practice.",
-        "Likely included in feed due to aggregation or tagging error."
-      ],
-      "implications": "No actionable relevance for UX, product, or tech practitioners. Skip.",
-      "tags": [
-        "Off-Topic"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcXZkZ2c1M2o5VUNYRXlraTZDWmRHQlZ0a0t2YmZGV09uNnpDMmhzR182WFBmbDNnWHJvVEVIZUZoUlQxLTdpczFhSVZwS3Yya2ZrU0lMWllkY0QxalRWRF9RWWNEcjhBR0NiV0NSeVBYWkZfOUdGV3hTYVZoZ3RjWWJmX1IydlNuUlMzUUhVcjBhZ0ltMHVxNldYSGxnaS1IdWYxcEd6QzBoZGRmT2MtOGRqbVVuWWVibS03OEN4UFdseUkwXzZSUnZHQWxUSkRqZll0cEdlY2gtcU5oZEwyc2ZIemE?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 23:16:04 GMT"
-    },
-    {
-      "headline": "Irrelevant to this audience: post-MA career guide in Hindi.",
-      "background": "This article addresses career and higher education options for Indian students who have completed a Master of Arts degree — an academic and career guidance topic unrelated to UX, product design, or technology practice.",
-      "keyFindings": [
-        "Content is entirely outside the scope of UX, product, or tech practice.",
-        "Likely included in feed due to aggregation or tagging error."
-      ],
-      "implications": "No actionable relevance for UX, product, or tech practitioners. Skip.",
-      "tags": [
-        "Off-Topic"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "PW",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGd0a2UtTVRXbUZIUXlKWEhhWndsYnJsYzRITEx6S2dWU3B3Mi1Kdk9JLU5XYjU0dTAxRVNYcWpqb0VUT1lXSGRSWGNZb0c0MjNiTjhMTE54SzVDbEtzeGFKc2hpTXBDSXdwWFU4MkVzVzIxbWo2b0l4ck8yT1Z4eENPOWluc3JZVmFHSXUwUl83OVFHd0NpdXhYYw?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 19:35:54 GMT"
+      "source": "elpuntosobrelai.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUzZsOHkwZzZWdUh1MUNydGZxVmhxQXRJY3JibVBPMTVmWXFUWHh2emVDQWhZUUtJUlpoY0xSTi04NW5TU2h3YWJhNTdtanZhN2otZWpLaTU0RVJaeEZPcXZxR3NTWFU1dVVyN184YU0zLUhITzVlckYwdGxnMEZDOWw5eXFaRUF0ZGhrU05oSko1blNQaWNj?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 14:14:56 GMT"
     }
   ]
 }
