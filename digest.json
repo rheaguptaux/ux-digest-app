@@ -1,219 +1,232 @@
 {
-  "generatedAt": "2026-11-23T23:28:30.545Z",
+  "generatedAt": "2026-11-24T21:58:57.140Z",
   "items": [
     {
-      "headline": "Forest monitoring UX: from satellite alert to field action",
-      "background": "Climate-tech tools often fail at the last mile — translating remote-sensing data into actionable steps for people working on the ground in real environments with limited connectivity and high stakes.",
+      "headline": "Designer ditches mockups after 15 years of shipping drift.",
+      "background": "The gap between high-fidelity design files and what actually ships in production is a persistent frustration in design-engineering handoff. This piece documents one designer's long-term experience with that problem and the workflow change they made in response.",
       "keyFindings": [
-        "The design process had to bridge the gap between satellite-generated deforestation alerts and the workflows of field rangers or local responders",
-        "Key UX challenges included designing for low-literacy users, offline-first conditions, and time-critical decision-making",
-        "The case study documents how information hierarchy was restructured so urgency and location data surfaced before technical detail"
+        "After 15 years of full-fidelity mockups, the author found production implementations were consistently slightly off in ways that accumulated into meaningful design degradation.",
+        "The author stopped making traditional mockups entirely, shifting to a different handoff method to reduce the interpretation gap between design intent and engineering output.",
+        "The piece argues that high-fidelity mockups create a false contract — engineers treat them as aspirational rather than precise, leading to systematic drift."
       ],
-      "implications": "Useful reference for anyone designing data-heavy tools for non-desk, high-stakes, or low-connectivity contexts. The tradeoffs made here — simplicity vs. data richness — are directly applicable to civic tech, disaster response, and environmental monitoring products.",
+      "implications": "Worth examining if your team has a recurring handoff accuracy problem. The tradeoff is that abandoning mockups shifts communication burden elsewhere — this approach likely works better in smaller, collaborative teams than in large orgs with strict spec requirements.",
       "tags": [
-        "Climate tech",
-        "Field UX",
-        "Offline-first"
+        "Design handoff",
+        "Workflow",
+        "Design systems"
       ],
       "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*Z9lDCifJLtomAtC_eXJ8sQ.png",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*IspWQ10GDNiClYPw8sSSBA.jpeg",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@lew.cooperpro/designing-for-forests-under-pressure-cf6b60aa0300?source=rss------product_design-5",
-      "pubDate": "Mon, 23 Nov 2026 23:19:25 GMT"
+      "link": "https://orbytlabs.medium.com/i-spent-fifteen-years-watching-my-designs-ship-slightly-wrong-so-i-stopped-making-mockups-e075c226d1e7?source=rss------product_design-5",
+      "pubDate": "Tue, 24 Nov 2026 21:47:24 GMT"
     },
     {
-      "headline": "Filler article — no usable content",
-      "background": "This entry appears to be a bibliographic acknowledgments section from a Pew Research Center publication, not an article.",
+      "headline": "A music venue in Tulum is not a UX story.",
+      "background": "This article appears to have been ingested into the feed due to a keyword match on 'UX Arena,' which is the name of a music venue, not a user experience industry event or publication.",
       "keyFindings": [
-        "No findings available — this is not a substantive article"
+        "This is a 40,000-capacity music venue launching in Tulum, Mexico on December 31.",
+        "It has no connection to UX, product design, or technology practice.",
+        "The title match on 'UX' is coincidental."
       ],
-      "implications": "Nothing actionable for UX or product practitioners.",
+      "implications": "No relevance to UX, product, or tech practice. Likely a feed ingestion error based on keyword matching.",
       "tags": [
-        "Non-article"
+        "Off-topic",
+        "Feed error"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Pew Research Center",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdjZpeXJKZDBjajVZYUNQdU9MU0tsbnlLajNKX0RMMUF5TlZxZ2ZUTXVwYkotcXlTajVDYWhObXpVS1Z6Wk1OalJ2RjE4bl9jb216d24xN0RLeWEzUFAySzFVWWtEWmh4SVpEQ3laZzVBNUpFeDJGeG9WWlhmX0FYN1ZscXJnZUxUdEd1aG1nX2hzMmRuU2ZXVXJIdDRjR3hfcGxXR1ZPeG5xVmx0bnNoSVlFRFNHZFE?oc=5",
-      "pubDate": "Mon, 23 Nov 2026 22:47:49 GMT"
+      "source": "Digital Music News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5haUlHX0NaXzZULUlKRHRTcVM2REJfTnJfZXlJT2lsZ0xReF9OZ0NkTnE4cHVlSnBQUUhVVjNRRThIR2l1eUlydjZ5cmRUaXB2WUNEemVCaU5GX1JCdHJZdWpyQWFFS1F2WWJFS1hJNGtvOVBrNGVlLTQxNnRTUQ?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 21:44:42 GMT"
     },
     {
-      "headline": "Product design is people work. Layoffs reveal who believes that.",
-      "background": "As tech hiring has contracted, design teams have been cut disproportionately, reigniting a debate about whether product design is fundamentally a human-centered discipline or a technical craft — and which framing determines job security.",
+      "headline": "Full-color 3D printing has a surface design problem.",
+      "background": "Full-color 3D printing has advanced technically, but there is growing recognition that color alone does not make printed objects feel finished or communicative. This piece examines what is still missing in the medium.",
       "keyFindings": [
-        "The piece argues a structural contradiction exists: design orgs hire for tools and prototyping speed but justify their existence through empathy and user advocacy",
-        "When budgets are cut, the 'soft' people-skills side of design is treated as dispensable while engineering-adjacent output is retained",
-        "The framing of design as either 'people industry' or 'tech industry' has real consequences for how designers position themselves in hiring and org design"
+        "A printed object communicates simultaneously through surface texture and physical form, and current full-color printing processes address color without adequately resolving surface quality.",
+        "The article argues that material finish and tactile properties are as semantically important as color in physical object design.",
+        "Color accuracy in 3D printing is insufficient if the surface finish undermines the intended perceptual and functional message of the object."
       ],
-      "implications": "Designers and hiring managers should examine how roles are scoped and justified internally — teams that can only articulate their value in human terms without tying to measurable outcomes are more vulnerable. This is a career and org-structure concern, not just a philosophical one.",
+      "implications": "Relevant for anyone doing physical product design, rapid prototyping, or design for manufacturing. If you are using color 3D prints as stakeholder-facing prototypes, surface finish limitations may undermine how well they communicate intended design intent.",
       "tags": [
-        "Design careers",
-        "Org structure",
-        "Hiring"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1512/1*lss2kKfB5qTh4cToUtGOyQ.png",
-      "source": "UX on Medium",
-      "link": "https://uxdesign.cc/is-product-design-a-people-industry-or-a-tech-industry-b8f9acc8cb6d?source=rss------ux-5",
-      "pubDate": "Mon, 23 Nov 2026 22:40:32 GMT"
-    },
-    {
-      "headline": "Updated reading research: people still don't read online",
-      "background": "Decades of eye-tracking and behavioral research have shown users scan rather than read web content, but new findings continue to refine the picture — with direct implications for how UX writers and content designers structure information.",
-      "keyFindings": [
-        "Users skip large blocks of text in favor of scannable entry points like headers, bullets, and bolded terms",
-        "The research reinforces that the first two words of a headline or label carry disproportionate weight in whether content gets engaged with at all",
-        "Long-form content is not exempt — even motivated readers drop off sharply when visual hierarchy is weak"
-      ],
-      "implications": "Content designers and UX writers should audit whether key information survives a 3-second scan of any given screen or page. Front-loading meaning in labels, CTAs, and headings is not a style preference — it's the baseline for usability.",
-      "tags": [
-        "Content design",
-        "Readability",
-        "Information architecture"
+        "Physical design",
+        "Prototyping",
+        "3D printing"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "UX",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1280/0*AHUGuYftuptovWsy",
-      "source": "UX on Medium",
-      "link": "https://uxdesign.cc/dont-make-me-read-a6821e418bb1?source=rss------ux-5",
-      "pubDate": "Mon, 23 Nov 2026 22:40:00 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1672/0*4BQWzpQncxB0vQht",
+      "source": "Product Design on Medium",
+      "link": "https://quinnink.medium.com/full-color-3d-printing-still-needs-more-than-color-f5ada9c4a164?source=rss------product_design-5",
+      "pubDate": "Tue, 24 Nov 2026 21:41:01 GMT"
     },
     {
-      "headline": "Using AI in redesigns: when deviation from the brief is acceptable",
-      "background": "Designers using AI tools for prototyping often face a tension between directing the output tightly and allowing the model to generate unexpected directions — with unclear norms around when AI-driven deviation adds value versus introduces risk.",
+      "headline": "Can AI tools meaningfully improve accessibility work?",
+      "background": "Accessibility remains one of the most under-resourced areas in UX practice, and there is active debate about whether AI tooling can help close the gap — or whether it introduces new risks by automating compliance checks without deeper understanding.",
       "keyFindings": [
-        "The author found that AI-generated prototypes diverged from their initial brief in ways that were sometimes more effective than the planned approach",
-        "The key condition they identified: deviation is acceptable when the AI makes the divergence explicit and legible, not when it silently substitutes assumptions",
-        "The piece documents a specific feature redesign workflow where AI output was used as a starting point for iteration rather than a deliverable"
+        "The piece examines specific AI-assisted approaches to accessibility auditing and design review, assessing where automation adds real value versus where human judgment remains necessary.",
+        "AI tools can accelerate detection of common accessibility violations such as contrast failures and missing alt text, but struggle with contextual and cognitive accessibility issues.",
+        "The article cautions that AI-generated accessibility fixes can create a false sense of compliance without addressing the underlying design decisions that cause barriers."
       ],
-      "implications": "For practitioners using AI in design workflows, the practical takeaway is to treat transparency of AI reasoning as a quality signal — outputs that surface their own assumptions are more useful for iteration than polished but opaque results.",
+      "implications": "AI accessibility tooling is most useful as a first-pass audit layer, not a replacement for manual testing with assistive technologies or user research with disabled users. Teams should treat AI-flagged issues as a starting point, not a checklist.",
+      "tags": [
+        "Accessibility",
+        "AI tools",
+        "Inclusive design"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*SJK88DtOCeUdlQtbUq1nmQ.jpeg",
+      "source": "UX Research on Medium",
+      "link": "https://iterateux.medium.com/breaking-barriers-can-ai-help-ux-designers-improve-accessibility-2649df8dd769?source=rss------ux_research-5",
+      "pubDate": "Tue, 24 Nov 2026 21:39:53 GMT"
+    },
+    {
+      "headline": "Solo designer field notes: what AI actually helps with.",
+      "background": "Designers working alone without a team increasingly rely on AI tools to cover research, writing, and production gaps — but practical, honest accounts of what works versus what fails in real solo workflows are rare.",
+      "keyFindings": [
+        "The author identifies specific task categories where AI assistance produced reliable gains, including writing first drafts of UX copy and generating initial research synthesis.",
+        "AI performed poorly on tasks requiring contextual judgment about user needs and stakeholder-specific communication, where outputs needed heavy rework.",
+        "The piece frames AI as a useful junior collaborator for defined, bounded tasks rather than a generalist problem-solver for open-ended design challenges."
+      ],
+      "implications": "Useful calibration for solo practitioners or small teams evaluating AI tool investment. The honest failure cases are as instructive as the wins — particularly the finding that open-ended design thinking tasks saw the least return.",
       "tags": [
         "AI tools",
-        "Prototyping",
-        "Design process"
+        "Solo design",
+        "Workflow"
       ],
       "featured": false,
       "type": "opinion",
-      "category": "Product design",
+      "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2400/1*_4sGsQLakraPPYtoL9qyGw.png",
-      "source": "Product Design on Medium",
-      "link": "https://medium.com/design-bootcamp/the-prototype-i-didnt-draw-047f4dcadce6?source=rss------product_design-5",
-      "pubDate": "Mon, 23 Nov 2026 22:35:44 GMT"
+      "image": "https://cdn-images-1.medium.com/max/2535/1*1-xVAhi_xe9_5QefGZDtrQ.png",
+      "source": "UX on Medium",
+      "link": "https://teisanutudor.medium.com/how-do-i-use-ai-as-a-solo-designer-956a3954614e?source=rss------ux-5",
+      "pubDate": "Tue, 24 Nov 2026 20:52:54 GMT"
     },
     {
-      "headline": "Filler article — no usable content",
-      "background": "This is a career guidance listicle from an Indian education platform targeting post-secondary students, unrelated to UX, product, or tech practice.",
+      "headline": "DashHands launches gig marketplace with dynamic pricing maps.",
+      "background": "Service marketplace apps have typically used flat or category-based pricing, with limited transparency about how prices are set. DashHands is positioning itself around algorithmic pricing and geographic service mapping as differentiators.",
       "keyFindings": [
-        "No findings applicable to this digest's audience"
+        "DashHands uses smart pricing algorithms that adjust service costs based on demand, location, and provider availability rather than fixed rate cards.",
+        "The platform includes interactive mapping of work areas, giving both customers and service providers visibility into coverage zones and pricing zones.",
+        "The product targets local service categories and positions technology transparency as a trust-building mechanism for marketplace adoption."
       ],
-      "implications": "Nothing actionable for UX or product practitioners.",
+      "implications": "The interactive work-area mapping feature is worth noting as a UI pattern for marketplace products where geographic coverage and pricing variability affect user trust and conversion. Unclear yet whether the model reduces or increases pricing confusion for end users.",
       "tags": [
-        "Non-article"
+        "Marketplace design",
+        "Pricing UX",
+        "Platform"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Shiksha.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZFZBSmRrNkFuRjVLNUNMWmlhYlVxdlBBQndhdjV1WEN5OFBKWVJNMWpzeVowOWZOck9fNTc4T2JIX2lTSTBQbmxFSjJqM2VCendQQ1dIN1J6ZjJhQWhOSl9qRExXOEwtOVhrSldZN1NJVXZUT09GdFJJMjktVUpEVjR6R2xEZ3diVE1neU9obzA2dW5HeTNtcWp4NGR6LWIzd2k2Sg?oc=5",
-      "pubDate": "Mon, 23 Nov 2026 20:31:43 GMT"
+      "source": "The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeENKM29ncVl6OGh1c2xrd29qVkxHSFU2b3hGUWJnaTJxUXZJdFJQcFJ0WlhLa2VaMXJGQzJEMDE4TjJmMnk5aE1ucHlCZVJaM0pfeTVmTV9KakZaaXh1YVUtdjFydHpILXd2OUI4dU5QNlhmSDVYQ2FIX2pmZ29sSno1OFhFQ1dSUFc3ZnBzeG1qcHMyX3dHTDhMaFBPN003bGl0QU9kUXVmNm9rZ1lGZHpZbnRCMHhNNUtoUUVnU3loaHRjRU03d3hzZnk1bEhwU0w0cVg3Q1NCcGFJQl9kLUU5ZE5xa2tmUk0wOExkOGhNM3plalMzZVIwdTJTQQ?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 16:08:22 GMT"
     },
     {
-      "headline": "STM32H5 adds GPU accelerator for embedded UI performance",
-      "background": "Single-chip embedded UI design has long required tradeoffs between graphical richness and power efficiency, with developers often needing external graphics chips to achieve smooth rendering on microcontroller-based devices.",
+      "headline": "Biotech is hiring AI specialists across five specific roles.",
+      "background": "Biotech companies are accelerating AI hiring but the roles they are filling differ significantly from general tech AI positions, reflecting domain-specific needs around data, regulation, and research workflows.",
       "keyFindings": [
-        "The STM32H5Ex/Fx is the first STM32H5 series chip to include STMicroelectronics' Chrom-ART2 graphics accelerator on-die, eliminating the need for a separate GPU in many UI-heavy embedded designs",
-        "Chrom-ART2 offloads 2D rendering tasks from the main CPU, reducing power consumption and freeing processing headroom for application logic",
-        "The chip is positioned for industrial panels, home automation displays, and medical device interfaces where single-board simplicity matters"
+        "The five roles include AI/ML engineers focused on drug discovery data pipelines, regulatory affairs specialists with AI compliance knowledge, and clinical data scientists building predictive models.",
+        "Biotech AI hiring prioritizes domain knowledge overlap — candidates with both ML skills and life sciences background command significant premiums.",
+        "Most openings are at mid-to-large biotech firms rather than startups, suggesting institutional rather than exploratory adoption of AI."
       ],
-      "implications": "Relevant for UX practitioners working on embedded or IoT device interfaces — hardware constraints that previously forced visual simplicity may ease on new STM32H5-based platforms. Worth flagging to hardware partners early in design scoping.",
+      "implications": "Limited direct relevance for most UX and product practitioners unless you work in health tech or life sciences. The regulatory AI compliance role is an emerging area where UX and policy intersect.",
       "tags": [
-        "Embedded UI",
-        "Hardware",
-        "IoT"
+        "AI hiring",
+        "Biotech",
+        "Career"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "STMicroelectronics",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE90ck1OTnFsdFRiWjVSdnFqa2RuazFtcFJMODZZZzM5VG1iX2kwQlFHWVpXVnNnd0wyN2hoVktBb2RYZw?oc=5",
-      "pubDate": "Mon, 23 Nov 2026 20:08:03 GMT"
+      "source": "BioBuzz",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWkc0RmpnRGQ4VGlMZzBRSUhPdkkxSjcyVG4xUEVWYkJ6M3BFektSbktULWZmMm9GektubVBRdmtqOXlZRG5kcUExRXQxNktUYXFzUkNJeHNibWFTMEJodlo3ZVFwbXdOMFY5RDJ0T3h5Z2RlSFB1U0x6MHI1eERyQXp4Zk8?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 15:39:29 GMT"
     },
     {
-      "headline": "Filler article — no usable content",
-      "background": "This is a brief news announcement about a Nigerian tech training academy's expansion plans, with no substantive detail relevant to UX, product, or tech practice at a professional level.",
+      "headline": "Femtosecond laser market forecast is not relevant here.",
+      "background": "This is an industrial market research report on femtosecond laser hardware used in micromachining and manufacturing, covering the period to 2035.",
       "keyFindings": [
-        "No findings applicable to this digest's audience"
+        "The market is projected to grow at 8–12% CAGR through 2035, driven by industrial micromachining demand.",
+        "No connection to UX, product design, or digital technology practice.",
+        "Appears to be a feed ingestion error."
       ],
-      "implications": "Nothing actionable for UX or product practitioners.",
+      "implications": "No relevance to UX, product, or tech practice. Likely a feed ingestion error.",
       "tags": [
-        "Non-article"
+        "Off-topic",
+        "Feed error"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Blueprint Newspapers",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmZGZTV4RmxQVUpyeTljb2d4WlExY29TSVlvMng1T1NQV29zZFRCZnViVEFTR3RQUkdPcDNkcW1OR1hZRV9EX1BfVm1WdV9xb3BWSWg3alFKVXc4SmZNbm53VUt3NVRxRzB0Yk5UY3ZGMFQ2bVFaNFRJOG5MVEpVc0R6RHhDS0dzY2ViWktXSQ?oc=5",
-      "pubDate": "Mon, 23 Nov 2026 18:53:41 GMT"
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaU1ZdTFWVXBNTmNrV0VjSldxWVYwMkRvV2VZX1JPRzNJLUlON1BUN1Z6NDVab2RzX1d6anRQakNsQ01CZ3BfTTRZMlJuV0loM2tsTEpLOG16NzRTWnBScENqTFJ5Yml1YWZMTmltRlRIMHhKODB5cDY1QXRyQkhLTlFqd0RhMDZiZG1JQmxyOHlVaGhMUGpFUl9CazdwN0FqZWtQd3NEUkw0RzVweDRmNjgxVF9pcHRWemxOYUxobw?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 14:21:04 GMT"
     },
     {
-      "headline": "Mitchell 1 automotive platform gets a UX refresh",
-      "background": "Mitchell 1 provides software and information tools to automotive repair professionals — a domain where dense technical content and workflow efficiency matter more than visual polish, making UX redesigns particularly consequential.",
+      "headline": "Microsoft Design on doing good work in a supporting role.",
+      "background": "Design leadership content typically focuses on how to lead or advocate for design. This Microsoft Design piece takes a less common angle — how to do excellent work when you are not the decision-maker or the most visible person in the room.",
       "keyFindings": [
-        "The redesigned site emphasizes reorganized content architecture alongside visual updates, suggesting the project wasn't purely cosmetic",
-        "Mitchell 1 cited improved navigation and content discoverability as primary goals, targeting repair technicians who need fast access to technical specs",
-        "No independent usability data or methodology was disclosed — this is a vendor announcement, not a case study"
+        "The piece argues that supporting roles in design require a distinct set of skills from leading roles, particularly around active listening, amplifying others' ideas, and managing ego investment in outcomes.",
+        "It frames restraint — knowing when not to push your own direction — as a core design competency, not a career limitation.",
+        "Microsoft Design positions this framing as particularly relevant to designers working in cross-functional product teams where UX is one voice among many."
       ],
-      "implications": "Worth watching as an example of UX work in a high-information-density, task-focused professional tool context. Treat the announced outcomes skeptically without independent evaluation — the press release framing should not be mistaken for validated results.",
+      "implications": "Relevant for mid-career designers who are navigating influence without formal authority, or for design managers building team culture around collaboration. The framing usefully reframes 'supporting' as skilled rather than subordinate.",
       "tags": [
-        "Enterprise UX",
-        "Content architecture",
-        "Automotive tech"
+        "Design leadership",
+        "Collaboration",
+        "Career"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Ratchet and Wrench",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSXA1M0M2bUR2N3plOVg5N3JaWDVENkRDV1llbFpMMFRMMWJFUUs5VVg0VVlLNGttR1djaUgtYnRiWGNkUzJ3UURjQUV5RGtLbGh0djBmMlMzNUxTcEJUX2dwLWN1a2k4Tms5Uy1saUc4XzhLckg4bER0NlBLMDFvSDJCb2txbkR5cjI4cGR1UzNZVkt4SmZtOTFsOXNjM2ZycXQxRTZjc0JzS21qM0c3b3JNSlg0dW9CZTk2dm5kU2MyQm1RclRWT0tGX3Q2cWs1NjZaRmExOE1WbXNpeGZuM1VuamVEdkdD?oc=5",
-      "pubDate": "Mon, 23 Nov 2026 15:16:20 GMT"
+      "source": "https://microsoft.design/",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40S1BIT3Byc2lzY3FyOUtWZEZKbGhTZW9yUnpoTmpBMjJJSk5pSXlsaU9UQm1HenJIckNFY2FkXzdYWnVDMVQ2djBRMFFXUjZTYzJtLTFZVW1YNVh3RkdybmFVc3JzTXQyaDlEMWRBelM0dzBRWUVXc0NPZw?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 14:00:00 GMT"
     },
     {
-      "headline": "Filler article — no usable content",
-      "background": "This is a fashion and travel lifestyle article with no relevance to UX, product, or technology practice.",
+      "headline": "St. Lawrence College faculty union flags budget cut concerns.",
+      "background": "Post-secondary institutions in Canada are facing funding pressures, and college faculty unions are publicly raising concerns about the impact of cuts on programs and staffing.",
       "keyFindings": [
-        "No findings applicable to this digest's audience"
+        "Faculty union at St. Lawrence College in Ontario has described upcoming cuts as concerning, with implications for program delivery and staff.",
+        "No specific details on which programs or departments are affected are available from the snippet.",
+        "No direct connection to UX, product, or technology practice."
       ],
-      "implications": "Nothing actionable for UX or product practitioners.",
+      "implications": "No direct relevance to UX or tech practice unless you work in academic program design or EdTech targeting Canadian colleges.",
       "tags": [
-        "Non-article"
+        "Off-topic",
+        "Education"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "elpuntosobrelai.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUzZsOHkwZzZWdUh1MUNydGZxVmhxQXRJY3JibVBPMTVmWXFUWHh2emVDQWhZUUtJUlpoY0xSTi04NW5TU2h3YWJhNTdtanZhN2otZWpLaTU0RVJaeEZPcXZxR3NTWFU1dVVyN184YU0zLUhITzVlckYwdGxnMEZDOWw5eXFaRUF0ZGhrU05oSko1blNQaWNj?oc=5",
-      "pubDate": "Mon, 23 Nov 2026 14:14:56 GMT"
+      "source": "Brockville Daily",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd2IzaEc1dV95aE5YVjFHQTlMUG8zME1RenFHbWVpUWxvMEZqZXlhT1FIM1NkYlJveTZ0di1BQWZ4THZYWE5RTTJqcXlPQWREZWI3eUx1cHFDbnhEclNwU01JQkVpQ3RhWXc4clBLS0QyUWtIM1BhRmNwQjJwbzlCR3FhM2x5RnBHTlhmN3VIaFlxWFJkQ1ZnelVmU3BBdGF4OVoxaUtid19qMjJyMTUtaHJ4bXF6V2dZbjhYZnJkNFcxWi12VHUtU25n?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 13:49:45 GMT"
     }
   ]
 }
