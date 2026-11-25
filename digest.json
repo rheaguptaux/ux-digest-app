@@ -1,232 +1,235 @@
 {
-  "generatedAt": "2026-11-24T21:58:57.140Z",
+  "generatedAt": "2026-11-25T21:10:23.121Z",
   "items": [
     {
-      "headline": "Designer ditches mockups after 15 years of shipping drift.",
-      "background": "The gap between high-fidelity design files and what actually ships in production is a persistent frustration in design-engineering handoff. This piece documents one designer's long-term experience with that problem and the workflow change they made in response.",
+      "headline": "How CAD geometry formats shape AI design output",
+      "background": "AI-generated 3D design tools are proliferating, but most designers using them don't understand the underlying geometric representations that determine what AI can and can't produce. This creates a gap between expectations and output quality.",
       "keyFindings": [
-        "After 15 years of full-fidelity mockups, the author found production implementations were consistently slightly off in ways that accumulated into meaningful design degradation.",
-        "The author stopped making traditional mockups entirely, shifting to a different handoff method to reduce the interpretation gap between design intent and engineering output.",
-        "The piece argues that high-fidelity mockups create a false contract — engineers treat them as aspirational rather than precise, leading to systematic drift."
+        "B-rep (Boundary Representation) defines solids by their surfaces and edges, making it the dominant format in precision engineering CAD tools like SolidWorks and CATIA",
+        "CSG (Constructive Solid Geometry) builds models by combining primitive shapes with boolean operations — simpler but less flexible for organic forms",
+        "NURBS curves allow mathematically smooth surfaces, which is why AI models trained on mesh data often produce geometry that looks right but fails manufacturing tolerances"
       ],
-      "implications": "Worth examining if your team has a recurring handoff accuracy problem. The tradeoff is that abandoning mockups shifts communication burden elsewhere — this approach likely works better in smaller, collaborative teams than in large orgs with strict spec requirements.",
+      "implications": "If you're working on AI-assisted design tools or evaluating them for engineering workflows, understanding which geometry format the AI outputs into matters enormously for downstream manufacturability. Models that output meshes instead of B-rep will require significant rework before CAM or FEA.",
       "tags": [
-        "Design handoff",
-        "Workflow",
-        "Design systems"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "Product design",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1200/1*IspWQ10GDNiClYPw8sSSBA.jpeg",
-      "source": "Product Design on Medium",
-      "link": "https://orbytlabs.medium.com/i-spent-fifteen-years-watching-my-designs-ship-slightly-wrong-so-i-stopped-making-mockups-e075c226d1e7?source=rss------product_design-5",
-      "pubDate": "Tue, 24 Nov 2026 21:47:24 GMT"
-    },
-    {
-      "headline": "A music venue in Tulum is not a UX story.",
-      "background": "This article appears to have been ingested into the feed due to a keyword match on 'UX Arena,' which is the name of a music venue, not a user experience industry event or publication.",
-      "keyFindings": [
-        "This is a 40,000-capacity music venue launching in Tulum, Mexico on December 31.",
-        "It has no connection to UX, product design, or technology practice.",
-        "The title match on 'UX' is coincidental."
-      ],
-      "implications": "No relevance to UX, product, or tech practice. Likely a feed ingestion error based on keyword matching.",
-      "tags": [
-        "Off-topic",
-        "Feed error"
+        "CAD",
+        "AI tools",
+        "Generative Design"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Digital Music News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5haUlHX0NaXzZULUlKRHRTcVM2REJfTnJfZXlJT2lsZ0xReF9OZ0NkTnE4cHVlSnBQUUhVVjNRRThIR2l1eUlydjZ5cmRUaXB2WUNEemVCaU5GX1JCdHJZdWpyQWFFS1F2WWJFS1hJNGtvOVBrNGVlLTQxNnRTUQ?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 21:44:42 GMT"
+      "source": "HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTnJGSktCdl9fQWlkRGVGS2dFd2pzbjFnb3JTWmxlV3pxQXg4R1pCdm1abVl0UFdpNTVxRjg1TWJWZWQ5Y3ZCbDJYa253RURRc25IeGNick9CR09ULVMwbERIWmhMb0ZfZ3BzUUZNcGswQnktZWZYMzJhbHFHa1FvbW5ZdVhPcGkwUmtsYkZRNzliZkZwVzVxbTNSa1RKejBLVWZR?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 20:06:29 GMT"
     },
     {
-      "headline": "Full-color 3D printing has a surface design problem.",
-      "background": "Full-color 3D printing has advanced technically, but there is growing recognition that color alone does not make printed objects feel finished or communicative. This piece examines what is still missing in the medium.",
+      "headline": "Three-second rule: packaging design that earns shelf trust",
+      "background": "With DTC products competing alongside retail SKUs in the same online scroll, packaging design is increasingly doing sales work that used to belong to store placement and reps. This piece lays out applied rules for label hierarchy and trust signaling.",
       "keyFindings": [
-        "A printed object communicates simultaneously through surface texture and physical form, and current full-color printing processes address color without adequately resolving surface quality.",
-        "The article argues that material finish and tactile properties are as semantically important as color in physical object design.",
-        "Color accuracy in 3D printing is insufficient if the surface finish undermines the intended perceptual and functional message of the object."
+        "Legibility at a glance requires a single dominant typographic element — brand name or key claim — readable in under one second",
+        "Trust signals like certifications, ingredient callouts, or origin marks need to appear in the lower-right quadrant where the eye naturally lands last",
+        "Color contrast between background and text must pass WCAG AA minimums even on physical packaging, as most purchasing decisions now happen via product photography on screens"
       ],
-      "implications": "Relevant for anyone doing physical product design, rapid prototyping, or design for manufacturing. If you are using color 3D prints as stakeholder-facing prototypes, surface finish limitations may undermine how well they communicate intended design intent.",
+      "implications": "Designers working on CPG or wellness product packaging should pressure-test labels as compressed JPEGs at thumbnail size — not just in full-resolution mockups. What reads clearly at 300dpi often fails at 100x100px.",
       "tags": [
-        "Physical design",
-        "Prototyping",
-        "3D printing"
+        "Packaging Design",
+        "Visual Hierarchy",
+        "E-commerce"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1672/0*4BQWzpQncxB0vQht",
+      "image": "https://cdn-images-1.medium.com/max/1400/1*ZpafUgoKDcPiIn4UMk8IfA.jpeg",
       "source": "Product Design on Medium",
-      "link": "https://quinnink.medium.com/full-color-3d-printing-still-needs-more-than-color-f5ada9c4a164?source=rss------product_design-5",
-      "pubDate": "Tue, 24 Nov 2026 21:41:01 GMT"
+      "link": "https://medium.com/@neliscovich/5-simple-rules-for-beauty-wellness-and-product-packaging-that-sells-e8e16a3e9cdc?source=rss------product_design-5",
+      "pubDate": "Wed, 25 Nov 2026 19:53:14 GMT"
     },
     {
-      "headline": "Can AI tools meaningfully improve accessibility work?",
-      "background": "Accessibility remains one of the most under-resourced areas in UX practice, and there is active debate about whether AI tooling can help close the gap — or whether it introduces new risks by automating compliance checks without deeper understanding.",
+      "headline": "Top UX research firms ranked for 2027 planning",
+      "background": "As UX research gets absorbed into AI-assisted tools and in-house ops teams, companies periodically reassess whether to outsource research and to whom. Listicles like this one serve procurement and team-building decisions.",
       "keyFindings": [
-        "The piece examines specific AI-assisted approaches to accessibility auditing and design review, assessing where automation adds real value versus where human judgment remains necessary.",
-        "AI tools can accelerate detection of common accessibility violations such as contrast failures and missing alt text, but struggle with contextual and cognitive accessibility issues.",
-        "The article cautions that AI-generated accessibility fixes can create a false sense of compliance without addressing the underlying design decisions that cause barriers."
+        "The list includes firms specializing in moderated usability testing, diary studies, and eye-tracking — indicating demand for methods that AI tools don't yet reliably replace",
+        "Several ranked firms now offer hybrid models combining automated survey analysis with human synthesis",
+        "The ranking is sourced from Robotics & Automation News, a trade outlet not primarily focused on UX, which limits its methodological credibility"
       ],
-      "implications": "AI accessibility tooling is most useful as a first-pass audit layer, not a replacement for manual testing with assistive technologies or user research with disabled users. Teams should treat AI-flagged issues as a starting point, not a checklist.",
+      "implications": "Treat this as a starting-point vendor list rather than a vetted ranking — the outlet lacks the domain specificity to evaluate research quality rigorously. Cross-reference any firm here against UXPA directories and published case studies.",
       "tags": [
-        "Accessibility",
-        "AI tools",
-        "Inclusive design"
+        "UX Research",
+        "Vendor Selection",
+        "Research Ops"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Robotics & Automation News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2xYb05yWkZUQm1FQ2RzSkZvUG5kRTBtd0cxRUtIdDFFU2JLOVJUa01rTUpMXzJHSDNLWXRtU2tpcFdBaUh5ZmlBUy10VEp2cTFmV2xOSERhWktoTWFFaUtVNm9Gd1JNRDZSdFd2VElBM2FRdWYzM1puaFJ2dmlvM3lEclBnLWRydTVvZG40aEZ1OXA0?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 19:37:56 GMT"
+    },
+    {
+      "headline": "Citymapper's ticket flow: design thinking case study",
+      "background": "Citymapper has long been praised for route-planning UX but has more recently moved into ticketing — a significantly harder interaction problem involving payment, transit authority APIs, and real-time validity. This is a bootcamp-level design thinking exercise analyzing that transition.",
+      "keyFindings": [
+        "The case study identifies the shift from information delivery to transaction completion as the core UX challenge in Citymapper's product evolution",
+        "Bootcamp framing means analysis relies on design thinking methodology (empathy, define, ideate) rather than actual usability data",
+        "The piece does not include user testing results or behavioral metrics — findings are observational and hypothetical"
+      ],
+      "implications": "Useful as a structured example of applying design thinking to a known product, but the lack of real research data means practitioners should not treat conclusions as validated. Better used as a teaching artifact than a reference for comparable product decisions.",
+      "tags": [
+        "Mobile UX",
+        "Interaction Design",
+        "Case Study"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Research",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1200/1*SJK88DtOCeUdlQtbUq1nmQ.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*Fw-GtW_Q9DZ-tOf5Oj_yXg.png",
       "source": "UX Research on Medium",
-      "link": "https://iterateux.medium.com/breaking-barriers-can-ai-help-ux-designers-improve-accessibility-2649df8dd769?source=rss------ux_research-5",
-      "pubDate": "Tue, 24 Nov 2026 21:39:53 GMT"
+      "link": "https://medium.com/@ngocs.socialmedia/citymapper-from-finding-the-route-to-getting-the-ticket-e8aa272ef00e?source=rss------ux_research-5",
+      "pubDate": "Wed, 25 Nov 2026 19:31:51 GMT"
     },
     {
-      "headline": "Solo designer field notes: what AI actually helps with.",
-      "background": "Designers working alone without a team increasingly rely on AI tools to cover research, writing, and production gaps — but practical, honest accounts of what works versus what fails in real solo workflows are rare.",
+      "headline": "AI prompts don't replace UX judgment — they rent it",
+      "background": "The UX bootcamp boom of the mid-2010s is now being reassessed as the job market tightened and AI tools began handling tasks that junior designers were hired to do. This piece argues the industry misidentified UX as a credential rather than a practice.",
       "keyFindings": [
-        "The author identifies specific task categories where AI assistance produced reliable gains, including writing first drafts of UX copy and generating initial research synthesis.",
-        "AI performed poorly on tasks requiring contextual judgment about user needs and stakeholder-specific communication, where outputs needed heavy rework.",
-        "The piece frames AI as a useful junior collaborator for defined, bounded tasks rather than a generalist problem-solver for open-ended design challenges."
+        "The author argues that AI prompts surface averaged, consensus-driven outputs — not design insight — because they're trained on what already exists",
+        "The 2015–2022 bootcamp model positioned UX as a salary destination rather than a discipline, leaving practitioners without craft foundations when market conditions shifted",
+        "Prompt-dependent designers are described as renting someone else's judgment rather than developing their own — making their output disposable at scale"
       ],
-      "implications": "Useful calibration for solo practitioners or small teams evaluating AI tool investment. The honest failure cases are as instructive as the wins — particularly the finding that open-ended design thinking tasks saw the least return.",
+      "implications": "This is a pointed critique worth sitting with if you manage or hire junior designers. It implies that practitioners who can't articulate why a design decision is right — beyond 'the AI suggested it' — are structurally vulnerable. Invest in critique culture and design rationale documentation.",
       "tags": [
+        "Design Practice",
         "AI tools",
-        "Solo design",
-        "Workflow"
+        "Design Education"
       ],
-      "featured": false,
+      "featured": true,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2535/1*1-xVAhi_xe9_5QefGZDtrQ.png",
+      "image": "https://cdn-images-1.medium.com/max/1408/1*PpMw0A8cEY0vszX8r3TXdw.jpeg",
       "source": "UX on Medium",
-      "link": "https://teisanutudor.medium.com/how-do-i-use-ai-as-a-solo-designer-956a3954614e?source=rss------ux-5",
-      "pubDate": "Tue, 24 Nov 2026 20:52:54 GMT"
+      "link": "https://medium.com/@bubapa/a-prompt-is-a-rented-opinion-cf5d71671807?source=rss------ux-5",
+      "pubDate": "Wed, 25 Nov 2026 19:10:32 GMT"
     },
     {
-      "headline": "DashHands launches gig marketplace with dynamic pricing maps.",
-      "background": "Service marketplace apps have typically used flat or category-based pricing, with limited transparency about how prices are set. DashHands is positioning itself around algorithmic pricing and geographic service mapping as differentiators.",
+      "headline": "Claude can code — but shipping a product is still hard",
+      "background": "AI coding assistants like Claude have dramatically compressed time-to-code, prompting debate about whether the remaining bottlenecks in product shipping — design, strategy, QA, ops — are now the real constraints. This piece examines what's left after the code writes itself.",
       "keyFindings": [
-        "DashHands uses smart pricing algorithms that adjust service costs based on demand, location, and provider availability rather than fixed rate cards.",
-        "The platform includes interactive mapping of work areas, giving both customers and service providers visibility into coverage zones and pricing zones.",
-        "The product targets local service categories and positions technology transparency as a trust-building mechanism for marketplace adoption."
+        "Code generation addresses roughly one layer of shipping: implementation. It does not replace product scoping, design decisions, QA, deployment configuration, or stakeholder alignment",
+        "The piece identifies 'vibes-driven shipping' — building whatever AI makes easy rather than what users need — as an emerging failure mode for AI-assisted teams",
+        "Claude specifically is noted for stronger architectural reasoning than some competitors, making it more useful for greenfield product work than iterative bug fixing"
       ],
-      "implications": "The interactive work-area mapping feature is worth noting as a UI pattern for marketplace products where geographic coverage and pricing variability affect user trust and conversion. Unclear yet whether the model reduces or increases pricing confusion for end users.",
+      "implications": "For product teams adopting AI coding tools, the risk isn't replacing developers — it's mistaking build speed for product clarity. Use the time savings to invest more in discovery and definition, not just faster iteration on the wrong thing.",
       "tags": [
-        "Marketplace design",
-        "Pricing UX",
-        "Platform"
+        "AI tools",
+        "Product Development",
+        "Developer Tools"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/2259/1*0wx4pIXe63UEeAosXQcHYA.png",
+      "source": "UX Planet - Medium",
+      "link": "https://uxplanet.org/claude-ship-can-ship-your-product-05c316808de5?source=rss----819cc2aaeee0---4",
+      "pubDate": "Wed, 25 Nov 2026 18:41:48 GMT"
+    },
+    {
+      "headline": "Consensus UX: when collective decision-making shapes interfaces",
+      "background": "Mainstream UX practice centers on designer or researcher authority determining what users need. Consensus UX proposes a more distributed, participatory model — drawing loosely on cybernetic theory and anarchist organizational principles.",
+      "keyFindings": [
+        "The piece frames cybernetic anarchism as a design philosophy where feedback loops replace top-down information hierarchies in product decision-making",
+        "Consensus-based UX processes are presented as alternatives to stakeholder-dominated roadmaps, with users and affected communities having structural input",
+        "No empirical case studies or deployment examples are cited — the argument is primarily theoretical"
+      ],
+      "implications": "Interesting as a provocation for teams doing participatory design or working in civic tech, but the absence of implementation evidence makes it difficult to operationalize. Worth reading critically alongside established co-design methodologies like those from IDEO or the Design Justice Network.",
+      "tags": [
+        "Participatory Design",
+        "Design Theory",
+        "Governance"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "The Detroit News",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeENKM29ncVl6OGh1c2xrd29qVkxHSFU2b3hGUWJnaTJxUXZJdFJQcFJ0WlhLa2VaMXJGQzJEMDE4TjJmMnk5aE1ucHlCZVJaM0pfeTVmTV9KakZaaXh1YVUtdjFydHpILXd2OUI4dU5QNlhmSDVYQ2FIX2pmZ29sSno1OFhFQ1dSUFc3ZnBzeG1qcHMyX3dHTDhMaFBPN003bGl0QU9kUXVmNm9rZ1lGZHpZbnRCMHhNNUtoUUVnU3loaHRjRU03d3hzZnk1bEhwU0w0cVg3Q1NCcGFJQl9kLUU5ZE5xa2tmUk0wOExkOGhNM3plalMzZVIwdTJTQQ?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 16:08:22 GMT"
+      "source": "Aontacht Media",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9TMVZXeGxlcHlRNVVfN2dSUGEyajZQYkxNMW5UTUVjMzJ2ekJWVXVSVEtkdzN6T29mNERMRjRoUlRiUQ?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 18:18:27 GMT"
     },
     {
-      "headline": "Biotech is hiring AI specialists across five specific roles.",
-      "background": "Biotech companies are accelerating AI hiring but the roles they are filling differ significantly from general tech AI positions, reflecting domain-specific needs around data, regulation, and research workflows.",
+      "headline": "Lovable AI explained: what it is and how credits work",
+      "background": "Lovable is a no-code/AI-assisted app builder that has gained traction among non-technical founders and designers. Its credit-based pricing model is non-obvious and has caused confusion among new users about what actions consume credits.",
       "keyFindings": [
-        "The five roles include AI/ML engineers focused on drug discovery data pipelines, regulatory affairs specialists with AI compliance knowledge, and clinical data scientists building predictive models.",
-        "Biotech AI hiring prioritizes domain knowledge overlap — candidates with both ML skills and life sciences background command significant premiums.",
-        "Most openings are at mid-to-large biotech firms rather than startups, suggesting institutional rather than exploratory adoption of AI."
+        "Lovable uses a credit system where each AI generation action consumes credits — the number varies by complexity of the request, not just by action type",
+        "The platform is built on top of GPT-4 class models and targets users who want to ship functional prototypes without writing code",
+        "Credit costs are not shown in real-time before an action is confirmed, which creates unpredictable billing for users running multiple iterations"
       ],
-      "implications": "Limited direct relevance for most UX and product practitioners unless you work in health tech or life sciences. The regulatory AI compliance role is an emerging area where UX and policy intersect.",
+      "implications": "If you're evaluating Lovable for rapid prototyping or client demos, map your expected iteration volume against the credit tier before committing. The lack of pre-action cost visibility makes it easy to burn through credits during exploratory sessions.",
       "tags": [
-        "AI hiring",
-        "Biotech",
-        "Career"
+        "No-Code Tools",
+        "AI tools",
+        "Pricing Models"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "BioBuzz",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWkc0RmpnRGQ4VGlMZzBRSUhPdkkxSjcyVG4xUEVWYkJ6M3BFektSbktULWZmMm9GektubVBRdmtqOXlZRG5kcUExRXQxNktUYXFzUkNJeHNibWFTMEJodlo3ZVFwbXdOMFY5RDJ0T3h5Z2RlSFB1U0x6MHI1eERyQXp4Zk8?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 15:39:29 GMT"
+      "source": "Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeVpFSC1FYVh2V2NuOVcxV0gyVDRubFgzNnNrNHN2YnlXdm1sMnlxSlRmbjdLV3M1TGRMTFNXdldjRnd1Vi1yX29PRjhtSkxBcFV6YzJSeWgwanhYR3pISHY5WERsUFpGS29nSXRmcThyeFR0RlJUZjBFWGVzZnRJeVJ5R2hnT1EzZFgwaHFPcFl3Rllsb2QzNA?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 16:22:41 GMT"
     },
     {
-      "headline": "Femtosecond laser market forecast is not relevant here.",
-      "background": "This is an industrial market research report on femtosecond laser hardware used in micromachining and manufacturing, covering the period to 2035.",
+      "headline": "Heroic Games Launcher 3 adds Steam and Itch.io, redesigns UI",
+      "background": "Heroic is an open-source games launcher for Linux and Steam Deck that provides access to Epic and GOG libraries. Version 3 adds two major storefronts and ships a significant interface redesign — relevant to the growing population of Linux desktop users.",
       "keyFindings": [
-        "The market is projected to grow at 8–12% CAGR through 2035, driven by industrial micromachining demand.",
-        "No connection to UX, product design, or digital technology practice.",
-        "Appears to be a feed ingestion error."
+        "Version 3 adds native Steam and Itch.io library integration alongside existing Epic and GOG support, consolidating four storefronts in one launcher",
+        "The new UI redesign moves to a sidebar navigation model, replacing the previous top-bar layout — consistent with platform conventions on desktop Linux",
+        "Steam Deck compatibility is a stated priority, with the new UI optimized for the device's 7-inch screen and gamepad navigation"
       ],
-      "implications": "No relevance to UX, product, or tech practice. Likely a feed ingestion error.",
+      "implications": "For designers or developers building tools targeting Linux desktop or Steam Deck users, Heroic's UI choices are worth studying — it's a rare example of an open-source project navigating both mouse and gamepad interaction paradigms in one interface.",
       "tags": [
-        "Off-topic",
-        "Feed error"
+        "Desktop UI",
+        "Open Source",
+        "Gaming"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaU1ZdTFWVXBNTmNrV0VjSldxWVYwMkRvV2VZX1JPRzNJLUlON1BUN1Z6NDVab2RzX1d6anRQakNsQ01CZ3BfTTRZMlJuV0loM2tsTEpLOG16NzRTWnBScENqTFJ5Yml1YWZMTmltRlRIMHhKODB5cDY1QXRyQkhLTlFqd0RhMDZiZG1JQmxyOHlVaGhMUGpFUl9CazdwN0FqZWtQd3NEUkw0RzVweDRmNjgxVF9pcHRWemxOYUxobw?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 14:21:04 GMT"
+      "source": "Steam Deck HQ",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01MlUwaS01QlVCN1Q2b2dfcDVDVmZWQTAwUlJVdUJOcXFsMFJRYjFQSVhaU2I4Sl94WjByMGwxeU5nQjZmY1lRMDJlSTY5bm96RXlIR0FmNlVUdEtFV3diU3BTb2pTVEd6OUE?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 16:11:13 GMT"
     },
     {
-      "headline": "Microsoft Design on doing good work in a supporting role.",
-      "background": "Design leadership content typically focuses on how to lead or advocate for design. This Microsoft Design piece takes a less common angle — how to do excellent work when you are not the decision-maker or the most visible person in the room.",
+      "headline": "CD Projekt Red scales up Cyberpunk 2 development",
+      "background": "After Cyberpunk 2077's troubled 2020 launch and subsequent rehabilitation, CDPR is now in early development on its sequel. Studio headcount and hiring patterns are being tracked as indicators of project scope and timeline.",
       "keyFindings": [
-        "The piece argues that supporting roles in design require a distinct set of skills from leading roles, particularly around active listening, amplifying others' ideas, and managing ego investment in outcomes.",
-        "It frames restraint — knowing when not to push your own direction — as a core design competency, not a career limitation.",
-        "Microsoft Design positions this framing as particularly relevant to designers working in cross-functional product teams where UX is one voice among many."
+        "CDPR is actively expanding teams across engineering, design, and narrative — suggesting the project has moved past pre-production into structured development",
+        "No release window has been announced; current signals point to a multi-year runway before launch",
+        "The studio is simultaneously maintaining Cyberpunk 2077 live ops and developing the next Witcher game, raising questions about resource allocation"
       ],
-      "implications": "Relevant for mid-career designers who are navigating influence without formal authority, or for design managers building team culture around collaboration. The framing usefully reframes 'supporting' as skilled rather than subordinate.",
+      "implications": "Limited direct relevance to UX/product practitioners. Tangentially relevant to those working in games UX or tracking AAA studio production models following high-profile launches and recoveries.",
       "tags": [
-        "Design leadership",
-        "Collaboration",
-        "Career"
+        "Game Development",
+        "Studio Operations",
+        "AAA Games"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "https://microsoft.design/",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40S1BIT3Byc2lzY3FyOUtWZEZKbGhTZW9yUnpoTmpBMjJJSk5pSXlsaU9UQm1HenJIckNFY2FkXzdYWnVDMVQ2djBRMFFXUjZTYzJtLTFZVW1YNVh3RkdybmFVc3JzTXQyaDlEMWRBelM0dzBRWUVXc0NPZw?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 14:00:00 GMT"
-    },
-    {
-      "headline": "St. Lawrence College faculty union flags budget cut concerns.",
-      "background": "Post-secondary institutions in Canada are facing funding pressures, and college faculty unions are publicly raising concerns about the impact of cuts on programs and staffing.",
-      "keyFindings": [
-        "Faculty union at St. Lawrence College in Ontario has described upcoming cuts as concerning, with implications for program delivery and staff.",
-        "No specific details on which programs or departments are affected are available from the snippet.",
-        "No direct connection to UX, product, or technology practice."
-      ],
-      "implications": "No direct relevance to UX or tech practice unless you work in academic program design or EdTech targeting Canadian colleges.",
-      "tags": [
-        "Off-topic",
-        "Education"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Brockville Daily",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd2IzaEc1dV95aE5YVjFHQTlMUG8zME1RenFHbWVpUWxvMEZqZXlhT1FIM1NkYlJveTZ0di1BQWZ4THZYWE5RTTJqcXlPQWREZWI3eUx1cHFDbnhEclNwU01JQkVpQ3RhWXc4clBLS0QyUWtIM1BhRmNwQjJwbzlCR3FhM2x5RnBHTlhmN3VIaFlxWFJkQ1ZnelVmU3BBdGF4OVoxaUtid19qMjJyMTUtaHJ4bXF6V2dZbjhYZnJkNFcxWi12VHUtU25n?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 13:49:45 GMT"
+      "source": "KitGuru",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2ZCZnJuZmRpR2VBUEZ5T1ZXYjExN2NNTXBtWFRiSFhOcThKVnMwUW05d3hIQ1F0aGNuaWtRaTA5dC1KYm4yLUhXYnRQc3loZnFFTEg5SFl3VUZIUEtId1hTdlVnek4tNk9Ybl9HNU9uWnRmUDdRd196dF9tNmJ3dWRjQTlHY3lpNkpHeGxlcm5faE5mNXNIX3pwTmQ0VWxx?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 14:46:03 GMT"
     }
   ]
 }
