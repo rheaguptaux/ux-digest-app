@@ -1,235 +1,232 @@
 {
-  "generatedAt": "2026-11-25T21:10:23.121Z",
+  "generatedAt": "2026-11-26T21:00:11.949Z",
   "items": [
     {
-      "headline": "How CAD geometry formats shape AI design output",
-      "background": "AI-generated 3D design tools are proliferating, but most designers using them don't understand the underlying geometric representations that determine what AI can and can't produce. This creates a gap between expectations and output quality.",
+      "headline": "Paper Moose redesigns MSF Australia's website",
+      "background": "Nonprofit and humanitarian organizations frequently struggle with digital presences that lag behind their operational credibility — outdated IA, poor donation flows, and weak storytelling. Agency refreshes of these sites are worth tracking for how they balance mission communication with conversion.",
       "keyFindings": [
-        "B-rep (Boundary Representation) defines solids by their surfaces and edges, making it the dominant format in precision engineering CAD tools like SolidWorks and CATIA",
-        "CSG (Constructive Solid Geometry) builds models by combining primitive shapes with boolean operations — simpler but less flexible for organic forms",
-        "NURBS curves allow mathematically smooth surfaces, which is why AI models trained on mesh data often produce geometry that looks right but fails manufacturing tolerances"
+        "Paper Moose completed a website refresh for Médecins Sans Frontières Australia",
+        "No specific design decisions, metrics, or outcomes are described in the available snippet"
       ],
-      "implications": "If you're working on AI-assisted design tools or evaluating them for engineering workflows, understanding which geometry format the AI outputs into matters enormously for downstream manufacturability. Models that output meshes instead of B-rep will require significant rework before CAM or FEA.",
+      "implications": "Without published case study details, this is a signal to watch for a follow-up case study rather than an actionable reference now. Useful context if you work on nonprofit or cause-driven digital products.",
       "tags": [
-        "CAD",
-        "AI tools",
-        "Generative Design"
+        "Nonprofit design",
+        "Agency work",
+        "Web redesign"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "HackerNoon",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTnJGSktCdl9fQWlkRGVGS2dFd2pzbjFnb3JTWmxlV3pxQXg4R1pCdm1abVl0UFdpNTVxRjg1TWJWZWQ5Y3ZCbDJYa253RURRc25IeGNick9CR09ULVMwbERIWmhMb0ZfZ3BzUUZNcGswQnktZWZYMzJhbHFHa1FvbW5ZdVhPcGkwUmtsYkZRNzliZkZwVzVxbTNSa1RKejBLVWZR?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 20:06:29 GMT"
+      "source": "AdNews",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbWRHQzZjbFRfdmJuczR0ZVJjYW5vMGhLSWtYdjIxXzZ1dFdVU2hOajVfV3BrZnNwNWNFSzJCdjdLcnlPUndQWUZOOVl6LWNqR0N5bHBOOG1xRV9ieWpxdXR0TnV3UlVjZV9sNGtSdlVKOTl0M3VsMUh3VnVWa295MVE0UjByaWdtM2Q1R2JPTmctdGxNUTdHc1JhYw?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 20:18:43 GMT"
     },
     {
-      "headline": "Three-second rule: packaging design that earns shelf trust",
-      "background": "With DTC products competing alongside retail SKUs in the same online scroll, packaging design is increasingly doing sales work that used to belong to store placement and reps. This piece lays out applied rules for label hierarchy and trust signaling.",
+      "headline": "MIT Sloan matrix maps when AI vs. humans should decide",
+      "background": "As AI agents take on more autonomous roles in products and organizations, teams lack practical frameworks for deciding which decisions should stay with humans and which can be delegated. MIT Sloan's framework attempts to structure this.",
       "keyFindings": [
-        "Legibility at a glance requires a single dominant typographic element — brand name or key claim — readable in under one second",
-        "Trust signals like certifications, ingredient callouts, or origin marks need to appear in the lower-right quadrant where the eye naturally lands last",
-        "Color contrast between background and text must pass WCAG AA minimums even on physical packaging, as most purchasing decisions now happen via product photography on screens"
+        "MIT Sloan published a decision-rights matrix for dividing authority between humans and AI agents",
+        "The framework addresses who decides whether to use the matrix itself — a second-order governance problem the piece flags as unresolved",
+        "The author finds the matrix functional but notes a structural blind spot in its own application"
       ],
-      "implications": "Designers working on CPG or wellness product packaging should pressure-test labels as compressed JPEGs at thumbnail size — not just in full-resolution mockups. What reads clearly at 300dpi often fails at 100x100px.",
+      "implications": "If you're designing AI-assisted workflows or autonomous agent features, this matrix is worth stress-testing — particularly around edge cases where the delegation decision itself is ambiguous. The meta-problem raised (who governs the governance tool) is a real design and policy gap.",
       "tags": [
-        "Packaging Design",
-        "Visual Hierarchy",
-        "E-commerce"
+        "AI governance",
+        "Decision design",
+        "Human-AI collaboration"
+      ],
+      "featured": true,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*gNjOCblTqGrXAys2oMLumw.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@pelicer/quem-decide-quando-a-ia-decide-6714eb85bc36?source=rss------ux-5",
+      "pubDate": "Thu, 26 Nov 2026 20:06:37 GMT"
+    },
+    {
+      "headline": "Ford didn't invent the car — and that matters for design thinking",
+      "background": "Design and product culture frequently attributes innovation to single inventors or companies, flattening the actual history of incremental development and systemic enablement. This piece uses Ford as a case study in that pattern.",
+      "keyFindings": [
+        "Henry Ford did not invent the automobile — a widespread misconception the piece directly corrects",
+        "The piece frames Ford's contribution as systemic and process-level rather than inventive",
+        "Published as part of a 'Design at Scale' series, suggesting the argument is applied toward organizational or systems design lessons"
+      ],
+      "implications": "Relevant for anyone framing innovation narratives in product strategy or design org culture — attribution myths can distort how teams think about where breakthrough value actually comes from.",
+      "tags": [
+        "Design history",
+        "Innovation",
+        "Product strategy"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1400/1*ZpafUgoKDcPiIn4UMk8IfA.jpeg",
+      "image": "https://cdn-images-1.medium.com/max/2500/1*8ci2i9n_ElewC7d0OxtqOw.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@neliscovich/5-simple-rules-for-beauty-wellness-and-product-packaging-that-sells-e8e16a3e9cdc?source=rss------product_design-5",
-      "pubDate": "Wed, 25 Nov 2026 19:53:14 GMT"
+      "link": "https://medium.com/design-at-scale/1-2-1-the-ford-model-bcd7687751b0?source=rss------product_design-5",
+      "pubDate": "Thu, 26 Nov 2026 20:01:02 GMT"
     },
     {
-      "headline": "Top UX research firms ranked for 2027 planning",
-      "background": "As UX research gets absorbed into AI-assisted tools and in-house ops teams, companies periodically reassess whether to outsource research and to whom. Listicles like this one serve procurement and team-building decisions.",
+      "headline": "How to UV-print a custom retro arcade controller shell",
+      "background": "DIY hardware customization and maker culture have grown alongside accessible UV printing and CNC tooling. This piece sits in the hobbyist/maker space rather than professional UX or product development.",
       "keyFindings": [
-        "The list includes firms specializing in moderated usability testing, diary studies, and eye-tracking — indicating demand for methods that AI tools don't yet reliably replace",
-        "Several ranked firms now offer hybrid models combining automated survey analysis with human synthesis",
-        "The ranking is sourced from Robotics & Automation News, a trade outlet not primarily focused on UX, which limits its methodological credibility"
+        "The project involves designing a UV-printed controller shell with pixel art and personalized text",
+        "Focuses on aesthetic customization rather than ergonomic or functional redesign",
+        "No research, testing methodology, or transferable UX process is described"
       ],
-      "implications": "Treat this as a starting-point vendor list rather than a vetted ranking — the outlet lacks the domain specificity to evaluate research quality rigorously. Cross-reference any firm here against UXPA directories and published case studies.",
+      "implications": "Not directly applicable to professional UX or product work. Of passing interest to designers who do hardware or physical product side projects.",
       "tags": [
-        "UX Research",
-        "Vendor Selection",
-        "Research Ops"
+        "Hardware design",
+        "Maker",
+        "Physical product"
       ],
       "featured": false,
-      "type": "research",
-      "category": "Industry news",
+      "type": "opinion",
+      "category": "Product design",
       "publishedWindow": "today",
-      "image": null,
-      "source": "Robotics & Automation News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2xYb05yWkZUQm1FQ2RzSkZvUG5kRTBtd0cxRUtIdDFFU2JLOVJUa01rTUpMXzJHSDNLWXRtU2tpcFdBaUh5ZmlBUy10VEp2cTFmV2xOSERhWktoTWFFaUtVNm9Gd1JNRDZSdFd2VElBM2FRdWYzM1puaFJ2dmlvM3lEclBnLWRydTVvZG40aEZ1OXA0?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 19:37:56 GMT"
+      "image": "https://cdn-images-1.medium.com/max/1536/0*aUDFeDmor2O1dmMt",
+      "source": "Product Design on Medium",
+      "link": "https://medium.com/@joncasreitzel/put-your-high-score-on-a-retro-arcade-controller-653504dfbffd?source=rss------product_design-5",
+      "pubDate": "Thu, 26 Nov 2026 19:51:01 GMT"
     },
     {
-      "headline": "Citymapper's ticket flow: design thinking case study",
-      "background": "Citymapper has long been praised for route-planning UX but has more recently moved into ticketing — a significantly harder interaction problem involving payment, transit authority APIs, and real-time validity. This is a bootcamp-level design thinking exercise analyzing that transition.",
+      "headline": "Audience research maps Braves fans' podcast discovery journey",
+      "background": "Sports franchises are increasingly investing in owned media including podcasts, but content teams often lack structured UX thinking about how audiences actually find, evaluate, and commit to listening. This piece applies journey mapping to that problem.",
       "keyFindings": [
-        "The case study identifies the shift from information delivery to transaction completion as the core UX challenge in Citymapper's product evolution",
-        "Bootcamp framing means analysis relies on design thinking methodology (empathy, define, ideate) rather than actual usability data",
-        "The piece does not include user testing results or behavioral metrics — findings are observational and hypothetical"
+        "The project used audience research and UX planning methods to map how Atlanta Braves fans discover and access podcast content",
+        "The work focuses on three stages: discovery, selection, and listening access",
+        "Applies conventional UX journey mapping frameworks to a sports media and content strategy context"
       ],
-      "implications": "Useful as a structured example of applying design thinking to a known product, but the lack of real research data means practitioners should not treat conclusions as validated. Better used as a teaching artifact than a reference for comparable product decisions.",
+      "implications": "A useful reference case for UX practitioners working on content platforms, media products, or audience development — shows how journey mapping transfers outside traditional app/web contexts. Methodology details would determine how replicable this is.",
       "tags": [
-        "Mobile UX",
-        "Interaction Design",
-        "Case Study"
+        "Journey mapping",
+        "Content strategy",
+        "Audience research"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Research",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1200/1*Fw-GtW_Q9DZ-tOf5Oj_yXg.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*7_eXIDDCBQ9G8HWkmpnvdQ.png",
       "source": "UX Research on Medium",
-      "link": "https://medium.com/@ngocs.socialmedia/citymapper-from-finding-the-route-to-getting-the-ticket-e8aa272ef00e?source=rss------ux_research-5",
-      "pubDate": "Wed, 25 Nov 2026 19:31:51 GMT"
+      "link": "https://medium.com/@ag08772/atlanta-braves-podcast-strategy-understanding-the-fan-journey-from-discovery-to-listening-11c1ad942fb5?source=rss------ux_research-5",
+      "pubDate": "Thu, 26 Nov 2026 19:07:49 GMT"
     },
     {
-      "headline": "AI prompts don't replace UX judgment — they rent it",
-      "background": "The UX bootcamp boom of the mid-2010s is now being reassessed as the job market tightened and AI tools began handling tasks that junior designers were hired to do. This piece argues the industry misidentified UX as a credential rather than a practice.",
+      "headline": "Young housing designer in Fife wins national recognition",
+      "background": "Awards recognizing emerging talent in built environment and housing design occasionally surface work worth noting, particularly when it involves innovation in affordable or community housing.",
       "keyFindings": [
-        "The author argues that AI prompts surface averaged, consensus-driven outputs — not design insight — because they're trained on what already exists",
-        "The 2015–2022 bootcamp model positioned UX as a salary destination rather than a discipline, leaving practitioners without craft foundations when market conditions shifted",
-        "Prompt-dependent designers are described as renting someone else's judgment rather than developing their own — making their output disposable at scale"
+        "A young designer based in Fife received a national Young Achiever award for housing design work",
+        "No specifics on the project, methodology, or design outcomes are available in the snippet"
       ],
-      "implications": "This is a pointed critique worth sitting with if you manage or hire junior designers. It implies that practitioners who can't articulate why a design decision is right — beyond 'the AI suggested it' — are structurally vulnerable. Invest in critique culture and design rationale documentation.",
+      "implications": "Insufficient detail available to draw professional takeaways. Not actionable for UX or product practitioners without further reporting.",
       "tags": [
-        "Design Practice",
+        "Housing design",
+        "Emerging talent"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Central Fife Times",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSTFJRThvaWVoeTg4NkVTVkEwVU5IS2xjdzFPb2hzb0tCQVhJejVQSFZOWE5JM3lnal9pREdTZUJtSGFMV2s5UFBZcUlleWVIZFpUQUUwZzhrY18wVFZPdGZadWZWTVlQeGZWb2U4RDBuOU11YjRjUnJxT3BtS2hFWFdfWVNIRXNidjFfREVDeHFKZmx6RHV0V3FZRjBGd2NsWWE1dUxRZEJTajg?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 17:23:19 GMT"
+    },
+    {
+      "headline": "Listicle ranks India's top dev team providers for 2027",
+      "background": "Vendor listicles for outsourced development are common content marketing. This one is dated 2027 despite appearing to be published now, a credibility signal worth noting.",
+      "keyFindings": [
+        "Lists ten dedicated development team providers based in India",
+        "Dated 2027 despite current publication — suggests speculative or SEO-driven framing rather than current reporting",
+        "No evaluation methodology or comparison criteria are described in the snippet"
+      ],
+      "implications": "Not a reliable reference for vendor selection. If you're evaluating development partners, primary research and direct RFPs will serve better than ranked listicles.",
+      "tags": [
+        "Outsourcing",
+        "Development teams",
+        "Vendor selection"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Inventiva",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnNDc0hvRVpXc2xleW9jUmdpMUR5eE85WEI2MHZFWF9SVHJ0VzBYRlAwZjRrM0doZW94YWFaYVpfdEV5Nzg5ZGxycW5TaXNVYjJMT0dSMGIxS1FqakNfTU5xYjVOOFNZQ0owX0FfQzdtZWwwcmJ0NHJrNkhxZTg2MlBRWVd4OUxjN2VDR05vQnVtSFMwQXREN25hdnk0U1U2TUo4?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 15:53:31 GMT"
+    },
+    {
+      "headline": "GDC survey puts PC first; Juego Studios plans Unity 2027 roadmap",
+      "background": "Annual GDC State of the Game Industry surveys are a standard benchmark for platform prioritization trends. Studios use these to inform engine choices and release planning.",
+      "keyFindings": [
+        "A GDC survey identifies PC as the top platform priority among developers",
+        "Juego Studios is using this data to shape Unity-based release planning through 2027",
+        "No specific roadmap details or Unity feature dependencies are described in the snippet"
+      ],
+      "implications": "If your product or tools target game developers, PC-first prioritization trends affect where to focus compatibility and testing resources. Unity shops planning multi-year roadmaps should cross-reference GDC data with their own audience split.",
+      "tags": [
+        "Game development",
+        "Platform strategy",
+        "Unity"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMG4tSHdaUjkwWlhxTm9qek44VDRMS0FsTXQyYXZ5QjBZMnhWb1gwdnYwVGZkaHc1NXpiOEpfT3ZibGJ6VWhOTE00cUNZdnZXdm1kcGt3ZVFJNDBkSzY0eFBlUUthVUlqUkw2bTFyQXFoSzgwcXZZUU84OHc2czUydzVYRm4zWnBSczBLaUg4MmtNeVcwUWhScmpYLS02QW5JWEpQVGNGUTlIY0xjNHRyRGtpbTBsUWxhWGNGUlpXOTRobGo2MlJxMEd2bTZmbGJtSUtPRA?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 14:57:08 GMT"
+    },
+    {
+      "headline": "AI tools help mobile teams validate product ideas faster",
+      "background": "Mobile app teams under pressure to shorten discovery cycles are increasingly using AI to accelerate market research — competitive analysis, survey synthesis, and demand validation. The tradeoffs in speed vs. rigor are underexplored.",
+      "keyFindings": [
+        "AI tools are being applied to market research tasks including idea validation for mobile app development",
+        "The piece focuses on speed of validation as the primary benefit",
+        "No specific tools, accuracy benchmarks, or failure modes are cited in the available snippet"
+      ],
+      "implications": "AI-assisted validation can compress timelines, but teams should be cautious about mistaking speed for depth — particularly in niche markets where training data coverage is thin. Useful framing for discovery process reviews.",
+      "tags": [
         "AI tools",
-        "Design Education"
+        "Market research",
+        "Mobile product"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "MobileAppDaily",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96MHRnSjRFRU1IVXU1WWZwVVNmTlYybDVrUmtwdk0wTXA5SF9SaUM3LUp5SGszemZvdlBDajdxaE14cnY3NDNEXzlMVzNySnJ0THJXb09CU2RzdEN0N25wajlwM2lncVFRb2tNZjdDcDkwUDk0bkE?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 14:10:32 GMT"
+    },
+    {
+      "headline": "93.6 Elo gap between Ming-Image versions: what it means in practice",
+      "background": "AI image model benchmarking uses Elo scoring systems borrowed from chess ranking to compare model performance, but translating Elo deltas into real-world design output quality differences is non-trivial and often misread.",
+      "keyFindings": [
+        "Ming-Image-0.2 outperforms 0.1-Design by 93.6 Elo points on benchmark evaluations",
+        "The piece interrogates what a gap of that size actually means for practical output quality — not just leaderboard position",
+        "Published via OrcaRouter, which aggregates model routing and benchmarking data"
+      ],
+      "implications": "For teams evaluating AI image models for design workflows, Elo scores are a starting point not a conclusion — task-specific testing on your actual use cases matters more than leaderboard rank. Worth reading if you're currently selecting or switching image generation tools.",
+      "tags": [
+        "AI image models",
+        "Benchmarking",
+        "Model evaluation"
       ],
       "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1408/1*PpMw0A8cEY0vszX8r3TXdw.jpeg",
-      "source": "UX on Medium",
-      "link": "https://medium.com/@bubapa/a-prompt-is-a-rented-opinion-cf5d71671807?source=rss------ux-5",
-      "pubDate": "Wed, 25 Nov 2026 19:10:32 GMT"
-    },
-    {
-      "headline": "Claude can code — but shipping a product is still hard",
-      "background": "AI coding assistants like Claude have dramatically compressed time-to-code, prompting debate about whether the remaining bottlenecks in product shipping — design, strategy, QA, ops — are now the real constraints. This piece examines what's left after the code writes itself.",
-      "keyFindings": [
-        "Code generation addresses roughly one layer of shipping: implementation. It does not replace product scoping, design decisions, QA, deployment configuration, or stakeholder alignment",
-        "The piece identifies 'vibes-driven shipping' — building whatever AI makes easy rather than what users need — as an emerging failure mode for AI-assisted teams",
-        "Claude specifically is noted for stronger architectural reasoning than some competitors, making it more useful for greenfield product work than iterative bug fixing"
-      ],
-      "implications": "For product teams adopting AI coding tools, the risk isn't replacing developers — it's mistaking build speed for product clarity. Use the time savings to invest more in discovery and definition, not just faster iteration on the wrong thing.",
-      "tags": [
-        "AI tools",
-        "Product Development",
-        "Developer Tools"
-      ],
-      "featured": true,
-      "type": "opinion",
-      "category": "UX",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2259/1*0wx4pIXe63UEeAosXQcHYA.png",
-      "source": "UX Planet - Medium",
-      "link": "https://uxplanet.org/claude-ship-can-ship-your-product-05c316808de5?source=rss----819cc2aaeee0---4",
-      "pubDate": "Wed, 25 Nov 2026 18:41:48 GMT"
-    },
-    {
-      "headline": "Consensus UX: when collective decision-making shapes interfaces",
-      "background": "Mainstream UX practice centers on designer or researcher authority determining what users need. Consensus UX proposes a more distributed, participatory model — drawing loosely on cybernetic theory and anarchist organizational principles.",
-      "keyFindings": [
-        "The piece frames cybernetic anarchism as a design philosophy where feedback loops replace top-down information hierarchies in product decision-making",
-        "Consensus-based UX processes are presented as alternatives to stakeholder-dominated roadmaps, with users and affected communities having structural input",
-        "No empirical case studies or deployment examples are cited — the argument is primarily theoretical"
-      ],
-      "implications": "Interesting as a provocation for teams doing participatory design or working in civic tech, but the absence of implementation evidence makes it difficult to operationalize. Worth reading critically alongside established co-design methodologies like those from IDEO or the Design Justice Network.",
-      "tags": [
-        "Participatory Design",
-        "Design Theory",
-        "Governance"
-      ],
-      "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "Aontacht Media",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9TMVZXeGxlcHlRNVVfN2dSUGEyajZQYkxNMW5UTUVjMzJ2ekJWVXVSVEtkdzN6T29mNERMRjRoUlRiUQ?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 18:18:27 GMT"
-    },
-    {
-      "headline": "Lovable AI explained: what it is and how credits work",
-      "background": "Lovable is a no-code/AI-assisted app builder that has gained traction among non-technical founders and designers. Its credit-based pricing model is non-obvious and has caused confusion among new users about what actions consume credits.",
-      "keyFindings": [
-        "Lovable uses a credit system where each AI generation action consumes credits — the number varies by complexity of the request, not just by action type",
-        "The platform is built on top of GPT-4 class models and targets users who want to ship functional prototypes without writing code",
-        "Credit costs are not shown in real-time before an action is confirmed, which creates unpredictable billing for users running multiple iterations"
-      ],
-      "implications": "If you're evaluating Lovable for rapid prototyping or client demos, map your expected iteration volume against the credit tier before committing. The lack of pre-action cost visibility makes it easy to burn through credits during exploratory sessions.",
-      "tags": [
-        "No-Code Tools",
-        "AI tools",
-        "Pricing Models"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeVpFSC1FYVh2V2NuOVcxV0gyVDRubFgzNnNrNHN2YnlXdm1sMnlxSlRmbjdLV3M1TGRMTFNXdldjRnd1Vi1yX29PRjhtSkxBcFV6YzJSeWgwanhYR3pISHY5WERsUFpGS29nSXRmcThyeFR0RlJUZjBFWGVzZnRJeVJ5R2hnT1EzZFgwaHFPcFl3Rllsb2QzNA?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 16:22:41 GMT"
-    },
-    {
-      "headline": "Heroic Games Launcher 3 adds Steam and Itch.io, redesigns UI",
-      "background": "Heroic is an open-source games launcher for Linux and Steam Deck that provides access to Epic and GOG libraries. Version 3 adds two major storefronts and ships a significant interface redesign — relevant to the growing population of Linux desktop users.",
-      "keyFindings": [
-        "Version 3 adds native Steam and Itch.io library integration alongside existing Epic and GOG support, consolidating four storefronts in one launcher",
-        "The new UI redesign moves to a sidebar navigation model, replacing the previous top-bar layout — consistent with platform conventions on desktop Linux",
-        "Steam Deck compatibility is a stated priority, with the new UI optimized for the device's 7-inch screen and gamepad navigation"
-      ],
-      "implications": "For designers or developers building tools targeting Linux desktop or Steam Deck users, Heroic's UI choices are worth studying — it's a rare example of an open-source project navigating both mouse and gamepad interaction paradigms in one interface.",
-      "tags": [
-        "Desktop UI",
-        "Open Source",
-        "Gaming"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Steam Deck HQ",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01MlUwaS01QlVCN1Q2b2dfcDVDVmZWQTAwUlJVdUJOcXFsMFJRYjFQSVhaU2I4Sl94WjByMGwxeU5nQjZmY1lRMDJlSTY5bm96RXlIR0FmNlVUdEtFV3diU3BTb2pTVEd6OUE?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 16:11:13 GMT"
-    },
-    {
-      "headline": "CD Projekt Red scales up Cyberpunk 2 development",
-      "background": "After Cyberpunk 2077's troubled 2020 launch and subsequent rehabilitation, CDPR is now in early development on its sequel. Studio headcount and hiring patterns are being tracked as indicators of project scope and timeline.",
-      "keyFindings": [
-        "CDPR is actively expanding teams across engineering, design, and narrative — suggesting the project has moved past pre-production into structured development",
-        "No release window has been announced; current signals point to a multi-year runway before launch",
-        "The studio is simultaneously maintaining Cyberpunk 2077 live ops and developing the next Witcher game, raising questions about resource allocation"
-      ],
-      "implications": "Limited direct relevance to UX/product practitioners. Tangentially relevant to those working in games UX or tracking AAA studio production models following high-profile launches and recoveries.",
-      "tags": [
-        "Game Development",
-        "Studio Operations",
-        "AAA Games"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "KitGuru",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2ZCZnJuZmRpR2VBUEZ5T1ZXYjExN2NNTXBtWFRiSFhOcThKVnMwUW05d3hIQ1F0aGNuaWtRaTA5dC1KYm4yLUhXYnRQc3loZnFFTEg5SFl3VUZIUEtId1hTdlVnek4tNk9Ybl9HNU9uWnRmUDdRd196dF9tNmJ3dWRjQTlHY3lpNkpHeGxlcm5faE5mNXNIX3pwTmQ0VWxx?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 14:46:03 GMT"
+      "source": "OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbklFZDVaajJ6azVBcXo1aEU1R3JmQ2w5Q3QyX0lnWXJ4VlU5RGx3dHpaN2dNYTV1VHAwa21mX0FVM1BEazlZUGdpcldlRURoaHJNU0NLbDlFSHV6bXF0ZkhVS3hneTFIS1RiZC14ejQya2RMby03bDVxUzFXcWJhcTk1WQ?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 13:56:00 GMT"
     }
   ]
 }
