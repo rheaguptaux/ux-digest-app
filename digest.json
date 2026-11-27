@@ -1,232 +1,233 @@
 {
-  "generatedAt": "2026-11-26T21:00:11.949Z",
+  "generatedAt": "2026-11-27T20:45:35.437Z",
   "items": [
     {
-      "headline": "Paper Moose redesigns MSF Australia's website",
-      "background": "Nonprofit and humanitarian organizations frequently struggle with digital presences that lag behind their operational credibility — outdated IA, poor donation flows, and weak storytelling. Agency refreshes of these sites are worth tracking for how they balance mission communication with conversion.",
+      "headline": "Rockstar on building GTA 6's development process",
+      "background": "GTA 6 is one of the most anticipated game releases in years, with Rockstar operating under unusual secrecy about its production. Details about how the studio actually built the game at a technical and design level have been scarce.",
       "keyFindings": [
-        "Paper Moose completed a website refresh for Médecins Sans Frontières Australia",
-        "No specific design decisions, metrics, or outcomes are described in the available snippet"
+        "Snippet provides no specific production details, findings, or design methodology — only a headline attribution to GamingBolt",
+        "No concrete claims about tools, team structure, or design decisions are available from this excerpt"
       ],
-      "implications": "Without published case study details, this is a signal to watch for a follow-up case study rather than an actionable reference now. Useful context if you work on nonprofit or cause-driven digital products.",
+      "implications": "Without access to the full article, nothing actionable can be extracted. If Rockstar's world-building or UI/UX decisions are covered in depth, it may be worth reading for open-world interaction design patterns — but this cannot be confirmed from the snippet.",
       "tags": [
-        "Nonprofit design",
-        "Agency work",
-        "Web redesign"
+        "Game Design",
+        "Open World",
+        "Production"
       ],
       "featured": false,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "AdNews",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbWRHQzZjbFRfdmJuczR0ZVJjYW5vMGhLSWtYdjIxXzZ1dFdVU2hOajVfV3BrZnNwNWNFSzJCdjdLcnlPUndQWUZOOVl6LWNqR0N5bHBOOG1xRV9ieWpxdXR0TnV3UlVjZV9sNGtSdlVKOTl0M3VsMUh3VnVWa295MVE0UjByaWdtM2Q1R2JPTmctdGxNUTdHc1JhYw?oc=5",
-      "pubDate": "Thu, 26 Nov 2026 20:18:43 GMT"
+      "source": "GamingBolt",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTHlYZ1lLWXlFbE5paVB4eDcybS11WHJvMGViMTE2RS1VaWVleGt3YjVfdFlNcUdoZXF4Y2gycVVjYkxGRTJGT29fallaU3ozRDVqSmVaQzNObkl6Qll1dDdnSUtwdUhUSkpHV1hvTTA2bktSWmlQY2hDdFIxZllGTkw3eTd0eE9FdVU1MHgyTW1PUzF3RXc?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 20:28:14 GMT"
     },
     {
-      "headline": "MIT Sloan matrix maps when AI vs. humans should decide",
-      "background": "As AI agents take on more autonomous roles in products and organizations, teams lack practical frameworks for deciding which decisions should stay with humans and which can be delegated. MIT Sloan's framework attempts to structure this.",
+      "headline": "Run lean usability tests with five people and a video call",
+      "background": "Many product teams skip usability testing because they assume it requires dedicated research labs, recruiters, or significant budget. This creates a gap where design problems go undetected until post-launch.",
       "keyFindings": [
-        "MIT Sloan published a decision-rights matrix for dividing authority between humans and AI agents",
-        "The framework addresses who decides whether to use the matrix itself — a second-order governance problem the piece flags as unresolved",
-        "The author finds the matrix functional but notes a structural blind spot in its own application"
+        "Five participants is sufficient to surface the majority of usability problems in a session",
+        "A basic task prompt and video call are the only required tools",
+        "The core discipline is observer restraint — not prompting or rescuing users during tasks"
       ],
-      "implications": "If you're designing AI-assisted workflows or autonomous agent features, this matrix is worth stress-testing — particularly around edge cases where the delegation decision itself is ambiguous. The meta-problem raised (who governs the governance tool) is a real design and policy gap.",
+      "implications": "This approach is immediately usable by solo designers or small teams with no research budget. The main risk is sampling bias if participants are not representative of real users — recruit carefully even when recruiting informally.",
       "tags": [
-        "AI governance",
-        "Decision design",
-        "Human-AI collaboration"
+        "Usability Testing",
+        "Research Methods",
+        "Low-Budget Research"
       ],
-      "featured": true,
+      "featured": false,
       "type": "opinion",
       "category": "UX",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1200/1*gNjOCblTqGrXAys2oMLumw.png",
+      "image": "https://cdn-images-1.medium.com/max/600/0*A1AYdQGQ9aI4HDre.png",
       "source": "UX on Medium",
-      "link": "https://medium.com/@pelicer/quem-decide-quando-a-ia-decide-6714eb85bc36?source=rss------ux-5",
-      "pubDate": "Thu, 26 Nov 2026 20:06:37 GMT"
+      "link": "https://medium.com/@anyrxo/run-cheap-usability-tests-with-a-video-call-a-task-and-five-people-bcaad57c7032?source=rss------ux-5",
+      "pubDate": "Fri, 27 Nov 2026 20:01:01 GMT"
     },
     {
-      "headline": "Ford didn't invent the car — and that matters for design thinking",
-      "background": "Design and product culture frequently attributes innovation to single inventors or companies, flattening the actual history of incremental development and systemic enablement. This piece uses Ford as a case study in that pattern.",
+      "headline": "Seven app UX mistakes that drive users to uninstall",
+      "background": "App abandonment at first launch remains a persistent problem — a significant share of downloaded apps are used once and deleted. Most causes trace back to onboarding and early interaction design failures.",
       "keyFindings": [
-        "Henry Ford did not invent the automobile — a widespread misconception the piece directly corrects",
-        "The piece frames Ford's contribution as systemic and process-level rather than inventive",
-        "Published as part of a 'Design at Scale' series, suggesting the argument is applied toward organizational or systems design lessons"
+        "Confusion at first open is a leading trigger for immediate uninstall",
+        "The piece identifies seven recurring failure patterns, though the snippet does not enumerate them specifically",
+        "Poor initial clarity about what the app does or what to do first is cited as a primary issue"
       ],
-      "implications": "Relevant for anyone framing innovation narratives in product strategy or design org culture — attribution myths can distort how teams think about where breakthrough value actually comes from.",
+      "implications": "Teams shipping new apps should prioritize zero-state design and first-launch flows before optimizing later screens. Without the full article's list, treat this as a prompt to audit your own onboarding against known drop-off points.",
       "tags": [
-        "Design history",
-        "Innovation",
-        "Product strategy"
+        "Onboarding",
+        "Mobile Apps",
+        "Retention"
+      ],
+      "featured": false,
+      "type": "opinion",
+      "category": "UX",
+      "publishedWindow": "today",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*Mhyx2Yvh31gD2OaCoZHoAQ.png",
+      "source": "UX on Medium",
+      "link": "https://medium.com/@kanishkumar5555/7-common-ux-mistakes-that-make-users-leave-your-app-1be3b5f5a731?source=rss------ux-5",
+      "pubDate": "Fri, 27 Nov 2026 19:43:10 GMT"
+    },
+    {
+      "headline": "Human values in LLMs shape voice AI behavior more than prompts",
+      "background": "As voice-first AI companions enter consumer and enterprise products, teams are discovering that model behavior is shaped not just by prompts and fine-tuning but by the values baked into training — often invisibly.",
+      "keyFindings": [
+        "LLM conversational behavior reflects embedded human value judgments that product teams did not explicitly choose",
+        "Defining success metrics for AI companions requires deciding what values the product should embody, not just what tasks it should complete",
+        "Voice-first interfaces surface value misalignments more acutely than text interfaces because tone and affect are harder to mask"
+      ],
+      "implications": "Product and UX teams building on top of LLMs need to audit model defaults for value assumptions — especially in sensitive use cases like mental health, elder care, or children's products. This is a design and ethics problem, not just an engineering one.",
+      "tags": [
+        "Conversational AI",
+        "Voice Interfaces",
+        "AI Ethics"
       ],
       "featured": false,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2500/1*8ci2i9n_ElewC7d0OxtqOw.png",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*q3l16AE90u5LdNYmpJ8vew.png",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/design-at-scale/1-2-1-the-ford-model-bcd7687751b0?source=rss------product_design-5",
-      "pubDate": "Thu, 26 Nov 2026 20:01:02 GMT"
+      "link": "https://medium.com/@artemary/building-an-ai-companion-how-llms-see-the-world-through-human-values-99087c2bc357?source=rss------product_design-5",
+      "pubDate": "Fri, 27 Nov 2026 18:55:48 GMT"
     },
     {
-      "headline": "How to UV-print a custom retro arcade controller shell",
-      "background": "DIY hardware customization and maker culture have grown alongside accessible UV printing and CNC tooling. This piece sits in the hobbyist/maker space rather than professional UX or product development.",
+      "headline": "AI coding tools raise output volume but not delivery rate",
+      "background": "A widely circulated concern in engineering and product circles is that AI coding assistants increase raw code production without necessarily accelerating meaningful feature delivery or reducing defects. This Harvard study offers empirical grounding for that concern.",
       "keyFindings": [
-        "The project involves designing a UV-printed controller shell with pixel art and personalized text",
-        "Focuses on aesthetic customization rather than ergonomic or functional redesign",
-        "No research, testing methodology, or transferable UX process is described"
+        "A study of approximately 700 software firms found AI coding agents increased lines of code written by roughly 30%",
+        "The increase in code volume did not correspond to an increase in completed, shippable work",
+        "The author argues design work faces an analogous risk — more outputs generated faster without more problems solved"
       ],
-      "implications": "Not directly applicable to professional UX or product work. Of passing interest to designers who do hardware or physical product side projects.",
+      "implications": "For product and UX leaders, this is a caution against using output volume as a proxy for productivity when AI tools are in use. Measurement frameworks need to track outcomes — shipped features, resolved user problems — not artifacts generated. Design is explicitly flagged as the next domain where this dynamic will play out.",
       "tags": [
-        "Hardware design",
-        "Maker",
-        "Physical product"
+        "AI Tools",
+        "Productivity Metrics",
+        "Design Operations"
       ],
-      "featured": false,
+      "featured": true,
       "type": "opinion",
       "category": "Product design",
       "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/1536/0*aUDFeDmor2O1dmMt",
+      "image": "https://cdn-images-1.medium.com/max/1600/0*Y7jNO_jCASizRqhM",
       "source": "Product Design on Medium",
-      "link": "https://medium.com/@joncasreitzel/put-your-high-score-on-a-retro-arcade-controller-653504dfbffd?source=rss------product_design-5",
-      "pubDate": "Thu, 26 Nov 2026 19:51:01 GMT"
+      "link": "https://medium.com/@artem_19387/30-more-code-zero-more-finished-work-design-is-next-f3db53c10dfa?source=rss------product_design-5",
+      "pubDate": "Fri, 27 Nov 2026 18:13:34 GMT"
     },
     {
-      "headline": "Audience research maps Braves fans' podcast discovery journey",
-      "background": "Sports franchises are increasingly investing in owned media including podcasts, but content teams often lack structured UX thinking about how audiences actually find, evaluate, and commit to listening. This piece applies journey mapping to that problem.",
+      "headline": "NHS pharmacy app fragmentation leaves patients without prescriptions",
+      "background": "Digital prescription and pharmacy services in the UK have expanded rapidly, but integration between apps, systems, and in-store pharmacy workflows has not kept pace. Patients are caught between disconnected systems.",
       "keyFindings": [
-        "The project used audience research and UX planning methods to map how Atlanta Braves fans discover and access podcast content",
-        "The work focuses on three stages: discovery, selection, and listening access",
-        "Applies conventional UX journey mapping frameworks to a sports media and content strategy context"
+        "A patient needed to navigate five separate apps and contact three pharmacists to retrieve a single prescription code",
+        "The failure was systemic — no single app or pharmacist had complete visibility into the prescription status",
+        "The experience illustrates how backend fragmentation becomes a front-end usability crisis for end users"
       ],
-      "implications": "A useful reference case for UX practitioners working on content platforms, media products, or audience development — shows how journey mapping transfers outside traditional app/web contexts. Methodology details would determine how replicable this is.",
+      "implications": "This is a concrete case study in what happens when service design is not considered alongside product design. For anyone working in health tech or multi-stakeholder digital services, it underscores that seamless UX requires interoperability agreements, not just good interface design.",
       "tags": [
-        "Journey mapping",
-        "Content strategy",
-        "Audience research"
-      ],
-      "featured": false,
-      "type": "opinion",
-      "category": "Research",
-      "publishedWindow": "today",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*7_eXIDDCBQ9G8HWkmpnvdQ.png",
-      "source": "UX Research on Medium",
-      "link": "https://medium.com/@ag08772/atlanta-braves-podcast-strategy-understanding-the-fan-journey-from-discovery-to-listening-11c1ad942fb5?source=rss------ux_research-5",
-      "pubDate": "Thu, 26 Nov 2026 19:07:49 GMT"
-    },
-    {
-      "headline": "Young housing designer in Fife wins national recognition",
-      "background": "Awards recognizing emerging talent in built environment and housing design occasionally surface work worth noting, particularly when it involves innovation in affordable or community housing.",
-      "keyFindings": [
-        "A young designer based in Fife received a national Young Achiever award for housing design work",
-        "No specifics on the project, methodology, or design outcomes are available in the snippet"
-      ],
-      "implications": "Insufficient detail available to draw professional takeaways. Not actionable for UX or product practitioners without further reporting.",
-      "tags": [
-        "Housing design",
-        "Emerging talent"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Central Fife Times",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSTFJRThvaWVoeTg4NkVTVkEwVU5IS2xjdzFPb2hzb0tCQVhJejVQSFZOWE5JM3lnal9pREdTZUJtSGFMV2s5UFBZcUlleWVIZFpUQUUwZzhrY18wVFZPdGZadWZWTVlQeGZWb2U4RDBuOU11YjRjUnJxT3BtS2hFWFdfWVNIRXNidjFfREVDeHFKZmx6RHV0V3FZRjBGd2NsWWE1dUxRZEJTajg?oc=5",
-      "pubDate": "Thu, 26 Nov 2026 17:23:19 GMT"
-    },
-    {
-      "headline": "Listicle ranks India's top dev team providers for 2027",
-      "background": "Vendor listicles for outsourced development are common content marketing. This one is dated 2027 despite appearing to be published now, a credibility signal worth noting.",
-      "keyFindings": [
-        "Lists ten dedicated development team providers based in India",
-        "Dated 2027 despite current publication — suggests speculative or SEO-driven framing rather than current reporting",
-        "No evaluation methodology or comparison criteria are described in the snippet"
-      ],
-      "implications": "Not a reliable reference for vendor selection. If you're evaluating development partners, primary research and direct RFPs will serve better than ranked listicles.",
-      "tags": [
-        "Outsourcing",
-        "Development teams",
-        "Vendor selection"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "Inventiva",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnNDc0hvRVpXc2xleW9jUmdpMUR5eE85WEI2MHZFWF9SVHJ0VzBYRlAwZjRrM0doZW94YWFaYVpfdEV5Nzg5ZGxycW5TaXNVYjJMT0dSMGIxS1FqakNfTU5xYjVOOFNZQ0owX0FfQzdtZWwwcmJ0NHJrNkhxZTg2MlBRWVd4OUxjN2VDR05vQnVtSFMwQXREN25hdnk0U1U2TUo4?oc=5",
-      "pubDate": "Thu, 26 Nov 2026 15:53:31 GMT"
-    },
-    {
-      "headline": "GDC survey puts PC first; Juego Studios plans Unity 2027 roadmap",
-      "background": "Annual GDC State of the Game Industry surveys are a standard benchmark for platform prioritization trends. Studios use these to inform engine choices and release planning.",
-      "keyFindings": [
-        "A GDC survey identifies PC as the top platform priority among developers",
-        "Juego Studios is using this data to shape Unity-based release planning through 2027",
-        "No specific roadmap details or Unity feature dependencies are described in the snippet"
-      ],
-      "implications": "If your product or tools target game developers, PC-first prioritization trends affect where to focus compatibility and testing resources. Unity shops planning multi-year roadmaps should cross-reference GDC data with their own audience split.",
-      "tags": [
-        "Game development",
-        "Platform strategy",
-        "Unity"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "The Detroit News",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMG4tSHdaUjkwWlhxTm9qek44VDRMS0FsTXQyYXZ5QjBZMnhWb1gwdnYwVGZkaHc1NXpiOEpfT3ZibGJ6VWhOTE00cUNZdnZXdm1kcGt3ZVFJNDBkSzY0eFBlUUthVUlqUkw2bTFyQXFoSzgwcXZZUU84OHc2czUydzVYRm4zWnBSczBLaUg4MmtNeVcwUWhScmpYLS02QW5JWEpQVGNGUTlIY0xjNHRyRGtpbTBsUWxhWGNGUlpXOTRobGo2MlJxMEd2bTZmbGJtSUtPRA?oc=5",
-      "pubDate": "Thu, 26 Nov 2026 14:57:08 GMT"
-    },
-    {
-      "headline": "AI tools help mobile teams validate product ideas faster",
-      "background": "Mobile app teams under pressure to shorten discovery cycles are increasingly using AI to accelerate market research — competitive analysis, survey synthesis, and demand validation. The tradeoffs in speed vs. rigor are underexplored.",
-      "keyFindings": [
-        "AI tools are being applied to market research tasks including idea validation for mobile app development",
-        "The piece focuses on speed of validation as the primary benefit",
-        "No specific tools, accuracy benchmarks, or failure modes are cited in the available snippet"
-      ],
-      "implications": "AI-assisted validation can compress timelines, but teams should be cautious about mistaking speed for depth — particularly in niche markets where training data coverage is thin. Useful framing for discovery process reviews.",
-      "tags": [
-        "AI tools",
-        "Market research",
-        "Mobile product"
-      ],
-      "featured": false,
-      "type": "research",
-      "category": "Industry news",
-      "publishedWindow": "today",
-      "image": null,
-      "source": "MobileAppDaily",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96MHRnSjRFRU1IVXU1WWZwVVNmTlYybDVrUmtwdk0wTXA5SF9SaUM3LUp5SGszemZvdlBDajdxaE14cnY3NDNEXzlMVzNySnJ0THJXb09CU2RzdEN0N25wajlwM2lncVFRb2tNZjdDcDkwUDk0bkE?oc=5",
-      "pubDate": "Thu, 26 Nov 2026 14:10:32 GMT"
-    },
-    {
-      "headline": "93.6 Elo gap between Ming-Image versions: what it means in practice",
-      "background": "AI image model benchmarking uses Elo scoring systems borrowed from chess ranking to compare model performance, but translating Elo deltas into real-world design output quality differences is non-trivial and often misread.",
-      "keyFindings": [
-        "Ming-Image-0.2 outperforms 0.1-Design by 93.6 Elo points on benchmark evaluations",
-        "The piece interrogates what a gap of that size actually means for practical output quality — not just leaderboard position",
-        "Published via OrcaRouter, which aggregates model routing and benchmarking data"
-      ],
-      "implications": "For teams evaluating AI image models for design workflows, Elo scores are a starting point not a conclusion — task-specific testing on your actual use cases matters more than leaderboard rank. Worth reading if you're currently selecting or switching image generation tools.",
-      "tags": [
-        "AI image models",
-        "Benchmarking",
-        "Model evaluation"
+        "Health Tech",
+        "Service Design",
+        "Interoperability"
       ],
       "featured": true,
       "type": "research",
       "category": "Industry news",
       "publishedWindow": "today",
       "image": null,
-      "source": "OrcaRouter",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbklFZDVaajJ6azVBcXo1aEU1R3JmQ2w5Q3QyX0lnWXJ4VlU5RGx3dHpaN2dNYTV1VHAwa21mX0FVM1BEazlZUGdpcldlRURoaHJNU0NLbDlFSHV6bXF0ZkhVS3hneTFIS1RiZC14ejQya2RMby03bDVxUzFXcWJhcTk1WQ?oc=5",
-      "pubDate": "Thu, 26 Nov 2026 13:56:00 GMT"
+      "source": "Health Services Daily",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbk5Hbld2R0RaM0FNLU1LUlNJV3dNR3ZPTEk3ZzJzLWVrQkRkWnJ6NzVvRy1Xd2RRR0YxQVFfNm9XUXZkSUlCSDBwclBqQmtGYlpGWTE4R0hSVlltbGRodThPa0tzTENELV9rWEJIcFI5a0NrN1NDMFgxQm5WQTI5Zi0xNkJKVkh2QnBUQ2RUVFBvUE5KQnFTaw?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 17:54:00 GMT"
+    },
+    {
+      "headline": "Nielsen Norman Group's foundational usability testing primer",
+      "background": "Usability testing is frequently misunderstood — conflated with surveys, A/B tests, or expert reviews. The NN/g 101 resource addresses the core method for practitioners new to research or teams without dedicated researchers.",
+      "keyFindings": [
+        "Usability testing is defined specifically as observing real people attempting real tasks with a design — not collecting opinions",
+        "The method is positioned as learnable by any product team member, not just trained researchers",
+        "The focus is on uncovering problems and opportunities, distinguishing it from validation or preference testing"
+      ],
+      "implications": "Useful as an onboarding reference for new team members or a shared definition to align cross-functional teams on what usability testing actually is. Does not replace more advanced research training for complex study design.",
+      "tags": [
+        "Usability Testing",
+        "Research Methods",
+        "UX Fundamentals"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Research",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "NN/g latest articles and announcements",
+      "link": "https://www.nngroup.com/articles/usability-testing-101/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 27 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "headline": "Designers in 2027 need systems thinking beyond Figma and AI",
+      "background": "As AI tools automate more routine design tasks and Figma-proficiency becomes table stakes, there is active debate in the design community about which skills will differentiate designers in the next few years.",
+      "keyFindings": [
+        "The piece argues Figma and AI fluency are necessary but insufficient for future competitiveness",
+        "Skills flagged as increasingly critical include systems thinking, cross-disciplinary collaboration, and strategic product reasoning",
+        "The source is ITMO University, a Russian technical institution — context worth noting when evaluating perspective and audience"
+      ],
+      "implications": "For designers building skill roadmaps, the signal here is consistent with broader industry conversation: execution tools are commoditizing, and value will shift toward judgment, systems-level thinking, and business literacy. Treat the specific 2027 framing with appropriate skepticism.",
+      "tags": [
+        "Design Skills",
+        "Career Development",
+        "Design Strategy"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Университет ИТМО",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yOEJvZmpuaEVEZTJkZkRaaTZQaUVpMk9HMmF2OW9zMmF6cTdfZEp2Tlo4UlV1ekhsY1pHRzg1NmQ0SzZsUHR4bUJhSzFNR182aERmeVYyOUdfa0o4di1meA?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 16:16:17 GMT"
+    },
+    {
+      "headline": "Off-target CRISPR detection assay market forecast to 2035",
+      "background": "CRISPR-based gene therapies face regulatory and safety scrutiny around off-target edits — unintended DNA modifications that could cause harm. Assay kits that detect these errors are a growing market segment.",
+      "keyFindings": [
+        "The off-target detection assay market is forecast to grow through 2035 driven by CRISPR gene therapy safety requirements",
+        "Regulatory safety profiling is cited as the primary demand driver",
+        "Source is IndexBox, a market research firm — findings are commercial forecast data, not peer-reviewed science"
+      ],
+      "implications": "Not relevant to UX, product, or tech practice. This article does not belong in this digest.",
+      "tags": [
+        "Biotech",
+        "Market Research"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOckZsYVA1ckdCcTREMUduRFdwaXc5QndidGt4X2VTb2ZuUWVDMm9QN3p3dVVEN3NZa2JDcEZaT0JZVlhiWkw3MUJFLW1uNllqZWg3TlRyWUdWUUZpRTZQLW5hSEtnTUpNSl94RDdQMkE1dEF5NXczWnktMDA5M1p1RnFwTU1Rem9RSGJ6VnhjREFqTy1XSDJaNFBEdS1MWVRqTl80NzhLTlpmSUxSOUNUOXh3Vndoa3VsaTFRSWxKcDlrbk9TZVU5bFRiLXk?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 15:36:05 GMT"
+    },
+    {
+      "headline": "Skin-based input turns your forearm into a smartwatch trackpad",
+      "background": "Smartwatch input is constrained by screen size, making complex interactions awkward. Researchers have been exploring ways to extend the input surface beyond the watch face itself.",
+      "keyFindings": [
+        "Researchers developed a system that uses the forearm skin as a touch-sensitive trackpad for smartwatch control",
+        "The technique detects touch input on the arm and maps it to on-screen actions on the paired watch",
+        "The approach requires no additional wearable hardware beyond the watch itself, relying on sensor data interpretation"
+      ],
+      "implications": "For wearable UX designers, this points toward a near-future where input surface and display surface are decoupled — which has significant implications for interaction model design. Still research-stage, but worth tracking as a constraint-breaker for small-screen device design.",
+      "tags": [
+        "Wearables",
+        "Input Methods",
+        "Interaction Design"
+      ],
+      "featured": false,
+      "type": "research",
+      "category": "Industry news",
+      "publishedWindow": "today",
+      "image": null,
+      "source": "Core77",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVl9xQ3NPR2lKMm9fZksxU1Ztb1k0SUxfbWF4R083N2h0STBPV3dpRExTeWs2dU1WLTZfVzhNdXhXOEhwTmVuRG9TRXhBSnVQN1JkZ2o3dHFrN3RGcEhfSUdUX25sdEFmclpMUEhmcDNCUXlZQWZ2TjhPMTY2YzR6RUFzd3gta1R6Y1NjcE9HYkR6cnh6NDhhZ0o2c3FCX3BDY1EzaWdydUR4Zw?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 14:03:45 GMT"
     }
   ]
 }
